@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118182326MS.txt" extractionDate="2021-03-22T09:43:07Z">
+<doi>10.2118/182326-MS</doi>
+<pii>10.2118/182326-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">The Pyrenees oil development is located in the Exmouth Sub-basin 20 kilometres offshore from the North West Cape of Western Australia in water depths of up to 250 metres. The development currently consists of 21 subsea wells producing from the Ravensworth, Crosby, Stickle, Tanglehead, Wild Bull and Moondyne oil reservoirs. These wells are tied back by means of production flowlines and flexible risers to a Floating Production Storage and Offtake (FPSO) vessel located adjacent to the field (Figure 1).</anchoringText>
+<image-wrap id="102118182326MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118182326MS_i_1.tif" id="ImgLink-1" />
+<caption>Pyrenees Development</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Pyrenees Development</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">When flowed, this film creates friction around the droplets between the dispersed phase and the film as well as the continuous phase and the film. It is this additional interfacial friction which causes an oil-water emulsion to have a higher viscosity than that of its components. Arirachakaran et al. (1989) noted that the apparent viscosity of an emulsion varied empirically with the volume fraction of water (water cut). This phenomenon is shown in Figure 2.</anchoringText>
+<image-wrap id="102118182326MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118182326MS_i_2.tif" id="ImgLink-2" />
+<caption>Emulsion viscosity regimes (Adapted from Arirachakaran et al., 1989)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Emulsion viscosity regimes (Adapted from <link href="BIB1">Arirachakaran et al., 1989</link> )</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-23" type="bib">
+<bib id="BIB1">
+<label>Arirachakaran et al., 1989</label>
+<author>
+<first-name>S.</first-name>
+<last-name>Arirachakaran</last-name>
+</author>, <author>
+<first-name>K.</first-name>
+<last-name>Oglesby</last-name>
+</author>, <author>
+<first-name>M.</first-name>
+<last-name>Malinowsky</last-name>
+</author>, <author>
+<first-name>O.</first-name>
+<last-name>Shoham</last-name>
+</author> and <author>
+<first-name>J.</first-name>
+<last-name>Brill</last-name>
+</author>
+<pubDate>1989</pubDate>. <article-title>An Analysis of Oil/Water Flow Phenomena in Horizontal Pipes. Presented at the SPE Production Operations Symposium, Oklahoma City, Oklahoma, 13-14 March </article-title>. SPE-18836-MS. http://dx.doi.org/10.2118/18836-ms.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">The first observation to be made from the previous discussion is that the emulsion viscosity comes to a maximum at the inversion point. At water cuts lower than this, oil forms the continuous phase while water is present as droplets (WIO). Above this water cut, the emulsion is inverted with the continuous and dispersed phases being reversed (OIW). This occurs simply because of the relative proportions of oil and water present in the mixture (Woelfin 1942). Note that the WIO emulsion viscosity (below inversion) is in general higher than the OIW viscosity (after inversion). This phenomenon is explained by the orientation of the emulsion films in WIO and OIW emulsions – as in Figure 3.</anchoringText>
+<image-wrap id="102118182326MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118182326MS_i_3.tif" id="ImgLink-3" />
+<caption>Orientation of surfactants in micelles of WIO and OIW emulsions</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Orientation of surfactants in micelles of WIO and OIW emulsions</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">As yet, there are no theoretical models in place to accurately predict the entire emulsion viscosity curve (Ersoy et al. 2009). In practice (and in the case of the Pyrenees development), the emulsion viscosity curve is generated in a laboratory (Figure 4). Representative oil and brine samples are combined in proportions from 0-100% water cut and mixed as per the ASTM D-1401-12 standard.</anchoringText>
+<image-wrap id="102118182326MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118182326MS_i_4.tif" id="ImgLink-4" />
+<caption>Laboratory emulsion viscosity measurement workflow</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Laboratory emulsion viscosity measurement workflow</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">Multiphase flow simulators are widely used in the petroleum industry to optimise production performance. One of their key features is the ability to predict the pressure drop along a well or pipeline due to the flow of fluids. The general process followed by such a simulator is shown in Figure 5.</anchoringText>
+<image-wrap id="102118182326MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118182326MS_i_5.tif" id="ImgLink-5" />
+<caption>Typical pressure drop correlation workflow</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Typical pressure drop correlation workflow</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">The appropriate PVT definitions, well deviation surveys and completion schematics are readily available in models for each well in the development. The remaining data is measured through the use of Multiphase Flow Meters (MPFMs) and pressure/temperature gauges at the wellhead and down the tubing shown in Figure 6. The area of interest of this study is thus the tubing between the wellhead and downhole gauge.</anchoringText>
+<image-wrap id="102118182326MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118182326MS_i_6.tif" id="ImgLink-6" />
+<caption>Pyrenees well schematic with production data measurements</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Pyrenees well schematic with production data measurements</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">From Figures 7-9, it is apparent that a trend for emulsion viscosity exists for each well (indicated by the inferred field curves). This trend matches that identified by Arirachakaran et al. (1989) with the classic "build and drop" of the emulsion viscosity as water cut increases.</anchoringText>
+<image-wrap id="102118182326MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118182326MS_i_7.tif" id="ImgLink-7" />
+<caption>Crosby field Emulsion Viscosity Curve</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Crosby field Emulsion Viscosity Curve</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">From Figures 7-9, it is apparent that a trend for emulsion viscosity exists for each well (indicated by the inferred field curves). This trend matches that identified by Arirachakaran et al. (1989) with the classic "build and drop" of the emulsion viscosity as water cut increases.</anchoringText>
+<image-wrap id="102118182326MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118182326MS_i_8.tif" id="ImgLink-8" />
+<caption>Ravensworth field Emulsion Viscosity Curve</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Ravensworth field Emulsion Viscosity Curve</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">From Figures 7-9, it is apparent that a trend for emulsion viscosity exists for each well (indicated by the inferred field curves). This trend matches that identified by Arirachakaran et al. (1989) with the classic "build and drop" of the emulsion viscosity as water cut increases.</anchoringText>
+<image-wrap id="102118182326MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118182326MS_i_9.tif" id="ImgLink-9" />
+<caption>Stickle field Emulsion Viscosity Curve</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Stickle field Emulsion Viscosity Curve</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">The emulsion viscosity curve can thus be separated into three sections; low, mid and post inversion. At low (&#x003C;35%) producing water cuts, the calculated emulsion viscosity matches well with the value measured in the laboratory. During this period, oil and water flow is generally very stable, with fluctuations in water cut muted to within ±1-2% of the producing average (Figure 10). As a result, the fluid in the well can be considered as homogenous, similar to the well-mixed emulsion which is tested in the laboratory.</anchoringText>
+<image-wrap id="102118182326MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118182326MS_i_10.tif" id="ImgLink-10" />
+<caption>Early production water cut fluctuation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Early production water cut fluctuation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">The differences between the lab and field derived emulsion viscosity curves for medium water cuts (&#x003E;35%) until inversion are likely due to different volumes of investigation. When prepared in the lab, small samples of oil and brine are mixed into a homogenous emulsion with discrete water cut (Figure 11).</anchoringText>
+<image-wrap id="102118182326MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118182326MS_i_11.tif" id="ImgLink-11" />
+<caption>Pyrenees laboratory emulsions of varying water cut</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Pyrenees laboratory emulsions of varying water cut</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">The flow regime predicted by the Petroleum Experts 6 correlation in this section of the well is almost always slug flow. In this regime, each slug of liquid may contain a varying water cut (Figure 12a). As a result, the producing fluid in the well is heterogeneous, with each slug composed of an emulsion of different water cut and thus viscosity. This observation has been confirmed by viewing the output of the multiphase flow meters which indicate that the instantaneous water cut can vary by as much as ±10% even at "stable" conditions (Figure 12b).</anchoringText>
+<image-wrap id="102118182326MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118182326MS_i_12.tif" id="ImgLink-12" />
+<caption>Heteregeneous distribution of water cuts along well tubing due to flow regimes: a) Pipe cross section; b) Measurement at multiphase flow meter</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Heteregeneous distribution of water cuts along well tubing due to flow regimes: a) Pipe cross section; b) Measurement at multiphase flow meter</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182326MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118182326MS_i_12a.tif" id="ImgLink-12a" />
+<figure-specific-caption>
+<caption-order>a)</caption-order>
+<caption-text>Pipe cross section</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182326MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118182326MS_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-order>b)</caption-order>
+<caption-text>Measurement at multiphase flow meter</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">This effect can be seen in Figure 13 when considering a 20 period (±10% water cut) moving average of the lab viscosity curve for Ravensworth. The effect of the water cut fluctuation above and below the average is to "smooth" the lab curve taken under homogenous conditions resulting in a curve similar to that obtained from the field data (lower viscosity, but later inversion). Similar plots for Crosby and Stickle are presented in Appendix B. Therefore, by measuring the fluctuation in instantaneous water cut of the wellbore fluid, it may be possible to correct the laboratory curve to reflect the heterogeneous flow occurring in reality.</anchoringText>
+<image-wrap id="102118182326MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118182326MS_i_13.tif" id="ImgLink-13" />
+<caption>Ravensworth Field vs. Laboratory derived emulsion viscosity curve</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Ravensworth Field vs. Laboratory derived emulsion viscosity curve</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr14">Also noteworthy is that the post inversion viscosities do not appear to reduce to that of a completely separated oil-water fluid stream (volume weighted average viscosity as measured by the lab curve). This residual viscosity (Figure 13) suggests the presence of either inversion to an OIW emulsion or partial inversion of the WIO emulsion. In the latter case, the producing fluid consists of a free phase of water flowing with the remnants of a WIO emulsion (Figure 14).</anchoringText>
+<image-wrap id="102118182326MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118182326MS_i_14.tif" id="ImgLink-14" />
+<caption>Partial inversion and OIW emulsion (pipe cross section)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Partial inversion and OIW emulsion (pipe cross section)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="15" data-type-order="15">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr15">When data corresponding to this period was parsed through the viscosity determination procedure previously outlined, the well model was unable to converge. This was because even at the lowest possible emulsion viscosity allowed by the PVT, the calculated downhole gauge pressure was still higher than that reported in the production history. Unexpectedly, when the emulsion model was switched off, the model predicted downhole gauge pressure then became too low. This is depicted graphically for the STI-5H2 well in Figure 15.</anchoringText>
+<image-wrap id="102118182326MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118182326MS_i_15.tif" id="ImgLink-15" />
+<caption>Model matching with downhole demulsifier injection</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Model matching with downhole demulsifier injection</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="16" data-type-order="16">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr16">The inability to match data which falls between the two cases presented above gives rise to a "dead zone" in the multiphase flow correlation. As indicated in Figure 15, there is a window of 70-100 psi where the well model was not able to be matched to measured downhole gauge data. On closer inspection, this discontinuity is caused by a step change in the static head (holdup) calculated when the emulsion model is switched on and off (Figure 16). This phenomenon also holds true for the other flow correlations in the multiphase flow simulator (Petroleum Experts 2 also shown in Figure 16).</anchoringText>
+<image-wrap id="102118182326MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118182326MS_i_16.tif" id="ImgLink-16" />
+<caption>Holdup step change with emulsions on/off</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Holdup step change with emulsions on/off</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="17" data-type-order="17">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr17">Several methods were trialled in order to match the model to gauge pressure measurements which fall within the correlation's "dead zone" (when demulsifier injection is occurring). Some success was realised by modelling the emulsion as a single phase of "oil" i.e. oil with the density and PVT properties of the bulk emulsion. However, the simplest way of modelling flow with demulsifier injection was found to be a correction to the hydrostatic gradient of an additional 5% (Figure 17).</anchoringText>
+<image-wrap id="102118182326MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118182326MS_i_17.tif" id="ImgLink-17" />
+<caption>Flow with demulsifier injection matched via 5% increase in hydrostatic head</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Flow with demulsifier injection matched via 5% increase in hydrostatic head</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="18" data-type-order="18">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr18">When assessing the sensitivity of the pressure drop calculation to changes in emulsion viscosity, it was observed that the flow correlation appears to neglect the effect of viscosity once it exceeds ~55cP (Figure 18). This was observed over a range of operating parameters (water cuts, GORs, flowrates etc.) and suggests that there may be a discontinuity in the flow correlation (i.e. the increased pressure drop due to emulsion viscosity appears capped at the effect of a 55cP emulsion).</anchoringText>
+<image-wrap id="102118182326MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118182326MS_i_18.tif" id="ImgLink-18" />
+<caption>Effect of viscosity on model predicted downhole gauge pressure via PE6</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Effect of viscosity on model predicted downhole gauge pressure via PE6</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="19" data-type-order="19">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr19">Another interesting observation when performing this sensitivity study was that the higher pressure drop due to increasing viscosity was caused principally by an increased static gradient (Figure 19). This occurs because there is greater liquid holdup with higher wall friction (due to viscosity). However, it is surprising to observe that the effect of viscosity on the static gradient far outstrips its effect on the friction pressure drop.</anchoringText>
+<image-wrap id="102118182326MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118182326MS_i_19.tif" id="ImgLink-19" />
+<caption>Pressure drop due to emulsion viscosity principally influences hydrostatic gradient</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Pressure drop due to emulsion viscosity principally influences hydrostatic gradient</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="20" data-type-order="20">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr20"> </anchoringText>
+<image-wrap id="102118182326MS-Img_SPi-20">
+<label>Figure A-1</label>
+<imageLink type="mediaResource" href="102118182326MS_i_20.tif" id="ImgLink-20" />
+<caption>Iterative method for emulsion viscosity determination (Tjoeng et al. 2015)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>A-1</caption-order>
+<caption-text>Iterative method for emulsion viscosity determination (<link href="BIB2">Tjoeng et al. 2015</link> )</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-24" type="bib">
+<bib id="BIB2">
+<label>Tjoeng et al., 2015</label>
+<author>
+<first-name>A. Y.</first-name>
+<last-name>Tjoeng</last-name>
+</author>, <author>
+<first-name>R.</first-name>
+<last-name>Loro</last-name>
+</author> and <author>
+<first-name>S.</first-name>
+<last-name>Iglauer</last-name>
+</author>
+<pubDate>2015</pubDate>. <article-title>Emulsion Viscosity Modelling of Pyrenees Crude Oil. BEng (Hons) Thesis, Curtin University, Perth </article-title>, <journal-title>Australia (November </journal-title>
+<volume>2015</volume>) <issue>(Unpublished)</issue>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="21" data-type-order="21">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr21"> </anchoringText>
+<image-wrap id="102118182326MS-Img_SPi-21">
+<label>Figure B-1</label>
+<imageLink type="mediaResource" href="102118182326MS_i_21.tif" id="ImgLink-21" />
+<caption>Crosby Field vs. Laboratory derived emulsion viscosity curve</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>B-1</caption-order>
+<caption-text>Crosby Field vs. Laboratory derived emulsion viscosity curve</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="22" data-type-order="22">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr22"> </anchoringText>
+<image-wrap id="102118182326MS-Img_SPi-22">
+<label>Figure B-2</label>
+<imageLink type="mediaResource" href="102118182326MS_i_22.tif" id="ImgLink-22" />
+<caption>Stickle Field vs. Laboratory derived emulsion viscosity curve</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>B-2</caption-order>
+<caption-text>Stickle Field vs. Laboratory derived emulsion viscosity curve</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118179906MS.txt" extractionDate="2021-03-19T10:00:51Z">
+<doi>10.2118/179906-MS</doi>
+<pii>10.2118/179906-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="2" table-order="1" data-type-order="2">
+<table-wrap id="102118179906MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">To provide input data for scale and corrosion risk assessments planned for the Culzean Field (Figure 1) formation water samples were obtained from two locations in the Joanne Sandstone Member (4799m and 4800.5m TVDSS) of well 22/25a-10Z on this field and subsequently analysed. After an initial evaluation of the quality of the samples/analyses, it was estimated that the concentrations of Pb and Zn in the formation water were 218_11 mg/L Pb (172_9 ppm Pb) and 572_30 mg/L Zn (452_24 ppm Zn) (see Table 1).</anchoringText>
+<label>Table 1</label>
+<caption>Culzean estimated formation water composition.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Culzean estimated formation water composition.</caption-text>
+</formatted-caption>
+<table id="102118179906MS-Tbl_SPi-1" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="left">Constituent</td>
+<td valign="top" align="center">mg//L</td>
+<td valign="top" align="center">±Uncertainty (mg/L)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Na</td>
+<td valign="top" align="center">77869</td>
+<td valign="top" align="center">4094</td>
+</tr>
+<tr>
+<td valign="top" align="left">K</td>
+<td valign="top" align="center">10966</td>
+<td valign="top" align="center">577</td>
+</tr>
+<tr>
+<td valign="top" align="left">Ca</td>
+<td valign="top" align="center">39522</td>
+<td valign="top" align="center">4935</td>
+</tr>
+<tr>
+<td valign="top" align="left">Mg</td>
+<td valign="top" align="center">1743</td>
+<td valign="top" align="center">92</td>
+</tr>
+<tr>
+<td valign="top" align="left">Ba</td>
+<td valign="top" align="center">716</td>
+<td valign="top" align="center">44</td>
+</tr>
+<tr>
+<td valign="top" align="left">Sr</td>
+<td valign="top" align="center">1290</td>
+<td valign="top" align="center">68</td>
+</tr>
+<tr>
+<td valign="top" align="left">Cl</td>
+<td valign="top" align="center">209445</td>
+<td valign="top" align="center">2307</td>
+</tr>
+<tr>
+<td valign="top" align="left">SO<sub>4</sub>
+</td>
+<td valign="top" align="center">8.6</td>
+<td valign="top" align="center">0.8</td>
+</tr>
+<tr>
+<td valign="top" align="left">Total organic acids (as acetate)</td>
+<td valign="top" align="center">111</td>
+<td valign="top" align="center">6</td>
+</tr>
+<tr>
+<td valign="top" align="left">Total alkalinity (as HCO<sub>3</sub>)</td>
+<td valign="top" align="center">289</td>
+<td valign="top" align="center">3</td>
+</tr>
+<tr>
+<td valign="top" align="left">pH</td>
+<td valign="top" align="center">4.76</td>
+<td valign="top" align="center">0.01</td>
+</tr>
+<tr>
+<td valign="top" align="left">Zn</td>
+<td valign="top" align="center">572</td>
+<td valign="top" align="center">30</td>
+</tr>
+<tr>
+<td valign="top" align="left">Pb</td>
+<td valign="top" align="center">218</td>
+<td valign="top" align="center">11</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="2" data-type-order="9">
+<table-wrap id="102118179906MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">However, despite this, when the estimates of Pb and Zn concentration were compared with the few available North Sea formation water Pb and Zn analyses (Table 2) it was evident that the Culzean concentrations are significantly higher. For this reason, the Culzean Pb and Zn concentrations were investigated further to determine whether they are real (in which case why are they so high?) or an artefact.</anchoringText>
+<label>Table 2</label>
+<caption>North Sea formation water Pb and Zn analyses.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>North Sea formation water Pb and Zn analyses.</caption-text>
+</formatted-caption>
+<table id="102118179906MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Field</th>
+<th valign="top" align="center">Pb (ppm)</th>
+<th valign="top" align="center">Zn (ppm)</th>
+<th valign="top" align="center">Reference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Culzean</td>
+<td valign="top" align="center">172+-9</td>
+<td valign="top" align="center">452+-24</td>
+<td valign="top" align="left">This study</td>
+</tr>
+<tr>
+<td valign="top" align="left">Field B</td>
+<td valign="top" align="center">&#x003C;1</td>
+<td valign="top" align="center">10-40</td>
+<td valign="top" align="left">
+<link href="BIB4">Jordan et al. (2000)</link>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Field C</td>
+<td valign="top" align="center">&#x003C;1</td>
+<td valign="top" align="center">40-70</td>
+<td valign="top" align="left">
+<link href="BIB4">Jordan et al. (2000)</link>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Shearwater</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">167</td>
+<td valign="top" align="left">
+<link href="BIB5">Webb and Kuhn (2004)</link>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Elgin/Franklin</td>
+<td valign="top" align="center">40</td>
+<td valign="top" align="center">121</td>
+<td valign="top" align="left">
+<link href="BIB6">Orski et al. (2007)</link>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Field D</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">58</td>
+<td valign="top" align="left">Unpublished</td>
+</tr>
+<tr>
+<td valign="top" align="left">Field E</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">205</td>
+<td valign="top" align="left">Unpublished</td>
+</tr>
+<tr>
+<td valign="top" align="left">Field F</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">75</td>
+<td valign="top" align="left">Unpublished</td>
+</tr>
+<tr>
+<td valign="top" align="left">Field G</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">103</td>
+<td valign="top" align="left">Unpublished</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-20" type="bib">
+<bib id="BIB4">
+<label>Jordan et al., 2000</label>
+<author>
+<first-name>M. M.</first-name>
+<last-name>Jordan</last-name>
+</author>, <author>
+<first-name>K.</first-name>
+<last-name>Sjuraether</last-name>
+</author>, <author>
+<first-name>M. C.</first-name>
+<last-name>Edgerton</last-name>
+</author> et al <pubDate>2000</pubDate>. <article-title>Inhibition of lead and zinc sulphide scale deposits formed during production from high temperature oil and condensate reservoirs. Proc. </article-title>, SPE Asia Pacific Oil and Gas Conference and Exhibition, Brisbane, Australia.</bib>
+</linkTarget>
+<linkTarget id="link-21" type="bib">
+<bib id="BIB5">
+<label>Webb and Kuhn, 2004</label>
+<author>
+<first-name>P. J.</first-name>
+<last-name>Webb</last-name>
+</author>, <author>
+<first-name>O.</first-name>
+<last-name>Kuhn</last-name>
+</author>. <pubDate>2004</pubDate>. <article-title>Enhanced scale management through the application of inorganic geochemistry and statistics. Proc. </article-title>, 6th International Symposium on Oilfield Scale, Aberdeen, Scotland.</bib>
+</linkTarget>
+<linkTarget id="link-22" type="bib">
+<bib id="BIB6">
+<label>Orski et al., 2007</label>
+<author>
+<first-name>K.</first-name>
+<last-name>Orski</last-name>
+</author>, <author>
+<first-name>B.</first-name>
+<last-name>Grimbert</last-name>
+</author>, <author>
+<first-name>C.</first-name>
+<last-name>Menezes</last-name>
+</author> et al <pubDate>2007</pubDate>. <article-title>Fighting lead and zinc sulphide scales on a North Sea HP/HT field. Proc. </article-title>, SPE European Formation Damage Conference, Scheveningen, The Netherlands.</bib>
+</linkTarget>
+</appendix>
+</docTable>
+<docTable pdf-page="10" table-order="3" data-type-order="11">
+<table-wrap id="102118179906MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Mineral sources of Pb and Zn Although Pb and Zn can be brought into sedimentary basins in aqueous fluids, the most important of these by volume (e.g. seawater, evaporated seawater, meteoric water, waters released from compacting shales, i.e. ‘shale water’) contain very little Pb and Zn (Table 3). There is far greater potential for Pb and Zn to be gained by formation water through interaction with minerals in the subsurface.</anchoringText>
+<label>Table 3</label>
+<caption>Example concentrations of Pb and Zn in different types of water.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Example concentrations of Pb and Zn in different types of water.</caption-text>
+</formatted-caption>
+<table id="102118179906MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Water</th>
+<th valign="top" align="center">Pb</th>
+<th valign="top" align="center">Zn</th>
+<th valign="top" align="center">Reference</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td id="tfn-1" colspan="4" align="left">*Due to the low concentration in seawater, even seawater evaporated to halite saturation (9x concentration) will be low. <br />**Shale water tends to have low salinity and so as demonstrated in the main text, the Zn and Pb content of this water is therefore expected to also be low (i.e. &#x003C;3 ppm Pb, &#x003C;6 ppm Zn).</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td valign="top" align="left">Urban area rain water (mean)</td>
+<td valign="top" align="center">2.7 <i>µ</i>g//L</td>
+<td valign="top" align="center">159 <i>µ</i>g//L</td>
+<td valign="top" align="left">
+<link href="BIB7">Caboi, Cristini, and Frau (1995)</link>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Terrestrial surface water (e.g. average stream water)</td>
+<td valign="top" align="center">0.001 mg//L</td>
+<td valign="top" align="center">0.02 mg//L</td>
+<td valign="top" align="left">
+<link href="BIB8">Hitchon, Perkins, and Gunter (1999)</link>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Sea water</td>
+<td valign="top" align="center">0.002 <i>µ</i>g//L</td>
+<td valign="top" align="center">0.4 <i>µ</i>g//L</td>
+<td valign="top" align="left">
+<link href="BIB8">Hitchon, Perkins, and Gunter (1999)</link>.</td>
+</tr>
+<tr>
+<td valign="top" align="left">Low salinity ground water (median content)</td>
+<td valign="top" align="center">3 <i>µ</i>g//L</td>
+<td valign="top" align="center">20 <i>µ</i>g//L</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Evaporated seawater</td>
+<td valign="top" align="center">Low*</td>
+<td valign="top" align="center">Low*</td>
+<td valign="top" align="left">
+<link href="BIB9">Kharaka et al. (1987)</link>.</td>
+</tr>
+<tr>
+<td valign="top" align="left">Shale water</td>
+<td valign="top" align="center">Low**</td>
+<td valign="top" align="center">Low**</td>
+<td valign="top" align="left">This study.</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-23" type="bib">
+<bib id="BIB7">
+<label>Caboi et al., 1995</label>
+<author>
+<first-name>R.</first-name>
+<last-name>Caboi</last-name>
+</author>, <author>
+<first-name>A.</first-name>
+<last-name>Cristini</last-name>
+</author>, <author>
+<first-name>F.</first-name>
+<last-name>Frau</last-name>
+</author>. <pubDate>1995</pubDate>. <article-title>Metal concentrations in rainwater (Sardinia, Western Mediterranean Sea). Proc., 8th International Symposium on Water–Rock Interaction – WRI-8 Vladivostok </article-title>, <journal-title>Russia </journal-title>, <pages>
+<first-page>337</first-page>
+<last-page>340</last-page>
+</pages>.</bib>
+</linkTarget>
+<linkTarget id="link-24" type="bib">
+<bib id="BIB8">
+<label>Hitchon et al., 1999</label>
+<author>
+<first-name>B.</first-name>
+<last-name>Hitchon</last-name>
+</author>, <author>
+<first-name>E. H.</first-name>
+<last-name>Perkins</last-name>
+</author>, <author>
+<first-name>W. D.</first-name>
+<last-name>Gunter</last-name>
+</author>. <pubDate>1999</pubDate>. <i>Introduction to Ground Water Geochemistry, </i>Geoscience Publishing, Box <pages>
+<first-page>79088</first-page>
+</pages>, Sherwood Park, AB, Canada. (Reprint).</bib>
+</linkTarget>
+<linkTarget id="link-25" type="bib">
+<bib id="BIB9">
+<label>Kharaka et al., 1987</label>
+<author>
+<first-name>Y. K.</first-name>
+<last-name>Kharaka</last-name>
+</author>, <author>
+<first-name>A. S.</first-name>
+<last-name>Maest</last-name>
+</author>, <author>
+<first-name>W. W.</first-name>
+<last-name>Carothers</last-name>
+</author> et al <pubDate>1987</pubDate>. <article-title>Geochemistry of metal-rich brines from central Mississippi Salt Dome basin, USA (in </article-title>
+<journal-title>Applied Geochemistry </journal-title>
+<volume>2</volume>
+: <pages>
+<first-page>543</first-page>
+<last-page>561</last-page>
+</pages>.</bib>
+</linkTarget>
+</appendix>
+</docTable>
+</docTableList>
+</docTables>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191220MS.txt" extractionDate="2021-03-29T12:29:30Z">
+<doi>10.2118/191220-MS</doi>
+<pii>10.2118/191220-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="9" table-order="1" data-type-order="7">
+<table-wrap id="102118191220MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1"> </anchoringText>
+<label>Table 1</label>
+<caption>Cumulative production for different scenarios</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Cumulative production for different scenarios</caption-text>
+</formatted-caption>
+<table id="102118191220MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Injection Volume</th>
+<th valign="top" align="center">Cumulative Oil Recovered /mmbbl (Five Spot Injection)</th>
+<th valign="top" align="center">Cumulative Oil Recovered /mmbbl (Injection at Boundaries)</th>
+<th valign="top" align="center">Cumulative Oil Recovered /mmbbl (Inverted Five Spot)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">
+<b>50,000 ft<sup>3</sup>/day</b>
+</td>
+<td valign="top" align="center">1.12514</td>
+<td valign="top" align="center">1.11692</td>
+<td valign="top" align="center">0.996578</td>
+</tr>
+<tr>
+<td valign="top" align="left"><b>75,000 ft<sup>3</sup>/day</b>
+</td>
+<td valign="top" align="center">1.17169</td>
+<td valign="top" align="center">1.1557</td>
+<td valign="top" align="center">1.0222</td>
+</tr>
+<tr>
+<td valign="top" align="left"><b>100,000 ft<sup>3</sup>/day</b>
+</td>
+<td valign="top" align="center">1.23276</td>
+<td valign="top" align="center">1.21217</td>
+<td valign="top" align="center">1.04611</td>
+</tr>
+<tr>
+<td valign="top" align="left"><b>125,000 ft<sup>3</sup>/day</b></td>
+<td valign="top" align="center">1.28213</td>
+<td valign="top" align="center">1.2592</td>
+<td valign="top" align="center">1.08511</td>
+</tr>
+<tr>
+<td valign="top" align="left"><b>150,000 ft<sup>3</sup>/day</b>
+</td>
+<td valign="top" align="center">1.31711</td>
+<td valign="top" align="center">1.28148</td>
+<td valign="top" align="center">1.10794</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

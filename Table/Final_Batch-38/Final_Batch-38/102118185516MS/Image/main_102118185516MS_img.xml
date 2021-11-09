@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185516MS.txt" extractionDate="2021-03-23T18:35:45Z">
+<doi>10.2118/185516-MS</doi>
+<pii>10.2118/185516-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure composite="true" composite-count="2" pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr6">The surge in oil prices in the early 80‘s encouraged adapting new completion strategies to promote oil and sand production: sand control devices were no longer installed downhole and wellbore perforations were designed to be of a larger diameter. Canadian experiences and practices were soon replicated in Venezuela, where heavy oil deposits located in the Orinoco Heavy Oil Belt(HOB) are of similar characteristics. Fig.1 shows the location of the main CHOPS assets in Canada and Venezuela. Table 1 compares the typical reservoir properties of UCSS heavy oil deposits in Saskatchewan and the Orinoco HBO.</anchoringText>
+<image-wrap id="102118185516MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118185516MS_i_1.tif" id="ImgLink-1" />
+<caption>Location of Main CHOPSAssets in Canada and Venezuela</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Location of Main CHOPSAssets in Canada and Venezuela</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185516MS-Img_SPi-1a">
+<imageLink type="mediaResource" href="102118185516MS_i_1a.tif" id="ImgLink-1a" />
+</image-wrap>
+<image-wrap id="102118185516MS-Img_SPi-1b">
+<imageLink type="mediaResource" href="102118185516MS_i_1b.tif" id="ImgLink-1b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr7">Oil rate tends to increase gradually over a period of several months to a peak value of 20 – 40 m3/day, and after which, it gradually decreases to uneconomical in the range of 2 – 3 m3/day (Dusseault 2002). Fig. 2 shows the typical production trend of a well producing under CHOPS. This particular trend is known as CHOPS signature, due to the fact that the majority of wells follow this behavior. Note that three production cycles, separated by workovers, can be identified as attempts to promote more sand influx and to boost oil production.</anchoringText>
+<image-wrap id="102118185516MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118185516MS_i_2.tif" id="ImgLink-2" />
+<caption>Typical CHOPS Production Profile [Adapted from Dusseault 2002]</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Typical CHOPS Production Profile [Adapted from <link href="BIB1">Dusseault 2002</link>]</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-15" type="bib">
+<bib id="BIB1">
+<label>Dusseault, 2002</label>
+<author>
+<first-name>M.</first-name>
+<last-name>Dusseault</last-name>
+</author>
+<pubDate>2002</pubDate>. <article-title>CHOPS: Cold Heavy Oil Production with Sand in the Canadian Heavy Oil Industry</article-title>. <journal-title>
+<i>Alberta Department of Energy</i>
+</journal-title>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="7" figure-order="3" data-type-order="6">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr8">Therefore, the Diffusion-limited Aggregation (DLA) algorithm (Liu and Zhao 2005) is used to generate multiple realizations of a 2-D binaryfractal pattern. Each fractal pattern is converted to a wormhole network:blocks with value of 1 belong to the wormhole network, and blocks with value of 0 represent matrix (Fig. 3a).A top view of the middle layer that contains the wormhole network, as well as the side view of the model, is shown in Fig. 4. Considering the spatial aggregation of wormhole blocks, a range of wormhole diameter between 5-30 cm is obtained (which is consistent with field observations in Chang and Ivory 2013).</anchoringText>
+<image-wrap id="102118185516MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118185516MS_i_3.tif" id="ImgLink-3" />
+<caption>Implementation of a Binary System for Wormhole Characterization: (a): Binary System; (b): Number of Wormholes in Each Coarse-Scale Grid Block; (c) Wormhole Intensity in Each Coarse-Scale Grid Block</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Implementation of a Binary System for Wormhole Characterization: (a): Binary System; (b): Number of Wormholes in Each Coarse-Scale Grid Block; (c) Wormhole Intensity in Each Coarse-Scale Grid Block</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185516MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118185516MS_i_3a.tif" id="ImgLink-3a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Binary System</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185516MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118185516MS_i_3b.tif" id="ImgLink-3b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Number of Wormholes in Each Coarse-Scale Grid Block</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185516MS-Img_SPi-3c">
+<imageLink type="mediaResource" href="102118185516MS_i_3c.tif" id="ImgLink-3c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Wormhole Intensity in Each Coarse-Scale Grid Block</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="4" data-type-order="7">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr9">Therefore, the Diffusion-limited Aggregation (DLA) algorithm (Liu and Zhao 2005) is used to generate multiple realizations of a 2-D binaryfractal pattern. Each fractal pattern is converted to a wormhole network:blocks with value of 1 belong to the wormhole network, and blocks with value of 0 represent matrix (Fig. 3a).A top view of the middle layer that contains the wormhole network, as well as the side view of the model, is shown in Fig. 4. Considering the spatial aggregation of wormhole blocks, a range of wormhole diameter between 5-30 cm is obtained (which is consistent with field observations in Chang and Ivory 2013).</anchoringText>
+<image-wrap id="102118185516MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118185516MS_i_4.tif" id="ImgLink-4" />
+<caption>3D Model Side View (Left) and Wormhole Layer Top View (Right)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>3D Model Side View (Left) and Wormhole Layer Top View (Right)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="8" figure-order="5" data-type-order="9">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr10">The modified fractional-flow approach is adopted to represent adopted to represent the enhanced oil flow and delay of free gas flow due to foamy oil behavior. This is achieved by assigning a lower gas relative permeability end point, which is accompanied by higher irreducible gas saturation, during the production stage. The relative permeability functions for the matrix and wormhole during the injection/soaking stages are presented in Fig.5, while the modified relative permeability functions for the matrix and wormholeduring the production stage are illustrated in Fig.6.</anchoringText>
+<image-wrap id="102118185516MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118185516MS_i_5.tif" id="ImgLink-5" />
+<caption>Relative Permeability Functions for the Injection/Soaking Stages Matrix Water-Oil Relative Permeability Matrix Gas-Oil Relative Permeability Fracture Water-Oil Relative Permeability Fracture Gas-Oil Relative Permeability</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Relative Permeability Functions for the Injection/Soaking Stages Matrix Water-Oil Relative Permeability Matrix Gas-Oil Relative Permeability Fracture Water-Oil Relative Permeability Fracture Gas-Oil Relative Permeability</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185516MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118185516MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Matrix Water-Oil Relative Permeability</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185516MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118185516MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Matrix Gas-Oil Relative Permeability</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185516MS-Img_SPi-5c">
+<imageLink type="mediaResource" href="102118185516MS_i_5c.tif" id="ImgLink-5c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Fracture Water-Oil Relative Permeability</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185516MS-Img_SPi-5d">
+<imageLink type="mediaResource" href="102118185516MS_i_5d.tif" id="ImgLink-5d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>Fracture Gas-Oil Relative Permeability</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="9" figure-order="6" data-type-order="10">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr11">The modified fractional-flow approach is adopted to represent adopted to represent the enhanced oil flow and delay of free gas flow due to foamy oil behavior. This is achieved by assigning a lower gas relative permeability end point, which is accompanied by higher irreducible gas saturation, during the production stage. The relative permeability functions for the matrix and wormhole during the injection/soaking stages are presented in Fig.5, while the modified relative permeability functions for the matrix and wormholeduring the production stage are illustrated in Fig.6.</anchoringText>
+<image-wrap id="102118185516MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118185516MS_i_6.tif" id="ImgLink-6" />
+<caption>Relative Permeability Functions for Production Stage Matrix Water-Oil Relative Permeability Matrix Gas-Oil Relative Permeability Fracture Water-Oil Relative Permeability Fracture Gas-Oil Relative Permeability</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Relative Permeability Functions for Production Stage Matrix Water-Oil Relative Permeability Matrix Gas-Oil Relative Permeability Fracture Water-Oil Relative Permeability Fracture Gas-Oil Relative Permeability</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185516MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118185516MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Matrix Water-Oil Relative Permeability</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185516MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118185516MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Matrix Gas-Oil Relative Permeability</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185516MS-Img_SPi-6c">
+<imageLink type="mediaResource" href="102118185516MS_i_6c.tif" id="ImgLink-6c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Fracture Water-Oil Relative Permeability</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185516MS-Img_SPi-6d">
+<imageLink type="mediaResource" href="102118185516MS_i_6d.tif" id="ImgLink-6d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>Fracture Gas-Oil Relative Permeability</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="7" data-type-order="11">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr12">The model is initialized to approximate the conditions at the end of a typical CHOPS operation. Assuming a typical recovery factor of approximately 12% at the end of CHOPS (Soh 2016), the fluid saturations are then explicitlyassigned in such a way that the oil saturation in the matrix would gradually decrease with proximity to the depleted wormholes (typically referred to as the depletion envelop). Fig. 7 illustrates the initial oil saturation distribution corresponding to a one of the realizations for post-CHOPS modeling. An initial pressure of 1000–2000 kPa is commonly observed in the field.</anchoringText>
+<image-wrap id="102118185516MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118185516MS_i_7.tif" id="ImgLink-7" />
+<caption>Initial Oil Saturation Distribution for Post-CHOPS Modeling</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Initial Oil Saturation Distribution for Post-CHOPS Modeling</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="8" data-type-order="12">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr13">Different from the conventional dual-porosity system, a dual-permeability approach allows flow between adjacent matrix blocks. Fig. 8 presents a graphical comparison between the dual-porosity and dual permeability systems. Although the dual-permeability approach is more expensive in terms of computational effort, it provides a more realistic approach to modeling the actual interactions between the injected solvent and the in-situ heavy oilin the matrix.</anchoringText>
+<image-wrap id="102118185516MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118185516MS_i_8.tif" id="ImgLink-8" />
+<caption>Illustration of Dual-Porosity and Dual Permeability Systems Dual Parosity Dual Permeability</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Illustration of Dual-Porosity and Dual Permeability Systems Dual Parosity Dual Permeability</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185516MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118185516MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Dual Parosity</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185516MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118185516MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Dual Permeability</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="9" data-type-order="13">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr14">The model is 24 × 24 × 3 (Δx = 0.25m; Δy = 0.25m). The dimensions of the entire model is 6-meter wide, 6-meter long, and 1-meter thick (same as the fine-scale model). Each grid block in the coarse-scale model is the equivalence of 75 fine-scale gridd blocks. The dimensions of the coarse blocks are Δx =0.25 m, Δy =0.25 m, and Δz =1 m respectively. Fig. 9 illustrates a comparison of fine-scale and coarse-scale grid blocks.</anchoringText>
+<image-wrap id="102118185516MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118185516MS_i_9.tif" id="ImgLink-9" />
+<caption>Illustration of Fine-Scale and Coarse-Scale Grid Blocks</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Illustration of Fine-Scale and Coarse-Scale Grid Blocks</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="10" data-type-order="14">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr15">This procedure is repeated for all fine-scale models constructed in section 2.3. In the end, distributions of effective dispersivities are constructed corresponding to different categories of wormhole intensity. The proposed scale-up workflow is illustrated in Fig. 10.</anchoringText>
+<image-wrap id="102118185516MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118185516MS_i_10.tif" id="ImgLink-10" />
+<caption>Practical Workflow for Scale-up of Solvent Transport Mechanisms</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Practical Workflow for Scale-up of Solvent Transport Mechanisms</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="12" figure-order="11" data-type-order="15">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr16">Multiplerandom realizations of the wormhole networks(6 m × 6 m) generated with the DLA algorithm are illustrated in Fig.11. All these wormhole networks have similar overall areal coverage, whichis approximately 12% of the entire layer in whicheach network is explicitly modeled (this corresponds to a 2.3% volumetric coverage over the entire pay thickness, as reported in most field operations). Fig. 12 illustrates the influence of effective dispersivity by comparing the oil and gas production profiles corresponding to four different cases:</anchoringText>
+<image-wrap id="102118185516MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118185516MS_i_11.tif" id="ImgLink-11" />
+<caption>Multiple Realizations of the Fractal Wormhole Networks</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Multiple Realizations of the Fractal Wormhole Networks</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185516MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118185516MS_i_11a.tif" id="ImgLink-11a" />
+</image-wrap>
+<image-wrap id="102118185516MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118185516MS_i_11b.tif" id="ImgLink-11b" />
+</image-wrap>
+<image-wrap id="102118185516MS-Img_SPi-11c">
+<imageLink type="mediaResource" href="102118185516MS_i_11c.tif" id="ImgLink-11c" />
+</image-wrap>
+<image-wrap id="102118185516MS-Img_SPi-11d">
+<imageLink type="mediaResource" href="102118185516MS_i_11d.tif" id="ImgLink-11d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="12" data-type-order="16">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr17">Multiplerandom realizations of the wormhole networks(6 m × 6 m) generated with the DLA algorithm are illustrated in Fig.11. All these wormhole networks have similar overall areal coverage, whichis approximately 12% of the entire layer in whicheach network is explicitly modeled (this corresponds to a 2.3% volumetric coverage over the entire pay thickness, as reported in most field operations). Fig. 12 illustrates the influence of effective dispersivity by comparing the oil and gas production profiles corresponding to four different cases:</anchoringText>
+<image-wrap id="102118185516MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118185516MS_i_12.tif" id="ImgLink-12" />
+<caption>Comparison of Cumulative Oil Production (Left) and Cumulative Gas Production (Right): Case 1 (Green); Case 2 (Yellow); Case 3 (Blue); Case 4 (Red)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Comparison of Cumulative Oil Production (Left) and Cumulative Gas Production (Right): Case 1 (Green); Case 2 (Yellow); Case 3 (Blue); Case 4 (Red)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185516MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118185516MS_i_12a.tif" id="ImgLink-12a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>Comparison of Cumulative Oil Production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185516MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118185516MS_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>Cumulative Gas Production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="13" data-type-order="17">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr18">These values are also plotted in Fig. 13. It is observed that as wormhole intensity increases, fracture dispersivity also increases. This reflects the additional mixing as a result of variation in flow paths among the wormholes. On the other hand, as wormhole intensity increases, the contribution to solvent transport from matrix dispersion is less prominent, since less matrix volume is remaining in a bulk grid block. Therefore, a decreasing trend in matrix dispersivity with wormhole intensity is observed.</anchoringText>
+<image-wrap id="102118185516MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118185516MS_i_13.tif" id="ImgLink-13" />
+<caption>Distribution of Dispersivity (<i>αL </i>= <i>αT</i>) in the Fracture and Matrix Systems of the Dual-Permeability Model Dispersivity in the Fracture-System Dispersivity in the Matrix-System</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Distribution of Dispersivity (αL = αT) in the Fracture and Matrix Systems of the Dual-Permeability Model Dispersivity in the Fracture-System Dispersivity in the Matrix-System</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185516MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118185516MS_i_13a.tif" id="ImgLink-13a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Dispersivity in the Fracture-System</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185516MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118185516MS_i_13b.tif" id="ImgLink-13b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Dispersivity in the Matrix-System</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="14" data-type-order="19">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr19">One of the main challenges in reservoir simulation is achieving a balance between accuracy and computational cost. This practical approach, involving a dual-permeability model, can offer the opportunity to reduce computational effort drastically as shown in Fig. 14. Reliable and efficient field-scale simulations with multiple well patterns can be performed byaccounting for the contribution of sub-scale heterogeneities (wormhole configurations)in the transport and mixing of solvent and heavy oil in post-CHOPS applications.</anchoringText>
+<image-wrap id="102118185516MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118185516MS_i_14.tif" id="ImgLink-14" />
+<caption>Reduction in Computational Time with the Coarse-Scale Model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Reduction in Computational Time with the Coarse-Scale Model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

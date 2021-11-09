@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118182186MS.txt" extractionDate="2021-03-22T08:07:08Z">
+<doi>10.2118/182186-MS</doi>
+<pii>10.2118/182186-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="6" table-order="1" data-type-order="6">
+<table-wrap id="102118182186MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1"> </anchoringText>
+<label>Table 1</label>
+<caption>value of cumulative oil production, average oil production rate of single well, pressure trend (reflection of connectivity), aquifer energy for each pilot</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>value of cumulative oil production, average oil production rate of single well, pressure trend (reflection of connectivity), aquifer energy for each pilot</caption-text>
+</formatted-caption>
+<table id="102118182186MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Pilot</th>
+<th valign="top" align="left">Cum oil production(Million barrels)</th>
+<th valign="top" align="left">Average cum. Oil production per well</th>
+<th valign="top" align="left">Aquifer energy</th>
+<th valign="top" align="left">Pressure trend</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Pilot I</td>
+<td valign="top" align="left">70 with 11 producers</td>
+<td valign="top" align="center">6.4</td>
+<td valign="top" align="center">Medium</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Pilot II</td>
+<td valign="top" align="left">58 with 5 producers</td>
+<td valign="top" align="center">11.5</td>
+<td valign="top" align="center">Medium</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Pilot III</td>
+<td valign="top" align="left">16 with 2 producers</td>
+<td valign="top" align="center">8</td>
+<td valign="top" align="center">Weak</td>
+<td valign="top" align="left">Depletion pressure follows the same trend, good connectivity</td>
+</tr>
+<tr>
+<td valign="top" align="left">Pilot IV</td>
+<td valign="top" align="left">21 with 5 producers</td>
+<td valign="top" align="center">4.2</td>
+<td valign="top" align="center">Weak</td>
+<td valign="top" align="left">Pressure varies significantly</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="9" table-order="2" data-type-order="10">
+<table-wrap id="102118182186MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">After determined well pattern and well spacing, 2 perforation strategies are proposed for our discussion. The strategy A is commingled production (perforating all intervals in both injectors and producers), and the strategy B is to only produce one member each time from the bottom to the top. Both of the 2 options have their advantages and disadvantages are listed in Table 2.</anchoringText>
+<label>Table 2</label>
+<caption>Comparison between different completion strategies</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Comparison between different completion strategies</caption-text>
+</formatted-caption>
+<table id="102118182186MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Perforation strategies</th>
+<th valign="top" align="center">Advantages</th>
+<th valign="top" align="center">Disadvantaged</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">A</td>
+<td valign="top" align="left">1. Expose the possible problems and conflict <br /> 2. Timely data acquisition <br /> 3. Higher productivity</td>
+<td valign="top" align="left">1. Not easy to monitor the behavior of each member <br /> 2. Possible poor performance of water injection due to inter-member heterogeneity and interference</td>
+</tr>
+<tr>
+<td valign="top" align="center">B</td>
+<td valign="top" align="left">1. Easier to conduct surveillance <br /> 2. Better understand each member <br /> 3. Control the water cut and inject water at high efficiency</td>
+<td valign="top" align="left">1. Timing consuming <br /> 2. Productivity of one member may not be able to achieve expected rate to satisfy the overall development plan</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118177046MS.txt" extractionDate="2021-03-22T16:36:23Z">
+<doi>10.2118/177046-MS</doi>
+<pii>10.2118/177046-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr3">We consider a simple 2D example to clarify these points. Let us analyze an heterogenous 2D small model with five spot type of pattern, like the one shown in Figure 1. This layer is assumed to start at irreducible water saturation and flooded by four injectors, I1 to I4. Figure 2 displays the evolution of the saturation profile after 23 months of injection. The distorted breakthrough travels to the producers and eventually a situation like the one depicted in Figure 3 is obtained, where the reservoir has high mean water saturation.</anchoringText>
+<image-wrap id="102118177046MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118177046MS_i_1.tif" id="ImgLink-1" />
+<caption>Permeability map of the synthetic 2D model. I1, I2, I3, I4 stand for injectors in the layer and P1,…, P9 for producers in the five spot array.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Permeability map of the synthetic 2D model. I1, I2, I3, I4 stand for injectors in the layer and P1,…, P9 for producers in the five spot array.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr4">We consider a simple 2D example to clarify these points. Let us analyze an heterogenous 2D small model with five spot type of pattern, like the one shown in Figure 1. This layer is assumed to start at irreducible water saturation and flooded by four injectors, I1 to I4. Figure 2 displays the evolution of the saturation profile after 23 months of injection. The distorted breakthrough travels to the producers and eventually a situation like the one depicted in Figure 3 is obtained, where the reservoir has high mean water saturation.</anchoringText>
+<image-wrap id="102118177046MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118177046MS_i_2.tif" id="ImgLink-2" />
+<caption>Oil saturation in the synthetic model after 23 months of production.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Oil saturation in the synthetic model after 23 months of production.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr5">We consider a simple 2D example to clarify these points. Let us analyze an heterogenous 2D small model with five spot type of pattern, like the one shown in Figure 1. This layer is assumed to start at irreducible water saturation and flooded by four injectors, I1 to I4. Figure 2 displays the evolution of the saturation profile after 23 months of injection. The distorted breakthrough travels to the producers and eventually a situation like the one depicted in Figure 3 is obtained, where the reservoir has high mean water saturation.</anchoringText>
+<image-wrap id="102118177046MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118177046MS_i_3.tif" id="ImgLink-3" />
+<caption>Oil saturation in the synthetic model after 230 months of production.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Oil saturation in the synthetic model after 230 months of production.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr6">The injection profile in this example is modified randomly between certain levels during the numerical experiment. In this case the boundary condition at the producers is negligible bottom hole pressure, which resembles that of an optimally operated well. Production data is generated solving the fluid motion with Schlumberger Eclipse (black oil) on a fine grid. Now, if a simple CRM model [1] is fitted to this example, one obtains the comparison shown in Figure 4. In this Figure we show the history matched data toghether with predicted rates.</anchoringText>
+<image-wrap id="102118177046MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118177046MS_i_4.tif" id="ImgLink-4" />
+<caption>Total liquid rate at the central producer calcuted using Sch. Eclipse (solid squares) and CRM estimation (red line). After training the model there exist a prediction window for CRM (yellow) where there is good match to the synthetic data (crosses).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Total liquid rate at the central producer calcuted using Sch. Eclipse (solid squares) and CRM estimation (red line). After training the model there exist a prediction window for CRM (yellow) where there is good match to the synthetic data (crosses).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr7">Note that the oil cut is estimated after fitting the total produced rates, the decay law involves only three fitting parameters for each producer. Figure 5 displays the simulation results and the simple model fit toghether with the prediction after the training window.</anchoringText>
+<image-wrap id="102118177046MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118177046MS_i_5.tif" id="ImgLink-5" />
+<caption>Oil liquid rate at the central producer calcuted using Sch. Eclipse (solid squares) and CRM estimation (red line). After training the model there exist a prediction window for CRM (yellow) where there is good match to the synthetic data (crosses).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Oil liquid rate at the central producer calcuted using Sch. Eclipse (solid squares) and CRM estimation (red line). After training the model there exist a prediction window for CRM (yellow) where there is good match to the synthetic data (crosses).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr8">Figure 6 shows a typical output of the anlysis, namely a map of the connectivities in the last period of time (only the most representative values, with a threshold based on duration of the pair, are shown here). In this Figure we plot an arrow of size proportional to the mean associated rate (connectivity times injection) and color depicting the error range. Thus, it easy to identify the main problems in the field by visual inspection.</anchoringText>
+<image-wrap id="102118177046MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118177046MS_i_6.tif" id="ImgLink-6" />
+<caption>Typical connectivity map obtained for Chihuido de la Sierra Negra. Here arrows and their size depict direction and magnitude of interwell connectivity. Colors indicate the statistical error in these parameters.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Typical connectivity map obtained for Chihuido de la Sierra Negra. Here arrows and their size depict direction and magnitude of interwell connectivity. Colors indicate the statistical error in these parameters.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr9">Eventually, each producer can be explored in further detail after the detection of a problem, the gobal fit yields to the optimum history match at field level, but the individual results derived from it are easely accessible and can be analyzed separately. Figure 7 show two typical fits of the total liquid rate of the producers.</anchoringText>
+<image-wrap id="102118177046MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118177046MS_i_7.tif" id="ImgLink-7" />
+<caption>Typical fit for two producers in the field. Solid red line corresponds to the model estimate. Dots are total liquid rate data. The grey band indicates the confidence (one standard deviation) interval.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Typical fit for two producers in the field. Solid red line corresponds to the model estimate. Dots are total liquid rate data. The grey band indicates the confidence (one standard deviation) interval.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118177046MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118177046MS_i_7a.tif" id="ImgLink-7a" />
+</image-wrap>
+<image-wrap id="102118177046MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118177046MS_i_7b.tif" id="ImgLink-7b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr10">The statisticst of the fitting errors in this study is shown in Figure 8. Note that typically the total liquid production of the field can be estimated with errors below 20%.</anchoringText>
+<image-wrap id="102118177046MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118177046MS_i_8.tif" id="ImgLink-8" />
+<caption>Statistics of deviations for the 830 wells modeled producers.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Statistics of deviations for the 830 wells modeled producers.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr11">In this case the injected tracer (injector I2) displays an extremely early arrival at the producer P6, as depicted in Figure 9. 50% of the cumulative tracer production is captured only by this well. Both indicators yield to the conclusion that there exists a high perm type of connection between them. Consistently the numerical analysis highlights this well as 46th in the list. Figure 10 shows a zoom of Figure 6 around this injector and Table 1 displays the details of the fit.</anchoringText>
+<image-wrap id="102118177046MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118177046MS_i_9.tif" id="ImgLink-9" />
+<caption>Tracer fraction vs. time in the five-spot associated to I2.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Tracer fraction vs. time in the five-spot associated to I2.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr12">In this case the injected tracer (injector I2) displays an extremely early arrival at the producer P6, as depicted in Figure 9. 50% of the cumulative tracer production is captured only by this well. Both indicators yield to the conclusion that there exists a high perm type of connection between them. Consistently the numerical analysis highlights this well as 46th in the list. Figure 10 shows a zoom of Figure 6 around this injector and Table 1 displays the details of the fit.</anchoringText>
+<image-wrap id="102118177046MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118177046MS_i_10.tif" id="ImgLink-10" />
+<caption>Connectivity map associated to injector I2.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Connectivity map associated to injector I2.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="11" data-type-order="13">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr13"> </anchoringText>
+<image-wrap id="102118177046MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118177046MS_i_11.tif" id="ImgLink-11" />
+<caption>Tracer fraction vs. time in the five-spot associated to I3.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Tracer fraction vs. time in the five-spot associated to I3.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

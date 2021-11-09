@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118177261MS.txt" extractionDate="2021-03-19T10:11:24Z">
+<doi>10.2118/177261-MS</doi>
+<pii>10.2118/177261-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="6" table-order="1" data-type-order="4">
+<table-wrap id="102118177261MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">In Table 1 is summarized the geomechanical parameters calculated in this paper at 2108 meters, the difference of the pore pressure and the minimum horizontal stress is negative. This is an indication that wellbore at this depth have induced fractures.</anchoringText>
+<label>Table 1</label>
+<caption>Summary of geomechanical parameters calculated at 2108 m, Glauconite Formation, Willesden Green Field.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Summary of geomechanical parameters calculated at 2108 m, Glauconite Formation, Willesden Green Field.</caption-text>
+</formatted-caption>
+<table id="102118177261MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Dept h m</th>
+<th valign="top" align="center">ρ kg/m3</th>
+<th valign="top" align="center">
+<i>v</i> Dyn</th>
+<th valign="top" align="center">
+<i>v</i> Est</th>
+<th valign="top" align="center">G MM Psi</th>
+<th valign="top" align="center">E Dyn MMPsi</th>
+<th valign="top" align="center">E Est MMPsi</th>
+<th valign="top" align="center">S<sub>v</sub> MPa</th>
+<th valign="top" align="center">α<sub>v</sub>
+</th>
+<th valign="top" align="center">Net stress MPa</th>
+<th valign="top" align="center">Pp MPa</th>
+<th valign="top" align="center">Pn* MPa</th>
+<th valign="top" align="center">S<sub>hmin</sub> Mpa</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">2108</td>
+<td valign="top" align="center">2376.988</td>
+<td valign="top" align="center">0.229</td>
+<td valign="top" align="center">0.225</td>
+<td valign="top" align="center">2.642</td>
+<td valign="top" align="center">6.492</td>
+<td valign="top" align="center">5.251</td>
+<td valign="top" align="center">47.684</td>
+<td valign="top" align="center">0.700</td>
+<td valign="top" align="center">33.931</td>
+<td valign="top" align="center">13.753</td>
+<td valign="top" align="center">20.394</td>
+<td valign="top" align="center">15.042</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="2" data-type-order="5">
+<table-wrap id="102118177261MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Sandstone empirical correlations.- The number of empirical correlations for sandstones available in the literature is large (Table 2). These equations calculate the unconfined compressive strength (UCS) based on knowledge of compressional transit time or compressional velocity, shear velocity, porosity, fraction of clay or shale and density logs.</anchoringText>
+<label>Table 2</label>
+<caption>Empirical relationships between unconfined compressive strength (UCS) and other physical properties in sandstones (modified from Chang et al. 2006).</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Empirical relationships between unconfined compressive strength (UCS) and other physical properties in sandstones (modified from <link href="BIB12">Chang et al. 2006</link>).</caption-text>
+</formatted-caption>
+<table id="102118177261MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Eq.no.</th>
+<th valign="top" align="center">UCS (MPa)</th>
+<th valign="top" align="center">Region where developed</th>
+<th valign="top" align="center">General comments</th>
+<th valign="top" align="center">Reference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td bgcolor="#D7D7D7" align="left">
+<b>1</b>
+</td>
+<td bgcolor="#D7D7D7" align="left">0.035<i>V</i> p 31.5</td>
+<td bgcolor="#D7D7D7" align="left">Thuringia, Germany</td>
+<td bgcolor="#D7D7D7" align="left">-</td>
+<td bgcolor="#D7D7D7" align="left">
+<link href="BIB13">Freyburg (1972)</link>
+</td>
+</tr>
+<tr>
+<td align="left">
+<b>2</b>
+</td>
+<td align="left">1200<i>exp</i>( 0.036 <i>Δ</i>t)</td>
+<td valign="bottom" align="left">Bowen Basin, Australia</td>
+<td valign="bottom" align="left">Fine grained, both consolidated and unconsolidated sandstones with all porosity range</td>
+<td align="left">
+<link href="BIB14">McNally (1987)</link>
+</td>
+</tr>
+<tr>
+<td bgcolor="#D7D7D7" align="left">
+<b>3</b>
+</td>
+<td valign="bottom" bgcolor="#D7D7D7" align="left">
+<math display='block' xmlns='http://www.w3.org/1998/Math/MathML'>
+ <mrow>
+  <mrow><mo>(</mo>
+   <mrow>
+    <mfrac>
+     <mrow>
+      <mn>1.00</mn></mrow>
+     <mrow>
+      <mn>2.48</mn><mo>*</mo><msup>
+       <mrow>
+        <mn>10</mn></mrow>
+       <mrow>
+        <mo>&#x2212;</mo><mn>06</mn></mrow>
+      </msup>
+      <msup>
+       <mrow>
+        <mrow><mo>(</mo>
+         <mrow>
+          <mi>&#x0394;</mi><msub>
+           <mi>t</mi>
+           <mi>c</mi>
+          </msub>
+          <mo>&#x2212;</mo><mn>23.87</mn></mrow>
+        <mo>)</mo></mrow></mrow>
+       <mrow>
+        <mn>2.35</mn></mrow>
+      </msup>
+      </mrow>
+    </mfrac>
+    </mrow>
+  <mo>)</mo></mrow></mrow>
+</math>
+</td>
+<td bgcolor="#D7D7D7" align="left">-</td>
+<td bgcolor="#D7D7D7" align="left">Low porosities rock</td>
+<td bgcolor="#D7D7D7" align="left">
+<link href="BIB15">Onyia (1988)</link>
+</td>
+</tr>
+<tr>
+<td align="left">
+<b>4</b>
+</td>
+<td valign="bottom" align="left">
+<math display='block' xmlns='http://www.w3.org/1998/Math/MathML'>
+ <mrow>
+  <mn>3.3</mn><mtext>&#x2009;</mtext><mo>&#x00D7;</mo><mtext>&#x2009;</mtext><mn>10</mn><mtext>&#x2009;</mtext><mo>&#x2212;</mo><mtext>&#x2009;</mtext><mn>20</mn><mi>&#x03C1;</mi><mn>2</mn><mi>V</mi><mi>p</mi><mtext>&#x2009;</mtext><msup>
+   <mrow>
+    <mrow><mo>[</mo> <mrow>
+     <mfrac>
+      <mrow>
+       <mn>1</mn><mo>+</mo><mi>v</mi></mrow>
+      <mrow>
+       <mo stretchy='false'>(</mo><mn>1</mn><mo>&#x2212;</mo><mi>v</mi><mo stretchy='false'>)</mo><mo stretchy='false'>]</mo></mrow>
+     </mfrac>
+     </mrow> <mo>]</mo></mrow></mrow>
+   <mn>2</mn>
+  </msup>
+  <mo>*</mo><mo stretchy='false'>(</mo><mn>1</mn><mo>&#x2212;</mo><mn>2</mn><mi>v</mi><mo stretchy='false'>)</mo><mo stretchy='false'>[</mo><mn>1</mn><mo>+</mo><mn>0.78</mn><mtext>&#x2009;</mtext><mo>*</mo><mtext>&#x2009;</mtext><mi>V</mi><mi>c</mi><mi>l</mi><mi>a</mi><mi>y</mi><mo stretchy='false'>]</mo></mrow>
+</math>
+</td>
+<td align="left">Gulf Coast</td>
+<td align="left">Applicable to sandstones with UCS&#x003E;30 MPa</td>
+<td align="left">
+<link href="BIB15"> Fjær et al. (1992)</link>
+</td>
+</tr>
+<tr>
+<td bgcolor="#D7D7D7" align="left">
+<b>5</b>
+</td>
+<td bgcolor="#D7D7D7" align="left">357(1 - 2.8 <i>φ</i>)2</td>
+<td bgcolor="#D7D7D7" align="left">-</td>
+<td bgcolor="#D7D7D7" align="left">Very clean sandstones with ϕ &#x003C; 0.357</td>
+<td bgcolor="#D7D7D7" align="left">
+<link href="BIB16">Plumb (1994)</link>
+</td>
+</tr>
+<tr>
+<td align="left">
+<b>6</b>
+</td>
+<td align="left">1.745 × 10- 9<i>p</i>V<i>p</i> - 21</td>
+<td align="left">Cook Inlet, Alaska</td>
+<td align="left">Coarse grained sandstones and conglomerates</td>
+<td align="left">
+<link href="BIB17">Moos et al. (1999)</link>
+</td>
+</tr>
+<tr>
+<td bgcolor="#D7D7D7" align="left">
+<b>7</b>
+</td>
+<td valign="bottom" bgcolor="#D7D7D7" align="left">42.1<i> exp</i>(1.9 × 10<sup>-11</sup>
+<i>pV<sub>p</sub>
+<sup>2</sup>
+</i>)</td>
+<td bgcolor="#D7D7D7" align="left">Australia</td>
+<td valign="top" bgcolor="#D7D7D7" align="left">Consolidated sandstones with 0.05 &#x003C; ϕ &#x003C; 0.12 and UCS&#x003E; 80 MPa</td>
+<td valign="top" bgcolor="#D7D7D7" align="left">Unpublished, from <link href="BIB12">Chang etal. (2006)</link>
+</td>
+</tr>
+<tr>
+<td align="left">
+<b>8</b>
+</td>
+<td align="left">1.4138 × 107<i>Δ</i>t - 3</td>
+<td align="left">Gulf Coast</td>
+<td align="left">Weak and unconsolidated sandstones</td>
+<td align="left">Unpublished, from <link href="BIB12">Chang et al. (2006)</link>
+</td>
+</tr>
+<tr>
+<td bgcolor="#D7D7D7" align="left">
+<b>9</b>
+</td>
+<td bgcolor="#D7D7D7" align="left">3.87<i>exp</i>(1.14 × 10 - 10<i> pV<sub>p</sub>
+</i>)</td>
+<td bgcolor="#D7D7D7" align="left">Gulf of Mexico</td>
+<td bgcolor="#D7D7D7" align="left">-</td>
+<td bgcolor="#D7D7D7" align="left">Unpublished, from <link href="BIB12">Chang etal. (2006)</link>
+</td>
+</tr>
+<tr>
+<td align="left">
+<b>10</b>
+</td>
+<td align="left">46.2<i>exp</i>(0.027<i>E</i>)</td>
+<td align="left">-</td>
+<td align="left">-</td>
+<td align="left">Unpublished, from <link href="BIB12">Chang et al. (2006)</link>
+</td>
+</tr>
+<tr>
+<td bgcolor="#D7D7D7" align="left">
+<b>11</b>
+</td>
+<td bgcolor="#D7D7D7" align="left">2.28 + 4.1089<i>E</i>
+</td>
+<td bgcolor="#D7D7D7" align="left">Worldwide</td>
+<td bgcolor="#D7D7D7" align="left">-</td>
+<td bgcolor="#D7D7D7" align="left">
+<link href="BIB18">Bradford et al. (1998)</link>
+</td>
+</tr>
+<tr>
+<td align="left">
+<b>12</b>
+</td>
+<td align="left">254 (1 - 2.7<i>ϕ</i>)2</td>
+<td valign="top" align="left">Sedimentary basins worldwide</td>
+<td align="left">Very clean, well-consolidated sandstones with ϕ&#x003C;O.3</td>
+<td align="left">
+<link href="BIB18">Vernik et al. (1993)</link>
+</td>
+</tr>
+<tr>
+<td bgcolor="#D7D7D7" align="left">
+<b>13</b>
+</td>
+<td bgcolor="#D7D7D7" align="left">277 <i>exp</i>(-10<i> ϕ</i>)</td>
+<td bgcolor="#D7D7D7" align="left">-</td>
+<td bgcolor="#D7D7D7" align="left">Sandstones with 2&#x003C;UCS&#x003C;360 MPa and 0.002&#x003C; ϕ &#x003C;0.33</td>
+<td valign="bottom" bgcolor="#D7D7D7" align="left">Unpublished, from <link href="BIB12">Chang etal. (2006)</link>
+</td>
+</tr>
+<tr>
+<td align="left">
+<b>14</b>
+</td>
+<td valign="bottom" align="left">
+<math display='block' xmlns='http://www.w3.org/1998/Math/MathML'>
+ <mrow>
+  <mn>1.9</mn><mo>&#x00D7;</mo><msup>
+   <mrow>
+    <mn>10</mn></mrow>
+   <mrow>
+    <mo>&#x2212;</mo><mn>20</mn></mrow>
+  </msup>
+  <mi>&#x03C1;</mi><msubsup>
+   <mi>V</mi>
+   <mi>p</mi>
+   <mn>2</mn>
+  </msubsup>
+  <mrow><mo>(</mo>
+   <mrow>
+    <mfrac>
+     <mrow>
+      <mn>1</mn><mo>+</mo><msup>
+       <mi>v</mi>
+       <mn>2</mn>
+      </msup>
+      </mrow>
+     <mrow>
+      <mn>1</mn><mo>&#x2212;</mo><mi>v</mi></mrow>
+    </mfrac>
+    </mrow>
+  <mo>)</mo></mrow><mo>*</mo><mo stretchy='false'>(</mo><mn>1</mn><mo>&#x2212;</mo><mn>2</mn><mi>v</mi><mo stretchy='false'>)</mo><mo>*</mo><mo stretchy='false'>(</mo><mn>1</mn><mrow> <mrow>
+   <mo>+</mo><mn>0.78</mn><msub>
+    <mi>V</mi>
+    <mrow>
+     <mi>s</mi><mi>h</mi></mrow>
+   </msub>
+   </mrow> <mo>)</mo></mrow></mrow>
+</math>
+</td>
+<td align="left">-</td>
+<td align="left">-</td>
+<td align="left">
+<link href="BIB19">Borba et al. (2014)</link>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-15" type="bib">
+<bib id="BIB12">
+<label>Chang et al., 2006</label>
+<last-name>Chang</last-name>
+<author>
+<first-name>C.</first-name>
+<last-name>Chang</last-name>
+</author>, <last-name>Zoback</last-name>, <author>
+<first-name>M. D.</first-name>
+<last-name>Zoback</last-name>
+</author>, and <last-name>Khaksar</last-name>, <author>
+<first-name>A.</first-name>
+<last-name>Khaksar</last-name>
+</author>
+<pubDate>2006</pubDate>. <article-title>Empirical relations between rock strength and physical properties of sedimentary rocks </article-title>,<journal-title>Journal of Petroleum Science and Engineering </journal-title>
+<volume>51</volume>
+,pp <pages>
+<first-page>223</first-page>
+<last-page>237</last-page>
+</pages>.</bib>
+</linkTarget>
+<linkTarget id="link-16" type="bib">
+<bib id="BIB13">
+<label>Freyburg and Freyburg, 1972</label>
+<last-name>Freyburg</last-name>
+<author>
+<first-name>E.</first-name>
+<last-name>Freyburg</last-name>
+</author>
+<pubDate>1972</pubDate>. <article-title>Der Untere und mittlere Buntsandstein SWThuringen in seinen gesteinstechnicschen Eigenschaften </article-title>.
+<journal-title>Ber. Dtsch. Ges. Geol. Wiss., A; Berlin </journal-title>
+<volume>176</volume>
+,pp.
+<first-page>911</first-page>
+<last-page>919</last-page>.
+</bib>
+</linkTarget>
+<linkTarget id="link-17" type="bib">
+<bib id="BIB14">
+<label>McNally and McNally, 1987</label>
+<last-name>McNally</last-name>
+<author>
+<first-name>G. H.</first-name>
+<last-name>McNally</last-name>
+</author>
+<pubDate>1987</pubDate>. <article-title>Estimation of coal measures rock strength using sonic and neutron logs </article-title>.
+<journal-title>Geoexploration </journal-title>
+<volume>24</volume>
+,pp.
+<first-page>381</first-page>
+<last-page>395</last-page>
+.</bib>
+</linkTarget>
+<linkTarget id="link-18" type="bib">
+<bib id="BIB15">
+<label>Onyia and Onyia, 1988</label>
+<last-name>Onyia</last-name>
+<author>
+<first-name>E. C.</first-name>
+<last-name>Onyia</last-name>
+</author>
+<pubDate>1988</pubDate>. <article-title>Relationship Between Formation Strength, Drilling Strength, and Electric Log Properties. SPE 63rd Annual Technical Conference and Exhibition </article-title>. <journal-title>Houston: SPE 18166-MS </journal-title>, pp. <pages>
+<first-page>1</first-page>
+<last-page>14</last-page>
+</pages>.</bib>
+</linkTarget>
+<linkTarget id="link-20" type="bib">
+<bib id="BIB16">
+<label>Plumb and Plumb, 1994</label>
+<last-name>Plumb</last-name>
+<author>
+<first-name>R. A.</first-name>
+<last-name>Plumb</last-name>
+</author>
+<pubDate>1994</pubDate>. <article-title>Influence of composition and texture on the failure properties of clastic rocks</article-title>. SPE/ISRM 28022. In: Proc. Eurock’94. Delft, Netherlands, 29-31 August. A.A. Balkema, pp . <pages>
+<first-page>13</first-page>
+<last-page>20</last-page>
+</pages>
+</bib>
+</linkTarget>
+<linkTarget id="link-21" type="bib">
+<bib id="BIB17">
+<label>Moos et al., 1999</label>
+<last-name>Moos</last-name>
+<author>
+<first-name>D.</first-name>
+<last-name>Moos</last-name>
+</author>, <last-name>Zoback</last-name>, <author>
+<first-name>M. D.</first-name>
+<last-name>Zoback</last-name>
+</author>, and <last-name>Bailey</last-name>, <author>
+<first-name>L.</first-name>
+<last-name>Bailey</last-name>
+</author>
+<pubDate>1999</pubDate>. <article-title>Feasibility study of the stability of openhole multilaterals, Cook Inlet, Alaska. 1999 SPE Mid-Continent Operations Symposium held in Oklahoma City, Oklahoma, 28-31 March 1999 </article-title>, <journal-title>SPE </journal-title>
+<pages>
+<first-page>52186</first-page>
+</pages>.</bib>
+</linkTarget>
+<linkTarget id="link-22" type="bib">
+<bib id="BIB18">
+<label>Vernik and Vernik, 1993</label>
+<last-name>Vernik</last-name>
+<author>
+<first-name>L. Bruno</first-name>
+<last-name>Vernik</last-name>
+</author>, <article-title>M. and Bovberg, C </article-title>. <pubDate>1993</pubDate>. <journal-title>Empirical relations between compressive strength and porosity of siliciclastic rocks. <i>Int. J. Rock Mech. Min. Sci. Geomech. Abstr.</i>
+</journal-title>
+<volume>30</volume>
+,pp.
+<first-page>677</first-page>
+<last-page>680</last-page>.</bib>
+</linkTarget>
+<linkTarget id="link-23" type="bib">
+<bib id="BIB19">
+<label>Borba et al., 2014</label>
+<last-name>Borba</last-name>
+<author>
+<first-name>A. M.</first-name>
+<last-name>Borba</last-name>
+</author>, <last-name>Ferreira</last-name>, <author>
+<first-name>F. H.</first-name>
+<last-name>Ferreira</last-name>
+</author>, <last-name>Santos</last-name>, <author>
+<first-name>E. S. R.</first-name>
+<last-name>Santos</last-name>
+</author>, <last-name>Menezes</last-name>, <author>
+<first-name>V. M. D.</first-name>
+<last-name>Menezes</last-name>
+</author>, and Strugale, M. <pubDate>2014</pubDate>. <article-title>UCS Estimation through Uniaxial Compressive Test, Scratch Test and Based Log Empirical Correlation</article-title>. <journal-title>International Society for Rock Mechanics</journal-title>.</bib>
+</linkTarget>
+</appendix>
+</docTable>
+<docTable pdf-page="18" table-order="3" data-type-order="14">
+<table-wrap id="102118177261MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">A summary of geomechanical parameters used for calculation of the stress polygon are presented in Table 3.</anchoringText>
+<label>Table 3</label>
+<caption>Summary of geomechanical parameters calculated in order to estimate and delimitate the stress polygon at 2108 m, Glauconite Formation, Willesden Green Field.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Summary of geomechanical parameters calculated in order to estimate and delimitate the stress polygon at 2108 m, Glauconite Formation, Willesden Green Field.</caption-text>
+</formatted-caption>
+<table id="102118177261MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Depth, m</th>
+<th valign="top" align="center">2108</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">
+<b>UCS, MPa</b>
+</td>
+<td valign="top" align="center">36.267</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>μ</b>
+</td>
+<td valign="top" align="center">0.5</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>wBO, n</b>
+</td>
+<td valign="top" align="center">0</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>θ<sub>b</sub>, degrees</b>
+</td>
+<td valign="top" align="center">180</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>T<sub>0</sub>, MPa</b>
+</td>
+<td valign="top" align="center">0</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>Ceff, MPa/m</b>
+</td>
+<td valign="top" align="center">0.036</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>ΔP, MPa/m</b>
+</td>
+<td valign="top" align="center">0</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>σ<sup>ΔT</sup>, MPa/m</b>
+</td>
+<td valign="top" align="center">3.6512E-06</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>Tensile HF, MPa</b>
+</td>
+<td valign="top" align="center">18.11</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>WB, MPa</b>
+</td>
+<td valign="top" align="center">54.3</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>RF, MPa</b>
+</td>
+<td valign="top" align="center">94.39</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>NF, MPa</b>
+</td>
+<td valign="top" align="center">29.717</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>SS, MPa</b>
+</td>
+<td valign="top" align="center">18.169</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>S<sub>hmin</sub>, MPa</b>
+</td>
+<td valign="top" align="center">
+<b>18.35</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>S<sub>v</sub>, MPa</b>
+</td>
+<td valign="top" align="center">47.684</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>P<sub>p</sub>, MPa</b>
+</td>
+<td valign="top" align="center">18.462</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>P<sub>h</sub>, MPa</b>
+</td>
+<td valign="top" align="center">20.388</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>Hydrostatic gradient, MPa/m</b>
+</td>
+<td valign="top" align="center">0.42</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

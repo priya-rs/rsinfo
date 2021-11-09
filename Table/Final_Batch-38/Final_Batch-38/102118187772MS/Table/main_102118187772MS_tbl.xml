@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187772MS.txt" extractionDate="2021-03-24T16:09:55Z">
+<doi>10.2118/187772-MS</doi>
+<pii>10.2118/187772-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="7" table-order="1" data-type-order="6">
+<table-wrap id="102118187772MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The results of technical and economic calculations are given in Table 1.1 and in Figures 1.5 and 1.6.</anchoringText>
+<label>Table 1.1</label>
+<caption>Investigation of optimal length of the horizontal section</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1.1</caption-order>
+<caption-text>Investigation of optimal length of the horizontal section</caption-text>
+</formatted-caption>
+<table id="102118187772MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" bgcolor="#FFC000">Length of HW, m</th>
+<th valign="top" align="center" bgcolor="#FFC000">500</th>
+<th valign="top" align="center" bgcolor="#FFC000">750</th>
+<th valign="top" align="center" bgcolor="#FFC000">900</th>
+<th valign="top" align="center" bgcolor="#FFC000">1000</th>
+<th valign="top" align="center" bgcolor="#FFC000">1250</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" bgcolor="#D8E4BC">Recovery factor, frac. units</td>
+<td valign="top" align="center" bgcolor="#D8E4BC">0.135</td>
+<td valign="top" align="center" bgcolor="#D8E4BC">0.15</td>
+<td valign="top" align="center" bgcolor="#D8E4BC">0.165</td>
+<td valign="top" align="center" bgcolor="#D8E4BC">0.16</td>
+<td valign="top" align="center" bgcolor="#D8E4BC">0.156</td>
+</tr>
+<tr>
+<td valign="top" align="left">Apprecation of 1 m drilling, frac. units</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">1.05</td>
+<td valign="top" align="center">1.11</td>
+<td valign="top" align="center">1.15</td>
+<td valign="top" align="center">1.25</td>
+</tr>
+<tr>
+<td valign="top" align="left">Well’s depth, m</td>
+<td valign="top" align="center">2000</td>
+<td valign="top" align="center">2250</td>
+<td valign="top" align="center">2400</td>
+<td valign="top" align="center">2500</td>
+<td valign="top" align="center">2750</td>
+</tr>
+<tr>
+<td valign="top" align="left" bgcolor="#D8E4BC">NPV, units</td>
+<td valign="top" align="center" bgcolor="#D8E4BC">1</td>
+<td valign="top" align="center" bgcolor="#D8E4BC">1.26</td>
+<td valign="top" align="center" bgcolor="#D8E4BC">1.42</td>
+<td valign="top" align="center" bgcolor="#D8E4BC">1.4</td>
+<td valign="top" align="center" bgcolor="#D8E4BC">1.42</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Complex coefficient (RF&amp;NPV), frac. units</b>
+</td>
+<td valign="top" align="center">
+<b>0.87</b>
+</td>
+<td valign="top" align="center">
+<b>0.95</b>
+</td>
+<td valign="top" align="center">
+<b>1</b>
+</td>
+<td valign="top" align="center">
+<b>0.99</b>
+</td>
+<td valign="top" align="center">
+<b>0.99</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="14" table-order="2" data-type-order="16">
+<table-wrap id="102118187772MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">For the Bt target, the solution for the location of the development system, its type, HW well lengths (Table 2.1, Figure 2.2 - indicators without changing the distance between the wells in a type plot), the organization of water flooding (WF), the placement of the effective part of the holes in the section and the recoveries (drawdown in a well depending on a zone) was developed in 2014-2015 with the use of numerical simulation based on the geological and commercial information available at that time [1].</anchoringText>
+<label>Table 2.1</label>
+<caption>Determination of the optimal HW length for the G/O/W zone</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2.1</caption-order>
+<caption-text>Determination of the optimal HW length for the G/O/W zone</caption-text>
+</formatted-caption>
+<table id="102118187772MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left" bgcolor="#FECD2D">Length of HW</th>
+<th valign="top" align="center" bgcolor="#FECD2D">500</th>
+<th valign="top" align="center" bgcolor="#FECD2D">750</th>
+<th valign="top" align="center" bgcolor="#FECD2D">1000</th>
+<th valign="top" align="center" bgcolor="#FECD2D">1250</th>
+<th valign="top" align="center" bgcolor="#FECD2D">1500</th>
+<th valign="top" align="center" bgcolor="#FECD2D">2000</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" bgcolor="#BCBCBC">Recovery factor, frac. of units</td>
+<td valign="top" align="center" bgcolor="#BCBCBC">0.143</td>
+<td valign="top" align="center" bgcolor="#BCBCBC">0.143</td>
+<td valign="top" align="center" bgcolor="#BCBCBC">0.145</td>
+<td valign="top" align="center" bgcolor="#BCBCBC">0.143</td>
+<td valign="top" align="center" bgcolor="#BCBCBC">0.141</td>
+<td valign="top" align="center" bgcolor="#BCBCBC">0.135</td>
+</tr>
+<tr>
+<td valign="top" align="left">Appreciation of 1m drilling, fr. u.</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">1.05</td>
+<td valign="top" align="center">1.15</td>
+<td valign="top" align="center">1.25</td>
+<td valign="top" align="center">1.4</td>
+<td valign="top" align="center">1.6</td>
+</tr>
+<tr>
+<td valign="top" align="left">Well depth, m</td>
+<td valign="top" align="center">3000</td>
+<td valign="top" align="center">3250</td>
+<td valign="top" align="center">3500</td>
+<td valign="top" align="center">3750</td>
+<td valign="top" align="center">4000</td>
+<td valign="top" align="center">4500</td>
+</tr>
+<tr>
+<td valign="top" align="left">No of wells at the well pad, units</td>
+<td valign="top" align="center">24</td>
+<td valign="top" align="center">22</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">18</td>
+<td valign="top" align="center">16</td>
+<td valign="top" align="center">14</td>
+</tr>
+<tr>
+<td valign="top" align="left" bgcolor="#BCBCBC">NPV, units</td>
+<td valign="top" align="center" bgcolor="#BCBCBC">-7485</td>
+<td valign="top" align="center" bgcolor="#BCBCBC">4255</td>
+<td valign="top" align="center" bgcolor="#BCBCBC">10450</td>
+<td valign="top" align="center" bgcolor="#BCBCBC">13772</td>
+<td valign="top" align="center" bgcolor="#BCBCBC">14710</td>
+<td valign="top" align="center" bgcolor="#BCBCBC">16294</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Complex coefficient (RF&amp;NPV), frac. units</b>
+</td>
+<td valign="top" align="center">
+<b>0.52</b>
+</td>
+<td valign="top" align="center">
+<b>0.78</b>
+</td>
+<td valign="top" align="center">
+<b>0.91</b>
+</td>
+<td valign="top" align="center">
+<b>0.958</b>
+</td>
+<td valign="top" align="center">
+<b>0.97</b>
+</td>
+<td valign="top" align="center">
+<b>0.99</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="37" table-order="3" data-type-order="51">
+<table-wrap id="102118187772MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">For Yaraktinskoe Filed an average time delay in injection system start is 1.5 year. Therefore the further stage of optimization program was to determine the production wells regimes during depletion period. To solve the problem the synthetic simulation model (“layer-cake” type) was constructed. (figure 3.10). Lithology and porosity distribution was performed in reliance on vertical proportion curves from wellbores in oil rims zones. Permeability and saturation were calculated in agreement to core correlations. Dimension and parameters of the model presented in Table A.1.</anchoringText>
+<label>Table A.1</label>
+<caption>Synthetic simulation model parameters</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>A.1</caption-order>
+<caption-text>Synthetic simulation model parameters</caption-text>
+</formatted-caption>
+<table id="102118187772MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left" bgcolor="#70AD47">Parameter</th>
+<th valign="top" align="center" bgcolor="#70AD47">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" bgcolor="#70AD47">
+<b>So, u.f.</b>
+</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.68</td>
+</tr>
+<tr>
+<td valign="top" align="left" bgcolor="#70AD47">
+<b>Sw, u.f.</b>
+</td>
+<td valign="top" align="center" bgcolor="#E2EFD9">0.2</td>
+</tr>
+<tr>
+<td valign="top" align="left" bgcolor="#70AD47">
+<b>Sg, u.f.</b>
+</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.12</td>
+</tr>
+<tr>
+<td valign="top" align="left" bgcolor="#70AD47">
+<b>POR, u.f.</b>
+</td>
+<td valign="top" align="center" bgcolor="#E2EFD9">0.109</td>
+</tr>
+<tr>
+<td valign="top" align="left" bgcolor="#70AD47">
+<b>K, mD</b>
+</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">89</td>
+</tr>
+<tr>
+<td valign="top" align="left" bgcolor="#70AD47">
+<b>NTG, u.f.</b>
+</td>
+<td valign="top" align="center" bgcolor="#E2EFD9">0.386</td>
+</tr>
+<tr>
+<td valign="top" align="left" bgcolor="#70AD47">
+<b>Dimension x</b>
+</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">41 (2040 m)</td>
+</tr>
+<tr>
+<td valign="top" align="left" bgcolor="#70AD47">
+<b>Dimension y</b>
+</td>
+<td valign="top" align="center" bgcolor="#E2EFD9">102 (2040 m)</td>
+</tr>
+<tr>
+<td valign="top" align="left" bgcolor="#70AD47">
+<b>Dimension z</b>
+</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">50 (450 m)</td>
+</tr>
+<tr>
+<td valign="top" align="left" bgcolor="#70AD47">
+<b>Total cells</b>
+</td>
+<td valign="top" align="center" bgcolor="#E2EFD9">
+<b>1 881 900</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

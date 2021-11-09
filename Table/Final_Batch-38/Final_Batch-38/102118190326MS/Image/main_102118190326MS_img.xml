@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190326MS.txt" extractionDate="2021-03-27T12:06:39Z">
+<doi>10.2118/190326-MS</doi>
+<pii>10.2118/190326-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">Pilot zone sands show tendence to injector - producer channeling and in the pilot patterns 2 producers have been shut prior to pilot implementation. This factor caused that only 2 producer wells were defined as central, surrounded only by polymer injectors (See pilot zone in Figure 1). Along with the pattern centered in the injector, this brought along a higher complexity at the time of project evaluation because of the dilution effect.</anchoringText>
+<image-wrap id="102118190326MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118190326MS_i_1.tif" id="ImgLink-1" />
+<caption>Pilot Zone</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Pilot Zone</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">First model was used for pilot design and sensitivity analysis, and it was the initial tool to follow up the project at the beginning of polymer injection. Once the more comprehensive and detailed model was available, it began to be used for surveillance and history matching purposes. Nevertheless both numerical models represent the same phenomena and count with same limitations to represent certain aspects. Figure 2 shows both single injection satellite and expansion zone models.</anchoringText>
+<image-wrap id="102118190326MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118190326MS_i_2.tif" id="ImgLink-2" />
+<caption>Pilot Scale Model and Comprehensive Model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Pilot Scale Model and Comprehensive Model</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190326MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118190326MS_i_2a.tif" id="ImgLink-2a" />
+</image-wrap>
+<image-wrap id="102118190326MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118190326MS_i_2b.tif" id="ImgLink-2b" />
+</image-wrap>
+<image-wrap id="102118190326MS-Img_SPi-2c">
+<imageLink type="mediaResource" href="102118190326MS_i_2c.tif" id="ImgLink-2c" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Even though adsorption was higher than the P50 value used as initial estimation, history matched adsorption still lies within the range of measured values in the lab stage (2.5 – 8 mg/kg rock). Because of the way the process is modeled, effects like polymer chemical/ mechanical degradation occurring in the reservoir, polymer retention and polymer adsorption would all throw same simulated production response as a higher polymer adsorption, since they all remove available polymer amount for mobility control enhancement. By the use of this tool only, no control in the separate effects is describable. Figure 3 shows the extended plateau for field response and its comparison with pre- defined production baseline.</anchoringText>
+<image-wrap id="102118190326MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118190326MS_i_3.tif" id="ImgLink-3" />
+<caption>Pilot Production Response</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Pilot Production Response</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">In order to cover the uncertainty in baseline and incremental cases an assisted history matching tool was used in order to run more than 1000 cases that were later on used to generate an incremental production distribution curve. Figure 4 describes the incremental production distribution curve for pilot zone, where it's appreciated that expected incremental recovery factor for the pilot lies in the expected range. This analysis was extended to all the satellites involved in the expansion zone, as it will be shown in the following section.</anchoringText>
+<image-wrap id="102118190326MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118190326MS_i_4.tif" id="ImgLink-4" />
+<caption>Pilot Production Response and Incremental Recovery Factor Distribution</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Pilot Production Response and Incremental Recovery Factor Distribution</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">First of all, the size of the expansion project had to be defined and in the case of El Corcobo Norte polymer project, limiting factor is fresh water rate available for polymer hydration. Since the concesion owns an existing contract with local authorities for water supply, available water rate delimited the zone susceptible to polymer injection with a fresh water design. Total injection rate and polymer consumption for the project are shown in Figure 5.</anchoringText>
+<image-wrap id="102118190326MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118190326MS_i_5.tif" id="ImgLink-5" />
+<caption>Expansion Injection Rate and Polymer Consumption</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Expansion Injection Rate and Polymer Consumption</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">With this design the dilution effect would not be present, considering more than 70% of the producers would be totally surrounded by polymer injectors. Figure 6 shows the field scale project expansion zone. Injection zone VI would be incorporated once injection zone I (pilot zone) no longer injects polymer, timeframe after which polymer shows no upside in comparison to water injection (estimated time through simulation is 2022).</anchoringText>
+<image-wrap id="102118190326MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118190326MS_i_6.tif" id="ImgLink-6" />
+<caption>Field Scale Project Expansion Zone</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Field Scale Project Expansion Zone</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="7" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">To generate scenarios the probabilistic production analysis described for zone I (pilot zone) was extended to the rest of the modeled zones that are part of the expansion. Considering the comprehensive numerical model covers part of the expansion zone, an analogic workflow was used to upscale the polymer response to non simulated areas, and sensitivity analysis was also extended in order to include them in the project total response. The result for this analysis is shown in Figure 7.</anchoringText>
+<image-wrap id="102118190326MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118190326MS_i_7.tif" id="ImgLink-7" />
+<caption>Expansion Production Response and Expected Incremental Recovery Factor. Lognormal Distribution, Expansion Production Forecast</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Expansion Production Response and Expected Incremental Recovery Factor. Lognormal Distribution, Expansion Production Forecast</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190326MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118190326MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Lognormal Distribution</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190326MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118190326MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Expansion Production Forecast</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">In the case of the six injectors of the pilot, injection set up is so that each well has a separate polymer pump, allowing the control of each well's polymer concentration. This resource was eventually used to analyze the behavior of injection pressure vs. polymer concentration, and individually select wells for concentration reduction in times of polymer shortage. Current set up for pilot's facilities are shown in Figures 8a and 8b.</anchoringText>
+<image-wrap id="102118190326MS-Img_SPi-8">
+<label>Figure 8a </label>
+<imageLink type="mediaResource" href="102118190326MS_i_8.tif" id="ImgLink-8" />
+<caption>Pilot's Process Flow Diagram</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8a</caption-order>
+<caption-text>Pilot's Process Flow Diagram</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">In the case of the six injectors of the pilot, injection set up is so that each well has a separate polymer pump, allowing the control of each well's polymer concentration. This resource was eventually used to analyze the behavior of injection pressure vs. polymer concentration, and individually select wells for concentration reduction in times of polymer shortage. Current set up for pilot's facilities are shown in Figures 8a and 8b.</anchoringText>
+<image-wrap id="102118190326MS-Img_SPi-9">
+<label>Figure 8b </label>
+<imageLink type="mediaResource" href="102118190326MS_i_9.tif" id="ImgLink-9" />
+<caption>Pilot Plant Layout</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8b</caption-order>
+<caption-text>Pilot Plant Layout</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">Addition of new polymer maturation tanks that complement existing ones. Upscaled polymer plant is showed in Figure 9.</anchoringText>
+<image-wrap id="102118190326MS-Img_SPi-10">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118190326MS_i_10.tif" id="ImgLink-10" />
+<caption>Upscaled Facilities Process Flow Diagram</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Upscaled Facilities Process Flow Diagram</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="10" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">Updated injection pressure behavior for the pilot is shown in Figures 10a and 10b. As covered by Hryc et al., pressure building under polymer injection was expected, and in El Corcobo Norte CHOPS strategy (Cold Heavy Oil Production with Sand) makes injection pressures a very hard-to-predict parameter. This dispersion in pressure behavior is also expected in injector wells involved in the expansion.</anchoringText>
+<image-wrap id="102118190326MS-Img_SPi-11">
+<label>Figure 10a </label>
+<imageLink type="mediaResource" href="102118190326MS_i_11.tif" id="ImgLink-11" />
+<caption>Injector Well Response ECN-Ai ECN-Bi ECN-Ci</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10a</caption-order>
+<caption-text>Injector Well Response ECN-Ai ECN-Bi ECN-Ci</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190326MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118190326MS_i_11a.tif" id="ImgLink-11a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>ECN-Ai</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190326MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118190326MS_i_11b.tif" id="ImgLink-11b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>ECN-Bi</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190326MS-Img_SPi-11c">
+<imageLink type="mediaResource" href="102118190326MS_i_11c.tif" id="ImgLink-11c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>ECN-Ci</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="11" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">Updated injection pressure behavior for the pilot is shown in Figures 10a and 10b. As covered by Hryc et al., pressure building under polymer injection was expected, and in El Corcobo Norte CHOPS strategy (Cold Heavy Oil Production with Sand) makes injection pressures a very hard-to-predict parameter. This dispersion in pressure behavior is also expected in injector wells involved in the expansion.</anchoringText>
+<image-wrap id="102118190326MS-Img_SPi-12">
+<label>Figure 10b </label>
+<imageLink type="mediaResource" href="102118190326MS_i_12.tif" id="ImgLink-12" />
+<caption>Injector Well Response ECN-Di ECN-Ei ECN-Fi</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10b</caption-order>
+<caption-text>Injector Well Response ECN-Di ECN-Ei ECN-Fi</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190326MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118190326MS_i_12a.tif" id="ImgLink-12a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>ECN-Di</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190326MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118190326MS_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>ECN-Ei</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190326MS-Img_SPi-12c">
+<imageLink type="mediaResource" href="102118190326MS_i_12c.tif" id="ImgLink-12c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>ECN-Fi</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">In order to attend injectivity and desired injection rate, the use of curlers was tested in order to give a specific a pressure drop without tempering with the polymer solution properties. Curler device would be installed in the injector surface line, and the length of the curl relates to introduced delta pressure. Figure 11 shows an example of curler type that'd be used to address pressure control.</anchoringText>
+<image-wrap id="102118190326MS-Img_SPi-13">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118190326MS_i_13.tif" id="ImgLink-13" />
+<caption>Curlers Set Up Example</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Curlers Set Up Example</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

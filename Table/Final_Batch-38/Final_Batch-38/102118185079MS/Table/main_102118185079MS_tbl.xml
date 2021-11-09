@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185079MS.txt" extractionDate="2021-03-29T12:37:11Z">
+<doi>10.2118/185079-MS</doi>
+<pii>10.2118/185079-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="6" table-order="1" data-type-order="4">
+<table-wrap id="102118185079MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">To represent the previously presented conceptual model, a compositional simulation model is built in GEM of the Computer Modeling Group (CMG). As the sweet spots in the Eagle Ford are known to be naturally fractured, a dual permeability approach is selected. The grid consists of three boxes that represent containers (O), (C) and (G) as shown in Figure 3. There is no fluid flow between containers as shown by Ramirez and Aguilera (2016). Each box has an area of 127 acres and a thickness of 200 ft. Reservoir fluid compositions published by Ramirez and Aguilera (2016) are used in the study (Table 1).</anchoringText>
+<label>Table 1</label>
+<caption>Fluid composition for the three containers defined in the model (Ramirez and Aguilera, 2016).</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Fluid composition for the three containers defined in the model (<link href="BIB4">Ramirez and Aguilera, 2016</link>).</caption-text>
+</formatted-caption>
+<table id="102118185079MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="left">Component</th>
+<th colspan="3" valign="top" align="center">Molar Fraction  </th>
+</tr>
+<tr>
+<th valign="top" align="left">Oil Container</th>
+<th valign="top" align="left">Condensate Container</th>
+<th valign="top" align="left">Dry Gas Container</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">CO<sub>2</sub>
+</td>
+<td valign="top" align="left">0.0091</td>
+<td valign="top" align="left">0.0121</td>
+<td valign="top" align="left">0.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">N<sub>2</sub>
+</td>
+<td valign="top" align="left">0.0016</td>
+<td valign="top" align="left">0.0194</td>
+<td valign="top" align="left">0.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">C<sub>1</sub>
+</td>
+<td valign="top" align="left">0.3647</td>
+<td valign="top" align="left">0.6599</td>
+<td valign="top" align="left">0.9468</td>
+</tr>
+<tr>
+<td valign="top" align="left">C<sub>2</sub>
+</td>
+<td valign="top" align="left">0.0967</td>
+<td valign="top" align="left">0.0869</td>
+<td valign="top" align="left">0.0527</td>
+</tr>
+<tr>
+<td valign="top" align="left">C<sub>3</sub>
+</td>
+<td valign="top" align="left">0.0695</td>
+<td valign="top" align="left">0.0591</td>
+<td valign="top" align="left">0.0005</td>
+</tr>
+<tr>
+<td valign="top" align="left">C<sub>4-6</sub>
+</td>
+<td valign="top" align="left">0.1255</td>
+<td valign="top" align="left">0.0967</td>
+<td valign="top" align="left">0.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">C<sub>7+1</sub>
+</td>
+<td valign="top" align="left">0.20</td>
+<td valign="top" align="left">0.047448</td>
+<td valign="top" align="left">0.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">C<sub>7+2</sub>
+</td>
+<td valign="top" align="left">0.10</td>
+<td valign="top" align="left">0.015157</td>
+<td valign="top" align="left">0.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">C<sub>7+3</sub>
+</td>
+<td valign="top" align="left">0.0329</td>
+<td valign="top" align="left">0.003295</td>
+<td valign="top" align="left">0.0</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-50" type="bib">
+<bib id="BIB4">
+<label>Ramirez and Aguilera, 2016</label>
+<author>
+<first-name>J.</first-name>
+<last-name>Ramirez</last-name>
+</author>, <author>
+<first-name>R.</first-name>
+<last-name>Aguilera</last-name>
+</author>, 
+<pubDate>2016</pubDate>. <article-title>Factors Controlling Fluid Migration and Distribution in the Eagle Ford Shale. </article-title>. <journal-title><i>SPE Formation Evaluation and Engineering. SPE 171626-PA (in press; posted June 2016).</i></journal-title> http://dx.doi.org/10.2118/171626-PA</bib>
+</linkTarget>
+</appendix>
+</docTable>
+<docTable pdf-page="6" table-order="2" data-type-order="5">
+<table-wrap id="102118185079MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The production behavior of any reservoir is largely determined by relative permeabilities. Unfortunately this property is not fully understood yet in shale reservoirs. However, some authors have published shales relative permeability data. For example, Daigle et al. (2015) presented gas-water permeability curves for Woodford and Green River shales as well as the Cretaceous Cameo Coal. Suhrer et at. (2013) used digital rock physic methods to calculate gas-water and oil-water relative permeabilities of samples from a shale formation in Colombia. Agboada et al. (2013) published relative permeability data obtained from history matching of two wells in the Eagle Ford shale. In this work, relative permeability curves are built using Corey’s end points and exponents shown in Table 2 published by Honarpour et al. (2012).</anchoringText>
+<caption>Table 2 Relative permeability models for fractures and matrix (organic and calcite rich). (Honarpour et al., 2012).</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>(organic and calcite rich). (<link href="BIB2">Honarpour et al., 2012)</link>.</caption-text>
+</formatted-caption>
+<table id="102118185079MS-Tbl_SPi-2" frame="hsides">
+<tbody>
+<tr>
+<td rowspan="9" valign="top" align="center">
+<b>
+<i>TOC</i>-rich</b>
+</td>
+<td colspan="3" valign="bottom" align="center">
+<b>
+<i>Gas Phase</i>
+</b>
+</td>
+<td colspan="3" valign="bottom" align="center">
+<b>
+<i>Oil Phase</i>
+</b>
+</td>
+<td colspan="2" valign="bottom" align="center">
+<b>
+<i>Water Phase</i>
+</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">
+<b>Sensitivity</b>
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">
+<b>Sensitivity</b>
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>S<i>
+<sub>gc</sub>
+</i>
+</b>
+</td>
+<td valign="bottom" align="center">0.2</td>
+<td valign="bottom" align="center">0.18-0.22</td>
+<td valign="bottom" align="center">
+<b>S<i><sub>org</sub></i></b>
+</td>
+<td valign="bottom" align="center">0.5</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">
+<b>
+<i>S<sub>wmin</sub>
+</i>
+</b>
+</td>
+<td valign="bottom" align="center">0.25</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>Corey Gas</b>
+</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">2-7.5</td>
+<td valign="bottom" align="center">
+<b>Corey O/W</b>
+</td>
+<td valign="bottom" align="center">5</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">
+<b>
+<i>S<sub>wer</sub>
+</i>
+</b>
+</td>
+<td valign="bottom" align="center">0.25</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>
+<i>K<sub>rg</sub>
+</i>
+</b>
+<b>at </b>
+<b>
+<i>S<sub>wmin</sub>
+</i>
+</b>
+</td>
+<td valign="bottom" align="center">0.5</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">
+<b>Corey O/G</b>
+</td>
+<td valign="bottom" align="center">4.5</td>
+<td valign="bottom" align="center">3-6</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>
+<i>K<sub>rg</sub>
+</i> at </b>
+<b>
+<i>S<sub>org</sub>
+</i>
+</b>
+</td>
+<td valign="bottom" align="center">0.01</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">
+<b>
+<i>K<sub>ro</sub>
+</i> at <i>S<sub>omax</sub>
+</i>
+</b>
+</td>
+<td valign="bottom" align="center">4</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="bottom" align="center">
+<b>
+<i>Gas Phase</i>
+</b>
+</td>
+<td colspan="3" valign="bottom" align="center">
+<b>
+<i>Oil Phase</i>
+</b>
+</td>
+<td colspan="2" valign="bottom" align="center">
+<b>
+<i>Water Phase</i>
+</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">
+<b>Sensitivity</b>
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">
+<b>Sensitivity</b>
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>S<i>
+<sub>gc</sub>
+</i>
+</b>
+</td>
+<td valign="bottom" align="center">0.15</td>
+<td valign="bottom" align="center">0.13-0.17</td>
+<td valign="bottom" align="center">
+<b>S<i>
+<sub>org</sub>
+</i>
+</b>
+</td>
+<td valign="bottom" align="center">0.3</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">
+<b>
+<i>S<sub>wmin</sub>
+</i>
+</b>
+</td>
+<td valign="bottom" align="center">0.5</td>
+</tr>
+<tr>
+<td rowspan="6" valign="top" align="center">
+<b>Calcite-rich</b>
+</td>
+<td valign="bottom" align="center">
+<b>Corey Gas</b>
+</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">1-7.5</td>
+<td valign="bottom" align="center">
+<b>Corey O/W</b>
+</td>
+<td valign="bottom" align="center">4</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">
+<b>
+<i>S<sub>wer</sub>
+</i>
+</b>
+</td>
+<td valign="bottom" align="center">0.55</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>
+<i>K<sub>rg</sub>
+</i>
+</b>
+<b>at </b>
+<b>
+<i>S<sub>wmin</sub>
+</i>
+</b>
+</td>
+<td valign="bottom" align="center">0.7</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">
+<b>Corey O/G</b>
+</td>
+<td valign="bottom" align="center">3.5</td>
+<td valign="bottom" align="center">2-5</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>
+<i>K<sub>rg</sub>
+</i> at </b>
+<b>
+<i>S<sub>org</sub>
+</i>
+</b>
+</td>
+<td valign="bottom" align="center">0.01</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">
+<b>
+<i>K<sub>ro</sub>
+</i> at <i>S<sub>omax</sub>
+</i>
+</b>
+</td>
+<td valign="bottom" align="center">0.6</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="bottom" align="center">
+<b>
+<i>Gas Phase</i>
+</b>
+</td>
+<td colspan="3" valign="bottom" align="center">
+<b>
+<i>Oil Phase</i>
+</b>
+</td>
+<td colspan="2" valign="bottom" align="center">
+<b>
+<i>Water Phase</i>
+</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">
+<b>Sensitivity</b>
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">
+<b>Sensitivity</b>
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>S<i>
+<sub>gc</sub>
+</i>
+</b>
+</td>
+<td valign="bottom" align="center">0.05</td>
+<td valign="bottom" align="center">0.0-0.1</td>
+<td valign="bottom" align="center">
+<b>S<i>
+<sub>org</sub>
+</i>
+</b>
+</td>
+<td valign="bottom" align="center">0.1</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">
+<b>
+<i>S<sub>wmin</sub>
+</i>
+</b>
+</td>
+<td valign="bottom" align="center">0.1</td>
+</tr>
+<tr>
+<td rowspan="3" valign="bottom" align="center">
+<b>Fracture</b>
+</td>
+<td valign="bottom" align="center">
+<b>Corey Gas</b>
+</td>
+<td valign="bottom" align="center">1.2</td>
+<td valign="bottom" align="center">1-1.4</td>
+<td valign="bottom" align="center">
+<b>Corey O/W</b>
+</td>
+<td valign="bottom" align="center">2.5</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">
+<b>
+<i>S<sub>wer</sub>
+</i>
+</b>
+</td>
+<td valign="bottom" align="center">0.1</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>
+<i>K<sub>rg</sub>
+</i>
+</b>
+<b>at </b>
+<b>
+<i>S<sub>wmin</sub>
+</i>
+</b>
+</td>
+<td valign="bottom" align="center">0.9</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">
+<b>Corey O/G</b>
+</td>
+<td valign="bottom" align="center">1.5</td>
+<td valign="bottom" align="center">1-2</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>
+<i>K<sub>rg</sub>
+</i> at </b>
+<b>
+<i>S<sub>org</sub>
+</i>
+</b>
+</td>
+<td valign="top" align="center">0.05-0.5</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">
+<b>
+<i>K<sub>ro</sub>
+</i> at <i>S<sub>omax</sub>
+</i>
+</b>
+</td>
+<td align="center">0.7</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-50" type="bib">
+<bib id="BIB2">
+<label>Honarpour et al., 2012</label>
+<author>
+<first-name>M.</first-name>
+<last-name>Honarpour</last-name>
+</author>, <author>
+<first-name>N.</first-name>
+<last-name>Nagarajan</last-name>
+</author>, <author>
+<first-name>A.</first-name>
+<last-name>Orangi</last-name>
+</author>, <author>
+<first-name>F.</first-name>
+<last-name>Arasteh</last-name>
+</author>, <author>
+<first-name>Z.</first-name>
+<last-name>Yao</last-name>
+</author>
+<pubDate>2012</pubDate>. <article-title>Characterization of Critical Fluid, Rock and Rock Fluid Properties-Impact on Reservoir Performance of Liquid-rich Shales. Presented at the SPE Annual Technical Conference and Exhibition, San Antonio, Texas, USA, 8-10 October </article-title>. <journal-title>SPE </journal-title>
+<volume>158042</volume>.</bib>
+</linkTarget>
+</appendix>
+</docTable>
+<docTable pdf-page="8" table-order="3" data-type-order="7">
+<table-wrap id="102118185079MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Table 3 summarizes the reservoir properties and the wellbore parameters for the three containers in the model. Multicomponent adsorption is included using the extended Langmuir isotherm (Arri et.al, 1992):</anchoringText>
+<label>Table 3</label>
+<caption>Reservoir and wellbore geometry parameters for the Simulation Model.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Reservoir and wellbore geometry parameters for the Simulation Model.</caption-text>
+</formatted-caption>
+<table id="102118185079MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th align="left">Parameter</th>
+<th align="center">Symbol</th>
+<th align="center">Oil Container</th>
+<th align="center">Condensate Container</th>
+<th align="center">Dry Gas Container</th>
+<th align="center">Units</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Initial reservoir pressure</td>
+<td align="center">
+<i>P<sub>i</sub>
+</i>
+</td>
+<td align="center">4,000</td>
+<td align="center">4,800</td>
+<td align="center">8500</td>
+<td align="center">psi</td>
+</tr>
+<tr>
+<td valign="top" align="left">Water compressibility</td>
+<td valign="top" align="center">
+<i>C<sub>w</sub>
+</i>
+</td>
+<td valign="top" align="center">3.00E-06</td>
+<td valign="top" align="center">3.00E-06</td>
+<td valign="top" align="center">3.00E-06</td>
+<td valign="top" align="center">1 psia</td>
+</tr>
+<tr>
+<td align="left">Matrix compressibility</td>
+<td align="center">
+<i>C<sub>m</sub>
+</i>
+</td>
+<td align="center">1.00E-6</td>
+<td align="center">1.00E-6</td>
+<td align="center">1.00E-6</td>
+<td align="center">1 psia</td>
+</tr>
+<tr>
+<td valign="top" align="left">Natural fracture compressibility</td>
+<td valign="top" align="center">
+<i>C<sub>f</sub>
+</i>
+</td>
+<td valign="top" align="center">1.0 0E-5</td>
+<td valign="top" align="center">1.00E-5</td>
+<td valign="top" align="center">1.0 0E-5</td>
+<td valign="top" align="center">1 psia</td>
+</tr>
+<tr>
+<td align="left">Formation Top</td>
+<td align="center">
+<i>D<sub>R</sub>
+</i>
+</td>
+<td align="center">6,000</td>
+<td align="center">8,000</td>
+<td align="center">14,000</td>
+<td align="center">ft</td>
+</tr>
+<tr>
+<td align="left">Matrix porosity</td>
+<td align="center">
+<i>0<sub>m</sub>
+</i>
+</td>
+<td align="center">0.055</td>
+<td align="center">0.066</td>
+<td align="center">0.077</td>
+<td align="center">Fraction</td>
+</tr>
+<tr>
+<td align="left">Natural fractures Porosity</td>
+<td align="center">
+<i>02</i>
+</td>
+<td align="center">0.00055</td>
+<td align="center">0.00055</td>
+<td align="center">0.00066</td>
+<td align="center">Fraction</td>
+</tr>
+<tr>
+<td align="left">Matrix Permeability</td>
+<td valign="top" align="center">
+<i>ϕ<sub>m</sub>
+</i>
+</td>
+<td valign="bottom" align="center">0.0001</td>
+<td valign="bottom" align="center">0.0001</td>
+<td valign="bottom" align="center">0.0002</td>
+<td align="center">md</td>
+</tr>
+<tr>
+<td align="left">Natural Fracture Permeability</td>
+<td align="center">
+<i>ϕ<sub>2</sub>
+</i>
+</td>
+<td align="center">0.02</td>
+<td align="center">0.02</td>
+<td align="center">0.04</td>
+<td align="center">md</td>
+</tr>
+<tr>
+<td align="left">Natural Fracture Spacing</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">10</td>
+<td valign="bottom" align="center">10</td>
+<td valign="bottom" align="center">10</td>
+<td align="center">ft</td>
+</tr>
+<tr>
+<td align="left">Total Organic Carbon</td>
+<td align="center">
+<i>TOC</i>
+</td>
+<td align="center">-</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td align="center">% weight</td>
+</tr>
+<tr>
+<td align="left">Reservoir thickness</td>
+<td align="center">
+<i>h</i>
+</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">200</td>
+<td align="center">ft</td>
+</tr>
+<tr>
+<td align="left">Hydraulic fracture half-length</td>
+<td align="center">
+<i>X<sub>hf</sub>
+</i>
+</td>
+<td align="center">400</td>
+<td align="center">400</td>
+<td align="center">400</td>
+<td align="center">ft</td>
+</tr>
+<tr>
+<td align="left">Hydraulic Fracture Spacing</td>
+<td valign="top" align="center">
+</td>
+<td align="center">250</td>
+<td align="center">250</td>
+<td align="center">250</td>
+<td align="center">ft</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Length of the horizontal well</td>
+<td valign="bottom" align="center">
+<i>L</i>
+</td>
+<td valign="bottom" align="center">3,250</td>
+<td valign="bottom" align="center">3,250</td>
+<td valign="bottom" align="center">3,250</td>
+<td valign="bottom" align="center">ft</td>
+</tr>
+<tr>
+<td align="left">Skin factor</td>
+<td align="center">
+<i>S</i>
+</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="left">Flow capacity of hydraulic fractures</td>
+<td align="center">
+<i>k<sub>hf</sub>*w<sub>hf</sub>
+</i>
+</td>
+<td align="center">50</td>
+<td align="center">50</td>
+<td align="center">50</td>
+<td align="center">md-ft</td>
+</tr>
+<tr>
+<td align="left">Bottomhole flowing pressure</td>
+<td valign="top" align="center">
+<i>P<sub>wf</sub>
+</i>
+</td>
+<td align="center">2,000</td>
+<td align="center">1,000</td>
+<td align="center">500</td>
+<td align="center">psi</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="8" table-order="4" data-type-order="8">
+<table-wrap id="102118185079MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">Where Vi is the adsorbed volume of component “i” in scf/ton, (VL)i is the Langmuir volume of component ““i in scf/ton, bi is the inverse of the Langmuir pressure for component ““i and Pi is the partial pressure of component ““i. The ““j is used to sum all components. The values of the Langmuir isotherm parameters are taken from Cao et al. (2015). They calculated Langmuir volumes for different TOCs. This work uses Langmuir volumes for a TOC of 2% (Table 4).</anchoringText>
+<label>Table 4</label>
+<caption>Adsorption isotherm parameters.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Adsorption isotherm parameters.</caption-text>
+</formatted-caption>
+<table id="102118185079MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">
+<i>N<sub>2</sub>
+</i>
+</th>
+<th valign="top" align="center">
+<i>CO<sub>2</sub></i>
+</th>
+<th valign="top" align="center">
+<i>C<sub>1</sub></i>
+</th>
+<th valign="top" align="center">
+<i>C<sub>2</sub></i>
+</th>
+<th valign="top" align="center">
+<i>C<sub>3</sub></i>
+</th>
+<th valign="top" align="center">
+<i>C<sub>4-6</sub></i>
+</th>
+<th valign="top" align="center">
+<i>C<sub>7+1</sub></i>
+</th>
+<th valign="top" align="center">
+<i>C<sub>7+2</sub></i>
+</th>
+<th valign="top" align="center">
+<i>C<sub>7+3</sub></i>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">
+<b>
+<i>V<sub>L</sub>
+<sub>
+</sub>
+</i>(scf/ton)</b>
+</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">78</td>
+<td valign="top" align="center">34</td>
+<td valign="top" align="center">51</td>
+<td valign="top" align="center">95</td>
+<td valign="top" align="center">121</td>
+<td valign="top" align="center">121</td>
+<td valign="top" align="center">121</td>
+<td valign="top" align="left">121</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>
+<i>P<sub>L</sub>
+<sub>
+</sub>
+</i>(psia)</b>
+</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="left">836</td>
+<td valign="top" align="left">1562</td>
+<td valign="top" align="left">811</td>
+<td valign="top" align="left">844</td>
+<td valign="top" align="center">355</td>
+<td valign="top" align="center">355</td>
+<td valign="top" align="center">355</td>
+<td valign="top" align="left">355</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="23" table-order="5" data-type-order="36">
+<table-wrap id="102118185079MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">For the continuous gas injection, this cost assumes that a pre-existent production well is converted to gas injector. In the case where a new well must be drilled to inject gas, the new inversion per container after 5 years would be USD 8.8 million. Oil price is assumed to be 35, 50 and 80 USD/barrel. Other input parameters, shown in Table 5, are taken from Wan et al. (2015).</anchoringText>
+<label>Table 5</label>
+<caption>Input parameters for NPV calculations.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Input parameters for NPV calculations.</caption-text>
+</formatted-caption>
+<table id="102118185079MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">
+<i>Ec</i>
+<i>onomic Parameters</i>
+</th>
+<th valign="top" align="left">
+<i>Uni</i>
+<i>t</i>
+</th>
+<th valign="top" align="left">
+<i>V</i>
+<i>alue</i>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Discount rate</td>
+<td valign="top" align="left">fraction/yr</td>
+<td valign="top" align="left">0.10</td>
+</tr>
+<tr>
+<td valign="top" align="left">Working interest</td>
+<td valign="top" align="left">fraction/yr</td>
+<td valign="top" align="left">1.00</td>
+</tr>
+<tr>
+<td valign="top" align="left">Royalty rate</td>
+<td valign="top" align="left">fraction/yr</td>
+<td valign="top" align="left">0.20</td>
+</tr>
+<tr>
+<td valign="top" align="left">Net revenue interest</td>
+<td valign="top" align="left">fraction/yr</td>
+<td valign="top" align="left">0.80</td>
+</tr>
+<tr>
+<td valign="top" align="left">Severance tax</td>
+<td valign="top" align="left">fraction</td>
+<td valign="top" align="left">0.05</td>
+</tr>
+<tr>
+<td valign="top" align="left">Ad valorem tax</td>
+<td valign="top" align="left">fraction</td>
+<td valign="top" align="left">0.03</td>
+</tr>
+<tr>
+<td valign="top" align="left">CAPEX (initial), $</td>
+<td valign="top" align="left">$MM</td>
+<td valign="top" align="left">5.2</td>
+</tr>
+<tr>
+<td valign="top" align="left">OPEX, $</td>
+<td valign="top" align="left">$/boe</td>
+<td valign="top" align="left">4</td>
+</tr>
+<tr>
+<td valign="top" align="left">Compressor and gathering pipelines</td>
+<td valign="top" align="left">$MM</td>
+<td valign="top" align="left">1</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil price, $</td>
+<td valign="top" align="left">$/barrel</td>
+<td valign="top" align="left">35,50,80</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

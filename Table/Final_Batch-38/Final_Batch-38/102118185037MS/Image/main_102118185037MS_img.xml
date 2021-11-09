@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185037MS.txt" extractionDate="2021-03-27T11:48:19Z">
+<doi>10.2118/185037-MS</doi>
+<pii>10.2118/185037-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="4" figure-order="1" data-type-order="2">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr6">The reservoir had a downward degradation in terms of quality – thus the porosity values were higher in the upper part of the reservoir. In addition, the depositional sequence was in a SW-NE direction leading to a better rock quality in the SW region of the reservoir and poorer rock quality in the NE region of the reservoir. The permeability was dependent on porosity through a poro-perm transform obtained from an analog reservoir. Table 1 shows the average rock properties in the reservoir model. Figure 1 shows the permeability distribution along with one possible well location and fracture placement scenario.</anchoringText>
+<image-wrap id="102118185037MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118185037MS_i_1.tif" id="ImgLink-1" />
+<caption>Permeability distribution</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Permeability distribution</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="2" data-type-order="4">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr7">However, it is necessary to ensure that the results are not compromised by making this simplification. As a result, for some of the cases where a black-oil simulation was justified, compositional simulations were also performed and the results from the two were compared. To do this, the same fluid composition data was used to create a black-oil description as well as an EoS description of the fluid by using a PVT package. The comparison between black-oil and compositional simulations for a primary production scenario is shown in Figure 2.</anchoringText>
+<image-wrap id="102118185037MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118185037MS_i_2.tif" id="ImgLink-2" />
+<caption>Black oil (IMEX) and Compositional (GEM) Simulation Comparison for primary production</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Black oil (IMEX) and Compositional (GEM) Simulation Comparison for primary production</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="3" data-type-order="6">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr8">The stage-wise hydraulic fracturing costs depends on the half-length of the principal hydraulic fracture (Schweitzer et. al., 2009) and the amount of proppant pumped (associated to hydraulic fracture conductivity). The formula for fracture cost was scaled to represent values more typical of the type of reservoir studied in this paper. The stage costs estimates are shown in Figure 3.</anchoringText>
+<image-wrap id="102118185037MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118185037MS_i_3.tif" id="ImgLink-3" />
+<caption>Hydraulic fracturing stage cost vs fracture half-length</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Hydraulic fracturing stage cost vs fracture half-length</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="4" data-type-order="7">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr9">The results for the natural depletion cases are presented in the following section. Figure 4 shows a cross plot of cumulative oil versus fracture spacing. Figure 5 shows the cross plots of NPV and IRR versus fracture spacing. These objective functions were identified as the most compelling in terms of technical and economic success. From the figures, it was observed that the higher cumulative oil was at the closest well spacing (300 m) and closer fracture spacings (25-50 m), whereas the best NPV cases trended towards the middle well spacing (400 m) and highest fracture spacings (100-125 m)</anchoringText>
+<image-wrap id="102118185037MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118185037MS_i_4.tif" id="ImgLink-4" />
+<caption>Natural Depletion: Crossplot (Cumulative Oil Produced vs. Fracture Spacing), colours represent the well spacing.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Natural Depletion: Crossplot (Cumulative Oil Produced vs. Fracture Spacing), colours represent the well spacing.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="5" data-type-order="8">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr10">The results for the natural depletion cases are presented in the following section. Figure 4 shows a cross plot of cumulative oil versus fracture spacing. Figure 5 shows the cross plots of NPV and IRR versus fracture spacing. These objective functions were identified as the most compelling in terms of technical and economic success. From the figures, it was observed that the higher cumulative oil was at the closest well spacing (300 m) and closer fracture spacings (25-50 m), whereas the best NPV cases trended towards the middle well spacing (400 m) and highest fracture spacings (100-125 m)</anchoringText>
+<image-wrap id="102118185037MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118185037MS_i_5.tif" id="ImgLink-5" />
+<caption>Natural depletion economic performance indicators: (a) NPV vs Fracture Spacing, (b) IRR vs Fracture Spacing, colours represent the well spacing.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Natural depletion economic performance indicators: (a) NPV vs Fracture Spacing, (b) IRR vs Fracture Spacing, colours represent the well spacing.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185037MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118185037MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>NPV vs Fracture Spacing</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185037MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118185037MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>IRR vs Fracture Spacing, colours represent the well spacing</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="6" data-type-order="9">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr11">The same analysis was done for evaluating the impact fracture half-length as well. For cumulative oil, the cases with the higher half-length resulted in the most production as shown in Figure 6. For the cases with a larger half-length, the additional production of oil was negated by the additional cost required. This yielded a very weak trend between the half-length and calculated NPV and IRR.</anchoringText>
+<image-wrap id="102118185037MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118185037MS_i_6.tif" id="ImgLink-6" />
+<caption>Natural Depletion: Crossplot (Cumulative Oil Produced vs. Fracture Half Length), colours represent the well spacing.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Natural Depletion: Crossplot (Cumulative Oil Produced vs. Fracture Half Length), colours represent the well spacing.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="7" data-type-order="10">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr12">In summary, it was seen that the technical performance indicator (oil produced) and the economic performance indicators (IRR and NPV) were affected differently by the same parameters. Overall, it was seen that the best economic performance can be achieved by using the middle well spacing (400 m) along with spaced out fractures (100-125 m fracture spacing). The fracture half-length had no impact on economic performance of depletion and could range from 50-150 m. This conclusion is reiterated in Figure 7, which shows the cross plot between NPV and cumulative oil produced. It also shows that 400 m well spacing cases have less variation in NPV for similar ranges of oil production, and thus means less risk.</anchoringText>
+<image-wrap id="102118185037MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118185037MS_i_7.tif" id="ImgLink-7" />
+<caption>Natural Depletion: Crossplot (NPV vs. Cumulative Oil Produced)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Natural Depletion: Crossplot (NPV vs. Cumulative Oil Produced)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="8" data-type-order="11">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr13">Similar to natural depletion, the case with closest well spacing (300 m) and closer fracture spacings (25-75 m) resulted in the highest cumulative oil (Figure 8). However, the NPV showed a different trend when compared to natural depletion. There was little difference in the NPV obtained from 300 m well spacing versus 400 m well spacing and the waterflooding cases did not necessarily favour the 400 m spacing case. This is because at low permeabilities, the injection of water is generally ineffective at providing the necessary sweep over large distances.</anchoringText>
+<image-wrap id="102118185037MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118185037MS_i_8.tif" id="ImgLink-8" />
+<caption>Water Flooding Crossplots Cumulative oil and NPV versus Fracture Spacing, colours represent well spacing</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Water Flooding Crossplots Cumulative oil and NPV versus Fracture Spacing, colours represent well spacing</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185037MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118185037MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185037MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118185037MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="9" data-type-order="12">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr14">For the water flood, longer half-lengths were found to be favourable in terms of oil produced, because inter-well communication needed to be established between the injectors and producers for a flood process to work. This was seen for all well spacing scenarios (Figure 9). However, a weak trend was seen between the economic indicators (NPV and IRR) and the fracture half-length. The reason was that in several cases, the incremental oil produced by having longer fractures was offset by the increased pumping costs of creating them.</anchoringText>
+<image-wrap id="102118185037MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118185037MS_i_9.tif" id="ImgLink-9" />
+<caption>Cumulative Oil versus Half-length for waterflooding</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Cumulative Oil versus Half-length for waterflooding</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="10" data-type-order="13">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr15">For each of the parameters, the nitrogen injection showed trends similar to that of water flooding in terms of the impact of each parameter (Figure 10), but the magnitude of that impact was higher. For example, waterflooding with a profitable well-fracture configuration showed an increase of 13% in oil production over waterflooding with a different well-fracture configuration. Comparing the same two configurations for nitrogen injection revealed an increase of 30%.</anchoringText>
+<image-wrap id="102118185037MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118185037MS_i_10.tif" id="ImgLink-10" />
+<caption>Nitrogen Flooding Cumulative Oil and NPV versus Fracture Spacing, Colours represent well spacing</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Nitrogen Flooding Cumulative Oil and NPV versus Fracture Spacing, Colours represent well spacing</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185037MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118185037MS_i_10a.tif" id="ImgLink-10a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185037MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118185037MS_i_10b.tif" id="ImgLink-10b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="12" figure-order="11" data-type-order="14">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr16">The success of CO2 injection was heavily influenced by well spacing, with the closest well spacing (300m) with spaced out fractures (75-125 m) resulting in both the best oil recovery and net present value (Figure 11). At 300 m and 400 m well spacing the CO2 injection offered an improved recovery when compared to the nitrogen injection case. The improvement in recovery associated with CO2 injection can be credited to the CO2 dissolution in the oil, effectively reducing its viscosity and residual oil saturation. In addition to the miscibility of CO2 contributing to a higher recovery, the gas also provides the necessary pressure support required to move the flood front from the injectors to the producers.</anchoringText>
+<image-wrap id="102118185037MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118185037MS_i_11.tif" id="ImgLink-11" />
+<caption>CO<sub>2</sub> Flooding Cumulative Oil and NPV versus Fracture Spacing, colours represent well spacing.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>CO<sub>2</sub> Flooding Cumulative Oil and NPV versus Fracture Spacing, colours represent well spacing.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185037MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118185037MS_i_11a.tif" id="ImgLink-11a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185037MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118185037MS_i_11b.tif" id="ImgLink-11b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="12" data-type-order="15">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr17">Based on the results for each of the processes, well spacing was the most important parameter in terms of oil recovery while fracture spacing was the most influential parameter for economic analyses. This is emphasized in the Sobol analyses plots presented in Figure 12.</anchoringText>
+<image-wrap id="102118185037MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118185037MS_i_12.tif" id="ImgLink-12" />
+<caption>Sobol Analyses of CO<sub>2</sub> (a) Cumulative Oil, and (b) NPV</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Sobol Analyses of CO<sub>2</sub> (a) Cumulative Oil, and (b) NPV</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185037MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118185037MS_i_12a.tif" id="ImgLink-12a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Cumulative Oil</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185037MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118185037MS_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>NPV</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="13" data-type-order="18">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr18">The best cases in terms of oil recovery had the closest well spacing and the closest fracture spacing. This is intuitive as it results in the highest amount of stimulated reservoir volume. However, these cases are not practical from an economic standpoint as they often result in a very high capital expenditure. Therefore, the optimal NPV cases required higher fracture and well spacing. However, for CO2 EOR and nitrogen injection, the optimal NPV cases were still at the closest well spacing of 300 m. This is because most EOR techniques require communication between the injectors and producers to be successful, which could be achieved effectively only with the closest well spacing. A case-by-case comparison of the four processes in terms of cumulative oil production is presented in Figure 13.</anchoringText>
+<image-wrap id="102118185037MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118185037MS_i_13.tif" id="ImgLink-13" />
+<caption>Comparison of cumulative oil produced during various processes for a 300 m well spacing. Notice that CO2 EOR produces the maximum amount of oil in each case.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Comparison of cumulative oil produced during various processes for a 300 m well spacing. Notice that CO2 EOR produces the maximum amount of oil in each case.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="14" figure-order="14" data-type-order="19">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr19">To help demonstrate why certain processes are more effective at oil recovery, a plot of oil recovery and average reservoir pressure versus time for a typical case is presented in Figure 14. In this case the well spacing was set to 300m, and fracture spacing and half-length were both at 100m. The nitrogen was more effective in the early stages due to the pressure support it provides and the better injectivity it has compared to CO2 and water. Overall, the CO2 injection was most the effective at recovering oil because of its ability to reduce the residual oil saturation and still provide the necessary pressure support.</anchoringText>
+<image-wrap id="102118185037MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118185037MS_i_14.tif" id="ImgLink-14" />
+<caption>Oil Recovery Factor and Average Reservoir Pressure versus time</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Oil Recovery Factor and Average Reservoir Pressure versus time</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185037MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118185037MS_i_14a.tif" id="ImgLink-14a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185037MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118185037MS_i_14b.tif" id="ImgLink-14b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="15" data-type-order="20">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr20">In such scenarios, the IRR can be used as a secondary economic indicator to see if there is a case that produced an attractive NPV but at a lower risk. For example, for both CO2 and nitrogen injection the highest IRR was attainable in the highest well spacing where risk was lowest. In all cases the natural depletion had the highest internal rate of return, owing to the least amount of investment. Therefore, given unlimited oil resources, it may be more beneficial to continue to develop green fields with natural depletion, rather than investing the additional capital in enhanced recovery techniques. A case-by-case comparison of the four processes in terms of NPV is presented in Figure 15.</anchoringText>
+<image-wrap id="102118185037MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118185037MS_i_15.tif" id="ImgLink-15" />
+<caption>Comparison of NPV for various processes for a 300 m well spacing. Notice that Nitrogen injection produces the maximum NPV in each case.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Comparison of NPV for various processes for a 300 m well spacing. Notice that Nitrogen injection produces the maximum NPV in each case.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="16" figure-order="16" data-type-order="21">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr21"> </anchoringText>
+<image-wrap id="102118185037MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118185037MS_i_16.tif" id="ImgLink-16" />
+<caption>Results of permeability sensitivity on (a) Incremental Oil using various recovery techniques, and (b) Incremental NPV using various recovery techniques, with respect to natural depletion</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Results of permeability sensitivity on (a) Incremental Oil using various recovery techniques, and (b) Incremental NPV using various recovery techniques, with respect to natural depletion</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185037MS-Img_SPi-16a">
+<imageLink type="mediaResource" href="102118185037MS_i_16a.tif" id="ImgLink-16a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Incremental Oil using various recovery techniques</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185037MS-Img_SPi-16b">
+<imageLink type="mediaResource" href="102118185037MS_i_16b.tif" id="ImgLink-16b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>Incremental NPV using various recovery techniques, with respect to natural depletion</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

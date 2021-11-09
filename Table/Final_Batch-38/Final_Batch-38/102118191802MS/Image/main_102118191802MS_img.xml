@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191802MS.txt" extractionDate="2021-03-30T20:07:18Z">
+<doi>10.2118/191802-MS</doi>
+<pii>10.2118/191802-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr2">With an aim to improve the fundamental understanding to improve reservoir recovery while diminishing the impact on the environment, the US Department of Energy partnered with the National Energy Technology Laboratory and leading industry operators and service companies to establish a multidisciplinary team at the Marcellus Shale Energy and Environment Laboratory (MSEEL). The work in this laboratory has been so far spread across geology and geoscience applications and evaluations. As part of the program, wells were drilled and completed in Morgantown, West Virginia (Fig. 1); these were four production wells, MIP-3H, MIP-4H, MIP-5H, MIP-6H; two pilot holes, MIP-3 and MIP-4; and a microseismic and sampled observation well, MIP-SW (Ghahfarokhi et al. 2018; Carr et al. 2017).</anchoringText>
+<image-wrap id="102118191802MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118191802MS_i_1.tif" id="ImgLink-1" />
+<caption>MSEEL outside Morgantown, West Virginia, USA. The MSEEL site consists of four horizontal production wells, MIP-3H, MIP-4H, MIP-5H, MIP-6H; two pilot holes, MIP-3 and MIP-4; and a microseismic and sampled observation well, MIP-SW (Ghahfarokhi et al. 2018).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>MSEEL outside Morgantown, West Virginia, USA. The MSEEL site consists of four horizontal production wells, MIP-3H, MIP-4H, MIP-5H, MIP-6H; two pilot holes, MIP-3 and MIP-4; and a microseismic and sampled observation well, MIP-SW (<link href="BIB1">Ghahfarokhi et al. 2018</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-22" type="bib">
+<bib id="BIB1">
+<label>Ghahfarokhi et al., 2018</label>
+<author>
+<first-name>P. K.</first-name>
+<last-name>Ghahfarokhi</last-name>
+</author>, <author>
+<first-name>T.</first-name>
+<last-name>Carr</last-name>
+</author>, <author>
+<first-name>L.</first-name>
+<last-name>Song</last-name>
+</author> et al. <pubDate>2018</pubDate>. <article-title>Seismic Attributes Application for the Distributed Acoustic Sensing Data for the Marcellus Shale: New Insights to Cross-Stage Flow Communication. Presented at the SPE Hydraulic Fracturing Technology Conference and Exhibition, The Woodlands, Texas, USA </article-title>, 23–25 January. https://doi.org/10.2118/189888-MS</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr3">The Marcellus has been an attractive play for oil and gas operators since its first wells were completed in 2004. Rig activity was highest in 2011 (Fig. 2) as operators had ventured out in exploring the unconventional shale gas assets. Fig. 3 shows the past eight years of production from IHS data for the Marcellus shale.</anchoringText>
+<image-wrap id="102118191802MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118191802MS_i_2.tif" id="ImgLink-2" />
+<caption>Marcellus shale rig count trends since 2011 (Source: Baker Hughes rig count).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Marcellus shale rig count trends since 2011 (Source: Baker Hughes rig count).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr4">The Marcellus has been an attractive play for oil and gas operators since its first wells were completed in 2004. Rig activity was highest in 2011 (Fig. 2) as operators had ventured out in exploring the unconventional shale gas assets. Fig. 3 shows the past eight years of production from IHS data for the Marcellus shale.</anchoringText>
+<image-wrap id="102118191802MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118191802MS_i_3.tif" id="ImgLink-3" />
+<caption>Marcellus production performance for the previous 8 years of activity (Source: IHS Markit).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Marcellus production performance for the previous 8 years of activity (Source: IHS Markit).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr5">Evaluation of well performance was conducted through the integrated workflow shown in Fig. 4, which depicts the unconventional reservoir optimized completions workflow derived from the integrated "seismic-to-simulation" workflow (Cipolla et al. 2011a). These seamlessly integrate the various processes involved in well completion design/analysis and production optimization for unconventional reservoirs. The key steps include the construction of the geological model and detailed mechanical earth model (MEM) with the geomechanical and reservoir properties, completion description, calibration of the fracture model against treatment data and microseismic observation, simulation of fracturing treatment honoring the stress shadow, generation of the numerical grid model for reservoir description, and production simulation.</anchoringText>
+<image-wrap id="102118191802MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118191802MS_i_4.tif" id="ImgLink-4" />
+<caption>Single- or multiple-well pad completion optimization workflow.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Single- or multiple-well pad completion optimization workflow.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr6">Additionally, the evaluation of geomechanical property change due to the producing well conditions for future well planning needs to be evaluated. For this purpose, the workflow presented by Pankaj et al. (2016)(Fig. 5) can be used. The workflow derives the updated stresses from the depletion of the parent wellbore to model offset well/infill well fracture geometries. However, this falls outside the scope of this work, and we will limit the discussion to the workflow shown in Fig. 4 following steps 1, 2, and 3 highlighted. We have used a heat map approach instead to determine the optimum well spacing scenario.</anchoringText>
+<image-wrap id="102118191802MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118191802MS_i_5.tif" id="ImgLink-5" />
+<caption>Fracture modeling for predicting the impact of fracture hits [modified from Pankaj et al. (2016)].</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Fracture modeling for predicting the impact of fracture hits [modified from <link href="BIB2">Pankaj et al. (2016)</link>].</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-23" type="bib">
+<bib id="BIB2">
+<label>Pankaj et al., 2016</label>
+<author>
+<first-name>P.</first-name>
+<last-name>Pankaj</last-name>
+</author>, <author>
+<first-name>K.</first-name>
+<last-name>Gakhar</last-name>
+</author>, and <author>
+<first-name>G.</first-name>
+<last-name>Lindsay</last-name>
+</author>
+<pubDate>2016</pubDate>. <article-title>When to Refrac? Combination of Reservoir Geomechanics with Fracture Modeling and Reservoir Simulation Holds the Answer. Presented at the SPE Asia Pacific Oil &amp; Gas Conference and Exhibition, Perth, Australia </article-title>, 25-27 October. https://doi.org/10.2118/182161-MS</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr7">All petrophysical and geomechanical data were populated in the model using the pilot wellbore logs. Fig. 6 shows the cross section of minimum horizontal stress across MIP-3H and MIP-5H. Both wells are landed in the same zone with a high stress layer just below but lower stress layers above. Correspondingly, the hydraulic fractures are expected to grow upward, breaching the low-stress layers. However, there are higher-stress layers above, and fractures are expected to be contained in height at those layers.</anchoringText>
+<image-wrap id="102118191802MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118191802MS_i_6.tif" id="ImgLink-6" />
+<caption>MIP-3H and MIP-5H vertical stress distribution showing well landing.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>MIP-3H and MIP-5H vertical stress distribution showing well landing.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr8">Table 1 describes the two natural fracture sets. Vertical well image logs suggested open and healed natural fractures trending at N58E and N88E, respectively, and microseismic data also reveal that hydraulic fractures seem to follow the open natural fracture trend, and coincides with the maximum stress trend (Wilson et al. 2016). Figs. 7a and 7b show vertical well and microseismic fracture trends. The resulting natural fracture network cross section thus obtained is shown in Fig. 8a.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-7">
+<label>Figure 7</label>
+<imageLink type="mediaResource" href="102118191802MS_i_7.tif" id="ImgLink-7" />
+<caption>(a) Open and healed natural fracture systems picked from vertical well image log showing N58E and N88E fracture trends. (b) Microseismic data showing fracture azimuth along N59E that also matches maximum horizontal stress direction (Wilson et al. 2016).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>(a) Open and healed natural fracture systems picked from vertical well image log showing N58E and N88E fracture trends. (b) Microseismic data showing fracture azimuth along N59E that also matches maximum horizontal stress direction (<link href="BIB3">Wilson et al. 2016</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191802MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118191802MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Open and healed natural fracture systems picked from vertical well image log showing N58E and N88E fracture trends.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191802MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118191802MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Microseismic data showing fracture azimuth along N59E that also matches maximum horizontal stress direction (<link href="BIB3">Wilson et al. 2016</link>).</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-24" type="bib">
+<bib id="BIB3">
+<label>Wilson et al., 2016</label>
+<author>
+<first-name>T.</first-name>
+<last-name>Wilson</last-name>
+</author>, <author>
+<first-name>T.</first-name>
+<last-name>Carr</last-name>
+</author>, <author>
+<first-name>B. J.</first-name>
+<last-name>Carney</last-name>
+</author> et al. <pubDate>2016</pubDate>. <article-title>Microseismic and Model Stimulation of Natural Fracture Networks in the Marcellus Shale, West Virginia </article-title>.
+<journal-title><i>SEG Technical Program Expanded Abstracts</i> </journal-title>
+<volume>2016</volume>
+: <pages>
+<first-page>3088</first-page>
+<last-page>3092</last-page>
+</pages>. https://doi.org/10.1190/segam2016-13866107.1</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr9">Table 1 describes the two natural fracture sets. Vertical well image logs suggested open and healed natural fractures trending at N58E and N88E, respectively, and microseismic data also reveal that hydraulic fractures seem to follow the open natural fracture trend, and coincides with the maximum stress trend (Wilson et al. 2016). Figs. 7a and 7b show vertical well and microseismic fracture trends. The resulting natural fracture network cross section thus obtained is shown in Fig. 8a.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-8">
+<label>Figure 8</label>
+<imageLink type="mediaResource" href="102118191802MS_i_8.tif" id="ImgLink-8" />
+<caption>(a) Statistical natural fracture network distribution in the model. (b) Hydraulic fracture geometries for MIP-3H and MIP-5H.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>(a) Statistical natural fracture network distribution in the model. (b) Hydraulic fracture geometries for MIP-3H and MIP-5H.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191802MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118191802MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Statistical natural fracture network distribution in the model.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191802MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118191802MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Hydraulic fracture geometries for MIP-3H and MIP-5H.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="7" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr10">Two techniques were adopted to calibrate the hydraulic fracture geometries. First, the treatment pressure data recorded from the field operation were used to match the pressure from the fracture simulation in the model. This gave a calibration of geomechanical model and minimum in-situ stress distribution, leakoff, and the frictional pressure drop in the flow-string. Second, the microseismic data available for both wells were used to match the fracture azimuth and footprint. At the end, both calibration pieces were honored, and a reasonable match for fracture geometries was obtained (Fig. 9).</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-9">
+<label>Figure 9</label>
+<imageLink type="mediaResource" href="102118191802MS_i_9.tif" id="ImgLink-9" />
+<caption>(a) Treating pressure match for stage 30 on MIP-5H. (b) Hydraulic fractures along with microseismic events on MIP-3H and MIP-5H showing good match.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>(a) Treating pressure match for stage 30 on MIP-5H. (b) Hydraulic fractures along with microseismic events on MIP-3H and MIP-5H showing good match.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191802MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118191802MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Treating pressure match for stage 30 on MIP-5H.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191802MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118191802MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Hydraulic fractures along with microseismic events on MIP-3H and MIP-5H showing good match.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="10" data-type-order="11">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr11">Upon fracture calibration, the productive fracture volume in the model was estimated by the production history matching of the real production data. An unstructured production grid with almost 1 million grid cells was created to capture the complex fracture geometry and heterogeneity. The minimum fracture cell size in the model was set as 10 ft, and maximum cell size was 100 ft. Fig. 10 shows the pressure variation in the production grid across the topmost layer upon production simulation using a numerical simulator. The simulation was initialized in equilibration because these were the first wells drilled in the area and the wells were in static in-situ state.</anchoringText>
+<image-wrap id="102118191802MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118191802MS_i_10.tif" id="ImgLink-10" />
+<caption>Production grid containing hydraulic fracture properties from MIP-3H and MIP-5H. The grid has approximately 1 million cells. The property shown is reservoir pressure.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Production grid containing hydraulic fracture properties from MIP-3H and MIP-5H. The grid has approximately 1 million cells. The property shown is reservoir pressure.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="9" figure-order="11" data-type-order="12">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr12">Fig. 11 and Fig. 12 show the production history matching results for the two wells. The history match was run under the rate control mode, and bottomhole pressure response was matched. The initial part 1-year period shows a good match, but the increased production rate after that saw the history match deteriorating.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-11">
+<label>Figure 11</label>
+<imageLink type="mediaResource" href="102118191802MS_i_11.tif" id="ImgLink-11" />
+<caption>Production history match for MIP-3H showing bottomhole pressure and water production rate match under gas rate control mode. MIP 3H, Bottom hole pressure MIP 3H, Gas production cumulative MIP 3H, production rate MIP 3H, Water production rate</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Production history match for MIP-3H showing bottomhole pressure and water production rate match under gas rate control mode. MIP 3H, Bottom hole pressure MIP 3H, Gas production cumulative MIP 3H, production rate MIP 3H, Water production rate</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191802MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118191802MS_i_11a.tif" id="ImgLink-11a" />
+<figure-specific-caption>
+<caption-text>MIP 3H, Bottom hole pressure</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191802MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118191802MS_i_11b.tif" id="ImgLink-11b" />
+<figure-specific-caption>
+<caption-text>MIP 3H, Gas production cumulative</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191802MS-Img_SPi-11c">
+<imageLink type="mediaResource" href="102118191802MS_i_11c.tif" id="ImgLink-11c" />
+<figure-specific-caption>
+<caption-text>MIP 3H, production rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191802MS-Img_SPi-11d">
+<imageLink type="mediaResource" href="102118191802MS_i_11d.tif" id="ImgLink-11d" />
+<figure-specific-caption>
+<caption-text>MIP 3H, Water production rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="9" figure-order="12" data-type-order="13">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr13">Fig. 11 and Fig. 12 show the production history matching results for the two wells. The history match was run under the rate control mode, and bottomhole pressure response was matched. The initial part 1-year period shows a good match, but the increased production rate after that saw the history match deteriorating.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-12">
+<label>Figure 12</label>
+<imageLink type="mediaResource" href="102118191802MS_i_12.tif" id="ImgLink-12" />
+<caption>Production history match for MIP-5H showing bottomhole pressure and water production rate match under gas rate control mode. MIP 5H, Bottom hole pressure MIP 5H, Gas production cumulative MIP 5H, Gas production rate MIP 5H, Water production rate</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Production history match for MIP-5H showing bottomhole pressure and water production rate match under gas rate control mode. MIP 5H, Bottom hole pressure MIP 5H, Gas production cumulative MIP 5H, Gas production rate MIP 5H, Water production rate</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191802MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118191802MS_i_12a.tif" id="ImgLink-12a" />
+<figure-specific-caption>
+<caption-text>MIP 5H, Bottom hole pressure</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191802MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118191802MS_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-text>MIP 5H, Gas production cumulative</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191802MS-Img_SPi-12c">
+<imageLink type="mediaResource" href="102118191802MS_i_12c.tif" id="ImgLink-12c" />
+<figure-specific-caption>
+<caption-text>MIP 5H, Gas production rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191802MS-Img_SPi-12d">
+<imageLink type="mediaResource" href="102118191802MS_i_12d.tif" id="ImgLink-12d" />
+<figure-specific-caption>
+<caption-text>MIP 5H, Water production rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="13" data-type-order="14">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr14">The well spacing decision is tightly integrated with the completion design and stimulation treatment pumped in the well. If the treatments pumped in the wells are tailored to cover the space and acreage between the wells, then the spacing is deemed optimal. However, if the reservoir is left unstimulated and undrained, the spacing and completion program can result in leaving reserves behind because the hydraulic fracture did not simulate and produce the in-place rock effectively as shown in an example in the Fig. 13. The only means to access the rock between fractures is to drill an infill well.</anchoringText>
+<image-wrap id="102118191802MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118191802MS_i_13.tif" id="ImgLink-13" />
+<caption>Example of sub-optimal well spacing as the fracture geometry from individual wells fails to cover the entire space between the wells shown in the red box.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Example of sub-optimal well spacing as the fracture geometry from individual wells fails to cover the entire space between the wells shown in the red box.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="14" data-type-order="15">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr15">Currently, the wells are spaced at 1730 ft, and the completion design for the well matches the microseismic data and production performance. Further, the executed treatment designs for MIP-3H and MIP-5H were evaluated by means of completion heat-map technique in which the fracture geometry along the wellbore is collapsed into a plane to visually identify the density and intensity of stimulation around wellbore. The heat maps for the hydraulic fracture count and propped fracture count along the wellbore are shown in Fig. 14 and Fig. 15, respectively, as a representation in a "gun-barrel" view. As the color changes from purple to red, the number count gradually decreases. It is observed that the wells MIP-3H and MIP-5H are in very limited hydraulic and propped fracture communication because the intensity of color for overlap is very minor at the intersection.</anchoringText>
+<image-wrap id="102118191802MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118191802MS_i_14.tif" id="ImgLink-14" />
+<caption>Hydraulic fracture heat map for MIP-3H and MIP-5H shows poor hydraulic coverage between the wells at the current spacing of 1735 ft.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Hydraulic fracture heat map for MIP-3H and MIP-5H shows poor hydraulic coverage between the wells at the current spacing of 1735 ft.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="15" data-type-order="16">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr16">Currently, the wells are spaced at 1730 ft, and the completion design for the well matches the microseismic data and production performance. Further, the executed treatment designs for MIP-3H and MIP-5H were evaluated by means of completion heat-map technique in which the fracture geometry along the wellbore is collapsed into a plane to visually identify the density and intensity of stimulation around wellbore. The heat maps for the hydraulic fracture count and propped fracture count along the wellbore are shown in Fig. 14 and Fig. 15, respectively, as a representation in a "gun-barrel" view. As the color changes from purple to red, the number count gradually decreases. It is observed that the wells MIP-3H and MIP-5H are in very limited hydraulic and propped fracture communication because the intensity of color for overlap is very minor at the intersection.</anchoringText>
+<image-wrap id="102118191802MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118191802MS_i_15.tif" id="ImgLink-15" />
+<caption>Propped fracture heat map for MIP-3H and MIP-5H shows poor hydraulic coverage between the wells at current spacing of 1735 ft.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Propped fracture heat map for MIP-3H and MIP-5H shows poor hydraulic coverage between the wells at current spacing of 1735 ft.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="16" data-type-order="17">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr17">Additional sensitivity for well spacing at 990 ft was run, and it is observed that the fractures have greater overlap and the wells’ performance is not degraded as compared to the current 1735 ft. Reducing the well spacing further, below 990 ft, with the current pump schedule and completion designs, the wells would have hydraulic fractures overlapping to a greater degree and therefore competing for the same reservoir rock. Optimal well spacing is therefore determined at 990 ft. With varying the proppant loading for the treatment, it is observed with sensitivity analysis that the fracture half-length increases with proppant loading (Fig. 16).</anchoringText>
+<image-wrap id="102118191802MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118191802MS_i_16.tif" id="ImgLink-16" />
+<caption>Sensitivity analysis for fracture geometry at different proppant loading.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Sensitivity analysis for fracture geometry at different proppant loading.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="17" data-type-order="18">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr18">We also compared the total fracture surface area with different well spacing scenarios (Fig. 17). As the wells get closer, the fracture surfaces from the two wells complete and overlap, whereas when the well spacing is increased, the fractures from the individual wells are farther apart, and hence lesser interference is expected. Optimal well spacing could be a point of inflection of the curve as the slope changes, shown as the intersection of the red lines for slope to the trend line.</anchoringText>
+<image-wrap id="102118191802MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118191802MS_i_17.tif" id="ImgLink-17" />
+<caption>Sensitivity analysis for fracture surface area with well spacing, "Well-Spacing Typing Plot".</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Sensitivity analysis for fracture surface area with well spacing, "Well-Spacing Typing Plot".</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="18" data-type-order="19">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr19"> </anchoringText>
+<image-wrap id="102118191802MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118191802MS_i_18.tif" id="ImgLink-18" />
+<caption>Hydraulic fracture heat map for MIP-3H and MIP-5H at 990ft spacing show improved hydraulic coverage in between the wells.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Hydraulic fracture heat map for MIP-3H and MIP-5H at 990ft spacing show improved hydraulic coverage in between the wells.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="19" data-type-order="20">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr20"> </anchoringText>
+<image-wrap id="102118191802MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118191802MS_i_19.tif" id="ImgLink-19" />
+<caption>Propped fracture heat map for MIP-3H and MIP-5H at 990ft spacing show improved hydraulic coverage in between the wells.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Propped fracture heat map for MIP-3H and MIP-5H at 990ft spacing show improved hydraulic coverage in between the wells.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="20" data-type-order="21">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr21">To supplement the heat map, a plan view of the fractures in Fig. 20 shows that some propped fractures along the wellbore overlap marginally when the wells are spaced at 990ft spacing whereas at the current spacing of the wells, the fractures are far apart and not interfering with each other. The fracture geometry is also affected when the wells are brought closer due to the stronger stress shadow impact. The footprint of hydraulic fracture in the well MIP-3H moves slightly more towards the east direction as the stress shadow from MIP-5H impacts the geometry.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-20">
+<label>Figure 20</label>
+<imageLink type="mediaResource" href="102118191802MS_i_20.tif" id="ImgLink-20" />
+<caption>Plan view of the hydraulic fracture footprint and proppant distribution at a) current well spacing and b) 990ft well spacing. Greater overlap is observed in the case when wells are closely spaced and additionally impacts the fracture geometry by stronger stress shadow influence.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Plan view of the hydraulic fracture footprint and proppant distribution at a) current well spacing and b) 990ft well spacing. Greater overlap is observed in the case when wells are closely spaced and additionally impacts the fracture geometry by stronger stress shadow influence.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191802MS-Img_SPi-20a">
+<imageLink type="mediaResource" href="102118191802MS_i_20a.tif" id="ImgLink-20a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>current well spacing and</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191802MS-Img_SPi-20b">
+<imageLink type="mediaResource" href="102118191802MS_i_20b.tif" id="ImgLink-20b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>990ft well spacing</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="21" data-type-order="22">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr22">When production simulation was run to compare the two cases of current well spacing and 990ft well spacing, it is seen that with the stress shadow allowing fracture in MIP-3H moves to the left, away from the MIP-5H, the well may have a better potential as the bottom hole pressure with the same rate control applied to both cases show improvement of 17% when the wells are closer (Fig. 21). Therefore, close spacing may improve the well productivity due to stronger stress shadow. Actual improvement quantification may however need some pilot tests at closer well spacing in the future development around the area.</anchoringText>
+<image-wrap id="102118191802MS-Img_SPi-21">
+<label>Figure 21 </label>
+<imageLink type="mediaResource" href="102118191802MS_i_21.tif" id="ImgLink-21" />
+<caption>Improved well performance is feasible when the wells are closely spaced due to the impact of well-to-well stress shadow</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>21</caption-order>
+<caption-text>Improved well performance is feasible when the wells are closely spaced due to the impact of well-to-well stress shadow</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

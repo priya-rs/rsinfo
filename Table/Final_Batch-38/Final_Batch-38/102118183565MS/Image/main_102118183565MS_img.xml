@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118183565MS.txt" extractionDate="2021-03-23T14:38:06Z">
+<doi>10.2118/183565-MS</doi>
+<pii>10.2118/183565-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="4" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr11">In such conditions, integration of material balance to volumetric calculations constraint uncertainty in geological and geophysical data. Typically, equivalent volumetric STOIIP and dynamic STOIIP indicates limited uncertainty in volumetric calculations. In the present study a systematic approach of quality check and sensitivity analysis for STOIIP calculations is presented to evaluate volumetric reserve calculations and explore for possible reservoir extension. Fig. 1 presents a flow chart for volumetric STOIIP validation through dynamic modeling of multi-layered heterogeneous reservoirs while details of ach step are independently presented.</anchoringText>
+<image-wrap id="102118183565MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118183565MS_i_1.tif" id="ImgLink-1" />
+<caption>Simplified flow chart for Methodology applied in the present study</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Simplified flow chart for Methodology applied in the present study</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr12">Gas measurements are influential for dynamic STOIIP calculations and dramatically affect these calculations through reservoir life. In some cases where there are more than one PVT samples, gas oil ratio typically set equal to Rsoi at the undersaturated production period. If gas measurements are inaccurate, PVT data can be used to correct gas production data, especially in depletion drive reservoirs where gas greatly affect the dynamic STOIIP calculations. Two cases can be encountered for gas measurements; underestimation or overestimation (Fig. 2). For underestimated Gas oil ratio, a correction factor can be approximated according to Eq. 6 and the corrected GOR is calculated using Eq. 7.</anchoringText>
+<image-wrap id="102118183565MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118183565MS_i_2.tif" id="ImgLink-2" />
+<caption>GOR Expected Deviation (Red) &amp; Normal reservoir behavior (Black). (Modified from Clark, 1969)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>GOR Expected Deviation (Red) &amp; Normal reservoir behavior (Black). (Modified from Clark, 1969)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr13">On observing Fig. 3, Fault#4 is interpreted geologically as a fault cut at the well-A1, but such interpretation is not supported by seismic data due to the poor quality. Consequently, the attitude of Fault#4 is probably inaccurate and the proper orientation should lean towards the north direction so that the increase in dynamic STOIIP could be accommodated and amazingly follow the trend of the main clysmic fault (Fig. 11). Extending the Nezzazat reservoir to the north encourage to think of drilling a new well to increase the recoverable reserves of the field and achieve a new ultimate recovery.</anchoringText>
+<image-wrap id="102118183565MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118183565MS_i_3.tif" id="ImgLink-3" />
+<caption>Nezzazat Top Structure Contour Map</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Nezzazat Top Structure Contour Map</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr14">This interval represents a high permeability zone (300 mD) encountered within the entire reservoir and correspond to Wata formation. Further, numerous reservoir intervals showed intermediate pressure (~3500 psi) that correspond to the upper Mattula interval with intermediate permeability (200mD). High pressure reservoir intervals (3900-4500 psi) are usually corresponding to the middle and lower Mattula with relatively low permeability (4-80 mD). Fig. 5 presents layer contribution (calculated from recorded mobility data) to total production ratio that follow the permeability trends of individual hydraulic flow units.</anchoringText>
+<label>Figure 4 </label>
+<image-wrap id="102118183565MS-Img_SPi-4">
+<imageLink type="mediaResource" href="102118183565MS_i_4.tif" id="ImgLink-4" />
+<caption>RFT data</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>RFT data</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr15">Lateral extension of the seven HFU has been confirmed, but lateral heterogeneity within each unit remained a challenge. Besides sand thinning from north to south, porosity showed notable variations in 14 well data, including offset wells (Fig. 6). Therefore, 0D modeling (e.g. MBAL) is not recommended to simulate such cases of reservoir lateral and vertical heterogeneity and multi layered modeling is the only way to present such reservoir conditions.</anchoringText>
+<image-wrap id="102118183565MS-Img_SPi-5">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118183565MS_i_5.tif" id="ImgLink-5" />
+<caption>Porosity Distribution across wells A1 and A6A</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Porosity Distribution across wells A1 and A6A</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr16">Reservoir characterization is initialized via well log interpretation and zonation of similar facies across Nezzazat group. Such zonation identified seven reservoir intervals separated by shale barriers that could be traced and correlated through the studied field (Fig. 7). The overall zonation is confirmed by pressure depletion in each zone observed in a well (A6A) drilled 7 years after drilling the first exploratory well (A1)(Fig. 4). In addition, subsequent water injection through well (A6A) showed excellent pressure support to the producing zones in well (A1) (Fig. C2). The identified reservoir units are further investigated using available RFT data through plotting the recorded pressure points of RFT data versus depth (Fig. 4) to identify zonation trends.</anchoringText>
+<image-wrap id="102118183565MS-Img_SPi-6">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118183565MS_i_6.tif" id="ImgLink-6" />
+<caption>Geological Cross Section across Key Wells</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Geological Cross Section across Key Wells</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr17">Fluid properties and reservoir conditions have been distributed through the static model and dynamic calculations have been accomplished using Nexus 5000.4.10 (Landmark, 2014). The present dynamic model comprises 50*50*94 cell of dimensions (L: 250, W: 250, H: 10 ft.) that simulate flow within seven reservoir units separated by barriers (Fig. 8). Injection in the field adopted dump flooding technique that is simulated with an injection well with constant bottom hole pressure. To avoid numerical model dispersion, local grid refinement is utilized around injector well. The steps applied for building the dynamic model are closely similar to those presented by (Carlson, 2003).</anchoringText>
+<image-wrap id="102118183565MS-Img_SPi-7">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118183565MS_i_7.tif" id="ImgLink-7" />
+<caption>Layer Color Indicator at Nexus 3D View</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Layer Color Indicator at Nexus 3D View</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr18">In such circumstance, further permeability enhancement using PLT data are usually needed (Mohamed, 2014). PLT contribution and RFT measurements of reservoir intervals are used as a key parameter of history match. History match is achieved utilizing pore volume multipliers that calculate a dynamic STOIIP capable of providing the measured PLT and RFT data. Numerous pore volume multipliers are attempted until the calculated flow and pressure data match PLT and RFT measurements. Fig. 9 shows the history match achieved for every layer from the aforementioned seven layers using PLT response.</anchoringText>
+<image-wrap id="102118183565MS-Img_SPi-8">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118183565MS_i_8.tif" id="ImgLink-8" />
+<caption>Multi Tanks Oil Rate Match, Well A1, for Every HU Based on PLT and PLSS Match</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Multi Tanks Oil Rate Match, Well A1, for Every HU Based on PLT and PLSS Match</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr19">Fig. 9 shows the history match achieved for every layer from the aforementioned seven layers using PLT response. It is obvious that the matched model was successful in depicting the major contributions of production from Wata layer and two Mattula reservoir intervals (Fig. 9). In addition, RFT pressure points were successfully matched for different sand layers (Fig. 10) especially for the major producing sand layers at the date of drilling well A6A.</anchoringText>
+<image-wrap id="102118183565MS-Img_SPi-9">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118183565MS_i_9.tif" id="ImgLink-9" />
+<caption>Pressure Match per Hydraulic Flow Unit.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Pressure Match per Hydraulic Flow Unit.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="10" data-type-order="13">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr20">On observing Fig. 3, Fault#4 is interpreted geologically as a fault cut at the well-A1, but such interpretation is not supported by seismic data due to the poor quality. Consequently, the attitude of Fault#4 is probably inaccurate and the proper orientation should lean towards the north direction so that the increase in dynamic STOIIP could be accommodated and amazingly follow the trend of the main clysmic fault (Fig. 11). Extending the Nezzazat reservoir to the north encourage to think of drilling a new well to increase the recoverable reserves of the field and achieve a new ultimate recovery.</anchoringText>
+<image-wrap id="102118183565MS-Img_SPi-10">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118183565MS_i_10.tif" id="ImgLink-10" />
+<caption>Post Study Static Model upon the Dynamic Output and Static Revisiting</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Post Study Static Model upon the Dynamic Output and Static Revisiting</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="22" figure-order="11" data-type-order="21">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr21"> </anchoringText>
+<image-wrap id="102118183565MS-Img_SPi-11">
+<label>Figure C1 </label>
+<imageLink type="mediaResource" href="102118183565MS_i_11.tif" id="ImgLink-11" />
+<caption>Production Performance Curves</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>C1</caption-order>
+<caption-text>Production Performance Curves</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="23" figure-order="12" data-type-order="22">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr22">Reservoir characterization is initialized via well log interpretation and zonation of similar facies across Nezzazat group. Such zonation identified seven reservoir intervals separated by shale barriers that could be traced and correlated through the studied field (Fig. 7). The overall zonation is confirmed by pressure depletion in each zone observed in a well (A6A) drilled 7 years after drilling the first exploratory well (A1)(Fig. 4). In addition, subsequent water injection through well (A6A) showed excellent pressure support to the producing zones in well (A1) (Fig. C2). The identified reservoir units are further investigated using available RFT data through plotting the recorded pressure points of RFT data versus depth (Fig. 4) to identify zonation trends.</anchoringText>
+<image-wrap id="102118183565MS-Img_SPi-12">
+<label>Figure C2 </label>
+<imageLink type="mediaResource" href="102118183565MS_i_12.tif" id="ImgLink-12" />
+<caption>Pressure Performance.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>C2</caption-order>
+<caption-text>Pressure Performance.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="24" figure-order="13" data-type-order="23">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr23">The developed fault block communication with adjacent blocks possibility increases the uncertainty in volumetric STOIIP calculations (Lill-Tove W. S., 2002). Relaying only on volumetric STOIIP in complicated structural basins, especially with poor seismic data, could lead to a major uncertainty in structure model, whether for field lateral extension or other blocks juxtaposition (J.S. van Wyk, et. el, 2005). This is the typical conditions prevailing the Gulf of Suez concessions where the thick salt section of South Gharib formation ± 1000 ft. (Fig. D1, Appendix" D") overlying potential hydrocarbon reservoirs greatly deteriorate the seismic data quality.</anchoringText>
+<image-wrap id="102118183565MS-Img_SPi-13">
+<label>Figure D1 </label>
+<imageLink type="mediaResource" href="102118183565MS_i_13.tif" id="ImgLink-13" />
+<caption>GOS Stratigraphy Column</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>D1</caption-order>
+<caption-text>GOS Stratigraphy Column</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="25" figure-order="14" data-type-order="24">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr24">In some areas where thick salt sections exist, e.g. Gulf of Suez, seismic imaging is so difficult due to strong acoustic impedance and velocity contrasts at the sediment-evaporites interface (Fig. D2, Appendix "D"). In such situations the structure mapping quality is highly governed by the available wells data and in early exploration phases, it is impossible to reliably predict the structure extension and even fault identification is not an easy target. Thus, volumetric STOIIP calculations based on maps derived from poor seismic quality with low well density have enormous uncertainty and cannot be adopted for field development plans.</anchoringText>
+<image-wrap id="102118183565MS-Img_SPi-14">
+<label>Figure D2 </label>
+<imageLink type="mediaResource" href="102118183565MS_i_14.tif" id="ImgLink-14" />
+<caption>Poor quality Seismic Sections at Gulf of Suez due to salt layers effect</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>D2</caption-order>
+<caption-text>Poor quality Seismic Sections at Gulf of Suez due to salt layers effect</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="26" figure-order="15" data-type-order="25">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr25">This indicates that the static pressure surveys at well A1 are measuring the average reservoir pressure of the most permeable layer (Craft, et. al, 1991); Wata layer (Fig. C2, Appendix"C"). In a similar pattern, GOR starts a rapid increase with the commence of production till water injection started. Generally, a little or even no water is produced through the field primary recovery production reflecting a weak bottom aquifer and solution gas drive mechanism. Water production (10-15%) indicating an early breakthrough is observed in 2014 that associate low dump effect induced by incompatible water and formation of scale damage within the injection well (Fig. E1, Appendix "E").</anchoringText>
+<image-wrap id="102118183565MS-Img_SPi-15">
+<label>Figure E1 </label>
+<imageLink type="mediaResource" href="102118183565MS_i_15.tif" id="ImgLink-15" />
+<caption>Multi Tanks W.C Match, Well A1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>E1</caption-order>
+<caption-text>Multi Tanks W.C Match, Well A1</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="26" figure-order="16" data-type-order="26">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr26"> </anchoringText>
+<image-wrap id="102118183565MS-Img_SPi-16">
+<label>Figure E2 </label>
+<imageLink type="mediaResource" href="102118183565MS_i_16.tif" id="ImgLink-16" />
+<caption>Well A1 Oil Rate Match</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>E2</caption-order>
+<caption-text>Well A1 Oil Rate Match</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="27" figure-order="17" data-type-order="27">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr27">Since permeability is the main factor in flow capacity, Kx multiplier is used to get oil rate. Although Nezzazat reservoir is producing under solution gas drive, water cut match is very important to simulate the breakthrough time after starting water injection at the well A6A on 2011. Water relative permeability curve was modified to get good match as presented in Fig. E1 of Appendix "E". Gas oil ratio is matched for both A1 and A6A wells (Fig. E3 Appendix "E" and Fig. E4 Appendix "E") and the erroneous measurements are responsible for some gas anomalies, as reservoir pressure is notable higher than bubble point pressure at this period.</anchoringText>
+<image-wrap id="102118183565MS-Img_SPi-17">
+<label>Figure E3 </label>
+<imageLink type="mediaResource" href="102118183565MS_i_17.tif" id="ImgLink-17" />
+<caption>well A6A Oil rate Match</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>E3</caption-order>
+<caption-text>well A6A Oil rate Match</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="27" figure-order="18" data-type-order="28">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr28">Since permeability is the main factor in flow capacity, Kx multiplier is used to get oil rate. Although Nezzazat reservoir is producing under solution gas drive, water cut match is very important to simulate the breakthrough time after starting water injection at the well A6A on 2011. Water relative permeability curve was modified to get good match as presented in Fig. E1 of Appendix "E". Gas oil ratio is matched for both A1 and A6A wells (Fig. E3 Appendix "E" and Fig. E4 Appendix "E") and the erroneous measurements are responsible for some gas anomalies, as reservoir pressure is notable higher than bubble point pressure at this period.</anchoringText>
+<image-wrap id="102118183565MS-Img_SPi-18">
+<label>Figure E4 </label>
+<imageLink type="mediaResource" href="102118183565MS_i_18.tif" id="ImgLink-18" />
+<caption>Multi Tank Gas Rate Match, Well A1.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>E4</caption-order>
+<caption-text>Multi Tank Gas Rate Match, Well A1.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="28" figure-order="19" data-type-order="29">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr29"> </anchoringText>
+<image-wrap id="102118183565MS-Img_SPi-19">
+<label>Figure E5 </label>
+<imageLink type="mediaResource" href="102118183565MS_i_19.tif" id="ImgLink-19" />
+<caption>Multi Tank Gas Rate Match, Well A6A.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>E5</caption-order>
+<caption-text>Multi Tank Gas Rate Match, Well A6A.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

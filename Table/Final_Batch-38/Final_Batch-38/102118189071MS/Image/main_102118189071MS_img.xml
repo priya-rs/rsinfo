@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189071MS.txt" extractionDate="2021-03-29T11:31:48Z">
+<doi>10.2118/189071-MS</doi>
+<pii>10.2118/189071-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">OML58 is an NNPC/Total E&amp;P Nigeria Limited Joint-Venture lease operated since 1966 by TEPNG. OML 58 is located in the Niger Delta about 56km from Port Harcourt as shown in Figure 1 below. It consists of 3 oil fields (Obagi, Erema and Olo) and 4 gas fields (Obagi Gas Cap, Obagi Deep, Ibewa and Ubeta). Oil was discovered in 1964 and production started in 1966 through Ogbogu Flow Station (OFS) and reacheda pick of 70 000 bpd in 1983.</anchoringText>
+<image-wrap id="102118189071MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118189071MS_i_1.tif" id="ImgLink-1" />
+<caption>OML58 Location Map</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>OML58 Location Map</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">The surface model: includes surface facilities and pipelines which are modeled with all the surface and network constraints. Production optimization of the surface network is achieved by linking the surface to the reservoir and well models as shown in Figure 2.</anchoringText>
+<image-wrap id="102118189071MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118189071MS_i_2.tif" id="ImgLink-2" />
+<caption>OML58 Integrated Asset Model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>OML58 Integrated Asset Model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">OML58 simplified facility scheme pre-upgrade can be described as follows (see Figure 3):</anchoringText>
+<image-wrap id="102118189071MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118189071MS_i_3.tif" id="ImgLink-3" />
+<caption>OML58 Simplified facilities Scheme (before the Upgrade)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>OML58 Simplified facilities Scheme (before the Upgrade)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">The upgrade project also involves the laying of two major pipelines (Figure 4 and 5):</anchoringText>
+<image-wrap id="102118189071MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118189071MS_i_4.tif" id="ImgLink-4" />
+<caption>OML58 Simplified facilities Scheme (After the Upgrade)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>OML58 Simplified facilities Scheme (After the Upgrade)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">The upgrade project also involves the laying of two major pipelines (Figure 4 and 5):</anchoringText>
+<image-wrap id="102118189071MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118189071MS_i_5.tif" id="ImgLink-5" />
+<caption>OUR and NOPL Pipelines Layout</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>OUR and NOPL Pipelines Layout</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">OML58 gas fields have different Condensate to Gas Ratio (CGR). It varies from dry gas in Obagi Gas Caps to High CGR for Ibewa and Obagi Deep reservoirs (Figure 6). Even within the same field different reservoirs may show different depletion trends and therefore different evolution of CGR with time. In order to maximize condensate production from OML58 gas fields, an optimization algorithm was integrated in the IAM. At each time step, and after getting reservoir pressure, the simulator compares CGR from different wells and gives priority to high CGR ones. Monthly, this priority list is sent to site and wells are operated accordingly.</anchoringText>
+<image-wrap id="102118189071MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118189071MS_i_6.tif" id="ImgLink-6" />
+<caption>OML58 Gas Fields CGR</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>OML58 Gas Fields CGR</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">Most of OML58 gas wells are completed in different reservoirs. Figure 7 shows a typical completion diagram of OML58 gas wells. The production strategy adopted is:</anchoringText>
+<image-wrap id="102118189071MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118189071MS_i_7.tif" id="ImgLink-7" />
+<caption>Typical Gas Well Completion</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Typical Gas Well Completion</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">WELL-1 is one of the infill wellsplanned to be drilled in Obagi Gas Cap. The reservoir target is an oil rim with a gas cap. Oil production started in 1966 with natural depletion, and then water injection started in 2008. Total well completed in the oil interval reaches 18 with actual cumulative oil production of 77.5 Mbbl which corresponds to 58% oil recovery factor. Reservoir pressure decreased from 265 bar to 125 bar before starting the water injection. Currently it is estimated at 140 bar (Figure 8). Due to the low reservoir pressure WELL-1 cannot be producing the gas at High Pressure (HP) and needs to be produced at Medium Pressure (MP).</anchoringText>
+<image-wrap id="102118189071MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118189071MS_i_8.tif" id="ImgLink-8" />
+<caption>Reservoir Pressure WELL-1 Target</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Reservoir Pressure WELL-1 Target</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">Ubeta is a gas condensate field located 8 km from Obagi flow station. It was discovered in 1964 and 4 appraisal wells were drilled. It consists of 5 major reservoirs, excellent permeability sandstones, at depth range 2600-3300 mss (Figure 9). The need to develop Ubeta has been identified for the upcoming years to be able to meet gas supply obligation (LNG+Domestic gas). The development requires the drilling of an optimum number of wells and the construction of a pipeline from Ubeta to OTC.</anchoringText>
+<image-wrap id="102118189071MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118189071MS_i_9.tif" id="ImgLink-9" />
+<caption>Ubeta Field Map and Cross Section</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Ubeta Field Map and Cross Section</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189169MS.txt" extractionDate="2021-03-29T12:57:17Z">
+<doi>10.2118/189169-MS</doi>
+<pii>10.2118/189169-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="7" table-order="1" data-type-order="9">
+<table-wrap id="102118189169MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Liquid production rate sensitivities considered initial starting rates of 800 – 2500 bopd. Incorporating sensitivity results and impact of structural uncertainties around proposed well locations, an optimum lateral length 1300 ft was chosen for the wells except for O03_Well-2 which had an optimum lateral length of 1500 ft. Initial liquid rate sensitivity results gave an optimum rate of 1000 bopd for all the wells. Table 1 and Table 2 shows the results of some sensitivities for the O-03 and M-01 wells.</anchoringText>
+<label>Table 1</label>
+<caption>Some Dynamic Simulation Sensitivity Results for the O-03 Reservoir Wells</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Some Dynamic Simulation Sensitivity Results for the O-03 Reservoir Wells</caption-text>
+</formatted-caption>
+<table id="102118189169MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th colspan="8" valign="top" align="center">Changes in Recovery from Base Case</th>
+</tr>
+<tr>
+<th valign="top" align="center">Well</th>
+<th valign="top" align="center">Well along Strike</th>
+<th valign="top" align="center">Well along Dip</th>
+<th valign="top" align="center">200ft of well toe in gas</th>
+<th valign="top" align="center">200 ft of well toe in water</th>
+<th valign="top" align="center">700ft lateral length</th>
+<th valign="top" align="center">1000 ft lateral length</th>
+<th valign="top" align="center">1300 ft lateral length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">O03_Well-1</td>
+<td valign="top" align="center">Nil (Base case)</td>
+<td valign="top" align="center">−38%</td>
+<td valign="top" align="center">−5%</td>
+<td valign="top" align="center">−3%</td>
+<td valign="top" align="center">−7%</td>
+<td valign="top" align="center">−3%</td>
+<td valign="top" align="center">Nil (Base case)</td>
+</tr>
+<tr>
+<td valign="top" align="left">O03_Well-2</td>
+<td valign="top" align="center">Nil (Base case)</td>
+<td valign="top" align="center">−30%</td>
+<td valign="top" align="center">−8%</td>
+<td valign="top" align="center">−15%</td>
+<td valign="top" align="center">−19%</td>
+<td valign="top" align="center">−16%</td>
+<td valign="top" align="center">Nil (Base case)</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="2" data-type-order="10">
+<table-wrap id="102118189169MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Liquid production rate sensitivities considered initial starting rates of 800 – 2500 bopd. Incorporating sensitivity results and impact of structural uncertainties around proposed well locations, an optimum lateral length 1300 ft was chosen for the wells except for O03_Well-2 which had an optimum lateral length of 1500 ft. Initial liquid rate sensitivity results gave an optimum rate of 1000 bopd for all the wells. Table 1 and Table 2 shows the results of some sensitivities for the O-03 and M-01 wells.</anchoringText>
+<label>Table 2</label>
+<caption>Landing Depth Simulation Sensitivity Results for the M-01 Reservoir Wells</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Landing Depth Simulation Sensitivity Results for the M-01 Reservoir Wells</caption-text>
+</formatted-caption>
+<table id="102118189169MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th colspan="5" valign="top" align="center">Changes in Recovery from Base Case</th>
+</tr>
+<tr>
+<th valign="top" align="center">Well</th>
+<th valign="top" align="center">9 ft below GOC</th>
+<th valign="top" align="center">12 ft below GOC</th>
+<th valign="top" align="center">15 ft below GOC</th>
+<th valign="top" align="center">18 ft below GOC</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">M-01_Well-1</td>
+<td valign="top" align="center">Nil</td>
+<td valign="top" align="center">Nil (Base case)</td>
+<td valign="top" align="center">−8%</td>
+<td valign="top" align="center">−9%</td>
+</tr>
+<tr>
+<td valign="top" align="left">M-01_Well-2</td>
+<td valign="top" align="center">−19%</td>
+<td valign="top" align="center">Nil (Base case)</td>
+<td valign="top" align="center">−15%</td>
+<td valign="top" align="center">−15%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

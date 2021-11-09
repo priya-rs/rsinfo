@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190190MS.txt" extractionDate="2021-03-29T19:43:49Z">
+<doi>10.2118/190190-MS</doi>
+<pii>10.2118/190190-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure composite="true" composite-count="2" pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr4">The objectives set for the NCT are listed in Figure 1.</anchoringText>
+<image-wrap id="102118190190MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118190190MS_i_1.tif" id="ImgLink-1" />
+<caption>Objectives of the NCT RESERVOIR, OPERATIONAL</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Objectives of the NCT RESERVOIR, OPERATIONAL</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190190MS-Img_SPi-1a">
+<imageLink type="mediaResource" href="102118190190MS_i_1a.tif" id="ImgLink-1a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>RESERVOIR</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190190MS-Img_SPi-1b">
+<imageLink type="mediaResource" href="102118190190MS_i_1b.tif" id="ImgLink-1b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>OPERATIONAL</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr5">To fulfill the above-mentioned objectives, three stages were considered: Design, implementation and evaluation (see Figure 2). At the design stage, a commercial reservoir simulator was employed to estimate the expected ranges of operation during the test, while considering the uncertainty in a series of reservoir parameters. At the implementation stage, the design guidelines were followed, and deviations and other measurements were reported. Lastly, at the evaluation stage, the reported data were used to generate plots and patterns that were analyzed to formulate conclusions and recommendations for the pilot operation.</anchoringText>
+<image-wrap id="102118190190MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118190190MS_i_2.tif" id="ImgLink-2" />
+<caption>Well layout for the in situ combustion pilot</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Well layout for the in situ combustion pilot</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr6">Within the T2 formation, the unit with the best petrophysical properties is T2_40, so all pilot wells are completed within this unit. A type well log is presented in Figure 3.</anchoringText>
+<image-wrap id="102118190190MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118190190MS_i_3.tif" id="ImgLink-3" />
+<caption>Sub-units of T2 formation. Red lines represent tops</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Sub-units of T2 formation. Red lines represent tops</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr7">To evaluate a series of likely scenarios during nitrogen injection, numerical reservoir simulation using commercial software was carried out. A high-resolution simulation model was produced for the pilot area, paying particular attention to the preservation of geological features that influence the response to the injection of a high-mobility fluid into the formation. Figure 4 depicts the grid used for the simulations, locally refined around the injector and the first-line producer wells.</anchoringText>
+<image-wrap id="102118190190MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118190190MS_i_4.tif" id="ImgLink-4" />
+<caption>Submodel used for simulations of the NCT</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Submodel used for simulations of the NCT</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr8">History-matching the primary production behavior was crucial to represent the pressure field at the beginning of nitrogen injection. Figures 5 to 7 illustrate the bottom-hole pressure match obtained for each of the first-line producer wells.</anchoringText>
+<image-wrap id="102118190190MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118190190MS_i_5.tif" id="ImgLink-5" />
+<caption>History match of well P3</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>History match of well P3</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr9">History-matching the primary production behavior was crucial to represent the pressure field at the beginning of nitrogen injection. Figures 5 to 7 illustrate the bottom-hole pressure match obtained for each of the first-line producer wells.</anchoringText>
+<image-wrap id="102118190190MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118190190MS_i_6.tif" id="ImgLink-6" />
+<caption>History match of well P2</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>History match of well P2</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr10">History-matching the primary production behavior was crucial to represent the pressure field at the beginning of nitrogen injection. Figures 5 to 7 illustrate the bottom-hole pressure match obtained for each of the first-line producer wells.</anchoringText>
+<image-wrap id="102118190190MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118190190MS_i_7.tif" id="ImgLink-7" />
+<caption>History match of well P1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>History match of well P1</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="7" figure-order="8" data-type-order="11">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr11">The sensitivity of breakthrough time to kv/kh was not significant, so the base case was set at a value of 0.6, and this parameter was left to be adjusted for the NCT history match. The most favorable scenario for the perforated interval was considered to be Case 2, which results in better vertical conformance, as evidenced in Figure 8. Similarly, in order to have sufficient time to observe breakthrough and measure the changing gas composition, it was decided that Case 3 for injection rate schedule was the better option. It was also decided that in case of longer transit time, rate would be increased to promote breakthrough to the first-line wells and accelerate progression of the nitrogen front to the second-line wells, while maintaining a reasonable total test time.</anchoringText>
+<image-wrap id="102118190190MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118190190MS_i_8.tif" id="ImgLink-8" />
+<caption>Effect of the perforated interval on nitrogen vertical conformance during the NCT</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Effect of the perforated interval on nitrogen vertical conformance during the NCT</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190190MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118190190MS_i_8a.tif" id="ImgLink-8a" />
+</image-wrap>
+<image-wrap id="102118190190MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118190190MS_i_8b.tif" id="ImgLink-8b" />
+</image-wrap>
+<image-wrap id="102118190190MS-Img_SPi-8c">
+<imageLink type="mediaResource" href="102118190190MS_i_8c.tif" id="ImgLink-8c" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="9" data-type-order="12">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr12">This can be controlled at the simulator by periodically adjusting the BHP after considering the discrepancies in production rate in that time period. Figure 9 shows the realization corresponding to the base case and selected injection rate schedule with the chosen perforated intervals, where satisfactory homogenization of the nitrogen production was obtained despite the initial discrepancies in BHP. The test times were considered longer than expected, just to evidence that a homogeneous progression of the nitrogen front is possible for an extended time period.</anchoringText>
+<image-wrap id="102118190190MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118190190MS_i_9.tif" id="ImgLink-9" />
+<caption>Forecast of the NCT with homogenization of the nitrogen front</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Forecast of the NCT with homogenization of the nitrogen front</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190190MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118190190MS_i_9a.tif" id="ImgLink-9a" />
+</image-wrap>
+<image-wrap id="102118190190MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118190190MS_i_9b.tif" id="ImgLink-9b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="13">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr13">Previous to the baseline stage, the injector well was perforated at the selected interval, and the cleaning and preparation well operation was conducted. The cryogenic unit for nitrogen injection was mobilized to the site, and the pressure and gas rate and composition monitoring devices were installed at the producer wells. The actual duration of each of the stages contrasted against those specified in the design is reported in Figure 10.</anchoringText>
+<image-wrap id="102118190190MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118190190MS_i_10.tif" id="ImgLink-10" />
+<caption>Duration of each of the NCT phases: Planned versus Executed</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Duration of each of the NCT phases: Planned versus Executed</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="11" data-type-order="14">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr14">The actual and design nitrogen injection rate are plotted in Figure 11. The design injection ramp was modified from that reported in Case 3 of Table 2 close to the test, considering a lower-than-expected BHP at one of the first-line producer wells, that risked the occurrence of breakthrough at a time earlier than optimal. During the test, however, injection rate was increased earlier than anticipated in order to promote breakthrough. After that, it was kept constant and not further increased, since breakthrough at the second-line producers did not take as long as expected. The total injected volume was higher than planned, because of the extended duration of the NCT.</anchoringText>
+<image-wrap id="102118190190MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118190190MS_i_11.tif" id="ImgLink-11" />
+<caption>Actual versus design injection rate and measured BHP at the injector well</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Actual versus design injection rate and measured BHP at the injector well</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="12" data-type-order="15">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr15">To determine breakthrough times and produced gas volumes: Figures 12 and 13 summarize the breakthrough times and cumulative volumes of incremental nitrogen produced. Breakthrough times were successfully determined by combining the measurements given by the gas flow meters and the compositions obtained from chromatography tests. In the same way, incremental (values above the baseline of 4 – 5% for nitrogen molar fraction in produced gas) nitrogen production was calculated. Gas was observed to flow in discontinuous batches in some of the wells, which is a source for uncertainty in the total volumes reported.</anchoringText>
+<image-wrap id="102118190190MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118190190MS_i_12.tif" id="ImgLink-12" />
+<caption>Map showing nitrogen breakthrough time in producer wells</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Map showing nitrogen breakthrough time in producer wells</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="13" data-type-order="16">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr16">To determine breakthrough times and produced gas volumes: Figures 12 and 13 summarize the breakthrough times and cumulative volumes of incremental nitrogen produced. Breakthrough times were successfully determined by combining the measurements given by the gas flow meters and the compositions obtained from chromatography tests. In the same way, incremental (values above the baseline of 4 – 5% for nitrogen molar fraction in produced gas) nitrogen production was calculated. Gas was observed to flow in discontinuous batches in some of the wells, which is a source for uncertainty in the total volumes reported.</anchoringText>
+<image-wrap id="102118190190MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118190190MS_i_13.tif" id="ImgLink-13" />
+<caption>Map showing cumulative nitrogen produced</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Map showing cumulative nitrogen produced</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="14" data-type-order="17">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr17">Incremental nitrogen was observed in wells located north (P8, 375 m, 22 days), south (P5, 354 m, 21 days), west (P6, 411 m, 26 days) and east (P4, 244 m, 18 days) of the injector well INJ. From the previous distances and times, an average velocity can be calculated, concluding that nitrogen traveled at about the same speed in all directions, including well P4, even though a fault was identified between the injector and this well, evidenced by a 140 ft structural jump, as depicted in Figure 14. The existence or character of this fault needs to be revisited in the light of the NCT results. A feasible hypothesis is that the fault communicates the T2_40 unit at the injector block with the T2_60 block at the P4 block with no flow restriction. This and other hypotheses will be tested using reservoir simulation.</anchoringText>
+<image-wrap id="102118190190MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118190190MS_i_14.tif" id="ImgLink-14" />
+<caption>Fault between wells INJ and P4</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Fault between wells INJ and P4</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="15" data-type-order="18">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr18">An evidence of the influence of nitrogen injection in production performance was observed in well P4. This well was also open to production in another sand (K1) that bears 15 °API oil. During the NCT, as reported in Figure 15, the produced API gravity dropped to an average of 10. This is explained by the better pressure support in the T2 sand (which produces oil with API gravity between 8 and 9) and gas expansion long after nitrogen injection had concluded. Another difference between the T2 and K1 sands is the water cut and salinity. Both parameters followed similar trends to that of the API gravity, dominating the T2 sand representative values during and after the NCT.</anchoringText>
+<image-wrap id="102118190190MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118190190MS_i_15.tif" id="ImgLink-15" />
+<caption>Produced oil API gravity variation in well P4</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Produced oil API gravity variation in well P4</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="16" data-type-order="19">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr19">The closest well that did not exhibit any incremental nitrogen was P7. This behavior is explained by the fact that the nearby well P6 drains the free gas transported to this vicinity. The total gas balance (injection versus production) is presented in Figure 16. Around 5.5% of the nitrogen injected was produced. This figure would have been much larger, had the first-line producer wells not been shut-in. Most of this remaining gas volume would be distributed in low-saturation zones, that nonetheless constitute preferential flow paths for air injection.</anchoringText>
+<image-wrap id="102118190190MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118190190MS_i_16.tif" id="ImgLink-16" />
+<caption>Cumulative nitrogen volumen: Injected and produced</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Cumulative nitrogen volumen: Injected and produced</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="17" data-type-order="20">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr20">When balancing the hydrocarbon gas produced, an excess with respect of the values reported during the baseline was observed. Figure 17 is an example of this behavior. The baseline Gas-Oil Ratio (GOR) ranged between 30 and 50 SCF/STB. Upon the test, the GOR measured at the test separator was 420 SCF/STB. Subtracting the nitrogen produced, the hydrocarbon GOR remains close to 300 SCF/STB. An analytical estimation of hydrocarbon vaporization into the gas stream due to multiple contacts with nitrogen shows that no more than 50 SCF/STB can be explained by this phenomenon. In the balance, about 200 SCF/STB must be attributed to free hydrocarbon gas displaced by the injected nitrogen in the case of this well (P3).</anchoringText>
+<image-wrap id="102118190190MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118190190MS_i_17.tif" id="ImgLink-17" />
+<caption>Gas-Oil Ratio (GOR) measured in well P3</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Gas-Oil Ratio (GOR) measured in well P3</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="18" data-type-order="21">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr21">Figure 18 shows the well bottom-hole pressure (BHP) sensitivity to the pump frequency. Before nitrogen injection, the BHP had a wider variation range than that after nitrogen injection, for both wells reported. This effect is twofold: on one hand, it limits the maneuverability to promote a perturbation on the pressure field that allows redirection of the nitrogen flow, but on the other hand, evidences a higher apparent well productivity index, resulting from the pressure support that the injector well provides. The well productivity indexes for the first-line producers increased between 60% and 100% with respect to the base line. The latter reduces the impact that surface choking has on the total liquid output.</anchoringText>
+<image-wrap id="102118190190MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118190190MS_i_18.tif" id="ImgLink-18" />
+<caption>Gas-Oil Ratio (GOR) measured in well P3</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Gas-Oil Ratio (GOR) measured in well P3</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

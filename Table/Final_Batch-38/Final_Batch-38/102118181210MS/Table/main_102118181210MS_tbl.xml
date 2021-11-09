@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118181210MS.txt" extractionDate="2021-03-23T12:09:50Z">
+<doi>10.2118/181210-MS</doi>
+<pii>10.2118/181210-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="2" table-order="1" data-type-order="1">
+<table-wrap id="102118181210MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">A polymer injection pilot is being carried out since January 2012 in El Corcobo Norte field. Reservoir and fluid properties are detailed in Table 1. The pilot consists on six inverted 7-spot patterns of approximately 20 acres each. Same pattern design is used for most of the main zone of the field.</anchoringText>
+<label>Table 1</label>
+<caption>Reservoir and Fluid Properties</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Reservoir and Fluid Properties</caption-text>
+</formatted-caption>
+<table id="102118181210MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" valign="bottom" align="left">Reservoir</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Poiosity(%)</td>
+<td valign="bottom" align="center">27-33</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Permeability (abs. D)</td>
+<td valign="bottom" align="center">0,5-4</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Temperature (°C)</td>
+<td valign="bottom" align="center">38</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Depth (mbgl)</td>
+<td valign="bottom" align="center">~650</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Original Pressure (kPa)</td>
+<td valign="bottom" align="center">3240</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Thickness (m)</td>
+<td align="center">0,5-18</td>
+</tr>
+<tr>
+<td colspan="2" align="left">
+<b>Fluid</b>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Oil density (°API)</td>
+<td align="center">18</td>
+</tr>
+<tr>
+<td align="left">Oil viscosity (live, mPa^s)</td>
+<td align="center">160-300</td>
+</tr>
+<tr>
+<td align="left">TAN(mg KOH/gr oil)</td>
+<td valign="bottom" align="center">~4</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+Formation water salinity (ppm)
+</td>
+<td valign="bottom" align="center">46000</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="3" table-order="2" data-type-order="5">
+<table-wrap id="102118181210MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">In Table 2 injection water composition is shown. Since the original salinity is above 40000 ppm, injection water salinity is also usable as a natural tracer to monitor how mature displacement is in this zone. Water salinity is a cheap, easy -to - determine parameter that can be used to continuosly monitor the evolution of a flood, when a salinity gradient between original and injection water salinity is available.</anchoringText>
+<label>Table 2</label>
+<caption>Injection Water Composition</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Injection Water Composition</caption-text>
+</formatted-caption>
+<table id="102118181210MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" valign="bottom" align="left">Fresh Water Composition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Component</td>
+<td valign="bottom" align="center">Concentration (pprn)</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">TDS</td>
+<td valign="bottom" align="center">1044</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Cations</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<sub>Na</sub>
+<sup>+</sup>
+</td>
+<td valign="bottom" align="center">144</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<sub>K</sub>
+<sup>+</sup>
+</td>
+<td valign="bottom" align="center">10</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<sub>Ca</sub>
+<sup>2+</sup>
+</td>
+<td valign="bottom" align="center">142</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<sub>Mg</sub>
+<sup>2+</sup>
+</td>
+<td valign="bottom" align="center">20</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Anions</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<sub>Cl</sub>
+<sup>–</sup>
+</td>
+<td valign="bottom" align="center">179</td>
+</tr>
+<tr>
+<td align="left">hco<sub>3</sub>
+<sup>-</sup>
+</td>
+<td valign="bottom" align="center">278</td>
+</tr>
+<tr>
+<td align="left">so<sub>4</sub>
+<sup>2-</sup>
+</td>
+<td valign="bottom" align="center">271</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

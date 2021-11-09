@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118178398MS.txt" extractionDate="2021-03-19T15:10:34Z">
+<doi>10.2118/178398-MS</doi>
+<pii>10.2118/178398-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="10" table-order="1" data-type-order="16">
+<table-wrap id="102118178398MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">An extrapolation of this line to the point where the distance is zero gives the total underground withdrawal at which breakthrough is expected to occur at the well. The water breakthrough condition plot is shown in Figure 15. The results indicate that at total underground withdrawal of 13 MMrbbl water is expected to have encroached to the well position. This is expected to give reserves of 19 Bscf and details of the pressure transient analysis results are listed in Table 1. The current/expected gas production rate of the wells completed in the reservoir could be used to predict the breakthrough time. This has not been estimated due to the fluctuating gas production which is driven by domestic gas demand.</anchoringText>
+<label>Table 1</label>
+<caption>Summary of Pressure transient results</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Summary of Pressure transient results</caption-text>
+</formatted-caption>
+<table id="102118178398MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left" bgcolor="#C0504D">Parameters</th>
+<th valign="top" align="center" bgcolor="#C0504D">Values</th>
+<th valign="top" align="center" bgcolor="#C0504D">Units</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" bgcolor="#EFD3D2">Distance from Well to PGWC in 2004</td>
+<td valign="top" align="center" bgcolor="#EFD3D2">1320</td>
+<td valign="top" align="center" bgcolor="#EFD3D2">ft</td>
+</tr>
+<tr>
+<td valign="top" align="left">Permeability-Thickness value in 2004</td>
+<td valign="top" align="center">3.82 × E6</td>
+<td valign="top" align="center">md -ft</td>
+</tr>
+<tr>
+<td valign="top" align="left" bgcolor="#EFD3D2">Distance from Well to PGWC in 2012</td>
+<td valign="top" align="center" bgcolor="#EFD3D2">920</td>
+<td valign="top" align="center" bgcolor="#EFD3D2">ft</td>
+</tr>
+<tr>
+<td valign="top" align="left">Permeability-Thickness value in 2012</td>
+<td valign="top" align="center">2.60 × E6</td>
+<td valign="top" align="center">md-ft</td>
+</tr>
+<tr>
+<td valign="top" align="left" bgcolor="#EFD3D2">Distance from Well to PGWC in 2013</td>
+<td valign="top" align="center" bgcolor="#EFD3D2">750</td>
+<td valign="top" align="center" bgcolor="#EFD3D2">ft</td>
+</tr>
+<tr>
+<td valign="top" align="left">Permeability-Thickness value in 2013</td>
+<td valign="top" align="center">2.15 × E6</td>
+<td valign="top" align="center">md-ft</td>
+</tr>
+<tr>
+<td valign="top" align="left" bgcolor="#EFD3D2">Total Underground Withdrawal</td>
+<td valign="top" align="center" bgcolor="#EFD3D2">13</td>
+<td valign="top" align="center" bgcolor="#EFD3D2">MMrbbl</td>
+</tr>
+<tr>
+<td valign="top" align="left">Estimated Reservoir Reserves</td>
+<td valign="top" align="center">19</td>
+<td valign="top" align="center">Bscf</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

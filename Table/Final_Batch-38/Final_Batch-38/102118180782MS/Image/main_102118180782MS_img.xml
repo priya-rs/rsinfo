@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118180782MS.txt" extractionDate="2021-03-23T14:43:17Z">
+<doi>10.2118/180782-MS</doi>
+<pii>10.2118/180782-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">Lateral communi-cation is observed across the entire field. A major fault in the west and baffles in the northern region (Fig. cause an early time pressure offset between the wells (highlighted in the black dotted box in Fig. 2). With time and production, clear equilibration in pressures is seen (grey dotted box in Fig. 2). The production wells are horizontal boreholes landed at the top of the M4a sands interval. All the wells are open-hole gravel pack completions typically with horizontal lengths of 1000-1700ft.</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118180782MS_i_1.tif" id="ImgLink-1" />
+<caption>Structure map of the field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Structure map of the field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">Lateral communi-cation is observed across the entire field. A major fault in the west and baffles in the northern region (Fig. cause an early time pressure offset between the wells (highlighted in the black dotted box in Fig. 2). With time and production, clear equilibration in pressures is seen (grey dotted box in Fig. 2). The production wells are horizontal boreholes landed at the top of the M4a sands interval. All the wells are open-hole gravel pack completions typically with horizontal lengths of 1000-1700ft.</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118180782MS_i_2.tif" id="ImgLink-2" />
+<caption>Flowing bottom-hole pressures for production wells; highlights the communication between different regions</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Flowing bottom-hole pressures for production wells; highlights the communication between different regions</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">A third history matching approach called ensemble based methods (Evensen, 2003) has gained relevance during recent years. In this algorithm, proxy model techniques can be combined with full field simulations. This creates a balance between having enough physics based full field simulations, with, extensive and rapid sampling of the uncertainty space by using proxy surfaces, thereby preserving accuracy in the results (Fig. 3).</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118180782MS_i_3.tif" id="ImgLink-3" />
+<caption>Comparison of the commonly used assisted history matching methods highlighting the balance between history match accuracy and sample space coverage (Villa, 2011)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Comparison of the commonly used assisted history matching methods highlighting the balance between history match accuracy and sample space coverage (<link href="BIB1">Villa, 2011</link>)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-28" type="bib">
+<bib id="BIB1">
+<label>Villa, (2011)</label>
+<author>
+<first-name>J.</first-name>
+<last-name>Villa</last-name>
+</author>
+<pubDate>(2011)</pubDate>. <article-title>Proxy / MCMC-based Assisted History Matching. SPE ATW on History Matching, Cartagena, Columbia, 29-31 </article-title>
+<i />, <journal-title>Aug </journal-title>, <pages>
+<first-page>2011</first-page>
+</pages>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">The chance of certain events occurring, based on additional data such as field production history, are represented by the “likelihood”. The updates in our beliefs regarding the uncertainties, having incorporated the real data and its likelihood, are represented by the “posterior distribution”. In the MCMC method, posterior distributions obtained after assisted history matching are used for the prediction phase, thus, ensuring that a more robust view of the uncertainty ranges are used in generating the prediction and reserve forecasts (Fig. 4).</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118180782MS_i_4.tif" id="ImgLink-4" />
+<caption>Application of Bayesian Optimization in the MCMC workflow (Schulze-Riegert, et al., 2013)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Application of Bayesian Optimization in the MCMC workflow <link href="BIB5">(Schulze-Riegert, et al., 2013)</link></caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-29" type="bib">
+<bib id="BIB5">
+<label>Schulze-Riegert, et al., 2013</label>
+<author>
+<first-name>R.</first-name>
+<last-name>Schulze-Riegert</last-name>
+</author>, <author><first-name>F.</first-name><last-name>Chataigner</last-name></author>, <author><first-name>N.</first-name><last-name>Kueck</last-name></author>, <article-title>et alet al. (2013): Strategic Scope of Alternative Optimization Methods in History Matching and Prediction Workflows. SPE 164337 paper presented at the SPE Middle East Oil and Gas Show and Exhibition held in Manama </article-title><i /><i>, </i><journal-title>Bahrain </journal-title>, <pages><first-page>10</first-page><last-page>13</last-page></pages> <pubDate>March 2013</pubDate>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">The second group contains the rest of the cases where a simple “kernel regression” is used for the proxy model. A combined proxy model is then created, with higher resolution in areas with a high likelihood of finding solutions and lower quality for the rest of the search space. This is shown in Fig 5, where the lower error dataset fitted using “kriging” have an almost perfect correlation between the simulated and proxy predicted values. While, the higher error training points are more loosely correlated due to a weaker proxy in that region.</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118180782MS_i_5.tif" id="ImgLink-5" />
+<caption>Training set selection and combined proxy generation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Training set selection and combined proxy generation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="6" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">Parameter distri-butions were updated based on this analysis, where the model response indicated certain values to be more or less likely. Assisted History Matching was then performed by applying a Markov Chain Monte-Carlo and proxy based workflow. A large set of matched cases were rapidly generated from the use of proxy modelling and conditioned forecasts based on posterior distributions were obtained. The evolution of the history matches through this workflow is shown in Fig. 6. The final result was a stochastically generated P10-P50-P90 range of in-place and recoverable volumes.</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118180782MS_i_6.tif" id="ImgLink-6" />
+<caption>Depiction of the evolution of history matches from the Latin hypercube scoping runs, to matched cases obtained from Assisted History Matching and finally, the selected P10-P50-P90 cases.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Depiction of the evolution of history matches from the Latin hypercube scoping runs, to matched cases obtained from Assisted History Matching and finally, the selected P10-P50-P90 cases.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118180782MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118180782MS_i_6a.tif" id="ImgLink-6a" />
+</image-wrap>
+<image-wrap id="102118180782MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118180782MS_i_6b.tif" id="ImgLink-6b" />
+</image-wrap>
+<image-wrap id="102118180782MS-Img_SPi-6c">
+<imageLink type="mediaResource" href="102118180782MS_i_6c.tif" id="ImgLink-6c" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">In our experi-ence, it is better to purposely start with a wider range of static and dynamic uncertainties that could later be constrained based on insights gained from parameter correlation analysis in scoping cycles. Learnings from front-end manual history matching were also useful in framing uncertainties. Major reservoir uncertainties modelled were the field and channel facies extent, porosity and regional pore volume variations, water saturation, contacts, regional permeability variations, baffles, rock com-pressibility, residual gas saturation and connectivity &amp; in-place volume of minor thin bed facies observed in some wells (Fig. 7).</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118180782MS_i_7.tif" id="ImgLink-7" />
+<caption>Representative image of the active uncertainties, their ranges and assigned distributions</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Representative image of the active uncertainties, their ranges and assigned distributions</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">In the current work, bottom-hole pressures (and where unavailable, tubing head pressures) for all the production wells were set as mismatch parameters for the calculation of the “Global” objective value. The “Standard Deviation” was set to 50. This value was back calculated by aiming to have the “Partial” objective value (“Base Value” in the blue box in Fig. 8) close to 1 for a very well matched case. This allowed the capability of inferring the quality of future history matches from the “Base Value” reported by the software. Correspondingly, at these settings, a reservoir model with near perfect matches for every well was expected to have a “Global” close to the number of mismatch parameters times number of wells active in the case (in this case, it equals to “Global” of 8).</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118180782MS_i_8.tif" id="ImgLink-8" />
+<caption>(Top): Selection of a mismatch parameter (well BHP) and specific mismatch points (in red), (Bottom) Selection of active mismatch parameters in the “Global” Objective; Weighting &amp; Standard Deviation assigned to each parameter and the output “Base Value” or partial objective value for each mismatch parameter from a run.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>(Top): Selection of a mismatch parameter (well BHP) and specific mismatch points (in red), (Bottom) Selection of active mismatch parameters in the “Global” Objective; Weighting &amp; Standard Deviation assigned to each parameter and the output “Base Value” or partial objective value for each mismatch parameter from a run.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118180782MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118180782MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>Top</caption-order>
+<caption-text>Selection of a mismatch parameter (well BHP) and specific mismatch points (in red),</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118180782MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118180782MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>Bottom</caption-order>
+<caption-text>Selection of active mismatch parameters in the “Global” Objective; Weighting &amp; Standard Deviation assigned to each parameter and the output “Base Value” or partial objective value for each mismatch parameter from a run</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">A key parameter correlation analysis result is presented in Fig 9. It highlights the presence of a strong and meaningful V-shaped trend between the field in-place and “Global” objective value. Such a trend is not unexpected where the key volumetric uncertainties have been adequately scoped, and, where the field satisfies a key criterion that there are no majorly unconnected hydrocarbons. Physically, this trend is very meaningful and indicates that the connected gas in-place (primary pressure support) for this field must lie within a certain range to adequately represent the reservoir behaviour (represented by low “Global” values).</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118180782MS_i_9.tif" id="ImgLink-9" />
+<caption>Plot of correlated “Global” vs Field gas in place from the scoping LHC runs</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Plot of correlated “Global” vs Field gas in place from the scoping LHC runs</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">Another valuable application of such modern stochastic correlation analysis, (Fig. 10), is to get key insights in understanding parameter sensitivity in real world scenarios where conventional sensitivity analysis (such as Tornado plots) may not work. Typically, analyses such as Tornado plots are run to see the sensitivity of input uncertainties to model responses like in-place volume or reserves.</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118180782MS_i_10.tif" id="ImgLink-10" />
+<caption>Correlation of Rock Compressibility with Field gas-in-place from filtered Latin hypercube scoping runs</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Correlation of Rock Compressibility with Field gas-in-place from filtered Latin hypercube scoping runs</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">In each new cycle, key input parameter ranges were purposely varied to be on their conservative or optimistic end. The logic was to test if this volumetric convergence was an artifact of the way the uncertainties were framed or indeed a fundamental character of the reservoir itself. Each time, a similar converging trend and a narrow volumetric range was achieved, pointing to a consistent solution. Representative results from two cycles are shown in Fig 11a and 11b.</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-11">
+<label>Figure 11 a</label>
+<imageLink type="mediaResource" href="102118180782MS_i_11.tif" id="ImgLink-11" />
+<caption>Correlation of field gas-in-place vs “Global” from a cycle focusing on higher volumes</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11 a</caption-order>
+<caption-text>Correlation of field gas-in-place vs “Global” from a cycle focusing on higher volumes</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">In each new cycle, key input parameter ranges were purposely varied to be on their conservative or optimistic end. The logic was to test if this volumetric convergence was an artifact of the way the uncertainties were framed or indeed a fundamental character of the reservoir itself. Each time, a similar converging trend and a narrow volumetric range was achieved, pointing to a consistent solution. Representative results from two cycles are shown in Fig 11a and 11b.</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-12">
+<label>Figure 11 b</label>
+<imageLink type="mediaResource" href="102118180782MS_i_12.tif" id="ImgLink-12" />
+<caption>Correlation of field gas-in-place vs “Global” from a cycle focusing on lower volumes</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11 b</caption-order>
+<caption-text>Correlation of field gas-in-place vs “Global” from a cycle focusing on lower volumes</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">This conclusively validated the following: to achieve a low “Global” or high quality matches for all the wells, the volumetric range, with a high degree of confidence, must lie within the red box in Fig 11c. Conversely, for significantly higher or lower volumes, the energy in the system was not appropriate to obtain a low “Global” or good match.</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-13">
+<label>Figures 11 c</label>
+<imageLink type="mediaResource" href="102118180782MS_i_13.tif" id="ImgLink-13" />
+<caption>Converged gas-in-place ranges and evolution in the match quality (inset plots).</caption>
+<formatted-caption>
+<caption-label>Figures</caption-label>
+<caption-order>11 c</caption-order>
+<caption-text>Converged gas-in-place ranges and evolution in the match quality (inset plots).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr14">The initial distribution assigned to an uncertainty is referred to as “prior” distribution and indicates our original belief on it, shown for “Global Porosity” (Fig 12a). The “prior” (red curve) is replicated by the experimental design (blue histogram), as is expected. However, after running the scoping cycle and applying a filter to select only potentially matched cases, a different histogram can emerge. This post-filtering distribution is referred to as the “posterior” distribution and is the new histogram (Fig 12b).</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-14">
+<label>Figure 12a </label>
+<imageLink type="mediaResource" href="102118180782MS_i_14.tif" id="ImgLink-14" />
+<caption>Prior distribution (red curve and blue histogram) for an input parameter (Global Porosity)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12a</caption-order>
+<caption-text>Prior distribution (red curve and blue histogram) for an input parameter (Global Porosity)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="15" data-type-order="15">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr15">The initial distribution assigned to an uncertainty is referred to as “prior” distribution and indicates our original belief on it, shown for “Global Porosity” (Fig 12a). The “prior” (red curve) is replicated by the experimental design (blue histogram), as is expected. However, after running the scoping cycle and applying a filter to select only potentially matched cases, a different histogram can emerge. This post-filtering distribution is referred to as the “posterior” distribution and is the new histogram (Fig 12b).</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-15">
+<label>Figure 12b </label>
+<imageLink type="mediaResource" href="102118180782MS_i_15.tif" id="ImgLink-15" />
+<caption>Posterior distribution (updated blue histogram) for the same input parameter</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12b</caption-order>
+<caption-text>Posterior distribution (updated blue histogram) for the same input parameter</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="16" data-type-order="16">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr16">If the initial uncertainty distribution is representative of the reservoir, one would expect prior and posterior distributions to be similar, as seen for “Water Saturation” (Fig. 13). The overall normal shape of the curve is maintained after incorporation of the production data and filtering on the match quality. There is a minor convergence of the end limits towards the mean, which would be expected as the static uncertainty is greater than post production uncertainty.</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-16">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118180782MS_i_16.tif" id="ImgLink-16" />
+<caption>Prior distribution (red curve) and posterior (blue histogram) for Water Saturation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Prior distribution (red curve) and posterior (blue histogram) for Water Saturation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="17" data-type-order="17">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr17">MCMC allows Bayesian optimization to be done in an unbiased manner but being a computationally expensive algorithm, a proxy modelling workflow was utilized in the software. The efficiency of the proxy workflow enables hundreds of proxy reservoir simulations to be run in a short time. The proxy model generation needs a training set of experiments for conditioning and robust predictivity and LHC scoping experiments were used for this. Out of 400 LHC scoping runs, top 150 cases with the lowest global value were selected for training a robust proxy (Fig. 14).</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-17">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118180782MS_i_17.tif" id="ImgLink-17" />
+<caption>Parameters chosen for setting up the proxy based MCMC workflow</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Parameters chosen for setting up the proxy based MCMC workflow</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="18" data-type-order="18">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr18">The left images below depict the cloud of “global” values versus in-place volumes for the final 64 experiments in three key cycles and the right plots depict the history match improvements for a well. The improvement can be quite drastic in the first few cycles, as seen in Cycles 1 and 3 (Fig 15a and 15b). An order of magnitude improvement is seen in the “global” values in each cycle. In our experience, reasonably good quality matches can be obtained by Cycle 4 or Cycle 5 (Fig 15c).</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-18">
+<label>Figure 15 a</label>
+<imageLink type="mediaResource" href="102118180782MS_i_18.tif" id="ImgLink-18" />
+<caption> MCMC – Cycle 1. “Global” vs gas-in-place and history matches for final 64 experiments in Cycle 1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15 a</caption-order>
+<caption-text>MCMC – Cycle 1. “Global” vs gas-in-place and history matches for final 64 experiments in Cycle 1</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="19" data-type-order="19">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr19">The left images below depict the cloud of “global” values versus in-place volumes for the final 64 experiments in three key cycles and the right plots depict the history match improvements for a well. The improvement can be quite drastic in the first few cycles, as seen in Cycles 1 and 3 (Fig 15a and 15b). An order of magnitude improvement is seen in the “global” values in each cycle. In our experience, reasonably good quality matches can be obtained by Cycle 4 or Cycle 5 (Fig 15c).</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-19">
+<label>Figure 15 b</label>
+<imageLink type="mediaResource" href="102118180782MS_i_19.tif" id="ImgLink-19" />
+<caption>—MCMC– Cycle 3. "Global" vs gas-in-place and history matches for final 64 experiments in Cycle 3</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15 b</caption-order>
+<caption-text>—MCMC– Cycle 3. "Global" vs gas-in-place and history matches for final 64 experiments in Cycle 3</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="20" data-type-order="20">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr20">The left images below depict the cloud of “global” values versus in-place volumes for the final 64 experiments in three key cycles and the right plots depict the history match improvements for a well. The improvement can be quite drastic in the first few cycles, as seen in Cycles 1 and 3 (Fig 15a and 15b). An order of magnitude improvement is seen in the “global” values in each cycle. In our experience, reasonably good quality matches can be obtained by Cycle 4 or Cycle 5 (Fig 15c).</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-20">
+<label>Figure 15 c</label>
+<imageLink type="mediaResource" href="102118180782MS_i_20.tif" id="ImgLink-20" />
+<caption>—MCMC– Cycle 5. “Global” vs gas-in-place and history matches for final 64 experiments in Cycle 5</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15 c</caption-order>
+<caption-text>—MCMC– Cycle 5. “Global” vs gas-in-place and history matches for final 64 experiments in Cycle 5</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="21" data-type-order="21">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr21">However, LHC typically has poor history matches since it is not designed for matching. On the other hand, MCMC is used as an effective assisted history matching technique but it has been observed in this study that matched cases tend to converge towards a high confidence and narrower volumetric range. Thus, the full set of cases (MCMC and LHC cycles) was pooled and an optimum filtering criterion applied to shortlist matches. This offered the best balance between covering a wide range of volumes and uncertainties and selecting higher quality matches. The combined 720 unfiltered cases show (Fig. 16) the familiar trend of volumetric convergence.</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-21">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118180782MS_i_21.tif" id="ImgLink-21" />
+<caption>Combined LHC and MCMC experiments for selection of “filtered” cases and in-place volume estimation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Combined LHC and MCMC experiments for selection of “filtered” cases and in-place volume estimation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="22" data-type-order="22">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr22">Filtered cases were used to stochastically define the P10 – P50 – P90 volumes and an acceptable cut-off was defined. A cut-off of “Global” &#x003C; 50 was chosen, based on Fig. 17, to balance good matches with wider volume ranges. This was done as a higher “Global” cut-off of 100 did not add any more value in terms of widening the volumetric ranges but a tighter cut-off of 10 reduced the volumetric spread.</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-22">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118180782MS_i_22.tif" id="ImgLink-22" />
+<caption>Optimum “Global” filtering criterion based on the variation of in-place volume and match quality</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Optimum “Global” filtering criterion based on the variation of in-place volume and match quality</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="23" data-type-order="23">
+<link href="link-23" type="image" />
+<appendix>
+<linkTarget id="link-23" type="image">
+<anchoringText id="Ancr23">The filtered cases were considered representative of the dynamic behavior of the reservoir and utilized to estimate the stochastic P10-P50-P90 gas-in-place and recoverable volume as well as other parameter ranges. For purposes of completeness, the gas-in-place and recoverable volume histograms are depicted (Fig. 18a and 18b) and show a normal behavior. Fig. 19a and 19b demonstrate the final outcome of this study: a reduction in the uncertainty in this field’s recoverable volume and demonstrate the successful achievement of the overall objectives from this work.</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-23">
+<label>Figure 18 a</label>
+<imageLink type="mediaResource" href="102118180782MS_i_23.tif" id="ImgLink-23" />
+<caption>Histogram of in-place volume from matched cases for estimation of P10-P50-P90</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18 a</caption-order>
+<caption-text>Histogram of in-place volume from matched cases for estimation of P10-P50-P90</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="24" data-type-order="24">
+<link href="link-24" type="image" />
+<appendix>
+<linkTarget id="link-24" type="image">
+<anchoringText id="Ancr24">The filtered cases were considered representative of the dynamic behavior of the reservoir and utilized to estimate the stochastic P10-P50-P90 gas-in-place and recoverable volume as well as other parameter ranges. For purposes of completeness, the gas-in-place and recoverable volume histograms are depicted (Fig. 18a and 18b) and show a normal behavior. Fig. 19a and 19b demonstrate the final outcome of this study: a reduction in the uncertainty in this field’s recoverable volume and demonstrate the successful achievement of the overall objectives from this work.</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-24">
+<label>Figure 18 b</label>
+<imageLink type="mediaResource" href="102118180782MS_i_24.tif" id="ImgLink-24" />
+<caption>Histogram of recoverable volume from matched cases for estimation of P10-P50-P90</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18 b</caption-order>
+<caption-text>Histogram of recoverable volume from matched cases for estimation of P10-P50-P90</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="25" data-type-order="25">
+<link href="link-25" type="image" />
+<appendix>
+<linkTarget id="link-25" type="image">
+<anchoringText id="Ancr25">The filtered cases were considered representative of the dynamic behavior of the reservoir and utilized to estimate the stochastic P10-P50-P90 gas-in-place and recoverable volume as well as other parameter ranges. For purposes of completeness, the gas-in-place and recoverable volume histograms are depicted (Fig. 18a and 18b) and show a normal behavior. Fig. 19a and 19b demonstrate the final outcome of this study: a reduction in the uncertainty in this field’s recoverable volume and demonstrate the successful achievement of the overall objectives from this work.</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-25">
+<label>Figure 19 a</label>
+<imageLink type="mediaResource" href="102118180782MS_i_25.tif" id="ImgLink-25" />
+<caption>(left)—Field recoverable volumes range from ALL cases</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19 a</caption-order>
+<caption-text>(left)—Field recoverable volumes range from ALL cases</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="26" data-type-order="26">
+<link href="link-26" type="image" />
+<appendix>
+<linkTarget id="link-26" type="image">
+<anchoringText id="Ancr26">The filtered cases were considered representative of the dynamic behavior of the reservoir and utilized to estimate the stochastic P10-P50-P90 gas-in-place and recoverable volume as well as other parameter ranges. For purposes of completeness, the gas-in-place and recoverable volume histograms are depicted (Fig. 18a and 18b) and show a normal behavior. Fig. 19a and 19b demonstrate the final outcome of this study: a reduction in the uncertainty in this field’s recoverable volume and demonstrate the successful achievement of the overall objectives from this work.</anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-26">
+<label>Figure 19 b</label>
+<imageLink type="mediaResource" href="102118180782MS_i_26.tif" id="ImgLink-26" />
+<caption>(right)—Reduction of uncertainty in field recoverable volume ranges based on history matched cases</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19 b</caption-order>
+<caption-text>(right)—Reduction of uncertainty in field recoverable volume ranges based on history matched cases</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="27" data-type-order="27">
+<link href="link-27" type="image" />
+<appendix>
+<linkTarget id="link-27" type="image">
+<anchoringText id="Ancr27"> </anchoringText>
+<image-wrap id="102118180782MS-Img_SPi-27">
+<imageLink type="mediaResource" href="102118180782MS_i_27.tif" id="ImgLink-27" />
+<caption />
+<formatted-caption>
+<caption-text />
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

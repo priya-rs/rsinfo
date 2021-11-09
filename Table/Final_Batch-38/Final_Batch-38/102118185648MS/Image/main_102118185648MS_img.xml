@@ -1,0 +1,1270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185648MS.txt" extractionDate="2021-03-27T11:40:59Z">
+<doi>10.2118/185648-MS</doi>
+<pii>10.2118/185648-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr6">Passive satellite systems measure the radiation from the sun that is reflected to the satellite off the Earth to record information about the Earth, whereas active satellite systems, such as radar, send a signal to the Earth s surface from the satellite and measure the signal that is reflected from the Earth. As the satellite passes over the Earth its antenna sends out a radar pulse with wavelengths of 3 to 24 cm depending on the satellite (Fig. 1).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-1">
+<label>Fig 1</label>
+<imageLink type="mediaResource" href="102118185648MS_i_1.tif" id="ImgLink-1" />
+<caption>Illustration of wavelengths and bands used for InSAR by different satellites</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Illustration of wavelengths and bands used for InSAR by different satellites </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="2" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr7">At the same time the satellite records the return pulse that is reflected back. The opacity of the atmosphere is close to zero to these wavelengths. During processing, the phase of the return pulse is compared to the phase of the pulse from an earlier pass of the satellite (Fig. 2).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-2">
+<label>Fig 2</label>
+<imageLink type="mediaResource" href="102118185648MS_i_2.tif" id="ImgLink-2" />
+<caption>Radar pulses from successive passes are compared and the phase differences calculated</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Radar pulses from successive passes are compared and the phase differences calculated </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr8">The figure below shows how we derive deformation from a difference in phase. If the Earth’s surface subsides, the emitted radar signal has to travel a further distance to reach the surface. This results in an extra fraction of the radar wave being reflected and recorded, known as the phase difference (shown in red). The recorded images are 2 D arrays of pixels with each pixel having data about phase and amplitude of the return signal (Fig. 3).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-3">
+<label>Fig 3</label>
+<imageLink type="mediaResource" href="102118185648MS_i_3.tif" id="ImgLink-3" />
+<caption>Raw data is processed to provide amplitude and phase information</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Raw data is processed to provide amplitude and phase information </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr9">The phase differences are typically displayed initially as Interferograms that are color-scaled by radians of the wavelength (Fig. 4). However, because InSAR measures change in wave phase, a step called: phase unwrapping "needs to be done in the processing to account for any phase ambiguity. This is because only relative differences are determined and the integer number of wavelengths that the signal has travelled back and forth is unknown.</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-4">
+<label>Fig 4</label>
+<imageLink type="mediaResource" href="102118185648MS_i_4.tif" id="ImgLink-4" />
+<caption>Subtraction of the phases between two passes results in an ‘Interferogram’</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Subtraction of the phases between two passes results in an ‘Interferogram’ </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr10">The radar pulses are not affected by visible light or low levels of cloud cover so acquisition is not limited to days that are sunny and cloud-free (Fig. 5). However, large amounts of atmospheric moisture slow the microwave energy, causing noise affecting the ground deformation signal.</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-5">
+<label>Fig 5</label>
+<imageLink type="mediaResource" href="102118185648MS_i_5.tif" id="ImgLink-5" />
+<caption>InSAR is not affected by cloud cover or availability of light</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>5</caption-order>
+<caption-text>InSAR is not affected by cloud cover or availability of light </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr11">The quality and amount of radar signal reflected back to the satellite depends upon the reflection characteristics of the ground (Fig, 6).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-6">
+<label>Fig 6</label>
+<imageLink type="mediaResource" href="102118185648MS_i_6.tif" id="ImgLink-6" />
+<caption>Amount of microwave signal back-scattered depends on the ‘quality’ of the ground surface</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Amount of microwave signal back-scattered depends on the ‘quality’ of the ground surface </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr12">If the dominant reflections within a resolution cell are consistent enough throughout the measurement timespan, they can be used as discrete InSAR measurement points and are called Persistent Scatterers (PS). Buildings, roads, outcrops, and radar reflectors at GPS-defined locations are often used as PS points. Coherent and incoherent changes can be detected over time and interpreted using the Persistent Scatterer InSAR (PS-InSAR) technique. This uses a stack of slave radar images that are co-registered to a master radar image that has good geometry, high coherence, and low atmospheric effects (Fig. 7).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-7">
+<label>Fig 7</label>
+<imageLink type="mediaResource" href="102118185648MS_i_7.tif" id="ImgLink-7" />
+<caption>Persistent Scatterer (PS) points remain coherent through time</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Persistent Scatterer (PS) points remain coherent through time </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr13">InSAR satellites are on polar, sun-synchronous orbits so, as the Earth rotates from west to east beneath them, they cover the same exact swath or strip of the Earth’s surface along the path azimuth at regular intervals of time that are unique to each satellite. (Fig. 8).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-8">
+<label>Fig 8</label>
+<imageLink type="mediaResource" href="102118185648MS_i_8.tif" id="ImgLink-8" />
+<caption>Terms used to describe satellite orbits and the data acquired</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Terms used to describe satellite orbits and the data acquired </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr14">These are made by subtracting the phase data of the current revisit from the phase data of the previous revisit (see Fig. 4). They are initially scaled in radians with each fringe (one 'rainbow') corresponding to positive or negative deformation in the line of sight, relative to the satellites’s operating wavelength (Fig, 9).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-9">
+<label>Fig 9</label>
+<imageLink type="mediaResource" href="102118185648MS_i_9.tif" id="ImgLink-9" />
+<caption>Interferogram scaled in radians</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Interferogram scaled in radians </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr15">The range of vertical deformation also has to be scaled positive (uplift) and negative (subsidence) using stable areas in the peripheral buffer zones as zero baselines. Time lapse profile plots can also be made for key areas in the AOI (Fig. 10).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-10">
+<label>Fig 10</label>
+<imageLink type="mediaResource" href="102118185648MS_i_10.tif" id="ImgLink-10" />
+<caption>Interferogram (scaled in mm/yr of deformation) and Time Lapse Profile Plot</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Interferogram (scaled in mm/yr of deformation) and Time Lapse Profile Plot </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr16">The balancing is generally done per pattern of wells or by groups of patterns. If the VRR is over 1 then the reservoir may swell or injection might move out of zone. If the VRR is below 1 then the reservoir will lose drive energy and, especially for fluidsupported reservoirs like diatomite, may compact (Fig. 11).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-11">
+<label>Fig 11</label>
+<imageLink type="mediaResource" href="102118185648MS_i_11.tif" id="ImgLink-11" />
+<caption>Ideal Voidage Replacement Ratio (VRR) of 1.0 (areally and vertically) is difficult to maintain</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Ideal Voidage Replacement Ratio (VRR) of 1.0 (areally and vertically) is difficult to maintain </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="12" data-type-order="13">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr17">The poster child for demonstrating the application and value of InSAR is the giant Belridge oil field in the southwest part of the San Joaquin valley, California (Fig. 12). It is thought to be the most heavily published field in the world because of its variety of complex reservoirs and assortment of problems caused by the Diatomite reservoirs of the Miocene Monterey formation.</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-12">
+<label>Fig 12</label>
+<imageLink type="mediaResource" href="102118185648MS_i_12.tif" id="ImgLink-12" />
+<caption>Location map showing pool production limits, Belridge Field, California</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Location map showing pool production limits, Belridge Field, California </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="13" data-type-order="15">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr18">Although the average oil saturation is a low 40-60, the porosity ranges from 55 % to 70 % so the amount of oil stored in given volume (e.g., an acre/ft) is very large (Allan, 2010). Matrix permeability is around 0.1 to 2.0 md – fairly typical for the grain and particle size (Fig. 13). However, the diatomite is fluid-supported and highly compressible (about 300 microsips compressibility) so it easily compacts or swells if reservoir pressure is not maintained by balancing injection to production (de Rouffignac, 1995).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-13">
+<label>Fig 13</label>
+<imageLink type="mediaResource" href="102118185648MS_i_13.tif" id="ImgLink-13" />
+<caption>SEM photo of Belridge Diatomite illustrating high porosity and low permeability</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>13</caption-order>
+<caption-text>SEM photo of Belridge Diatomite illustrating high porosity and low permeability </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="14" data-type-order="17">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr19">Although the changes in ground elevation are muted and smoothed compared to the changes in the reservoir, the ground surface moves up or down by amounts detectable with InSAR as small vertical elevation changes covering large areas. Our typical pixel density of about 20,000 points per sq. km (50,000$ points per sq. mile) clearly indicates the areas where the surface has gone up or down between the 11 -day InSA R revisits (Fig. 14).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-14">
+<label>Fig 14</label>
+<imageLink type="mediaResource" href="102118185648MS_i_14.tif" id="ImgLink-14" />
+<caption>Three sets of InSAR passes over the Belridge field, California</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Three sets of InSAR passes over the Belridge field, California </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="15" data-type-order="18">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr20">Although this paper focusses on the Belridge field, we acquire InSAR data in California for other fields in the southem San J oaquin and Santa Maria basins. Both basins have many fields where ground deformation is observed to pulse as reservoirs are drained and the VVR varies from the ideal case of 1. However, like Belridge, the fields tend to show general long-tem trends of surface subsidence due to reservoir compaction (Fig. 15).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-15">
+<label>Fig 15</label>
+<imageLink type="mediaResource" href="102118185648MS_i_15.tif" id="ImgLink-15" />
+<caption>Cumulative vertical subsidence 2005-200E, Belridge field, California</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Cumulative vertical subsidence 2005-200E, Belridge field, California </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="16" data-type-order="19">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr21">Our client’s strategy to manage the waterflood operation of the Diatomite reservoir is injector-based. At any one time they have between 80 and 100 water injectors that need to provide pressure support for 250 to 300 producers. Every 11 days they get an updated InSAR deformation map that tells them how effectively they have balanced the Voidage Replacement Ratio in the past 11 days (Fig. 16).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-16">
+<label>Fig 16</label>
+<imageLink type="mediaResource" href="102118185648MS_i_16.tif" id="ImgLink-16" />
+<caption>Example of typical InSAR pass, Belridge field</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Example of typical InSAR pass, Belridge field </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="17" data-type-order="20">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr22">They review injectors in sets of 5 to 15 and adjust injection rates in areas where the InSAR deformation map shows uplift or subsidence. The result is that they are operating the waterflood efficiently and since late 2015 no well casing damage has been assigned to compaction and there have been no surface expressions (Fig. 17).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-17">
+<label>Fig 17</label>
+<imageLink type="mediaResource" href="102118185648MS_i_17.tif" id="ImgLink-17" />
+<caption>Tuning water injection</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Tuning water injection </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="18" data-type-order="21">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr23">At the Belridge field significant horizontal displacement accompanies long-term reservoir compaction and the resulting vertical ground subsidence. Effectively, compression is happening on the flanks of the subsidence bowl. The ratio of horizontal to vertical movement is about 1 to 3, a ratio we have seen in other fields as well (Fig. 18).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-18">
+<label>Fig 18</label>
+<imageLink type="mediaResource" href="102118185648MS_i_18.tif" id="ImgLink-18" />
+<caption>Cumulative horizontal movement 2005-200E, Belridge Field, California</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Cumulative horizontal movement 2005-200E, Belridge Field, California </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="19" data-type-order="22">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr24">Shearing in the subsurface causes many problems. At first, shearing will bend a well's casing and tubing so that downhole tools cannot pass below the obstruction. Eventually the shearing will completely cut through and displace the casing and tubing (Fig, 19). Along the way mechanical integrity will be lost.</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-19">
+<label>Fig 19</label>
+<imageLink type="mediaResource" href="102118185648MS_i_19.tif" id="ImgLink-19" />
+<caption>Illustration of casing damage caused by compaction-induced shear</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Illustration of casing damage caused by compaction-induced shear </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="20" data-type-order="23">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr25">The field also has many wells with compromised wellbore integrity that can provide a pathway for reservoir fluids to move upwards towards the ground surface (Fig, 20).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-20">
+<label>Fig 20</label>
+<imageLink type="mediaResource" href="102118185648MS_i_20.tif" id="ImgLink-20" />
+<caption>Illustration of casing damage and offset caused by compaction-induced shear</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Illustration of casing damage and offset caused by compaction-induced shear </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="21" data-type-order="24">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr26">The result: since this service was initiated, the customer reports that subsidence-related well casing damage has all but stopped and three surface expressions have been prevented. In one episode, we detected a massive blister with a diameter of 400 m (1,300 ft) and uplift of 2 cm (0.8_), triggering an alert (Fig. 21).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-21">
+<label>Fig 21</label>
+<imageLink type="mediaResource" href="102118185648MS_i_21.tif" id="ImgLink-21" />
+<caption>Life cycle of a Surface Blister</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>21</caption-order>
+<caption-text>Life cycle of a Surface Blister </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="22" data-type-order="25">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr27">The giant Groningen gas field is at the northern end of the Netherlands and is operated by NAM, a joint venture company of Shell and ExxonMobil. Original gas-in-place was about 2.8 TCM (100 T CF) and the field has produced over 1.7 TCM (60 BCF). The discovery well for the field was drilled in 1959 but the size of the field was not realized until 1963 (Fig. 22).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-22">
+<label>Fig 22</label>
+<imageLink type="mediaResource" href="102118185648MS_i_22.tif" id="ImgLink-22" />
+<caption>Location map and earth model, Groningen gas field, the Netherlands</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>22</caption-order>
+<caption-text>Location map and earth model, Groningen gas field, the Netherlands </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="23" data-type-order="26">
+<link href="link-23" type="image" />
+<appendix>
+<linkTarget id="link-23" type="image">
+<anchoringText id="Ancr28">The field produces from the 180 m (600 ft) thick Permian Rotliegend Slochteren sandstone at approximately 3,000 m (9,850 ft) and from the overlying shaley Ten Boer member which is capped by the Zechstein evaporites (Fig. 23).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-23">
+<label>Fig 23</label>
+<imageLink type="mediaResource" href="102118185648MS_i_23.tif" id="ImgLink-23" />
+<caption>Structure section across Groningen gas field</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>23</caption-order>
+<caption-text>Structure section across Groningen gas field </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="24" data-type-order="27">
+<link href="link-24" type="image" />
+<appendix>
+<linkTarget id="link-24" type="image">
+<anchoringText id="Ancr29">The gas production has greatly reduced pore pressure in the reservoir and the sandstone reservoirs have compacted unevenly due to very different production rates in different parts of the field. (The center of the field is the most depleted, the flanks are less depleted.) In turn, the ground level has subsided in a bowl-shaped way over the extent of the field and the areas around it that is a muted reflection of the underlying compaction (Fig. 24).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-24">
+<label>Fig 24</label>
+<imageLink type="mediaResource" href="102118185648MS_i_24.tif" id="ImgLink-24" />
+<caption>Reservoir compaction in 2015 inferred from inversion of InSAR subsidence data, Groningen gas field</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>24</caption-order>
+<caption-text>Reservoir compaction in 2015 inferred from inversion of InSAR subsidence data, Groningen gas field </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="25" data-type-order="28">
+<link href="link-25" type="image" />
+<appendix>
+<linkTarget id="link-25" type="image">
+<anchoringText id="Ancr30">Almost all earthquakes associated with oil and gas production elsewhere in the world are caused by increases in pore pressure. Groningen is unusual in that the earthquakes are caused by pressure depletion and this consequence is not well understood. The result is that seismicity is hard to model and to predict (Fig. 25).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-25">
+<label>Fig 25</label>
+<imageLink type="mediaResource" href="102118185648MS_i_25.tif" id="ImgLink-25" />
+<caption>Changing dynamics of seismicity are hard to model</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>25</caption-order>
+<caption-text>Changing dynamics of seismicity are hard to model </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="26" data-type-order="29">
+<link href="link-26" type="image" />
+<appendix>
+<linkTarget id="link-26" type="image">
+<anchoringText id="Ancr31">Shell Canada has a group of horizontal paired wellbores in the Peace River area of Alberta that are being actively monitored by InSAR (Fig. 26).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-26">
+<label>Fig 26</label>
+<imageLink type="mediaResource" href="102118185648MS_i_26.tif" id="ImgLink-26" />
+<caption>Shell’s Peace River project, Alberta</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>26</caption-order>
+<caption-text>Shell’s Peace River project, Alberta </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="27" data-type-order="30">
+<link href="link-27" type="image" />
+<appendix>
+<linkTarget id="link-27" type="image">
+<anchoringText id="Ancr32">All that is needed is acquisition of InSAR data at a time frequency that matches the injection/production cyclicity. In 2015, Shell compared ground deformation data from InSAR with changes in seismic travel time using SeisMovieù which uses buried sets of continuously recording seismic sources and receivers to get a 4D view of the reservoir (Przybysz-J arnut, 2015) (Fig. 27).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-27">
+<label>Fig 27</label>
+<imageLink type="mediaResource" href="102118185648MS_i_27.tif" id="ImgLink-27" />
+<caption>Matching surface deformation from InSAR to changes in travel time and well pressure</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>27</caption-order>
+<caption-text>Matching surface deformation from InSAR to changes in travel time and well pressure </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="28" data-type-order="31">
+<link href="link-28" type="image" />
+<appendix>
+<linkTarget id="link-28" type="image">
+<anchoringText id="Ancr33">'Space 1.0' was about rockets to the moon; since then there has not been a lot of impactful innovation and progress. Now, in the last several years there is a renaissance happening in the space sector: 'Space 2.0', which is driven by commercialization of satellites, miniaturization, by widespread uses of rapid revisit satellite data, and by private funding (Fig. 28).</anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-28">
+<label>Fig 28</label>
+<imageLink type="mediaResource" href="102118185648MS_i_28.tif" id="ImgLink-28" />
+<caption>Space 2.0 is hereŭ ..</caption>
+<formatted-caption>
+<caption-label>Fig</caption-label>
+<caption-order>28</caption-order>
+<caption-text>Space 2.0 is hereŭ .. </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="29" figure-order="29" data-type-order="32">
+<link href="link-29" type="image" />
+<appendix>
+<linkTarget id="link-29" type="image">
+<anchoringText id="Ancr34"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-29">
+<imageLink type="mediaResource" href="102118185648MS_i_29.tif" id="ImgLink-29" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="30" figure-order="30" data-type-order="33">
+<link href="link-30" type="image" />
+<appendix>
+<linkTarget id="link-30" type="image">
+<anchoringText id="Ancr35"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-30">
+<imageLink type="mediaResource" href="102118185648MS_i_30.tif" id="ImgLink-30" />
+<caption> Earth rotates from west to east</caption>
+<formatted-caption>
+<caption-text> Earth rotates from west to east </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="30" figure-order="31" data-type-order="34">
+<link href="link-31" type="image" />
+<appendix>
+<linkTarget id="link-31" type="image">
+<anchoringText id="Ancr36"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-31">
+<imageLink type="mediaResource" href="102118185648MS_i_31.tif" id="ImgLink-31" />
+<caption> Using ascending orbits (S to N) and descending orbits (N to S ) gives a better perspective.</caption>
+<formatted-caption>
+<caption-text> Using ascending orbits (S to N) and descending orbits (N to S ) gives a better perspective. </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="31" figure-order="32" data-type-order="35">
+<link href="link-32" type="image" />
+<appendix>
+<linkTarget id="link-32" type="image">
+<anchoringText id="Ancr37"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-32">
+<imageLink type="mediaResource" href="102118185648MS_i_32.tif" id="ImgLink-32" />
+<caption> Cloudy around the equator &amp; northem latitudes Less cloud cover over deserts and ice-caps.</caption>
+<formatted-caption>
+<caption-text> Cloudy around the equator &amp; northem latitudes Less cloud cover over deserts and ice-caps. </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="31" figure-order="33" data-type-order="36">
+<link href="link-33" type="image" />
+<appendix>
+<linkTarget id="link-33" type="image">
+<anchoringText id="Ancr38"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-33">
+<imageLink type="mediaResource" href="102118185648MS_i_33.tif" id="ImgLink-33" />
+<caption> SAR satellites generate their own radar pulse</caption>
+<formatted-caption>
+<caption-text> SAR satellites generate their own radar pulse </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="32" figure-order="34" data-type-order="37">
+<link href="link-34" type="image" />
+<appendix>
+<linkTarget id="link-34" type="image">
+<anchoringText id="Ancr39"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-34">
+<imageLink type="mediaResource" href="102118185648MS_i_34.tif" id="ImgLink-34" />
+<caption> Distance = Number of cycles plus the fractional phase</caption>
+<formatted-caption>
+<caption-text> Distance = Number of cycles plus the fractional phase </caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185648MS-Img_SPi-34a">
+<imageLink type="mediaResource" href="102118185648MS_i_34a.tif" id="ImgLink-34a" />
+</image-wrap>
+<image-wrap id="102118185648MS-Img_SPi-34b">
+<imageLink type="mediaResource" href="102118185648MS_i_34b.tif" id="ImgLink-34b" />
+</image-wrap>
+<image-wrap id="102118185648MS-Img_SPi-34c">
+<imageLink type="mediaResource" href="102118185648MS_i_34c.tif" id="ImgLink-34c" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="33" figure-order="35" data-type-order="38">
+<link href="link-35" type="image" />
+<appendix>
+<linkTarget id="link-35" type="image">
+<anchoringText id="Ancr40"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-35">
+<imageLink type="mediaResource" href="102118185648MS_i_35.tif" id="ImgLink-35" />
+<caption> Weak reflections return from smooth surfaces</caption>
+<formatted-caption>
+<caption-text> Weak reflections return from smooth surfaces </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="33" figure-order="36" data-type-order="39">
+<link href="link-36" type="image" />
+<appendix>
+<linkTarget id="link-36" type="image">
+<anchoringText id="Ancr41"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-36">
+<imageLink type="mediaResource" href="102118185648MS_i_36.tif" id="ImgLink-36" />
+<caption> Strong reflections return from rough surfaces</caption>
+<formatted-caption>
+<caption-text> Strong reflections return from rough surfaces </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="34" figure-order="37" data-type-order="40">
+<link href="link-37" type="image" />
+<appendix>
+<linkTarget id="link-37" type="image">
+<anchoringText id="Ancr42"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-37">
+<imageLink type="mediaResource" href="102118185648MS_i_37.tif" id="ImgLink-37" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="35" figure-order="38" data-type-order="41">
+<link href="link-38" type="image" />
+<appendix>
+<linkTarget id="link-38" type="image">
+<anchoringText id="Ancr43"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-38">
+<imageLink type="mediaResource" href="102118185648MS_i_38.tif" id="ImgLink-38" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="36" figure-order="39" data-type-order="42">
+<link href="link-39" type="image" />
+<appendix>
+<linkTarget id="link-39" type="image">
+<anchoringText id="Ancr44"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-39">
+<imageLink type="mediaResource" href="102118185648MS_i_39.tif" id="ImgLink-39" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="37" figure-order="40" data-type-order="43">
+<link href="link-40" type="image" />
+<appendix>
+<linkTarget id="link-40" type="image">
+<anchoringText id="Ancr45"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-40">
+<imageLink type="mediaResource" href="102118185648MS_i_40.tif" id="ImgLink-40" />
+<caption> Wrapped Interferogram Unwrapped Interferogram</caption>
+<formatted-caption>
+<caption-text> Wrapped Interferogram Unwrapped Interferogram </caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185648MS-Img_SPi-40a">
+<imageLink type="mediaResource" href="102118185648MS_i_40a.tif" id="ImgLink-40a" />
+<figure-specific-caption>
+<caption-text>Wrapped Interferogram</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185648MS-Img_SPi-40b">
+<imageLink type="mediaResource" href="102118185648MS_i_40b.tif" id="ImgLink-40b" />
+<figure-specific-caption>
+<caption-text>Unwrapped Interferogram</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="38" figure-order="41" data-type-order="44">
+<link href="link-41" type="image" />
+<appendix>
+<linkTarget id="link-41" type="image">
+<anchoringText id="Ancr46"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-41">
+<imageLink type="mediaResource" href="102118185648MS_i_41.tif" id="ImgLink-41" />
+<caption> SkyGeo Maps: oil gas &#x003E; buena vista</caption>
+<formatted-caption>
+<caption-text> SkyGeo Maps: oil gas &#x003E; buena vista </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="38" figure-order="42" data-type-order="45">
+<link href="link-42" type="image" />
+<appendix>
+<linkTarget id="link-42" type="image">
+<anchoringText id="Ancr47"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-42">
+<imageLink type="mediaResource" href="102118185648MS_i_42.tif" id="ImgLink-42" />
+<caption> Buena Vista Field (Naval Petroleum Reserve No. 2) California</caption>
+<formatted-caption>
+<caption-text> Buena Vista Field (Naval Petroleum Reserve No. 2) California </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="42" figure-order="43" data-type-order="47">
+<link href="link-43" type="image" />
+<appendix>
+<linkTarget id="link-43" type="image">
+<anchoringText id="Ancr48"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-43">
+<imageLink type="mediaResource" href="102118185648MS_i_43.tif" id="ImgLink-43" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="43" figure-order="44" data-type-order="48">
+<link href="link-44" type="image" />
+<appendix>
+<linkTarget id="link-44" type="image">
+<anchoringText id="Ancr49"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-44">
+<imageLink type="mediaResource" href="102118185648MS_i_44.tif" id="ImgLink-44" />
+<caption> Stage 1 Reservoir compaction causes subsidence of ground surface</caption>
+<formatted-caption>
+<caption-text> Stage 1 Reservoir compaction causes subsidence of ground surface </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="43" figure-order="45" data-type-order="49">
+<link href="link-45" type="image" />
+<appendix>
+<linkTarget id="link-45" type="image">
+<anchoringText id="Ancr50"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-45">
+<imageLink type="mediaResource" href="102118185648MS_i_45.tif" id="ImgLink-45" />
+<caption> Stage 2 Shearing develops at planes of weakness (boreholes get narrowed, then kinked, and finally offset by shearing)</caption>
+<formatted-caption>
+<caption-text> Stage 2 Shearing develops at planes of weakness (boreholes get narrowed, then kinked, and finally offset by shearing) </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="46" figure-order="46" data-type-order="51">
+<link href="link-46" type="image" />
+<appendix>
+<linkTarget id="link-46" type="image">
+<anchoringText id="Ancr51"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-46">
+<imageLink type="mediaResource" href="102118185648MS_i_46.tif" id="ImgLink-46" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="47" figure-order="47" data-type-order="52">
+<link href="link-47" type="image" />
+<appendix>
+<linkTarget id="link-47" type="image">
+<anchoringText id="Ancr52"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-47">
+<imageLink type="mediaResource" href="102118185648MS_i_47.tif" id="ImgLink-47" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="48" figure-order="48" data-type-order="53">
+<link href="link-48" type="image" />
+<appendix>
+<linkTarget id="link-48" type="image">
+<anchoringText id="Ancr53"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-48">
+<imageLink type="mediaResource" href="102118185648MS_i_48.tif" id="ImgLink-48" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="49" figure-order="49" data-type-order="54">
+<link href="link-49" type="image" />
+<appendix>
+<linkTarget id="link-49" type="image">
+<anchoringText id="Ancr54"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-49">
+<imageLink type="mediaResource" href="102118185648MS_i_49.tif" id="ImgLink-49" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="50" figure-order="50" data-type-order="55">
+<link href="link-50" type="image" />
+<appendix>
+<linkTarget id="link-50" type="image">
+<anchoringText id="Ancr55"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-50">
+<imageLink type="mediaResource" href="102118185648MS_i_50.tif" id="ImgLink-50" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="51" figure-order="51" data-type-order="56">
+<link href="link-51" type="image" />
+<appendix>
+<linkTarget id="link-51" type="image">
+<anchoringText id="Ancr56"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-51">
+<imageLink type="mediaResource" href="102118185648MS_i_51.tif" id="ImgLink-51" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="52" figure-order="52" data-type-order="57">
+<link href="link-52" type="image" />
+<appendix>
+<linkTarget id="link-52" type="image">
+<anchoringText id="Ancr57"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-52">
+<imageLink type="mediaResource" href="102118185648MS_i_52.tif" id="ImgLink-52" />
+<caption> Subsidence rates before 2012</caption>
+<formatted-caption>
+<caption-text> Subsidence rates before 2012 </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="52" figure-order="53" data-type-order="58">
+<link href="link-53" type="image" />
+<appendix>
+<linkTarget id="link-53" type="image">
+<anchoringText id="Ancr58"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-53">
+<imageLink type="mediaResource" href="102118185648MS_i_53.tif" id="ImgLink-53" />
+<caption> Subsidence rates after 2012</caption>
+<formatted-caption>
+<caption-text> Subsidence rates after 2012 </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="52" figure-order="54" data-type-order="59">
+<link href="link-54" type="image" />
+<appendix>
+<linkTarget id="link-54" type="image">
+<anchoringText id="Ancr59"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-54">
+<imageLink type="mediaResource" href="102118185648MS_i_54.tif" id="ImgLink-54" />
+<caption> Subsidence rate change</caption>
+<formatted-caption>
+<caption-text> Subsidence rate change </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="52" figure-order="55" data-type-order="60">
+<link href="link-55" type="image" />
+<appendix>
+<linkTarget id="link-55" type="image">
+<anchoringText id="Ancr60"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-55">
+<imageLink type="mediaResource" href="102118185648MS_i_55.tif" id="ImgLink-55" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="53" figure-order="56" data-type-order="61">
+<link href="link-56" type="image" />
+<appendix>
+<linkTarget id="link-56" type="image">
+<anchoringText id="Ancr61"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-56">
+<imageLink type="mediaResource" href="102118185648MS_i_56.tif" id="ImgLink-56" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="53" figure-order="57" data-type-order="62">
+<link href="link-57" type="image" />
+<appendix>
+<linkTarget id="link-57" type="image">
+<anchoringText id="Ancr62"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-57">
+<imageLink type="mediaResource" href="102118185648MS_i_57.tif" id="ImgLink-57" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="54" figure-order="58" data-type-order="63">
+<link href="link-58" type="image" />
+<appendix>
+<linkTarget id="link-58" type="image">
+<anchoringText id="Ancr63"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-58">
+<imageLink type="mediaResource" href="102118185648MS_i_58.tif" id="ImgLink-58" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="54" figure-order="59" data-type-order="64">
+<link href="link-59" type="image" />
+<appendix>
+<linkTarget id="link-59" type="image">
+<anchoringText id="Ancr64"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-59">
+<imageLink type="mediaResource" href="102118185648MS_i_59.tif" id="ImgLink-59" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="54" figure-order="60" data-type-order="65">
+<link href="link-60" type="image" />
+<appendix>
+<linkTarget id="link-60" type="image">
+<anchoringText id="Ancr65"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-60">
+<imageLink type="mediaResource" href="102118185648MS_i_60.tif" id="ImgLink-60" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="54" figure-order="61" data-type-order="66">
+<link href="link-61" type="image" />
+<appendix>
+<linkTarget id="link-61" type="image">
+<anchoringText id="Ancr66"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-61">
+<imageLink type="mediaResource" href="102118185648MS_i_61.tif" id="ImgLink-61" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="55" figure-order="62" data-type-order="67">
+<link href="link-62" type="image" />
+<appendix>
+<linkTarget id="link-62" type="image">
+<anchoringText id="Ancr67"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-62">
+<imageLink type="mediaResource" href="102118185648MS_i_62.tif" id="ImgLink-62" />
+<caption> Location Map</caption>
+<formatted-caption>
+<caption-text> Location Map </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="55" figure-order="63" data-type-order="68">
+<link href="link-63" type="image" />
+<appendix>
+<linkTarget id="link-63" type="image">
+<anchoringText id="Ancr68"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-63">
+<imageLink type="mediaResource" href="102118185648MS_i_63.tif" id="ImgLink-63" />
+<caption> 3D Earth Model</caption>
+<formatted-caption>
+<caption-text> 3D Earth Model </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="56" figure-order="64" data-type-order="69">
+<link href="link-64" type="image" />
+<appendix>
+<linkTarget id="link-64" type="image">
+<anchoringText id="Ancr69"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-64">
+<imageLink type="mediaResource" href="102118185648MS_i_64.tif" id="ImgLink-64" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="57" figure-order="65" data-type-order="70">
+<link href="link-65" type="image" />
+<appendix>
+<linkTarget id="link-65" type="image">
+<anchoringText id="Ancr70"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-65">
+<imageLink type="mediaResource" href="102118185648MS_i_65.tif" id="ImgLink-65" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="57" figure-order="66" data-type-order="71">
+<link href="link-66" type="image" />
+<appendix>
+<linkTarget id="link-66" type="image">
+<anchoringText id="Ancr71"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-66">
+<imageLink type="mediaResource" href="102118185648MS_i_66.tif" id="ImgLink-66" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="58" figure-order="67" data-type-order="72">
+<link href="link-67" type="image" />
+<appendix>
+<linkTarget id="link-67" type="image">
+<anchoringText id="Ancr72"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-67">
+<imageLink type="mediaResource" href="102118185648MS_i_67.tif" id="ImgLink-67" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="59" figure-order="68" data-type-order="73">
+<link href="link-68" type="image" />
+<appendix>
+<linkTarget id="link-68" type="image">
+<anchoringText id="Ancr73"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-68">
+<imageLink type="mediaResource" href="102118185648MS_i_68.tif" id="ImgLink-68" />
+<caption> April 2012 to April 2013</caption>
+<formatted-caption>
+<caption-text> April 2012 to April 2013 </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="59" figure-order="69" data-type-order="74">
+<link href="link-69" type="image" />
+<appendix>
+<linkTarget id="link-69" type="image">
+<anchoringText id="Ancr74"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-69">
+<imageLink type="mediaResource" href="102118185648MS_i_69.tif" id="ImgLink-69" />
+<caption> April 2013 to April 2014</caption>
+<formatted-caption>
+<caption-text> April 2013 to April 2014 </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="59" figure-order="70" data-type-order="75">
+<link href="link-70" type="image" />
+<appendix>
+<linkTarget id="link-70" type="image">
+<anchoringText id="Ancr75"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-70">
+<imageLink type="mediaResource" href="102118185648MS_i_70.tif" id="ImgLink-70" />
+<caption> April 2014 to April 2015</caption>
+<formatted-caption>
+<caption-text> April 2014 to April 2015 </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="60" figure-order="71" data-type-order="76">
+<link href="link-71" type="image" />
+<appendix>
+<linkTarget id="link-71" type="image">
+<anchoringText id="Ancr76"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-71">
+<imageLink type="mediaResource" href="102118185648MS_i_71.tif" id="ImgLink-71" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="60" figure-order="72" data-type-order="77">
+<link href="link-72" type="image" />
+<appendix>
+<linkTarget id="link-72" type="image">
+<anchoringText id="Ancr77"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-72">
+<imageLink type="mediaResource" href="102118185648MS_i_72.tif" id="ImgLink-72" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="61" figure-order="73" data-type-order="78">
+<link href="link-73" type="image" />
+<appendix>
+<linkTarget id="link-73" type="image">
+<anchoringText id="Ancr78"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-73">
+<imageLink type="mediaResource" href="102118185648MS_i_73.tif" id="ImgLink-73" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="61" figure-order="74" data-type-order="79">
+<link href="link-74" type="image" />
+<appendix>
+<linkTarget id="link-74" type="image">
+<anchoringText id="Ancr79"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-74">
+<imageLink type="mediaResource" href="102118185648MS_i_74.tif" id="ImgLink-74" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="63" figure-order="75" data-type-order="80">
+<link href="link-75" type="image" />
+<appendix>
+<linkTarget id="link-75" type="image">
+<anchoringText id="Ancr80"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-75">
+<imageLink type="mediaResource" href="102118185648MS_i_75.tif" id="ImgLink-75" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="63" figure-order="76" data-type-order="81">
+<link href="link-76" type="image" />
+<appendix>
+<linkTarget id="link-76" type="image">
+<anchoringText id="Ancr81"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-76">
+<imageLink type="mediaResource" href="102118185648MS_i_76.tif" id="ImgLink-76" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="64" figure-order="77" data-type-order="82">
+<link href="link-77" type="image" />
+<appendix>
+<linkTarget id="link-77" type="image">
+<anchoringText id="Ancr82"> </anchoringText>
+<image-wrap id="102118185648MS-Img_SPi-77">
+<imageLink type="mediaResource" href="102118185648MS_i_77.tif" id="ImgLink-77" />
+<caption></caption>
+<formatted-caption>
+<caption-text> </caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

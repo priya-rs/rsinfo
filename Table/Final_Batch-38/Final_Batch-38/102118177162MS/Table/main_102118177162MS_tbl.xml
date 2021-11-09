@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118177162MS.txt" extractionDate="2021-03-16T15:46:50Z">
+<doi>10.2118/177162-MS</doi>
+<pii>10.2118/177162-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="11" table-order="1" data-type-order="10">
+<table-wrap id="102118177162MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Table 1 shows results of the four horizontal wells drilled.</anchoringText>
+<label>Table 1</label>
+<caption>Drilled length in the lateral section of each horizontal well. Percentage of good reservoir characteristic crossed by each well</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Drilled length in the lateral section of each horizontal well. Percentage of good reservoir characteristic crossed by each well</caption-text>
+</formatted-caption>
+<table id="102118177162MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Well</th>
+<th valign="top" align="center">Lateral Section (ft)</th>
+<th valign="top" align="center">Good Reservoir Properties (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Sacha 473H ST1</td>
+<td valign="top" align="center">843</td>
+<td valign="top" align="center">90</td>
+</tr>
+<tr>
+<td valign="top" align="left">Sacha 475H</td>
+<td valign="top" align="center">1008</td>
+<td valign="top" align="center">60</td>
+</tr>
+<tr>
+<td valign="top" align="left">Sacha 477H</td>
+<td valign="top" align="center">862</td>
+<td valign="top" align="center">100</td>
+</tr>
+<tr>
+<td valign="top" align="left">Sacha 478H</td>
+<td valign="top" align="center">863</td>
+<td valign="top" align="center">100</td>
+</tr>
+<tr>
+<td valign="top" align="left">Average</td>
+<td valign="top" align="center">894</td>
+<td valign="top" align="center">87.5</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

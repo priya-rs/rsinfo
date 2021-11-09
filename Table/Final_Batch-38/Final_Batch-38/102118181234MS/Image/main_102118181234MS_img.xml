@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118181234MS.txt" extractionDate="2021-03-19T20:48:25Z">
+<doi>10.2118/181234-MS</doi>
+<pii>10.2118/181234-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">Operators are continuously improving their well design, drilling, and stimulation techniques, resulting in considerably higher initial production. According to the February 2016 Drilling Report published by the U.S. Energy Information Administration, the initial production rates continues to increase on a year-by-year basis and operators are able to produce more oil during the initial months from new wells. Fig. 1 illustrates the increasing trend of the average daily oil production on a year by year basis.</anchoringText>
+<image-wrap id="102118181234MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118181234MS_i_1.tif" id="ImgLink-1" />
+<caption>Average oil production per well in the Bakken region (EIA, 2016).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Average oil production per well in the Bakken region (EIA, 2016).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">Fig. 2 illustrates the inflow and outflow performance curves and the system pressure required from the ESP pump, or any other artificial lift method to achieve the target flow rate Q.</anchoringText>
+<image-wrap id="102118181234MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118181234MS_i_2.tif" id="ImgLink-2" />
+<caption>Inflow and outflow performance curves and system pressure requirement for a well.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Inflow and outflow performance curves and system pressure requirement for a well.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">The shape of the H-Q curve of a centrifugal pump is characteristic of its own stage design and geometry. Fig. 3 shows examples of three different shapes of H-Q curves of 400 Series pumps (4-in OD) for ESP applications. The D3500N pump H-Q curve shows the profile of a continuously decreasing head with increasing flow rate from the zero to the maximum flow rate. Pumps with this shape of H-Q curve (dH/dQ&#x003C;0) are sometimes referred to as having a stable pump curve.</anchoringText>
+<image-wrap id="102118181234MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118181234MS_i_3.tif" id="ImgLink-3" />
+<caption>Examples of pump head-rate (H-Q) curve profiles for 400 Series D3500N, D4300N, and RC4000 pumps.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Examples of pump head-rate (H-Q) curve profiles for 400 Series D3500N, D4300N, and RC4000 pumps.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">Finally, the operating point (head and flow rate) is the intersection of the application system curve and the pump H-Q curve at the proposed operating speed as shown in Fig. 4.</anchoringText>
+<image-wrap id="102118181234MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118181234MS_i_4.tif" id="ImgLink-4" />
+<caption>System curve, pump H-Q curve, and the operating point at the intersection of both curves.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>System curve, pump H-Q curve, and the operating point at the intersection of both curves.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="5" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">Fig. 5 illustrates how a pumping system, comprising a pump with a saddle in its H-Q curve and operating at flow rate QB, can be either statically stable or unstable, depending on the slope of the system curve HA.</anchoringText>
+<image-wrap id="102118181234MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118181234MS_i_5.tif" id="ImgLink-5" />
+<caption>Statically stable pumping system (a) and unstable (b). Gulich (2008)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Statically stable pumping system (a) and unstable (b). <link href="BIB1">Gulich (2008)</link>
+</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181234MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118181234MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Statically stable pumping system</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181234MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118181234MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>unstable</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-21" type="bib">
+<bib id="BIB1">
+<label>Gulich, 2008</label>
+<author>
+<first-name>J</first-name>
+<last-name>Gulich</last-name>, .</author>
+<pubDate>2008</pubDate>. <article-title>Centrifugal Pumps. 3rd edition. Springer, New York.</article-title>
+</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">The basic principle of static instability is that a pumping system will become unstable if the slope of the pump H-Q is greater than the slope of the system curve, resulting in two or more intersection points such as B and C in the left-hand side of Fig. 6.</anchoringText>
+<image-wrap id="102118181234MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118181234MS_i_6.tif" id="ImgLink-6" />
+<caption>Static and dynamic instability (from Greitzer, 1981).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Static and dynamic instability (from Greitzer, 1981).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">Fig. 7 illustrates the perturbation of mass flow (ṁ) and pressure rise (Δp) through the pump during one cycle. The net energy (input or output) is determined as the integral of the product ṁ × Δp in one cycle. CASE I in Fig. 7 shows the result of a momentary disturbance where the pump H-Q has a positive slope and where the mass flow rate and incremental pump pressure are in-phase, resulting in a net positive input of energy and causing dynamic instability.</anchoringText>
+<image-wrap id="102118181234MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118181234MS_i_7.tif" id="ImgLink-7" />
+<caption>Physical mechanism for dynamic instability, mass flow ( ), and pressure rise (Δp) (Greitzer, 1981).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Physical mechanism for dynamic instability, mass flow ( ), and pressure rise (Δp) (Greitzer, 1981).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">Several aspects are considered when defining the minimum and maximum limits of the ROR for a pump stage including variability of pump performance and test curves, the net axial thrust, and efficiency. Also, in some cases like the example illustrated in Fig. 8, the lower flow rate limit of the ROR is set based on the shape of the H-Q curve. The example shows the catalog curve for a RC4000 pump stage with its ROR between 3,500 bbl/d and 7000 bbl/d at 60 Hz.</anchoringText>
+<image-wrap id="102118181234MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118181234MS_i_8.tif" id="ImgLink-8" />
+<caption>Pump performance curve. ROR (yellow band) and perceived unstable zone (pink).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Pump performance curve. ROR (yellow band) and perceived unstable zone (pink).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">ESP systems driven with a variable speed drive (VSD) enable the operator to expand the operating range of the ESP by increasing or decreasing the operating frequency, and therefore, the pump speed. Fig. 9 shows an example of multi-frequency curves for a pump highlighting the minimum, maximum, and best efficiency point (BEP) rates for each frequency.</anchoringText>
+<image-wrap id="102118181234MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118181234MS_i_9.tif" id="ImgLink-9" />
+<caption>Multi-frequency H-Q curves illustrating the shifting of the limits of the ROR with frequency.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Multi-frequency H-Q curves illustrating the shifting of the limits of the ROR with frequency.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">The stage geometry was designed and optimized using world-class turbomachinery design tools capable of modeling the complex unsteady flow conditions and validated by extensive testing including multiphase, laser velocimetry, and sand loop tests. As example, Fig. 10 illustrates that the measured profile of the relative velocity field inside a pump impeller measured by laser velocimetry matches very closely with the computed computational fluid dynamics (CFD) model.</anchoringText>
+<image-wrap id="102118181234MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118181234MS_i_10.tif" id="ImgLink-10" />
+<caption>(a) Computed and (b) measured relative velocity field inside a pump impeller.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>(a) Computed and (b) measured relative velocity field inside a pump impeller.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181234MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118181234MS_i_10a.tif" id="ImgLink-10a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Computed</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181234MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118181234MS_i_10b.tif" id="ImgLink-10b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>measured relative</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">This ESP system included an RC4000 pump string with three pumps in tandem and 247 stages in total. The pumps were built in compression type and abrasion resistant configuration for improved reliability when pumping the high content of solids expected. A gas handling device (AGH) and vortex gas separator were also included to improve the performance when pumping the multiphase flow. The ESP string andwellbore diagram are illustrated in Fig. 11.</anchoringText>
+<image-wrap id="102118181234MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118181234MS_i_11.tif" id="ImgLink-11" />
+<caption>Bakken application. ESP wellbore diagram and ESP string.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Bakken application. ESP wellbore diagram and ESP string.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">The production profile illustrated in Fig. 12 is representative of wells in the field. The initial production during this first ESP phase was 4,950 bbl/d of fluid with a PIP of 4200 psi. The production and PIP gradually declined to 1,595 bbl/d and 890 psi, respectively. The water cut decreased from 67% to 54% and the production gas-to-liquid ratio (GLR) increased from 180 to 309 scf/bbl during this period.</anchoringText>
+<image-wrap id="102118181234MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118181234MS_i_12.tif" id="ImgLink-12" />
+<caption>Production and pressure decline during the transitional ESP phase.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Production and pressure decline during the transitional ESP phase.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">Fig. 13 shows the operating point snapshots of the operation points for the three timeslots indicated in the production chart in Fig. 12. Point 1 is 4,950 bbl/d on March 6, 2015, point 2 is 2,661 bbl/d on April 13, 2015, and point 3 is 1,595 bbl/d on May 26, 2015.</anchoringText>
+<image-wrap id="102118181234MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118181234MS_i_13.tif" id="ImgLink-13" />
+<caption>Operating points represented by the intersection of the system curve and pump H-Q at operating frequency.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Operating points represented by the intersection of the system curve and pump H-Q at operating frequency.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr14">Also, since the well flow was gassy dynamic instability as defined by Greitzer (1981) was possible, particularly during the last month of operation when the flow rate decreased below 2,400 bbl/d while running at 50 Hz, as it can be seen in Fig. 14.</anchoringText>
+<image-wrap id="102118181234MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118181234MS_i_14.tif" id="ImgLink-14" />
+<caption>Operating trends during the ESP phase. PIP decreased 78% and production decreased 68%.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Operating trends during the ESP phase. PIP decreased 78% and production decreased 68%.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="15" data-type-order="15">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr15">It should be mentioned that oscillating parameter trends are not uncommon in ESP systems operating in these challenging unconventional shale plays, regardless of the shape of the pump H-Q curve. Similar trends are present in wells with pumps with stable pump characteristics (dH/dQ &#x003C;0). For example, Fig. 15 shows the trends of operating parameters of two consecutive ESP systems that were installed in this well in the same field.</anchoringText>
+<image-wrap id="102118181234MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118181234MS_i_15.tif" id="ImgLink-15" />
+<caption>Two consecutive ESPs in an unconventional shale well. ESP #1 has unstable pump characteristics and ESP #2 has a stable pump curve. Both ESP installations exhibit continuous oscillation of operating parameters.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Two consecutive ESPs in an unconventional shale well. ESP #1 has unstable pump characteristics and ESP #2 has a stable pump curve. Both ESP installations exhibit continuous oscillation of operating parameters.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="16" data-type-order="16">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr16">The ESP equipment often includes pumps with customized configuration and materials to mitigate corrosion issues. Additionally, the ESPs typically have an external MONEL® coating for corrosion protection. A downhole sensor is installed with the ESP systems to monitor downhole operating parameters including pump intake pressure, fluid and motor temperature, and vibration. Fig. 16 illustrates ESP system installed in this well.</anchoringText>
+<image-wrap id="102118181234MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118181234MS_i_16.tif" id="ImgLink-16" />
+<caption>ESP string (left) and pump performance curve (right) of the RC4000 pump and its operating point.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>ESP string (left) and pump performance curve (right) of the RC4000 pump and its operating point.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="17" data-type-order="17">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr17">Fig. 17 shows the graph for production data taken since the installation. The actual performance with the RC4000 pump greatly exceeded the target production reaching an average production of 6,700 bbl/d after the initial commissioning. As shown in the right hand side of Fig. 16, the operating point at the 66 Hz operating frequency is within the ROR.</anchoringText>
+<image-wrap id="102118181234MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118181234MS_i_17.tif" id="ImgLink-17" />
+<caption>Production data for the well since installation of the RC4000 pump.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Production data for the well since installation of the RC4000 pump.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="18" data-type-order="18">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr18">The RC4000 pump stage was selected for the application because of its higher head, higher efficiency, and better resistance to erosion due to solids. As illustrated in Fig. 18, the performance curves of the RC4000 pump resulted in a 50% improvement in head per stage and 7.4% improvement in pump efficiency compared to the D4300N pump that was used before.</anchoringText>
+<image-wrap id="102118181234MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118181234MS_i_18.tif" id="ImgLink-18" />
+<caption>RC4000 pump performance improvement over D4300N pump previously installed.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>RC4000 pump performance improvement over D4300N pump previously installed.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="19" data-type-order="19">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr19">Because the higher head per stage, the new pump string was shortened by 50%. The previous installations had 201 stages with three pump housings, while the new RC4000 string has only two housings with a total of 138 stages. The components of ESP string installed in the well RCU 41-14 are illustrated in Fig. 19. The operating point of the system is also shown in the pump H-Q curve on the right side of Fig. 19.</anchoringText>
+<image-wrap id="102118181234MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118181234MS_i_19.tif" id="ImgLink-19" />
+<caption>ESP system installed in well RCU 41-14.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>ESP system installed in well RCU 41-14.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="20" data-type-order="20">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr20">Fig. 20 shows the daily production data from the production test records. The average production since the installation of the RC4000 pump is 3,738 bbl/d of fluid, which represents an increase of 11.5% in production for this well. The operation of the current ESP system with the higher efficiency RC4000 pump has reduced the power requirement for operation of the well RCU 41-14. The cost savings in electricity cost are estimated to be approximately 5.5%.</anchoringText>
+<image-wrap id="102118181234MS-Img_SPi-20">
+<label>Figure 20 </label>
+<imageLink type="mediaResource" href="102118181234MS_i_20.tif" id="ImgLink-20" />
+<caption>Daily production summary, well RCU 41-14.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Daily production summary, well RCU 41-14.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

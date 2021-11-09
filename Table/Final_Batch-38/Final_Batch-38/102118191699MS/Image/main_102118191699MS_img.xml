@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191699MS.txt" extractionDate="2021-03-30T16:07:19Z">
+<doi>10.2118/191699-MS</doi>
+<pii>10.2118/191699-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="4" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr8">The hypothetical Mermaid field (Figure 1) is an oil field located in the deep-water Gulf of Mexico. Production commenced in January 2000. As of January 2010, the field was under secondary recovery and staged field developments. The objective of the study was to perform a probabilistic DoE-based history matching to better understand the reservoir properties and evaluate the uncertainty of the production forecast. The findings would help determine the value-adding development strategy in the future.</anchoringText>
+<image-wrap id="102118191699MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118191699MS_i_1.tif" id="ImgLink-1" />
+<caption>Material balance regions of the hypothetical Mermaid reservoir (Bhark and Dehghani, 2014).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Material balance regions of the hypothetical Mermaid reservoir (<link href="BIB1">Bhark and Dehghani, 2014</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-16" type="bib">
+<bib id="BIB1">
+<label>Bhark and Dehghani, 2014</label>
+<author>
+<first-name>E.</first-name>
+<last-name>Bhark</last-name>
+</author>, <author>
+<first-name>K.</first-name>
+<last-name>Dehghani</last-name>
+</author>
+<pubDate>2014</pubDate>. <article-title>Assisted History Matching Benchmarking: Design of Experiments-Based Techniques. Paper SPE 170690 presented at the SPE Annual Technical Conference and Exhibition, Amsterdam, The Netherlands </article-title>, 27-29 October.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="2" data-type-order="4">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr9">We used the One-Variable-at-A-Time (OVAT) design to create tornado plots (see Figure 2). Note that tornado plot has many limitations. It has a poor coverage of the uncertainty space, its analysis is anchored in mid-values, and it cannot test the interaction between input variables. We only used it as a first-blush sensitivity analysis to gain a quick understanding of the behavior of each input variable. In addition, we used it to confirm that no false signal was picked up from the dummy variable, which is expected if the experimental design is executed correctly.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-2">
+<label>Figure 2</label>
+<imageLink type="mediaResource" href="102118191699MS_i_2.tif" id="ImgLink-2" />
+<caption>Tornado plots of two response variables (<i>e<sub>HM</sub>
+</i> of MER12_SWP and MER13ST_SWP) of the Mermaid reservoir. Tornado plots of all the response variables were reviewed.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Tornado plots of two response variables (e<sub>HM</sub> of MER12_SWP and MER13ST_SWP) of the Mermaid reservoir. Tornado plots of all the response variables were reviewed.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118191699MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-text>e<sub>HM</sub> of MER12_SWP</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118191699MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-text>e<sub>HM</sub>MER13ST_SWP</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="3" data-type-order="5">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr10">All the simulations were finished successfully. The simulated production curves were plotted and compared with the historical data (see Figure 3). There are no apparent outliers and the distribution of the curves does not show any anomaly (e.g., too wide, too narrow, or too skewed, or multi-modal). The historical production curves are contained within the spread of the simulated curves, and the shape of the simulated and historical curves are similar. If any of the above two conditions are not satisfied, obtaining a history-matched solution is unlikely.</anchoringText>
+<image-wrap id="102118191699MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118191699MS_i_3.tif" id="ImgLink-3" />
+<caption>Examine simulation results and compare with historical data. The gray curves are all the simulation results. The green curve is the result of one of the simulations. Purple squares represent the historical data. All the available historical data were reviewed.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Examine simulation results and compare with historical data. The gray curves are all the simulation results. The green curve is the result of one of the simulations. Purple squares represent the historical data. All the available historical data were reviewed.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="4" data-type-order="6">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr11">T-test results, called Pareto charts, were plotted and reviewed for all response variables (see Figure 4 for two examples). Heavy hitters were determined with the significance level p as 0.05. The dummy variable DUMMY in the t-test was used to detect the noise of t-test. Small influence of DUMMY was observed, and was not labeled as heavy hitter for any response variable. Note that it is normal for t-test to show a small noise of dummy variable, but tornado plot should show zero influence.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-4">
+<label>Figure 4</label>
+<imageLink type="mediaResource" href="102118191699MS_i_4.tif" id="ImgLink-4" />
+<caption>T-test results for two response variables (<i>e<sub>HM</sub>
+</i> of MER06_SWP and MER06_WPR) with significance level p = 0.05. T-test results were examined for all response variables.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>T-test results for two response variables (e<sub>HM</sub> of MER06_SWP and MER06_WPR) with significance level p = 0.05. T-test results were examined for all response variables.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118191699MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-text>e<sub>HM</sub> of MER06_SWP</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118191699MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-text>e<sub>HM</sub> MER06_WPR</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr12">In this study, a Latin hypercube design of 500 runs was used as the experimental design for proxy building. Thirty percent of the runs were selected randomly for blind testing, and the remaining 70% were used for proxy training. Alternatively, we could use 10-fold cross validation for blind testing (James et al., 2013). Scatter plots (see Figure 5) were reviewed to confirm that the Latin hypercube design sampled the uncertainty space evenly without apparent patterns and clusters. The scatter plots also confirmed that the blind-test runs were selected randomly.</anchoringText>
+<image-wrap id="102118191699MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118191699MS_i_5.tif" id="ImgLink-5" />
+<caption>Scatter plots of different input variables. Gray points are training runs, and blue points are blind-test runs. Scatter plots confirm that the Latin hypercube design samples the uncertainty space evenly, and that the blind-test runs were selected randomly.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Scatter plots of different input variables. Gray points are training runs, and blue points are blind-test runs. Scatter plots confirm that the Latin hypercube design samples the uncertainty space evenly, and that the blind-test runs were selected randomly.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="11" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr13">In this study, four types of proxies were chosen for each eHM metric: linear-interaction (bilinear), full-quadratic, thin-plate spline, and neural network proxies. The blind-test results of all four proxies were compared for each eHM metric. The root-mean-squared errors (RMSE) and the correlation coefficients (R) between the proxy-estimated response values and the actual response values were computed. The scatter plots with 45° line and the residual plots were also reviewed (see Figure 6(a) and (b)).</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-6">
+<label>Figure 6</label>
+<imageLink type="mediaResource" href="102118191699MS_i_6.tif" id="ImgLink-6" />
+<caption>Plots used in proxy blind testing: (a) scatter plot with 45° line comparing proxyestimated response values with actual simulator-computed response values; (b) residual plot. Such plots were examined for all response variables. Gray points are training runs, and blue points are blind-test runs. An undesired "smiley face" residual-plot pattern is illustrated in plot (c).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Plots used in proxy blind testing: (a) scatter plot with 45° line comparing proxyestimated response values with actual simulator-computed response values; (b) residual plot. Such plots were examined for all response variables. Gray points are training runs, and blue points are blind-test runs. An undesired "smiley face" residual-plot pattern is illustrated in plot (c).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118191699MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Plots used in proxy blind testing: (a) scatter plot with 45° line comparing proxyestimated response values with actual simulator-computed response values;</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118191699MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>residual plot. Such plots were examined for all response variables. Gray points are training runs, and blue points are blind-test runs.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-6c">
+<imageLink type="mediaResource" href="102118191699MS_i_6c.tif" id="ImgLink-6c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>An undesired "smiley face" residual-plot pattern is illustrated in plot</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="12" figure-order="7" data-type-order="11">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr14">First, we plotted the simulated production curves of all the simulation runs that had been performed, and overlaid the historical production data on the plot. For example, the simulated SWP curves for well MER03 in all simulation runs are shown in Figure 7. The gray lines are the simulated curves, and the purple squares represent the historical data. The historical data had been denoised by selecting representative data points along the time axis.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-7">
+<label>Figure 7</label>
+<imageLink type="mediaResource" href="102118191699MS_i_7.tif" id="ImgLink-7" />
+<caption>Finding the threshold of history-match error (<i>e<sub>HM</sub>
+</i>) for MER03_SWP, subject to imperfect reservoir model and data measurement. This threshold is denoted by <i>T</i>’. The lines are simulated production curves and the purple squares are historical data. The red rectangles show different <i>T</i>’ values for <i>e<sub>HM</sub>
+</i>of MER03_SWP: 140, 70, and 40.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Finding the threshold of history-match error (e<sub>HM</sub>) for MER03_SWP, subject to imperfect reservoir model and data measurement. This threshold is denoted by T’. The lines are simulated production curves and the purple squares are historical data. The red rectangles show different T’ values for e<sub>HM</sub>of MER03_SWP: 140, 70, and 40.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118191699MS_i_7a.tif" id="ImgLink-7a" />
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118191699MS_i_7b.tif" id="ImgLink-7b" />
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-7c">
+<imageLink type="mediaResource" href="102118191699MS_i_7c.tif" id="ImgLink-7c" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="14" figure-order="8" data-type-order="15">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr15">R and RMSE represent the proxy accuracy (or error) when the proxy is used in prediction. Therefore, they are important criteria in determining the proxy quality. The reason spline works best is probably that the true response surface is severely sinuous, as shown in Figure 8(c) of Bhark and Dehghani (2014).</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-8">
+<label>Figure 8</label>
+<imageLink type="mediaResource" href="102118191699MS_i_8.tif" id="ImgLink-8" />
+<caption>Comparing the posterior distribution (blue) with the a priori distribution (gray) (Bhark and Dehghani, 2014): (a) the tail of the posterior is cut off; (b) the posterior and the a priori distributions seem similar; (c) uncertainty is reduced in the posterior. Note that the history-matched models should still be diversified enough after uncertainty reduction.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Comparing the posterior distribution (blue) with the a priori distribution (gray) (<link href="BIB2">Bhark and Dehghani, 2014</link>): (a) the tail of the posterior is cut off; (b) the posterior and the a priori distributions seem similar; (c) uncertainty is reduced in the posterior. Note that the history-matched models should still be diversified enough after uncertainty reduction.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118191699MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Comparing the posterior distribution (blue) with the a priori distribution (gray) (<link href="BIB2">Bhark and Dehghani, 2014</link>):</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118191699MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>the tail of the posterior is cut off;</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-8c">
+<imageLink type="mediaResource" href="102118191699MS_i_8c.tif" id="ImgLink-8c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>the posterior and the a priori distributions seem similar;</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-16" type="bib">
+<bib id="BIB2">
+<label>Bhark and Dehghani, 2014</label>
+<author>
+<first-name>E.</first-name>
+<last-name>Bhark</last-name>
+</author>, <author>
+<first-name>K.</first-name>
+<last-name>Dehghani</last-name>
+</author>
+<pubDate>2014</pubDate>. <article-title>Assisted History Matching Benchmarking: Design of Experiments-Based Techniques. Paper SPE 170690 presented at the SPE Annual Technical Conference and Exhibition, Amsterdam, The Netherlands </article-title>, 27-29 October.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="15" figure-order="9" data-type-order="16">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr16">All simulation runs were completed successfully. The simulated production curves were plotted and reviewed (see Figure 9). The transition from history to forecast was smooth. The curve distributions were examined and no obvious outliers were detected. The spread of the production forecast showed variations between different history-matched models.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-9">
+<label>Figure 9</label>
+<imageLink type="mediaResource" href="102118191699MS_i_9.tif" id="ImgLink-9" />
+<caption>Review forecast simulation results. The transition from history to forecast is smooth. The spread of production curves in the forecast period indicates variations between different models. The production curves of all wells and field-scale production curve were examined.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Review forecast simulation results. The transition from history to forecast is smooth. The spread of production curves in the forecast period indicates variations between different models. The production curves of all wells and field-scale production curve were examined.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118191699MS_i_9a.tif" id="ImgLink-9a" />
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118191699MS_i_9b.tif" id="ImgLink-9b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="15" figure-order="10" data-type-order="17">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr17">Figure 10 and Figure 11 illustrate a set of p10-p50-p90 models selected by the algorithm. The three models are referred to as the red, green, and blue model. They are close to the target p10, p50, p90 percentiles (displayed by the thin blue dashed lines in Figure 10) for NPV, OPC, and WPC, especially for NPV since more focus was placed on it during the search. Finding three models that match exactly the target percentiles for all the three response variables is difficult, because the exact p10, p50, p90 models of NPV may be far from the p10, p50, p90 values of OPC and WPC.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-10">
+<label>Figure 10</label>
+<imageLink type="mediaResource" href="102118191699MS_i_10.tif" id="ImgLink-10" />
+<caption>Cumulative distribution functions of the response variables and the red, green, and blue representative models with p10, p50, p90 percentile targets.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Cumulative distribution functions of the response variables and the red, green, and blue representative models with p10, p50, p90 percentile targets.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118191699MS_i_10a.tif" id="ImgLink-10a" />
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118191699MS_i_10b.tif" id="ImgLink-10b" />
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-10c">
+<imageLink type="mediaResource" href="102118191699MS_i_10c.tif" id="ImgLink-10c" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="10" pdf-page="16" figure-order="11" data-type-order="18">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr18">Figure 10 and Figure 11 illustrate a set of p10-p50-p90 models selected by the algorithm. The three models are referred to as the red, green, and blue model. They are close to the target p10, p50, p90 percentiles (displayed by the thin blue dashed lines in Figure 10) for NPV, OPC, and WPC, especially for NPV since more focus was placed on it during the search. Finding three models that match exactly the target percentiles for all the three response variables is difficult, because the exact p10, p50, p90 models of NPV may be far from the p10, p50, p90 values of OPC and WPC.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-11">
+<label>Figure 11</label>
+<imageLink type="mediaResource" href="102118191699MS_i_11.tif" id="ImgLink-11" />
+<caption>Cumulative distribution functions of the input variables and the red, green, and blue representative models.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Cumulative distribution functions of the input variables and the red, green, and blue representative models.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118191699MS_i_11a.tif" id="ImgLink-11a" />
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118191699MS_i_11b.tif" id="ImgLink-11b" />
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-11c">
+<imageLink type="mediaResource" href="102118191699MS_i_11c.tif" id="ImgLink-11c" />
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-11d">
+<imageLink type="mediaResource" href="102118191699MS_i_11d.tif" id="ImgLink-11d" />
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-11e">
+<imageLink type="mediaResource" href="102118191699MS_i_11e.tif" id="ImgLink-11e" />
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-11f">
+<imageLink type="mediaResource" href="102118191699MS_i_11f.tif" id="ImgLink-11f" />
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-11g">
+<imageLink type="mediaResource" href="102118191699MS_i_11g.tif" id="ImgLink-11g" />
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-11h">
+<imageLink type="mediaResource" href="102118191699MS_i_11h.tif" id="ImgLink-11h" />
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-11i">
+<imageLink type="mediaResource" href="102118191699MS_i_11i.tif" id="ImgLink-11i" />
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-11j">
+<imageLink type="mediaResource" href="102118191699MS_i_11j.tif" id="ImgLink-11j" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="19" figure-order="12" data-type-order="19">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr19">If the history-match error (eHM) of all the simulations are sorted in descending order, the outcome would look like Figure 12(a). eHM is nonnegative, and when it equals zero, the simulated value matches the observation data exactly. Note that multiple history-match error metrics may exist, such as bottomhole pressure (BHP), water cut (WCT), and gas production rate (GPR) of each well, etc. For each metric, there may be a suite of history-matched simulation models, as indicated by the red arrows in Figure 12(a) and represented by the circles in Figure 12(b).</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-12">
+<label>Figure 12</label>
+<imageLink type="mediaResource" href="102118191699MS_i_12.tif" id="ImgLink-12" />
+<caption>Ideal scenario of history matching. Each history-match error metric (<i>e</i>
+<i>
+<sub>HM</sub>
+</i>) can find a suite of history-matched models, as illustrated by the red arrows in (a). The final ensemble of history-matched models is the intersection of each individual suite, as illustrated by the yellow shaded area in (b).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Ideal scenario of history matching. Each history-match error metric (e<sub>HM</sub>) can find a suite of history-matched models, as illustrated by the red arrows in (a). The final ensemble of history-matched models is the intersection of each individual suite, as illustrated by the yellow shaded area in (b).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118191699MS_i_12a.tif" id="ImgLink-12a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Ideal scenario of history matching. Each history-match error metric (e<sub>HM</sub>) can find a suite of history-matched models, as illustrated by the red arrows in </caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118191699MS_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>The final ensemble of history-matched models is the intersection of each individual suite, as illustrated by the yellow shaded area in</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="20" figure-order="13" data-type-order="20">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr20">With the presence of model error, even if a suite of models with eHM = 0 can still be found for each eHM metric, they may not intersect, as illustrated in Figure 13(a) and (b). Indeed, experience suggests that it is easier to history-match one metric but much harder to match all metrics simultaneously. Even if they do intersect, there is no guarantee that the actual reservoir model is contained in the intersection. Therefore, a threshold eHM value, denoted by T, should be defined for each eHM metric, as shown in Figure 13(a). A model whose eHM is ≤T should be accepted for this eHM metric. Each eHM metric should have its own T. If a model is accepted for all the metrics, it becomes a member of the final ensemble of history-matched models, as depicted in Figure 13(c). Essentially, the filtering criterion is relaxed from eHM = 0 to eHM≤T as a compromise to the inherent and inevitable limitation of the reservoir model.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-13">
+<label>Figure 13</label>
+<imageLink type="mediaResource" href="102118191699MS_i_13.tif" id="ImgLink-13" />
+<caption>History matching in the presence of model error only. A threshold <i>T </i>should be defined for each <i>e</i> <i><sub>HM</sub></i> <i></i>metric, see plot (a), to relax the filtering criterion from <i>e</i> <i><sub>HM</sub></i> <i> = 0 </i>to <i>e</i> <i><sub>HM</sub></i> ≤ <i>T</i>. If <i>e</i> <i><sub>HM</sub></i> <i> = 0 </i>is the criterion, it is possible that no history-matched solution can be found, see plot (b). With the relaxed criterion, the final ensemble of history-matched models is the yellow shaded area in (c).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>History matching in the presence of model error only. A threshold T should be defined for each e<sub>HM</sub>metric, see plot (a), to relax the filtering criterion from e<sub>HM</sub> = 0 to e<sub>HM</sub> ≤ T. If e<sub>HM</sub> = 0 is the criterion, it is possible that no history-matched solution can be found, see plot (b). With the relaxed criterion, the final ensemble of history-matched models is the yellow shaded area in (c).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118191699MS_i_13a.tif" id="ImgLink-13a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>History matching in the presence of model error only. A threshold T should be defined for each e<sub>HM</sub>metric, see plot</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118191699MS_i_13b.tif" id="ImgLink-13b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>to relax the filtering criterion from e<sub>HM</sub> = 0 to e<sub>HM</sub> ≤ T. If e<sub>HM</sub> = 0 is the criterion, it is possible that no history-matched solution can be found, see plot</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191699MS-Img_SPi-13c">
+<imageLink type="mediaResource" href="102118191699MS_i_13c.tif" id="ImgLink-13c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>With the relaxed criterion, the final ensemble of history-matched models is the yellow shaded area in</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="22" figure-order="14" data-type-order="21">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr21">If the eHM of all proxy-based Monte-Carlo samples are sorted in descending order, the outcome would look like Figure 14. The solid blue curve indicates the proxy response of eHM from Monte-Carlo simulation, and dashed red curves represent the confidence interval (δ) due to data-measurement and proxy errors. The red or green shaded regions are where the entire range of the confidence interval is above or below the T value, respectively.</anchoringText>
+<image-wrap id="102118191699MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118191699MS_i_14.tif" id="ImgLink-14" />
+<caption>Data-measurement and proxy errors complicate history-match filtering. In the red or green shaded region, the Monte-Carlo samples can be rejected or accepted with confidence, respectively. In the middle unshaded region, however, rejection or acceptance is not a straightforward decision.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Data-measurement and proxy errors complicate history-match filtering. In the red or green shaded region, the Monte-Carlo samples can be rejected or accepted with confidence, respectively. In the middle unshaded region, however, rejection or acceptance is not a straightforward decision.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="22" figure-order="15" data-type-order="22">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr22">The solution is to also accept the middle region. This amounts to raising the T value to T* by the confidence interval (δ), which is a function of the data-measurement error (ε) and the proxy error (ξ). Namely, T*=T+δ. A Monte-Carlo sample whose eHM is ≤T* should be accepted for this eHM metric, as illustrated in Figure 15. Every eHM metric has its own T*, T, ε, ξ, and δ. If a Monte-Carlo sample is accepted for all the eHM metrics, it becomes a candidate of history-matched model. Since all the candidates are evaluated by proxies, they should be verified by actual simulations to become the final ensemble of history-matched models. This is depicted in the right panel of Figure 15.</anchoringText>
+<image-wrap id="102118191699MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118191699MS_i_15.tif" id="ImgLink-15" />
+<caption>Real scenario of history matching. Raise the <i>T </i>value to <i>T* </i>by the confidence interval (<i>δ</i>), which is a function of the data-measurement error (<i>ε</i>) and proxy error (<i>ξ</i>). Accept the Monte-Carlo samples whose <i>e</i> <i><sub>HM</sub></i> <i></i>is ≤<i>T*</i>. Repeat for all the <i>e</i> <i><sub>HM</sub></i> <i></i>metrics. The Monte-Carlo samples that satisfy the filtering criteria of all the <i>e</i> <i><sub>HM</sub></i> <i></i>metrics become candidates. If they are verified by actual simulations, they become the final ensemble of history-matched models.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Real scenario of history matching. Raise the T value to T* by the confidence interval (δ), which is a function of the data-measurement error (ε) and proxy error (ξ). Accept the Monte-Carlo samples whose e<sub>HM</sub>is ≤T*. Repeat for all the e<sub>HM</sub>metrics. The Monte-Carlo samples that satisfy the filtering criteria of all the e<sub>HM</sub>metrics become candidates. If they are verified by actual simulations, they become the final ensemble of history-matched models.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

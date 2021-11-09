@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190226MS.txt" extractionDate="2021-03-29T18:54:46Z">
+<doi>10.2118/190226-MS</doi>
+<pii>10.2118/190226-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="3" table-order="1" data-type-order="2">
+<table-wrap id="102118190226MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">One thing that needs to be noted is that the natural CO2 sources and the industrial sources will be insufficient. Table 1 presents that additional 25 billion tonnes of CO2 is needed for EOR projects, but the current available CO2 supplies were 2.3 billion tonnes, which is less than ten percent of demand (Advanced Resources International 2012; McGuire et al 2016).</anchoringText>
+<label>Table 1</label>
+<caption>Oil recovery and CO<sub>2</sub> demand/storage (<link href="BIB4">Advanced Resources International 2012</link>)</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Oil recovery and CO<sub>2</sub> demand/storage (Advanced Resources International 2012)</caption-text>
+</formatted-caption>
+<table id="102118190226MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="bottom" align="center">Reservoir Setting</th>
+<th colspan="2" valign="top" align="center">Oil Recovery*** (Billion Barrels)</th>
+<th colspan="2" valign="top" align="center">CO<sub>2</sub> Dernand/Storage*** (Billion Metric Tons)</th>
+</tr>
+<tr>
+<th align="center">Technical</th>
+<th align="center">Economic**</th>
+<th align="center">Technical</th>
+<th align="center">Economic**</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td id="tfn-1" colspan="5" align="left">*The values for economically recoverable oil and economic CO<sub>2</sub> demand (storage) represent an update to the numbers in the NETL/ARI report “Improving Domestic Energy Security and Lowering CO<sub>2</sub>. Emissions with ‘Next Generation’ CO<sub>2</sub>-Enhanced Oil Recovery (CO<sub>2</sub>.-EOR)” (June 1, 2011).<br />***Includes 2.6 billion bbl already being produced or being developed with miscible We CO<sub>2</sub>-EOR and 2300 million t of CO<sub>2</sub>. use from natural sources and gas. <br />**Al USD85 /bbl oil price and USD 40 t CO<sub>2</sub> market price with ROR of 20% (before tax).</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center">L-48 Onshore</td>
+<td align="center">104</td>
+<td align="center">60</td>
+<td align="center">32</td>
+<td align="center">17</td>
+</tr>
+<tr>
+<td align="center">L-48 Offshore/Alaska</td>
+<td align="center">15</td>
+<td align="center">7</td>
+<td align="center">6</td>
+<td align="center">3</td>
+</tr>
+<tr>
+<td align="center">Near-Miscible CO<sub>2</sub>-EOR</td>
+<td valign="bottom" align="center">1</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">1</td>
+<td align="center">*</td>
+</tr>
+<tr>
+<td align="center">ROZ (below fields)****</td>
+<td align="center">16</td>
+<td align="center">13</td>
+<td align="center">7</td>
+<td align="center">5</td>
+</tr>
+<tr>
+<td align="center">Subtotal</td>
+<td align="center">136</td>
+<td valign="bottom" align="center">80</td>
+<td align="center">46</td>
+<td valign="bottom" align="center">25</td>
+</tr>
+<tr>
+<td align="center">Additional From ROZ “Fairways”</td>
+<td valign="top" align="center">40</td>
+<td align="center">20</td>
+<td align="center">16</td>
+<td align="center">8</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-18" type="bib">
+<bib id="BIB4">
+<label>Advanced Resources International (ARI)</label>
+Advanced Resources International (ARI), <pubDate>2012</pubDate>, <article-title>Using the Economic Value of CO2-EOR to Accelerate the Deployment of CO2 Capture, Utilization and Storage (CCUS), Proc., 2012 CCS Cost Workshop, Palo Alto, California, 25&#x2013;26 April 2012</article-title> https://sequestration.mit.edu/pdf/2012_Costs_Workshop_Proceedings.pdf  (accessed 4 January 2016).</bib>
+</linkTarget>
+</appendix>
+</docTable>
+<docTable pdf-page="5" table-order="2" data-type-order="4">
+<table-wrap id="102118190226MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Because there is not enough CO2 to satisfy the demand, it is necessary to find a supplement to CO2. McGuire et al (2016) presented that ethane is an excellent injectant for gas injection EOR. Additionally, both rich gases and volatile oils in unconventional reservoirs are promising candidates for ethene injection EOR. Their conclusions were based on both simulation data and three field examples. For the Lawrence Field in the Illinois Basin, the simulation results indicated that the ethane water-alternating-gas (WAG) recovered 48.2% of original oil in place (OOIP),which is 11.8% higher than water flooding, 9.8% higher than CO2 WAG, and 12% higher than methane WAG. According to their research, the difference between CO2 and ethane used for gas injection EOR is summarized and compared in Table 2.</anchoringText>
+<label>Table 2</label>
+<caption>Comparison between CO<sub>2</sub> and ethane for gas injection EOR</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Comparison between CO<sub>2</sub> and ethane for gas injection EOR</caption-text>
+</formatted-caption>
+<table id="102118190226MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="left">Comparison</th>
+<th valign="bottom" align="left">CO<sub>2</sub>
+</th>
+<th valign="bottom" align="left">Ethane</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Availability</td>
+<td valign="bottom" align="left">There is an increasing demand for CO<sub>2</sub> injection, especially in the Lower 48. But there will be not enough CO<sub>2</sub> supply, even the carbon capture technology, which is expensive, has been taken into consideration.</td>
+<td valign="top" align="left">1. Due to horizontal drilling and stimulation in shale reservoirs, there is enormous ethane production from the rich gases and volatile oils in unconventioanl fields. <br/>2. Ethane production is forecast to increase substantially.</td>
+</tr>
+<tr>
+<td valign="top" align="left">Infrastructure</td>
+<td valign="top" align="left">For the produced gas from CO<sub>2</sub> injection projects, acid-gas needs to be removed and removal plant is required before gas sales.</td>
+<td valign="top" align="left">1. Ethane infrastruacture has been built and is growing in ethane-rich shale plays that include Bakken, Eagle Ford, and Marcellus/Utica. <br/>2. This provides opportunies for ethane EOR in these shale plays and the areas that do not have sufficient CO<sub>2</sub>.</td>
+</tr>
+<tr>
+<td valign="top" align="left">Economy</td>
+<td valign="bottom" align="left">The supplies of low-cost CO<sub>2</sub> are limited, especially for the fields that do not have CO<sub>2</sub> sources.</td>
+<td valign="bottom" align="left">1. Ethane prices dropped drastically due to the substantial quantities of production. It is likely that the low price will continue for a long time. <br/>2. Large amount of ethane is being flared currently.</td>
+</tr>
+<tr>
+<td valign="top" align="left">Properties</td>
+<td valign="bottom" align="left">When compared with ethane, CO<sub>2</sub> is about 20 times more soluble in water. It makes CO<sub>2</sub> to be easily trapped by reservoir brine.</td>
+<td valign="bottom" align="left">1. Ethane has higher solubility in oil and gas, lower minimum miscibility pressure (MMP), higher viscosity reduction and better solvent efficiency. <br/>2. Ethane has lower density than CO<sub>2</sub>, which may impact vertical sweep efficiency.</td>
+</tr>
+<tr>
+<td valign="top" align="left">Operation</td>
+<td valign="top" align="left">Corrosion problems in surface facilities, pipelines and wells require special materials for injection wells.</td>
+<td valign="bottom" align="left">1. Ethane is noncorrosive. <br/>2. Injected ethane should be diluted with methane to avoid three-phase region and form stable solutions. <br/>3. The diluted ethane reduces the partial pressure and corrosivity of acid-gas components.</td>
+</tr>
+<tr>
+<td valign="top" align="left">Technology</td>
+<td valign="top" align="left">CO<sub>2</sub> EOR projects are successful, very mature with low risk.</td>
+<td valign="bottom" align="left">1. The engineering, economic issues and opportunies of hydrocarbon EOR have been well understood. <br/>2. Enriched gas injection with a mixture of methane, ethane, propane and butane has been applied in the Alaskan North Slope projects.</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118186419MS.txt" extractionDate="2021-03-25T13:24:49Z">
+<doi>10.2118/186419-MS</doi>
+<pii>10.2118/186419-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr4">Hence, a more comprehensive workflow is needed for the development of unconventional plays. The objective of this work is to propose a more comprehensive workflow to evaluate the stimulation effectiveness and forecast the well performance on the SRV scale. The workflow is an integration of microseismic data, welltesting interpretation, rate normalized pressure (RNP) interpretation, and numerical production history match, as illustrated in Fig. 1. The welltesting interpretation and RNP interpretation are conducted on a semianalytical model with boundary element method (BEM).</anchoringText>
+<image-wrap id="102118186419MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118186419MS_i_1.tif" id="ImgLink-1" />
+<caption>Workflow for stimulation estimation and performance forecast, containing microseismic data, welltesting interpretation, rate normalized pressure interpretation, and production history match.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Workflow for stimulation estimation and performance forecast, containing microseismic data, welltesting interpretation, rate normalized pressure interpretation, and production history match.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr5">Recently, the technique of microseismic monitoring (MSM) has been the significant tool to capture the hydraulic fracture growth. This technique is also an important component of our workflow. Fig. 2 provides the basic principles of MSM (Cipolla et al., 2011). The monitored microseismic events are recorded by the seismic sensors in the downhole of monitoring well. The locations of microseismic events are determined by P- and S-wave sonic velocity model. Using the polarization of P- and/or S-wave signals, one can identify the fracture azimuth. The fracture depth can be diagnosed by analyzing the seismic sensors simultaneously.</anchoringText>
+<image-wrap id="102118186419MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118186419MS_i_2.tif" id="ImgLink-2" />
+<caption>Basic principles of MSM techniques. Many fracture properties can be identified with MSM technique, containing (1) fracture length, (2) fracture height, (3) fracture azimuth, (4) fracture complexity, (5) fracture location, and (6) anomalous behaviors (Cipolla et al., 2011).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Basic principles of MSM techniques. Many fracture properties can be identified with MSM technique, containing (1) fracture length, (2) fracture height, (3) fracture azimuth, (4) fracture complexity, (5) fracture location, and (6) anomalous behaviors ( <link href="BIB1">Cipolla et al., 2011</link> ).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-18" type="bib">
+<bib id="BIB1">
+<label>Cipolla et al., 2011</label>
+<author>
+<first-name>C. L.</first-name>
+<last-name>Cipolla</last-name>
+</author>, <author>
+<first-name>T.</first-name>
+<last-name>Fitzpatrick</last-name>
+</author>, <author>
+<first-name>M. J.</first-name>
+<last-name>Williams</last-name>
+</author> and <author>
+<first-name>U. K.</first-name>
+<last-name>Ganguly</last-name>
+</author>, <pubDate>2011</pubDate>. <article-title>Seismic-to-simulation for unconventional reservoir development, SPE 146876-MS presented at the SPE Reservoir Characterisation and Simulation Conference and Exhibition. SPE, Abu Dhabi, UAE</article-title>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr6">Model development. Physical Model. In this paper, we develop a composite physical model for fractured horizontal wells with SRV using VFM. Considering that it is hard for fluid flow to arrive the outbound reservoir system, we don’t take the outbound reservoir into consideration, and we develop a three-region physical model to describe the SRV, as shown in Fig. 3. In our physical model, Region I is composed of hydraulic fractures and fracture networks. The fracture networks are approximately modeled by Warren and Root’s dual-porosity media.</anchoringText>
+<image-wrap id="102118186419MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118186419MS_i_3.tif" id="ImgLink-3" />
+<caption>Schematic of a three-region physical model to describe the SRV.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Schematic of a three-region physical model to describe the SRV.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr7">Model Solution. Both hydraulic fractures and boundary sections are discretized to obtain the transient pressure solution of MFHW in the composite reservoir. We assume that the nf hydraulic fractures are divided into ns segments. Pressure in each fracture segment is assumed to be uniform once the fracture segment is tiny. Hence, we mainly consider the pressure at the center of each fracture segment. The boundary sections, Γ1, Γ2, Γ3, are separately divided into N1, N2, N3 linear segments, as shown in Fig. 4.</anchoringText>
+<image-wrap id="102118186419MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118186419MS_i_4.tif" id="ImgLink-4" />
+<caption>Schematic of discretization for boundary sections.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Schematic of discretization for boundary sections.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr8">With the RNP and RNP’, the well performance with variable bottomhole pressure and production rate can be transformed into an equivalent case with a constant production rate. Fig. 5 was plotted by Song and Economide (2011) to show the transient pressure behavior of MFHW using RNP and RNP’s. One can see that the RNP performance is similar to pressure transient behavior with a constant production rate. That’s to say, based on RNP and RNP’, our proposed well-testing model is applicable to estimate the SRV properties using the production data.</anchoringText>
+<image-wrap id="102118186419MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118186419MS_i_5.tif" id="ImgLink-5" />
+<caption>Transient behaviors of RNP and RNP’ for a MFHW (Song and Economides, 2011).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Transient behaviors of RNP and RNP’ for a MFHW ( <link href="BIB2">Song and Economides, 2011</link> ).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-19" type="bib">
+<bib id="BIB2">
+<label>Song and Economides, 2011</label>
+<author>
+<first-name>B.</first-name>
+<last-name>Song</last-name>
+</author> and <author>
+<first-name>C.</first-name>
+<last-name>Economides</last-name>
+</author>, <pubDate>2011</pubDate>. <article-title>Rate-Normalized Pressure Analysis for Determination of Shale Gas Well Performance </article-title>, <journal-title>SPE 144031 at Presented at the SPE North American Unconventional Gas Conference and Exhibition, Texas, USA</journal-title>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="11" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr9">The permeability in each region is set as different values. Hybrid grids are used to model the fluid flow in the reservoir. Local refined grids are employed near the hydraulic fractures to accurately capture the flow within/into those fractures. The formation in Region I is set as dual-porosity media to simulate the fracture networks caused by hydraulic fracturing. Fig. 6 shows the pressure profile for the numerical model at different periods, indicating the impacts of boundary sections on pressure propagation.</anchoringText>
+<image-wrap id="102118186419MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118186419MS_i_6.tif" id="ImgLink-6" />
+<caption>Pressure profile for the numerical composite model at different periods.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Pressure profile for the numerical composite model at different periods.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118186419MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118186419MS_i_6a.tif" id="ImgLink-6a" />
+</image-wrap>
+<image-wrap id="102118186419MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118186419MS_i_6b.tif" id="ImgLink-6b" />
+</image-wrap>
+<image-wrap id="102118186419MS-Img_SPi-6c">
+<imageLink type="mediaResource" href="102118186419MS_i_6c.tif" id="ImgLink-6c" />
+</image-wrap>
+<image-wrap id="102118186419MS-Img_SPi-6d">
+<imageLink type="mediaResource" href="102118186419MS_i_6d.tif" id="ImgLink-6d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr10">A horizontal completion from a tight-oil reservoir in Jimusar Sag at Junggar Basin is used to demonstrate the workflow of seismic-to-forecast. The location of Jimusar Sag is displayed by the red remark in Fig. 7, which is placed in the east of Junggar Basin, and surrounded by Laozhuangwan Fault, Jimusar Fault, Houbaozi Fault, Santai Fault, and Xidi Fault. In 2012, the Chang Ji oilfield announced great discovery and technical breakthrough in the tight oil exploration in Jimusar Sag, and drilled more than 10 wells in a research area for a large-scale tight-oil development.</anchoringText>
+<image-wrap id="102118186419MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118186419MS_i_7.tif" id="ImgLink-7" />
+<caption>The location of Jimusar Sag (Red Remark) at Junggar Basin (Qiu et al., 2016).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>The location of Jimusar Sag (Red Remark) at Junggar Basin ( <link href="BIB3">Qiu et al., 2016</link> ).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-20" type="bib">
+<bib id="BIB3">
+<label>Qiu, 2016</label>
+<author>
+<first-name>Z.</first-name>
+<last-name>Qiu</last-name>
+</author>, <pubDate>2016</pubDate>. <article-title>Lithofacies and organic geochemistry of the Middle Permian Lucaogou Formation in the Jimusar Sag of the Junggar Basin, NW China </article-title>.<journal-title>Journal of Petroleum Science and Engineering </journal-title>, <volume>140</volume>: <pages>
+<first-page>97</first-page>
+<last-page>107</last-page>
+</pages>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr11">Microseismic Interpretation. To better record the microseismic events during the stimulation of Well CJ, there were 24 seismic sensors evenly distributed along the horizontal wellbore on surface. Fig. 8 is the microseismic mapping of Well CJ with 24 stimulated stages. As can be seen, complex fracture networks were generated along the wellbore. According to the microseismic data, we primarily divide the reservoir around MFHW into three regions: Region I with complex fracture networks, Region II affected by SRV, and Region III with unstimulated formation, as demonstrated by Fig. 9.</anchoringText>
+<image-wrap id="102118186419MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118186419MS_i_8.tif" id="ImgLink-8" />
+<caption>Micro-seismic mapping of Well CJ [Modified from (Chen et al., 2017)].</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Micro-seismic mapping of Well CJ [Modified from ( <link href="BIB4">Chen et al., 2017</link> )].</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-21" type="bib">
+<bib id="BIB4">
+<label>Chen, 2017</label>
+<author>
+<first-name> Z.</first-name>
+<last-name>Chen</last-name>
+</author> et al, <pubDate>2017</pubDate>. <article-title>In Press. A Diagnostic Approach to Identify Complex Fracture Geometries in Unconventional Reservoirs Using a Semi-analytical Model, URTec-2687204</article-title>
+<journal-title>Presented at the Unconventional Resources Technology Conference, Texas, USA</journal-title>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr12">Microseismic Interpretation. To better record the microseismic events during the stimulation of Well CJ, there were 24 seismic sensors evenly distributed along the horizontal wellbore on surface. Fig. 8 is the microseismic mapping of Well CJ with 24 stimulated stages. As can be seen, complex fracture networks were generated along the wellbore. According to the microseismic data, we primarily divide the reservoir around MFHW into three regions: Region I with complex fracture networks, Region II affected by SRV, and Region III with unstimulated formation, as demonstrated by Fig. 9.</anchoringText>
+<image-wrap id="102118186419MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118186419MS_i_9.tif" id="ImgLink-9" />
+<caption>The primary SRV properties of Well CJ based on MSM.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>The primary SRV properties of Well CJ based on MSM.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="10" data-type-order="11">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr13">Well Testing Interpretation. After stimulation, a buildup testing of Well CJ was performed. The duration of the well testing lasted about 168 hours. The testing data including pressure and pressure derivative are provided in Fig. 10. It is found that due to the short testing time, the pressure buildup only occurred in Regions I and II, and the fluid in Region III is not affected by the buildup test. Hence, we divide the transient pressure characters (pressure and pressure derivative) of Well CJ into two parts, Region I and Region II (Fig. 10).</anchoringText>
+<image-wrap id="102118186419MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118186419MS_i_10.tif" id="ImgLink-10" />
+<caption>Type-curve matches on the testing data with our model. Note that is the pressure drop during buidup, <i>dp </i>is the derivative of pressure drop with time multiplied by time, and adjusted time is namely the generalized Horner time (Gringarten, 2006) applied to transform buildup data to pressure-drop data.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Type-curve matches on the testing data with our model. Note that is the pressure drop during buidup, dp is the derivative of pressure drop with time multiplied by time, and adjusted time is namely the generalized Horner time ( <link href="BIB5">Gringarten, 2006</link> ) applied to transform buildup data to pressure-drop data.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-22" type="bib">
+<bib id="BIB5">
+<label>Gringarten, 2006</label>
+<author>
+<first-name>A. C.</first-name>
+<last-name>Gringarten</last-name>
+</author>, <pubDate>2006</pubDate>. <article-title>From Straight Lines to Deconvolution: The Evolution of the State of the Art in Well Test Analysis </article-title>, <journal-title>Presented at the SPE Annual Technical Conference and Exhibition, San Antonio, Texas</journal-title>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="11" data-type-order="12">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr14">Following the above procedures, we continue to perform a series of type-curve matches on its RNP and RNP’ with the production data. The basic physical model is still a three-region composite model from microseismic intepretation. Finally, a good match is achieved between our model and field data, as shown in Fig. 11. The results from RNP intepretation is given by Table 2. Overall, the results from well testing interpretation and RNP interpretation are close to each other, although values of some paramters are different.</anchoringText>
+<image-wrap id="102118186419MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118186419MS_i_11.tif" id="ImgLink-11" />
+<caption>Type-curve matches on field data with our model on RNP and RNP’.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Type-curve matches on field data with our model on RNP and RNP’.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="12" data-type-order="13">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr15">Production History Match. To further verify the interpreted results, we build a numerical model for the composite model with a software, as shown in Fig. 12. The gridding approaches for reservoir and hydraulic fractures are seen in Section 5. After the numerical production analysis, an acceptable match of the 6000-hour production history is obtained using similar parameters from well testing interpretation and RNP interpretation (Fig. 13). The main deviation between numerical results and production data occurs at the early period, namely at the flowback period.</anchoringText>
+<image-wrap id="102118186419MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118186419MS_i_12.tif" id="ImgLink-12" />
+<caption>Numerical model of Well CJ with SRV using a software.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Numerical model of Well CJ with SRV using a software.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="13" data-type-order="14">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr16">Production History Match. To further verify the interpreted results, we build a numerical model for the composite model with a software, as shown in Fig. 12. The gridding approaches for reservoir and hydraulic fractures are seen in Section 5. After the numerical production analysis, an acceptable match of the 6000-hour production history is obtained using similar parameters from well testing interpretation and RNP interpretation (Fig. 13). The main deviation between numerical results and production data occurs at the early period, namely at the flowback period.</anchoringText>
+<image-wrap id="102118186419MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118186419MS_i_13.tif" id="ImgLink-13" />
+<caption>Production history match on the field data using numerical simulations.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Production history match on the field data using numerical simulations.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="14" data-type-order="16">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr17">Performance Forecast. Based on the numerical model, we perform a 5-year of oil production prediction using the history match results, and the predicted oil volume and rate are showed in Fig. 14. As can be seen, after 5-year of production the total oil volume is about 2.25×104 m3, and the oil rate sharply decreases to 2 m3/d. This is because the oil drainage is dominated by the SRV-affected region (Region I and II). Once the oil flow reaches the unstimulated area (Region III), the production rate declines rapidly due to ultra-low permeability, as to be physically expected.</anchoringText>
+<image-wrap id="102118186419MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118186419MS_i_14.tif" id="ImgLink-14" />
+<caption>5-year of oil production prediction using the history match results.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>5-year of oil production prediction using the history match results.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="15" data-type-order="17">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr18">Fig. 15 shows the pressure profile in the reservoir after 1/4, 1, 3, and 5 years, and the pressure profile demonstrates that the produced oil during the first year mainly comes from Regions I and II. After 1-year of production, the unstimulated area (Region III) starts to slowly produce the oil. Even after 5-years of production, the main drainage area for Well CJ is the area around the stimulated regions, indicating that much more attention should be paid to the effectiveness of SRV treatments.</anchoringText>
+<image-wrap id="102118186419MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118186419MS_i_15.tif" id="ImgLink-15" />
+<caption>Pressure profile in the reservoir after 1/4, 1, 3, and 5 years of production using the numerical model.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Pressure profile in the reservoir after 1/4, 1, 3, and 5 years of production using the numerical model.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="22" figure-order="16" data-type-order="18">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr19">Model Verification. To verify the proposed well-testing model, we perform a model verification to compare our results with the numerical solutions for a MFHW in a composite reservoir, as shown in Fig.A1. The MFHW has five uniform and evenly-distributed hydraulic fractures, with a length of 30 m. The reservoir size is 2500 m × 2500 m × 10 m, modeled by hybrid grids (Fig. A1). The boundary sections can be arbitrary-shaped.</anchoringText>
+<image-wrap id="102118186419MS-Img_SPi-16">
+<label>Figure A1 </label>
+<imageLink type="mediaResource" href="102118186419MS_i_16.tif" id="ImgLink-16" />
+<caption>Numerical model of a MFHW in a three-region composite reservoir (KAPPA, 1987).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>A1</caption-order>
+<caption-text>Numerical model of a MFHW in a three-region composite reservoir ( <link href="BIB6">KAPPA, 1987</link> ).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-23" type="bib">
+<bib id="BIB6">
+<label>KAPPA, 1987</label>
+<author>
+<last-name>KAPPA</last-name>
+</author>, <pubDate>1987</pubDate>. <article-title>
+<i>Rubis - Multi Purpose Numerical Model</i>
+</article-title>. https://www.kappaeng.com/software/rubis/overview.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="23" figure-order="17" data-type-order="19">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr20">Fig. A2 shows the log-log plot of transient pressure behaviors, demonstrated by dimensionless pressure and pressure derivative against dimensionless time. As can be seen, the results from BEM match well with the numerical solutions. Note that the cost of CUP time for the numerical solutions is about 1500 second, while with BEM it only cost 100.7-second CUP time with 50 fracture segments and 90 boundary elements.</anchoringText>
+<image-wrap id="102118186419MS-Img_SPi-17">
+<label>Figure A2 </label>
+<imageLink type="mediaResource" href="102118186419MS_i_17.tif" id="ImgLink-17" />
+<caption>Log-log plot of transient pressure behaviors from BEM and numerical model.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>A2</caption-order>
+<caption-text>Log-log plot of transient pressure behaviors from BEM and numerical model.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

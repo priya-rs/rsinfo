@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187850MS.txt" extractionDate="2021-03-25T11:04:24Z">
+<doi>10.2118/187850-MS</doi>
+<pii>10.2118/187850-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="2">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr3">In this example, structural analysis is reduced to calculating the static discrepancy for wells based on linear regression. The values of the wells and stratified intersections with the isochrones map are compared. After that, the regression equation is evaluated and applied to recalculate the values of the reflecting horizon from time to depth (Figure 1).</anchoringText>
+<image-wrap id="102118187850MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118187850MS_i_1.tif" id="ImgLink-1" />
+<caption>Graph of time-depth correlation from reflection and reflexes in wells BP16-1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Graph of time-depth correlation from reflection and reflexes in wells BP16-1</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr4">The map of the structural map residuals with values in the wells was prepared in order to take into account the accuracy of the structural plan assessment (Figure 2,Figure 3). The minimum, average, maximum and standard deviations are estimated.</anchoringText>
+<image-wrap id="102118187850MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118187850MS_i_2.tif" id="ImgLink-2" />
+<caption>Structural map for the reservoir top BP16-1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Structural map for the reservoir top BP16-1</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr5">The map of the structural map residuals with values in the wells was prepared in order to take into account the accuracy of the structural plan assessment (Figure 2,Figure 3). The minimum, average, maximum and standard deviations are estimated.</anchoringText>
+<image-wrap id="102118187850MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118187850MS_i_3.tif" id="ImgLink-3" />
+<caption>Map of residuals, calculated from seismic and wells heads BP16-1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Map of residuals, calculated from seismic and wells heads BP16-1</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr6">Analysis of the wave field dynamic characteristics was connected to the calculation of RGB maps with subsequent contouring of color anomalies (Figure 4). Since the contouring of these anomalies is quite unambiguous and confirmed by wells, the variability of their position in space has not been considered.</anchoringText>
+<image-wrap id="102118187850MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118187850MS_i_4.tif" id="ImgLink-4" />
+<caption>Example of calculating the RGB map and outlining the anomalies</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Example of calculating the RGB map and outlining the anomalies</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr7"> </anchoringText>
+<image-wrap id="102118187850MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118187850MS_i_5.tif" id="ImgLink-5" />
+<caption>Tornado-density of parameters sensitivity to initial geological reserves</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Tornado-density of parameters sensitivity to initial geological reserves</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr8">The multivariate calculation was carried out in order to estimate the total spread of the oil reserves. The distribution histogram of the oil reservs (Figure 6) is constructed as a result of 300 realizations of the reserves calculation on the basis of 2D model.</anchoringText>
+<image-wrap id="102118187850MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118187850MS_i_6.tif" id="ImgLink-6" />
+<caption>Histogram of distribution of initial geological reserves</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Histogram of distribution of initial geological reserves</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr9">As a basis for determining measures to remove uncertainties, a matrix of risks and activities was adopted (Figure 7).</anchoringText>
+<image-wrap id="102118187850MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118187850MS_i_7.tif" id="ImgLink-7" />
+<caption>Risks and activities matrix</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Risks and activities matrix</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr10">Figure (Figure 8) shows the initial decision tree of the example in question. In more detail, the optimization is as follows. At the initial moment, there are EMV values for each outcome. On them, starting from the very bottom of the tree, we choose the optimal solutions.</anchoringText>
+<image-wrap id="102118187850MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118187850MS_i_8.tif" id="ImgLink-8" />
+<caption>Initial motion tree for the project (Example of stage 1)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Initial motion tree for the project (Example of stage 1)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr11">As a result, the most reliable and profitable option is selected, excluding risky decisions. In this example, the calculation result is the decision tree shown in the figure (Figure 9).</anchoringText>
+<image-wrap id="102118187850MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118187850MS_i_9.tif" id="ImgLink-9" />
+<caption>Optimized tree of motion solutions for the project</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Optimized tree of motion solutions for the project</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

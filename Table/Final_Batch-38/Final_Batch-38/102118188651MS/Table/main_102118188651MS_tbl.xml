@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118188651MS.txt" extractionDate="2021-03-26T17:47:35Z">
+<doi>10.2118/188651-MS</doi>
+<pii>10.2118/188651-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="4" table-order="1" data-type-order="2">
+<table-wrap id="102118188651MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Reservoir quality in Morichal Lower unit unconsolidated sandstones is excellent. Table 1 shows average properties of the rock and fluids for this reservoir, to be compared with the some of the general criteria normally used for screening purposes of the CSS and SF technologies (Taber et al., 1997; Aladasani et al., 2010; Dickson et al., 2010; Sheng, 2013).</anchoringText>
+<label>Table 1</label>
+<caption>Reservoir average properties, and usual CSS and SF screening criteria</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Reservoir average properties, and usual CSS and SF screening criteria</caption-text>
+</formatted-caption>
+<table id="102118188651MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" valign="top" align="center" />
+<th colspan="2" valign="bottom" align="center">Taber et al., 1996</th>
+<th colspan="2" valign="bottom" align="center">
+<link href="BIB1">Aladasani et al., 2010</link>
+</th>
+<th colspan="4" valign="bottom" align="center">
+<link href="BIB2">Dickson et al., 2010</link>
+</th>
+<th colspan="4" valign="bottom" align="center">
+<link href="BIB3">Sheng 2013</link>
+</th>
+</tr>
+<tr>
+<th rowspan="2" valign="bottom" align="left">Reservoir properties</th>
+<th rowspan="2" valign="bottom" align="center">Lower Morichal</th>
+<th colspan="2" valign="bottom" align="center">SF</th>
+<th colspan="2" valign="bottom" align="center">SF</th>
+<th colspan="2" valign="bottom" align="center">CSS</th>
+<th colspan="2" valign="bottom" align="center">SF</th>
+<th colspan="2" valign="bottom" align="center">CSS</th>
+<th colspan="2" valign="bottom" align="center">SF</th>
+</tr>
+<tr>
+<th valign="bottom" align="center">Min.</th>
+<th valign="bottom" align="center">Max.</th>
+<th valign="bottom" align="center">Min.</th>
+<th valign="bottom" align="center">Max.</th>
+<th valign="bottom" align="center">Min.</th>
+<th valign="bottom" align="center">Max.</th>
+<th valign="bottom" align="center">Min.</th>
+<th valign="bottom" align="center">Max.</th>
+<th valign="bottom" align="center">Min.</th>
+<th valign="bottom" align="center">Max.</th>
+<th valign="bottom" align="center">Min.</th>
+<th valign="bottom" align="center">Max.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Formation type</td>
+<td valign="bottom" align="left">sandstone</td>
+<td colspan="2" valign="bottom" align="left">sandstone</td>
+<td colspan="2" valign="bottom" align="left">sandstone</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td align="left">Porosity (%)</td>
+<td align="center">33</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">12</td>
+<td align="center">65</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">18</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">20</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td align="left">Horizontal permeability (mD)</td>
+<td align="center">4,561</td>
+<td align="center">200’</td>
+<td valign="top" align="center">
+</td>
+<td align="center">1</td>
+<td valign="top" align="center">
+</td>
+<td align="center">250</td>
+<td valign="top" align="center">
+</td>
+<td align="center">250</td>
+<td valign="top" align="center">
+</td>
+<td align="center">50</td>
+<td valign="top" align="center">
+</td>
+<td align="center">200</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Kv/Kh (fraction)</td>
+<td valign="bottom" align="center">0.81</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">NTG (fraction)</td>
+<td valign="bottom" align="center">0.8</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">0.4</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Net reservoir thickness (ft)</td>
+<td valign="bottom" align="center">160</td>
+<td valign="bottom" align="center">20</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">20</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">20</td>
+<td align="center">150</td>
+<td align="center">15</td>
+<td align="center">150</td>
+<td valign="bottom" align="center">20</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">20</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Current oil saturation (%)</td>
+<td valign="bottom" align="center">80</td>
+<td valign="bottom" align="center">40</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">35</td>
+<td valign="bottom" align="center">90</td>
+<td valign="bottom" align="center">50</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">40</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">40</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">40</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Top reservoir depth (ft)</td>
+<td valign="bottom" align="center">3,257</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">4,500</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">9,000</td>
+<td valign="bottom" align="center">400</td>
+<td valign="bottom" align="center">3,000</td>
+<td valign="bottom" align="center">400</td>
+<td valign="bottom" align="center">4,500</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">300</td>
+<td valign="bottom" align="center">5,000</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Reservoir temperature (°F)</td>
+<td valign="bottom" align="center">137</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">10</td>
+<td valign="bottom" align="center">350</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Current reservoir pressure (psi)</td>
+<td valign="bottom" align="center">1.355</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">400</td>
+<td valign="bottom" align="center">1,500</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">1,500</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">1,670</td>
+</tr>
+<tr>
+<td align="left">Oil density (<sup>e</sup>API)</td>
+<td align="center">8.4</td>
+<td valign="bottom" align="center">8</td>
+<td align="center">25</td>
+<td valign="bottom" align="center">8</td>
+<td align="center">30</td>
+<td valign="bottom" align="center">8</td>
+<td align="center">35</td>
+<td valign="bottom" align="center">8</td>
+<td valign="bottom" align="center">20</td>
+<td valign="bottom" align="center">8</td>
+<td align="center">35</td>
+<td align="center">9</td>
+<td align="center">25</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Live oil viscosity (cp)</td>
+<td valign="bottom" align="center">1,376</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">100,000</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">1,000</td>
+<td valign="bottom" align="center">1,000,000</td>
+<td valign="bottom" align="center">1,000</td>
+<td valign="bottom" align="center">10,000</td>
+<td valign="bottom" align="center">50</td>
+<td valign="bottom" align="center">350,000</td>
+<td valign="bottom" align="center">20</td>
+<td valign="bottom" align="center">20,000</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">GOR (scf/stb)</td>
+<td valign="bottom" align="center">90</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">FVF (rb/stb)</td>
+<td valign="bottom" align="center">1.05</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Sulphur content (% wt)</td>
+<td valign="bottom" align="center">3.8</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Oil transmissibility (mD-ft/cp)</td>
+<td valign="bottom" align="center">530</td>
+<td valign="bottom" align="center">50</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">5</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">5</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Active aquifer</td>
+<td valign="bottom" align="center">NO</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td colspan="2" valign="bottom" align="center">Not desirable</td>
+<td colspan="2" valign="bottom" align="center">Not desirable</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Gas cap</td>
+<td valign="bottom" align="center">NO</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td colspan="2" valign="bottom" align="center">Not desirable</td>
+<td colspan="2" valign="bottom" align="center">Not desirable</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Clay content</td>
+<td valign="bottom" align="center">Low</td>
+<td valign="bottom" align="center">Low</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">Low</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">Low</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Extensive fracturing</td>
+<td valign="bottom" align="center">NO</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">No</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">No</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Primary drive mechanism</td>
+<td valign="bottom" align="center">solution-gas</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Secondary drive mechanism</td>
+<td valign="bottom" align="center">compaction</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-20" type="bib">
+<bib id="BIB1">
+<label>Aladasani and Bai, 2010</label>
+<author>
+<first-name>A.</first-name>
+<last-name>Aladasani</last-name>
+</author>, and <author>
+<first-name>B.</first-name>
+<last-name>Bai</last-name>
+</author>, <pubDate>2010</pubDate>. <article-title>Recent developments and updated screening criteria of enhanced oil recovery techniques</article-title>. <journal-title>SPE International Oil &amp; Gas Conference and Exhibition3, Beijing, China . SPE </journal-title>
+<volume>130726</volume>.</bib>
+</linkTarget>
+<linkTarget id="link-21" type="bib">
+<bib id="BIB2">
+<label>Dickson et al., 2010</label>
+<author>
+<first-name>J. L.</first-name>
+<last-name>Dickson</last-name>
+</author>, <author>
+<first-name>A.</first-name>
+<last-name>Leahy-Dios</last-name>
+</author>, and <author>
+<first-name>P. L.</first-name>
+<last-name>Wylie</last-name>
+</author>, <pubDate>2010</pubDate>. <article-title>Development of improved hydrocarbon recovery screening methodologies. SPE Improved Oil Recovery Symposium3, Tulsa, Oklahoma </article-title>, <journal-title>SPE </journal-title>
+<volume>129768</volume>.</bib>
+</linkTarget>
+<linkTarget id="link-22" type="bib">
+<bib id="BIB3">
+<label>Sheng, 2013</label>
+<author>
+<first-name>J. J.</first-name>
+<last-name>Sheng</last-name>
+</author>, <pubDate>2013</pubDate>. <article-title>Enhanced Oil Recovery. Field Case Studies </article-title>. <journal-title>Gulf Professional Publishing</journal-title>.</bib>
+</linkTarget>
+</appendix>
+</docTable>
+<docTable pdf-page="7" table-order="2" data-type-order="5">
+<table-wrap id="102118188651MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Table 2 shows the selected variables, and the values of the different levels for these variables. The approach is to apply design of experiments to get the minimum number of combinations of these variables that let us interpret the results of the pilot in a systematic way and with statistical significance. Each so called “experiment” will be applied to one well.</anchoringText>
+<label>Table 2</label>
+<caption>Variables and values selected for the design of the pilot test</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Variables and values selected for the design of the pilot test</caption-text>
+</formatted-caption>
+<table id="102118188651MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Variable</th>
+<th valign="top" align="center">Level(+)</th>
+<th valign="top" align="center">Level(0)</th>
+<th valign="top" align="center">Level (-)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Specific steam flowrate</td>
+<td valign="top" align="center">QI [3 BPD/ft)</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">Q2 (2.2 BPD/ft)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Well length</td>
+<td valign="top" align="center">LI (4.500 f&#x003C;</td>
+<td valign="top" align="center">L2 (3.700 ft)</td>
+<td valign="top" align="center">L3 (2.200 ft)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Thermal insulation</td>
+<td valign="top" align="center">Al (N2 in annulus)</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">A2 (pre-insulated tubing)</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="3" data-type-order="6">
+<table-wrap id="102118188651MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Taking into account the distribution of wells available, different operating options can be accomplished, each one with several advantages and disadvantages (number of experiments repetitions, symmetry of operation, cost, etc.). After evaluating the different alternatives, the concept selected is: “Only one well pad is operated, O-05-02, with all the wells completed with pre-insulated tubing”. This option saves CAPEX and OPEX, and reduces the time needed to get representative results. Table 3 shows the proposed experiments, absolute steam flowrates, and number of wells to be applied.</anchoringText>
+<label>Table 3</label>
+<caption>Experiments proposed and absolute steam flowrates. Well pad O-05-02</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Experiments proposed and absolute steam flowrates. Well pad O-05-02</caption-text>
+</formatted-caption>
+<table id="102118188651MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Experiment</th>
+<th valign="top" align="center">Steam Flowrate</th>
+<th valign="top" align="center">Number of wells</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center"><b>Q2 </b>(2,2 BPD/ft) <b>L3 </b>(2.200 ft)</td>
+<td align="center">4.850 BPD</td>
+<td align="center">2</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>QI </b>(3 BPD/ft) <b>L3 </b>(2.200 ft)</td>
+<td valign="top" align="center">6.600 BPD</td>
+<td valign="top" align="center">3</td>
+</tr>
+<tr>
+<td align="center">
+<b>Q2 </b>(2,2 BPD/ft) <b>L2 </b>(3.700 ft)</td>
+<td align="center">8.150 BPD</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>Q2 </b>(2.2 BPD/ft) <b>LI </b>(4.500 ft)</td>
+<td valign="top" align="center">9.900 BPD</td>
+<td valign="top" align="center">3</td>
+</tr>
+<tr>
+<td align="center">Cold production (C.P.)</td>
+<td align="center">0BPD</td>
+<td align="center">1</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="9" table-order="4" data-type-order="8">
+<table-wrap id="102118188651MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">Operating times for each of the stages in the CSS pilot test are summarized in Table 4. These times will be applied to each well in well pad O-05-02.</anchoringText>
+<label>Table 4</label>
+<caption>Operating times for each stage</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Operating times for each stage</caption-text>
+</formatted-caption>
+<table id="102118188651MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Cold Production (days)</th>
+<th valign="bottom" align="center">Steam Injection (days)</th>
+<th valign="bottom" align="center">Soaking (days)</th>
+<th valign="bottom" align="center">Hot Production (days)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1460</td>
+<td align="center">60</td>
+<td align="center">10</td>
+<td align="center">580</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="9" table-order="5" data-type-order="9">
+<table-wrap id="102118188651MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">There are other times that should be taken into account in the planning of the pilot test, i.e., time to drill a well, and duration of workovers. These are shown in Table 5.</anchoringText>
+<label>Table 5</label>
+<caption>Average drilling and workover times</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Average drilling and workover times</caption-text>
+</formatted-caption>
+<table id="102118188651MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Drilling (days/well)</th>
+<th valign="bottom" align="center">Workover (days/well)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">45</td>
+<td valign="top" align="center">15</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="16" table-order="6" data-type-order="18">
+<table-wrap id="102118188651MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6">There are other times that should be taken into account in the planning of the pilot test, i.e., time to drill a well, and duration of workovers. These are shown in Table 5.</anchoringText>
+<label>Table 5</label>
+<caption>Main CSS parameters. 2,200 ft long well</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Main CSS parameters. 2,200 ft long well</caption-text>
+</formatted-caption>
+<table id="102118188651MS-Tbl_SPi-6" frame="hsides">
+<tbody>
+<tr>
+<td valign="bottom" align="left">
+<i>4 year Cold Prod. + 3 CSS Cycles (7 years)</i>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<i>Oil rate Cold Production: 1,350 BPD</i>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<i>Oil rate Hot Production: 2,000 BPD</i>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<i>Steam flowrate: 4.850 BPD (W.E.)</i>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<i>Specific steam flowrate: 2,2 BPD/ft</i>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<i>Steam quality at bottom hole: 80%</i>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<i>Incremental Cumulative Oil: 1.0 MMbbl</i>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<i>Incremental </i>
+<i>SOR: </i>
+<i>0.88</i>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<i>RF Cold Production: 7.4%</i>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>Incremental RF (CSS): 3,1 %</i>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="18" table-order="7" data-type-order="21">
+<table-wrap id="102118188651MS-tblwrp-7" content-type="structured">
+<anchoringText id="Ancr7">A summary of the more significant parameters for the CSS technology, in this 4,500 ft long well, are shown in Table 6.</anchoringText>
+<label>Table 6</label>
+<caption>Main CSS parameters. 4,500 ft long well</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Main CSS parameters. 4,500 ft long well</caption-text>
+</formatted-caption>
+<table id="102118188651MS-Tbl_SPi-7" frame="hsides">
+<tbody>
+<tr>
+<td valign="bottom" align="left">
+<i>4 year Cold Prod. + 3 CSS Cycles (7 years)</i>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<i>Oil rate Cold Production: 2,300 BPD</i>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<i>Oil rate Hot Production: 3,000 BPD</i>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<i>Steam flowrate: 9,900 BPD (WE.)</i>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<i>Specific steam flowrate: 2,2 BPD/ft</i>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>Steam quality at bottom hole: 80%</i>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<i>Incremental Cumulative Oil: 1,9 MMbbl</i>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<i>Incrementa! SOR: </i>
+<i>0,93</i>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<i>RF Cold Production: 7,7%</i>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>Incremental RF (CSS): 3,5 %</i>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="21" table-order="8" data-type-order="27">
+<table-wrap id="102118188651MS-tblwrp-8" content-type="structured">
+<anchoringText id="Ancr8">Table 7 shows a summary of the more significant parameters for the CSS technology, as well as the results of the economic evaluation, for the two specific steam flow rates analised.</anchoringText>
+<label>Table 7</label>
+<caption>CSS technical and economic results for high and low specific steam flow rate</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>7</caption-order>
+<caption-text>CSS technical and economic results for high and low specific steam flow rate</caption-text>
+</formatted-caption>
+<table id="102118188651MS-Tbl_SPi-8" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Parameters</th>
+<th valign="bottom" align="center">High Specific Steam Rate</th>
+<th valign="bottom" align="center">Low Specific Steam Rate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Incremental cumulative oil (MM bb&#x003C;</td>
+<td valign="top" align="center">13.2</td>
+<td align="center">8.2</td>
+</tr>
+<tr>
+<td valign="top" align="left">Incremental SOR</td>
+<td valign="top" align="center">0.87</td>
+<td valign="top" align="center">0.89</td>
+</tr>
+<tr>
+<td align="left">Cold production RF (%)</td>
+<td align="center">8.0</td>
+<td align="center">8.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">Incremental RF (%)</td>
+<td valign="top" align="center">3.4</td>
+<td align="center">2.1</td>
+</tr>
+<tr>
+<td valign="top" align="left">Incremental NPV before taxes (MM US$]</td>
+<td valign="top" align="center">129</td>
+<td valign="top" align="center">64</td>
+</tr>
+<tr>
+<td valign="top" align="left">Incremental IRR (%)</td>
+<td valign="top" align="center">38</td>
+<td valign="top" align="center">29</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

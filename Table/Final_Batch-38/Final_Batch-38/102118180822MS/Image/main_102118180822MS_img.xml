@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118180822MS.txt" extractionDate="2021-03-24T20:25:21Z">
+<doi>10.2118/180822-MS</doi>
+<pii>10.2118/180822-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr4">Both faults, the main slipping fault and the shearing fault provide the structural closure of columns of oil and gas in the field. The intervened well in its path crosses a fault with a vertical jump no greater than 40 feet with dextral component (transcurrent movement), mechanism by which faults are sealed, preventing communication of fluids. Nevertheless, range of interest is behind the fault mentioned, between 6945 ‘and 8400’ STB. (Figure 1)</anchoringText>
+<image-wrap id="102118180822MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118180822MS_i_1.tif" id="ImgLink-1" />
+<caption>Structural Map_LPD70B-CGP06.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Structural Map_LPD70B-CGP06.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr5">From the petrophysical evaluation, absolute porosities were obtained, along with permeabilities, Gamma Ray logs, Density and Sonic logs for 70_2 sand in the IDE-1 well. The zones of interest were: 1st zone (5775’-5800’) tvd, 2nd zone (5730’-5772’) tvd, 3rd zone (5675’-5715’) tvd. (Table 1,Figure 2). The input PVT information entered for simulation comes from background bottom sampling performed in the AP01-PH well at level of 70_2 reservoir. Pb = 2246 Lpcm, API = 25,3 Rs = 357 PCN/BN, Bo = 1,191 BY/BN, μO = 2,61 Cp and surface conditions 139 psi and 140 °F.</anchoringText>
+<image-wrap id="102118180822MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118180822MS_i_2.tif" id="ImgLink-2" />
+<caption>Petrophysical Evaluation.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Petrophysical Evaluation.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr6">After the petrophysical evaluation, the well nodal analysis was performed completed in the 70_2 sand. Pseudo Steady State equation was used to represent fluid flow in the porous medium and Hagedorn &amp; Brown equation to vertical flow. The results are shown in Figure 3 and Table 2.</anchoringText>
+<image-wrap id="102118180822MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118180822MS_i_3.tif" id="ImgLink-3" />
+<caption>Producion rate vs. Bottom preassure.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Producion rate vs. Bottom preassure.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="4" data-type-order="6">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr7">Figure 4 shows that the system implementation of barrel 7 ‘’ HSD PJO 4505 HMX in the shelling of the 70B sand, generate lower total damage due to the effects of penetration into the formation, reducing pressure drops when producing the hole. In Figure 5, the penetration in the formation produced by each penetration system and load is showed; it is important to notice the loads Power Jet Omega (PJO) beyond the damaged 5 ‘zone’ (low pressure drop) and PF 7018 loading just pass the damaged area with a value of 5.11 area ‘’ generating high pressure drops.</anchoringText>
+<image-wrap id="102118180822MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118180822MS_i_4.tif" id="ImgLink-4" />
+<caption>Behavior of the total damage vs. TPP systems simulated guns for sand 70B</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Behavior of the total damage vs. TPP systems simulated guns for sand 70B</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr8">Figure 4 shows that the system implementation of barrel 7 ‘’ HSD PJO 4505 HMX in the shelling of the 70B sand, generate lower total damage due to the effects of penetration into the formation, reducing pressure drops when producing the hole. In Figure 5, the penetration in the formation produced by each penetration system and load is showed; it is important to notice the loads Power Jet Omega (PJO) beyond the damaged 5 ‘zone’ (low pressure drop) and PF 7018 loading just pass the damaged area with a value of 5.11 area ‘’ generating high pressure drops.</anchoringText>
+<image-wrap id="102118180822MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118180822MS_i_5.tif" id="ImgLink-5" />
+<caption>Performance penetration systems for sand 70B simulated guns.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Performance penetration systems for sand 70B simulated guns.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="6" data-type-order="9">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr9">The first run was performed in order to assess the integrity of primary cementing of the well, where along the recorded range (4300’- 8150’). The cement bond to the casing was corroborated by Usit-CBL tools, showing on the map Acoustic Impedance, excellent distribution of cement around the casing. (Figure 6)</anchoringText>
+<image-wrap id="102118180822MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118180822MS_i_6.tif" id="ImgLink-6" />
+<caption>Run records. Cement quality.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Run records. Cement quality.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="7" data-type-order="10">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr10">In Figure 7, the behavior of the pressure head and line occurs during startup of the well. During the time period in which the well was with reducer 21/64 "a variation was observed in the pressure head, which was associated with the presence of oil in the supply of production. Then, given the initial energy in the well, a tendency to stabilize near 600 psi was observed.</anchoringText>
+<image-wrap id="102118180822MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118180822MS_i_7.tif" id="ImgLink-7" />
+<caption>Behavior pressures.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Behavior pressures.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="8" data-type-order="11">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr11"> </anchoringText>
+<image-wrap id="102118180822MS-Img_SPi-8">
+<imageLink type="mediaResource" href="102118180822MS_i_8.tif" id="ImgLink-8" />
+<caption>Charter guns used with 7 _HSD 4505 PJO HMX (DP) 12 TPP.</caption>
+<formatted-caption>
+<caption-text>Charter guns used with 7 _HSD 4505 PJO HMX (DP) 12 TPP.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="9" data-type-order="12">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr12"> </anchoringText>
+<image-wrap id="102118180822MS-Img_SPi-9">
+<imageLink type="mediaResource" href="102118180822MS_i_9.tif" id="ImgLink-9" />
+<caption>Mechanical diagram</caption>
+<formatted-caption>
+<caption-text>Mechanical diagram</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="10" data-type-order="13">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr13"> </anchoringText>
+<image-wrap id="102118180822MS-Img_SPi-10">
+<imageLink type="mediaResource" href="102118180822MS_i_10.tif" id="ImgLink-10" />
+<caption>Analysis Perforating</caption>
+<formatted-caption>
+<caption-text>Analysis Perforating</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="11" data-type-order="14">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr14"> </anchoringText>
+<image-wrap id="102118180822MS-Img_SPi-11">
+<imageLink type="mediaResource" href="102118180822MS_i_11.tif" id="ImgLink-11" />
+<caption>Electric logs (GR, CCL, VDL, CBL)</caption>
+<formatted-caption>
+<caption-text>Electric logs (GR, CCL, VDL, CBL)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="12" data-type-order="15">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr15"> </anchoringText>
+<image-wrap id="102118180822MS-Img_SPi-12">
+<imageLink type="mediaResource" href="102118180822MS_i_12.tif" id="ImgLink-12" />
+<caption>Perforated intervals</caption>
+<formatted-caption>
+<caption-text>Perforated intervals</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="13" data-type-order="16">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr16"> </anchoringText>
+<image-wrap id="102118180822MS-Img_SPi-13">
+<imageLink type="mediaResource" href="102118180822MS_i_13.tif" id="ImgLink-13" />
+<caption>Arena 70_2 structural map. Well trajectory IDE-1.</caption>
+<formatted-caption>
+<caption-text>Arena 70_2 structural map. Well trajectory IDE-1.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="14" data-type-order="17">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr17"> </anchoringText>
+<image-wrap id="102118180822MS-Img_SPi-14">
+<imageLink type="mediaResource" href="102118180822MS_i_14.tif" id="ImgLink-14" />
+<caption>Layout.</caption>
+<formatted-caption>
+<caption-text>Layout.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189273MS.txt" extractionDate="2021-03-29T17:11:24Z">
+<doi>10.2118/189273-MS</doi>
+<pii>10.2118/189273-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="4" table-order="1" data-type-order="3">
+<table-wrap id="102118189273MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Thus, the shales are expected to be good-quality source rock (Hu et al., 2016). Experiments results showed that several pore types have developed in the P2l reservoir, with the inter- and intragranular dissolved pores, accounting for 62%, followed by residual intergranular pores and microfractures (Hu et al., 2016). The P2l Formation comprises two sweet spots (Cao et al., 2017). The upper sweet spot (P2l22) is better than the lower sweet spot (P2l12) in the reservoir properties (Table 1). The formation has an overburden pressure system with a pressure coefficient 1.27 (avg. 40 MPa).</anchoringText>
+<label>Table 1</label>
+<caption>The reservoir properties for P<sub>2</sub>l</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>The reservoir properties for P<sub>2</sub>l</caption-text>
+</formatted-caption>
+<table id="102118189273MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" align="center">Sweet spot</th>
+<th colspan="2" align="center">Porosity, %</th>
+<th colspan="2" align="center">Permeability, mD</th>
+<th colspan="2" align="center">Oil properties</th>
+</tr>
+<tr>
+<th align="left">Range</th>
+<th align="left">Average</th>
+<th align="left">Range</th>
+<th align="left">Average</th>
+<th align="left">Density, g/cm3</th>
+<th align="left">Viscosity (80 °C), mPa·s</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">P<sub>2</sub>l<sub>2</sub><sup>2</sup></td>
+<td align="left">6.09-25.79</td>
+<td align="left">10.99</td>
+<td align="left">0.001-0.284</td>
+<td align="left">0.012</td>
+<td align="left">0.888</td>
+<td align="left">20.14</td>
+</tr>
+<tr>
+<td align="left">P<sub>2</sub>l<sub>1</sub><sup>2</sup></td>
+<td align="left">6.51-20.72</td>
+<td align="left">11.62</td>
+<td align="left">0.002-2.76</td>
+<td align="left">0.010</td>
+<td align="left">0.918</td>
+<td align="left">42.55</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

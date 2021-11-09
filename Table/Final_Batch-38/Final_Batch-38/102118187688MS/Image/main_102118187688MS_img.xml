@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187688MS.txt" extractionDate="2021-03-26T19:10:45Z">
+<doi>10.2118/187688-MS</doi>
+<pii>10.2118/187688-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr3">The Katangli oilfield is located to the West from the Northern part of the Sakhalin island nearby the Okha city, which is the focal point for oil and gas industry in the region (Figure 1).</anchoringText>
+<image-wrap id="102118187688MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118187688MS_i_1.tif" id="ImgLink-1" />
+<caption>Sakhalin island overview map</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Sakhalin island overview map</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr4">The entire cycle consists of three stages: steam is injected into the well for several weeks [Butler 1991, p 104], then the well is shut and the second stage called soaking begins. During the soaking stage the steam condenses transferring the heat to the oil in the near wellbore zone and reducing oil viscosity. The soaking stage lasts up to two weeks [Speight, p 231]. During the third stage the well is opened to production. Production of oil continues until the rate becomes too small to produce further. At these point a new cycle starts: the well is stimulated with steam once again. Schematically this process is shown on the Figure 2 [1].</anchoringText>
+<image-wrap id="102118187688MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118187688MS_i_2.tif" id="ImgLink-2" />
+<caption>Schematic representation of the cycling steam injection process  [1]  . Injection Soak Production</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Schematic representation of the cycling steam injection process <link href="BIB1"> [1]</link>  . Injection Soak Production</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187688MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118187688MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Injection</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187688MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118187688MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Soak</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187688MS-Img_SPi-2c">
+<imageLink type="mediaResource" href="102118187688MS_i_2c.tif" id="ImgLink-2c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-14" type="bib">
+<bib id="BIB1">
+<label>Al-Mjeni, (Winter 2010/2011)</label>
+<author>
+<first-name>R</first-name>
+<last-name>Al-Mjeni</last-name>
+</author>. and all. <article-title>Has the time come for EOR? Oilfield Review</article-title>
+<pubDate>(Winter 2010/2011)</pubDate>, no<volume> 22(4)</volume>: p <pages>
+<first-page>16</first-page>
+<last-page>35</last-page>
+</pages>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr5">The preliminarily model history matching was performed for the 90 years history period with 40 years of steam injection in order to make sure that the model is able to reproduce the dynamics of the reservoir pressure changes and to obtain the present day pressure and temperature distributions for further production optimization with thermal methods. Figure 3 shows the results of preliminary history matching for the field.</anchoringText>
+<image-wrap id="102118187688MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118187688MS_i_3.tif" id="ImgLink-3" />
+<caption>Results of preliminary history matching for the field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Results of preliminary history matching for the field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr6">The Figure 4 shows the temperature distribution map at the end of the simulation (01 July 2017).</anchoringText>
+<image-wrap id="102118187688MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118187688MS_i_4.tif" id="ImgLink-4" />
+<caption>Temperature distribution map of a sector at the end of the simulation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Temperature distribution map of a sector at the end of the simulation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr7">The results in terms of the initial oil rate and the cumulative oil production for all the simulations are represented in the Figure 5 for a particular well. The summarized results in the form of tornado plots are presented in the Figure 6 for the data at the last time step of the simulation.</anchoringText>
+<image-wrap id="102118187688MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118187688MS_i_5.tif" id="ImgLink-5" />
+<caption>Simulation results for different boundary conditions</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Simulation results for different boundary conditions</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr8">The results in terms of the initial oil rate and the cumulative oil production for all the simulations are represented in the Figure 5 for a particular well. The summarized results in the form of tornado plots are presented in the Figure 6 for the data at the last time step of the simulation.</anchoringText>
+<image-wrap id="102118187688MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118187688MS_i_6.tif" id="ImgLink-6" />
+<caption>Tornado plots showing influence of the input parametes on the final cumulative oil production and water cut (in percents from the base case)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Tornado plots showing influence of the input parametes on the final cumulative oil production and water cut (in percents from the base case)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187688MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118187688MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>final cumulative oil production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187688MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118187688MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>water cut</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr9">In order to perfrom calibration the most representative time section was selected based on the availability of the injection parameters data (pressure at the steam generator and well tubing heads, steam mass injection rate for different wells). A model was built to represent the state of the network, which covered both the surface equipment (from steam generator to the well tubing heads) and the wells (from the tubing head to the bottomhole). The graphical representation of the network surface model is shown on the Figure 7.</anchoringText>
+<image-wrap id="102118187688MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118187688MS_i_7.tif" id="ImgLink-7" />
+<caption>The surface infrastructure network model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>The surface infrastructure network model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr10">The integration point between the two models was taken at the bottom hole (for horizontal well – at the heel), which is graphically represented on the Figure 8.</anchoringText>
+<image-wrap id="102118187688MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118187688MS_i_8.tif" id="ImgLink-8" />
+<caption>Integration models at the bottom hole (heel of the horizontal well)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Integration models at the bottom hole (heel of the horizontal well)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr11">By using the integrated model the network model receives a new range of boundary conditions values in different combinations from the reservoir model. Usually some data sets cannot be successfully run in model because conditions may contradict each other so that the model would not converge. It can serve as an indication that either some measurements are invalid or certain model elements are inconsistent. Figure 9 shows different realizations of the integrated model with varying boundary conditions in time.</anchoringText>
+<image-wrap id="102118187688MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118187688MS_i_9.tif" id="ImgLink-9" />
+<caption>Dependence between steam quality, temperature and mass flow rate</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Dependence between steam quality, temperature and mass flow rate</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="10" data-type-order="11">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr12">If steam quality is high (for example 0.4) and temperature is also higher (around 175 °C), then injected fluid occupies about 10 times more volume compared to water (corresponds to zero quality) at the same pressure. Since the enthalpy of this fluid is more significant and it penetrates deeper in the reservoir, the more oil volume will be heated and thus produced. This is graphically presented in the Figure 10.</anchoringText>
+<image-wrap id="102118187688MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118187688MS_i_10.tif" id="ImgLink-10" />
+<caption>Steam volume vs pressure dependency for different steam quality</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Steam volume vs pressure dependency for different steam quality</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="15" figure-order="11" data-type-order="13">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr13">To evaluate the influence of the injected fluid properties on oil production 4 scenarios were calculated. All scenarios were based on measured field data. The cells colors in the Table 2 correspond to the lines colors in the Figure 11.</anchoringText>
+<image-wrap id="102118187688MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118187688MS_i_11.tif" id="ImgLink-11" />
+<caption>Graphical comparison of scenarios with different steam parameters</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Graphical comparison of scenarios with different steam parameters</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187688MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118187688MS_i_11a.tif" id="ImgLink-11a" />
+</image-wrap>
+<image-wrap id="102118187688MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118187688MS_i_11b.tif" id="ImgLink-11b" />
+</image-wrap>
+<image-wrap id="102118187688MS-Img_SPi-11c">
+<imageLink type="mediaResource" href="102118187688MS_i_11c.tif" id="ImgLink-11c" />
+</image-wrap>
+<image-wrap id="102118187688MS-Img_SPi-11d">
+<imageLink type="mediaResource" href="102118187688MS_i_11d.tif" id="ImgLink-11d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="16" figure-order="12" data-type-order="14">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr14">Using the pressure at the steam generator as a variable, with certain combinations of the steam generator parameters and the well parameters the surface network model cannot find the convergent solution for the temperature and the steam quality, thus, these results are empty at the corresponding time points (Figure 12). These values should be excluded from input parameters as inconsistent data prior to averaging.</anchoringText>
+<image-wrap id="102118187688MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118187688MS_i_12.tif" id="ImgLink-12" />
+<caption>Calculations with steam generator pressure as a variable</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Calculations with steam generator pressure as a variable</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187688MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118187688MS_i_12a.tif" id="ImgLink-12a" />
+</image-wrap>
+<image-wrap id="102118187688MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118187688MS_i_12b.tif" id="ImgLink-12b" />
+</image-wrap>
+<image-wrap id="102118187688MS-Img_SPi-12c">
+<imageLink type="mediaResource" href="102118187688MS_i_12c.tif" id="ImgLink-12c" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="17" figure-order="13" data-type-order="15">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr15">Calculations with different degrees of separation were done to estimate the influence of the separator on the oil production rate, which is shown on the Figure 13.</anchoringText>
+<image-wrap id="102118187688MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118187688MS_i_13.tif" id="ImgLink-13" />
+<caption>Variation of the steam quality and the cumulated oil production based on the separation degree</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Variation of the steam quality and the cumulated oil production based on the separation degree</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187688MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118187688MS_i_13a.tif" id="ImgLink-13a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Steam Quality</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187688MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118187688MS_i_13b.tif" id="ImgLink-13b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Cumulative Oil Production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

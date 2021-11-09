@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118181866MS.txt" extractionDate="2021-03-22T11:51:07Z">
+<doi>10.2118/181866-MS</doi>
+<pii>10.2118/181866-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="4" figure-order="1" data-type-order="4">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr5">The reservoir is assumed to be a single-layer and rectangular system comprised of matrix blocks that is homogeneous and isotropic with dual or single porosity, and horizontal with uniform thickness.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118181866MS_i_1.tif" id="ImgLink-1" />
+<caption>Rectangular reservoir with a horizontal well (orange dotted line) which is located in the center of this geometry</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Rectangular reservoir with a horizontal well (orange dotted line) which is located in the center of this geometry</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="4" figure-order="2" data-type-order="5">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr6">There are three scenarios of simulated cases: Scenario 1 represents pressure transient performance for a horizontal well with multiple-transverse hydraulic fractures in a homogeneous reservoir (Fig. 2) (a); Scenario 2 and Scenario 3 (Fig. 2) (b) a horizontal well with multiple-transverse hydraulic fractures in a completely and partially naturally-fractured reservoir, respectively. In addition, for the last two scenarios, a cased horizontal well where only the part hydraulic fractures are perforated is simulated to characterize the effect of horizontal well.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-2">
+<label>Figure 2</label>
+<imageLink type="mediaResource" href="102118181866MS_i_2.tif" id="ImgLink-2" />
+<caption>Sketch for a horizontal well with multi-stage transverse hydraulic fractures in the center of a homogeneous (a) globally and regionally (b) naturally fractured reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Sketch for a horizontal well with multi-stage transverse hydraulic fractures in the center of a homogeneous (a) globally and regionally (b) naturally fractured reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118181866MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>globally and regionally</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118181866MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>naturally fractured reservoir</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="3" data-type-order="6">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr7">In a homogeneous reservoir condition, the interpretation for flow regimes is identical for simulation performance and Kappa solutions, the dimensionless pressure drop and its corresponding derivative curves show a generally good match Fig3 (a) (b).</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-3">
+<label>Figure 3</label>
+<imageLink type="mediaResource" href="102118181866MS_i_3.tif" id="ImgLink-3" />
+<caption>Contrastive plots of dimensionless pressure and its corresponding derivative responses for a horizontal well with two (a) and four (b) transverse fractures in a homogeneous reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Contrastive plots of dimensionless pressure and its corresponding derivative responses for a horizontal well with two (a) and four (b) transverse fractures in a homogeneous reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118181866MS_i_3a.tif" id="ImgLink-3a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>two</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118181866MS_i_3b.tif" id="ImgLink-3b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>four</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="4" data-type-order="7">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr8">A naturally fractured reservoir (NF): There are two matching log-log plots for horizontal wells with transverse fractures in a naturally fractured reservoir, there is hardly any difference in the general trend of all the curves, the only variations happening at the very early time, shown in Fig. 4(a) (b). This inconsistency can be attributed to the disturbance of unstable bottom pressure data resulting from the intrinsic algorithm for CMG's finite-difference numerical method. In the process of analyzing such a situation, these data are usually not taken into consideration.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-4">
+<label>Figure 4</label>
+<imageLink type="mediaResource" href="102118181866MS_i_4.tif" id="ImgLink-4" />
+<caption>Contrastive plots of dimensionless pressure and its corresponding derivative responses for a horizontal well with two (a) and four(b) transverse fractures in a naturally fractured reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Contrastive plots of dimensionless pressure and its corresponding derivative responses for a horizontal well with two (a) and four(b) transverse fractures in a naturally fractured reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118181866MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>two</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118181866MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>four</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="5" data-type-order="8">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr9">Pressure transient characteristics of Scenario 2 are shown in Fig. 5 (curves labeled as HW+TF). For this figure, the reservoir is assumed to be homogeneous with the properties of the matrix and modeled by using single-porosity options to represent this property. Fig. 4 presents a sketch of the reservoir, the horizontal well and fracture geometry considered in these discussions.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118181866MS_i_5.tif" id="ImgLink-5" />
+<caption>Dimensionless pressure drop and derivative responses of open-holed horizontal wells with multiple transverse fractures in a homogeneous reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Dimensionless pressure drop and derivative responses of open-holed horizontal wells with multiple transverse fractures in a homogeneous reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="6" data-type-order="9">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr10">This behavior might be attributed to simultaneous drainage from the finite-conductivity hydraulic fracture and homogeneous matrix grid. From Fig. 6, we can see that the late-time pseudo-radial flow becomes distinct and recognizable with the increasing of the number of transverse fractures, and pressure derivative responses for horizontal wells with two fractures demonstrate the same fractured interference behavior as those pressure responses with the effect of the horizontal well. A large spacing late-time trend moves close to the four fracture cases becoming one curve while smaller spacing moves to one fracture case.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118181866MS_i_6.tif" id="ImgLink-6" />
+<caption>Dimensionless pressure and derivative performances for cased horizontal wells with different numbers of transverse hydraulic fractures in a homogeneous reservoir where the perforation only happens at the point open to fractures</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Dimensionless pressure and derivative performances for cased horizontal wells with different numbers of transverse hydraulic fractures in a homogeneous reservoir where the perforation only happens at the point open to fractures</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="7" data-type-order="10">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr11">A comparison of the pressure performance for the open-holed and cased horizontal wells in Figs. 7 indicates that the pressure drop for the open-hole horizontal well is smaller than that for the cased horizontal well until the boundary-dominated flow is established. The pressure derivative performance of open-holed horizontal wells would probably present compound linear flow before late-time pseudo-radial flow or boundary dominated flow appears, depending on the dimensions of the reservoir geometry. This situation can be clearly seen in Figs. 7.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118181866MS_i_7.tif" id="ImgLink-7" />
+<caption>Dimensionless pressure and derivative responses for horizontal wells (cased and open-holed) with one transverse hydraulic fracture in a homogeneous reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Dimensionless pressure and derivative responses for horizontal wells (cased and open-holed) with one transverse hydraulic fracture in a homogeneous reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="8" data-type-order="11">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr12">This is the last scenario for my numerical simulation runs. Fig. 8 ~ Fig. 11 present the pressure transient behaviors of the horizontal wells with the same multiple transverse hydraulic fracture combinations considered in scenario 3.2.3 but in global (natural fractures fulfill the entire reservoir), local (natural fractures only exist in grids around wellbore) and homogeneous reservoirs. Fig. 8 shows that pressure derivative responses display flow regimes of a horizontal well with multiple fractures in a globally naturally fractured reservoir starting from linear flow and followed by the characteristic dip of the dual-porosity system. After the dip, intermediate-time linear flow and slight pseudo-radial flow develop. At late times, boundary dominated flow shows the characteristic unit slope line for all cases.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118181866MS_i_8.tif" id="ImgLink-8" />
+<caption>Dimensionless pressure and its corresponding derivative responses for open-holed horizontal wells with multiple transverse hydraulic fractures in a globally naturally fractured reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Dimensionless pressure and its corresponding derivative responses for open-holed horizontal wells with multiple transverse hydraulic fractures in a globally naturally fractured reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="9" data-type-order="12">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr13">We also consider the situation where there is a region of natural fractures area around the transverse hydraulic fractures and horizontal wellbore, shown in Fig. 2 (b). As before, we discuss the four scenarios. Fig. 9 shows the pressure (solid lines) and derivative (solid markers) responses for all four cases shown in Fig. 8. The flow regimes appear, chronologically, as linear flow followed by the characteristic dip of the dual-porosity signature, fracture linear flow, transitional period and the boundary dominated flow.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118181866MS_i_9.tif" id="ImgLink-9" />
+<caption>Dimensionless pressure and its corresponding derivative responses for open-holed horizontal wells with multiple transverse hydraulic fractures in a regionally naturally fractured reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Dimensionless pressure and its corresponding derivative responses for open-holed horizontal wells with multiple transverse hydraulic fractures in a regionally naturally fractured reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="10" data-type-order="13">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr14">Figs. 10 and 11 show their pressure and derivative behaviors for a cased horizontal well in a sizable naturally fractured reservoir. I built four identical cases to compare the results with open-holed horizontal well cases. There is no discernible difference on flow regime between cased and open-holed horizontal wells completed in a naturally fractured reservoir; however, pressure drops are more evident than those of open-holed horizontal wells with the increasing of transverse hydraulic fracture numbers, which shows that the horizontal well helps the drainage of the natural fracture regions. It is important to note that the major difference in the signature of flow regimes occurs at late times when the outer reservoir beyond the hydraulic fracture tips begins to affect.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118181866MS_i_10.tif" id="ImgLink-10" />
+<caption>Dimensionless pressure and its corresponding derivative responses for cased horizontal wells with multi-transverse hydraulic fractures in a globally naturally fractured reservoir where the perforation only happens at the point open to fractures</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Dimensionless pressure and its corresponding derivative responses for cased horizontal wells with multi-transverse hydraulic fractures in a globally naturally fractured reservoir where the perforation only happens at the point open to fractures</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="11" data-type-order="14">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr15">This is the last scenario for my numerical simulation runs. Fig. 8 ~ Fig. 11 present the pressure transient behaviors of the horizontal wells with the same multiple transverse hydraulic fracture combinations considered in scenario 3.2.3 but in global (natural fractures fulfill the entire reservoir), local (natural fractures only exist in grids around wellbore) and homogeneous reservoirs. Fig. 8 shows that pressure derivative responses display flow regimes of a horizontal well with multiple fractures in a globally naturally fractured reservoir starting from linear flow and followed by the characteristic dip of the dual-porosity system. After the dip, intermediate-time linear flow and slight pseudo-radial flow develop. At late times, boundary dominated flow shows the characteristic unit slope line for all cases.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118181866MS_i_11.tif" id="ImgLink-11" />
+<caption>Dimensionless pressure and its corresponding derivative responses for cased horizontal wells with multi-transverse hydraulic fractures in a regionally naturally fractured reservoir where the perforation only happens at the point open to fractures</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Dimensionless pressure and its corresponding derivative responses for cased horizontal wells with multi-transverse hydraulic fractures in a regionally naturally fractured reservoir where the perforation only happens at the point open to fractures</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="12" data-type-order="15">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr16">The sketch of numerical triple porosity model is shown in Fig. 12, in which the arrows indicate the fluid flow direction (Al-Ahmadi, 2010) and a numerical-simulated triple-porosity model is generated by CMG to see if numerical method could be used to model more complex situations where the natural fracture system and matrix are modeled by a triple-porosity approximation. The comparison matching results are plotted in Fig 13 below to illustrate pressure drop and its corresponding derivative responses.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118181866MS_i_12.tif" id="ImgLink-12" />
+<caption>Top view of triple porosity model generated by CMG simulation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Top view of triple porosity model generated by CMG simulation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="13" data-type-order="16">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr17">The sketch of numerical triple porosity model is shown in Fig. 12, in which the arrows indicate the fluid flow direction (Al-Ahmadi, 2010) and a numerical-simulated triple-porosity model is generated by CMG to see if numerical method could be used to model more complex situations where the natural fracture system and matrix are modeled by a triple-porosity approximation. The comparison matching results are plotted in Fig 13 below to illustrate pressure drop and its corresponding derivative responses.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118181866MS_i_13.tif" id="ImgLink-13" />
+<caption>Contrastive plots of dimensionless pressure and its corresponding derivative</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Contrastive plots of dimensionless pressure and its corresponding derivative</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="14" data-type-order="17">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr18">Most of the production from the middle Bakken has been high-quality oil with API 40°, and monthly production data of those wells for analysis within the investigation area is in the Viewfield pool and were found at an average depth of about 1500 m, with multi-stage hydraulic fracturing. The sketched view for the location of Williston Basin and the Viewfield area within the basin are shown in Fig. 14 (Barry T, Hlidek and Brad Rieb (2011)).</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118181866MS_i_14.tif" id="ImgLink-14" />
+<caption>Geological location of Bakken formation in Williston Basin (Barry T, Hlidek and Brad Rieb (2011))</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Geological location of Bakken formation in Williston Basin (Barry T, Hlidek and Brad Rieb (2011))</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="15" data-type-order="18">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr19">There are two periods showing linear flow which illustrates a staircase in the logarithm plot, probably contributed from the compound linear flow outside of the hydraulic fractured area which is known as "stimulated reservoir volume (SRV)". Type I production trend can be divided into two linear flow periods which exited a stepped transition within as we can see from Fig. 15, the reservoir characteristics can be described as that the production is declining initially due to the rapid drainage of oil linearly flowing from the hydraulic fracture into the horizontal wellbore which is characterized by half slope indication, the second linear flow decline could be considered to be the fluid support from the surrounding matrix which flows normally to the fracture face or compound linear flow from the area beyond the wellbore/hydraulic fracture system.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118181866MS_i_15.tif" id="ImgLink-15" />
+<caption>Type 1 – type 4 log-log plot of oil production rate versus time</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Type 1 – type 4 log-log plot of oil production rate versus time</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="15" figure-order="16" data-type-order="19">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr20">Four wells typically chosen from type one to four are selected for history matching performances with analytical and simulation models: Well ID 191/01-33-006-09W2/00 (4414) is considered as well #1, Well ID 191/04-24-006-08W2/00 (4330) as well #2, Well ID 191/14-09-010-07W2/00 (4414) as well #3 and lastly Well ID 191/14-02-009-09W2/00 (4414) as well #4, selected wells from all four types with unique flow regimes indication are shown in Fig 16.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118181866MS_i_16.tif" id="ImgLink-16" />
+<caption>log-log plot of production history of four selected wells from type 1 to type 4, respectively</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>log-log plot of production history of four selected wells from type 1 to type 4, respectively</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-16a">
+<imageLink type="mediaResource" href="102118181866MS_i_16a.tif" id="ImgLink-16a" />
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-16b">
+<imageLink type="mediaResource" href="102118181866MS_i_16b.tif" id="ImgLink-16b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-16c">
+<imageLink type="mediaResource" href="102118181866MS_i_16c.tif" id="ImgLink-16c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-16d">
+<imageLink type="mediaResource" href="102118181866MS_i_16d.tif" id="ImgLink-16d" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="6" pdf-page="16" figure-order="17" data-type-order="20">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr21">In Fig. 17, it provides us with a recognizable matching performance for well producing selected from type 1. In general, the matching behavior did not show a very good consistency for this kind of decline trend with the presence of nearly two parallel linear flows stepped as a staircase, especially for the second linear flow indication. Of course, the manifestation of linearity of the later linear flow is instinctively disrupted by accuracy of production rate, because for almost all actual wells, the applicability and accuracy of the raw flow rate is a challenge for reservoir engineers when doing production data analysis without the assistance of interpreting timely pressure data.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-17">
+<label>Figure 17</label>
+<imageLink type="mediaResource" href="102118181866MS_i_17.tif" id="ImgLink-17" />
+<caption>log-log plot of historical production matched performance for well #1 (ID 191/01-33-006-09W2/00 (4414)) from type 1using different empirical rate-time relations</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>log-log plot of historical production matched performance for well #1 (ID 191/01-33-006-09W2/00 (4414)) from type 1using different empirical rate-time relations</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-17a">
+<imageLink type="mediaResource" href="102118181866MS_i_17a.tif" id="ImgLink-17a" />
+<figure-specific-caption>
+<caption-text>Arps</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-17b">
+<imageLink type="mediaResource" href="102118181866MS_i_17b.tif" id="ImgLink-17b" />
+<figure-specific-caption>
+<caption-text>PLE</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-17c">
+<imageLink type="mediaResource" href="102118181866MS_i_17c.tif" id="ImgLink-17c" />
+<figure-specific-caption>
+<caption-text>SEPD</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-17d">
+<imageLink type="mediaResource" href="102118181866MS_i_17d.tif" id="ImgLink-17d" />
+<figure-specific-caption>
+<caption-text>Duong</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-17e">
+<imageLink type="mediaResource" href="102118181866MS_i_17e.tif" id="ImgLink-17e" />
+<figure-specific-caption>
+<caption-text>LGM</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-17f">
+<imageLink type="mediaResource" href="102118181866MS_i_17f.tif" id="ImgLink-17f" />
+<figure-specific-caption>
+<caption-text>Comprehensive</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="6" pdf-page="17" figure-order="18" data-type-order="21">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr22">Well #2 has been experiencing a long-time linear flow for the duration of almost two log circles of its production history. All these five empirical methods showed a decent and tolerable consistency from Fig 18, specifically for LGM and SEPD; the matching accuracy has reached an extent that could explain the well production behavior but overall tends to overestimate the future production. The Power Law Exponential model lately seems to be able to not over-predict performance but generally lacks accuracy and compatibility with historic production data of this well.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-18">
+<label>Figure 18</label>
+<imageLink type="mediaResource" href="102118181866MS_i_18.tif" id="ImgLink-18" />
+<caption>log-log plot of historical production matched performance for well #2 (ID 191/04-24-006-08W2/00 (4330)) from type 1using different empirical rate-time relations</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>log-log plot of historical production matched performance for well #2 (ID 191/04-24-006-08W2/00 (4330)) from type 1using different empirical rate-time relations</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-18a">
+<imageLink type="mediaResource" href="102118181866MS_i_18a.tif" id="ImgLink-18a" />
+<figure-specific-caption>
+
+<caption-text>Arps</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-18b">
+<imageLink type="mediaResource" href="102118181866MS_i_18b.tif" id="ImgLink-18b" />
+<figure-specific-caption>
+<caption-text>PLE</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-18c">
+<imageLink type="mediaResource" href="102118181866MS_i_18c.tif" id="ImgLink-18c" />
+<figure-specific-caption>
+<caption-text>SEPD</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-18d">
+<imageLink type="mediaResource" href="102118181866MS_i_18d.tif" id="ImgLink-18d" />
+<figure-specific-caption>
+<caption-text>Duong</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-18e">
+<imageLink type="mediaResource" href="102118181866MS_i_18e.tif" id="ImgLink-18e" />
+<figure-specific-caption>
+<caption-text>LGM</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-18f">
+<imageLink type="mediaResource" href="102118181866MS_i_18f.tif" id="ImgLink-18f" />
+<figure-specific-caption>
+<caption-text>Comprehensive</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="6" pdf-page="17" figure-order="19" data-type-order="22">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr23">Well #3 is chosen from type III as a typical combination of bilinear and linear flow sets. The matching performances are shown above in Fig. 19, from which we can see that very few of these rate-time relations could explain the flow behavior for this type of well except for the Stretched Exponential Model (SEPD) which did not fall straight downward when reaching the second linear flow period. All the other three methods tend to deviate this linear behavior and approach inwardly trying to meet the horizontal axis which may result in underestimating when predicting the future production and performing the estimation of ultimate recovery.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-19">
+<label>Figure 19</label>
+<imageLink type="mediaResource" href="102118181866MS_i_19.tif" id="ImgLink-19" />
+<caption>log-log plot of historical production matched performance for well #3(ID 191/14-09-010-07W2/00 (4414)) from type 3 using different empirical rate-time relations</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>log-log plot of historical production matched performance for well #3(ID 191/14-09-010-07W2/00 (4414)) from type 3 using different empirical rate-time relations</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-19a">
+<imageLink type="mediaResource" href="102118181866MS_i_19a.tif" id="ImgLink-19a" />
+<figure-specific-caption>
+<caption-text>Arps</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-19b">
+<imageLink type="mediaResource" href="102118181866MS_i_19b.tif" id="ImgLink-19b" />
+<figure-specific-caption>
+<caption-text>PLE</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-19c">
+<imageLink type="mediaResource" href="102118181866MS_i_19c.tif" id="ImgLink-19c" />
+<figure-specific-caption>
+<caption-text>SEPD</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-19d">
+<imageLink type="mediaResource" href="102118181866MS_i_19d.tif" id="ImgLink-19d" />
+<figure-specific-caption>
+<caption-text>Duong</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-19e">
+<imageLink type="mediaResource" href="102118181866MS_i_19e.tif" id="ImgLink-19e" />
+<figure-specific-caption>
+<caption-text>LGM</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-19f">
+<imageLink type="mediaResource" href="102118181866MS_i_19f.tif" id="ImgLink-19f" />
+<figure-specific-caption>
+<caption-text>Comprehensive</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="6" pdf-page="18" figure-order="20" data-type-order="23">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr24">The last type presents a combination of bilinear, linear and boundary dominated flows. From an overall point of view of Fig.20, all rate-time empirical models performed badly, not only from the aspect of matching and especially when it comes to the last unit slope shape, but also in evaluations considering the prediction of future production approximation. Duong's method looks as if it could give us hope as the last flow trend seems to match with this method. Using conventional empirical methods to estimate or predict future production trends is dangerous. Most importantly, a less-than-perfect history match process could not be reached with these methods for analyzing unconventional oil exploration.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-20">
+<label>Figure 20</label>
+<imageLink type="mediaResource" href="102118181866MS_i_20.tif" id="ImgLink-20" />
+<caption>log-log plot of historical production matched performance for well #4(ID 191/14-02-009-09W2/00 (4414)) from type 4 using different empirical rate-time relations</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>log-log plot of historical production matched performance for well #4(ID 191/14-02-009-09W2/00 (4414)) from type 4 using different empirical rate-time relations</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-20a">
+<imageLink type="mediaResource" href="102118181866MS_i_20a.tif" id="ImgLink-20a" />
+<figure-specific-caption>
+<caption-text>Arps</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-20b">
+<imageLink type="mediaResource" href="102118181866MS_i_20b.tif" id="ImgLink-20b" />
+<figure-specific-caption>
+<caption-text>PLE</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-20c">
+<imageLink type="mediaResource" href="102118181866MS_i_20c.tif" id="ImgLink-20c" />
+<figure-specific-caption>
+<caption-text>SEPD</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-20d">
+<imageLink type="mediaResource" href="102118181866MS_i_20d.tif" id="ImgLink-20d" />
+<figure-specific-caption>
+<caption-text>Duong</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-20e">
+<imageLink type="mediaResource" href="102118181866MS_i_20e.tif" id="ImgLink-20e" />
+<figure-specific-caption>
+<caption-text>LGM</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-20f">
+<imageLink type="mediaResource" href="102118181866MS_i_20f.tif" id="ImgLink-20f" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Comprehensive</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="19" figure-order="21" data-type-order="24">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr25">The type-curves shown in Fig. 21(a) are formulated and generated by modeling numerical simulation featuring commercial engineering software CMG (computer modeling group). These production decline curves are the pressure transient equivalence of Scenario 2 under constant flowing bottom-hole pressure production constraints. Well-test variable dimensionless rate and dimensionless time are used for the graphic method for the x-axis and y-axis, and the dimensionless forms of production rate and time for standard well-test analysis is defined as:</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-21">
+<label>Figure 21</label>
+<imageLink type="mediaResource" href="102118181866MS_i_21.tif" id="ImgLink-21" />
+<caption>log-log plot of historical production matched performance for well #1(ID 191/01-33-006-09W2/00 (4414)) from type 1 with simulation type-curves</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>21</caption-order>
+<caption-text>log-log plot of historical production matched performance for well #1(ID 191/01-33-006-09W2/00 (4414)) from type 1 with simulation type-curves</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-21a">
+<imageLink type="mediaResource" href="102118181866MS_i_21a.tif" id="ImgLink-21a" />
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-21b">
+<imageLink type="mediaResource" href="102118181866MS_i_21b.tif" id="ImgLink-21b" />
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-21c">
+<imageLink type="mediaResource" href="102118181866MS_i_21c.tif" id="ImgLink-21c" />
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-21d">
+<imageLink type="mediaResource" href="102118181866MS_i_21d.tif" id="ImgLink-21d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="22" data-type-order="25">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr26">Evaluation of production performances for wells from Dodsland Viking formation, Western Saskatchewan (Fig 22)</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-22">
+<label>Figure 22 </label>
+<imageLink type="mediaResource" href="102118181866MS_i_22.tif" id="ImgLink-22" />
+<caption>Viking Formation in Western Canada (Excerpted from Canadianoilstock)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>22</caption-order>
+<caption-text>Viking Formation in Western Canada (Excerpted from Canadianoilstock)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="23" data-type-order="26">
+<link href="link-23" type="image" />
+<appendix>
+<linkTarget id="link-23" type="image">
+<anchoringText id="Ancr27">Five aforementioned Empirical decline models which were used on Bakken horizontal wells and type-curves generated by numerical simulation are compared for accessing matching performances. Fracture or formation linear flow are the dominant flow behavior through the identification of flow regimes by production decline analysis of multi-staged hydraulically fractured horizontal wells which is evidenced by Fig. 23. Long-term linear flow indicated by a definitive black dotted half-slope line followed by a transition period leading to the final unit slope shape which is a characterization of bounded flow regime.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-23">
+<label>Figure 23 </label>
+<imageLink type="mediaResource" href="102118181866MS_i_23.tif" id="ImgLink-23" />
+<caption>log-log plot of monthly oil production rate against material balance time for wells from Dodsland Viking Formation (SPE 162813 has done the similar decline analysis for these 7 horizontal wells)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>23</caption-order>
+<caption-text>log-log plot of monthly oil production rate against material balance time for wells from Dodsland Viking Formation (SPE 162813 has done the similar decline analysis for these 7 horizontal wells)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="6" pdf-page="23" figure-order="24" data-type-order="27">
+<link href="link-24" type="image" />
+<appendix>
+<linkTarget id="link-24" type="image">
+<anchoringText id="Ancr28">Fig. 24 shows that Arps' rate-time relations could give a reasonable forecast. The transient linear flow exhibits a duration of one log cycle. The power law exponential model also gives a feasible matching result. The stretched-exponential model (SEPD) also matches well from transient linear flow until the late bounded flow regime. The last two analytical methods could not explain the flow behavior, especially for the early transient flow period. Duong's model tends to be concave down earlier without matching the intermediate-time linear trend, and would overestimate the ultimate recovery in the future from the matching plot.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-24">
+<label>Figure 24</label>
+<imageLink type="mediaResource" href="102118181866MS_i_24.tif" id="ImgLink-24" />
+<caption>log-log plot of historical production matched performance for well 193/07-33-030</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>24</caption-order>
+<caption-text>log-log plot of historical production matched performance for well 193/07-33-030</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-24a">
+<imageLink type="mediaResource" href="102118181866MS_i_24a.tif" id="ImgLink-24a" />
+<figure-specific-caption>
+<caption-text>Arps</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-24b">
+<imageLink type="mediaResource" href="102118181866MS_i_24b.tif" id="ImgLink-24b" />
+<figure-specific-caption>
+<caption-text>PLE</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-24c">
+<imageLink type="mediaResource" href="102118181866MS_i_24c.tif" id="ImgLink-24c" />
+<figure-specific-caption>
+<caption-text>SEPD</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-24d">
+<imageLink type="mediaResource" href="102118181866MS_i_24d.tif" id="ImgLink-24d" />
+<figure-specific-caption>
+<caption-text>Duong</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-24e">
+<imageLink type="mediaResource" href="102118181866MS_i_24e.tif" id="ImgLink-24e" />
+<figure-specific-caption>
+<caption-text>LGM</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-24f">
+<imageLink type="mediaResource" href="102118181866MS_i_24f.tif" id="ImgLink-24f" />
+<figure-specific-caption>
+<caption-text>Comprehensive</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="24" figure-order="25" data-type-order="28">
+<link href="link-25" type="image" />
+<appendix>
+<linkTarget id="link-25" type="image">
+<anchoringText id="Ancr29">A semi-analytical model (Zhao, 2016) are used for field data interpretation and decline analysis of well (191/14-02-009-09w2/00) and for comparison with numerical methods on history matching performances and reservoir characteristics. The field data are for a multistage fracturing horizontal well located in south-east Saskatchewan with a depth of 7800 feet. The production data is publically available and is shown in Fig. 25 and Fig. 26. The general reservoir properties used in this study are listed in Table 4.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-25">
+<label>Figure 25 </label>
+<imageLink type="mediaResource" href="102118181866MS_i_25.tif" id="ImgLink-25" />
+<caption>Publically available fluid production data</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>25</caption-order>
+<caption-text>Publically available fluid production data</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="24" figure-order="26" data-type-order="29">
+<link href="link-26" type="image" />
+<appendix>
+<linkTarget id="link-26" type="image">
+<anchoringText id="Ancr30">A semi-analytical model (Zhao, 2016) are used for field data interpretation and decline analysis of well (191/14-02-009-09w2/00) and for comparison with numerical methods on history matching performances and reservoir characteristics. The field data are for a multistage fracturing horizontal well located in south-east Saskatchewan with a depth of 7800 feet. The production data is publically available and is shown in Fig. 25 and Fig. 26. The general reservoir properties used in this study are listed in Table 4.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-26">
+<label>Figure 26 </label>
+<imageLink type="mediaResource" href="102118181866MS_i_26.tif" id="ImgLink-26" />
+<caption>Fluid Production rate and cumulative fluid production plotted versus material balance time</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>26</caption-order>
+<caption-text>Fluid Production rate and cumulative fluid production plotted versus material balance time</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="25" figure-order="27" data-type-order="31">
+<link href="link-27" type="image" />
+<appendix>
+<linkTarget id="link-27" type="image">
+<anchoringText id="Ancr31">The general Bakken formation reservoir permeability and porosity data with range can also help reach a better final matching. Nevertheless, given the huge challenge a reasonable match for flow regime and production rate have been reached successfully, as shown in Fig. 27. The final results offer values of kh = 2.35 md-ft and k=0.089 md based on reservoir thickness of 26.25 ft. The product of porosity and compressibility is 1.72 × 10-8 psi-1.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-27">
+<label>Figure 27 </label>
+<imageLink type="mediaResource" href="102118181866MS_i_27.tif" id="ImgLink-27" />
+<caption>Flow regime and production rate matching</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>27</caption-order>
+<caption-text>Flow regime and production rate matching</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="5" pdf-page="26" figure-order="28" data-type-order="32">
+<link href="link-28" type="image" />
+<appendix>
+<linkTarget id="link-28" type="image">
+<anchoringText id="Ancr32">The calculated EUR results are summarized in Fig. 28 based on five decline methods exited in the petroleum industry which could be used to account for the decline curve behavior of unconventional reservoirs. From a whole point of view, the ultimate recovery was estimated on 100 days, 500 days, 1000 days, 2000 days and 5000 days which were drawn as columns marked in different colors for these expected production date.</anchoringText>
+<image-wrap id="102118181866MS-Img_SPi-28">
+<label>Figure 28</label>
+<imageLink type="mediaResource" href="102118181866MS_i_28.tif" id="ImgLink-28" />
+<caption>Expected estimated ultimate recovery prediction results from five empirical decline analyses</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>28</caption-order>
+<caption-text>Expected estimated ultimate recovery prediction results from five empirical decline analyses</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-28a">
+<imageLink type="mediaResource" href="102118181866MS_i_28a.tif" id="ImgLink-28a" />
+<figure-specific-caption>
+<caption-text>ID 191/01-33-006-09W2/00(4414)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-28b">
+<imageLink type="mediaResource" href="102118181866MS_i_28b.tif" id="ImgLink-28b" />
+<figure-specific-caption>
+<caption-text>ID 191/04-24-006-08W2/00(4330)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-28c">
+<imageLink type="mediaResource" href="102118181866MS_i_28c.tif" id="ImgLink-28c" />
+<figure-specific-caption>
+<caption-text>ID 191/14-09-010-07W2/00(4414)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-28d">
+<imageLink type="mediaResource" href="102118181866MS_i_28d.tif" id="ImgLink-28d" />
+<figure-specific-caption>
+<caption-text>ID 191/14-02-009-09W2/00(4414)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181866MS-Img_SPi-28e">
+<imageLink type="mediaResource" href="102118181866MS_i_28e.tif" id="ImgLink-28e" />
+<figure-specific-caption>
+<caption-text>ID 193/07-33-030-22W3/00</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,1051 @@
+﻿<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8" ></head><div>
+<div><b>Meta Informations:</b><p>SPE_Society_of_Petroleum_Engineers</p><p>DOI: 10.2118/185648-MS<br>PII: 10.2118/185648-MS<br></p></div>
+<div>
+<div pdf-page="2" figure-order="1" data-type-order="1">
+<a href="#link-1"> </a>
+<div>
+<p id="Ancr6">Passive satellite systems measure the radiation from the sun that is reflected to the satellite off the Earth to record information about the Earth, whereas active satellite systems, such as radar, send a signal to the Earth s surface from the satellite and measure the signal that is reflected from the Earth. As the satellite passes over the Earth its antenna sends out a radar pulse with wavelengths of 3 to 24 cm depending on the satellite (Fig. 1).</p><div id="link-1">
+
+<div id="102118185648MS-Img_SPi-1"><figure>
+
+<img id="ImgLink-1" src="102118185648MS_i_1.tif" alt="102118185648MS_i_1" ><br>
+<figcaption><b>Fig 1</b> Illustration of wavelengths and bands used for InSAR by different satellites</figcaption>
+<p>Fig 1 Illustration of wavelengths and bands used for InSAR by different satellites </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="2" figure-order="2" data-type-order="2">
+<a href="#link-2"> </a>
+<div>
+<p id="Ancr7">At the same time the satellite records the return pulse that is reflected back. The opacity of the atmosphere is close to zero to these wavelengths. During processing, the phase of the return pulse is compared to the phase of the pulse from an earlier pass of the satellite (Fig. 2).</p><div id="link-2">
+
+<div id="102118185648MS-Img_SPi-2"><figure>
+
+<img id="ImgLink-2" src="102118185648MS_i_2.tif" alt="102118185648MS_i_2" ><br>
+<figcaption><b>Fig 2</b> Radar pulses from successive passes are compared and the phase differences calculated</figcaption>
+<p>Fig 2 Radar pulses from successive passes are compared and the phase differences calculated </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="3" figure-order="3" data-type-order="3">
+<a href="#link-3"> </a>
+<div>
+<p id="Ancr8">The figure below shows how we derive deformation from a difference in phase. If the Earth’s surface subsides, the emitted radar signal has to travel a further distance to reach the surface. This results in an extra fraction of the radar wave being reflected and recorded, known as the phase difference (shown in red). The recorded images are 2 D arrays of pixels with each pixel having data about phase and amplitude of the return signal (Fig. 3).</p><div id="link-3">
+
+<div id="102118185648MS-Img_SPi-3"><figure>
+
+<img id="ImgLink-3" src="102118185648MS_i_3.tif" alt="102118185648MS_i_3" ><br>
+<figcaption><b>Fig 3</b> Raw data is processed to provide amplitude and phase information</figcaption>
+<p>Fig 3 Raw data is processed to provide amplitude and phase information </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="3" figure-order="4" data-type-order="4">
+<a href="#link-4"> </a>
+<div>
+<p id="Ancr9">The phase differences are typically displayed initially as Interferograms that are color-scaled by radians of the wavelength (Fig. 4). However, because InSAR measures change in wave phase, a step called: phase unwrapping "needs to be done in the processing to account for any phase ambiguity. This is because only relative differences are determined and the integer number of wavelengths that the signal has travelled back and forth is unknown.</p><div id="link-4">
+
+<div id="102118185648MS-Img_SPi-4"><figure>
+
+<img id="ImgLink-4" src="102118185648MS_i_4.tif" alt="102118185648MS_i_4" ><br>
+<figcaption><b>Fig 4</b> Subtraction of the phases between two passes results in an ‘Interferogram’</figcaption>
+<p>Fig 4 Subtraction of the phases between two passes results in an ‘Interferogram’ </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="3" figure-order="5" data-type-order="5">
+<a href="#link-5"> </a>
+<div>
+<p id="Ancr10">The radar pulses are not affected by visible light or low levels of cloud cover so acquisition is not limited to days that are sunny and cloud-free (Fig. 5). However, large amounts of atmospheric moisture slow the microwave energy, causing noise affecting the ground deformation signal.</p><div id="link-5">
+
+<div id="102118185648MS-Img_SPi-5"><figure>
+
+<img id="ImgLink-5" src="102118185648MS_i_5.tif" alt="102118185648MS_i_5" ><br>
+<figcaption><b>Fig 5</b> InSAR is not affected by cloud cover or availability of light</figcaption>
+<p>Fig 5 InSAR is not affected by cloud cover or availability of light </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="4" figure-order="6" data-type-order="6">
+<a href="#link-6"> </a>
+<div>
+<p id="Ancr11">The quality and amount of radar signal reflected back to the satellite depends upon the reflection characteristics of the ground (Fig, 6).</p><div id="link-6">
+
+<div id="102118185648MS-Img_SPi-6"><figure>
+
+<img id="ImgLink-6" src="102118185648MS_i_6.tif" alt="102118185648MS_i_6" ><br>
+<figcaption><b>Fig 6</b> Amount of microwave signal back-scattered depends on the ‘quality’ of the ground surface</figcaption>
+<p>Fig 6 Amount of microwave signal back-scattered depends on the ‘quality’ of the ground surface </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="4" figure-order="7" data-type-order="7">
+<a href="#link-7"> </a>
+<div>
+<p id="Ancr12">If the dominant reflections within a resolution cell are consistent enough throughout the measurement timespan, they can be used as discrete InSAR measurement points and are called Persistent Scatterers (PS). Buildings, roads, outcrops, and radar reflectors at GPS-defined locations are often used as PS points. Coherent and incoherent changes can be detected over time and interpreted using the Persistent Scatterer InSAR (PS-InSAR) technique. This uses a stack of slave radar images that are co-registered to a master radar image that has good geometry, high coherence, and low atmospheric effects (Fig. 7).</p><div id="link-7">
+
+<div id="102118185648MS-Img_SPi-7"><figure>
+
+<img id="ImgLink-7" src="102118185648MS_i_7.tif" alt="102118185648MS_i_7" ><br>
+<figcaption><b>Fig 7</b> Persistent Scatterer (PS) points remain coherent through time</figcaption>
+<p>Fig 7 Persistent Scatterer (PS) points remain coherent through time </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="5" figure-order="8" data-type-order="8">
+<a href="#link-8"> </a>
+<div>
+<p id="Ancr13">InSAR satellites are on polar, sun-synchronous orbits so, as the Earth rotates from west to east beneath them, they cover the same exact swath or strip of the Earth’s surface along the path azimuth at regular intervals of time that are unique to each satellite. (Fig. 8).</p><div id="link-8">
+
+<div id="102118185648MS-Img_SPi-8"><figure>
+
+<img id="ImgLink-8" src="102118185648MS_i_8.tif" alt="102118185648MS_i_8" ><br>
+<figcaption><b>Fig 8</b> Terms used to describe satellite orbits and the data acquired</figcaption>
+<p>Fig 8 Terms used to describe satellite orbits and the data acquired </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="7" figure-order="9" data-type-order="9">
+<a href="#link-9"> </a>
+<div>
+<p id="Ancr14">These are made by subtracting the phase data of the current revisit from the phase data of the previous revisit (see Fig. 4). They are initially scaled in radians with each fringe (one 'rainbow') corresponding to positive or negative deformation in the line of sight, relative to the satellites’s operating wavelength (Fig, 9).</p><div id="link-9">
+
+<div id="102118185648MS-Img_SPi-9"><figure>
+
+<img id="ImgLink-9" src="102118185648MS_i_9.tif" alt="102118185648MS_i_9" ><br>
+<figcaption><b>Fig 9</b> Interferogram scaled in radians</figcaption>
+<p>Fig 9 Interferogram scaled in radians </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="7" figure-order="10" data-type-order="10">
+<a href="#link-10"> </a>
+<div>
+<p id="Ancr15">The range of vertical deformation also has to be scaled positive (uplift) and negative (subsidence) using stable areas in the peripheral buffer zones as zero baselines. Time lapse profile plots can also be made for key areas in the AOI (Fig. 10).</p><div id="link-10">
+
+<div id="102118185648MS-Img_SPi-10"><figure>
+
+<img id="ImgLink-10" src="102118185648MS_i_10.tif" alt="102118185648MS_i_10" ><br>
+<figcaption><b>Fig 10</b> Interferogram (scaled in mm/yr of deformation) and Time Lapse Profile Plot</figcaption>
+<p>Fig 10 Interferogram (scaled in mm/yr of deformation) and Time Lapse Profile Plot </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="9" figure-order="11" data-type-order="11">
+<a href="#link-11"> </a>
+<div>
+<p id="Ancr16">The balancing is generally done per pattern of wells or by groups of patterns. If the VRR is over 1 then the reservoir may swell or injection might move out of zone. If the VRR is below 1 then the reservoir will lose drive energy and, especially for fluidsupported reservoirs like diatomite, may compact (Fig. 11).</p><div id="link-11">
+
+<div id="102118185648MS-Img_SPi-11"><figure>
+
+<img id="ImgLink-11" src="102118185648MS_i_11.tif" alt="102118185648MS_i_11" ><br>
+<figcaption><b>Fig 11</b> Ideal Voidage Replacement Ratio (VRR) of 1.0 (areally and vertically) is difficult to maintain</figcaption>
+<p>Fig 11 Ideal Voidage Replacement Ratio (VRR) of 1.0 (areally and vertically) is difficult to maintain </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="10" figure-order="12" data-type-order="13">
+<a href="#link-12"> </a>
+<div>
+<p id="Ancr17">The poster child for demonstrating the application and value of InSAR is the giant Belridge oil field in the southwest part of the San Joaquin valley, California (Fig. 12). It is thought to be the most heavily published field in the world because of its variety of complex reservoirs and assortment of problems caused by the Diatomite reservoirs of the Miocene Monterey formation.</p><div id="link-12">
+
+<div id="102118185648MS-Img_SPi-12"><figure>
+
+<img id="ImgLink-12" src="102118185648MS_i_12.tif" alt="102118185648MS_i_12" ><br>
+<figcaption><b>Fig 12</b> Location map showing pool production limits, Belridge Field, California</figcaption>
+<p>Fig 12 Location map showing pool production limits, Belridge Field, California </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="11" figure-order="13" data-type-order="15">
+<a href="#link-13"> </a>
+<div>
+<p id="Ancr18">Although the average oil saturation is a low 40-60, the porosity ranges from 55 % to 70 % so the amount of oil stored in given volume (e.g., an acre/ft) is very large (Allan, 2010). Matrix permeability is around 0.1 to 2.0 md – fairly typical for the grain and particle size (Fig. 13). However, the diatomite is fluid-supported and highly compressible (about 300 microsips compressibility) so it easily compacts or swells if reservoir pressure is not maintained by balancing injection to production (de Rouffignac, 1995).</p><div id="link-13">
+
+<div id="102118185648MS-Img_SPi-13"><figure>
+
+<img id="ImgLink-13" src="102118185648MS_i_13.tif" alt="102118185648MS_i_13" ><br>
+<figcaption><b>Fig 13</b> SEM photo of Belridge Diatomite illustrating high porosity and low permeability</figcaption>
+<p>Fig 13 SEM photo of Belridge Diatomite illustrating high porosity and low permeability </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="12" figure-order="14" data-type-order="17">
+<a href="#link-14"> </a>
+<div>
+<p id="Ancr19">Although the changes in ground elevation are muted and smoothed compared to the changes in the reservoir, the ground surface moves up or down by amounts detectable with InSAR as small vertical elevation changes covering large areas. Our typical pixel density of about 20,000 points per sq. km (50,000$ points per sq. mile) clearly indicates the areas where the surface has gone up or down between the 11 -day InSA R revisits (Fig. 14).</p><div id="link-14">
+
+<div id="102118185648MS-Img_SPi-14"><figure>
+
+<img id="ImgLink-14" src="102118185648MS_i_14.tif" alt="102118185648MS_i_14" ><br>
+<figcaption><b>Fig 14</b> Three sets of InSAR passes over the Belridge field, California</figcaption>
+<p>Fig 14 Three sets of InSAR passes over the Belridge field, California </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="12" figure-order="15" data-type-order="18">
+<a href="#link-15"> </a>
+<div>
+<p id="Ancr20">Although this paper focusses on the Belridge field, we acquire InSAR data in California for other fields in the southem San J oaquin and Santa Maria basins. Both basins have many fields where ground deformation is observed to pulse as reservoirs are drained and the VVR varies from the ideal case of 1. However, like Belridge, the fields tend to show general long-tem trends of surface subsidence due to reservoir compaction (Fig. 15).</p><div id="link-15">
+
+<div id="102118185648MS-Img_SPi-15"><figure>
+
+<img id="ImgLink-15" src="102118185648MS_i_15.tif" alt="102118185648MS_i_15" ><br>
+<figcaption><b>Fig 15</b> Cumulative vertical subsidence 2005-200E, Belridge field, California</figcaption>
+<p>Fig 15 Cumulative vertical subsidence 2005-200E, Belridge field, California </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="13" figure-order="16" data-type-order="19">
+<a href="#link-16"> </a>
+<div>
+<p id="Ancr21">Our client’s strategy to manage the waterflood operation of the Diatomite reservoir is injector-based. At any one time they have between 80 and 100 water injectors that need to provide pressure support for 250 to 300 producers. Every 11 days they get an updated InSAR deformation map that tells them how effectively they have balanced the Voidage Replacement Ratio in the past 11 days (Fig. 16).</p><div id="link-16">
+
+<div id="102118185648MS-Img_SPi-16"><figure>
+
+<img id="ImgLink-16" src="102118185648MS_i_16.tif" alt="102118185648MS_i_16" ><br>
+<figcaption><b>Fig 16</b> Example of typical InSAR pass, Belridge field</figcaption>
+<p>Fig 16 Example of typical InSAR pass, Belridge field </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="13" figure-order="17" data-type-order="20">
+<a href="#link-17"> </a>
+<div>
+<p id="Ancr22">They review injectors in sets of 5 to 15 and adjust injection rates in areas where the InSAR deformation map shows uplift or subsidence. The result is that they are operating the waterflood efficiently and since late 2015 no well casing damage has been assigned to compaction and there have been no surface expressions (Fig. 17).</p><div id="link-17">
+
+<div id="102118185648MS-Img_SPi-17"><figure>
+
+<img id="ImgLink-17" src="102118185648MS_i_17.tif" alt="102118185648MS_i_17" ><br>
+<figcaption><b>Fig 17</b> Tuning water injection</figcaption>
+<p>Fig 17 Tuning water injection </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="14" figure-order="18" data-type-order="21">
+<a href="#link-18"> </a>
+<div>
+<p id="Ancr23">At the Belridge field significant horizontal displacement accompanies long-term reservoir compaction and the resulting vertical ground subsidence. Effectively, compression is happening on the flanks of the subsidence bowl. The ratio of horizontal to vertical movement is about 1 to 3, a ratio we have seen in other fields as well (Fig. 18).</p><div id="link-18">
+
+<div id="102118185648MS-Img_SPi-18"><figure>
+
+<img id="ImgLink-18" src="102118185648MS_i_18.tif" alt="102118185648MS_i_18" ><br>
+<figcaption><b>Fig 18</b> Cumulative horizontal movement 2005-200E, Belridge Field, California</figcaption>
+<p>Fig 18 Cumulative horizontal movement 2005-200E, Belridge Field, California </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="14" figure-order="19" data-type-order="22">
+<a href="#link-19"> </a>
+<div>
+<p id="Ancr24">Shearing in the subsurface causes many problems. At first, shearing will bend a well's casing and tubing so that downhole tools cannot pass below the obstruction. Eventually the shearing will completely cut through and displace the casing and tubing (Fig, 19). Along the way mechanical integrity will be lost.</p><div id="link-19">
+
+<div id="102118185648MS-Img_SPi-19"><figure>
+
+<img id="ImgLink-19" src="102118185648MS_i_19.tif" alt="102118185648MS_i_19" ><br>
+<figcaption><b>Fig 19</b> Illustration of casing damage caused by compaction-induced shear</figcaption>
+<p>Fig 19 Illustration of casing damage caused by compaction-induced shear </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="15" figure-order="20" data-type-order="23">
+<a href="#link-20"> </a>
+<div>
+<p id="Ancr25">The field also has many wells with compromised wellbore integrity that can provide a pathway for reservoir fluids to move upwards towards the ground surface (Fig, 20).</p><div id="link-20">
+
+<div id="102118185648MS-Img_SPi-20"><figure>
+
+<img id="ImgLink-20" src="102118185648MS_i_20.tif" alt="102118185648MS_i_20" ><br>
+<figcaption><b>Fig 20</b> Illustration of casing damage and offset caused by compaction-induced shear</figcaption>
+<p>Fig 20 Illustration of casing damage and offset caused by compaction-induced shear </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="16" figure-order="21" data-type-order="24">
+<a href="#link-21"> </a>
+<div>
+<p id="Ancr26">The result: since this service was initiated, the customer reports that subsidence-related well casing damage has all but stopped and three surface expressions have been prevented. In one episode, we detected a massive blister with a diameter of 400 m (1,300 ft) and uplift of 2 cm (0.8_), triggering an alert (Fig. 21).</p><div id="link-21">
+
+<div id="102118185648MS-Img_SPi-21"><figure>
+
+<img id="ImgLink-21" src="102118185648MS_i_21.tif" alt="102118185648MS_i_21" ><br>
+<figcaption><b>Fig 21</b> Life cycle of a Surface Blister</figcaption>
+<p>Fig 21 Life cycle of a Surface Blister </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="16" figure-order="22" data-type-order="25">
+<a href="#link-22"> </a>
+<div>
+<p id="Ancr27">The giant Groningen gas field is at the northern end of the Netherlands and is operated by NAM, a joint venture company of Shell and ExxonMobil. Original gas-in-place was about 2.8 TCM (100 T CF) and the field has produced over 1.7 TCM (60 BCF). The discovery well for the field was drilled in 1959 but the size of the field was not realized until 1963 (Fig. 22).</p><div id="link-22">
+
+<div id="102118185648MS-Img_SPi-22"><figure>
+
+<img id="ImgLink-22" src="102118185648MS_i_22.tif" alt="102118185648MS_i_22" ><br>
+<figcaption><b>Fig 22</b> Location map and earth model, Groningen gas field, the Netherlands</figcaption>
+<p>Fig 22 Location map and earth model, Groningen gas field, the Netherlands </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="17" figure-order="23" data-type-order="26">
+<a href="#link-23"> </a>
+<div>
+<p id="Ancr28">The field produces from the 180 m (600 ft) thick Permian Rotliegend Slochteren sandstone at approximately 3,000 m (9,850 ft) and from the overlying shaley Ten Boer member which is capped by the Zechstein evaporites (Fig. 23).</p><div id="link-23">
+
+<div id="102118185648MS-Img_SPi-23"><figure>
+
+<img id="ImgLink-23" src="102118185648MS_i_23.tif" alt="102118185648MS_i_23" ><br>
+<figcaption><b>Fig 23</b> Structure section across Groningen gas field</figcaption>
+<p>Fig 23 Structure section across Groningen gas field </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="17" figure-order="24" data-type-order="27">
+<a href="#link-24"> </a>
+<div>
+<p id="Ancr29">The gas production has greatly reduced pore pressure in the reservoir and the sandstone reservoirs have compacted unevenly due to very different production rates in different parts of the field. (The center of the field is the most depleted, the flanks are less depleted.) In turn, the ground level has subsided in a bowl-shaped way over the extent of the field and the areas around it that is a muted reflection of the underlying compaction (Fig. 24).</p><div id="link-24">
+
+<div id="102118185648MS-Img_SPi-24"><figure>
+
+<img id="ImgLink-24" src="102118185648MS_i_24.tif" alt="102118185648MS_i_24" ><br>
+<figcaption><b>Fig 24</b> Reservoir compaction in 2015 inferred from inversion of InSAR subsidence data, Groningen gas field</figcaption>
+<p>Fig 24 Reservoir compaction in 2015 inferred from inversion of InSAR subsidence data, Groningen gas field </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="18" figure-order="25" data-type-order="28">
+<a href="#link-25"> </a>
+<div>
+<p id="Ancr30">Almost all earthquakes associated with oil and gas production elsewhere in the world are caused by increases in pore pressure. Groningen is unusual in that the earthquakes are caused by pressure depletion and this consequence is not well understood. The result is that seismicity is hard to model and to predict (Fig. 25).</p><div id="link-25">
+
+<div id="102118185648MS-Img_SPi-25"><figure>
+
+<img id="ImgLink-25" src="102118185648MS_i_25.tif" alt="102118185648MS_i_25" ><br>
+<figcaption><b>Fig 25</b> Changing dynamics of seismicity are hard to model</figcaption>
+<p>Fig 25 Changing dynamics of seismicity are hard to model </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="18" figure-order="26" data-type-order="29">
+<a href="#link-26"> </a>
+<div>
+<p id="Ancr31">Shell Canada has a group of horizontal paired wellbores in the Peace River area of Alberta that are being actively monitored by InSAR (Fig. 26).</p><div id="link-26">
+
+<div id="102118185648MS-Img_SPi-26"><figure>
+
+<img id="ImgLink-26" src="102118185648MS_i_26.tif" alt="102118185648MS_i_26" ><br>
+<figcaption><b>Fig 26</b> Shell’s Peace River project, Alberta</figcaption>
+<p>Fig 26 Shell’s Peace River project, Alberta </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="19" figure-order="27" data-type-order="30">
+<a href="#link-27"> </a>
+<div>
+<p id="Ancr32">All that is needed is acquisition of InSAR data at a time frequency that matches the injection/production cyclicity. In 2015, Shell compared ground deformation data from InSAR with changes in seismic travel time using SeisMovieù which uses buried sets of continuously recording seismic sources and receivers to get a 4D view of the reservoir (Przybysz-J arnut, 2015) (Fig. 27).</p><div id="link-27">
+
+<div id="102118185648MS-Img_SPi-27"><figure>
+
+<img id="ImgLink-27" src="102118185648MS_i_27.tif" alt="102118185648MS_i_27" ><br>
+<figcaption><b>Fig 27</b> Matching surface deformation from InSAR to changes in travel time and well pressure</figcaption>
+<p>Fig 27 Matching surface deformation from InSAR to changes in travel time and well pressure </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="21" figure-order="28" data-type-order="31">
+<a href="#link-28"> </a>
+<div>
+<p id="Ancr33">'Space 1.0' was about rockets to the moon; since then there has not been a lot of impactful innovation and progress. Now, in the last several years there is a renaissance happening in the space sector: 'Space 2.0', which is driven by commercialization of satellites, miniaturization, by widespread uses of rapid revisit satellite data, and by private funding (Fig. 28).</p><div id="link-28">
+
+<div id="102118185648MS-Img_SPi-28"><figure>
+
+<img id="ImgLink-28" src="102118185648MS_i_28.tif" alt="102118185648MS_i_28" ><br>
+<figcaption><b>Fig 28</b> Space 2.0 is hereŭ ..</figcaption>
+<p>Fig 28 Space 2.0 is hereŭ .. </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="29" figure-order="29" data-type-order="32">
+<a href="#link-29"> </a>
+<div>
+<p id="Ancr34"> </p><div id="link-29">
+
+<div id="102118185648MS-Img_SPi-29"><figure>
+<img id="ImgLink-29" src="102118185648MS_i_29.tif" alt="102118185648MS_i_29" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="30" figure-order="30" data-type-order="33">
+<a href="#link-30"> </a>
+<div>
+<p id="Ancr35"> </p><div id="link-30">
+
+<div id="102118185648MS-Img_SPi-30"><figure>
+<img id="ImgLink-30" src="102118185648MS_i_30.tif" alt="102118185648MS_i_30" ><br>
+<figcaption> Earth rotates from west to east</figcaption>
+<p> Earth rotates from west to east </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="30" figure-order="31" data-type-order="34">
+<a href="#link-31"> </a>
+<div>
+<p id="Ancr36"> </p><div id="link-31">
+
+<div id="102118185648MS-Img_SPi-31"><figure>
+<img id="ImgLink-31" src="102118185648MS_i_31.tif" alt="102118185648MS_i_31" ><br>
+<figcaption> Using ascending orbits (S to N) and descending orbits (N to S ) gives a better perspective.</figcaption>
+<p> Using ascending orbits (S to N) and descending orbits (N to S ) gives a better perspective. </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="31" figure-order="32" data-type-order="35">
+<a href="#link-32"> </a>
+<div>
+<p id="Ancr37"> </p><div id="link-32">
+
+<div id="102118185648MS-Img_SPi-32"><figure>
+<img id="ImgLink-32" src="102118185648MS_i_32.tif" alt="102118185648MS_i_32" ><br>
+<figcaption> Cloudy around the equator &amp; northem latitudes Less cloud cover over deserts and ice-caps.</figcaption>
+<p> Cloudy around the equator &amp; northem latitudes Less cloud cover over deserts and ice-caps. </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="31" figure-order="33" data-type-order="36">
+<a href="#link-33"> </a>
+<div>
+<p id="Ancr38"> </p><div id="link-33">
+
+<div id="102118185648MS-Img_SPi-33"><figure>
+<img id="ImgLink-33" src="102118185648MS_i_33.tif" alt="102118185648MS_i_33" ><br>
+<figcaption> SAR satellites generate their own radar pulse</figcaption>
+<p> SAR satellites generate their own radar pulse </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="3" pdf-page="32" figure-order="34" data-type-order="37">
+<a href="#link-34"> </a>
+<div>
+<p id="Ancr39"> </p><div id="link-34">
+
+<div id="102118185648MS-Img_SPi-34"><figure>
+<img id="ImgLink-34" src="102118185648MS_i_34.tif" alt="102118185648MS_i_34" ><br>
+<figcaption> Distance = Number of cycles plus the fractional phase</figcaption>
+<p> Distance = Number of cycles plus the fractional phase </p>
+</figure></div>
+<div id="102118185648MS-Img_SPi-34a"><figure>
+<img id="ImgLink-34a" src="102118185648MS_i_34a.tif" alt="102118185648MS_i_34a" ><br>
+</figure></div>
+<div id="102118185648MS-Img_SPi-34b"><figure>
+<img id="ImgLink-34b" src="102118185648MS_i_34b.tif" alt="102118185648MS_i_34b" ><br>
+</figure></div>
+<div id="102118185648MS-Img_SPi-34c"><figure>
+<img id="ImgLink-34c" src="102118185648MS_i_34c.tif" alt="102118185648MS_i_34c" ><br>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="33" figure-order="35" data-type-order="38">
+<a href="#link-35"> </a>
+<div>
+<p id="Ancr40"> </p><div id="link-35">
+
+<div id="102118185648MS-Img_SPi-35"><figure>
+<img id="ImgLink-35" src="102118185648MS_i_35.tif" alt="102118185648MS_i_35" ><br>
+<figcaption> Weak reflections return from smooth surfaces</figcaption>
+<p> Weak reflections return from smooth surfaces </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="33" figure-order="36" data-type-order="39">
+<a href="#link-36"> </a>
+<div>
+<p id="Ancr41"> </p><div id="link-36">
+
+<div id="102118185648MS-Img_SPi-36"><figure>
+<img id="ImgLink-36" src="102118185648MS_i_36.tif" alt="102118185648MS_i_36" ><br>
+<figcaption> Strong reflections return from rough surfaces</figcaption>
+<p> Strong reflections return from rough surfaces </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="34" figure-order="37" data-type-order="40">
+<a href="#link-37"> </a>
+<div>
+<p id="Ancr42"> </p><div id="link-37">
+
+<div id="102118185648MS-Img_SPi-37"><figure>
+<img id="ImgLink-37" src="102118185648MS_i_37.tif" alt="102118185648MS_i_37" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="35" figure-order="38" data-type-order="41">
+<a href="#link-38"> </a>
+<div>
+<p id="Ancr43"> </p><div id="link-38">
+
+<div id="102118185648MS-Img_SPi-38"><figure>
+<img id="ImgLink-38" src="102118185648MS_i_38.tif" alt="102118185648MS_i_38" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="36" figure-order="39" data-type-order="42">
+<a href="#link-39"> </a>
+<div>
+<p id="Ancr44"> </p><div id="link-39">
+
+<div id="102118185648MS-Img_SPi-39"><figure>
+<img id="ImgLink-39" src="102118185648MS_i_39.tif" alt="102118185648MS_i_39" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="2" pdf-page="37" figure-order="40" data-type-order="43">
+<a href="#link-40"> </a>
+<div>
+<p id="Ancr45"> </p><div id="link-40">
+
+<div id="102118185648MS-Img_SPi-40"><figure>
+<img id="ImgLink-40" src="102118185648MS_i_40.tif" alt="102118185648MS_i_40" ><br>
+<figcaption> Wrapped Interferogram Unwrapped Interferogram</figcaption>
+<p> Wrapped Interferogram Unwrapped Interferogram </p>
+</figure></div>
+<div id="102118185648MS-Img_SPi-40a"><figure>
+<img id="ImgLink-40a" src="102118185648MS_i_40a.tif" alt="102118185648MS_i_40a" ><br>
+<p>Wrapped Interferogram</p>
+</figure></div>
+<div id="102118185648MS-Img_SPi-40b"><figure>
+<img id="ImgLink-40b" src="102118185648MS_i_40b.tif" alt="102118185648MS_i_40b" ><br>
+<p>Unwrapped Interferogram</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="38" figure-order="41" data-type-order="44">
+<a href="#link-41"> </a>
+<div>
+<p id="Ancr46"> </p><div id="link-41">
+
+<div id="102118185648MS-Img_SPi-41"><figure>
+<img id="ImgLink-41" src="102118185648MS_i_41.tif" alt="102118185648MS_i_41" ><br>
+<figcaption> SkyGeo Maps: oil gas &gt; buena vista</figcaption>
+<p> SkyGeo Maps: oil gas &gt; buena vista </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="38" figure-order="42" data-type-order="45">
+<a href="#link-42"> </a>
+<div>
+<p id="Ancr47"> </p><div id="link-42">
+
+<div id="102118185648MS-Img_SPi-42"><figure>
+<img id="ImgLink-42" src="102118185648MS_i_42.tif" alt="102118185648MS_i_42" ><br>
+<figcaption> Buena Vista Field (Naval Petroleum Reserve No. 2) California</figcaption>
+<p> Buena Vista Field (Naval Petroleum Reserve No. 2) California </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="42" figure-order="43" data-type-order="47">
+<a href="#link-43"> </a>
+<div>
+<p id="Ancr48"> </p><div id="link-43">
+
+<div id="102118185648MS-Img_SPi-43"><figure>
+<img id="ImgLink-43" src="102118185648MS_i_43.tif" alt="102118185648MS_i_43" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="43" figure-order="44" data-type-order="48">
+<a href="#link-44"> </a>
+<div>
+<p id="Ancr49"> </p><div id="link-44">
+
+<div id="102118185648MS-Img_SPi-44"><figure>
+<img id="ImgLink-44" src="102118185648MS_i_44.tif" alt="102118185648MS_i_44" ><br>
+<figcaption> Stage 1 Reservoir compaction causes subsidence of ground surface</figcaption>
+<p> Stage 1 Reservoir compaction causes subsidence of ground surface </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="43" figure-order="45" data-type-order="49">
+<a href="#link-45"> </a>
+<div>
+<p id="Ancr50"> </p><div id="link-45">
+
+<div id="102118185648MS-Img_SPi-45"><figure>
+<img id="ImgLink-45" src="102118185648MS_i_45.tif" alt="102118185648MS_i_45" ><br>
+<figcaption> Stage 2 Shearing develops at planes of weakness (boreholes get narrowed, then kinked, and finally offset by shearing)</figcaption>
+<p> Stage 2 Shearing develops at planes of weakness (boreholes get narrowed, then kinked, and finally offset by shearing) </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="46" figure-order="46" data-type-order="51">
+<a href="#link-46"> </a>
+<div>
+<p id="Ancr51"> </p><div id="link-46">
+
+<div id="102118185648MS-Img_SPi-46"><figure>
+<img id="ImgLink-46" src="102118185648MS_i_46.tif" alt="102118185648MS_i_46" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="47" figure-order="47" data-type-order="52">
+<a href="#link-47"> </a>
+<div>
+<p id="Ancr52"> </p><div id="link-47">
+
+<div id="102118185648MS-Img_SPi-47"><figure>
+<img id="ImgLink-47" src="102118185648MS_i_47.tif" alt="102118185648MS_i_47" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="48" figure-order="48" data-type-order="53">
+<a href="#link-48"> </a>
+<div>
+<p id="Ancr53"> </p><div id="link-48">
+
+<div id="102118185648MS-Img_SPi-48"><figure>
+<img id="ImgLink-48" src="102118185648MS_i_48.tif" alt="102118185648MS_i_48" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="49" figure-order="49" data-type-order="54">
+<a href="#link-49"> </a>
+<div>
+<p id="Ancr54"> </p><div id="link-49">
+
+<div id="102118185648MS-Img_SPi-49"><figure>
+<img id="ImgLink-49" src="102118185648MS_i_49.tif" alt="102118185648MS_i_49" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="50" figure-order="50" data-type-order="55">
+<a href="#link-50"> </a>
+<div>
+<p id="Ancr55"> </p><div id="link-50">
+
+<div id="102118185648MS-Img_SPi-50"><figure>
+<img id="ImgLink-50" src="102118185648MS_i_50.tif" alt="102118185648MS_i_50" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="51" figure-order="51" data-type-order="56">
+<a href="#link-51"> </a>
+<div>
+<p id="Ancr56"> </p><div id="link-51">
+
+<div id="102118185648MS-Img_SPi-51"><figure>
+<img id="ImgLink-51" src="102118185648MS_i_51.tif" alt="102118185648MS_i_51" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="52" figure-order="52" data-type-order="57">
+<a href="#link-52"> </a>
+<div>
+<p id="Ancr57"> </p><div id="link-52">
+
+<div id="102118185648MS-Img_SPi-52"><figure>
+<img id="ImgLink-52" src="102118185648MS_i_52.tif" alt="102118185648MS_i_52" ><br>
+<figcaption> Subsidence rates before 2012</figcaption>
+<p> Subsidence rates before 2012 </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="52" figure-order="53" data-type-order="58">
+<a href="#link-53"> </a>
+<div>
+<p id="Ancr58"> </p><div id="link-53">
+
+<div id="102118185648MS-Img_SPi-53"><figure>
+<img id="ImgLink-53" src="102118185648MS_i_53.tif" alt="102118185648MS_i_53" ><br>
+<figcaption> Subsidence rates after 2012</figcaption>
+<p> Subsidence rates after 2012 </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="52" figure-order="54" data-type-order="59">
+<a href="#link-54"> </a>
+<div>
+<p id="Ancr59"> </p><div id="link-54">
+
+<div id="102118185648MS-Img_SPi-54"><figure>
+<img id="ImgLink-54" src="102118185648MS_i_54.tif" alt="102118185648MS_i_54" ><br>
+<figcaption> Subsidence rate change</figcaption>
+<p> Subsidence rate change </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="52" figure-order="55" data-type-order="60">
+<a href="#link-55"> </a>
+<div>
+<p id="Ancr60"> </p><div id="link-55">
+
+<div id="102118185648MS-Img_SPi-55"><figure>
+<img id="ImgLink-55" src="102118185648MS_i_55.tif" alt="102118185648MS_i_55" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="53" figure-order="56" data-type-order="61">
+<a href="#link-56"> </a>
+<div>
+<p id="Ancr61"> </p><div id="link-56">
+
+<div id="102118185648MS-Img_SPi-56"><figure>
+<img id="ImgLink-56" src="102118185648MS_i_56.tif" alt="102118185648MS_i_56" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="53" figure-order="57" data-type-order="62">
+<a href="#link-57"> </a>
+<div>
+<p id="Ancr62"> </p><div id="link-57">
+
+<div id="102118185648MS-Img_SPi-57"><figure>
+<img id="ImgLink-57" src="102118185648MS_i_57.tif" alt="102118185648MS_i_57" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="54" figure-order="58" data-type-order="63">
+<a href="#link-58"> </a>
+<div>
+<p id="Ancr63"> </p><div id="link-58">
+
+<div id="102118185648MS-Img_SPi-58"><figure>
+<img id="ImgLink-58" src="102118185648MS_i_58.tif" alt="102118185648MS_i_58" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="54" figure-order="59" data-type-order="64">
+<a href="#link-59"> </a>
+<div>
+<p id="Ancr64"> </p><div id="link-59">
+
+<div id="102118185648MS-Img_SPi-59"><figure>
+<img id="ImgLink-59" src="102118185648MS_i_59.tif" alt="102118185648MS_i_59" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="54" figure-order="60" data-type-order="65">
+<a href="#link-60"> </a>
+<div>
+<p id="Ancr65"> </p><div id="link-60">
+
+<div id="102118185648MS-Img_SPi-60"><figure>
+<img id="ImgLink-60" src="102118185648MS_i_60.tif" alt="102118185648MS_i_60" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="54" figure-order="61" data-type-order="66">
+<a href="#link-61"> </a>
+<div>
+<p id="Ancr66"> </p><div id="link-61">
+
+<div id="102118185648MS-Img_SPi-61"><figure>
+<img id="ImgLink-61" src="102118185648MS_i_61.tif" alt="102118185648MS_i_61" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="55" figure-order="62" data-type-order="67">
+<a href="#link-62"> </a>
+<div>
+<p id="Ancr67"> </p><div id="link-62">
+
+<div id="102118185648MS-Img_SPi-62"><figure>
+<img id="ImgLink-62" src="102118185648MS_i_62.tif" alt="102118185648MS_i_62" ><br>
+<figcaption> Location Map</figcaption>
+<p> Location Map </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="55" figure-order="63" data-type-order="68">
+<a href="#link-63"> </a>
+<div>
+<p id="Ancr68"> </p><div id="link-63">
+
+<div id="102118185648MS-Img_SPi-63"><figure>
+<img id="ImgLink-63" src="102118185648MS_i_63.tif" alt="102118185648MS_i_63" ><br>
+<figcaption> 3D Earth Model</figcaption>
+<p> 3D Earth Model </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="56" figure-order="64" data-type-order="69">
+<a href="#link-64"> </a>
+<div>
+<p id="Ancr69"> </p><div id="link-64">
+
+<div id="102118185648MS-Img_SPi-64"><figure>
+<img id="ImgLink-64" src="102118185648MS_i_64.tif" alt="102118185648MS_i_64" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="57" figure-order="65" data-type-order="70">
+<a href="#link-65"> </a>
+<div>
+<p id="Ancr70"> </p><div id="link-65">
+
+<div id="102118185648MS-Img_SPi-65"><figure>
+<img id="ImgLink-65" src="102118185648MS_i_65.tif" alt="102118185648MS_i_65" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="57" figure-order="66" data-type-order="71">
+<a href="#link-66"> </a>
+<div>
+<p id="Ancr71"> </p><div id="link-66">
+
+<div id="102118185648MS-Img_SPi-66"><figure>
+<img id="ImgLink-66" src="102118185648MS_i_66.tif" alt="102118185648MS_i_66" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="58" figure-order="67" data-type-order="72">
+<a href="#link-67"> </a>
+<div>
+<p id="Ancr72"> </p><div id="link-67">
+
+<div id="102118185648MS-Img_SPi-67"><figure>
+<img id="ImgLink-67" src="102118185648MS_i_67.tif" alt="102118185648MS_i_67" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="59" figure-order="68" data-type-order="73">
+<a href="#link-68"> </a>
+<div>
+<p id="Ancr73"> </p><div id="link-68">
+
+<div id="102118185648MS-Img_SPi-68"><figure>
+<img id="ImgLink-68" src="102118185648MS_i_68.tif" alt="102118185648MS_i_68" ><br>
+<figcaption> April 2012 to April 2013</figcaption>
+<p> April 2012 to April 2013 </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="59" figure-order="69" data-type-order="74">
+<a href="#link-69"> </a>
+<div>
+<p id="Ancr74"> </p><div id="link-69">
+
+<div id="102118185648MS-Img_SPi-69"><figure>
+<img id="ImgLink-69" src="102118185648MS_i_69.tif" alt="102118185648MS_i_69" ><br>
+<figcaption> April 2013 to April 2014</figcaption>
+<p> April 2013 to April 2014 </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="59" figure-order="70" data-type-order="75">
+<a href="#link-70"> </a>
+<div>
+<p id="Ancr75"> </p><div id="link-70">
+
+<div id="102118185648MS-Img_SPi-70"><figure>
+<img id="ImgLink-70" src="102118185648MS_i_70.tif" alt="102118185648MS_i_70" ><br>
+<figcaption> April 2014 to April 2015</figcaption>
+<p> April 2014 to April 2015 </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="60" figure-order="71" data-type-order="76">
+<a href="#link-71"> </a>
+<div>
+<p id="Ancr76"> </p><div id="link-71">
+
+<div id="102118185648MS-Img_SPi-71"><figure>
+<img id="ImgLink-71" src="102118185648MS_i_71.tif" alt="102118185648MS_i_71" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="60" figure-order="72" data-type-order="77">
+<a href="#link-72"> </a>
+<div>
+<p id="Ancr77"> </p><div id="link-72">
+
+<div id="102118185648MS-Img_SPi-72"><figure>
+<img id="ImgLink-72" src="102118185648MS_i_72.tif" alt="102118185648MS_i_72" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="61" figure-order="73" data-type-order="78">
+<a href="#link-73"> </a>
+<div>
+<p id="Ancr78"> </p><div id="link-73">
+
+<div id="102118185648MS-Img_SPi-73"><figure>
+<img id="ImgLink-73" src="102118185648MS_i_73.tif" alt="102118185648MS_i_73" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="61" figure-order="74" data-type-order="79">
+<a href="#link-74"> </a>
+<div>
+<p id="Ancr79"> </p><div id="link-74">
+
+<div id="102118185648MS-Img_SPi-74"><figure>
+<img id="ImgLink-74" src="102118185648MS_i_74.tif" alt="102118185648MS_i_74" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="63" figure-order="75" data-type-order="80">
+<a href="#link-75"> </a>
+<div>
+<p id="Ancr80"> </p><div id="link-75">
+
+<div id="102118185648MS-Img_SPi-75"><figure>
+<img id="ImgLink-75" src="102118185648MS_i_75.tif" alt="102118185648MS_i_75" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="63" figure-order="76" data-type-order="81">
+<a href="#link-76"> </a>
+<div>
+<p id="Ancr81"> </p><div id="link-76">
+
+<div id="102118185648MS-Img_SPi-76"><figure>
+<img id="ImgLink-76" src="102118185648MS_i_76.tif" alt="102118185648MS_i_76" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="64" figure-order="77" data-type-order="82">
+<a href="#link-77"> </a>
+<div>
+<p id="Ancr82"> </p><div id="link-77">
+
+<div id="102118185648MS-Img_SPi-77"><figure>
+<img id="ImgLink-77" src="102118185648MS_i_77.tif" alt="102118185648MS_i_77" ><br>
+<figcaption></figcaption>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+</div>
+</div></html>

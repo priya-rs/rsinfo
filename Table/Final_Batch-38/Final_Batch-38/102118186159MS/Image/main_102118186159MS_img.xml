@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118186159MS.txt" extractionDate="2021-03-26T10:28:16Z">
+<doi>10.2118/186159-MS</doi>
+<pii>10.2118/186159-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr2">The well mapping of the EOR project is shown in Fig. 1 and the reservoir parameters are presented in Table 1. There are around 32 producers and 24 injectors. The effective pay is 11.4 on average. The EOR project initiated in 2013 and the method is polymer surfactant flooding. The north is more homogeneous than the south part. The water cut was around 98% and recovery factor reached around 53% when the EOR project was initiated. After the EOR project started for one year, the water cut was reduced substantially from 98%to 70% and oil production has been increased by more than 4 times. However, after another one year, water cut was increased substantially and breakthrough of water injection was noticed.</anchoringText>
+<image-wrap id="102118186159MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118186159MS_i_1.tif" id="ImgLink-1" />
+<caption>The well mapping of current EOR project.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>The well mapping of current EOR project.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr3">Fig 2 shows the application model of big data technique. The application model integrates different data sources, including injection system, geo-system, production data, wellbore data, surface gathering system, down hole pumps and reservoir data. Hugh volume of data is collected through small scale and cost-effective sensor devices and transmitted by Internet of Things (IOT) technique. The data is then integrated into the big data system and is normalized into time sequence. Relationships between different parts or components in current EOR project were established. The real-time data and monitoring parameters can be used for reservoir simulation. Then injection parameters can be adjusted, such as well pattern and space, choke size, chemical slug size, artificial lift optimization, etc.</anchoringText>
+<image-wrap id="102118186159MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118186159MS_i_2.tif" id="ImgLink-2" />
+<caption>Application model of big data technique.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Application model of big data technique.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr4">In each system, sub-systems are further divided. One typical example is shown in Fig. 3. In the injection system, the sub-system includes water source system, water injection pump, feeding system, and polymer injection system. Relationships between sub-systems are determined by the connection nodes and the boundary conditions. Fig. 4 shows the conceptual architecture of the big data technique. Data sources store data in different platforms and then all the data is transformed through big data technique, e.g., hive, MAPR, impala and then is integrated for visualizations and cloud storage and computing. Parameters in the visualization system and cloud storage and computing are extracted and stored for reservoir simulation studies.</anchoringText>
+<image-wrap id="102118186159MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118186159MS_i_3.tif" id="ImgLink-3" />
+<caption>The schema for the injection system of polymer surfactant flooding project.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>The schema for the injection system of polymer surfactant flooding project.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr5">In each system, sub-systems are further divided. One typical example is shown in Fig. 3. In the injection system, the sub-system includes water source system, water injection pump, feeding system, and polymer injection system. Relationships between sub-systems are determined by the connection nodes and the boundary conditions. Fig. 4 shows the conceptual architecture of the big data technique. Data sources store data in different platforms and then all the data is transformed through big data technique, e.g., hive, MAPR, impala and then is integrated for visualizations and cloud storage and computing. Parameters in the visualization system and cloud storage and computing are extracted and stored for reservoir simulation studies.</anchoringText>
+<image-wrap id="102118186159MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118186159MS_i_4.tif" id="ImgLink-4" />
+<caption>Conceptual architecture of big data technique.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Conceptual architecture of big data technique.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr6">After application of big data application model, parameters from the big data system are extracted from the big data system and then are used for reservoir simulation studies. Fig 5 shows the comparison of actual monthly production rate and simulation results between 2010 and 2013. It can be seen that the simulation results are in accord with the actual data. Please note than in the very beginning, the errors were around 7%and later the errors were reduced to 3.8% when more and more data sources were added in the big data system and more volume of data was integrated. Additionally, when comparing the numerical reservoir simulation with and without big data technique, the prediction error was reduced by more than 46% with the help of big data application model.</anchoringText>
+<image-wrap id="102118186159MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118186159MS_i_5.tif" id="ImgLink-5" />
+<caption>Comparison of actual monthly oil production rate and simulation results.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Comparison of actual monthly oil production rate and simulation results.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr7">Fig 6 shows a longer time frame of water cut comparison between the actual results and simulation results. It can be concluded that the simulations are well aligned with the actual results. Fig 7 shows the daily production history of current EOR projects between 2007 and 2013. In the beginning of surfactant polymer flooding, there is not much improvement in terms of water cut and oil production rate, after the application of big data technique in the middle of 2012, with more accurate from simulation results, the injection parameters were adjusted accordingly. Because of the adjustments, the water cut was gradually decreased and the oil production rate was graduated increased.</anchoringText>
+<image-wrap id="102118186159MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118186159MS_i_6.tif" id="ImgLink-6" />
+<caption>Comparison of actual water cut and simulation results of current EOR project.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Comparison of actual water cut and simulation results of current EOR project.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr8">Fig 6 shows a longer time frame of water cut comparison between the actual results and simulation results. It can be concluded that the simulations are well aligned with the actual results. Fig 7 shows the daily production history of current EOR projects between 2007 and 2013. In the beginning of surfactant polymer flooding, there is not much improvement in terms of water cut and oil production rate, after the application of big data technique in the middle of 2012, with more accurate from simulation results, the injection parameters were adjusted accordingly. Because of the adjustments, the water cut was gradually decreased and the oil production rate was graduated increased.</anchoringText>
+<image-wrap id="102118186159MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118186159MS_i_7.tif" id="ImgLink-7" />
+<caption>Daily production history of current EOR project.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Daily production history of current EOR project.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189035MS.txt" extractionDate="2021-03-29T10:33:35Z">
+<doi>10.2118/189035-MS</doi>
+<pii>10.2118/189035-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr4">The reservoir consists of fluvio-deltaic sands that were deposited along a SW-NE direction While, the reservoir package is correlatable as a whole, individual sands seen in wells cannot be correlated across the field due to the inherent heterogeneity in a fluvial reservoir. While individual sand bodies are discontinuous, lateral continuity is established by amalgamation of these sand bodies. A discontinuous shale layer subdivides the reservoir package in to the upper and lower sand zones (Figure 1). This shale is not seen at all the wells, and is likely to be a result of subsequent erosion by channel bodies rather than non-deposition. These gaps in the shale layer allow vertical communication across the reservoir.</anchoringText>
+<image-wrap id="102118189035MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118189035MS_i_1.tif" id="ImgLink-1" />
+<caption>Cross section for sand package in wells</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Cross section for sand package in wells</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr5"> </anchoringText>
+<image-wrap id="102118189035MS-Img_SPi-2">
+<imageLink type="mediaResource" href="102118189035MS_i_2.tif" id="ImgLink-2" />
+<caption />
+<formatted-caption>
+<caption-text />
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr6"> </anchoringText>
+<image-wrap id="102118189035MS-Img_SPi-3">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118189035MS_i_3.tif" id="ImgLink-3" />
+<caption>Filtering rate and pressure data to reduce noise</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Filtering rate and pressure data to reduce noise</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr7"> </anchoringText>
+<image-wrap id="102118189035MS-Img_SPi-4">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118189035MS_i_4.tif" id="ImgLink-4" />
+<caption>Removing anomalies in production data</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Removing anomalies in production data</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr8">Additionally, it is important to understand whether the well is in the pseudo steady state or not for validity of RTA. To establish this, a diagnostic plot of pwf v/s q is used (Figure 4). If the trend, as indicated in the figure (marked with red lines) is observed, RTA can be conducted for that well.</anchoringText>
+<image-wrap id="102118189035MS-Img_SPi-5">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118189035MS_i_5.tif" id="ImgLink-5" />
+<caption>Diagnostic plot for identifying flow regime (representative diagram, not from actual field data)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Diagnostic plot for identifying flow regime (representative diagram, not from actual field data)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr9">Analysis of the facies proportions seen at the wells showed areas with high proportion of channel sands. These wells were grouped into ‘fairways’ oriented along the regional depositional trend (Figure 5, red dotted lines indicate fairways). Wells that lie within the geologically determined ‘fairways’ coincide with the well-connected wells identified from the RTA analysis. This gave us more confidence in the concept of ‘fairways’ and a clearer understanding of the preferential movement of water in the reservoir.</anchoringText>
+<image-wrap id="102118189035MS-Img_SPi-6">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118189035MS_i_6.tif" id="ImgLink-6" />
+<caption>Pictorial representation of RTA results. The red dotted lines are explained in the next section</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Pictorial representation of RTA results. The red dotted lines are explained in the next section</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189035MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118189035MS_i_6a.tif" id="ImgLink-6a" />
+</image-wrap>
+<image-wrap id="102118189035MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118189035MS_i_6b.tif" id="ImgLink-6b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="7" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr10">The first step towards understanding the depositional setting was to analyze the log data, as indicated by Fig. 6. A facies identification scheme was developed by qualitative study of the gamma ray, neutron-density, resistivity and sonic data.</anchoringText>
+<image-wrap id="102118189035MS-Img_SPi-7">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118189035MS_i_7.tif" id="ImgLink-7" />
+<caption>Facies thickness per well. Each cluster represents a well Upper Sand Lower Sand</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Facies thickness per well. Each cluster represents a well Upper Sand Lower Sand</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189035MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118189035MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Upper Sand</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189035MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118189035MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Lower Sand</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="7" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr11">Saturation logs and PLTs are crucial for understanding the vertical movement of water. Among the data sets available is a PLT from a recent well and 3 other saturation logs (Figure 7). The flowing PLT data indicated that the bottom most layer produces water even though the zones above produce the maximum oil. The saturation data from other wells (that had broken water) also indicated that water was approaching from the bottom. The lower sand zone is better in terms of properties – thicker with more amalgamation of channels – resulting in more lateral connectivity.</anchoringText>
+<image-wrap id="102118189035MS-Img_SPi-8">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118189035MS_i_8.tif" id="ImgLink-8" />
+<caption>Saturation and PLT data</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Saturation and PLT data</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189035MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118189035MS_i_8a.tif" id="ImgLink-8a" />
+</image-wrap>
+<image-wrap id="102118189035MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118189035MS_i_8b.tif" id="ImgLink-8b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr12">Given this understanding (from available PLTs), that water is coming in from the bottom, it becomes important to check the depth of all well perforations to identify wells under threat, represented in Figure 8.</anchoringText>
+<image-wrap id="102118189035MS-Img_SPi-9">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118189035MS_i_9.tif" id="ImgLink-9" />
+<caption>N-S cross-section of perforations</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>N-S cross-section of perforations</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="11">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr13"> </anchoringText>
+<image-wrap id="102118189035MS-Img_SPi-10">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118189035MS_i_10.tif" id="ImgLink-10" />
+<caption>Distribution of fairways based on GR logs</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Distribution of fairways based on GR logs</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="11" data-type-order="12">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr14">The concept here is a fairway system, indicated by Fig 10, where water is moving in from the bottom sand zone. In different scenarios, different analytical techniques would come in handy for validating the established concept and we propose that the merits and validity of those techniques be assessed on the reservoir and fluid system.</anchoringText>
+<image-wrap id="102118189035MS-Img_SPi-11">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118189035MS_i_11.tif" id="ImgLink-11" />
+<caption>Conceptual picture of Stiles’ method used</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Conceptual picture of Stiles’ method used</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="12" data-type-order="13">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr15">Stiles calculations (modified for an aquifer system) show that the timing for Well A and Well B are fairly consistent (difference in time of around 3 months) with the actual timing of water breakthrough in these wells. The results for both wells are depicted in Figure 11. Post this initial testing for Well A and Well B, Stiles’ conceptual model was calibrated to predict WBT timing for other wells. Figure 12 shows these prediction results.</anchoringText>
+<image-wrap id="102118189035MS-Img_SPi-12">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118189035MS_i_12.tif" id="ImgLink-12" />
+<caption>Testing fairway concept with Stiles’ technique – comparison of calculated WBT time with actual WBT time</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Testing fairway concept with Stiles’ technique – comparison of calculated WBT time with actual WBT time</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="10" figure-order="13" data-type-order="14">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr16">Stiles calculations (modified for an aquifer system) show that the timing for Well A and Well B are fairly consistent (difference in time of around 3 months) with the actual timing of water breakthrough in these wells. The results for both wells are depicted in Figure 11. Post this initial testing for Well A and Well B, Stiles’ conceptual model was calibrated to predict WBT timing for other wells. Figure 12 shows these prediction results.</anchoringText>
+<image-wrap id="102118189035MS-Img_SPi-13">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118189035MS_i_13.tif" id="ImgLink-13" />
+<caption>Prediction results from calibrated Stiles’ model Fairway 1 Fairway 2 Fairway 3 All non-fairway wells</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Prediction results from calibrated Stiles’ model Fairway 1 Fairway 2 Fairway 3 All non-fairway wells</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189035MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118189035MS_i_13a.tif" id="ImgLink-13a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Fairway 1</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189035MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118189035MS_i_13b.tif" id="ImgLink-13b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Fairway 2</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189035MS-Img_SPi-13c">
+<imageLink type="mediaResource" href="102118189035MS_i_13c.tif" id="ImgLink-13c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Fairway 3</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189035MS-Img_SPi-13d">
+<imageLink type="mediaResource" href="102118189035MS_i_13d.tif" id="ImgLink-13d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>All non-fairway wells</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="6" pdf-page="12" figure-order="14" data-type-order="16">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr17">Figure 13 shows the three fairway realizations modelled for the upper sand zone (top figure) and the lower sand zone (bottom figure) that resulted in a good history match on WBT timing. The coloured bands are the fairways while the grey background represents the non-fairway region. The colours have no relevance to the properties of the fairways and have been merely used here to identify the different fairways. Fairways in the lower sand zone are wider and better connected as compared to the upper sand zone (Figure 13). This is evident in the well logs, where thicker channel sands are seen in the lower sand zone, interpreted to be a result of amalgamation of several channels.</anchoringText>
+<image-wrap id="102118189035MS-Img_SPi-14">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118189035MS_i_14.tif" id="ImgLink-14" />
+<caption>Three different connectivity scenarios</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Three different connectivity scenarios</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189035MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118189035MS_i_14a.tif" id="ImgLink-14a" />
+</image-wrap>
+<image-wrap id="102118189035MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118189035MS_i_14b.tif" id="ImgLink-14b" />
+</image-wrap>
+<image-wrap id="102118189035MS-Img_SPi-14c">
+<imageLink type="mediaResource" href="102118189035MS_i_14c.tif" id="ImgLink-14c" />
+</image-wrap>
+<image-wrap id="102118189035MS-Img_SPi-14d">
+<imageLink type="mediaResource" href="102118189035MS_i_14d.tif" id="ImgLink-14d" />
+</image-wrap>
+<image-wrap id="102118189035MS-Img_SPi-14e">
+<imageLink type="mediaResource" href="102118189035MS_i_14e.tif" id="ImgLink-14e" />
+</image-wrap>
+<image-wrap id="102118189035MS-Img_SPi-14f">
+<imageLink type="mediaResource" href="102118189035MS_i_14f.tif" id="ImgLink-14f" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="15" data-type-order="18">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr18">Additionally, in order to bring the water breakthrough match closer to the actual water breakthrough timing observed and within the match tolerance criteria, permeability multipliers were introduced to create a contrast in the stochastically populated permeabilities between fairways and non-fairway regions. Subsequently, these realizations were used to predict fluid recovery and water breakthrough risks in addition to validating the results from analytical studies. Table 3 shows the summary of history match quality on water breakthrough timing and Figure 14 a, b shows the water breakthrough match for two wells in the production period and Figure 15 shows water production forecast from the dynamic model.</anchoringText>
+<image-wrap id="102118189035MS-Img_SPi-15">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118189035MS_i_15.tif" id="ImgLink-15" />
+<caption>History match quality of water breakthrough match for two wells Well E WBT Match Well H WBT Match</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>History match quality of water breakthrough match for two wells Well E WBT Match Well H WBT Match</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189035MS-Img_SPi-15a">
+<imageLink type="mediaResource" href="102118189035MS_i_15a.tif" id="ImgLink-15a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Well E WBT Match</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189035MS-Img_SPi-15b">
+<imageLink type="mediaResource" href="102118189035MS_i_15b.tif" id="ImgLink-15b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Well H WBT Match</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="16" data-type-order="19">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr19">Additionally, in order to bring the water breakthrough match closer to the actual water breakthrough timing observed and within the match tolerance criteria, permeability multipliers were introduced to create a contrast in the stochastically populated permeabilities between fairways and non-fairway regions. Subsequently, these realizations were used to predict fluid recovery and water breakthrough risks in addition to validating the results from analytical studies. Table 3 shows the summary of history match quality on water breakthrough timing and Figure 14 a, b shows the water breakthrough match for two wells in the production period and Figure 15 shows water production forecast from the dynamic model.</anchoringText>
+<image-wrap id="102118189035MS-Img_SPi-16">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118189035MS_i_16.tif" id="ImgLink-16" />
+<caption>Water production forecast for 5 years</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Water production forecast for 5 years</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="17" data-type-order="20">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr20">On performing medium-term forecasting, it was found that 4 additional wells (shown as green ellipses in Figure 16) predicted water breakthrough over next 3-4 years. These wells are at risk of early water breakthrough in the near future.</anchoringText>
+<image-wrap id="102118189035MS-Img_SPi-17">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118189035MS_i_17.tif" id="ImgLink-17" />
+<caption>N-S cross-section showing wells in blue circles that are risk of early water breakthrough in near future.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>N-S cross-section showing wells in blue circles that are risk of early water breakthrough in near future.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="18" data-type-order="21">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr21"> </anchoringText>
+<image-wrap id="102118189035MS-Img_SPi-18">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118189035MS_i_18.tif" id="ImgLink-18" />
+<caption>p-q plot and diagnostic plot of well in PSS</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>p-q plot and diagnostic plot of well in PSS</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="19" data-type-order="22">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr22"> </anchoringText>
+<image-wrap id="102118189035MS-Img_SPi-19">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118189035MS_i_19.tif" id="ImgLink-19" />
+<caption>p-q plot and diagnostic plot of well in infinite acting period</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>p-q plot and diagnostic plot of well in infinite acting period</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="20" data-type-order="23">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr23"> </anchoringText>
+<image-wrap id="102118189035MS-Img_SPi-20">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118189035MS_i_20.tif" id="ImgLink-20" />
+<caption>Typical history match in well wise RTA of case study</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Typical history match in well wise RTA of case study</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="21" data-type-order="24">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr24"> </anchoringText>
+<image-wrap id="102118189035MS-Img_SPi-21">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118189035MS_i_21.tif" id="ImgLink-21" />
+<caption>Concept for sweep efficiency calculation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Concept for sweep efficiency calculation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

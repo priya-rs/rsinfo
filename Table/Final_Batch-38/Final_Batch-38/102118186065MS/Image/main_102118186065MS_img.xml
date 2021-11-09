@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118186065MS.txt" extractionDate="2021-03-27T11:20:08Z">
+<doi>10.2118/186065-MS</doi>
+<pii>10.2118/186065-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr2">The Wara-Burgan sequence is the main producing interval in the giant Greater Burgan field. Figure 1 shows the field location and the extent of the three fields, Ahmadi, Burgan and Magwa that make up Greater Burgan. It also gives a type log showing the seven major reservoirs in the Wara – Burgan interval. This interval contains a significant fraction of the total hydrocarbons in place. It is the source of the majority of field production, which began in 1946 with 2,000 wells drilled to date. Figure 2 gives the location of the currently producing gathering centers in the field.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118186065MS_i_1.tif" id="ImgLink-1" />
+<caption>Greater Burgan Field location and the reservoir stratigraphic column</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Greater Burgan Field location and the reservoir stratigraphic column</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr3">The Wara-Burgan sequence is the main producing interval in the giant Greater Burgan field. Figure 1 shows the field location and the extent of the three fields, Ahmadi, Burgan and Magwa that make up Greater Burgan. It also gives a type log showing the seven major reservoirs in the Wara – Burgan interval. This interval contains a significant fraction of the total hydrocarbons in place. It is the source of the majority of field production, which began in 1946 with 2,000 wells drilled to date. Figure 2 gives the location of the currently producing gathering centers in the field.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118186065MS_i_2.tif" id="ImgLink-2" />
+<caption>3D view of the simulation model with locations of production areas, gathering centers and individual wells</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>3D view of the simulation model with locations of production areas, gathering centers and individual wells</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr4">Some thin shales were not accounted for in the static model. To approximate their effect on vertical flow it was assumed that there was a relationship between “shaliness”, as indicated by the interpreted clay volume, “Vclay” from logs, and vertical permeability. A heuristic functional relationship between “Vclay” and a vertical transmissibility multiplier was proposed (Figure 3). The functional form of this relationship was adjusted in the history match. The impact of thin shales on lateral fluid movement was not considered.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118186065MS_i_3.tif" id="ImgLink-3" />
+<caption>Reduction factor to account for the shale effect on model vertical transmissibility</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Reduction factor to account for the shale effect on model vertical transmissibility</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr5">The initial aquifer model was guided by the material balance studies. Aquifer influx was modeled using twelve Carter-Tracy aquifers attached to the periphery of the model. These aquifers were divided into three vertically and connected to four quadrants (Figure 4). The vertical boundaries for the aquifers were set at the base of Mauddud and at an intermediate surface within the BGSL1 reservoir. Both boundaries were believed to correspond to extensive baffles to flow.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118186065MS_i_4.tif" id="ImgLink-4" />
+<caption>Areal view of model aquifer connections</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Areal view of model aquifer connections</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr6">The simulator can run a large model in less time than typical conventional simulators and the gap tends to widen as the number of CPUs used increases (DeBaun et al, 2005; Fjerstad et al, 2005; Tleukhabyluly et al 2016). Figure 5 shows how the overall run time covering the 70-year simulation correlates to the number of CPUs used in this model. When the same model was tested with a conventional simulator, the run times were prohibitive. Additionally, the performance advantage made it possible to maintain higher resolution versions of the model. The vertical resolution is nearly double with 7.4 million active grid cells and doubling the resolutions in all three-grid directions resulted in a 28 million active grid cell model.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118186065MS_i_5.tif" id="ImgLink-5" />
+<caption>Simulation computational performance</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Simulation computational performance</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr7">Once the preliminary high-level simulation dataset was prepared, the model was adjusted using Computer Assisted History Matching (CAHM) software. The diagram in Figure 6 illustrates the workflow.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-6">
+<label>Figure 6</label>
+<imageLink type="mediaResource" href="102118186065MS_i_6.tif" id="ImgLink-6" />
+<caption>Schematic illustration of the CAHM workflow</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Schematic illustration of the CAHM workflow</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr8">The experimental design and the optimization phases involved over 300 simulations. The resulting simulation case with the lowest global objective function value (Figure 7) was examined for potential issues prior to being adopted for the remaining model calibration. The plots in Figure 8 and Figure 9 demonstrate the impact of this AHM process on the high-level history match.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118186065MS_i_7.tif" id="ImgLink-7" />
+<caption>Progress in the CAHM optimization process</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Progress in the CAHM optimization process</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr9">The experimental design and the optimization phases involved over 300 simulations. The resulting simulation case with the lowest global objective function value (Figure 7) was examined for potential issues prior to being adopted for the remaining model calibration. The plots in Figure 8 and Figure 9 demonstrate the impact of this AHM process on the high-level history match.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118186065MS_i_8.tif" id="ImgLink-8" />
+<caption>The effect of the optimization on field water cut match</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>The effect of the optimization on field water cut match</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr10">The experimental design and the optimization phases involved over 300 simulations. The resulting simulation case with the lowest global objective function value (Figure 7) was examined for potential issues prior to being adopted for the remaining model calibration. The plots in Figure 8 and Figure 9 demonstrate the impact of this AHM process on the high-level history match.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118186065MS_i_9.tif" id="ImgLink-9" />
+<caption>The effect of the optimization on Burgan BGSM pressure match</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>The effect of the optimization on Burgan BGSM pressure match</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr11">The experimental design and the optimization phases involved over 300 simulations. The resulting simulation case with the lowest global objective function value (Figure 7) was examined for potential issues prior to being adopted for the remaining model calibration. The plots in Figure 8 and Figure 9 demonstrate the impact of this AHM process on the high-level history match.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-10">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118186065MS_i_10.tif" id="ImgLink-10" />
+<caption>RFT pressure match at eight wells</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>RFT pressure match at eight wells</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr12">Comparisons of the model results with the 561 RFT measurements acquired between 1983 and 2015 was made frequently during the model calibration phase. Figure 9 shows an example of such comparisons from eight wells and demonstrates the inefficiency of performing the assessment with a large data set. To streamline this task, a special workflow was designed and implemented to display the geographical distribution of the 561 matches in each reservoir regardless of when the individual measurements were acquired. Figure 10 shows such comparisons in both the preliminary and final versions of the model for the BGSM reservoir.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-11">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118186065MS_i_11.tif" id="ImgLink-11" />
+<caption>Geographical distribution of RFT pressure mismatches at 561 wells</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Geographical distribution of RFT pressure mismatches at 561 wells</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr13">Figure 11 shows the comparisons between water saturation values estimated by the final model and corresponding values determined based on the 2014 PNC measurements in eight of the wells. Similar to what was described regarding to the RFT data calibration, a special workflow was implemented for assessing rapidly the consistency between the model results and the estimated water saturation for the 380 PNC logs. A set of remaining oil column (ROC) maps based on values derived mainly from PNC logs was also available for the more homogeneous reservoirs. Corresponding maps, based on the saturation distribution in the same year, were calculated from the simulation model during the calibration process. Figure 12 shows the final model largely capturing the major features of the ROC in the BGSM reservoir.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-12">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118186065MS_i_12.tif" id="ImgLink-12" />
+<caption>PNC water saturation match at eight wells</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>PNC water saturation match at eight wells</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr14">Figure 11 shows the comparisons between water saturation values estimated by the final model and corresponding values determined based on the 2014 PNC measurements in eight of the wells. Similar to what was described regarding to the RFT data calibration, a special workflow was implemented for assessing rapidly the consistency between the model results and the estimated water saturation for the 380 PNC logs. A set of remaining oil column (ROC) maps based on values derived mainly from PNC logs was also available for the more homogeneous reservoirs. Corresponding maps, based on the saturation distribution in the same year, were calculated from the simulation model during the calibration process. Figure 12 shows the final model largely capturing the major features of the ROC in the BGSM reservoir.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-13">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118186065MS_i_13.tif" id="ImgLink-13" />
+<caption>BGSM reservoir remaining oil column (ROC) maps derived from PNC logs and model (2014)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>BGSM reservoir remaining oil column (ROC) maps derived from PNC logs and model (2014)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="15" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr15">By any measure, calibrating the model to observations of individual wells is a significant and time-consuming task. The model had recorded production observations for close to 2,600 “simulation wells” and 1,900 of these have static pressure measurements. To aid the calibration process, these observations were grouped by reservoir and sub-field. Figure 13 shows how the overall match for the Burgan field BGSM reservoir in the calibrated mode.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-14">
+<label>Figure 13</label>
+<imageLink type="mediaResource" href="102118186065MS_i_14.tif" id="ImgLink-14" />
+<caption>Comparison between model outputs and observations for Burgan Field BGSM reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Comparison between model outputs and observations for Burgan Field BGSM reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118186065MS_i_14a.tif" id="ImgLink-14a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Static BHP</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118186065MS_i_14b.tif" id="ImgLink-14b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Gas oil ratio</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-14c">
+<imageLink type="mediaResource" href="102118186065MS_i_14c.tif" id="ImgLink-14c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Oil Rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-14d">
+<imageLink type="mediaResource" href="102118186065MS_i_14d.tif" id="ImgLink-14d" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Water cut</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="15" data-type-order="16">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr16">During the calibration process, the match between model outputs and the individual well observations was regularly assessed and Table 1 shows such assessment for the calibrated model in percentages of the total number of wells. On the other hand, it is also useful to view the quality of the overall match by region. Figure 14 shows the calibrated model match quality with the size of each sector according to the oil in place value of the corresponding region.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-15">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118186065MS_i_15.tif" id="ImgLink-15" />
+<caption>Model match quality by reservoir region</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Model match quality by reservoir region</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="17" figure-order="16" data-type-order="17">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr17">A review of the Field/Gathering Centre /Reservoir performance plots made it was clear that one of the major inconsistencies between the model results and the observations was in the early water production (prior to 1985), as illustrated in Figure 8 and Figure 15. Adjusting parameters in the “Vclay” model for vertical permeability modification and the model for immobile heavy oil enabled some improvement in the match to be made. The level of flow between reservoirs, in particular between the BGSL2 and BGSM reservoirs also had a major impact on this.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-16">
+<label>Figure 15</label>
+<imageLink type="mediaResource" href="102118186065MS_i_16.tif" id="ImgLink-16" />
+<caption>Field level history match</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Field level history match</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-16a">
+<imageLink type="mediaResource" href="102118186065MS_i_16a.tif" id="ImgLink-16a" />
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-16b">
+<imageLink type="mediaResource" href="102118186065MS_i_16b.tif" id="ImgLink-16b" />
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-16c">
+<imageLink type="mediaResource" href="102118186065MS_i_16c.tif" id="ImgLink-16c" />
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-16d">
+<imageLink type="mediaResource" href="102118186065MS_i_16d.tif" id="ImgLink-16d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="17" data-type-order="18">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr18">In some earlier modelling efforts (Ambastha et al 2006) such flow was made possible by incorporating non-neighbor connections. This was incorporated on an ad hoc basis rather than being base on any geological features. In the current model, grid cells with elevated vertical transmissibility values were introduced. This is in line with the approach described by Van Lingen et al (2001). The extent and location of each conductive fault (Figure 16) was a matter of match refinement that was guided by the location of fault traces, geochemical data and seismic “Ant-Tracks” that identified possible small displacement faults not included in the static model. Additional improvements in matching field history were achieved by regional calibrations.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-17">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118186065MS_i_17.tif" id="ImgLink-17" />
+<caption>Distribution of grid cells representing the conductive faults</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Distribution of grid cells representing the conductive faults</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="18" data-type-order="19">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr19">These crossflows at individual wells are attributed to holes in tubing and casing, open/damaged sliding sleeves, leaky packers, failures in cement squeeze or poor cement bond, misplaced/cut choke in crossover packers and surface injection from dual intervals (i.e., backpressure valves not properly functioning or non-existent). Documented well crossflow data were reviewed and crossflow allowed where it was consistent with the observed pressure and/or water production. In addition to the increased permeability, an identified Wara channel fairway in the southern Burgan field was modified to improve the match in the crestal area of Burgan. Figure 17 shows that significant fluid migration occurred over the field life.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-18">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118186065MS_i_18.tif" id="ImgLink-18" />
+<caption>Overall estimated oil (green arrows) and water (blue arrows) migration volumes to date. Size of arrows gives relative idea of volumes.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Overall estimated oil (green arrows) and water (blue arrows) migration volumes to date. Size of arrows gives relative idea of volumes.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="20" figure-order="19" data-type-order="20">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr20">As mentioned, a number of gridding options were tested during the original model preparation phase. The tests include the ability of these models to capture different levels of heterogeneity and the subsurface flow characteristics. Figure 18 demonstrates how water saturation in these models compare to the interpreted PNC values at eight selected wells. The figure shows some observable advantages of the maximum resolution grid (28 million active grid cells) in replicating the fine-scale fluctuation of the PNC water saturation values. Nevertheless, the four million active cells model grid was selected for the efficient execution of the calibration effort with moderate vertical and lateral grid resolutions.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-19">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118186065MS_i_19.tif" id="ImgLink-19" />
+<caption>Sensitivity of the comparisons between model outputs and PNC water saturation logs to grid resolution</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Sensitivity of the comparisons between model outputs and PNC water saturation logs to grid resolution</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="21" figure-order="20" data-type-order="21">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr21">An example is the identification of a missing well event. A damaged Sliding Sleeve Device (SSD) for well BG0XXC/T in 1999 was not reported in the event dataset. Reference to this event, however, was found in the paper well file. The upper graph (without correct event) of Figure 19 shows that the water production was inconsistent with the observed water production for BG0XXC producing through casing. The correct well event was added (damaged SSD), and the well water cut improved significantly, as presented in lower graph. A similar approach was followed across the field and well events modified with valid evidences to explain the anomalous behavior.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-20">
+<label>Figure 19</label>
+<imageLink type="mediaResource" href="102118186065MS_i_20.tif" id="ImgLink-20" />
+<caption>Well history match results for in BG0XXC/T before (upper plot) and after (lower plot) adding sliding sleeve event</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Well history match results for in BG0XXC/T before (upper plot) and after (lower plot) adding sliding sleeve event</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-20a">
+<imageLink type="mediaResource" href="102118186065MS_i_20a.tif" id="ImgLink-20a" />
+<figure-specific-caption>
+<caption-order>upper plot</caption-order>
+<caption-text>BG0XXC/T before</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-20b">
+<imageLink type="mediaResource" href="102118186065MS_i_20b.tif" id="ImgLink-20b" />
+<figure-specific-caption>
+<caption-order>lower plot</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="22" figure-order="21" data-type-order="22">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr22">Figure 20 shows the results at a field level with different vintages of the numerical model and its impact on the reservoir water movement. While the results at a field level are similar, given the size of the complex, gathering center and formation-based analysis were also considered. This approach allowed areas to be highlighted where model calibration needed improvement as well as to recognize those where further enhacements did not translate to a significant change in the predicted field performance.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-21">
+<label>Figure 20 </label>
+<imageLink type="mediaResource" href="102118186065MS_i_21.tif" id="ImgLink-21" />
+<caption>Results at a field level of different vintages of the numerical model and its impact on the reservoir water movement.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Results at a field level of different vintages of the numerical model and its impact on the reservoir water movement.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="22" figure-order="22" data-type-order="23">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr23">The same process enabled testing of different geological scenarios, particularly in the Wara reservoir where vertical communication and geological distribution of the major channel features were investigated. As the understanding of the flow matured so did the impact on model predictivity. Figure 21 shows the comparsion between two models based on different geological realizations.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-22">
+<label>Figure 21 </label>
+<imageLink type="mediaResource" href="102118186065MS_i_22.tif" id="ImgLink-22" />
+<caption>Comparsion between two models (2015a and 2015b) based on different geological realizations</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>21</caption-order>
+<caption-text>Comparsion between two models (2015a and 2015b) based on different geological realizations</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="23" figure-order="23" data-type-order="24">
+<link href="link-23" type="image" />
+<appendix>
+<linkTarget id="link-23" type="image">
+<anchoringText id="Ancr24">The quality of the final history match at the field and reservoir levels is depicted in Figure 22 and Figure 23. Each of these figures consists of four graphs for the comparison of average datum corrected pressure (top left), oil production rate (bottom left), gas-oil ratio (top right), and watercut (bottom right). In these graphs, black markers represent the measured historical values whereas the solid lines show the simulated results. It should be noted that the observed pressures were quality checked and only the high confidence points were included for comparison. In addition, for individual reservoirs in the model, pressure points were filtered such that only those measurements that were contained to one reservoir were chosen.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-23">
+<label>Figure 22</label>
+<imageLink type="mediaResource" href="102118186065MS_i_23.tif" id="ImgLink-23" />
+<caption>Field performance plot</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>22</caption-order>
+<caption-text>Field performance plot</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-23a">
+<imageLink type="mediaResource" href="102118186065MS_i_23a.tif" id="ImgLink-23a" />
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-23b">
+<imageLink type="mediaResource" href="102118186065MS_i_23b.tif" id="ImgLink-23b" />
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-23c">
+<imageLink type="mediaResource" href="102118186065MS_i_23c.tif" id="ImgLink-23c" />
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-23d">
+<imageLink type="mediaResource" href="102118186065MS_i_23d.tif" id="ImgLink-23d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="23" figure-order="24" data-type-order="25">
+<link href="link-24" type="image" />
+<appendix>
+<linkTarget id="link-24" type="image">
+<anchoringText id="Ancr25">The quality of the final history match at the field and reservoir levels is depicted in Figure 22 and Figure 23. Each of these figures consists of four graphs for the comparison of average datum corrected pressure (top left), oil production rate (bottom left), gas-oil ratio (top right), and watercut (bottom right). In these graphs, black markers represent the measured historical values whereas the solid lines show the simulated results. It should be noted that the observed pressures were quality checked and only the high confidence points were included for comparison. In addition, for individual reservoirs in the model, pressure points were filtered such that only those measurements that were contained to one reservoir were chosen.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-24">
+<label>Figure 23</label>
+<imageLink type="mediaResource" href="102118186065MS_i_24.tif" id="ImgLink-24" />
+<caption>Reservoir performance plot (BGSM)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>23</caption-order>
+<caption-text>Reservoir performance plot (BGSM)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-24a">
+<imageLink type="mediaResource" href="102118186065MS_i_24a.tif" id="ImgLink-24a" />
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-24b">
+<imageLink type="mediaResource" href="102118186065MS_i_24b.tif" id="ImgLink-24b" />
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-24c">
+<imageLink type="mediaResource" href="102118186065MS_i_24c.tif" id="ImgLink-24c" />
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-24d">
+<imageLink type="mediaResource" href="102118186065MS_i_24d.tif" id="ImgLink-24d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="24" figure-order="25" data-type-order="26">
+<link href="link-25" type="image" />
+<appendix>
+<linkTarget id="link-25" type="image">
+<anchoringText id="Ancr26">Because of the large well count in this project, only history match performance plots for a select number of Gathering Centers (GC) are presented. Figure 24 through Figure 29 present group oil production rate (left) and watercut (right) profiles, with the black markers representing the measured historical values.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-25">
+<label>Figure 24</label>
+<imageLink type="mediaResource" href="102118186065MS_i_25.tif" id="ImgLink-25" />
+<caption>GC01 performance plot</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>24</caption-order>
+<caption-text>GC01 performance plot</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-25a">
+<imageLink type="mediaResource" href="102118186065MS_i_25a.tif" id="ImgLink-25a" />
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-25b">
+<imageLink type="mediaResource" href="102118186065MS_i_25b.tif" id="ImgLink-25b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="24" figure-order="26" data-type-order="27">
+<link href="link-26" type="image" />
+<appendix>
+<linkTarget id="link-26" type="image">
+<anchoringText id="Ancr27">Because of the large well count in this project, only history match performance plots for a select number of Gathering Centers (GC) are presented. Figure 24 through Figure 29 present group oil production rate (left) and watercut (right) profiles, with the black markers representing the measured historical values.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-26">
+<label>Figure 25</label>
+<imageLink type="mediaResource" href="102118186065MS_i_26.tif" id="ImgLink-26" />
+<caption>GC04 performance plot</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>25</caption-order>
+<caption-text>GC04 performance plot</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-26a">
+<imageLink type="mediaResource" href="102118186065MS_i_26a.tif" id="ImgLink-26a" />
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-26b">
+<imageLink type="mediaResource" href="102118186065MS_i_26b.tif" id="ImgLink-26b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="25" figure-order="27" data-type-order="28">
+<link href="link-27" type="image" />
+<appendix>
+<linkTarget id="link-27" type="image">
+<anchoringText id="Ancr28">Because of the large well count in this project, only history match performance plots for a select number of Gathering Centers (GC) are presented. Figure 24 through Figure 29 present group oil production rate (left) and watercut (right) profiles, with the black markers representing the measured historical values.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-27">
+<label>Figure 26</label>
+<imageLink type="mediaResource" href="102118186065MS_i_27.tif" id="ImgLink-27" />
+<caption>GC07 performance plot</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>26</caption-order>
+<caption-text>GC07 performance plot</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-27a">
+<imageLink type="mediaResource" href="102118186065MS_i_27a.tif" id="ImgLink-27a" />
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-27b">
+<imageLink type="mediaResource" href="102118186065MS_i_27b.tif" id="ImgLink-27b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="25" figure-order="28" data-type-order="29">
+<link href="link-28" type="image" />
+<appendix>
+<linkTarget id="link-28" type="image">
+<anchoringText id="Ancr29">Because of the large well count in this project, only history match performance plots for a select number of Gathering Centers (GC) are presented. Figure 24 through Figure 29 present group oil production rate (left) and watercut (right) profiles, with the black markers representing the measured historical values.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-28">
+<label>Figure 27</label>
+<imageLink type="mediaResource" href="102118186065MS_i_28.tif" id="ImgLink-28" />
+<caption>GC10 performance plot</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>27</caption-order>
+<caption-text>GC10 performance plot</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-28a">
+<imageLink type="mediaResource" href="102118186065MS_i_28a.tif" id="ImgLink-28a" />
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-28b">
+<imageLink type="mediaResource" href="102118186065MS_i_28b.tif" id="ImgLink-28b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="26" figure-order="29" data-type-order="30">
+<link href="link-29" type="image" />
+<appendix>
+<linkTarget id="link-29" type="image">
+<anchoringText id="Ancr30">Because of the large well count in this project, only history match performance plots for a select number of Gathering Centers (GC) are presented. Figure 24 through Figure 29 present group oil production rate (left) and watercut (right) profiles, with the black markers representing the measured historical values.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-29">
+<label>Figure 28</label>
+<imageLink type="mediaResource" href="102118186065MS_i_29.tif" id="ImgLink-29" />
+<caption>GC19 performance plot</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>28</caption-order>
+<caption-text>GC19 performance plot</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-29a">
+<imageLink type="mediaResource" href="102118186065MS_i_29a.tif" id="ImgLink-29a" />
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-29b">
+<imageLink type="mediaResource" href="102118186065MS_i_29b.tif" id="ImgLink-29b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="26" figure-order="30" data-type-order="31">
+<link href="link-30" type="image" />
+<appendix>
+<linkTarget id="link-30" type="image">
+<anchoringText id="Ancr31">Because of the large well count in this project, only history match performance plots for a select number of Gathering Centers (GC) are presented. Figure 24 through Figure 29 present group oil production rate (left) and watercut (right) profiles, with the black markers representing the measured historical values.</anchoringText>
+<image-wrap id="102118186065MS-Img_SPi-30">
+<label>Figure 29</label>
+<imageLink type="mediaResource" href="102118186065MS_i_30.tif" id="ImgLink-30" />
+<caption>GC21 performance plot</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>29</caption-order>
+<caption-text>GC21 performance plot</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-30a">
+<imageLink type="mediaResource" href="102118186065MS_i_30a.tif" id="ImgLink-30a" />
+</image-wrap>
+<image-wrap id="102118186065MS-Img_SPi-30b">
+<imageLink type="mediaResource" href="102118186065MS_i_30b.tif" id="ImgLink-30b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

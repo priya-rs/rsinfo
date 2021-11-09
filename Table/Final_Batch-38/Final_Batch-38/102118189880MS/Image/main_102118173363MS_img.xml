@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189880MS.txt" extractionDate="2021-03-30T11:20:01Z">
+<doi>10.2118/173363-MS</doi>
+<pii>10.2118/189880-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="4" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">Figure 1 introduces Injection Variability Index, this is the ratio of the baseline injection rate, with zero fracture pressure variability between initiation points (clusters), to the injection rate associated with variations in perforation friction at other initiation points intra-stage. As fracture-entry pressure varies, this pressure variation is directly communicated as an equal pressure change across the perforations (Δpf), since the pressure is constant inside the wellbore across all the clusters within a stage, the injection rate will either increase or decrease at each cluster proportionally related to the perforation friction; the rate change is magnified since it is squared relative to the pressure change (Ppf ∝ Q2).</anchoringText>
+<image-wrap id="102118189880MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118189880MS_i_1.tif" id="ImgLink-1" />
+<caption>Injection Variability Index, the ratio of the baseline injection rate, 0 psi variability in intra-stage fracture-entry pressure, to the injection rate associated with variations in fracture-entry pressure at other entry points/clusters.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Injection Variability Index, the ratio of the baseline injection rate, 0 psi variability in intra-stage fracture-entry pressure, to the injection rate associated with variations in fracture-entry pressure at other entry points/clusters.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">Figure 2 is a histogram for the calculated minimum horizontal stress using the Poisson’s ratio from drill bit geomechanics lateral data and a given pore pressure along a 10,000’ Middle Bakken lateral. The amount of minimum horizontal stress variability for any single stage will be dependent on how stratigraphically flat that stage is relative to the total variability captured across the entire lateral and its proximity to key bedding changes within the drillers target box.</anchoringText>
+<image-wrap id="102118189880MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118189880MS_i_2.tif" id="ImgLink-2" />
+<caption>Histogram of the minimum horizontal stress [psi] along a Middle Bakken horizontal wellbore.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Histogram of the minimum horizontal stress [psi] along a Middle Bakken horizontal wellbore.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Utilizing the SDT’s, three Middle Bakken wells were selected to have full sets of pre- and post- proppant step-down analysis. Well A, Well B and Well C had the pre- and post- proppant SDT’s and initial and final Pnwb for all stages analyzed are shown in Figure 3.</anchoringText>
+<image-wrap id="102118189880MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118189880MS_i_3.tif" id="ImgLink-3" />
+<caption>Initial and final near-wellbore friction (<i>P</i>
+<sub>nwb</sub>) from step down test for all applicable stages in Well A, B &amp; C. All data is shown as a cumulative distribution function and the P50 values for the initial and final SDT’s are shown in the bar chart on the right. Near-Wellbore Friction Wells A, B, C – P50 Data Points</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Initial and final near-wellbore friction (P<sub>nwb</sub>) from step down test for all applicable stages in Well A, B &amp; C. All data is shown as a cumulative distribution function and the P50 values for the initial and final SDT’s are shown in the bar chart on the right. Near-Wellbore Friction Wells A, B, C – P50 Data Points</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189880MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118189880MS_i_3a.tif" id="ImgLink-3a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Near-Wellbore Friction</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189880MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118189880MS_i_3b.tif" id="ImgLink-3b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Wells A, B, C – P50 Data Points</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">Barree summarized the effect of a stress shadow as incremental minimum horizontal stress “sensed” by the less dominate clusters. Given the complicated nature of calculating the stress shadow for a given perforating and completion design it will not be discussed in depth, other than as a source of stress variation that justifies the use of an XLE perforating strategy. Below in Figure 4 is one example that has been published on the topic (Lecampion et al. 2015).</anchoringText>
+<image-wrap id="102118189880MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118189880MS_i_4.tif" id="ImgLink-4" />
+<caption>Lecampion et al. 2015, SPE-173363-MS. Fracture modeling cases demonstrating increased perforation friction reduces the impact of stress shadowing on uneven fracture growth for multiple cluster per stage designs. No Entry friction 200PSI Entry friction (@18BPM/cluster)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>
+<link href="BIB1">Lecampion et al. 2015</link>, SPE-173363-MS. Fracture modeling cases demonstrating increased perforation friction reduces the impact of stress shadowing on uneven fracture growth for multiple cluster per stage designs. No Entry friction 200PSI Entry friction (@18BPM/cluster)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189880MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118189880MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>No Entry friction</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189880MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118189880MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>200PSI Entry friction (@18BPM/cluster)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-21" type="bib">
+<bib id="BIB1">
+<label>Lecampion et al., 2015</label>
+<author>
+<first-name>B.</first-name>
+<last-name>Lecampion</last-name>
+</author>, <author>
+<first-name>J.</first-name>
+<last-name>Desroches</last-name>
+</author>, <author>
+<first-name>X.</first-name>
+<last-name>Weng</last-name>
+</author>, <author>
+<first-name>J.</first-name>
+<last-name>Burghardt</last-name>
+</author>, &amp; <author>
+<first-name>J. E</first-name>
+<last-name>Brown</last-name>
+</author>. (<pubDate>2015</pubDate>, February 3). <article-title>Can We Engineer Better Multistage Horizontal Completions? Evidence of the Importance of Near-Wellbore Fracture Geometry from Theory, Lab and Field Experiments</article-title>. Society of Petroleum Engineers. doi:<doi>10.2118/173363-MS</doi>
+</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="7" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">This example is shown in Figure 5. Even-hole charges are engineered to greatly limit the entry hole variation and for our standard 4.5,” 11.6 lb/ft, P-110 horizontal liner at any orientation. Test data demonstrates an approximately 3% diameter variation compared to the stated entry hole diameter and thus limits the variability in perforating friction to no more than 122% and no lower than 91% relative to the stated entry hole diameter for our even-hole charge of choice. To reliably achieve the targeted pump rate when applying XLE, using charges that provide consistent entry hole at every orientation is critical.</anchoringText>
+<image-wrap id="102118189880MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118189880MS_i_5.tif" id="ImgLink-5" />
+<caption>Comparison of entry hole diameters and the resulting perforation friction impacts for various phasing with even-hole and conventional charges. Images are from SPE-184878-MS (Cuthill et al. 2017). Even-Hole Perforating Charges Conventional Perforating Charges</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Comparison of entry hole diameters and the resulting perforation friction impacts for various phasing with even-hole and conventional charges. Images are from SPE-184878-MS (<link href="BIB2">Cuthill et al. 2017</link>). Even-Hole Perforating Charges Conventional Perforating Charges</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189880MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118189880MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Even-Hole Perforating Charges</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189880MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118189880MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Conventional Perforating Charges</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-22" type="bib">
+<bib id="BIB2">
+<label>Cuthill et al., 2017</label>
+<author>
+<first-name>D.</first-name>
+<last-name>Cuthill</last-name>
+</author>, <author>
+<first-name>W.</first-name>
+<last-name>Yang</last-name>
+</author>, &amp; <author>
+<first-name>J.</first-name>
+<last-name>Hardesty</last-name>
+</author> (<pubDate>2017</pubDate>, January 24). <article-title>Improved Hydraulic Fracturing Perforation Efficiency Observed with Constant Entry Hole and Constant Penetration Perforating System</article-title>. Society of Petroleum Engineers. doi:<doi>10.2118/184878-MS</doi>
+</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">Utilizing Step-Down Tests (SDT) with a fixed Cd and Dp for each stage in Well A, B and C, a dataset of 84 stages was captured. The initial percentage of holes open from this data set is shown as a cumulative distribution function in Figure 6. None of the stages in Well A, Well B and Well C had acid pads or proppant scours. Currently, 75% percent of the perforations shot are assumed to be open when designing XLE perforating for Bakken wells.</anchoringText>
+<image-wrap id="102118189880MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118189880MS_i_6.tif" id="ImgLink-6" />
+<caption>Step down analysis for % of holes open for all applicable stages in Well A, B and C. Shown in blue circles are the data points for all stages and shown in orange triangles are the data points for stages that had initial rates greater than or equal to 70 bpm before the pre-proppant step down test was performed.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Step down analysis for % of holes open for all applicable stages in Well A, B and C. Shown in blue circles are the data points for all stages and shown in orange triangles are the data points for stages that had initial rates greater than or equal to 70 bpm before the pre-proppant step down test was performed.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">In Figure 7, a perforating friction model is shown that is useful in understanding the magnitude of change in perforating friction from an initial state through perforation rounding and then erosion that will eventually occur as an increasing amount of proppant passes through the perforation holes. This figure was created for the illustrative purpose of quantifying the magnitude of change to Ppf from rounding, the CD variable changing, and erosion, the Cp variable changing, in Equation 1. Figure 7 assumes 80 bpm and an initial diameter of 0.37 inches and initial coefficient of discharge for the perforations of 0.75.</anchoringText>
+<image-wrap id="102118189880MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118189880MS_i_7.tif" id="ImgLink-7" />
+<caption>Perforation friction curves for initial parameters Q = 80 bpm, Cd = 0.75, Dp = 0.37 in. The various curves assume changes to Cd and Dp due to rounding and then erosion. Cd starts at 0.75 then goes to 0.85 and to a final value of 0.95 before the perforation diameter begins to increase due to erosion. Dp values are shown with 5% increments diameter increases up to a final value representing a 30% increase to perforation diameter.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Perforation friction curves for initial parameters Q = 80 bpm, Cd = 0.75, Dp = 0.37 in. The various curves assume changes to Cd and Dp due to rounding and then erosion. Cd starts at 0.75 then goes to 0.85 and to a final value of 0.95 before the perforation diameter begins to increase due to erosion. Dp values are shown with 5% increments diameter increases up to a final value representing a 30% increase to perforation diameter.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">Field calibrations on Wells A, B and C demonstrated the ability to maintain greater than 1,500 psi of perforating friction in a clear majority of the stages analyzed with SDT’s. The SDT values for initial and final perforating friction for all applicable stages are shown as both a cumulative distribution function and P50 values in Figure 8. It is noteworthy that this would indicate the completion designs pumped in Well A, B and C, only rounded the perforations and did not cause significant enlargement of Dp.</anchoringText>
+<image-wrap id="102118189880MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118189880MS_i_8.tif" id="ImgLink-8" />
+<caption>Initial and final perforation friction from step down test for all applicable stages in Wells A, B &amp; C. Data is shown as a cumulative distribution function and simple bar chart of the P50 values for the initial (pre-proppant) and final (post-proppant).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Initial and final perforation friction from step down test for all applicable stages in Wells A, B &amp; C. Data is shown as a cumulative distribution function and simple bar chart of the P50 values for the initial (pre-proppant) and final (post-proppant).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189880MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118189880MS_i_8a.tif" id="ImgLink-8a" />
+</image-wrap>
+<image-wrap id="102118189880MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118189880MS_i_8b.tif" id="ImgLink-8b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">Radioactive (RA) tracer data was used for downhole diagnostics of perforation cluster efficiency (PCE) in early field trials of XLE in January 2016. Four stages were chosen to apply extreme values of limited entry that ranged from 2,000 psi to well over 4,000 psi. The PCE for these four stages are compared in Figure 9 to all other stages traced in the same wellbore. The PCE for each proppant ramp and the final PCE was calculated using the same quantitative method published and discussed in SPE 184828 (Weddle et al. 2017).</anchoringText>
+<image-wrap id="102118189880MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118189880MS_i_9.tif" id="ImgLink-9" />
+<caption>Perforation cluster efficiency (PCE) comparing stages with XLE vs non-XLE stages for Well X.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Perforation cluster efficiency (PCE) comparing stages with XLE vs non-XLE stages for Well X.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">Radioactive (RA) tracer data was used for downhole diagnostics in Well A. PCE was calculated using the same quantitative method published and discussed in SPE 184828 (Weddle et al. 2017). The stage shown in Figure 10, an RA tracer log, calculated a PCE of 87%, or 13 of 15 clusters shot. Figure 11 shows the treating plot for the same stage. The PCE for all stages traced in Well A averaged 77%, but it is worth noting that cluster count per stage was varied in multiple stages that were traced so not all of them had 15 clusters.</anchoringText>
+<image-wrap id="102118189880MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118189880MS_i_10.tif" id="ImgLink-10" />
+<caption>RA Tracer log for stage 5 in Well A. All stages were designed to use XLE. PCE of 87%calculated for this stage, 13 of 15 cluster shot. PCE for all stages traced in Well A averaged 77%.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>RA Tracer log for stage 5 in Well A. All stages were designed to use XLE. PCE of 87%calculated for this stage, 13 of 15 cluster shot. PCE for all stages traced in Well A averaged 77%.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">Radioactive (RA) tracer data was used for downhole diagnostics in Well A. PCE was calculated using the same quantitative method published and discussed in SPE 184828 (Weddle et al. 2017). The stage shown in Figure 10, an RA tracer log, calculated a PCE of 87%, or 13 of 15 clusters shot. Figure 11 shows the treating plot for the same stage. The PCE for all stages traced in Well A averaged 77%, but it is worth noting that cluster count per stage was varied in multiple stages that were traced so not all of them had 15 clusters.</anchoringText>
+<image-wrap id="102118189880MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118189880MS_i_11.tif" id="ImgLink-11" />
+<caption>Treating plot for Stage 5 in Well A.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Treating plot for Stage 5 in Well A.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">Radioactive (RA) tracer data was used for downhole diagnostics in Well B, and PCE was calculated in the same manner as previously discussed. The stage shown in Figure 12, and RA tracer log, calculated a PCE of 87%, or 13 of 15 clusters shot. Figure 13 shows the treating plot for the same stage. This stage shows indication of a leaking plug as well where the top few clusters from the prior stage showed significant RA tracer counts. The PCE for all stages traced in Well B averaged 89%, but it is worth noting that cluster count per stage was varied in multiple stages that were traced so not all stages had 15 clusters.</anchoringText>
+<image-wrap id="102118189880MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118189880MS_i_12.tif" id="ImgLink-12" />
+<caption>RA Tracer log for a stage 3 in Well B. All stages were designed to use XLE. PCE of 87%calculated for this stage, 13 of 15 cluster shot. PCE for all stages traced in Well B averaged 89%.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>RA Tracer log for a stage 3 in Well B. All stages were designed to use XLE. PCE of 87%calculated for this stage, 13 of 15 cluster shot. PCE for all stages traced in Well B averaged 89%.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">Radioactive (RA) tracer data was used for downhole diagnostics in Well B, and PCE was calculated in the same manner as previously discussed. The stage shown in Figure 12, and RA tracer log, calculated a PCE of 87%, or 13 of 15 clusters shot. Figure 13 shows the treating plot for the same stage. This stage shows indication of a leaking plug as well where the top few clusters from the prior stage showed significant RA tracer counts. The PCE for all stages traced in Well B averaged 89%, but it is worth noting that cluster count per stage was varied in multiple stages that were traced so not all stages had 15 clusters.</anchoringText>
+<image-wrap id="102118189880MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118189880MS_i_13.tif" id="ImgLink-13" />
+<caption>Treating plot for Stage 3 in Well B.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Treating plot for Stage 3 in Well B.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr14">Post-frac fiber optic diagnostics were used in two wells, a Middle Bakken and a Three Forks, in June of 2017. A composite carbon rod with fiber optic strands inside of it was deployed to log both distributed temperature sensing (DTS) and distributed acoustic sensing (DAS) during producing and shut in well conditions. A warm-back analysis was performed using the DTS data to analyze the frac fluid distribution within each stage and is shown below in Figure 14. The warm-back analysis demonstrated a consistent distribution of fluid as binned by thirds within each stage.</anchoringText>
+<image-wrap id="102118189880MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118189880MS_i_14.tif" id="ImgLink-14" />
+<caption>Frac fluid allocation based on warm-back analysis with Distributed Temperature Sensing data post-frac. In this figure a [bbl/ft/cluster] metric is shown per bin to analyze the data given some stages have 12 clusters and others have 15.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Frac fluid allocation based on warm-back analysis with Distributed Temperature Sensing data post-frac. In this figure a [bbl/ft/cluster] metric is shown per bin to analyze the data given some stages have 12 clusters and others have 15.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="15" data-type-order="15">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr15">Another way to look at the data from the previous figure is with a box and whisker style plot shown in Figure 15. The box is defined by the middle two quartiles of data, with the median included as a line within the box, and the whiskers representing the maximum and minimum. In this figure, the three intra-stage bins are plotted using the percentage of fluid used in each stage to depict how even the frac fluid was distributed within each bin across all full stages logged (Stages 4-13 from Figure 14).</anchoringText>
+<image-wrap id="102118189880MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118189880MS_i_15.tif" id="ImgLink-15" />
+<caption>Comparison of intra-stage frac fluid distribution from DTS warm-back analysis.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Comparison of intra-stage frac fluid distribution from DTS warm-back analysis.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="16" data-type-order="16">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr16">The results of this production log analysis are shown for a single stage in Figure 16. Of note, both Figure 14 and Figure 16 are from the same Middle Bakken well, and was one of two wells in this diagnostic project. The two well average for producing cluster efficiency was 80% for the 20 complete stages logged and analyzed. The Middle Bakken stage shown below indicates 14 of 15 clusters were producing in this stage for a single stage producing PCE of 93%.</anchoringText>
+<image-wrap id="102118189880MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118189880MS_i_16.tif" id="ImgLink-16" />
+<caption>Post-frac production log evaluation using DAS and DTS. Stage shown is from a Middle Bakken, but not in Well A, B or C. This stage shows 14 of 15 clusters producing.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Post-frac production log evaluation using DAS and DTS. Stage shown is from a Middle Bakken, but not in Well A, B or C. This stage shows 14 of 15 clusters producing.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="17" data-type-order="17">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr17">The reservoir model in Figure 17 was run at several cluster efficiencies to find the best history match and the GOR forecasts along with the actual data from the flowing life of a representative well is shown. For this well we found our best history match (HM) followed the 67% cluster efficiency trend during its naturally flowing period. Of note, this well had an earlier generation completion design that did not utilize XLE or even-hole charges but did include solid particulate diverter. Ongoing reservoir modeling work is planned to evaluate later generations of completion design that incorporated XLE and HDP designs.</anchoringText>
+<image-wrap id="102118189880MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118189880MS_i_17.tif" id="ImgLink-17" />
+<caption>History matching sensitivity for determination of producing perforation cluster efficiency. January 2015 Completion design (Solid particulate diverter, 35 stages, not even-hole charges and not applying XLE) with 15 clusters per stage shot and a history match with a 67%producing cluster efficiency (approximately 10 clusters per stage) producing after 9 months flowing.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>History matching sensitivity for determination of producing perforation cluster efficiency. January 2015 Completion design (Solid particulate diverter, 35 stages, not even-hole charges and not applying XLE) with 15 clusters per stage shot and a history match with a 67%producing cluster efficiency (approximately 10 clusters per stage) producing after 9 months flowing.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="18" data-type-order="18">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr18">With that in mind, Figure 18 for Well A, Figure 19 for Well B and Figure 20 for Well C, show an offset operator comparison and a comparison of actual results to the pre-drill expectations in a stacked bar chart for each well respectively. The operator averages shown in the graphs and on the maps as individual well bubbles for each. Cluster level data and the use of diverter is not reported to the North Dakota Industrial Commission (NDIC), and thus are not publicly available as inputs into the multi-variate analysis.</anchoringText>
+<image-wrap id="102118189880MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118189880MS_i_18.tif" id="ImgLink-18" />
+<caption>Offset operator production comparison of Well A to offset operators, Op. 1, 2 and 3. Including a 180-day cumulative oil per lateral length bar chart, Average cumulative oil per foot by Operator and a 365-day cumulative oil bubble map.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Offset operator production comparison of Well A to offset operators, Op. 1, 2 and 3. Including a 180-day cumulative oil per lateral length bar chart, Average cumulative oil per foot by Operator and a 365-day cumulative oil bubble map.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="19" data-type-order="19">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr19">With that in mind, Figure 18 for Well A, Figure 19 for Well B and Figure 20 for Well C, show an offset operator comparison and a comparison of actual results to the pre-drill expectations in a stacked bar chart for each well respectively. The operator averages shown in the graphs and on the maps as individual well bubbles for each. Cluster level data and the use of diverter is not reported to the North Dakota Industrial Commission (NDIC), and thus are not publicly available as inputs into the multi-variate analysis.</anchoringText>
+<image-wrap id="102118189880MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118189880MS_i_19.tif" id="ImgLink-19" />
+<caption>Offset operator production comparison of Well B to offset operators, Op. 1, 2 and 3. Including a 180-day cumulative oil per lateral length bar chart, Average cumulative oil per foot by Operator and a 365-day cumulative oil bubble map.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Offset operator production comparison of Well B to offset operators, Op. 1, 2 and 3. Including a 180-day cumulative oil per lateral length bar chart, Average cumulative oil per foot by Operator and a 365-day cumulative oil bubble map.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="20" data-type-order="20">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr20">With that in mind, Figure 18 for Well A, Figure 19 for Well B and Figure 20 for Well C, show an offset operator comparison and a comparison of actual results to the pre-drill expectations in a stacked bar chart for each well respectively. The operator averages shown in the graphs and on the maps as individual well bubbles for each. Cluster level data and the use of diverter is not reported to the North Dakota Industrial Commission (NDIC), and thus are not publicly available as inputs into the multi-variate analysis.</anchoringText>
+<image-wrap id="102118189880MS-Img_SPi-20">
+<label>Figure 20 </label>
+<imageLink type="mediaResource" href="102118189880MS_i_20.tif" id="ImgLink-20" />
+<caption>Offset operator production comparison of Well C to offset operators, Op. 1, 2, 3 and 4. Including a 180-day cumulative oil per lateral length bar chart, Average cumulative oil per foot by Operator and a 180-day cumulative oil bubble map.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Offset operator production comparison of Well C to offset operators, Op. 1, 2, 3 and 4. Including a 180-day cumulative oil per lateral length bar chart, Average cumulative oil per foot by Operator and a 180-day cumulative oil bubble map.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

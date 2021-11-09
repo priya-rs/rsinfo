@@ -1,0 +1,233 @@
+﻿<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8" ></head><div>
+<div><b>Meta Informations:</b><p>SPE_Society_of_Petroleum_Engineers</p><p>DOI: 10.2118/181597-MS<br>PII: 10.2118/181597-MS<br></p></div>
+<div>
+<div composite="true" composite-count="3" pdf-page="3" figure-order="1" data-type-order="1">
+<a href="#link-1"> </a>
+<div>
+<p id="Ancr1">Using the new simulator software package, the GtP surface network can be simulated to replicate the development scheme shown in Fig. 1. This includes a full modelling description of all manifolds, seabed production pipelines, and risers. All these connections have hydraulics tables that are calibrated to match historical rates and pressures, thereby enabling more accurate prediction.</p><div id="link-1">
+
+<div id="102118181597MS-Img_SPi-1"><figure>
+
+<img id="ImgLink-1" src="102118181597MS_i_1.tif" alt="102118181597MS_i_1" ><br>
+<figcaption><b>Figure 1 </b> Overview of a) Block 18 location, b) development area, c) development scheme.</figcaption>
+<p>Figure 1 Overview of a) Block 18 location, b) development area, c) development scheme.</p>
+</figure></div>
+<div id="102118181597MS-Img_SPi-1a"><figure>
+<img id="ImgLink-1a" src="102118181597MS_i_1a.tif" alt="102118181597MS_i_1a" ><br>
+<p>a) Block 18 location</p>
+</figure></div>
+<div id="102118181597MS-Img_SPi-1b"><figure>
+<img id="ImgLink-1b" src="102118181597MS_i_1b.tif" alt="102118181597MS_i_1b" ><br>
+<p>b) development area</p>
+</figure></div>
+<div id="102118181597MS-Img_SPi-1c"><figure>
+<img id="ImgLink-1c" src="102118181597MS_i_1c.tif" alt="102118181597MS_i_1c" ><br>
+<p>c) development scheme</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="4" figure-order="2" data-type-order="2">
+<a href="#link-2"> </a>
+<div>
+<p id="Ancr2">The procedure honors the reality of the plant in prioritizing the gas calculation in the necessary sequence of use. As per Fig. 2, the fuel is calculated first, export volumes next, and finally the remaining gas is allocated to injection. The algorithm uses the calculated volume as the volume of gas to be injected. Fig. 2 illustrates how, when these algorithms are used in combination, they can provide a dynamic output that recreates how the plant operates in reality.</p><div id="link-2">
+
+<div id="102118181597MS-Img_SPi-2"><figure>
+
+<img id="ImgLink-2" src="102118181597MS_i_2.tif" alt="102118181597MS_i_2" ><br>
+<figcaption><b>Figure 2 </b> Chart showing the calculated dynamic outputs determined for gas export and injection from the gas procedure.</figcaption>
+<p>Figure 2 Chart showing the calculated dynamic outputs determined for gas export and injection from the gas procedure.</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="4" figure-order="3" data-type-order="3">
+<a href="#link-3"> </a>
+<div>
+<p id="Ancr3">Using the known liquid and gas rate at the bottom of the riser, the algorithm iterates with a do loop incrementally adding or removing additional gas lift to try to match the GLR. This gas lift rate has a user set range of values from zero up to the maximum rate achievable in the system. Fig. 3 shows how this procedure acts in the simulation prediction and how, over time, more gas lift is used until the rate achieves the maximum.</p><div id="link-3">
+
+<div id="102118181597MS-Img_SPi-3"><figure>
+
+<img id="ImgLink-3" src="102118181597MS_i_3.tif" alt="102118181597MS_i_3" ><br>
+<figcaption><b>Figure 3 </b> Procedure output for riser gas lift rate optimized by GLR.</figcaption>
+<p>Figure 3 Procedure output for riser gas lift rate optimized by GLR.</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="5" figure-order="4" data-type-order="4">
+<a href="#link-4"> </a>
+<div>
+<p id="Ancr4">This is the final pressure at the sink in the simulation that replicates the slug catchers on the FPSO. The pressure of the slug catchers is closely linked to the total gas compressed on the FPSO. To replicate this in the model, a procedure takes the total field gas rate at each time step and uses a correlation to adjust the separator pressure. Fig. 4 represents this predicted pressure curve for GtP over time.</p><div id="link-4">
+
+<div id="102118181597MS-Img_SPi-4"><figure>
+
+<img id="ImgLink-4" src="102118181597MS_i_4.tif" alt="102118181597MS_i_4" ><br>
+<figcaption><b>Figure 4 </b> Chart showing separator pressure created by the procedure and how it various over time.</figcaption>
+<p>Figure 4 Chart showing separator pressure created by the procedure and how it various over time.</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="6" figure-order="5" data-type-order="5">
+<a href="#link-5"> </a>
+<div>
+<p id="Ancr5">In another step, the procedure then models the water injection pumps on the FPSO as a series of capacity and efficiency inputs. This is done because the FPSO is power constrained, and thus the pumps are shut-in on a regular basis, lowering their efficiencies. Combining both steps then produces a water injection volume, which can be applied to the water injection system. Fig. 5 illustrates how the process works with the efficiencies applied to the PWRI, SRP, and all three pumps.</p><div id="link-5">
+
+<div id="102118181597MS-Img_SPi-5"><figure>
+
+<img id="ImgLink-5" src="102118181597MS_i_5.tif" alt="102118181597MS_i_5" ><br>
+<figcaption><b>Figure 5 </b> Process flow diagram of the water injection procedure.</figcaption>
+<p>Figure 5 Process flow diagram of the water injection procedure.</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="7" figure-order="6" data-type-order="6">
+<a href="#link-6"> </a>
+<div>
+<p id="Ancr6">The procedure then flows differing combinations of wells based on water cut thresholds decided by the user. For example, Fig. 6 shows four threshold test periods which represent &lt;80% water cut, &lt;70% water cut, &lt;60% water cut and &lt;350% water cut. When flowing this well-set configuration, the maximum oil rate during the test is recorded. When all the tests have completed, the procedure then determines which of the four test rates is highest.</p><div id="link-6">
+
+<div id="102118181597MS-Img_SPi-6"><figure>
+
+<img id="ImgLink-6" src="102118181597MS_i_6.tif" alt="102118181597MS_i_6" ><br>
+<figcaption><b>Figure 6 </b> Visualization of the water cut optimization procedural logic.</figcaption>
+<p>Figure 6 Visualization of the water cut optimization procedural logic.</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="7" figure-order="7" data-type-order="7">
+<a href="#link-7"> </a>
+<div>
+<p id="Ancr7">Fig. 7 illustrates how the oil rate is affected for the well-set tested in this case. The optimized case shows the acceleration in oil rate in the first few years following the implementation of the procedure.</p><div id="link-7">
+
+<div id="102118181597MS-Img_SPi-7"><figure>
+
+<img id="ImgLink-7" src="102118181597MS_i_7.tif" alt="102118181597MS_i_7" ><br>
+<figcaption><b>Figure 7 </b> Comparison of northern line oil rate with optimized procedure.</figcaption>
+<p>Figure 7 Comparison of northern line oil rate with optimized procedure.</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="2" pdf-page="8" figure-order="8" data-type-order="8">
+<a href="#link-8"> </a>
+<div>
+<p id="Ancr8">Fig. 8 demonstrates how, by optimizing on water cut, the total liquid rate can be quite significantly reduced. In some years, the liquid rate can be reduced by up to 50% whilst not detrimentally affecting the oil rate. This optimization of water in the flow line enables the WHP to decrease significantly enough to allow better hydraulics in the wells caused by the decrease in WHP, allowing the wells that remain online to be produced harder.</p><div id="link-8">
+
+<div id="102118181597MS-Img_SPi-8"><figure>
+
+<img id="ImgLink-8" src="102118181597MS_i_8.tif" alt="102118181597MS_i_8" ><br>
+<figcaption><b>Figure 8 </b> Comparison of Northern Line liquid rate and an example well WHP with optimized procedure.</figcaption>
+<p>Figure 8 Comparison of Northern Line liquid rate and an example well WHP with optimized procedure.</p>
+</figure></div>
+<div id="102118181597MS-Img_SPi-8a"><figure>
+<img id="ImgLink-8a" src="102118181597MS_i_8a.tif" alt="102118181597MS_i_8a" ><br>
+<p> Northen Line Oil Rate</p>
+</figure></div>
+<div id="102118181597MS-Img_SPi-8b"><figure>
+<img id="ImgLink-8b" src="102118181597MS_i_8b.tif" alt="102118181597MS_i_8b" ><br>
+<p>  Well A – Well Head Pressure</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="10" figure-order="9" data-type-order="9">
+<a href="#link-9"> </a>
+<div>
+<p id="Ancr9">In PWM, oil, water, and gas production targets are specified by the user for pressure systems and well management levels. For the PBU, there are four well management levels the entire field, two areas, six flow stations, and 50 gathering centers. The four well management levels form a tree-like hierarchy with the trunk being the field and with the branches extending through areas, flow stations and gathering centers as shown in Fig. 9.</p><div id="link-9">
+
+<div id="102118181597MS-Img_SPi-9"><figure>
+
+<img id="ImgLink-9" src="102118181597MS_i_9.tif" alt="102118181597MS_i_9" ><br>
+<figcaption><b>Figure 9 </b> Well management hierarchy.</figcaption>
+<p>Figure 9 Well management hierarchy.</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="11" figure-order="10" data-type-order="10">
+<a href="#link-10"> </a>
+<div>
+<p id="Ancr10">To test the implementation of PWM in the new simulator, a 100-well prototype model based on the 12 component PBU fluid and the SPE 9 challenge problem was built (Killough 1995). In the problem, 10 wells are water injectors and 90 are producers. The initial conditions are shown in Fig. 10 with the surface network configuration.</p><div id="link-10">
+
+<div id="102118181597MS-Img_SPi-10"><figure>
+
+<img id="ImgLink-10" src="102118181597MS_i_10.tif" alt="102118181597MS_i_10" ><br>
+<figcaption><b>Figure 10 </b> Initial conditions for prototype model showing surface network. Water injectors are blue.</figcaption>
+<p>Figure 10 Initial conditions for prototype model showing surface network. Water injectors are blue.</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="4" pdf-page="11" figure-order="11" data-type-order="11">
+<a href="#link-11"> </a>
+<div>
+<p id="Ancr11">The procedure applies the PWM algorithm every 30 days in the new simulator. A prior implementation of PWM in a legacy simulator provides benchmark results against which the procedure results are compared. Fig. 11 shows that the new and legacy simulators match on oil, gas, and water production profiles, and the number of active producer wells over time at the field level.</p><div id="link-11">
+
+<div id="102118181597MS-Img_SPi-11"><figure>
+
+<img id="ImgLink-11" src="102118181597MS_i_11.tif" alt="102118181597MS_i_11" ><br>
+<figcaption><b>Figure 11 </b> Field oil, gas, and water cumulative production, and production rates from the new and the legacy simulator. Also shown in the bottom right is the number of producer wells. Good agreement is obtained between the new and the legacy simulator.</figcaption>
+<p>Figure 11 Field oil, gas, and water cumulative production, and production rates from the new and the legacy simulator. Also shown in the bottom right is the number of producer wells. Good agreement is obtained between the new and the legacy simulator.</p>
+</figure></div>
+<div id="102118181597MS-Img_SPi-11a"><figure>
+<img id="ImgLink-11a" src="102118181597MS_i_11a.tif" alt="102118181597MS_i_11a" ><br>
+<p> Field Oil Production</p>
+</figure></div>
+<div id="102118181597MS-Img_SPi-11b"><figure>
+<img id="ImgLink-11b" src="102118181597MS_i_11b.tif" alt="102118181597MS_i_11b" ><br>
+<p> Field Gas Production</p>
+</figure></div>
+<div id="102118181597MS-Img_SPi-11c"><figure>
+<img id="ImgLink-11c" src="102118181597MS_i_11c.tif" alt="102118181597MS_i_11c" ><br>
+<p> Field Water Production</p>
+</figure></div>
+<div id="102118181597MS-Img_SPi-11d"><figure>
+<img id="ImgLink-11d" src="102118181597MS_i_11d.tif" alt="102118181597MS_i_11d" ><br>
+<p> # Of Production Wells Allocated</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="6" pdf-page="12" figure-order="12" data-type-order="12">
+<a href="#link-12"> </a>
+<div>
+<p id="Ancr12">Fig. 12 illustrates the match to the oil production profiles at the flow station well management level.</p><div id="link-12">
+
+<div id="102118181597MS-Img_SPi-12"><figure>
+
+<img id="ImgLink-12" src="102118181597MS_i_12.tif" alt="102118181597MS_i_12" ><br>
+<figcaption><b>Figure 12 </b> Flow station oil cumulative production and production rates from the new and the legacy simulator.(Oil Production—Flosta 1, Oil Production—Flosta 2, Oil Production—Flosta 3, Oil Production—Flosta 4, Oil Production—Flosta 5, Oil Production—Flosta 6)</figcaption>
+<p>Figure 12 Flow station oil cumulative production and production rates from the new and the legacy simulator.()</p>
+</figure></div>
+<div id="102118181597MS-Img_SPi-12a"><figure>
+<img id="ImgLink-12a" src="102118181597MS_i_12a.tif" alt="102118181597MS_i_12a" ><br>
+<p> Oil Production–Flosta 1</p>
+</figure></div>
+<div id="102118181597MS-Img_SPi-12b"><figure>
+<img id="ImgLink-12b" src="102118181597MS_i_12b.tif" alt="102118181597MS_i_12b" ><br>
+<p> Oil Production–Flosta 2</p>
+</figure></div>
+<div id="102118181597MS-Img_SPi-12c"><figure>
+<img id="ImgLink-12c" src="102118181597MS_i_12c.tif" alt="102118181597MS_i_12c" ><br>
+<p> Oil Production–Flosta 3</p>
+</figure></div>
+<div id="102118181597MS-Img_SPi-12d"><figure>
+<img id="ImgLink-12d" src="102118181597MS_i_12d.tif" alt="102118181597MS_i_12d" ><br>
+<p> Oil Production–Flosta 4</p>
+</figure></div>
+<div id="102118181597MS-Img_SPi-12e"><figure>
+<img id="ImgLink-12e" src="102118181597MS_i_12e.tif" alt="102118181597MS_i_12e" ><br>
+<p> Oil Production–Flosta 5</p>
+</figure></div>
+<div id="102118181597MS-Img_SPi-12f"><figure>
+<img id="ImgLink-12f" src="102118181597MS_i_12f.tif" alt="102118181597MS_i_12f" ><br>
+<p> Oil Production–Flosta 6</p>
+</figure></div>
+</div>
+</div>
+</div>
+</div>
+</div></html>

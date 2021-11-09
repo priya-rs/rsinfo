@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185861MS.txt" extractionDate="2021-03-24T16:59:18Z">
+<doi>10.2118/185861-MS</doi>
+<pii>10.2118/185861-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="4" table-order="1" data-type-order="4">
+<table-wrap id="102118185861MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The details of parameters used in the simulation are listed in Table 1.</anchoringText>
+<label>Table 1</label>
+<caption>Data for Reservoir and Wellbore Simulation</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Data for Reservoir and Wellbore Simulation</caption-text>
+</formatted-caption>
+<table id="102118185861MS-Tbl_SPi-1" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="center">Horizontal permeability, md</td>
+<td valign="top" align="center">50</td>
+<td valign="top" align="center">Wellbore length, ft</td>
+<td valign="top" align="center">2460</td>
+</tr>
+<tr>
+<td valign="top" align="center">Vertical permeability, md</td>
+<td valign="top" align="center">5</td>
+<td valign="top" align="center">Zone length, ft</td>
+<td valign="top" align="center">820</td>
+</tr>
+<tr>
+<td valign="top" align="center">Reservoir Thickness, ft</td>
+<td valign="top" align="center">184</td>
+<td valign="top" align="center">Discharge Coefficient, dimensionless</td>
+<td valign="top" align="center">0.84</td>
+</tr>
+<tr>
+<td valign="top" align="center">Oil formation volume factor, bbl/stb</td>
+<td valign="top" align="center">1.2</td>
+<td valign="top" align="center">Initial pressure, Psia</td>
+<td valign="top" align="center">3625</td>
+</tr>
+<tr>
+<td valign="top" align="center">Porosity, fraction</td>
+<td valign="top" align="center">0.2</td>
+<td valign="top" align="center">Initial temperature, °F</td>
+<td valign="top" align="center">140</td>
+</tr>
+<tr>
+<td valign="top" align="center">Skin, dimensionless</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">Total compressibility, psi-1</td>
+<td valign="top" align="center">1e-6</td>
+</tr>
+<tr>
+<td valign="top" align="center">Wellbore radius, in</td>
+<td valign="top" align="center">6</td>
+<td valign="top" align="center">Total rate, stb/day</td>
+<td valign="top" align="center">5000</td>
+</tr>
+<tr>
+<td valign="top" align="center">Tubing radius, in</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">Grid numbers</td>
+<td valign="top" align="center">30*30*11</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="6" table-order="2" data-type-order="9">
+<table-wrap id="102118185861MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Fig. 8 is the log-log PTA plot for the toe zone of a completed well either with a Standalone Screen (SAS) or ½ in. or 1.0 in. diameter ICD. PTA is limited to the early radial flow regime in x-z plane and the evaluation of the (kx.kz) parameter. Straight line analysis estimated the Table 2 values of permeability and skin by use of Eqn.3 and 4 derived for conventional PTA. The smaller diameter ICD dramatically increased the estimated skin while retaining the same permeability product for all the three cases (Fig. 8). This skin represents both the damage zone and ICD pressure losses, and can no longer be used to estimate quality of the damage zone alon. On the other hand, the derivative plots (inversely proportional to permeability) are identical.</anchoringText>
+<label>Table 2</label>
+<caption>Parameters estimated fom Figure 8</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Parameters estimated fom <link href="102118185861MS-Img_SPi-8">Figure 8</link>
+</caption-text>
+</formatted-caption>
+<table id="102118185861MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Completion</th>
+<th valign="top" align="center">Semi-log slope (psi/day)</th>
+<th valign="top" align="center">(k<sub>x</sub>k<sub>z</sub>)½ (md)</th>
+<th valign="top" align="center">Total Skin</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">SAS</td>
+<td valign="top" align="center">18.5</td>
+<td valign="top" align="center">12.6</td>
+<td valign="top" align="center">0.31</td>
+</tr>
+<tr>
+<td valign="top" align="center">1.0 in ICD</td>
+<td valign="top" align="center">18.5</td>
+<td valign="top" align="center">12.8</td>
+<td valign="top" align="center">1.0</td>
+</tr>
+<tr>
+<td valign="top" align="center">½ in ICD</td>
+<td valign="top" align="center">18.7</td>
+<td valign="top" align="center">13.0</td>
+<td valign="top" align="center">10.5</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="9" table-order="3" data-type-order="18">
+<table-wrap id="102118185861MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">To induce larger flow rate variation, for the second case the well is assumed to be controlled with constant well head pressure. Flow rate is now a time dependent parameter and the pressures drop across the ICD is both time and rate dependent during PTA (see Fig.12 and 13). The rate-normalized pressure and the pressure derivatives (Fig.14) are all different; hence the estimated permeability and skin factor for the ICD completions will be incorrect (Table 3). By contrast, the pressure build-up derivative plots (Fig.15) are not affected by ICD pressure drop (since the flow rate, and so the pressure loss across the ICDs, eventually disappears), though the pressure change curves are also distinct, resulting in an overestimated skin.</anchoringText>
+<label>Table 3</label>
+<caption>Results for Draw-Down PTA</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Results for Draw-Down PTA</caption-text>
+</formatted-caption>
+<table id="102118185861MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">ICD Size</th>
+<th valign="top" align="center">Slope (psia/day)</th>
+<th valign="top" align="center">(k<sub>x</sub>k<sub>z</sub>)½ (md)</th>
+<th valign="top" align="center">(k<sub>x</sub>k<sub>z</sub>)½ Error</th>
+<th valign="top" align="center">Total Skin</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">SAS</td>
+<td valign="top" align="center">32</td>
+<td valign="top" align="center">13</td>
+<td valign="top" align="center">–</td>
+<td valign="top" align="center">0.5</td>
+</tr>
+<tr>
+<td valign="top" align="center">1 in</td>
+<td valign="top" align="center">26</td>
+<td valign="top" align="center">14</td>
+<td valign="top" align="center">+ 9 %</td>
+<td valign="top" align="center">2.5</td>
+</tr>
+<tr>
+<td valign="top" align="center">0.5 in</td>
+<td valign="top" align="center">11</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">+ 53 %</td>
+<td valign="top" align="center">18</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="17" table-order="4" data-type-order="27">
+<table-wrap id="102118185861MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">The information about nozzle area, zonal flow rate, discharge coefficient and fluid density (Table 4) are used in this calculation. The dimensionless skin due to ICD is then calculated using the Eqn.10 which is 0.31. Finally, by subtracting the ICD skin from the “Damage+ICD” skin the pure Formation damage skin is extracted as 1.5. Small ICD pressure drop and thus ICD skin is consistent with our apriori knowledge that the ICDs in this well are not employed to impose too much extra pressure drop but to prevent the open hole annulus velocity exceeding 1ft/s. The results of the analysis is listed in Table 5 showing that we have identified the presence of formation damage skin of 1.5.</anchoringText>
+<label>Table 4</label>
+<caption>Zone 1 Properties</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Zone 1 Properties</caption-text>
+</formatted-caption>
+<table id="102118185861MS-Tbl_SPi-4" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="center">Density (lb/ft3)</td>
+<td valign="top" align="center">48</td>
+</tr>
+<tr>
+<td valign="top" align="center">Zonal Flow Rate (STB/day)</td>
+<td valign="top" align="center">8700</td>
+</tr>
+<tr>
+<td valign="top" align="center">Nozzle Area (in2)</td>
+<td valign="top" align="center">2.6</td>
+</tr>
+<tr>
+<td valign="top" align="center">Number of Nozzles</td>
+<td valign="top" align="center">30</td>
+</tr>
+<tr>
+<td valign="top" align="center">Discharge Coefficient</td>
+<td valign="top" align="center">0.84</td>
+</tr>
+<tr>
+<td valign="top" align="center">Oil viscosity (cP)</td>
+<td valign="top" align="center">1.2</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="17" table-order="5" data-type-order="28">
+<table-wrap id="102118185861MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">Commercial software was used to estimate the permeability and skin, the value of which was compared with the calculated skin for a vertical, fully penetrating openhole model (Eqn.6). The best match to all PBU data was obtained with a 60°, deviated well in a homogenous reservoir model (Fig.23). The geometrical skin of this deviated well is negative, while the total skin is positive (Table.5). The difference between these two values is the sum of the ICD and the formation damage skins.</anchoringText>
+<label>Table 5</label>
+<caption>Skin Estimation for Well A, Zone 1, PBU data</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Skin Estimation for Well A, Zone 1, PBU data</caption-text>
+</formatted-caption>
+<table id="102118185861MS-Tbl_SPi-5" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="center">Permeability, md</td>
+<td valign="top" align="center">1,080</td>
+<td valign="top" align="center">Total Skin</td>
+<td valign="top" align="center">0.89</td>
+</tr>
+<tr>
+<td valign="top" align="center">Geometrical Skin</td>
+<td valign="top" align="center">-0.95</td>
+<td valign="top" align="center">Pressure drop across ICD, psi</td>
+<td valign="top" align="center">7</td>
+</tr>
+<tr>
+<td valign="top" align="center">Anisotropy Skin</td>
+<td valign="top" align="center">-0.0325</td>
+<td valign="top" align="center">ICD Skin</td>
+<td valign="top" align="center">0.31</td>
+</tr>
+<tr>
+<td valign="top" align="center">(Formation Damage + ICD) Skin</td>
+<td valign="top" align="center">1.84</td>
+<td valign="top" align="center">Formation Damage Skin</td>
+<td valign="top" align="center">1.53</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="18" table-order="6" data-type-order="30">
+<table-wrap id="102118185861MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6">The second data set is provided by well B, a three zone IW of similar completion design to well A. Fig. 24 presents the PTA of zone 3 for two PBU periods in Febraury and April which conducted after a production period with two different flow rate. There is small observable change in skin between the two PBUs but the quality of data is not as good as the Zone 1 in well A and the duration of the PBUs are even relatively short. This can affect the interpretation results and hence reduce the confidence interval. Nevertheless, the proposed workflow was followed for the longer and better quality data set in February resulting in ICD pressure drop of 0.63 psia which is equivalent to a ICD skin of 0.1, and therefore based on Eqn.12 the Formation damage skin of 0.34 (Table 6).</anchoringText>
+<label>Table 6</label>
+<caption>Skin Estimation for Well B, Zone 3, PBU data</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Skin Estimation for Well B, Zone 3, PBU data</caption-text>
+</formatted-caption>
+<table id="102118185861MS-Tbl_SPi-6" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="center">Permeability, md</td>
+<td valign="top" align="center">200</td>
+<td valign="top" align="center">Total Skin</td>
+<td valign="top" align="center">1.2</td>
+</tr>
+<tr>
+<td valign="top" align="center">Geometrical Skin</td>
+<td valign="top" align="center">0.767</td>
+<td valign="top" align="center">Pressure drop across ICD, psi</td>
+<td valign="top" align="center">0.628</td>
+</tr>
+<tr>
+<td valign="top" align="center">Anisotropy Skin</td>
+<td valign="top" align="center">-0.01</td>
+<td valign="top" align="center">ICD Skin</td>
+<td valign="top" align="center">0.1</td>
+</tr>
+<tr>
+<td valign="top" align="center">(Formation Damage + ICD) Skin</td>
+<td valign="top" align="center">0.434</td>
+<td valign="top" align="center">Formation Damage Skin</td>
+<td valign="top" align="center">0.34</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

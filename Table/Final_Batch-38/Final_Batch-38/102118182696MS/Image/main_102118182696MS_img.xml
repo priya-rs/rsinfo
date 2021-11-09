@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118182696MS.txt" extractionDate="2021-03-22T14:07:06Z">
+<doi>10.2118/182696-MS</doi>
+<pii>10.2118/182696-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure composite="true" composite-count="2" pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">Peace River Pad 31 is a bitumen site in Alberta, Canada operated with a vertical steam drive system, although other production methods have been used in the past. Predicting production at this site is a difficult task due to geological parameter uncertainties, thermal physics that can be time consuming to computationally model, and extreme lateral heterogeneity due to previous production as indicated by seismic time shifts within the reservoir over a four month period shown in Figure 1 (Przybysz-Jarnut et al. 2016).</anchoringText>
+<image-wrap id="102118182696MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118182696MS_i_1.tif" id="ImgLink-1" />
+<caption>Daily seismic snapshots were taken. (Left) Time shifts over a four month period show strong heterogeneities in the field, particularly with regards to previously stimulated zones, which are shown in blue. The time shifts are overlaid with the well pattern. Black lines represent producer wells, red lines represent injectors, and the blue line is an observation well. The dots and triangles represent point sensor locations. (Right) Correlations of the time series for each measurement over 7 months. Large positive correlations are shown in red, and very negative correlations are shown in blue.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Daily seismic snapshots were taken. (Left) Time shifts over a four month period show strong heterogeneities in the field, particularly with regards to previously stimulated zones, which are shown in blue. The time shifts are overlaid with the well pattern. Black lines represent producer wells, red lines represent injectors, and the blue line is an observation well. The dots and triangles represent point sensor locations. (Right) Correlations of the time series for each measurement over 7 months. Large positive correlations are shown in red, and very negative correlations are shown in blue.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182696MS-Img_SPi-1a">
+<imageLink type="mediaResource" href="102118182696MS_i_1a.tif" id="ImgLink-1a" />
+<figure-specific-caption>
+<caption-order>(Left)</caption-order>
+<caption-text>Time shifts over a four month period show strong heterogeneities in the field, particularly with regards to previously stimulated zones, which are shown in blue</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182696MS-Img_SPi-1b">
+<imageLink type="mediaResource" href="102118182696MS_i_1b.tif" id="ImgLink-1b" />
+<figure-specific-caption>
+<caption-order>(Right)</caption-order>
+<caption-text>Correlations of the time series for each measurement over 7 months. Large positive correlations are shown in red, and very negative correlations are shown in blue</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">At Peace River Pad 31 operators control well pump rates, X1, but we have other measurements of the field, Y1, (e.g. temperatures, pressures, seismic) influenced by X1 and that affect production, Y2. We propose a two-step method outlined in Figure 2:</anchoringText>
+<image-wrap id="102118182696MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118182696MS_i_2.tif" id="ImgLink-2" />
+<caption>This diagram outlines the two-step prediction method. All blue text are considered known values: past data or a proposed future production plan. Red text are the future data being predicted. The training and prediction phases each have two steps.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>This diagram outlines the two-step prediction method. All blue text are considered known values: past data or a proposed future production plan. Red text are the future data being predicted. The training and prediction phases each have two steps.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Some machine learning methods require missing data to be filled in, so we created automated scripts to linearly interpolate any measurement missing 4 or fewer contiguous days of data. If more than 4 contiguous days were missing, these days were automatically excluded. Days with low injector flow rates were flagged as less reliable, as seen in Figure 3.</anchoringText>
+<image-wrap id="102118182696MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118182696MS_i_3.tif" id="ImgLink-3" />
+<caption>We automatically generated a visual of daily issues with measurements associated with each well. For each day, each group was labeled as having certain issues: no issue (dark green), N/As present as part of a short block (light green), short blocks of low injection rates (yellow), long blocks of low injection rates (orange), long blocks of N/As (red).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>We automatically generated a visual of daily issues with measurements associated with each well. For each day, each group was labeled as having certain issues: no issue (dark green), N/As present as part of a short block (light green), short blocks of low injection rates (yellow), long blocks of low injection rates (orange), long blocks of N/As (red).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">As seen in Figures 4 and 6, predictions using PCA-compressed seismic were the most accurate, predictions using the manually selected polygons were not as accurate, and predictions without any seismic data were the least accurate. It is not surprising that seismic data helped predictions considering that the seismic time shift values are available near the production wells, and are strongly influenced by saturation and pressure in the area of interest.</anchoringText>
+<image-wrap id="102118182696MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118182696MS_i_4.tif" id="ImgLink-4" />
+<caption>Production predictions using data from the first 80% of days based on a Lasso model assuming pressures, temperatures and other observations were exactly predicted (left) without seismic, and (right) with ten representatives polygons hand-selected from the seismic images. The true weekly average oil production (blue line) stays close to the training data fit (blue dots), and predicts an overall downward trend but also predicts some upticks in production that did not occur (green dots). These results also included the rates of change of each measurement, which seemed to help fit the data better, but doubled the dimension. The seismic polygons helped, but were not as good as PCA-compressed seismic.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Production predictions using data from the first 80% of days based on a Lasso model assuming pressures, temperatures and other observations were exactly predicted (left) without seismic, and (right) with ten representatives polygons hand-selected from the seismic images. The true weekly average oil production (blue line) stays close to the training data fit (blue dots), and predicts an overall downward trend but also predicts some upticks in production that did not occur (green dots). These results also included the rates of change of each measurement, which seemed to help fit the data better, but doubled the dimension. The seismic polygons helped, but were not as good as PCA-compressed seismic.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">To test whether and how to incorporate daily seismic survey data, we ran predictions without seismic, with seismic represented by time-shift averages within 10 expert-selected polygons, and with seismic compressed using principal component analysis (PCA). Fast decay of the singular values associated with the top 10 principal components justified restricting our reduced seismic images to the span of the10 largest principal components of the training days' images. An example of seismic images projected onto the top 10 components of a longer period of time can be seen in Figure 5. Different components react differently to various events in the field.</anchoringText>
+<image-wrap id="102118182696MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118182696MS_i_5.tif" id="ImgLink-5" />
+<caption>Daily seismic images were compressed into ten variables using PCA. Different components were important during different production events. For example, component 6 suddenly changed during the outage about two months in, and component 7 and 8 were very sensitive to the shutdown after seven months.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Daily seismic images were compressed into ten variables using PCA. Different components were important during different production events. For example, component 6 suddenly changed during the outage about two months in, and component 7 and 8 were very sensitive to the shutdown after seven months.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">As seen in Figures 4 and 6, predictions using PCA-compressed seismic were the most accurate, predictions using the manually selected polygons were not as accurate, and predictions without any seismic data were the least accurate. It is not surprising that seismic data helped predictions considering that the seismic time shift values are available near the production wells, and are strongly influenced by saturation and pressure in the area of interest.</anchoringText>
+<image-wrap id="102118182696MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118182696MS_i_6.tif" id="ImgLink-6" />
+<caption>Lasso gave reasonable production estimates if the step 1 prediction was accurate and PCA seismic was used. The model was trained on the (left) first 80% of days, and (right) 30% of days. Note that the predictions on the left using seismic with a PCA representation are closer to the true production values than the predictions in Figure 4.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Lasso gave reasonable production estimates if the step 1 prediction was accurate and PCA seismic was used. The model was trained on the (left) first 80% of days, and (right) 30% of days. Note that the predictions on the left using seismic with a PCA representation are closer to the true production values than the predictions in <link href="102118182696MS-Img_SPi-4">Figure 4</link>.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">A simple cross-validation scheme for forecasting was tested to choose α values, but some intermediate Y1 measurements were unpredictable, so over-regularized models were selected, yielding nearly constant predictions of some Y1 variables. The full two-step process predicted a very slight drop in oil production, seen in Figure 7. It was not as extreme as the actual drop in production observed, though.</anchoringText>
+<image-wrap id="102118182696MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118182696MS_i_7.tif" id="ImgLink-7" />
+<caption>The full two-step prediction only assumes known past data (past model predictions are light blue dots) and future pump rates. It predicted a slight downward trend in production (green dots), which can be compared to observed production (blue line). Predictions based on the first two months (left), and five months of data (right) are shown.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>The full two-step prediction only assumes known past data (past model predictions are light blue dots) and future pump rates. It predicted a slight downward trend in production (green dots), which can be compared to observed production (blue line). Predictions based on the first two months (left), and five months of data (right) are shown.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118182657MS.txt" extractionDate="2021-03-23T10:25:18Z">
+<doi>10.2118/182657-MS</doi>
+<pii>10.2118/182657-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr4">The concept of surface network is used in this paper to handle the complexity of the well modeling in reservoir simulation. A graph is used to represent the subsurface network, Fig. 1. Laterals of a given well are divided into nodes and links. Each link represents a pipe and or mechanical device such as the ICD, ICV, electric submersible pumps and/or any other mechanical devices. A node represents a connection of two or more links.</anchoringText>
+<image-wrap id="102118182657MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118182657MS_i_1.tif" id="ImgLink-1" />
+<caption>Graph representing the subsurface network.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Graph representing the subsurface network.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr5">A subsurface network is coupled with the grid solution (Dogru et al. 2009) using three methods, namely: explicit, sequential and implicit, Fig. 2. The explicit coupling predicts perf rate at first outer Newton and it does not update after that. Such coupling is easy to implement, but it might be slow and may cause oscillation; however, it may work very well for a large grid block system and low well rate.</anchoringText>
+<image-wrap id="102118182657MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118182657MS_i_2.tif" id="ImgLink-2" />
+<caption>The three methods to couple subsurface network with the grid.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>The three methods to couple subsurface network with the grid.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182657MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118182657MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Explicit</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182657MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118182657MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Sequential</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182657MS-Img_SPi-2c">
+<imageLink type="mediaResource" href="102118182657MS_i_2c.tif" id="ImgLink-2c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Implicit</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr6">As an example, Fig. 3 shows a schematic diagram for two wells distributed among four processors. Processors 1 and 4 will do the computation for the subsurface network for Wells W1 and W2, respectively. At a given Newton iteration, processors 3 and 4 send the boundary grid data to processor 1. Processor 2 sends the boundary grid data to processor 4. Non-blocking inter-processor communication is also implemented to increase the parallel efficiency of the algorithm.</anchoringText>
+<image-wrap id="102118182657MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118182657MS_i_3.tif" id="ImgLink-3" />
+<caption>Well distribution among the MPI processors.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Well distribution among the MPI processors.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr7">There are three cases studied in this paper. The first one is a sector model for one of the Middle East giant field, Fig. 4. This model is a gas-water system with one vertical well in the middle (zoomed in Fig. 4). The total number of grid cells is about 1 million cells. The total number of simulation years is 30 years. Table 1 shows the statistic of simulation time for both sequential and fully implicit. The number of MPI processors is 10. As is expected, one can notice that the fully implicit coupling took reduced number of iterations and a shorter simulation time.</anchoringText>
+<image-wrap id="102118182657MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118182657MS_i_4.tif" id="ImgLink-4" />
+<caption>Test case 1.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Test case 1.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr8">Fig. 5 shows the cumulative gas and water rate along the wellbore where most of the gas comes from the top layers. Figure 6 shows the pressure drop along the wellbore with and without friction for the same model. Table 2 shows the average phase density in the wellbore and the corresponding pressure gradient due to the gravity. The reader may notice from Fig. 6 and Table 2 that the pressure gradient is gravity dominant from the bottom to a depth of 1,285 ft. On the other hand, due the high gas rate on the top of the reservoir, friction becomes dominant, not the gravity.</anchoringText>
+<image-wrap id="102118182657MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118182657MS_i_5.tif" id="ImgLink-5" />
+<caption>Cumulative water and gas rate for test case 1.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Cumulative water and gas rate for test case 1.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr9">Fig. 5 shows the cumulative gas and water rate along the wellbore where most of the gas comes from the top layers. Figure 6 shows the pressure drop along the wellbore with and without friction for the same model. Table 2 shows the average phase density in the wellbore and the corresponding pressure gradient due to the gravity. The reader may notice from Fig. 6 and Table 2 that the pressure gradient is gravity dominant from the bottom to a depth of 1,285 ft. On the other hand, due the high gas rate on the top of the reservoir, friction becomes dominant, not the gravity.</anchoringText>
+<image-wrap id="102118182657MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118182657MS_i_6.tif" id="ImgLink-6" />
+<caption>Pressure with and without friction for test case 1.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Pressure with and without friction for test case 1.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr10">The second studied case, Fig. 7, is for full field simulation for one of the large fields in the Middle East. Most of the wells in this field are drilled as multilaterals. Total wells in this field number about 500 wells, while 250 of the wells are modeled with a subsurface network. This case is modeled with 34 million active cells and nine compositional components. The field has a total of almost 17 years of history and 15 years of prediction. The total number of MPI processors used to run this model is 3,000, which are more than enough to have one subsurface network per processor.</anchoringText>
+<image-wrap id="102118182657MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118182657MS_i_7.tif" id="ImgLink-7" />
+<caption>Field used for test case 2.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Field used for test case 2.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr11">The SuperLU could not be used to solve for due to technical difficulties. Instead, the Gaussian LU is employed. Figure 8 shows a comparison of the gas-oil ratio (GOR) between history and the simulation for one of the wells modeled using a subsurface network. The result is comparable between them. Normalized oil rate and pressure along one of the laterals for a given well is also shown in Fig. 9. The lateral is horizontal and its length about 3,030 km (10,000 ft). One can notice that the pressure drop is small at the toe due to the low flow rate. On the other hand, at the heal, the pressure drop is high due to the high flow rate. That behavior is expected for a long horizontal lateral (Penmatcha and Aziz 1998).</anchoringText>
+<image-wrap id="102118182657MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118182657MS_i_8.tif" id="ImgLink-8" />
+<caption>GOR for a given well for test case 2.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>GOR for a given well for test case 2.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr12">The SuperLU could not be used to solve for due to technical difficulties. Instead, the Gaussian LU is employed. Figure 8 shows a comparison of the gas-oil ratio (GOR) between history and the simulation for one of the wells modeled using a subsurface network. The result is comparable between them. Normalized oil rate and pressure along one of the laterals for a given well is also shown in Fig. 9. The lateral is horizontal and its length about 3,030 km (10,000 ft). One can notice that the pressure drop is small at the toe due to the low flow rate. On the other hand, at the heal, the pressure drop is high due to the high flow rate. That behavior is expected for a long horizontal lateral (Penmatcha and Aziz 1998).</anchoringText>
+<image-wrap id="102118182657MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118182657MS_i_9.tif" id="ImgLink-9" />
+<caption>Oil rate and pressure along one of laterals for a given well.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Oil rate and pressure along one of laterals for a given well.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="13">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr13">The last test case is using more complex subsurface networks to model the next generation for the multilateral completion system, Fig. 10. Bouldin et al. (2014) refers to this as an ERC. Abuahmad et al.(2016) and Bouldin et al. (2014) discuss the system in details. The objective in this paper is to do simulation for an ERC system and predict its sweep efficiency. Just briefly, each lateral in a given well is divided into three compartments and each compartment is controlled with infinitely positioned electric flow control valves (FCVs).</anchoringText>
+<image-wrap id="102118182657MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118182657MS_i_10.tif" id="ImgLink-10" />
+<caption>Schematic diagram for an ERC Lateral Completion (<link href="BIB1">Abuahmad et. Al., 2016</link> )</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Schematic diagram for an ERC Lateral Completion (<link href="BIB1">Abuahmad et. Al., 2016</link> )</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-14" type="bib">
+<bib id="BIB1">
+<label>Abuahmad et al., 2016</label>
+<author>
+<first-name>Y.</first-name>
+<last-name>Abuahmad</last-name>
+</author>, <author>
+<first-name>R.</first-name>
+<last-name>Saleh</last-name>
+</author>, <author>
+<first-name>B.</first-name>
+<last-name>Bouldin</last-name>
+</author> et al. <pubDate>2016</pubDate>. <article-title>Drilling for the Next Generation of Multilateral Completion Systems. Paper OCT-27033-MS presented at the Offshore Technology Conference, Houston, Texas </article-title>, 2–5 May.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="11" data-type-order="14">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr14">Just briefly, each lateral in a given well is divided into three compartments and each compartment is controlled with infinitely positioned electric flow control valves (FCVs). When the GOR of a given well is acceding high value, FCVs with the highest GOR will be shut-in. Figure 11 shows the subsurface network's graph for one of the laterals for one of the chosen ERC wells. Note that the flow in compartments between packers is annulus flow, which is connected to the tubing by FCVs.</anchoringText>
+<image-wrap id="102118182657MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118182657MS_i_11.tif" id="ImgLink-11" />
+<caption>Subsurface network's graph for one of the laterals of the ERC well.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Subsurface network's graph for one of the laterals of the ERC well.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="12" data-type-order="15">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr15">Two wells of test case 2 were chosen to be an ERC. Figure 12 compares the sweep efficiency between open hole and an ERC. One can notice that sweep efficiency of the well is improved by a large factor especially at the toe. The comparison in the cumulative oil for one of the wells is given in Fig. 13, which shows the next generation completion (ERC) increases of the well recovery factor by more than 2.</anchoringText>
+<image-wrap id="102118182657MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118182657MS_i_12.tif" id="ImgLink-12" />
+<caption>Comparison on oil saturation between an open hole and an ERC.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Comparison on oil saturation between an open hole and an ERC.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182657MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118182657MS_i_12a.tif" id="ImgLink-12a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Open Hall</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182657MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118182657MS_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Next Generation (ERC)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="13" data-type-order="16">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr16">Two wells of test case 2 were chosen to be an ERC. Figure 12 compares the sweep efficiency between open hole and an ERC. One can notice that sweep efficiency of the well is improved by a large factor especially at the toe. The comparison in the cumulative oil for one of the wells is given in Fig. 13, which shows the next generation completion (ERC) increases of the well recovery factor by more than 2.</anchoringText>
+<image-wrap id="102118182657MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118182657MS_i_13.tif" id="ImgLink-13" />
+<caption>Comparison in cumulative oil production between an open hole and an ERC.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Comparison in cumulative oil production between an open hole and an ERC.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

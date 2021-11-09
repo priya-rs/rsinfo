@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191997MS.txt" extractionDate="2021-03-30T16:25:02Z">
+<doi>10.2118/191997-MS</doi>
+<pii>10.2118/191997-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="4">
+<table-wrap id="102118191997MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Table 1 summarizes the identified objective functions that are influenced by the history-matching subsurface parameters. A couple of examples are presented in the next sections on the adjustment of properties and the corresponding objective function that it affects.</anchoringText>
+<label>Table 1</label>
+<caption>History-matching subsurface parameters and objective functions</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>History-matching subsurface parameters and objective functions</caption-text>
+</formatted-caption>
+<table id="102118191997MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">History-Matching Parameter</th>
+<th valign="top" align="left">Objective Function</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Porosity</td>
+<td valign="top" align="left">Gas or Water rate (matched phase)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Gas Saturation</td>
+<td valign="top" align="left">Early-time water-gas ratio (first 6- 12 months)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Transmissibility Multiplier</td>
+<td valign="top" align="left">SIBHP</td>
+</tr>
+<tr>
+<td valign="top" align="left">Productivity Index (PI)</td>
+<td valign="top" align="left">FBHP</td>
+</tr>
+<tr>
+<td valign="top" align="left">Gas Content</td>
+<td valign="top" align="left">Late-time SIBHP</td>
+</tr>
+<tr>
+<td valign="top" align="left">Langmuir Shape</td>
+<td valign="top" align="left">Late-time SIBHP</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="8" table-order="2" data-type-order="7">
+<table-wrap id="102118191997MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">An example of some pre-determined thresholds for field-level history-match quality is shown in Table 2. The thresholds are often defined based on the metering and gauge quality. For example, if the water meters are less accurate, greater leniency can be assigned for this metric's threshold. It is also not mandatory to set a threshold for a given metric, such as for the FBHP metric (i.e. N/A or not assessed), if the well does not have an existing gauge.</anchoringText>
+<label>Table 2</label>
+<caption>Example of History-Match Quality Metric thresholds</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Example of History-Match Quality Metric thresholds</caption-text>
+</formatted-caption>
+<table id="102118191997MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="center" bgcolor="#FFFF83">
+</th>
+<th colspan="4" valign="top" align="center" bgcolor="#FFFF83">Phase</th>
+</tr>
+<tr>
+<th valign="top" align="center" bgcolor="#FFFF83">Gas (Control)</th>
+<th valign="top" align="center" bgcolor="#FFFF83">Water</th>
+<th valign="top" align="center" bgcolor="#FFFF83">FBHP</th>
+<th valign="top" align="center" bgcolor="#FFFF83">SIBHP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" bgcolor="#FFFF83" align="left">Abs % Mismatch target</td>
+<td valign="top" align="center" bgcolor="#FFFF83">&#x003C;0.25%</td>
+<td valign="top" align="center" bgcolor="#FFFF83">&#x003C;25%</td>
+<td valign="top" align="center" bgcolor="#FFFF83">N/A</td>
+<td valign="top" align="center" bgcolor="#FFFF83">&#x003C;10%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

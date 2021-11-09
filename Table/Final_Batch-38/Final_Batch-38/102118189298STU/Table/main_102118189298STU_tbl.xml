@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189298STU.txt" extractionDate="2021-03-26T17:32:56Z">
+<doi>10.2118/189298-STU</doi>
+<pii>10.2118/189298-STU</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="8" table-order="1" data-type-order="5">
+<table-wrap id="102118189298STU-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Table 1 shows the uncertainties (scalars and petrophysicals) and its parameterization. Emerick and Reynolds (2013) suggested that 4 iterations (Ni) and a constant inflation factor (αi) of 4 were sufficient to achieve good results. Also, to keep high variability of the ensemble, I used 500 models (Ne).</anchoringText>
+<label>Table 1</label>
+<caption>Uncertainties and its parameterization.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Uncertainties and its parameterization.</caption-text>
+</formatted-caption>
+<table id="102118189298STU-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th align="center" />
+<th align="center">UNCERTAINTIES</th>
+<th align="center">Minimum</th>
+<th align="center">Maximum</th>
+<th align="center">Distribution</th>
+<th align="center">Mean</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="5" align="center">
+<b>SCALARS</b>
+</td>
+<td align="center">Water-Oil Contact (WOC) (m)</td>
+<td align="center">3,169</td>
+<td align="center">3,179</td>
+<td align="center">Triangular</td>
+<td align="center">3,174</td>
+</tr>
+<tr>
+<td align="center">Rock Compressibility (CPOR) ((kgf/cm<sup>2</sup>)<sup>-1</sup>)</td>
+<td align="center">1.00E-05</td>
+<td align="center">9.60E-05</td>
+<td align="center">Triangular</td>
+<td align="center">5.30E-05</td>
+</tr>
+<tr>
+<td align="center">Permeability K multiplier (MOD)</td>
+<td align="center">0.01</td>
+<td align="center">3</td>
+<td align="center">Triangular</td>
+<td align="center">1.5</td>
+</tr>
+<tr>
+<td align="center">Maximum Water Relative Permeability (k<sub>rwiro</sub>)</td>
+<td align="center">0.15</td>
+<td align="center">0.52</td>
+<td align="center">Triangular</td>
+<td align="center">2.3</td>
+</tr>
+<tr>
+<td align="center">Exponent Saturation (P<sub>krw</sub>)</td>
+<td align="center">1.5</td>
+<td align="center">3.3</td>
+<td align="center">Triangular</td>
+<td align="center">0.33</td>
+</tr>
+<tr>
+<td rowspan="5" align="center">
+<b>PETROPHYSISCALS</b>
+</td>
+<td align="center">Permeability I (md) (k<sub>x</sub>)</td>
+<td align="center">0</td>
+<td align="center">5,000</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">Permeability J (md) (k<sub>y</sub>)</td>
+<td align="center">0</td>
+<td align="center">5,000</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">Permeability K (md) (k<sub>z</sub>)</td>
+<td align="center">0</td>
+<td align="center">5,000</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">Porosity</td>
+<td align="center">0</td>
+<td align="center">0.31</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">NTG</td>
+<td align="center">0</td>
+<td align="center">1</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="8" table-order="2" data-type-order="6">
+<table-wrap id="102118189298STU-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">As mentioned by previous authors, localization increases the variability in the ensemble significantly. When analyzing SNV (Table 2), it is possible to notice that it went from 23.49% to 90.79% in LOC1. Additionally, SNV dropped to 74.20% with larger areas used in LOC2, but still is considerably greater than the first one.</anchoringText>
+<label>Table 2</label>
+<caption>SNV.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>SNV.</caption-text>
+</formatted-caption>
+<table id="102118189298STU-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th align="center" />
+<th align="center">STD</th>
+<th align="center">LOC1</th>
+<th align="center">LOC2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">
+<b>SNV (%)</b>
+</td>
+<td align="center">23.49</td>
+<td align="center">90.79</td>
+<td align="center">74.20</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="11" table-order="3" data-type-order="9">
+<table-wrap id="102118189298STU-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">To analyze the historical period, I adopted NQDS to measure the quality of history matching. I set the maximum tolerance of NQDS at three differente values (3, 5 and 10) to define acceptable models (Table 3). When maximum tolerance of NQDS was equal to 3, only LOC2 had acceptable models for all variables analyzed (qo, qw, qwi and BHP). Increasing this value to 5 and 10, the number of accepted models augmented significantly, achieving 65.8% and 83.8%, for STD and LOC2, respectively.</anchoringText>
+<label>Table 3</label>
+<caption>NQDS evaluation: Filtered Models</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>NQDS evaluation: Filtered Models</caption-text>
+</formatted-caption>
+<table id="102118189298STU-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th colspan="7" align="center">Filtered Models (%)</th>
+</tr>
+<tr>
+<th align="center">NQDS</th>
+<th align="center">Approach</th>
+<th align="center">q<sub>o</sub>
+</th>
+<th align="center">q<sub>w</sub>
+</th>
+<th align="center">q<sub>wi</sub>
+</th>
+<th align="center">BHP</th>
+<th align="center">Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4" align="center">
+<b>3</b>
+</td>
+<td align="center">Prior</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="center">STD</td>
+<td align="center">93.8</td>
+<td align="center">16.6</td>
+<td align="center">7.0</td>
+<td align="center">30.2</td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="center">LOC1</td>
+<td align="center">60.6</td>
+<td align="center">0</td>
+<td align="center">0.2</td>
+<td align="center">47.6</td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="center">LOC2</td>
+<td align="center">95.0</td>
+<td align="center">27.6</td>
+<td align="center">50.6</td>
+<td align="center">99.6</td>
+<td align="center">14.2</td>
+</tr>
+<tr>
+<td rowspan="4" align="center">
+<b>5</b>
+</td>
+<td align="center">Prior</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="center">STD</td>
+<td align="center">97.0</td>
+<td align="center">35.4</td>
+<td align="center">48.6</td>
+<td align="center">100</td>
+<td align="center">16.6</td>
+</tr>
+<tr>
+<td align="center">LOC1</td>
+<td align="center">93.6</td>
+<td align="center">1.8</td>
+<td align="center">1.6</td>
+<td align="center">75.0</td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="center">LOC2</td>
+<td align="center">99.0</td>
+<td align="center">58.6</td>
+<td align="center">84.4</td>
+<td align="center">100</td>
+<td align="center">48.6</td>
+</tr>
+<tr>
+<td rowspan="4" align="center">
+<b>10</b>
+</td>
+<td align="center">Prior</td>
+<td align="center">2.2</td>
+<td align="center">3.6</td>
+<td align="center">0.4</td>
+<td align="center">3.6</td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="center">STD</td>
+<td align="center">99.2</td>
+<td align="center">88.2</td>
+<td align="center">74.8</td>
+<td align="center">100</td>
+<td align="center">65.8</td>
+</tr>
+<tr>
+<td align="center">LOC1</td>
+<td align="center">99.6</td>
+<td align="center">48.0</td>
+<td align="center">11.2</td>
+<td align="center">99.6</td>
+<td align="center">6.2</td>
+</tr>
+<tr>
+<td align="center">LOC2</td>
+<td align="center">100</td>
+<td align="center">83.8</td>
+<td align="center">99.4</td>
+<td align="center">100</td>
+<td align="center">83.2</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

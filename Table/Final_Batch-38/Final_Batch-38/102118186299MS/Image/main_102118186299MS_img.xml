@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118186299MS.txt" extractionDate="2021-03-26T12:01:22Z">
+<doi>10.2118/186299-MS</doi>
+<pii>10.2118/186299-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">Handil field, discovered in 1974, is an oil and gas field located in internal axis of modern Mahakam Delta in East Kalimantan, Indonesia. The field comprises over 550 hydrocarbon accumulations from depth ~ 200mSS to 3300mSS in structurally stacked and compartmentalized fluvio-deltaic sands. Handil reservoirs were divided into several zones, Shallow (very shallow, shallow &amp; upper), Main, Lower, and Deep zone. Shallow zone to Main zone are known as “Oil Pool”, while the bottom of Main zone down to Deep zone are known as “Gas Pool” (Fig.1).</anchoringText>
+<image-wrap id="102118186299MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118186299MS_i_1.tif" id="ImgLink-1" />
+<caption>Handil field location and structural cross section</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Handil field location and structural cross section</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">Shallow reservoirs are supported by strong aquifer; hence pressure data is not reliable to assist in defining the compartmentalization in the same reservoir segment. Dynamic synthesis was then performed on 36 reservoir layers based on priority list to evaluate and capture such heterogeneity. Figure 2 illustrates iteration process between static and dynamic synthesis. The objectives of the dynamic synthesis are:</anchoringText>
+<image-wrap id="102118186299MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118186299MS_i_2.tif" id="ImgLink-2" />
+<caption>General workflow of the study, Geological &amp; Reservoir part</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>General workflow of the study, Geological &amp; Reservoir part</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">The geomodel update was built with more robust input data (i.e. initial &amp; actual contact, dynamic region) and methodology in order to better capture the reservoir heterogeneity and better understand the uncertainty (Fig.3). The model has delivered re-estimation of initial oil in place, actual oil in place and sweet spot map that became the basis of locating potential future Shallow Zone wells. The objectives and workflow of interest are:</anchoringText>
+<image-wrap id="102118186299MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118186299MS_i_3.tif" id="ImgLink-3" />
+<caption>Workflow of geomodeling 2015 in shallow zone</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Workflow of geomodeling 2015 in shallow zone</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">The example of this workflow can be seen in Figure 4, reservoir 10-3S3 initially had flat OWC but after production for several years it’s confirmed we have dynamic heterogeneity due to production well distribution and static heterogeneity related to facies and sand distribution. This heterogeneity depicted in the 2D net sand map and the 3D model.</anchoringText>
+<image-wrap id="102118186299MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118186299MS_i_4.tif" id="ImgLink-4" />
+<caption>Workflow of creating actual contact region in 3D model from actual contact definition</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Workflow of creating actual contact region in 3D model from actual contact definition</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">The ultimate drainage area of existing production wells was then introduced to the net actual pay map to estimate the future contact movement. It was calculated based on estimated ultimate reserves (EUR) of each production wells in reservoir level and structurally limited by the top perforation. Decline curve analysis (Fig.5) was used to calculate the 1EUR.</anchoringText>
+<image-wrap id="102118186299MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118186299MS_i_5.tif" id="ImgLink-5" />
+<caption>Decline curve analysis methodology and the drainage radius formula</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Decline curve analysis methodology and the drainage radius formula</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">The actual net pay oil map was then cut with the ultimate drainage radius until top of perforation, resulted as sweet spot map or un-swept area which represent the future remaining net pay map. Figure 6 illustrates the sweetspot definition and the example of actual sweet spot map.</anchoringText>
+<image-wrap id="102118186299MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118186299MS_i_6.tif" id="ImgLink-6" />
+<caption>a. Schematic illustration of sweet spot; b. Example of actual &amp; sweet spot map</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>a. Schematic illustration of sweet spot; b. Example of actual &amp; sweet spot map</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118186299MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118186299MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Schematic illustration of sweet spot</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118186299MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118186299MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Example of actual &amp; sweet spot map</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">Blind test for the sweetspot result was performed on 2016 wells to check the accuracy of the netpay prediction from the geomodel. From this blind test, it can be concluded that the shallow geomodel gives quite good net pay prediction despite its tendency to be slightly pessimistic. The main uncertainties are the fluid status which affected by production and sand occurrence in some reservoirs. Summary of blind test result can be seen in the Figure 7.</anchoringText>
+<image-wrap id="102118186299MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118186299MS_i_7.tif" id="ImgLink-7" />
+<caption>Blind test of future net pay – Sweet spot</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Blind test of future net pay – Sweet spot</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">The estimated maximum wells for each reservoir compartment will be used as control limit in determine well catalogue. This value will limit the number of wells that penetrating each reservoir compartment. Monte Carlo technique was used to define the maximum wells for each reservoir compartment. Main parameters that used in the calculation are future ROIP and future well reserves. Figure 8 illustrates the workflow to calculate the maximum wells for each compartment.</anchoringText>
+<image-wrap id="102118186299MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118186299MS_i_8.tif" id="ImgLink-8" />
+<caption>Maximum wells per Reservoir Compartment Workflow</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Maximum wells per Reservoir Compartment Workflow</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">Figure 9 shows example of future well or perforation reserves calculation methodology. Blind test was performed in 8 reservoir segment to check the validity of the reserves calculation methodology. Main uncertainties in this methodology are the production allocation and the estimated ultimate reserves. Blind test was performed on 2012 – 2014 wells, which have less uncertainty in production allocation since we have representative PLT data and the production decline trend already obvious. Based on the blind test result (Fig.10), post drilling reserves estimation is in good agreement with the actual reserves realization, total difference ~6%.</anchoringText>
+<image-wrap id="102118186299MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118186299MS_i_9.tif" id="ImgLink-9" />
+<caption>Example of reserves calculation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Example of reserves calculation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">Figure 9 shows example of future well or perforation reserves calculation methodology. Blind test was performed in 8 reservoir segment to check the validity of the reserves calculation methodology. Main uncertainties in this methodology are the production allocation and the estimated ultimate reserves. Blind test was performed on 2012 – 2014 wells, which have less uncertainty in production allocation since we have representative PLT data and the production decline trend already obvious. Based on the blind test result (Fig.10), post drilling reserves estimation is in good agreement with the actual reserves realization, total difference ~6%.</anchoringText>
+<image-wrap id="102118186299MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118186299MS_i_10.tif" id="ImgLink-10" />
+<caption>Blind test of future reserves realization</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Blind test of future reserves realization</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">Well catalogue was derived from the stacked sweet spot map. Figure 11 ilustrates the workflow to build the well catalogue. Preliminary evaluation was performed with cone approach from existing well clusters and limited by drilling envelope for HSO well. The cone approach was performed in 6 well clusters which feasible to reach our sweet spot. The example of this approach can be seen in Figure 12.</anchoringText>
+<image-wrap id="102118186299MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118186299MS_i_11.tif" id="ImgLink-11" />
+<caption>Well Catalogue Workflow</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Well Catalogue Workflow</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">Well catalogue was derived from the stacked sweet spot map. Figure 11 ilustrates the workflow to build the well catalogue. Preliminary evaluation was performed with cone approach from existing well clusters and limited by drilling envelope for HSO well. The cone approach was performed in 6 well clusters which feasible to reach our sweet spot. The example of this approach can be seen in Figure 12.</anchoringText>
+<image-wrap id="102118186299MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118186299MS_i_12.tif" id="ImgLink-12" />
+<label>Example 3D</label>
+<caption>Cone Evaluation in One Cluster</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Cone Evaluation in One Cluster</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

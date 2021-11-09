@@ -1,0 +1,1794 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187226MS.txt" extractionDate="2021-03-25T19:01:50Z">
+<doi>10.2118/187226-MS</doi>
+<pii>10.2118/187226-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="2" table-order="1" data-type-order="1">
+<table-wrap id="102118187226MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The numbers of active oil and gas wells in the Eagle Ford are summarized in Table 1. Oil production in the Eagle Ford is an important part of shale oil production in the United States that has controlled global oil supply and prices over the last six years, see Fig. 1. Therefore, strategically, it is of utmost importance to have predictive models of shale oil production that go beyond the ad hoc hyperbolic decline curves and statistical studies. Here we attempt to satisfy parts of this strategic requirement.</anchoringText>
+<label>Table 1</label>
+<caption>Statistics of Eagle Ford oil wells accessed by DrillingInfo in Feb. 2017</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Statistics of Eagle Ford oil wells accessed by DrillingInfo in Feb. 2017</caption-text>
+</formatted-caption>
+<table id="102118187226MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Number</th>
+<th valign="top" align="left">Unallocated</th>
+<th valign="top" align="left">Allocated</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Oil wells</td>
+<td valign="top" align="left">4,734</td>
+<td valign="top" align="left">13,057</td>
+</tr>
+<tr>
+<td valign="top" align="left">Gas wells</td>
+<td valign="top" align="left">6,108</td>
+<td valign="top" align="left">6,108</td>
+</tr>
+<tr>
+<td valign="top" align="left">Total wells</td>
+<td valign="top" align="left">11,004</td>
+<td valign="top" align="left">19,356</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="14" table-order="2" data-type-order="14">
+<table-wrap id="102118187226MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Note that on average our physics-based modeling predictions are in agreement with a statistical study of the Eagle Ford wells by EIA, but there are significant differences, see Table 2</anchoringText>
+<label>Table 2</label>
+<caption>Our EURs for the Eagle Ford shale black oil wells compare well with  EIA’s 2014 Annual Energy Outlook  by D. Van Wagener</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Our EURs for the Eagle Ford shale black oil wells compare well with <link href="BIB3"> EIA’s 2014 Annual Energy Outlook</link>  by D. Van Wagener</caption-text>
+</formatted-caption>
+<table id="102118187226MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th align="center" />
+<th colspan="3" valign="top" align="center">SPE 187226 Predictions</th>
+<th colspan="2" valign="top" align="center">
+<link href="BIB3"> EIA’s Energy Outlook 2014*</link> </th>
+</tr>
+<tr>
+<th align="center">County</th>
+<th align="center">EUR (bbls)</th>
+<th valign="top" align="center">Number of Wells</th>
+<th valign="top" align="center">Average EUR (bbls/well)</th>
+<th valign="top" align="center">Number of Wells</th>
+<th valign="top" align="center">Average EUR (bbls/well)</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td id="tfn-1" colspan="6" align="left">*The study by <i>EIA </i>(2014) covered 32 counties in Texas with 5,384 wells, whose mean EUR was 168,000 bbl. However, data from just seven counties have been reported.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left">Atascosa</td>
+<td align="right">67,219,000</td>
+<td align="center">377</td>
+<td align="right">178,000</td>
+<td align="center">-</td>
+<td align="right">-</td>
+</tr>
+<tr>
+<td align="left">Bastrop</td>
+<td align="right">176,000</td>
+<td valign="bottom" align="center">1</td>
+<td align="right">176,000</td>
+<td align="center">-</td>
+<td align="right">-</td>
+</tr>
+<tr>
+<td align="left">Brazos</td>
+<td align="right">6,428,000</td>
+<td align="center">47</td>
+<td align="right">137.000</td>
+<td align="center">-</td>
+<td align="right">-</td>
+</tr>
+<tr>
+<td align="left">Burleson</td>
+<td align="right">6,412,000</td>
+<td align="center">49</td>
+<td align="right">131,000</td>
+<td align="center">-</td>
+<td align="right">-</td>
+</tr>
+<tr>
+<td align="left">Caldwell</td>
+<td valign="bottom" align="right">116,000</td>
+<td align="center">5</td>
+<td align="right">23,000</td>
+<td align="center">-</td>
+<td align="right">-</td>
+</tr>
+<tr>
+<td valign="top" align="left">Dewitt</td>
+<td valign="top" align="right">8,914,000</td>
+<td valign="top" align="center">42</td>
+<td valign="bottom" align="right">212,000</td>
+<td valign="top" align="center">453</td>
+<td valign="top" align="right">334,000</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Dimmit</td>
+<td valign="bottom" align="right">3,915,000</td>
+<td valign="bottom" align="center">45</td>
+<td valign="bottom" align="right">87,000</td>
+<td valign="bottom" align="center">820</td>
+<td valign="bottom" align="right">137,000</td>
+</tr>
+<tr>
+<td align="left">Fayette</td>
+<td align="right">8,482,000</td>
+<td align="center">53</td>
+<td valign="bottom" align="right">160,000</td>
+<td align="center">-</td>
+<td align="right">-</td>
+</tr>
+<tr>
+<td align="left">Frio</td>
+<td align="right">29,871,000</td>
+<td align="center">203</td>
+<td align="right">147,000</td>
+<td align="center">-</td>
+<td align="right">-</td>
+</tr>
+<tr>
+<td valign="top" align="left">Gonzales</td>
+<td valign="top" align="right">54,211,000</td>
+<td valign="top" align="center">329</td>
+<td valign="top" align="right">165.000</td>
+<td valign="top" align="center">486</td>
+<td valign="top" align="right">198,000</td>
+</tr>
+<tr>
+<td valign="top" align="left">Karnes</td>
+<td valign="top" align="right">105,634,000</td>
+<td valign="top" align="center">446</td>
+<td valign="top" align="right">237,000</td>
+<td valign="top" align="center">975</td>
+<td valign="bottom" align="right">226,000</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Lasalle</td>
+<td valign="bottom" align="right">67,089,000</td>
+<td valign="bottom" align="center">329</td>
+<td valign="bottom" align="right">204,000</td>
+<td valign="bottom" align="center">755</td>
+<td valign="bottom" align="right">153,000</td>
+</tr>
+<tr>
+<td align="left">Lavaca</td>
+<td align="right">3,794,000</td>
+<td valign="bottom" align="center">28</td>
+<td align="right">135,000</td>
+<td align="center">-</td>
+<td align="right">-</td>
+</tr>
+<tr>
+<td align="left">Lee</td>
+<td align="right">3,040,000</td>
+<td align="center">40</td>
+<td align="right">76,000</td>
+<td align="center">-</td>
+<td align="right">-</td>
+</tr>
+<tr>
+<td align="left">Leon</td>
+<td align="right">389,000</td>
+<td valign="bottom" align="center">6</td>
+<td align="right">65,000</td>
+<td align="center">-</td>
+<td align="right">-</td>
+</tr>
+<tr>
+<td align="left">Live Oak</td>
+<td align="right">15,332,000</td>
+<td align="center">96</td>
+<td valign="bottom" align="right">160,000</td>
+<td align="center">-</td>
+<td align="right">-</td>
+</tr>
+<tr>
+<td align="left">Madison</td>
+<td align="right">378,000</td>
+<td align="center">4</td>
+<td align="right">94,000</td>
+<td align="center">-</td>
+<td align="right">-</td>
+</tr>
+<tr>
+<td align="left">Maverick</td>
+<td align="right">24,000</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="right">12,000</td>
+<td valign="bottom" align="center">10</td>
+<td align="right">25,000</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Mcmullen</td>
+<td valign="bottom" align="right">22,990,000</td>
+<td valign="bottom" align="center">172</td>
+<td valign="bottom" align="right">134,000</td>
+<td valign="bottom" align="center">455</td>
+<td valign="bottom" align="right">127,000</td>
+</tr>
+<tr>
+<td align="left">Milam</td>
+<td align="right">19,000</td>
+<td valign="bottom" align="center">1</td>
+<td align="right">19,000</td>
+<td align="center">-</td>
+<td align="right">-</td>
+</tr>
+<tr>
+<td align="left">Robertson</td>
+<td align="right">1,335,000</td>
+<td align="center">13</td>
+<td align="right">103,000</td>
+<td align="center">-</td>
+<td align="right">-</td>
+</tr>
+<tr>
+<td align="left">Titus</td>
+<td align="right">1,401,000</td>
+<td align="center">27</td>
+<td align="right">52,000</td>
+<td align="center">-</td>
+<td align="right">-</td>
+</tr>
+<tr>
+<td align="left">Wilson</td>
+<td align="right">11,911,000</td>
+<td align="center">99</td>
+<td valign="bottom" align="right">120.000</td>
+<td align="center">-</td>
+<td align="right">-</td>
+</tr>
+<tr>
+<td align="left">Wood</td>
+<td valign="bottom" align="right">2,112,000</td>
+<td align="center">25</td>
+<td align="right">84,000</td>
+<td align="center">-</td>
+<td align="right">-</td>
+</tr>
+<tr>
+<td align="left">Zavala</td>
+<td valign="bottom" align="right">16,006,000</td>
+<td align="center">172</td>
+<td align="right">93,000</td>
+<td align="center">-</td>
+<td align="right">-</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>Total/Mean</b>
+</td>
+<td valign="bottom" align="right">
+<b>437,198,000</b>
+</td>
+<td valign="bottom" align="center">
+<b>2,611</b>
+</td>
+<td valign="bottom" align="right">
+<b>167,000</b>
+</td>
+<td valign="bottom" align="center">
+<b>3,954</b>
+</td>
+<td valign="bottom" align="right">
+<b>171,000*</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-18" type="bib">
+<bib id="BIB3">EIAU., <article-title>Annual Energy Outlook </article-title>. <article-title>D0E/EIA-0383</article-title>, <pubDate>2014</pubDate>.</bib>
+</linkTarget>
+</appendix>
+</docTable>
+<docTable pdf-page="19" table-order="3" data-type-order="17">
+<table-wrap id="102118187226MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3"> </anchoringText>
+<label>Table A1</label>
+<caption>Typical values of key fluid parameters.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>A1</caption-order>
+<caption-text>Typical values of key fluid parameters.</caption-text>
+</formatted-caption>
+<table id="102118187226MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Parameter</th>
+<th valign="top" align="center">SI units<i>
+<sup>a</sup>
+</i>
+</th>
+<th valign="top" align="center">Field units<i>
+<sup>a</sup>
+</i>
+</th>
+<th valign="top" align="center">SI units<i>
+<sup>b</sup>
+</i>
+</th>
+<th valign="top" align="center">Field units<i>
+<sup>b</sup>
+</i>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td id="tfn-2" colspan="5" align="left">
+<i>a </i>Data source: <link href="BIB4">
+<i>Gong </i>(2013) </link>
+<br />
+<i>b </i>Datasource: <link href="BIB5">
+<i>Orangi et al</i>. (2011) </link>
+<br />
+<i>c </i>Formation volume factor<br />
+<i>d </i>From <link href="BIB5">
+<i>Orangi et al</i>. (2011) </link> for G0R=1000 oil<br />
+<i>e </i>Solution gas-oil ratio</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td valign="top" align="right">Oil compressibility,<i>c<sub>o</sub>
+</i>
+</td>
+<td valign="top" align="center">2.13 × 10<sup>–9</sup> Pa<sup>–1</sup>
+</td>
+<td valign="top" align="center">15 microsips (10<sup>–6</sup> psi<sup>–1</sup>)</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="right">Water compressibility, <i>c<sub>w</sub>
+</i>
+</td>
+<td valign="top" align="center">4.27 × 10<sup>–10</sup> Pa<sup>–1</sup>
+</td>
+<td valign="top" align="center">3 microsips (10<sup>–6</sup> psi<sup>–1</sup>)</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Oil viscosity, <i>μ<sub>o,i</sub>
+</i>
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">5.8 × 10<sup>–5</sup> Pa s</td>
+<td valign="bottom" align="center">0.58 cp</td>
+</tr>
+<tr>
+<td valign="top" align="right">Oil FVF<i>
+<sup>c</sup> B<sub>o,i</sub>
+</i>
+</td>
+<td valign="top" align="center">1.65<i>
+<sup>d</sup>
+</i> m<sup>3</sup>/sm<sup>3</sup>
+</td>
+<td valign="top" align="center">1.65<i>
+<sup>d</sup>
+</i> rbbl/stb</td>
+<td valign="top" align="center">1.34 m<sup>3</sup>/sm<sup>3</sup>
+</td>
+<td valign="top" align="center">1.34 rbbl/stb</td>
+</tr>
+<tr>
+<td valign="top" align="right">Oil density/gravity</td>
+<td valign="top" align="center">958 kg/sm<sup>3</sup>
+</td>
+<td valign="top" align="center">41 °API</td>
+<td valign="top" align="center">958 kg/sm<sup>3</sup>
+</td>
+<td valign="top" align="center">41 °API</td>
+</tr>
+<tr>
+<td valign="top" align="right">Gas gravity, γ<i>
+<sub>g</sub>
+</i>
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">0.905</td>
+<td valign="top" align="center">0.905</td>
+</tr>
+<tr>
+<td valign="top" align="right">GOR<i>
+<sup>e</sup>
+</i>
+</td>
+<td valign="top" align="center">178 sm<sup>3</sup>/m<sup>3</sup>
+</td>
+<td valign="top" align="center">1000 scf/stb</td>
+<td valign="top" align="center">89 sm<sup>3</sup>/m<sup>3</sup>
+</td>
+<td valign="top" align="center">500 scf/stb</td>
+</tr>
+<tr>
+<td valign="top" align="right">Saturation pressure, <i>p<sub>b</sub>
+</i>
+</td>
+<td valign="top" align="center">30 MPa</td>
+<td valign="top" align="center">4300<i>
+<sup>f</sup>
+</i> psi</td>
+<td valign="top" align="center">14.4 MPa</td>
+<td valign="top" align="center">2053 psi</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-17" type="bib">
+<bib id="BIB4"><author><last-name>Gong</last-name> .<first-name>X.</first-name></author>,<article-title> Assessment of eagle ford shale oil and gas resources, Ph.d. thesis, Texas A&amp;M</article-title>, <article-title>College Station</article-title>, <pubDate>2013</pubDate>.</bib>
+</linkTarget>
+<linkTarget id="link-20" type="bib">
+<bib id="BIB5"><author><last-name>Orangi</last-name><first-name>A.</first-name></author>, <author><last-name>Nagarajan</last-name>,<first-name>N. R</first-name></author>. <author><last-name>Honarpour</last-name>,<first-name>M. M</first-name></author>. and <author><last-name>Rosenzweig</last-name>,<first-name>J. J</first-name></author>. <article-title>SPE 140536-MS: Unconventional Shale Oil and Gas-Condensate Reservoir Production, Impact of Rock, Fluid, and Hydraulic Fracture, in SPE Hydraulic Fracturing Technology Conference and Exhibition, SPE, Woodlands, TX</article-title>, <pubDate>2011</pubDate>.</bib>
+</linkTarget>
+</appendix>
+</docTable>
+<docTable pdf-page="19" table-order="4" data-type-order="18">
+<table-wrap id="102118187226MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4"> </anchoringText>
+<label>Table A2</label>
+<caption>Typical values of key reservoir and well parameters.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>A2</caption-order>
+<caption-text>Typical values of key reservoir and well parameters.</caption-text>
+</formatted-caption>
+<table id="102118187226MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="right">Parameter</th>
+<th valign="top" align="center">SI units<i>
+<sup>a</sup>
+</i>
+</th>
+<th valign="top" align="center">Field units<i>
+<sup>a</sup>
+</i>
+</th>
+<th valign="top" align="center">SI units<i>
+<sup>b</sup>
+</i>
+</th>
+<th valign="top" align="center">Field units<i>
+<sup>b</sup>
+</i>
+</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td id="tfn-3" colspan="5" align="left">
+<i>a </i>Data source: <link href="BIB6">
+<i>Gong </i>(2013) </link>
+<br />
+<i>b </i>Datasource: <link href="BIB7">
+<i>Orangi et al</i>. (2011) </link>
+<br />
+<i>c </i>The uniform fluid pressure in the hydrofractures</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td valign="top" align="right">Rock porosity, ϕ</td>
+<td valign="top" align="center">0.086</td>
+<td valign="top" align="center">0.086</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="right">Rock permeability, <i>k</i>
+</td>
+<td valign="top" align="center">0.1 × 10<sup>–18</sup> m<sup>2</sup>
+</td>
+<td valign="top" align="center">0.1 microdarcy</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="right">Rock compressibility, <i>c</i>
+<sub>ϕ</sub>
+</td>
+<td valign="top" align="center">1.42 × 10<sup>–10</sup> Pa<sup>–1</sup>
+</td>
+<td valign="top" align="center">1 microsip (10<sup>–6</sup> psi<sup>–</sup>1)</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="right">Initial oil saturation, <i>S<sub>oi</sub>
+</i>
+</td>
+<td valign="top" align="center">0.67</td>
+<td valign="top" align="center">0.67</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="right">Irreducible water saturation, <i>S<sub>wc</sub>
+</i>
+</td>
+<td valign="top" align="center">0.33</td>
+<td valign="top" align="center">0.33</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="right">Initial pressure, <i>p<sub>i</sub>
+</i>
+</td>
+<td valign="top" align="center">36.7 MPa</td>
+<td valign="top" align="center">5600 psi</td>
+<td valign="top" align="center">44.3 MPa</td>
+<td valign="top" align="center">6300 psi</td>
+</tr>
+<tr>
+<td valign="top" align="right">Reservoir temperature, <i>T</i>
+</td>
+<td valign="top" align="center">383 K</td>
+<td valign="top" align="center">230°F</td>
+<td valign="top" align="center">387 K</td>
+<td valign="top" align="center">237°F</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Fracture pressure<i>
+<sup>c</sup>
+</i>, <i>pf</i>
+</td>
+<td valign="bottom" align="center">10.5 MPa</td>
+<td valign="bottom" align="center">1500 psi</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="right">Horizontal well length, <i>L<sub>w</sub>
+</i>
+</td>
+<td valign="top" align="center">1500 m</td>
+<td valign="top" align="center">5000 ft</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td align="right"># of fracture stages, <i>N</i>
+</td>
+<td valign="bottom" align="center">12</td>
+<td valign="bottom" align="center">12</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="right">Fracture height, <i>H</i>
+</td>
+<td valign="top" align="center">30 m</td>
+<td valign="top" align="center">100ft</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Tip-to-tip fracture length, 2Z</td>
+<td valign="bottom" align="center">400 m</td>
+<td valign="bottom" align="center">700 ft</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-17" type="bib">
+<bib id="BIB6"><author><last-name>Gong</last-name> <first-name>X.</first-name></author>, <article-title>Assessment of eagle ford shale oil and gas resources, Ph.d. thesis,Texas A&amp;M, College Station</article-title>, <pubDate>2013</pubDate>.</bib>
+</linkTarget>
+<linkTarget id="link-20" type="bib">
+<bib id="BIB7"><author><last-name>Orangi</last-name><first-name>A.</first-name></author>, <author><last-name>Nagarajan</last-name>,<first-name>N. R</first-name></author>. <author><last-name>Honarpour</last-name>,<first-name>M. M</first-name></author>. and <author><last-name>Rosenzweig</last-name>,<first-name>J. J</first-name></author>. <article-title>SPE 140536-MS: Unconventional Shale Oil and Gas-Condensate Reservoir Production, Impact of Rock, Fluid, and Hydraulic Fracture, in SPE Hydraulic Fracturing Technology Conference and Exhibition, SPE, Woodlands, TX</article-title>,<pubDate>2011</pubDate>.</bib>
+</linkTarget>
+</appendix>
+</docTable>
+<docTable pdf-page="21" table-order="5" data-type-order="20">
+<table-wrap id="102118187226MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">In the DrillingInfo software, this particular lease example is reported as one unallocated well with the API number 42- 283-32XXX-00 and the production data detailed in Table B1. The well count varies in each month and mostly increases until the maximum well count of 65 is reached. This well count, reported by DrillingInfo, is inaccurate because we counted 71 wells that belong to the same lease.</anchoringText>
+<label>Table B1</label>
+<caption>Monthly production data of Lease 153XX or API 42-283-323XX-00</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>B1</caption-order>
+<caption-text>Monthly production data of Lease 153XX or API 42-283-323XX-00</caption-text>
+</formatted-caption>
+<table id="102118187226MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Production</th>
+<th valign="top" align="center">Oil</th>
+<th valign="top" align="center">Gas</th>
+<th valign="top" align="center">Water</th>
+<th valign="top" align="center">Well</th>
+</tr>
+<tr>
+<th valign="bottom" align="center">Date</th>
+<th valign="bottom" align="center">(bbl)</th>
+<th valign="bottom" align="center">(Mscf)</th>
+<th valign="bottom" align="center">(bbl)</th>
+<th valign="bottom" align="center">Count</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">12/1/2010</td>
+<td align="center">11,755</td>
+<td align="center">12,350</td>
+<td align="center">7.423</td>
+<td valign="bottom" align="center">1</td>
+</tr>
+<tr>
+<td align="center">1/1/2011</td>
+<td align="center">9,427</td>
+<td align="center">5,249</td>
+<td align="center">5,953</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center">2/1/2011</td>
+<td align="center">11,903</td>
+<td align="center">5,711</td>
+<td align="center">7,517</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">3/1/2011</td>
+<td valign="bottom" align="center">32,693</td>
+<td valign="bottom" align="center">19,562</td>
+<td valign="bottom" align="center">20,645</td>
+<td valign="bottom" align="center">1</td>
+</tr>
+<tr>
+<td valign="top" align="center">4/1/2011</td>
+<td valign="top" align="center">5,527</td>
+<td valign="top" align="center">1,557</td>
+<td valign="top" align="center">3,490</td>
+<td valign="bottom" align="center">2</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">5/1/2011</td>
+<td valign="bottom" align="center">15,934</td>
+<td valign="bottom" align="center">7,546</td>
+<td valign="bottom" align="center">10,062</td>
+<td valign="bottom" align="center">4</td>
+</tr>
+<tr>
+<td align="center">6/1/2011</td>
+<td align="center">40.382</td>
+<td align="center">32,629</td>
+<td align="center">25,500</td>
+<td valign="bottom" align="center">6</td>
+</tr>
+<tr>
+<td valign="top" align="center">7/1/2011</td>
+<td valign="top" align="center">40,715</td>
+<td valign="top" align="center">33,813</td>
+<td valign="top" align="center">25,711</td>
+<td valign="bottom" align="center">6</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">8/1/2011</td>
+<td valign="bottom" align="center">39,333</td>
+<td valign="bottom" align="center">42,469</td>
+<td valign="bottom" align="center">24,838</td>
+<td valign="bottom" align="center">7</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">9/1/2011</td>
+<td valign="bottom" align="center">33,462</td>
+<td valign="bottom" align="center">13,968</td>
+<td valign="bottom" align="center">21,131</td>
+<td valign="bottom" align="center">8</td>
+</tr>
+<tr>
+<td align="center">10/1/2011</td>
+<td align="center">55,802</td>
+<td align="center">21,863</td>
+<td align="center">35,238</td>
+<td align="center">8</td>
+</tr>
+<tr>
+<td align="center">11/1/2011</td>
+<td align="center">57,737</td>
+<td align="center">21,748</td>
+<td align="center">36,460</td>
+<td valign="bottom" align="center">8</td>
+</tr>
+<tr>
+<td align="center">12/1/2011</td>
+<td align="center">98,339</td>
+<td align="center">66,987</td>
+<td align="center">62,099</td>
+<td align="center">10</td>
+</tr>
+<tr>
+<td align="center">1/1/2012</td>
+<td align="center">83,726</td>
+<td align="center">56,841</td>
+<td align="center">52,871</td>
+<td valign="bottom" align="center">10</td>
+</tr>
+<tr>
+<td align="center">2/1/2012</td>
+<td align="center">86,653</td>
+<td align="center">79,465</td>
+<td align="center">54,720</td>
+<td valign="bottom" align="center">10</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">3/1/2012</td>
+<td valign="bottom" align="center">94.809</td>
+<td valign="bottom" align="center">119,370</td>
+<td valign="bottom" align="center">59,870</td>
+<td valign="bottom" align="center">12</td>
+</tr>
+<tr>
+<td valign="top" align="center">4/1/2012</td>
+<td valign="top" align="center">106,934</td>
+<td valign="top" align="center">144.435</td>
+<td valign="top" align="center">67,527</td>
+<td valign="top" align="center">15</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">5/1/2012</td>
+<td valign="bottom" align="center">81,498</td>
+<td valign="bottom" align="center">123,674</td>
+<td valign="bottom" align="center">51,464</td>
+<td valign="bottom" align="center">17</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">6/1/2012</td>
+<td valign="bottom" align="center">102,460</td>
+<td valign="bottom" align="center">115.400</td>
+<td valign="bottom" align="center">64,702</td>
+<td valign="bottom" align="center">17</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">7/1/2012</td>
+<td valign="bottom" align="center">166,885</td>
+<td valign="bottom" align="center">243,417</td>
+<td valign="bottom" align="center">105,385</td>
+<td valign="bottom" align="center">17</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">8/1/2012</td>
+<td valign="bottom" align="center">177,752</td>
+<td valign="bottom" align="center">277,829</td>
+<td valign="bottom" align="center">112,247</td>
+<td valign="bottom" align="center">19</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">9/1/2012</td>
+<td valign="bottom" align="center">157,201</td>
+<td valign="bottom" align="center">290,617</td>
+<td valign="bottom" align="center">99,269</td>
+<td valign="bottom" align="center">19</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">10/1/2012</td>
+<td valign="bottom" align="center">157.442</td>
+<td valign="bottom" align="center">293,739</td>
+<td valign="bottom" align="center">99,422</td>
+<td valign="bottom" align="center">19</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">11/1/2012</td>
+<td valign="bottom" align="center">155,811</td>
+<td valign="bottom" align="center">263.451</td>
+<td valign="bottom" align="center">98,392</td>
+<td valign="bottom" align="center">21</td>
+</tr>
+<tr>
+<td valign="top" align="center">12/1/2012</td>
+<td valign="top" align="center">188.747</td>
+<td valign="top" align="center">276,631</td>
+<td valign="top" align="center">119,190</td>
+<td valign="top" align="center">23</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">1/1/2013</td>
+<td valign="bottom" align="center">185,089</td>
+<td valign="bottom" align="center">286,820</td>
+<td valign="bottom" align="center">115,903</td>
+<td valign="bottom" align="center">23</td>
+</tr>
+<tr>
+<td valign="top" align="center">2/1/2013</td>
+<td valign="top" align="center">187,400</td>
+<td valign="top" align="center">361,561</td>
+<td valign="top" align="center">117,350</td>
+<td valign="top" align="center">23</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">3/1/2013</td>
+<td valign="bottom" align="center">183,155</td>
+<td valign="bottom" align="center">428.418</td>
+<td valign="bottom" align="center">114,692</td>
+<td valign="bottom" align="center">23</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">4/1/2013</td>
+<td valign="bottom" align="center">155,920</td>
+<td valign="bottom" align="center">383.981</td>
+<td valign="bottom" align="center">97,637</td>
+<td valign="bottom" align="center">25</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">5/1/2013</td>
+<td valign="bottom" align="center">203,920</td>
+<td valign="bottom" align="center">430.697</td>
+<td valign="bottom" align="center">127,695</td>
+<td valign="bottom" align="center">27</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">6/1/2013</td>
+<td valign="bottom" align="center">168,164</td>
+<td valign="bottom" align="center">431,030</td>
+<td valign="bottom" align="center">105,305</td>
+<td valign="bottom" align="center">31</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">7/1/2013</td>
+<td valign="bottom" align="center">237,870</td>
+<td valign="bottom" align="center">528,778</td>
+<td valign="bottom" align="center">148,955</td>
+<td valign="bottom" align="center">34</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">8/1/2013</td>
+<td valign="bottom" align="center">204,620</td>
+<td valign="bottom" align="center">515,141</td>
+<td valign="bottom" align="center">128,133</td>
+<td valign="bottom" align="center">34</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">9/1/2013</td>
+<td valign="bottom" align="center">213,397</td>
+<td valign="bottom" align="center">579,924</td>
+<td valign="bottom" align="center">133,629</td>
+<td valign="bottom" align="center">32</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">10/1/2013</td>
+<td valign="bottom" align="center">201,047</td>
+<td valign="bottom" align="center">612,705</td>
+<td valign="bottom" align="center">125,896</td>
+<td valign="bottom" align="center">32</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">11/1/2013</td>
+<td valign="bottom" align="center">178,213</td>
+<td valign="bottom" align="center">592,611</td>
+<td valign="bottom" align="center">111,597</td>
+<td valign="bottom" align="center">34</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">12/1/2013</td>
+<td valign="bottom" align="center">242,573</td>
+<td valign="bottom" align="center">690.535</td>
+<td valign="bottom" align="center">151,900</td>
+<td valign="bottom" align="center">37</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">1/1/2014</td>
+<td valign="bottom" align="center">219,223</td>
+<td valign="bottom" align="center">655,856</td>
+<td valign="bottom" align="center">122,326</td>
+<td valign="bottom" align="center">37</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">2/1/2014</td>
+<td valign="bottom" align="center">191,462</td>
+<td valign="bottom" align="center">553,561</td>
+<td valign="bottom" align="center">106,835</td>
+<td valign="bottom" align="center">37</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">3/1/2014</td>
+<td valign="bottom" align="center">213,225</td>
+<td valign="bottom" align="center">604.804</td>
+<td valign="bottom" align="center">118,979</td>
+<td valign="bottom" align="center">40</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">4/1/2014</td>
+<td valign="bottom" align="center">286,031</td>
+<td valign="bottom" align="center">651,832</td>
+<td valign="bottom" align="center">159,604</td>
+<td valign="bottom" align="center">43</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">5/1/2014</td>
+<td valign="bottom" align="center">267,200</td>
+<td valign="bottom" align="center">690.462</td>
+<td valign="bottom" align="center">149,097</td>
+<td valign="bottom" align="center">43</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">6/1/2014</td>
+<td valign="bottom" align="center">250,062</td>
+<td valign="bottom" align="center">612,366</td>
+<td valign="bottom" align="center">139,534</td>
+<td valign="bottom" align="center">47</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">7/1/2014</td>
+<td valign="bottom" align="center">255,191</td>
+<td valign="bottom" align="center">578,674</td>
+<td valign="bottom" align="center">142,396</td>
+<td valign="bottom" align="center">50</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">8/1/2014</td>
+<td valign="bottom" align="center">330,378</td>
+<td valign="bottom" align="center">736,667</td>
+<td valign="bottom" align="center">184,350</td>
+<td valign="bottom" align="center">50</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">9/1/2014</td>
+<td valign="bottom" align="center">267,676</td>
+<td valign="bottom" align="center">788,338</td>
+<td valign="bottom" align="center">149,362</td>
+<td valign="bottom" align="center">50</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">10/1/2014</td>
+<td valign="bottom" align="center">250,374</td>
+<td valign="bottom" align="center">686,188</td>
+<td valign="bottom" align="center">139,708</td>
+<td valign="bottom" align="center">53</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">11/1/2014</td>
+<td valign="bottom" align="center">327,482</td>
+<td valign="bottom" align="center">733,613</td>
+<td valign="bottom" align="center">182,734</td>
+<td valign="bottom" align="center">56</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">12/1/2014</td>
+<td valign="bottom" align="center">277,747</td>
+<td valign="bottom" align="center">707,103</td>
+<td valign="bottom" align="center">154,982</td>
+<td valign="bottom" align="center">59</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">1/1/2015</td>
+<td valign="bottom" align="center">306,664</td>
+<td valign="bottom" align="center">697,782</td>
+<td valign="bottom" align="center">217,629</td>
+<td valign="bottom" align="center">59</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">2/1/2015</td>
+<td valign="bottom" align="center">245,764</td>
+<td valign="bottom" align="center">634,524</td>
+<td valign="bottom" align="center">174,410</td>
+<td valign="bottom" align="center">59</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">3/1/2015</td>
+<td valign="bottom" align="center">221,023</td>
+<td valign="bottom" align="center">564,284</td>
+<td valign="bottom" align="center">156,852</td>
+<td valign="bottom" align="center">61</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">4/1/2015</td>
+<td valign="bottom" align="center">243,057</td>
+<td valign="bottom" align="center">528,138</td>
+<td valign="bottom" align="center">172.489</td>
+<td valign="bottom" align="center">65</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">5/1/2015</td>
+<td valign="bottom" align="center">288,341</td>
+<td valign="bottom" align="center">534,509</td>
+<td valign="bottom" align="center">204,625</td>
+<td valign="bottom" align="center">65</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">6/1/2015</td>
+<td valign="bottom" align="center">246,013</td>
+<td valign="bottom" align="center">525,615</td>
+<td valign="bottom" align="center">174,587</td>
+<td valign="bottom" align="center">65</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">7/1/2015</td>
+<td valign="bottom" align="center">215,486</td>
+<td valign="bottom" align="center">266,194</td>
+<td valign="bottom" align="center">152,923</td>
+<td valign="bottom" align="center">65</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">8/1/2015</td>
+<td valign="bottom" align="center">208,437</td>
+<td valign="bottom" align="center">569,353</td>
+<td valign="bottom" align="center">147,920</td>
+<td valign="bottom" align="center">65</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">9/1/2015</td>
+<td valign="bottom" align="center">185,976</td>
+<td valign="bottom" align="center">515,584</td>
+<td valign="bottom" align="center">131,981</td>
+<td valign="bottom" align="center">65</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">10/1/2015</td>
+<td valign="bottom" align="center">187,137</td>
+<td valign="bottom" align="center">468,540</td>
+<td valign="bottom" align="center">132,805</td>
+<td valign="bottom" align="center">65</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">11/1/2015</td>
+<td valign="bottom" align="center">165,843</td>
+<td valign="bottom" align="center">450,327</td>
+<td valign="bottom" align="center">117,693</td>
+<td valign="bottom" align="center">65</td>
+</tr>
+<tr>
+<td valign="top" align="center">12/1/2015</td>
+<td valign="top" align="center">157,109</td>
+<td valign="top" align="center">456,515</td>
+<td valign="top" align="center">111,495</td>
+<td valign="top" align="center">65</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">1/1/2016</td>
+<td valign="bottom" align="center">134,315</td>
+<td valign="bottom" align="center">391,612</td>
+<td valign="bottom" align="center">34,622</td>
+<td valign="bottom" align="center">65</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">2/1/2016</td>
+<td valign="bottom" align="center">132,082</td>
+<td valign="bottom" align="center">347,745</td>
+<td valign="bottom" align="center">34,046</td>
+<td valign="bottom" align="center">65</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">3/1/2016</td>
+<td valign="bottom" align="center">138.433</td>
+<td valign="bottom" align="center">354,005</td>
+<td valign="bottom" align="center">35,683</td>
+<td valign="bottom" align="center">65</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">4/1/2016</td>
+<td valign="bottom" align="center">123,178</td>
+<td valign="bottom" align="center">332,495</td>
+<td valign="bottom" align="center">31,751</td>
+<td valign="bottom" align="center">65</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">5/1/2016</td>
+<td valign="bottom" align="center">122,456</td>
+<td valign="bottom" align="center">342,188</td>
+<td valign="bottom" align="center">31,565</td>
+<td valign="bottom" align="center">65</td>
+</tr>
+<tr>
+<td valign="top" align="center">6/1/2016</td>
+<td valign="top" align="center">123,606</td>
+<td valign="top" align="center">409,034</td>
+<td valign="top" align="center">31,862</td>
+<td valign="top" align="center">65</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">7/1/2016</td>
+<td valign="bottom" align="center">118,240</td>
+<td valign="bottom" align="center">430.513</td>
+<td valign="bottom" align="center">30,478</td>
+<td valign="bottom" align="center">65</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">8/1/2016</td>
+<td valign="bottom" align="center">114,365</td>
+<td valign="bottom" align="center">444,446</td>
+<td valign="bottom" align="center">29,479</td>
+<td valign="bottom" align="center">65</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">9/1/2016</td>
+<td valign="bottom" align="center">106,273</td>
+<td valign="bottom" align="center">421,164</td>
+<td valign="bottom" align="center">27,394</td>
+<td valign="bottom" align="center">65</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">10/1/2016</td>
+<td valign="bottom" align="center">107,956</td>
+<td valign="bottom" align="center">416,936</td>
+<td valign="bottom" align="center">27,827</td>
+<td valign="bottom" align="center">65</td>
+</tr>
+<tr>
+<td valign="top" align="center">11/1/2016</td>
+<td valign="top" align="center">99,859</td>
+<td valign="top" align="center">386,615</td>
+<td valign="top" align="center">25,740</td>
+<td valign="top" align="center">65</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="24" table-order="6" data-type-order="22">
+<table-wrap id="102118187226MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6">All steps in our well allocation procedure are detailed in Table B2. Before the allocation, cumulative production has the shape of a convex-down parabola that violates the natural depletion mechanisms for a physical well. Our allocation method results in a convex-up cumulative mass production curve that follows the reduction of reservoir pressure during production, see the green curve in Fig. B2.</anchoringText>
+<label>Table B2</label>
+<caption>Allocating steps summarized in a table</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>B2</caption-order>
+<caption-text>Allocating steps summarized in a table</caption-text>
+</formatted-caption>
+<table id="102118187226MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Time</th>
+<th valign="top" align="center">Mass Produced</th>
+<th valign="top" align="center">Unallocated</th>
+<th valign="top" align="center">Well</th>
+<th valign="top" align="center">Mass/Wcnt</th>
+<th valign="top" align="center">Allocated</th>
+</tr>
+<tr>
+<th valign="top" align="center">(Months)</th>
+<th valign="top" align="center">(ktons)</th>
+<th valign="top" align="center">Cumulative Mass</th>
+<th valign="top" align="center">Count</th>
+<th valign="top" align="center">ktons</th>
+<th valign="top" align="center">Cumulative Mass</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1.00</td>
+<td align="center">4.94</td>
+<td align="center">4.94</td>
+<td align="center">1</td>
+<td align="center">4.94</td>
+<td align="center">4.94</td>
+</tr>
+<tr>
+<td valign="top" align="center">2.03</td>
+<td valign="top" align="center">3.83</td>
+<td valign="top" align="center">8.77</td>
+<td valign="bottom" align="center">1</td>
+<td valign="top" align="center">3.83</td>
+<td valign="top" align="center">8.77</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">3.07</td>
+<td valign="bottom" align="center">4.84</td>
+<td valign="bottom" align="center">13.61</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">4.84</td>
+<td valign="bottom" align="center">13.61</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">4.00</td>
+<td valign="bottom" align="center">14.72</td>
+<td valign="bottom" align="center">28.33</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">14.72</td>
+<td valign="bottom" align="center">28.33</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">5.03</td>
+<td valign="bottom" align="center">2.25</td>
+<td valign="bottom" align="center">30.57</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">1.13</td>
+<td valign="bottom" align="center">29.46</td>
+</tr>
+<tr>
+<td valign="top" align="center">6.03</td>
+<td valign="top" align="center">6.69</td>
+<td valign="top" align="center">37.27</td>
+<td valign="top" align="center">4</td>
+<td valign="top" align="center">1.67</td>
+<td valign="top" align="center">31.13</td>
+</tr>
+<tr>
+<td valign="top" align="center">7.07</td>
+<td valign="top" align="center">16.42</td>
+<td valign="top" align="center">53.68</td>
+<td valign="bottom" align="center">6</td>
+<td valign="top" align="center">2.74</td>
+<td valign="top" align="center">33.86</td>
+</tr>
+<tr>
+<td valign="top" align="center">8.07</td>
+<td valign="top" align="center">17.10</td>
+<td valign="top" align="center">70.79</td>
+<td valign="bottom" align="center">6</td>
+<td valign="top" align="center">2.85</td>
+<td valign="top" align="center">36.71</td>
+</tr>
+<tr>
+<td valign="top" align="center">9.10</td>
+<td valign="top" align="center">15.99</td>
+<td valign="top" align="center">86.78</td>
+<td valign="top" align="center">7</td>
+<td valign="bottom" align="center">2.28</td>
+<td valign="top" align="center">39.00</td>
+</tr>
+<tr>
+<td valign="top" align="center">10.13</td>
+<td valign="top" align="center">13.60</td>
+<td valign="top" align="center">100.38</td>
+<td valign="bottom" align="center">8</td>
+<td valign="top" align="center">1.70</td>
+<td valign="top" align="center">40.70</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">11.13</td>
+<td valign="bottom" align="center">23.44</td>
+<td valign="bottom" align="center">123.83</td>
+<td valign="bottom" align="center">8</td>
+<td valign="bottom" align="center">2.93</td>
+<td valign="bottom" align="center">43.63</td>
+</tr>
+<tr>
+<td valign="top" align="center">12.17</td>
+<td valign="top" align="center">23.47</td>
+<td valign="top" align="center">147.30</td>
+<td valign="bottom" align="center">8</td>
+<td valign="top" align="center">2.93</td>
+<td valign="top" align="center">46.56</td>
+</tr>
+<tr>
+<td align="center">13.17</td>
+<td align="center">41.31</td>
+<td align="center">188.61</td>
+<td align="center">10</td>
+<td align="center">4.13</td>
+<td align="center">50.69</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">14.20</td>
+<td valign="bottom" align="center">34.04</td>
+<td valign="bottom" align="center">222.65</td>
+<td valign="bottom" align="center">10</td>
+<td valign="bottom" align="center">3.40</td>
+<td valign="bottom" align="center">54.10</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">15.23</td>
+<td valign="bottom" align="center">35.23</td>
+<td valign="bottom" align="center">257.88</td>
+<td valign="bottom" align="center">10</td>
+<td valign="bottom" align="center">3.52</td>
+<td valign="bottom" align="center">57.62</td>
+</tr>
+<tr>
+<td align="center">16.20</td>
+<td align="center">41.20</td>
+<td align="center">299.08</td>
+<td align="center">12</td>
+<td align="center">3.43</td>
+<td align="center">61.05</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">17.23</td>
+<td valign="bottom" align="center">43.47</td>
+<td valign="bottom" align="center">342.56</td>
+<td valign="bottom" align="center">15</td>
+<td valign="bottom" align="center">2.90</td>
+<td valign="bottom" align="center">63.95</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18.23</td>
+<td valign="bottom" align="center">34.24</td>
+<td valign="bottom" align="center">376.80</td>
+<td valign="bottom" align="center">17</td>
+<td valign="bottom" align="center">2.01</td>
+<td valign="bottom" align="center">65.97</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">19.27</td>
+<td valign="bottom" align="center">41.66</td>
+<td valign="bottom" align="center">418.45</td>
+<td valign="bottom" align="center">17</td>
+<td valign="bottom" align="center">2.45</td>
+<td valign="bottom" align="center">68.42</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">20.27</td>
+<td valign="bottom" align="center">70.11</td>
+<td valign="bottom" align="center">488.56</td>
+<td valign="bottom" align="center">17</td>
+<td valign="bottom" align="center">4.12</td>
+<td valign="bottom" align="center">72.54</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">21.30</td>
+<td valign="bottom" align="center">72.27</td>
+<td valign="bottom" align="center">560.83</td>
+<td valign="bottom" align="center">19</td>
+<td valign="bottom" align="center">3.80</td>
+<td valign="bottom" align="center">76.34</td>
+</tr>
+<tr>
+<td valign="top" align="center">22.33</td>
+<td valign="top" align="center">63.91</td>
+<td valign="top" align="center">624.74</td>
+<td valign="top" align="center">19</td>
+<td valign="top" align="center">3.36</td>
+<td valign="top" align="center">79.71</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">23.33</td>
+<td valign="bottom" align="center">66.14</td>
+<td valign="bottom" align="center">690.88</td>
+<td valign="bottom" align="center">19</td>
+<td valign="bottom" align="center">3.48</td>
+<td valign="bottom" align="center">83.19</td>
+</tr>
+<tr>
+<td align="center">24.37</td>
+<td align="center">63.35</td>
+<td align="center">754.23</td>
+<td align="center">21</td>
+<td align="center">3.02</td>
+<td align="center">86.21</td>
+</tr>
+<tr>
+<td valign="top" align="center">25.37</td>
+<td valign="top" align="center">79.29</td>
+<td valign="top" align="center">833.52</td>
+<td valign="top" align="center">23</td>
+<td valign="top" align="center">3.45</td>
+<td valign="top" align="center">89.65</td>
+</tr>
+<tr>
+<td valign="top" align="center">26.40</td>
+<td valign="top" align="center">75.25</td>
+<td valign="top" align="center">908.77</td>
+<td valign="top" align="center">23</td>
+<td valign="top" align="center">3.27</td>
+<td valign="top" align="center">92.92</td>
+</tr>
+<tr>
+<td valign="top" align="center">27.43</td>
+<td valign="top" align="center">76.19</td>
+<td valign="top" align="center">984.96</td>
+<td valign="top" align="center">23</td>
+<td valign="top" align="center">3.31</td>
+<td valign="top" align="center">96.24</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">28.37</td>
+<td valign="bottom" align="center">82.44</td>
+<td valign="bottom" align="center">1067.40</td>
+<td valign="bottom" align="center">23</td>
+<td valign="bottom" align="center">3.58</td>
+<td valign="bottom" align="center">99.82</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">29.40</td>
+<td valign="bottom" align="center">63.39</td>
+<td valign="bottom" align="center">1130.79</td>
+<td valign="bottom" align="center">25</td>
+<td valign="bottom" align="center">2.54</td>
+<td valign="bottom" align="center">102.36</td>
+</tr>
+<tr>
+<td valign="top" align="center">30.40</td>
+<td valign="top" align="center">85.67</td>
+<td valign="top" align="center">1216.46</td>
+<td valign="top" align="center">27</td>
+<td valign="top" align="center">3.17</td>
+<td valign="top" align="center">105.53</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">31.43</td>
+<td valign="bottom" align="center">68.37</td>
+<td valign="bottom" align="center">1284.82</td>
+<td valign="bottom" align="center">31</td>
+<td valign="bottom" align="center">2.21</td>
+<td valign="bottom" align="center">107.74</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">32.43</td>
+<td valign="bottom" align="center">99.93</td>
+<td valign="bottom" align="center">1384.76</td>
+<td valign="bottom" align="center">34</td>
+<td valign="bottom" align="center">2.94</td>
+<td valign="bottom" align="center">110.67</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">33.47</td>
+<td valign="bottom" align="center">83.19</td>
+<td valign="bottom" align="center">1467.94</td>
+<td valign="bottom" align="center">34</td>
+<td valign="bottom" align="center">2.45</td>
+<td valign="bottom" align="center">113.12</td>
+</tr>
+<tr>
+<td valign="top" align="center">34.50</td>
+<td valign="top" align="center">86.76</td>
+<td valign="top" align="center">1554.70</td>
+<td valign="top" align="center">32</td>
+<td valign="top" align="center">2.71</td>
+<td valign="top" align="center">115.83</td>
+</tr>
+<tr>
+<td valign="top" align="center">35.50</td>
+<td valign="top" align="center">84.46</td>
+<td valign="top" align="center">1639.16</td>
+<td valign="top" align="center">32</td>
+<td valign="top" align="center">2.64</td>
+<td valign="top" align="center">118.47</td>
+</tr>
+<tr>
+<td valign="top" align="center">36.53</td>
+<td valign="top" align="center">72.45</td>
+<td valign="top" align="center">1711.62</td>
+<td valign="top" align="center">34</td>
+<td valign="top" align="center">2.13</td>
+<td valign="bottom" align="center">120.60</td>
+</tr>
+<tr>
+<td valign="top" align="center">37.53</td>
+<td valign="top" align="center">101.91</td>
+<td valign="top" align="center">1813.52</td>
+<td valign="top" align="center">37</td>
+<td valign="top" align="center">2.75</td>
+<td valign="top" align="center">123.36</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">38.57</td>
+<td valign="bottom" align="center">89.13</td>
+<td valign="bottom" align="center">1902.65</td>
+<td valign="bottom" align="center">37</td>
+<td valign="bottom" align="center">2.41</td>
+<td valign="bottom" align="center">125.77</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">39.60</td>
+<td valign="bottom" align="center">77.84</td>
+<td valign="bottom" align="center">1980.49</td>
+<td valign="bottom" align="center">37</td>
+<td valign="bottom" align="center">2.10</td>
+<td valign="bottom" align="center">127.87</td>
+</tr>
+<tr>
+<td valign="top" align="center">40.53</td>
+<td valign="top" align="center">95.98</td>
+<td valign="top" align="center">2076.46</td>
+<td valign="top" align="center">40</td>
+<td valign="top" align="center">2.40</td>
+<td valign="top" align="center">130.27</td>
+</tr>
+<tr>
+<td valign="top" align="center">41.57</td>
+<td valign="top" align="center">116.29</td>
+<td valign="top" align="center">2192.75</td>
+<td valign="top" align="center">43</td>
+<td valign="top" align="center">2.70</td>
+<td valign="top" align="center">132.97</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">42.57</td>
+<td valign="bottom" align="center">112.25</td>
+<td valign="bottom" align="center">2305.00</td>
+<td valign="bottom" align="center">43</td>
+<td valign="bottom" align="center">2.61</td>
+<td valign="bottom" align="center">135.58</td>
+</tr>
+<tr>
+<td align="center">43.60</td>
+<td align="center">101.66</td>
+<td align="center">2406.67</td>
+<td align="center">47</td>
+<td align="center">2.16</td>
+<td align="center">137.75</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">44.60</td>
+<td valign="bottom" align="center">107.21</td>
+<td valign="bottom" align="center">2513.88</td>
+<td valign="bottom" align="center">50</td>
+<td valign="bottom" align="center">2.14</td>
+<td valign="bottom" align="center">139.89</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">45.63</td>
+<td valign="bottom" align="center">134.32</td>
+<td valign="bottom" align="center">2648.19</td>
+<td valign="bottom" align="center">50</td>
+<td valign="bottom" align="center">2.69</td>
+<td valign="bottom" align="center">142.58</td>
+</tr>
+<tr>
+<td align="center">46.67</td>
+<td align="center">108.82</td>
+<td align="center">2757.02</td>
+<td align="center">50</td>
+<td align="center">2.18</td>
+<td align="center">144.75</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">47.67</td>
+<td valign="bottom" align="center">105.18</td>
+<td valign="bottom" align="center">2862.20</td>
+<td valign="bottom" align="center">53</td>
+<td valign="bottom" align="center">1.98</td>
+<td valign="bottom" align="center">146.74</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">48.70</td>
+<td valign="bottom" align="center">133.14</td>
+<td valign="bottom" align="center">2995.34</td>
+<td valign="bottom" align="center">56</td>
+<td valign="bottom" align="center">2.38</td>
+<td valign="bottom" align="center">149.12</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">49.70</td>
+<td valign="bottom" align="center">116.68</td>
+<td valign="bottom" align="center">3112.02</td>
+<td valign="bottom" align="center">59</td>
+<td valign="bottom" align="center">1.98</td>
+<td valign="bottom" align="center">151.09</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">50.73</td>
+<td valign="bottom" align="center">124.68</td>
+<td valign="bottom" align="center">3236.70</td>
+<td valign="bottom" align="center">59</td>
+<td valign="bottom" align="center">2.11</td>
+<td valign="bottom" align="center">153.21</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">51.77</td>
+<td valign="bottom" align="center">99.92</td>
+<td valign="bottom" align="center">3336.62</td>
+<td valign="bottom" align="center">59</td>
+<td valign="bottom" align="center">1.69</td>
+<td valign="bottom" align="center">154.90</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">52.70</td>
+<td valign="bottom" align="center">99.49</td>
+<td valign="bottom" align="center">3436.10</td>
+<td valign="bottom" align="center">61</td>
+<td valign="bottom" align="center">1.63</td>
+<td valign="bottom" align="center">156.53</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">53.73</td>
+<td valign="bottom" align="center">98.82</td>
+<td valign="bottom" align="center">3534.92</td>
+<td valign="bottom" align="center">65</td>
+<td valign="bottom" align="center">1.52</td>
+<td valign="bottom" align="center">158.05</td>
+</tr>
+<tr>
+<td valign="top" align="center">54.73</td>
+<td valign="top" align="center">121.13</td>
+<td valign="top" align="center">3656.05</td>
+<td valign="top" align="center">65</td>
+<td valign="bottom" align="center">1.86</td>
+<td valign="top" align="center">159.92</td>
+</tr>
+<tr>
+<td valign="top" align="center">55.77</td>
+<td valign="bottom" align="center">100.02</td>
+<td valign="top" align="center">3756.07</td>
+<td valign="top" align="center">65</td>
+<td valign="top" align="center">1.54</td>
+<td valign="top" align="center">161.45</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">56.77</td>
+<td valign="bottom" align="center">90.53</td>
+<td valign="bottom" align="center">3846.60</td>
+<td valign="bottom" align="center">65</td>
+<td valign="bottom" align="center">1.39</td>
+<td valign="bottom" align="center">162.85</td>
+</tr>
+<tr>
+<td valign="top" align="center">57.80</td>
+<td valign="top" align="center">84.74</td>
+<td valign="top" align="center">3931.34</td>
+<td valign="top" align="center">65</td>
+<td valign="top" align="center">1.30</td>
+<td valign="top" align="center">164.15</td>
+</tr>
+<tr>
+<td valign="top" align="center">58.83</td>
+<td valign="top" align="center">75.61</td>
+<td valign="top" align="center">4006.95</td>
+<td valign="top" align="center">65</td>
+<td valign="bottom" align="center">1.16</td>
+<td valign="top" align="center">165.31</td>
+</tr>
+<tr>
+<td valign="top" align="center">59.83</td>
+<td valign="top" align="center">78.62</td>
+<td valign="top" align="center">4085.56</td>
+<td valign="top" align="center">65</td>
+<td valign="bottom" align="center">1.21</td>
+<td valign="top" align="center">166.52</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">60.87</td>
+<td valign="bottom" align="center">67.42</td>
+<td valign="bottom" align="center">4152.99</td>
+<td valign="bottom" align="center">65</td>
+<td valign="bottom" align="center">1.04</td>
+<td valign="bottom" align="center">167.56</td>
+</tr>
+<tr>
+<td align="center">61.87</td>
+<td align="center">66.00</td>
+<td align="center">4218.99</td>
+<td align="center">65</td>
+<td align="center">1.02</td>
+<td align="center">168.58</td>
+</tr>
+<tr>
+<td valign="top" align="center">62.90</td>
+<td valign="top" align="center">54.61</td>
+<td valign="top" align="center">4273.60</td>
+<td valign="top" align="center">65</td>
+<td valign="top" align="center">0.84</td>
+<td valign="top" align="center">169.42</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">63.93</td>
+<td valign="bottom" align="center">53.70</td>
+<td valign="bottom" align="center">4327.30</td>
+<td valign="bottom" align="center">65</td>
+<td valign="bottom" align="center">0.83</td>
+<td valign="bottom" align="center">170.24</td>
+</tr>
+<tr>
+<td valign="top" align="center">64.90</td>
+<td valign="bottom" align="center">60.16</td>
+<td valign="top" align="center">4387.46</td>
+<td valign="top" align="center">65</td>
+<td valign="top" align="center">0.93</td>
+<td valign="top" align="center">171.17</td>
+</tr>
+<tr>
+<td valign="top" align="center">65.93</td>
+<td valign="top" align="center">50.08</td>
+<td valign="top" align="center">4437.54</td>
+<td valign="top" align="center">65</td>
+<td valign="top" align="center">0.77</td>
+<td valign="top" align="center">171.94</td>
+</tr>
+<tr>
+<td valign="top" align="center">66.93</td>
+<td valign="top" align="center">51.44</td>
+<td valign="top" align="center">4488.98</td>
+<td valign="top" align="center">65</td>
+<td valign="top" align="center">0.79</td>
+<td valign="top" align="center">172.73</td>
+</tr>
+<tr>
+<td valign="top" align="center">67.97</td>
+<td valign="top" align="center">50.25</td>
+<td valign="top" align="center">4539.23</td>
+<td valign="top" align="center">65</td>
+<td valign="top" align="center">0.77</td>
+<td valign="top" align="center">173.50</td>
+</tr>
+<tr>
+<td valign="top" align="center">68.97</td>
+<td valign="top" align="center">49.67</td>
+<td valign="top" align="center">4588.91</td>
+<td valign="top" align="center">65</td>
+<td valign="top" align="center">0.76</td>
+<td valign="top" align="center">174.27</td>
+</tr>
+<tr>
+<td valign="top" align="center">70.00</td>
+<td valign="top" align="center">46.50</td>
+<td valign="top" align="center">4635.40</td>
+<td valign="top" align="center">65</td>
+<td valign="top" align="center">0.72</td>
+<td valign="top" align="center">174.98</td>
+</tr>
+<tr>
+<td valign="top" align="center">71.03</td>
+<td valign="top" align="center">43.21</td>
+<td valign="top" align="center">4678.61</td>
+<td valign="top" align="center">65</td>
+<td valign="bottom" align="center">0.66</td>
+<td valign="top" align="center">175.65</td>
+</tr>
+<tr>
+<td valign="top" align="center">72.03</td>
+<td valign="top" align="center">45.35</td>
+<td valign="top" align="center">4723.96</td>
+<td valign="top" align="center">65</td>
+<td valign="top" align="center">0.70</td>
+<td valign="top" align="center">176.35</td>
+</tr>
+<tr>
+<td valign="top" align="center">73.07</td>
+<td valign="top" align="center">40.60</td>
+<td valign="top" align="center">4764.56</td>
+<td valign="top" align="center">65</td>
+<td align="center">0.62</td>
+<td valign="top" align="center">176.97</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

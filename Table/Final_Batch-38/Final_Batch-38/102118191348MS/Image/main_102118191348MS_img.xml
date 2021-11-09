@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191348MS.txt" extractionDate="2021-03-29T16:56:09Z">
+<doi>10.2118/191348-MS</doi>
+<pii>10.2118/191348-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">Åsgard unit is located 250 kilometers North-West of Trondheim in the Haltenbanken of the Norwegian Sea and currently consists of three producing fields; Smørbukk, Smørbukk Sør and Midgard. Figure 1 shows an overview of the Åsgard area. The fields were developed with two production units: Åsgard A as floating production, storage and off-loading (FPSO) unit and Åsgard B as a semi-submersible platform.</anchoringText>
+<image-wrap id="102118191348MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118191348MS_i_1.tif" id="ImgLink-1" />
+<caption>Overview of the Åsgard area in the Haltenbanken of the Norwegian Sea</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Overview of the Åsgard area in the Haltenbanken of the Norwegian Sea</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">Gas is transferred from Åsgard A to Åsgard B, depending on Åsgard A compressor capacities. The transferred gas together with produced gas from Åsgard B is exported to Gassco processing plant in Karst0. The remained gas from Åsgard A is reinjected into Smørbukk and Smørbukk Sør fields. Åsgard A FPSO is used for storing produced hydrocarbon and offloading. Åsgard produced crude oil and condensate are mixed to form a light oil called Åsgard blend. In this paper, Åsgard blend oil is called ‘oil’, for simplicity. Figure 2 shows schematic of Asagrd A and Asagrd B production units with possibility of gas injection from Åsgard A into Smørbukk and Smørbukk Sør fields.</anchoringText>
+<image-wrap id="102118191348MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118191348MS_i_2.tif" id="ImgLink-2" />
+<caption>Schematic of Asagrd A and Asagrd B production units with possibility of gas injection from Åsgard A into Smørbukk and Smørbukk Sør fields. The Åsgard sales gas is transported from Åsgard B.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Schematic of Asagrd A and Asagrd B production units with possibility of gas injection from Åsgard A into Smørbukk and Smørbukk Sør fields. The Åsgard sales gas is transported from Åsgard B.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Combination of Eclipse E100 standalone black oil and Eclipse E300 compositional reservoir models, Eclipse reservoir coupled (RC) model, tracer results and production data are used to establish optimum drainage strategy. Figure 3 shows the used workflow for drainage strategy study. First, at the lower level, internal gas disposition is assessed using black oil standalone models for each injector in Smørbukk Sør (SMS) and Smørbukk (SMB) fields individually.</anchoringText>
+<image-wrap id="102118191348MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118191348MS_i_3.tif" id="ImgLink-3" />
+<caption>Workflow of drainage strategy study</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Workflow of drainage strategy study</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">As discussed before, internal gas disposition is studied for Smørbukk (SMB) and Smørbukk Sør (SMS) fields, utilizing black oil standalone simulation models to estimate gas injection efficiency (GIF) for each injector. Figure 4 shows the cross plot of delta cumulative produced oil versus cumulative injected gas at different injection rates for Smørbukk field injectors as an example. The figure shows that the average injection efficiencies of SMB Inj. Well # 1 and SMB Inj. Well # 2 are approximately double of SMB Inj. Well # 3; hereby SMB Inj. Well # 1 and SMB Inj. Well # 2 have higher priority for injection compare to SMB Inj. Well # 3.</anchoringText>
+<image-wrap id="102118191348MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118191348MS_i_4.tif" id="ImgLink-4" />
+<caption>Internal gas disposition study for Smørbukk field injectors</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Internal gas disposition study for Smørbukk field injectors</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">The gas injection efficiency of injectors also examined over time. Figure 5 illustrates the gas injection efficiency development of Smørbukk Sør injectors over time from 2014 to 2017. The main recovery mechanism of gas injection in Smørbukk Sør field is condensate vaporization. The gas injection also mitigates water coning from aquifer since the production wells are horizontal or highly deviated and placed near water oil contact. Predicting accurate water development over time (which strongly affects the lifetime of Smørbukk Sør producers) is the main challenge by reservoir simulations model.</anchoringText>
+<image-wrap id="102118191348MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118191348MS_i_5.tif" id="ImgLink-5" />
+<caption>Gas injection efficiency development of Snwbukk Sør field injectors overtime</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Gas injection efficiency development of Snwbukk Sør field injectors overtime</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">Communication between injector and producer is investigated by production trend analysis and tracer results. Figure 6 shows the communication of SMB Prod. Well # 1, SMB Inj. Well # 2 and SMB Inj. Well # 3, as an example. There is clear communication between SMB Prod. Well # 1 and these two injectors, since the decline trend of gas production for SMB Prod. Well # 1 is changed after the resumption of injection in SMB Inj. Well # 3. Even though the production from SMB Prod.</anchoringText>
+<image-wrap id="102118191348MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118191348MS_i_6.tif" id="ImgLink-6" />
+<caption>Production trend analysis between SMB Prod. Well #1, SMB Inj. Well #3 and SMB Inj. Well #2</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Production trend analysis between SMB Prod. Well #1, SMB Inj. Well #3 and SMB Inj. Well #2</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">Another approach for understanding if the production wells are affected by reducing or increasing gas injection, is the analysis of the cross plot of well gas production rate versus well cumulative gas production. This is shown for SMB Prod. Well #2 and SMS Prod. Well #2, as an example, in Figure 7. The production from SMB Prod. Well #2 is enhanced due to pressure support and vaporization after resumption of the gas injection in Smørbukk field and production from SMS Prod. Well #2 is decreased more severely due to reduced gas injection in the Garn Formation of Smørbukk Sør field.</anchoringText>
+<image-wrap id="102118191348MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118191348MS_i_7.tif" id="ImgLink-7" />
+<caption>Decline curve analysis of SMB Prod. Well # 2 and SMS Prod. Well # 2. Blue curve shows the production when gas is only injected from Åsgard A into Smørbukk Sør field and the red curves when Åsgard A gas injection is split both in Smørbukk and Smørbukk Sør fields a) SMB Prod. Well#2 b) SMS Prod. Well#2</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Decline curve analysis of SMB Prod. Well # 2 and SMS Prod. Well # 2. Blue curve shows the production when gas is only injected from Åsgard A into Smørbukk Sør field and the red curves when Åsgard A gas injection is split both in Smørbukk and Smørbukk Sør fields a) SMB Prod. Well#2 b) SMS Prod. Well#2</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191348MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118191348MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>SMB Prod. Well#2</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191348MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118191348MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>SMS Prod. Well#2</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">The tracer analysis provides an understanding of communication between injectors and producers and is a good tool to estimate how long does the tracer (and injected gas) needs for the breakthrough; however tracer analysis in Åsgard is quite challenging since the produced gas containing all types of tracers is reinjected again. For example the used tracer for a specific formation and a well in Smørbukk field will be observed in some wells in Smørbukk Sør field or the used tracer for Ile and Tilje injector will be detected in Garn producers. Through interpretation and filtering of recycled tracers based on tracer concentration are necessary prior to establishing the injector and producer communication maps as it is shown in Figure 8.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-8">
+<label>Figure 8</label>
+<imageLink type="mediaResource" href="102118191348MS_i_8.tif" id="ImgLink-8" />
+<caption>Tracer communications for Smørbukk Sør and Smørbukk fields a) Tracer communications for the Garn Formation in Smørbukk Sør field b) Tracer communications in Smørbukk field (left for the southern area and right for the main field)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Tracer communications for Smørbukk Sør and Smørbukk fields a) Tracer communications for the Garn Formation in Smørbukk Sør field b) Tracer communications in Smørbukk field (left for the southern area and right for the main field)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191348MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118191348MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Tracer communications for the Garn Formation in Smørbukk Sør field</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191348MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118191348MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Tracer communications in Smørbukk field (left for the southern area and right for the main field)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">Eclipse E100 Reservoir coupled (RC) model is used to investigate the effect of reduced gas transfer from Åsgard A to Åsgard B, for injection into Smørbukk field or when gas injection into Smørbukk Sør field is reduced and the gas instead is injected into Smørbukk field. Figure 9 shows the simulated results for delta cumulative Åsgard sales gas and delta cumulative Åsgard produced oil, where 1 M Sm3/day gas from gas transfer from Åsgard A to Åsgard B is reduced and instead is injected into Smørbukk field. Figure 10 shows the simulated results for delta cumulative Åsgard sales gas and Åsgard produced oil, where 6 M Sm3/day from Smørbukk Sør gas injection is reduced and instead is injected into Smørbukk field.</anchoringText>
+<image-wrap id="102118191348MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118191348MS_i_9.tif" id="ImgLink-9" />
+<caption>Simulated results for Åsgard delta cumulative sales gas and delta cumulative produced oil, when 1 M Sm3/day gas from gas transfer from Åsgard A to Åsgard B is reduced and instead is injected into Smørbukk field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Simulated results for Åsgard delta cumulative sales gas and delta cumulative produced oil, when 1 M Sm3/day gas from gas transfer from Åsgard A to Åsgard B is reduced and instead is injected into Smørbukk field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">Eclipse E100 Reservoir coupled (RC) model is used to investigate the effect of reduced gas transfer from Åsgard A to Åsgard B, for injection into Smørbukk field or when gas injection into Smørbukk Sør field is reduced and the gas instead is injected into Smørbukk field. Figure 9 shows the simulated results for delta cumulative Åsgard sales gas and delta cumulative Åsgard produced oil, where 1 M Sm3/day gas from gas transfer from Åsgard A to Åsgard B is reduced and instead is injected into Smørbukk field. Figure 10 shows the simulated results for delta cumulative Åsgard sales gas and Åsgard produced oil, where 6 M Sm3/day from Smørbukk Sør gas injection is reduced and instead is injected into Smørbukk field.</anchoringText>
+<image-wrap id="102118191348MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118191348MS_i_10.tif" id="ImgLink-10" />
+<caption>Simulated results for Åsgard delta cumulative sales gas and delta cumulative produced oil, when 6 M Sm3/day gas from gas injection into Smørbukk Sør field is reduced and instead is injected into Smørbukk field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Simulated results for Åsgard delta cumulative sales gas and delta cumulative produced oil, when 6 M Sm3/day gas from gas injection into Smørbukk Sør field is reduced and instead is injected into Smørbukk field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="14" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">In order to estimate the gas injection efficiency of Smørbukk field over Smørbukk Sør field and to find optimum injection rate, delta cumulative produced oil due to increased gas injection into Smørbukk field and reduced gas injection into Smørbukk Sør field at different injection rates is simulated using Eclipse E100 reservoir coupled model in Figure 11a and compared with Eclipse E300 composition model for verification in Figure 11b. E100 black oil reservoir model contains two hydrocarbon phases at separator and reservoir conditions: oil and gas; hence it is a simplified model with lower computational time and less complexity compared to E300 compositional reservoir which contains hydrocarbon components.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-11">
+<label>Figure 11</label>
+<imageLink type="mediaResource" href="102118191348MS_i_11.tif" id="ImgLink-11" />
+<caption>a) Gas injection efficiency for Smørbukk and Smørbukk Sør fields and b) comparison of estimated gas injection efficiency for Smørbukk and Smørbukk Sør fields with black and compositional reservoir simulation models</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>a) Gas injection efficiency for Smørbukk and Smørbukk Sør fields and b) comparison of estimated gas injection efficiency for Smørbukk and Smørbukk Sør fields with black and compositional reservoir simulation models</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191348MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118191348MS_i_11a.tif" id="ImgLink-11a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Gas injection efficiency for Smørbukk and Smørbukk Sør fields and</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191348MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118191348MS_i_11b.tif" id="ImgLink-11b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>comparison of estimated gas injection efficiency for Smørbukk and Smørbukk Sør fields with black and compositional reservoir simulation models</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">Thermodynamic phase behavior analysis of reservoir fluid and injected gas applying ternary diagram is another useful approach to understand gas injection mechanism and optimize drainage strategy during gas injection based EOR processes. Figure 12 shows the ternary diagrams plotted by PVTi module of Eclipse for Garn reservoir oil and Åsgard A injection gas at different reservoir pressures and reservoir temperature (141 °C).</anchoringText>
+<image-wrap id="102118191348MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118191348MS_i_12.tif" id="ImgLink-12" />
+<caption>Ternary phase behavior diagrams for Åsgard A injected gas and the Garn reservoir fluid at isothermal condition (reservoir temperature= 141 °C) and different reservoir pressures at 300, 220 and 200 bar</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Ternary phase behavior diagrams for Åsgard A injected gas and the Garn reservoir fluid at isothermal condition (reservoir temperature= 141 °C) and different reservoir pressures at 300, 220 and 200 bar</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">Figure 13 shows the predicted reservoir pressure development of different regions of Garn Formation in Smørbukk Sør field over time for one of the simulation sensitivities compared to horizontal minimum miscibility threshold (P= 220 bar shown by solid red line). The average Garn reservoir pressure (shown by dashed red line) is predicted to be lower than 220 bar at late 2019, for this sensitivity; hence the gas injection will be immiscible beyond that time, considering phase behavior of injection gas and the reservoir oil shown by Figure 12.</anchoringText>
+<image-wrap id="102118191348MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118191348MS_i_13.tif" id="ImgLink-13" />
+<caption>Predicted reservoir pressure development for different regions of the Garn Formation in Smørbukk Sør field for one of the simulation sensitivities over time compared to horizontal minimum miscibility threshold (P= 220 bar, shown by solid red line).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Predicted reservoir pressure development for different regions of the Garn Formation in Smørbukk Sør field for one of the simulation sensitivities over time compared to horizontal minimum miscibility threshold (P= 220 bar, shown by solid red line).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

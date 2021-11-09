@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191651MS.txt" extractionDate="2021-03-30T10:56:56Z">
+<doi>10.2118/191651-MS</doi>
+<pii>10.2118/191651-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="13" table-order="1" data-type-order="9">
+<table-wrap id="102118191651MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The simulations were conducted assuming different operational scenarios with varying injection rates and solid concentrations. Table 1 shows the different simuation scenarios for Frio formation and Vicksburg formation. The input combination for all the injection interval among Frio formation were similar. The injection flowrate was calculated using the Darcy's equation as shown in equation 9 to break the formation (Bass Jr. and Daniel, 1987). The formation breakdown pressure was calculated using equation 10 (Perkins and Gonzales, 1985).</anchoringText>
+<label>Table 1</label>
+<caption>Fracture Simulation Input for Frio and Vicksburg formations</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Fracture Simulation Input for Frio and Vicksburg formations</caption-text>
+</formatted-caption>
+<table id="102118191651MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Case</th>
+<th valign="top" align="center">Treatment</th>
+<th valign="top" align="center">Injection Time</th>
+<th valign="top" align="center">Flowrate (bPm)</th>
+<th valign="top" align="center">Volumetric Solid Concentration (%)</th>
+<th valign="top" align="center">Formation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3" valign="top" align="center">1</td>
+<td valign="top" align="center">Pre-Flush</td>
+<td valign="top" align="center">15</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">10</td>
+<td rowspan="9" valign="top" align="center">Frio (Sand D)</td>
+</tr>
+<tr>
+<td valign="top" align="center">Slurry</td>
+<td valign="top" align="center">1440</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">10</td>
+</tr>
+<tr>
+<td valign="top" align="center">Post-Flush</td>
+<td valign="top" align="center">15</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">10</td>
+</tr>
+<tr>
+<td rowspan="3" valign="top" align="center">2</td>
+<td valign="top" align="center">Pre-Flush</td>
+<td valign="top" align="center">15</td>
+<td valign="top" align="center">12</td>
+<td valign="top" align="center">10</td>
+</tr>
+<tr>
+<td valign="top" align="center">Slurry</td>
+<td valign="top" align="center">1440</td>
+<td valign="top" align="center">12</td>
+<td valign="top" align="center">10</td>
+</tr>
+<tr>
+<td valign="top" align="center">Post-Flush</td>
+<td valign="top" align="center">15</td>
+<td valign="top" align="center">12</td>
+<td valign="top" align="center">10</td>
+</tr>
+<tr>
+<td rowspan="3" valign="top" align="center">3</td>
+<td valign="top" align="center">Pre-Flush</td>
+<td valign="top" align="center">15</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">05</td>
+</tr>
+<tr>
+<td valign="top" align="center">Slurry</td>
+<td valign="top" align="center">1440</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">05</td>
+</tr>
+<tr>
+<td valign="top" align="center">Post-Flush</td>
+<td valign="top" align="center">15</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">05</td>
+</tr>
+<tr>
+<td rowspan="3" valign="top" align="center">4</td>
+<td valign="top" align="center">Pre-Flush</td>
+<td valign="top" align="center">15</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">10</td>
+<td rowspan="9" valign="top" align="center">Vicksburg</td>
+</tr>
+<tr>
+<td valign="top" align="center">Slurry</td>
+<td valign="top" align="center">1440</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">10</td>
+</tr>
+<tr>
+<td valign="top" align="center">Post-Flush</td>
+<td valign="top" align="center">15</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">10</td>
+</tr>
+<tr>
+<td rowspan="3" valign="top" align="center">5</td>
+<td valign="top" align="center">Pre-Flush</td>
+<td valign="top" align="center">15</td>
+<td valign="top" align="center">12</td>
+<td valign="top" align="center">10</td>
+</tr>
+<tr>
+<td valign="top" align="center">Slurry</td>
+<td valign="top" align="center">1440</td>
+<td valign="top" align="center">12</td>
+<td valign="top" align="center">10</td>
+</tr>
+<tr>
+<td valign="top" align="center">Post-Flush</td>
+<td valign="top" align="center">15</td>
+<td valign="top" align="center">12</td>
+<td valign="top" align="center">10</td>
+</tr>
+<tr>
+<td rowspan="3" valign="top" align="center">6</td>
+<td valign="top" align="center">Pre-Flush</td>
+<td valign="top" align="center">15</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">05</td>
+</tr>
+<tr>
+<td valign="top" align="center">Slurry</td>
+<td valign="top" align="center">1440</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">05</td>
+</tr>
+<tr>
+<td valign="top" align="center">Post-Flush</td>
+<td valign="top" align="center">15</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">05</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

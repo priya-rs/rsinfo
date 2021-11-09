@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185526MS.txt" extractionDate="2021-03-23T18:01:53Z">
+<doi>10.2118/185526-MS</doi>
+<pii>10.2118/185526-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="13" table-order="1" data-type-order="12">
+<table-wrap id="102118185526MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1"> </anchoringText>
+<label>Table 1</label>
+<caption>Variables to measure in the polymer pilot</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Variables to measure in the polymer pilot</caption-text>
+</formatted-caption>
+<table id="102118185526MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Category</th>
+<th valign="top" align="center">Measurement</th>
+<th valign="top" align="center">Frequency</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3" valign="top" align="center">Polymer solution quality</td>
+<td valign="top" align="center">Viscosity of injection wellhead sample</td>
+<td valign="top" align="center">Every 6 hours</td>
+</tr>
+<tr>
+<td valign="top" align="center">Polymer concentration in injection wellhead sample</td>
+<td valign="top" align="center">When wellhead viscosity has significant deviation from target and for new polymer lot</td>
+</tr>
+<tr>
+<td valign="top" align="center">Polymer filtration factor of injection wellhead sample</td>
+<td valign="top" align="center">When wellhead viscosity has significant deviation from target and for new polymer lot</td>
+</tr>
+<tr>
+<td rowspan="6" valign="top" align="center">Injection and production performance</td>
+<td valign="top" align="center">Wellhead injection rate and pressure</td>
+<td valign="top" align="center">In real time</td>
+</tr>
+<tr>
+<td valign="top" align="center">Injection flow profile</td>
+<td valign="top" align="center">Monthly, each injection well</td>
+</tr>
+<tr>
+<td valign="top" align="center">Production test</td>
+<td valign="top" align="center">Weekly, each central producing well</td>
+</tr>
+<tr>
+<td valign="top" align="center">BHP (fluid level)</td>
+<td valign="top" align="center">Weekly, each central producing well</td>
+</tr>
+<tr>
+<td valign="top" align="center">Presence of polymer in produced fluid (kaolinite method)</td>
+<td valign="top" align="center">Weekly, each central producing well</td>
+</tr>
+<tr>
+<td valign="top" align="center">Geochemical analysis of commingled oil samples (2nd line producers)</td>
+<td valign="top" align="center">Monthly, each second-line producer</td>
+</tr>
+<tr>
+<td rowspan="3" valign="top" align="center">Reservoir surveillance</td>
+<td valign="top" align="center">Water tracers in production fluid</td>
+<td valign="top" align="center">Variable</td>
+</tr>
+<tr>
+<td valign="top" align="center">Polymer tracers in production fluid</td>
+<td valign="top" align="center">Variable</td>
+</tr>
+<tr>
+<td valign="top" align="center">Pressure fall-off tests</td>
+<td valign="top" align="center">Every 4 months</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118186065MS.txt" extractionDate="2021-03-27T11:20:08Z">
+<doi>10.2118/186065-MS</doi>
+<pii>10.2118/186065-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="15" table-order="1" data-type-order="15">
+<table-wrap id="102118186065MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">During the calibration process, the match between model outputs and the individual well observations was regularly assessed and Table 1 shows such assessment for the calibrated model in percentages of the total number of wells. On the other hand, it is also useful to view the quality of the overall match by region. Figure 14 shows the calibrated model match quality with the size of each sector according to the oil in place value of the corresponding region.</anchoringText>
+<label>Table 1</label>
+<caption>Individual well match assessment</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Individual well match assessment</caption-text>
+</formatted-caption>
+<table id="102118186065MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Guide</th>
+<th valign="top" align="center">% Count</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Not meeting liquid rate</td>
+<td valign="top" align="center">2.90%</td>
+</tr>
+<tr>
+<td valign="top" align="left">End of history oil rate</td>
+<td valign="top" align="center">88.10%</td>
+</tr>
+<tr>
+<td valign="top" align="left">Pressure profile match</td>
+<td valign="top" align="center">97.10%</td>
+</tr>
+<tr>
+<td valign="top" align="left">Water profile match</td>
+<td valign="top" align="center">65.90%</td>
+</tr>
+<tr>
+<td valign="top" align="left">Water breakthrough match</td>
+<td valign="top" align="center">64.70%</td>
+</tr>
+<tr>
+<td valign="top" align="left">Water rate low</td>
+<td valign="top" align="center">16.50%</td>
+</tr>
+<tr>
+<td valign="top" align="left">Water rate high</td>
+<td valign="top" align="center">16.50%</td>
+</tr>
+<tr>
+<td valign="top" align="left">Pressure low</td>
+<td valign="top" align="center">0.00%</td>
+</tr>
+<tr>
+<td valign="top" align="left">Pressure high</td>
+<td valign="top" align="center">2.80%</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Matching wells (Water and Pressure profile)</b>
+</td>
+<td valign="top" align="center">
+<b>64.50%</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

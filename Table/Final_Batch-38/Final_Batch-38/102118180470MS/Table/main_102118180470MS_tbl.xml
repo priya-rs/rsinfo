@@ -1,0 +1,1395 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118180470MS.txt" extractionDate="2021-03-22T19:04:53Z">
+<doi>10.2118/180470-MS</doi>
+<pii>10.2118/180470-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="12" table-order="1" data-type-order="15">
+<table-wrap id="102118180470MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">However, pressures relevant to the model that are measured and captured on a daily basis are those of the gas lift headers located at each wellpad; these average pressures were then pulled out of the field database. With these actual pressures as targets, the gas lift injection side of the model was run repeatedly with varying supply pressures until the offtake point pressures in the model (the locations of W, Z, V, and L pads) matched well to them. This supply pressure was then used in the combined model for a match run. This proved to be an effective solution, and the results are shown in Table B-1.</anchoringText>
+<label>Table B</label>
+<caption>1 </caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>B</caption-order>
+<caption-text>-1</caption-text>
+</formatted-caption>
+<table id="102118180470MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">
+</th>
+<th colspan="9" valign="bottom" align="left">
+<i>84 online wells. U-pad volumes included only because EWE LDF connects to U-pad's LDF via U-pad jumper</i>
+</th>
+</tr>
+<tr>
+<th valign="top" align="left">
+</th>
+<th colspan="3" valign="top" align="left">
+</th>
+<th colspan="3" valign="top" align="left">
+</th>
+<th colspan="3" valign="top" align="left">
+</th>
+</tr>
+<tr>
+<th valign="top" align="left">
+</th>
+<th colspan="3" valign="bottom" align="center">
+<i>Field data</i>
+</th>
+<th colspan="3" valign="bottom" align="center">
+<i>Model</i>
+</th>
+<th colspan="3" valign="bottom" align="center">
+<i>Error</i>
+</th>
+</tr>
+<tr>
+<th valign="top" align="left">
+</th>
+<th valign="bottom" align="left">Oil (STB)</th>
+<th valign="bottom" align="left">Water (STB)</th>
+<th valign="bottom" align="left">Gas (MMscf)</th>
+<th valign="bottom" align="left">Oil (STB)</th>
+<th valign="bottom" align="left">Water (STB)</th>
+<th valign="bottom" align="left">Gas (MMscf)</th>
+<th valign="bottom" align="left">Oil (STB)</th>
+<th valign="bottom" align="left">Water (STB)</th>
+<th valign="bottom" align="left">Gas (MMscf)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center">L</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">7 057</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">15.759</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">32.7</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">7.027</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">15.669</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">33</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">&#x003C;1%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">1%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">&#x003C;1%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">V</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">8,824</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">15.816</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">38.3</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">8,223</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">15,198</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">38</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">7%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">4%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">2%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Z</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">9.058</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">30,678</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">52.2</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">8.457</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">29.745</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">51</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">7%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">3%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">2%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">W</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">11 167</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">21.282</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">71 8</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">12.003</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">21.881</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">70</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">7%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">3%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">3%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">U</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">2,412</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">8,449</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">20.2</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">2,319</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">8.157</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">20</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">4%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">3%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">&#x003C;1%</td>
+</tr>
+<tr>
+<td align="center">TOTAL</td>
+<td align="right">
+<b>38,518</b>
+</td>
+<td align="right">
+<b>91,984</b>
+</td>
+<td align="right">
+<b>215</b>
+</td>
+<td align="right">
+<b>38,029</b>
+</td>
+<td align="right">
+<b>90,649</b>
+</td>
+<td valign="bottom" align="right">
+<b>212</b>
+</td>
+<td align="right">
+<b>1%</b>
+</td>
+<td align="right">
+<b>1%</b>
+</td>
+<td align="right">
+<b>2%</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td colspan="3" valign="top" align="left">
+</td>
+<td colspan="3" valign="top" align="left">
+</td>
+<td colspan="2" valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td colspan="3" valign="bottom" align="center">Production header press (psi)</td>
+<td colspan="3" valign="bottom" align="center">Production header press (psi)</td>
+<td colspan="2" valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">L</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">307</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">301</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">2%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">V</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">298</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">296</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">1%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Z</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">252</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">252</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">&#x003C;1%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">W</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">250</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">250</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">&#x003C;1%</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td colspan="3" valign="bottom" align="center">Gas-lift header press (psi)</td>
+<td colspan="3" valign="bottom" align="center">Gas-lift header press (psi)</td>
+<td colspan="3" valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">L</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">1,721</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">1,722</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">&#x003C;1%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">V</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">1.724</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">1,726</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">&#x003C;1%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Z</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">1,760</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">1.758</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">&#x003C;1%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">w</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">?</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">1.829</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">N/A</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td colspan="3" valign="bottom" align="center">EWE LDF 24" velocity (ft/sec)</td>
+<td colspan="3" valign="bottom" align="center">EWE LDF 24" velocity (ft/sec)</td>
+<td colspan="3" valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">65,6</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">66.7</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">2%</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td colspan="3" valign="bottom" align="center">K3200, Big Al pressure (psi)</td>
+<td colspan="3" valign="bottom" align="center">Model gas-lift supply pressure</td>
+<td colspan="3" valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">1990, 2015</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">1916</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">N/A</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="13" table-order="2" data-type-order="16">
+<table-wrap id="102118180470MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">To ensure the first match was not simply an aberration, another day was chosen about a week later, when the compressors’ output pressure was ~50 psi lower, at 1,954 psi. This time the supply pressure in the gas injection side of the model was adjusted down to 1,870 psi, also approximately 50 psi less than in the first run, and the model matched oil and water production to within 4% and 2%, respectively, and gas production to within 1%. The mixture velocity in the 24” section of the EWE line was also again closely matched, to within 3% (see Table B-2).</anchoringText>
+<label>Table B</label>
+<caption>2</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>B</caption-order>
+<caption-text>-2</caption-text>
+</formatted-caption>
+<table id="102118180470MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">
+</th>
+<th colspan="9" valign="bottom" align="left">
+<i>88 online wells. U-pad volumes included only because EWE LDF connects to U-pad's LDF via U-pad jumper</i>
+</th>
+</tr>
+<tr>
+<th valign="top" align="left">
+</th>
+<th colspan="3" valign="top" align="left">
+</th>
+<th colspan="3" valign="top" align="left">
+</th>
+<th colspan="3" valign="top" align="left">
+</th>
+</tr>
+<tr>
+<th valign="top" align="left">
+</th>
+<th colspan="3" valign="bottom" align="center">
+<i>Field data</i>
+</th>
+<th colspan="3" valign="bottom" align="center">
+<i>Model</i>
+</th>
+<th colspan="3" valign="bottom" align="center">
+<i>Error</i>
+</th>
+</tr>
+<tr>
+<th valign="top" align="left">
+</th>
+<th valign="bottom" align="left">Oil (STB)</th>
+<th valign="bottom" align="left">Water (STB)</th>
+<th valign="bottom" align="left">Gas (MMscf)</th>
+<th valign="bottom" align="left">Oil (STB)</th>
+<th valign="bottom" align="left">Water (STB)</th>
+<th valign="bottom" align="left">Gas (MMscf)</th>
+<th valign="bottom" align="left">Oil (STB)</th>
+<th valign="bottom" align="left">Water (STB)</th>
+<th valign="bottom" align="left">Gas (MMscf)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center">L</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">7,219</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">16.579</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">353</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">7.290</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">16.279</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">352</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">1%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">2%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">&#x003C;1%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">V</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">9,370</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">15.491</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">383</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">8.765</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">14.779</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">374</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">6%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">5%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">2%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Z</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">8,573</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">29.562</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">51.9</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">8.046</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">28.989</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">504</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">6%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">2%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">3%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">W</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">13,640</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">24.989</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">79 9</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">13,079</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">23,795</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">79 7</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">4%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">5%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">&#x003C;1%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">U</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">2,315</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">7,129</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">19.1</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">2.291</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">8.044</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">192</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">1%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">13%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">1%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">TOTAL</td>
+<td valign="bottom" align="right">
+<b>41,117</b>
+</td>
+<td valign="bottom" align="right">
+<b>93,750</b>
+</td>
+<td valign="bottom" align="right">
+<b>225</b>
+</td>
+<td valign="bottom" align="right">
+<b>39,472</b>
+</td>
+<td valign="bottom" align="right">
+<b>91,885</b>
+</td>
+<td valign="bottom" align="right">
+<b>222</b>
+</td>
+<td valign="bottom" align="right">
+<b>4%</b>
+</td>
+<td valign="bottom" align="right">
+<b>2%</b>
+</td>
+<td valign="bottom" align="right">
+<b>1%</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td colspan="3" valign="top" align="left">
+</td>
+<td colspan="3" valign="top" align="left">
+</td>
+<td colspan="2" valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td colspan="3" valign="bottom" align="center">Production header press (psi)</td>
+<td colspan="3" valign="bottom" align="center">Production header press (psi)</td>
+<td colspan="2" valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">L</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">314</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">312</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">1%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">V</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">308</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">306</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">1%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Z</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">253</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">259</td>
+<td colspan="3" valign="bottom" align="center"  bgcolor="#F2DBDB">2%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">W</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">252</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">257</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">2%</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td colspan="3" valign="bottom" align="center">Gas-lift header press (psi)</td>
+<td colspan="3" valign="bottom" align="center">Gas-lift header press (psi)</td>
+<td colspan="3" valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">L</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">1,677</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">1,675</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">&#x003C;1%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">V</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">1,680</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">1,679</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">&#x003C;1%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Z</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">1,715</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">1.712</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">&#x003C;1%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">W</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">?</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">1,786</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">N/A</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td colspan="3" valign="bottom" align="center">EWE LDF 24" velocity (ft/sec)</td>
+<td colspan="3" valign="bottom" align="center">EWE LDF 24" velocity (ft/sec)</td>
+<td colspan="3" valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">68.7</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">70.5</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">3%</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td colspan="3" valign="bottom" align="center">K3200, Big Al pressure (psi)</td>
+<td colspan="3" valign="bottom" align="center">Model gas-lift supply pressure</td>
+<td colspan="3" valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">1954,1954</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">1870</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">N/A</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="14" table-order="3" data-type-order="17">
+<table-wrap id="102118180470MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">With the gas lift supply pressure in the gas injection model reduced to 1,790 psi, the model was run (see Table B-3), matching oil and water rates to within 3% and 2%, respectively, and gas production to within &#x003C;1%. Mixture velocity in the EWE 24-in LDF was not so well matched, but close scrutiny revealed this to be simply a data pull issue of the sonar meter values from that day. This excellent match proved the combined model was doing what the standalone model could not: matching production accurately despite fluctuating gas lift supply pressures.</anchoringText>
+<label>Table B</label>
+<caption>3</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>B</caption-order>
+<caption-text>-3</caption-text>
+</formatted-caption>
+<table id="102118180470MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">
+</th>
+<th colspan="9" valign="bottom" align="left">89 <i>online wells. U-pad volumes included only because EWE LDF connects to U-pad's LDF via U-pad jumper</i>
+</th>
+</tr>
+<tr>
+<th valign="top" align="left">
+</th>
+<th colspan="3" valign="top" align="left">
+</th>
+<th colspan="6" valign="top" align="left">
+</th>
+</tr>
+<tr>
+<th rowspan="2" valign="top" align="left">
+</th>
+<th colspan="3" valign="bottom" align="center">
+<i>Field data</i>
+</th>
+<th colspan="3" valign="bottom" align="center">
+<i>Model</i>
+</th>
+<th colspan="3" valign="bottom" align="center">
+<i>Error</i>
+</th>
+</tr>
+<tr>
+<th valign="bottom" align="left">Oil (STB)</th>
+<th valign="bottom" align="left">Water (STB)</th>
+<th valign="bottom" align="left">Gas (MMscf)</th>
+<th valign="bottom" align="left">Oil (STB)</th>
+<th valign="bottom" align="left">Water (STB)</th>
+<th valign="bottom" align="left">Gas (MMscf)</th>
+<th valign="bottom" align="left">Oil (STB)</th>
+<th valign="bottom" align="left">Water (STB)</th>
+<th valign="bottom" align="left">Gas (MMscf)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center">L</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">7,153</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">17.454</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">36 9</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">7,125</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">16,735</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">36 4</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">0%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">4%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">1%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">V</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">9.753</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">15.031</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">36 1</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">8.942</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">13.980</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">35.0</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">8%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">7%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">3%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Z</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">8.430</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">26.408</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">45.8</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">7,827</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">25.830</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">45.9</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">7%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">2%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">0%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">W</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">13,040</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">24,526</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">78.9</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">13,141</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">23,866</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">79.6</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">1%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">3%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">1%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">U</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">2.254</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">7.030</td>
+<td valign="bottom" align="right" bgcolor="#FEFF9A">19 8</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">2.228</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">7.894</td>
+<td valign="bottom" align="right" bgcolor="#8CE68C">198</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">1%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">12%</td>
+<td valign="bottom" align="right" bgcolor="#F2DBDB">0%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">TOTAL</td>
+<td valign="bottom" align="right">
+<b>40,630</b>
+</td>
+<td valign="bottom" align="right">
+<b>90,449</b>
+</td>
+<td valign="bottom" align="right">
+<b>218</b>
+</td>
+<td valign="bottom" align="right">
+<b>39,263</b>
+</td>
+<td valign="bottom" align="right">
+<b>88,305</b>
+</td>
+<td valign="bottom" align="right">
+<b>217</b>
+</td>
+<td valign="bottom" align="right">
+<b>3%</b>
+</td>
+<td valign="bottom" align="right">
+<b>2%</b>
+</td>
+<td valign="bottom" align="right">
+<b>&#x003C;1%</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td colspan="3" valign="top" align="center">
+</td>
+<td colspan="3" valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td colspan="3" valign="bottom" align="center">Production header press (psi)</td>
+<td colspan="3" valign="bottom" align="center">Production header press (psi)</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">L</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">300</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">306</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">2%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">V</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">294</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">299</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">2%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Z</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">245</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">254</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">4%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">W</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">243</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">252</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">4%</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td colspan="3" valign="bottom" align="center">Gas-lift header press (psi)</td>
+<td colspan="3" valign="bottom" align="center">Gas-lift header press (psi)</td>
+<td colspan="3" valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">L</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">1,641</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">1,641</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">0%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">V</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">1,642</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">1,643</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">&#x003C;1%</td>
+</tr>
+<tr>
+<td align="center">Z</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">1.668</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">1.666</td>
+<td colspan="3" align="center" bgcolor="#F2DBDB">&#x003C;1%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">W</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">?</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">1.720</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">N/A</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td colspan="3" valign="bottom" align="center">EWE LDF 24" velocity (ft/sec)</td>
+<td colspan="3" valign="bottom" align="center">EWE LDF 24" velocity (ft/sec)</td>
+<td colspan="3" valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">61.9</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">68.7</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">11%</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td colspan="3" valign="bottom" align="center">K3200, Big Al pressure (psi)</td>
+<td colspan="3" valign="bottom" align="center">Model gas-lift supply pressure</td>
+<td colspan="3" valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#FEFF9A">1863,1880</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#8CE68C">1790</td>
+<td colspan="3" valign="bottom" align="center" bgcolor="#F2DBDB">N/A</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="15" table-order="4" data-type-order="18">
+<table-wrap id="102118180470MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">It would nearly always converge on a solution where more oil and less water and gas were produced as compared to a base, or matched case (see Table B-4 for run results of subsequent weeks). Even with the occasional solution where less oil was produced, the program was still deemed to have performed well, for significantly less water and gas were produced in these runs - non-pay fluids which would have to be processed at GC2. As 80-90 gas lift flow rate changes were found during each run (one each for every online well), only the top few most beneficial changes were passed to operations each week.</anchoringText>
+<label>Table B</label>
+<caption>4</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>B</caption-order>
+<caption-text>-4</caption-text>
+</formatted-caption>
+<table id="102118180470MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" valign="top" align="left">
+</th>
+<th valign="bottom" align="left">Oil (STB)</th>
+<th valign="bottom" align="left">Water (STB)</th>
+<th valign="bottom" align="left">Gas (MMscf)</th>
+<th colspan="3" valign="bottom" align="left">Delta values between Optimization run and Match run</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Week "A"</td>
+<td valign="bottom" align="left">Field Data</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">39700</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">88422</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">220</td>
+<td valign="top" align="right" bgcolor="#D7E6BC">
+</td>
+<td valign="top" align="right" bgcolor="#DCEEF3">
+</td>
+<td valign="top" align="right" bgcolor="#F2DCD8">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Match run</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">39780</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">90577</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">219</td>
+<td valign="top" align="right" bgcolor="#D7E6BC">
+</td>
+<td valign="top" align="right" bgcolor="#DCEEF3">
+</td>
+<td valign="top" align="right" bgcolor="#F2DCD8">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Optimization run</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">41047</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">90524</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">218</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">1267</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">-53</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">-1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Week"B"</td>
+<td valign="bottom" align="left">Field Data</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">41556</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">101617</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">230</td>
+<td valign="top" align="right" bgcolor="#D7E6BC">
+</td>
+<td valign="top" align="right" bgcolor="#DCEEF3">
+</td>
+<td valign="top" align="right" bgcolor="#F2DCD8">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Match run</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">40031</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">94205</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">227</td>
+<td valign="top" align="right" bgcolor="#D7E6BC">
+</td>
+<td valign="top" align="right" bgcolor="#DCEEF3">
+</td>
+<td valign="top" align="right" bgcolor="#F2DCD8">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Optimization run</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">40897</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">94058</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">213.5</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">866</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">-147</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">-13.5</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Week "C"</td>
+<td valign="bottom" align="left">Field Data</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">41560</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">92956</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">229</td>
+<td valign="top" align="right" bgcolor="#D7E6BC">
+</td>
+<td valign="top" align="right" bgcolor="#DCEEF3">
+</td>
+<td valign="top" align="right" bgcolor="#F2DCD8">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Match run</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">41591</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">92236</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">230</td>
+<td valign="top" align="right" bgcolor="#D7E6BC">
+</td>
+<td valign="top" align="right" bgcolor="#DCEEF3">
+</td>
+<td valign="top" align="right" bgcolor="#F2DCD8">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Optimization run</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">42278</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">88989</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">217</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">687</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">-3247</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">-13</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Week "D"</td>
+<td valign="bottom" align="left">Field Data</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">40433</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">93446</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">227</td>
+<td valign="top" align="right" bgcolor="#D7E6BC">
+</td>
+<td valign="top" align="right" bgcolor="#DCEEF3">
+</td>
+<td valign="top" align="right" bgcolor="#F2DCD8">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Match run</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">41422</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">94812</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">225</td>
+<td valign="top" align="right" bgcolor="#D7E6BC">
+</td>
+<td valign="top" align="right" bgcolor="#DCEEF3">
+</td>
+<td valign="top" align="right" bgcolor="#F2DCD8">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Optimization run</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">41675</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">94524</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">217</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">253</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">-288</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">-8</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Week "E"</td>
+<td valign="bottom" align="left">Field Data</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">38518</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">91984</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">215</td>
+<td valign="top" align="right" bgcolor="#D7E6BC">
+</td>
+<td valign="top" align="right" bgcolor="#DCEEF3">
+</td>
+<td valign="top" align="right" bgcolor="#F2DCD8">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Match run</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">38029</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">90649</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">212</td>
+<td valign="top" align="right" bgcolor="#D7E6BC">
+</td>
+<td valign="top" align="right" bgcolor="#DCEEF3">
+</td>
+<td valign="top" align="right" bgcolor="#F2DCD8">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Optimization run</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">38186</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">90082</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">209</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">157</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">-567</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">-3</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Week "F"</td>
+<td valign="bottom" align="left">Field Data</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">41117</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">93750</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">224</td>
+<td valign="top" align="right" bgcolor="#D7E6BC">
+</td>
+<td valign="top" align="right" bgcolor="#DCEEF3">
+</td>
+<td valign="top" align="right" bgcolor="#F2DCD8">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Match run</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">39472</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">91885</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">222</td>
+<td valign="top" align="right" bgcolor="#D7E6BC">
+</td>
+<td valign="top" align="right" bgcolor="#DCEEF3">
+</td>
+<td valign="top" align="right" bgcolor="#F2DCD8">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Optimization run</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">39722</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">89300</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">215</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">250</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">-2585</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">-7</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Week "G"</td>
+<td valign="bottom" align="left">Field Data</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">40630</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">90449</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">218</td>
+<td valign="top" align="right" bgcolor="#D7E6BC">
+</td>
+<td valign="top" align="right" bgcolor="#DCEEF3">
+</td>
+<td valign="top" align="right" bgcolor="#F2DCD8">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Match run</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">39262</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">88305</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">217</td>
+<td valign="top" align="right" bgcolor="#D7E6BC">
+</td>
+<td valign="top" align="right" bgcolor="#DCEEF3">
+</td>
+<td valign="top" align="right" bgcolor="#F2DCD8">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Optimization run</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">39226</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">84862</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">214</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">-36</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">-3443</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">-3</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Week "H"</td>
+<td valign="bottom" align="left">Field Data</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">42202</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">94720</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">225</td>
+<td valign="top" align="right" bgcolor="#D7E6BC">
+</td>
+<td valign="top" align="right" bgcolor="#DCEEF3">
+</td>
+<td valign="top" align="right" bgcolor="#F2DCD8">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Match run</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">40626</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">92024</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">220</td>
+<td valign="top" align="right" bgcolor="#D7E6BC">
+</td>
+<td valign="top" align="right" bgcolor="#DCEEF3">
+</td>
+<td valign="top" align="right" bgcolor="#F2DCD8">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Optimization run</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">40998</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">90215</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">218</td>
+<td valign="bottom" align="right" bgcolor="#D7E6BC">372</td>
+<td valign="bottom" align="right" bgcolor="#DCEEF3">-1809</td>
+<td valign="bottom" align="right" bgcolor="#F2DCD8">-2</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="16" table-order="5" data-type-order="19">
+<table-wrap id="102118180470MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">However, the gas lift header pressures at L and V pads had dropped much lower than 35 psi, to pressures 64-66 psi lower than where they had been five months previously. Closer analysis of the production data revealed that although nearly an identical number of wells were online (75 versus 73 previously), more wells were operating further “up” the line, at L, V, and Z pads, than had been five months previously (see Table B-5).</anchoringText>
+<label>Table B</label>
+<caption>5</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>B</caption-order>
+<caption-text>-5</caption-text>
+</formatted-caption>
+<table id="102118180470MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">
+</th>
+<th valign="top" align="center" bgcolor="#FEFECE">
+</th>
+<th colspan="3" valign="bottom" align="center" bgcolor="#FEFECE">Gas-lift rates (MMscf)</th>
+<th valign="top" align="center" bgcolor="#FEFECE">
+</th>
+<th colspan="3" valign="bottom" align="center" bgcolor="#FEFECE">Gas-lift Header Pressures(psi)</th>
+<th valign="top" align="center" bgcolor="#FEFECE">
+</th>
+<th colspan="3" valign="bottom" align="center" bgcolor="#FEFECE">Number of wells onine</th>
+<th valign="top" align="center" bgcolor="#FEFECE">
+</th>
+<th colspan="2" valign="bottom" align="center" bgcolor="#FEFECE">Compressor output (psi)</th>
+</tr>
+<tr>
+<th valign="top" align="center">
+</th>
+<th valign="bottom" align="center" bgcolor="#FEFECE">L-pad</th>
+<th valign="bottom" align="center" bgcolor="#FEFECE">V-pad</th>
+<th valign="bottom" align="center" bgcolor="#FEFECE">Z-pad</th>
+<th valign="bottom" align="center" bgcolor="#FEFECE">W-pad</th>
+<th valign="bottom" align="center" bgcolor="#FEFECE">TOTAL</th>
+<th valign="bottom" align="center" bgcolor="#FEFECE">L-pad</th>
+<th valign="bottom" align="center" bgcolor="#FEFECE">v-pad</th>
+<th valign="bottom" align="center" bgcolor="#FEFECE">Z-pad</th>
+<th valign="bottom" align="center" bgcolor="#FEFECE">L-pad</th>
+<th valign="bottom" align="center" bgcolor="#FEFECE">V-pad</th>
+<th valign="bottom" align="center" bgcolor="#FEFECE">Z-pad</th>
+<th valign="bottom" align="center" bgcolor="#FEFECE">W-pad</th>
+<th valign="bottom" align="center" bgcolor="#FEFECE">TOTAL</th>
+<th valign="bottom" align="center" bgcolor="#FEFECE">K3200</th>
+<th valign="bottom" align="center" bgcolor="#FEFECE">Big Al</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" bgcolor="#FCD4B5" align="left">Day 5 mo prev</td>
+<td valign="bottom" align="right" bgcolor="#FCD4B5">17619</td>
+<td valign="bottom" align="right" bgcolor="#FCD4B5">28324</td>
+<td valign="bottom" align="right" bgcolor="#FCD4B5">28097</td>
+<td valign="bottom" align="right" bgcolor="#FCD4B5">45497</td>
+<td valign="bottom" align="right" bgcolor="#FCD4B5">
+<b>119537</b>
+</td>
+<td valign="bottom" align="right" bgcolor="#FCD4B5">1738</td>
+<td valign="bottom" align="right" bgcolor="#FCD4B5">1741</td>
+<td valign="bottom" align="right" bgcolor="#FCD4B5">1781</td>
+<td valign="bottom" align="right" bgcolor="#FCD4B5">16</td>
+<td valign="bottom" align="right" bgcolor="#FCD4B5">17</td>
+<td valign="bottom" align="right" bgcolor="#FCD4B5">16</td>
+<td valign="bottom" align="right" bgcolor="#FCD4B5">24</td>
+<td valign="bottom" align="right" bgcolor="#FCD4B5">
+<b>73</b>
+</td>
+<td valign="bottom" align="right" bgcolor="#FCD4B5">2021</td>
+<td valign="bottom" align="right" bgcolor="#FCD4B5">2039</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#D9E4BE" align="left">Day in question</td>
+<td valign="bottom" align="right" bgcolor="#D9E4BE">20303</td>
+<td valign="bottom" align="right" bgcolor="#D9E4BE">23677</td>
+<td valign="bottom" align="right" bgcolor="#D9E4BE">34930</td>
+<td valign="bottom" align="right" bgcolor="#D9E4BE">41489</td>
+<td valign="bottom" align="right" bgcolor="#D9E4BE">
+<b>120904</b>
+</td>
+<td valign="bottom" align="right" bgcolor="#D9E4BE">1672</td>
+<td valign="bottom" align="right" bgcolor="#D9E4BE">1677</td>
+<td valign="bottom" align="right" bgcolor="#D9E4BE">1720</td>
+<td valign="bottom" align="right" bgcolor="#D9E4BE">18</td>
+<td valign="bottom" align="right" bgcolor="#D9E4BE">18</td>
+<td valign="bottom" align="right" bgcolor="#D9E4BE">19</td>
+<td valign="bottom" align="right" bgcolor="#D9E4BE">20</td>
+<td valign="bottom" align="right" bgcolor="#D9E4BE">
+<b>75</b>
+</td>
+<td valign="bottom" align="right" bgcolor="#D9E4BE">2000</td>
+<td valign="bottom" align="right" bgcolor="#D9E4BE">1991</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="17" table-order="6" data-type-order="20">
+<table-wrap id="102118180470MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6">The gas lift injection side of the model was set up and run to represent the system on an “average” day, using the mean offtake rate of 109 MM scf/d and a normal supply pressure of 1920 psi. Solved-for header pressures were in line with normal field gas lift header pressures. The production data showed that though this 109 MM scf/d was the mean, a relatively high offtake rate of 120 MM scf/d occurred frequently. The additional 11 MM scf/d was then added to each pad’s average offtake in succession so that the effects on gas lift header pressures could be studied (see Table B-6).</anchoringText>
+<label>Table B</label>
+<caption>6</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>B</caption-order>
+<caption-text>-6</caption-text>
+</formatted-caption>
+<table id="102118180470MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="bottom" align="center" bgcolor="#FEFE9B">model supply press (psi)</th>
+<th rowspan="2" valign="bottom" align="center" bgcolor="#FEFE9B">System Offtake (MM sd)</th>
+<th colspan="4" valign="bottom" align="center" bgcolor="#FEFE9B">Pad Gas-Mi Offtake (MM scf)</th>
+<th colspan="4" valign="bottom" align="center" bgcolor="#FEFE9B">Pad Gas lift Header Pressures (psi)</th>
+<th rowspan="2" valign="bottom" align="center" bgcolor="#FEFE9B">Location and Amount of Additional Rale Offtake</th>
+<th rowspan="2" valign="bottom" align="center" bgcolor="#FEFE9B">L-pad dP from avg ditake</th>
+</tr>
+<tr>
+<th valign="bottom" align="center" bgcolor="#FEFE9B">L</th>
+<th valign="bottom" align="center" bgcolor="#FEFE9B">V</th>
+<th valign="bottom" align="center" bgcolor="#FEFE9B">2</th>
+<th valign="bottom" align="center" bgcolor="#FEFE9B">w</th>
+<th valign="bottom" align="center" bgcolor="#FEFE9B">L press</th>
+<th valign="bottom" align="center" bgcolor="#FEFE9B">V press</th>
+<th valign="bottom" align="center" bgcolor="#FEFE9B">Z press</th>
+<th valign="bottom" align="center" bgcolor="#FEFE9B">W press</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">1920</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">109</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">17.4</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">22.9</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">304</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">38.3</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">1744</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">1748</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">1775</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">1844</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">average pad offtake rates</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">0</td>
+</tr>
+<tr>
+<td valign="top" align="center" bgcolor="#DAE5BC">1920</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">120</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">17.4</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">229</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">304</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">493</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">1727</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">1731</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">1759</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">1826</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">11 MM sd/d added to W-pad</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">17</td>
+</tr>
+<tr>
+<td valign="top" align="center" bgcolor="#DAE5BC">1920</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">120</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">17.4</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">229</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">41.4</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">383</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">1702</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">1706</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">1733</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">1828</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">11 MM scf/d added to Z-pad</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">42</td>
+</tr>
+<tr>
+<td valign="top" align="center" bgcolor="#DAE5BC">1920</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">120</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">17.4</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">33.9</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">30.4</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">383</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">1678</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">1688</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">1735</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">1828</td>
+<td valign="top" align="center" bgcolor="#DAE5BC">11 MM sd/d added to V-pad</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">66</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">1920</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">120</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">284</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">229</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">30.4</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">38 3</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">1678</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">1688</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">1735</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">1828</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">11 MM scf/d added to L-pad</td>
+<td valign="bottom" align="center" bgcolor="#DAE5BC">66</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#FDD4B4">1800</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">109</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">174</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">229</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">30.4</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">38.3</td>
+<td valign="bottom" align="center" bgcolor="#FDD4B4">1610</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">1614</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">1644</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">1718</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">average pad offtake rates</td>
+<td valign="bottom" align="center" bgcolor="#FDD4B4">0</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#FDD4B4">1800</td>
+<td valign="bottom" align="center" bgcolor="#FDD4B4">120</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">17.4</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">22.9</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">30.4</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">493</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">1591</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">1595</td>
+<td valign="bottom" align="center" bgcolor="#FDD4B4">1626</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">1699</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">11 MM sd/d added toW-pad</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">19</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#FDD4B4">1800</td>
+<td valign="bottom" align="center" bgcolor="#FDD4B4">120</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">17.4</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">22.9</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">41.4</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">38.3</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">1565</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">1569</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">1599</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">1700</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">11 MM scf/d added to Z-pad</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">45</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#FDD4B4">1800</td>
+<td valign="bottom" align="center" bgcolor="#FDD4B4">120</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">17.4</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">339</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">30.4</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">383</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">1544</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">1549</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">1599</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">1700</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">11 MM sd/d added to V-pad</td>
+<td valign="bottom" align="center" bgcolor="#FDD4B4">66</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#FDD4B4">1800</td>
+<td valign="bottom" align="center" bgcolor="#FDD4B4">120</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">284</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">229</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">30.4</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">38 3</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">1537</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">1549</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">1599</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">1700</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">11 MM scf/d added Io L-pad</td>
+<td valign="top" align="center" bgcolor="#FDD4B4">73</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

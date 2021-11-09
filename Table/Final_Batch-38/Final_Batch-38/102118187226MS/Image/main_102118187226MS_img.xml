@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187226MS.txt" extractionDate="2021-03-25T19:01:50Z">
+<doi>10.2118/187226-MS</doi>
+<pii>10.2118/187226-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="2">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr7">The numbers of active oil and gas wells in the Eagle Ford are summarized in Table 1. Oil production in the Eagle Ford is an important part of shale oil production in the United States that has controlled global oil supply and prices over the last six years, see Fig. 1. Therefore, strategically, it is of utmost importance to have predictive models of shale oil production that go beyond the ad hoc hyperbolic decline curves and statistical studies. Here we attempt to satisfy parts of this strategic requirement.</anchoringText>
+<image-wrap id="102118187226MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118187226MS_i_1.tif" id="ImgLink-1" />
+<caption>Increases of production of crude oil &amp; lease condensate worldwide and in the U.S. relative to Jan 2005. In October 2004, global production stopped growing for six years and then increased exactly as oil production in the U.S. This means that all new petroleum projects in the world cancelled production declines, even with the highest E&amp;P investment ever. Source: U.S. DOE EIA, accessed 01/18/2017.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Increases of production of crude oil &amp; lease condensate worldwide and in the U.S. relative to Jan 2005. In October 2004, global production stopped growing for six years and then increased exactly as oil production in the U.S. This means that all new petroleum projects in the world cancelled production declines, even with the highest E&amp;P investment ever. Source: U.S. DOE EIA, accessed 01/18/2017.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="3" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr8">To fix ideas, let’s consider a typical black oil well in the Eagle Ford play, Texas. The typical horizontal well length is 1500 m (5000 ft), there are 12 stages with 4 clusters each, and we assume for the time being that there is one equivalent hydrofracture per stage with the tip-to-tip length, 2L = 400 m; and height, H, equal to the formation thickness. The hydrofractures are spaced every 2d = 100 m. For a cartoon of an idealized horizontal well, see Fig. 2.</anchoringText>
+<image-wrap id="102118187226MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118187226MS_i_2.tif" id="ImgLink-2" />
+<caption>A horizontal well with 10-20 hydrofracture “stages,” spaced uniformly along its entire length. There is one equivalent hydrofracture per stage. The common hydrofracture height is <i>H </i>and the tip-to-tip length of each fracture is <i>2L</i>. The distance between between the hydrofractures is <i>2d</i>. The exterior hydrofractures at the left- and right-hand end of the well drain the reservoir volume beyond the volume spanned by these hydrofractures and the length of the lateral. The hydrofractures are perpendicular to the wellbore. The flow of oil and gas (red arrows) is horizontal and perpendicular to the fracture planes. Once inside the hydrofracture, the fluids flows more or less radially into the well perforations connected to each hydrofracture. The permeability of a propped hydrofracture is infinite in comparison with the effective permeability of the rock matrix and natural fractures feeding the fluids into this hydrofracture.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>A horizontal well with 10-20 hydrofracture “stages,” spaced uniformly along its entire length. There is one equivalent hydrofracture per stage. The common hydrofracture height is H and the tip-to-tip length of each fracture is 2L. The distance between between the hydrofractures is 2d. The exterior hydrofractures at the left- and right-hand end of the well drain the reservoir volume beyond the volume spanned by these hydrofractures and the length of the lateral. The hydrofractures are perpendicular to the wellbore. The flow of oil and gas (red arrows) is horizontal and perpendicular to the fracture planes. Once inside the hydrofracture, the fluids flows more or less radially into the well perforations connected to each hydrofracture. The permeability of a propped hydrofracture is infinite in comparison with the effective permeability of the rock matrix and natural fractures feeding the fluids into this hydrofracture.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187226MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118187226MS_i_2a.tif" id="ImgLink-2a" />
+</image-wrap>
+<image-wrap id="102118187226MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118187226MS_i_2b.tif" id="ImgLink-2b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr9">The downhole well pressure (fracture pressure) is pf = 10.5 MPa (1500 psi) and the wellhead tubing pressure is Pwh = 2 MPa (300 psi). With the average temperature gradient of 3.6°C/100 m (2°F/100 ft) shown in Fig. 3, the reservoir temperature is T = 110°C (230°F). Average bubble point pressure in a PVT cell is pb ≅ 30 MPa (4300 psi). Average permeability of the calcite-rich matrix is k &amp; 0.1 μdarcy. All qualifying black oil wells identified in the Eagle Ford are shown in Fig. 4. The cumulative GOR at the end of production history of each well is a circle plotted in Fig. 5.</anchoringText>
+<image-wrap id="102118187226MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118187226MS_i_3.tif" id="ImgLink-3" />
+<caption>Rock temperature as a function of depth. Data source: <i>Gong </i>(2013)  .</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Rock temperature as a function of depth. Data source: <link href="BIB1">Gong (2013)</link>  .</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-17" type="bib">
+<bib id="BIB1">
+<label>Gong (2013)</label>
+<author><last-name>Gong</last-name>.<last-name>X.</last-name></author>, <article-title>Assessment of eagle ford shale oil and gas resources, Ph.d. thesis, Texas A&amp;M, College Station</article-title>, <pubDate>2013</pubDate>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr10">The downhole well pressure (fracture pressure) is pf = 10.5 MPa (1500 psi) and the wellhead tubing pressure is Pwh = 2 MPa (300 psi). With the average temperature gradient of 3.6°C/100 m (2°F/100 ft) shown in Fig. 3, the reservoir temperature is T = 110°C (230°F). Average bubble point pressure in a PVT cell is pb ≅ 30 MPa (4300 psi). Average permeability of the calcite-rich matrix is k &amp; 0.1 μdarcy. All qualifying black oil wells identified in the Eagle Ford are shown in Fig. 4. The cumulative GOR at the end of production history of each well is a circle plotted in Fig. 5.</anchoringText>
+<image-wrap id="102118187226MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118187226MS_i_4.tif" id="ImgLink-4" />
+<caption>The black oil wells in Eagle Ford align nicely with the dip, becoming more condensate-like downdip to the S-SE. There are 2,611 wells(1,123 leases) that qualify for further analysis.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>The black oil wells in Eagle Ford align nicely with the dip, becoming more condensate-like downdip to the S-SE. There are 2,611 wells(1,123 leases) that qualify for further analysis.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr11">The downhole well pressure (fracture pressure) is pf = 10.5 MPa (1500 psi) and the wellhead tubing pressure is Pwh = 2 MPa (300 psi). With the average temperature gradient of 3.6°C/100 m (2°F/100 ft) shown in Fig. 3, the reservoir temperature is T = 110°C (230°F). Average bubble point pressure in a PVT cell is pb ≅ 30 MPa (4300 psi). Average permeability of the calcite-rich matrix is k &amp; 0.1 μdarcy. All qualifying black oil wells identified in the Eagle Ford are shown in Fig. 4. The cumulative GOR at the end of production history of each well is a circle plotted in Fig. 5.</anchoringText>
+<image-wrap id="102118187226MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118187226MS_i_5.tif" id="ImgLink-5" />
+<caption>Three classes of cumulative GORs were identified for further analysis. The horizontal lines are medians of each class. From bottom to top, these median GORs are approximately 300, 500, and 1300 scf/stb, respectively. Note that wells with fewer than six months on production have been rejected.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Three classes of cumulative GORs were identified for further analysis. The horizontal lines are medians of each class. From bottom to top, these median GORs are approximately 300, 500, and 1300 scf/stb, respectively. Note that wells with fewer than six months on production have been rejected.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr12">These GORs are divided into three classes, GORe [0,300], (300,900], (900,2500], identified in blue, green, and yellow. If the median cumulative production of stock tank oil in the first class is 1, then the remaining medians are 2.09 and 3.97; the produced mostly dissolved gas contributes significant mass. The corresponding cumulative mass produced by each well is shown in Fig. 6.</anchoringText>
+<image-wrap id="102118187226MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118187226MS_i_6.tif" id="ImgLink-6" />
+<caption>The cumulative mass of stock tank oil plus stock tank gas allocated from 1,123 selected leases (equivalent to 2,611 wells). Note that some of the wells with the highest GOR are outliers in terms of oil and gas production. The median well produces 7.8 kt of total mass for GOR &#x003C; 300 scf/stb. The other two classes of wells produce 2.09 and 3.97 times more mass, respectively. Therefore, gas production is an important component of total mass produced, ranging from 23% of the mass of oil for GOR &#x003C; 300 scf/stb to 150% for GOR &#x003E; 900 scf/stb.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>The cumulative mass of stock tank oil plus stock tank gas allocated from 1,123 selected leases (equivalent to 2,611 wells). Note that some of the wells with the highest GOR are outliers in terms of oil and gas production. The median well produces 7.8 kt of total mass for GOR &#x003C; 300 scf/stb. The other two classes of wells produce 2.09 and 3.97 times more mass, respectively. Therefore, gas production is an important component of total mass produced, ranging from 23% of the mass of oil for GOR &#x003C; 300 scf/stb to 150% for GOR &#x003E; 900 scf/stb.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr13">Since ultimate oil recovery in a shale is of the order of 10 saturation percent, flowing gas develops only in the near-fracture regions where average reservoir pressure falls down to just above 1500 psi, and the saturation change of oil is larger than 15 - 20%. This means that for a long time and in most of the pore space, gas remains dissolved in oil in the regions of the reservoir above the adjusted bubble point pressure, Pʹb. Below Pʹb, typical compressibility of trapped gas bubbles is shown in Fig. 7.</anchoringText>
+<image-wrap id="102118187226MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118187226MS_i_7.tif" id="ImgLink-7" />
+<caption>Assuming that average gas saturation increases linearly with a decrease of average reservoir pressure below the adjusted bubble, <i>P</i>
+<sub>b</sub>′, point (red curve), the resulting gas compressibility (blue curve) dominates the overall system compressibility. The total compressibility of oil, water and pore space is shown as the black line.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Assuming that average gas saturation increases linearly with a decrease of average reservoir pressure below the adjusted bubble, P<sub>b</sub>′, point (red curve), the resulting gas compressibility (blue curve) dominates the overall system compressibility. The total compressibility of oil, water and pore space is shown as the black line.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr14">Fig. 8 shows the results for Sg,max = 0.15,0.10, and 0.04. Px is defined as a number such that there is an X % likelihood that true RF exceeds Px. P50 is the median of the distribution with equal likelihoods, while P10 denotes a 10% probability that true RF will be larger than P10. The horizontal lines in Fig. 8 are the P50 and P10 recovery factors in a set of numerical simulations by Gong (2013) for a typical horizontal well in area P3 of the Eagle Ford. With all simulation parameters at their expected values listed above, Fig. 8 implies that there is a 10% probability of exceeding (Sg) = 0.04 even if reservoir pressure is uniformly depleted by 4,100 psi to pf = 1500 psia.</anchoringText>
+<image-wrap id="102118187226MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118187226MS_i_8.tif" id="ImgLink-8" />
+<caption>Integration of the total compressibility under the assumption that average gas saturation never builds above the critical value, S<sub>gc</sub>. Above bubble point, RF is proportional to the liquid and pore space compressibility multiplied by the pressure drop Δ<i>p </i>= <i>pi </i>- (<i>p</i>). Below bubble point, gas compressibility kicks in under the assumption that average gas saturation (<i>S<sub>g</sub>
+</i>) ∈ [0, <i>Sgc</i>] increases linearly with the decreasing reservoir pressure, and gas compressibility is <i>cg </i>≅ 1/<i>p</i>.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Integration of the total compressibility under the assumption that average gas saturation never builds above the critical value, S<sub>gc</sub>. Above bubble point, RF is proportional to the liquid and pore space compressibility multiplied by the pressure drop Δp = pi - (p). Below bubble point, gas compressibility kicks in under the assumption that average gas saturation (S<sub>g</sub>) ∈ [0, Sgc] increases linearly with the decreasing reservoir pressure, and gas compressibility is cg ≅ 1/p.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr15">see Eq. (4) and Figs. 7 and 8. With this extension, the pressure diffusivity coefficient, α, is constant above bubble point and a nonlinear function of pressure below, see Fig. 9.</anchoringText>
+<image-wrap id="102118187226MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118187226MS_i_9.tif" id="ImgLink-9" />
+<caption>The ratio of hydraulic diffusivity at a reservoir pressure <i>p </i>to that at the initial reservoir pressure <i>p<sub>i</sub>
+</i>&#x003E; <i>p<sub>b</sub>
+</i>. The maximum average saturation of gas bubbles trapped in the pore space is assumed to be 5,10, and 15%.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>The ratio of hydraulic diffusivity at a reservoir pressure p to that at the initial reservoir pressure p<sub>i</sub>&#x003E; p<sub>b</sub>. The maximum average saturation of gas bubbles trapped in the pore space is assumed to be 5,10, and 15%.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="10" data-type-order="11">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr16">The key results for the allocated oil wells are presented in Figs. 10 and 11. From both figures it follows that higher GOR helps to produce more oil by increasing the system compressibility somewhat. By “pressure interference,” here we mean only the interference among pairs of the consecutive hydrofractures. This is the intra-well pressure interference. Here, we do not address the inter-well pressure interference, but it may show up as intra-well pressure interference of pad-drilled wells.</anchoringText>
+<image-wrap id="102118187226MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118187226MS_i_10.tif" id="ImgLink-10" />
+<caption>429 allocated wells in 268 leases are still in early time flow, with cumulative production vs. square root of time plotting as straight lines, one for each GOR class. Note that the <i>x</i>-scale in this plot is the square root of time on production, but the nonlinearly distributed labels are the corresponding times.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>429 allocated wells in 268 leases are still in early time flow, with cumulative production vs. square root of time plotting as straight lines, one for each GOR class. Note that the x-scale in this plot is the square root of time on production, but the nonlinearly distributed labels are the corresponding times.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="11" data-type-order="12">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr17">The key results for the allocated oil wells are presented in Figs. 10 and 11. From both figures it follows that higher GOR helps to produce more oil by increasing the system compressibility somewhat. By “pressure interference,” here we mean only the interference among pairs of the consecutive hydrofractures. This is the intra-well pressure interference. Here, we do not address the inter-well pressure interference, but it may show up as intra-well pressure interference of pad-drilled wells.</anchoringText>
+<image-wrap id="102118187226MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118187226MS_i_11.tif" id="ImgLink-11" />
+<caption>2,182 allocated wells in 855 leases have already pressure-interfered and their cumulative production bends down when plotted vs. square root of time.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>2,182 allocated wells in 855 leases have already pressure-interfered and their cumulative production bends down when plotted vs. square root of time.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="13" figure-order="12" data-type-order="13">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr18">The frequency distributions of interference times, τ, are shown in Fig. 12 for the three classes of GOR values. Note that all three distributions have quite pronounced peaks around five years (60 months). It appears, therefore, that the most likely ratios pressure diffusivities to the square of interfracture distance are about the same regardless of well location and design. These ratios should be used when planning for infill wells.</anchoringText>
+<image-wrap id="102118187226MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118187226MS_i_12.tif" id="ImgLink-12" />
+<caption>Frequency distributions of interference times in wells with inter-hydrofracture pressure interference. Note that the tail values of τ above 120 months are increasingly uncertain.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Frequency distributions of interference times in wells with inter-hydrofracture pressure interference. Note that the tail values of τ above 120 months are increasingly uncertain.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187226MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118187226MS_i_12a.tif" id="ImgLink-12a" />
+</image-wrap>
+<image-wrap id="102118187226MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118187226MS_i_12b.tif" id="ImgLink-12b" />
+</image-wrap>
+<image-wrap id="102118187226MS-Img_SPi-12c">
+<imageLink type="mediaResource" href="102118187226MS_i_12c.tif" id="ImgLink-12c" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="16" figure-order="13" data-type-order="15">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr19">We apply stress on the solid skeleton and change the fluid pressure at the same time, see Fig. A1. Both the fluid volume, Vf, and the pore space volume, Vϕ, will change. In the end, the new pore space volume will be filled entirely with the fluid at the new fluid pressure and the new fluid density. But, initially, we can think about these two volume changes independently, and then introduce flow into or from the rock pore space to arrive at the final state.</anchoringText>
+<image-wrap id="102118187226MS-Img_SPi-13">
+<label>Figure A1 </label>
+<imageLink type="mediaResource" href="102118187226MS_i_13.tif" id="ImgLink-13" />
+<caption>At the reference state, we imagine a colored rock grain sample, in blue, filled with colored fluid, in red. First, we remove the red fluid into a beaker and fill the pore space with ordinary fluid. Second, we change the stress on the solid and the pore pressure, and “measure” the new pore volume, <i>V</i>
+<sub>ϕ</sub>. Third, we measure the new red fluid volume under the new pore pressure, <i>V</i>
+<sub>fluid</sub>. In general, the new pore volume and fluid volume will not be equal to each other, and the fluid will have to flow in/out of the blue rock volume. Image source:  Jin et al. (2004)  .</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>A1</caption-order>
+<caption-text>At the reference state, we imagine a colored rock grain sample, in blue, filled with colored fluid, in red. First, we remove the red fluid into a beaker and fill the pore space with ordinary fluid. Second, we change the stress on the solid and the pore pressure, and “measure” the new pore volume, V<sub>ϕ</sub>. Third, we measure the new red fluid volume under the new pore pressure, V<sub>fluid</sub>. In general, the new pore volume and fluid volume will not be equal to each other, and the fluid will have to flow in/out of the blue rock volume. Image source: <link href="BIB2"> Jin et al. (2004)</link>  .</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187226MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118187226MS_i_13a.tif" id="ImgLink-13a" />
+</image-wrap>
+<image-wrap id="102118187226MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118187226MS_i_13b.tif" id="ImgLink-13b" />
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-19" type="bib">
+<bib id="BIB2">
+<label>Jin et al. (2004)</label><author><last-name>JinG</last-name></author>.,<author><last-name> Patzek</last-name>,<first-name>T. W</first-name></author>. and <author><last-name>Silin</last-name>,<first-name>D</first-name></author>.<article-title> SPE 90084-MS: Direct Prediction of the Absolute Permeability of Unconsolidated and Consolidated Reservoir Rock, in SPE Annual Technical Conference and Exhibition, SPE, Houston, TX</article-title>, <pubDate>2004</pubDate>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="14" data-type-order="16">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr20">where the pore space compressibility is measured under constant confining pressure, , equal to the trace of the total earth stress tensor, S, see Fig. A2. In particular, see Patzek et al. (2014)</anchoringText>
+<image-wrap id="102118187226MS-Img_SPi-14">
+<label>Figure A2 </label>
+<imageLink type="mediaResource" href="102118187226MS_i_14.tif" id="ImgLink-14" />
+<caption>The jacketed triaxial rock compressibility measurement. The vertical stress, <i>S</i>
+<sub>1</sub>, is applied to a hollow piston. The tube in the piston is used to regulate the pore pressure, <i>p</i>. The lateral stresses, <i>S</i>
+<sub>2</sub> = <i>S</i>
+<sub>3</sub>, are applied to the copperjacketed specimen by injecting oil through the side tube. The confining pressure is defined as <math />.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>A2</caption-order>
+<caption-text>The jacketed triaxial rock compressibility measurement. The vertical stress, S<sub>1</sub>, is applied to a hollow piston. The tube in the piston is used to regulate the pore pressure, p. The lateral stresses, S<sub>2</sub> = S<sub>3</sub>, are applied to the copperjacketed specimen by injecting oil through the side tube. The confining pressure is defined as <math />.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="20" figure-order="15" data-type-order="19">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr21">Fig. B1 shows 71 oil wells that are connected to the same pipeline and reported as one lease production record assigned to a well located at the border between the Dimmit and La Salle counties. The actual production data have been carefully tabulated and analyzed. We have found that these 71 wells span the bottom-hole area of 10,500 acres.</anchoringText>
+<image-wrap id="102118187226MS-Img_SPi-15">
+<label>Figure B1 </label>
+<imageLink type="mediaResource" href="102118187226MS_i_15.tif" id="ImgLink-15" />
+<caption>Map of a lease in the Eagle Ford with 71 wells connected to a single pipeline (after: RRC Texas, accessed on April 3, 2017). The production data for all wells are lumped together and assigned to well number 50.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>B1</caption-order>
+<caption-text>Map of a lease in the Eagle Ford with 71 wells connected to a single pipeline (after: RRC Texas, accessed on April 3, 2017). The production data for all wells are lumped together and assigned to well number 50.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="23" figure-order="16" data-type-order="21">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr22">The cumulative mass produced by all wells, along with the corresponding number of the wells, are plotted vs. time on production in Fig. B2. During the first four months, there was only one well contributing to the production. Later on, more wells were drilled, resulting in the cumulative total oil mass curving up parabolically, until the maximum well count reached 65 wells. Naturally, as the reservoir pressure declines, the rate of oil production of each well must decrease with time, resulting in the cumulative oil production that curves down.</anchoringText>
+<image-wrap id="102118187226MS-Img_SPi-16">
+<label>Figure B2 </label>
+<imageLink type="mediaResource" href="102118187226MS_i_16.tif" id="ImgLink-16" />
+<caption>The cumulative mass produced from an Eagle Ford lease in Fig. B1. The blue and black lines are the unallocated production and number of wells that contribute each month. The allocated production of an equivalent average well is shown as the green line.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>B2</caption-order>
+<caption-text>The cumulative mass produced from an Eagle Ford lease in Fig. B1. The blue and black lines are the unallocated production and number of wells that contribute each month. The allocated production of an equivalent average well is shown as the green line.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

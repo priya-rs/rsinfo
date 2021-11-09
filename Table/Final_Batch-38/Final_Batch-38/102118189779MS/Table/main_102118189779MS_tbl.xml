@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189779MS.txt" extractionDate="2021-03-29T18:44:43Z">
+<doi>10.2118/189779-MS</doi>
+<pii>10.2118/189779-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="3" table-order="1" data-type-order="1">
+<table-wrap id="102118189779MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">For the simulation model, horizontal heterogeneity was incorporated by assuming there is better quality rock in the SW region and poorer rock in the NE region. These heterogeneous rock characteristics were taken into account in the geo-model by using the Sequential Gaussian Geostatistical method. The average geological properties used in the simulation model were obtained from literature (Kurtoglu, 2013; Sonnenberg et al, 2009; Alexandre et al, 2011) and are presented in Table 1. Figure 1 shows the permeability distribution near the top of the simulation model with one possible well location and fracture placement scenario.</anchoringText>
+<label>Table 1</label>
+<caption>Average Reservoir Properties for the Model</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Average Reservoir Properties for the Model</caption-text>
+</formatted-caption>
+<table id="102118189779MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Property</th>
+<th valign="top" align="center">Average Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Porosity</td>
+<td valign="top" align="center">0.06</td>
+</tr>
+<tr>
+<td valign="top" align="center">Permeability</td>
+<td valign="top" align="center">0.06 mD</td>
+</tr>
+<tr>
+<td valign="top" align="center">Water Saturation</td>
+<td valign="top" align="center">0.4</td>
+</tr>
+<tr>
+<td valign="top" align="center">Original Oil in Place (OOIP)</td>
+<td valign="top" align="center">1.82 e6 sm<sup>3</sup>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">Areal Extent</td>
+<td valign="top" align="center">4000 m × 1500 m</td>
+</tr>
+<tr>
+<td valign="top" align="center">Thickness</td>
+<td valign="top" align="center">~11.6 m</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="5" table-order="2" data-type-order="4">
+<table-wrap id="102118189779MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The wells in this model were all assumed to be 1 km laterals and this was kept constant throughout the study. All the wells were hydraulically fractured using the properties given in Table 2 and each stage was simulated with a single planar hydraulic fracture.</anchoringText>
+<label>Table 2</label>
+<caption>Hydraulic Fracture Properties</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Hydraulic Fracture Properties</caption-text>
+</formatted-caption>
+<table id="102118189779MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Property</th>
+<th valign="top" align="center">Average Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Fracture Conductivity</td>
+<td valign="top" align="center">108 md-ft</td>
+</tr>
+<tr>
+<td valign="top" align="center">Fracture Tip Conductivity</td>
+<td valign="top" align="center">0.6 md-ft</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="5" table-order="3" data-type-order="5">
+<table-wrap id="102118189779MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">For the gas injection cases (N2 and CO2 injection), slim tube tests were performed using a lab-scale simulation model to determine the Minimum Miscibility Pressure (MMP). For CO2, the MMP was determined to be 21 mPa, which is very close to what other studies have found for Bakken oil (Adekunle and Hoffman 2014). For N2, an MMP could not be found even when injecting at pressures above 50 mPa. This is also consistent with the observations made in other studies (Adekunle and Hoffman, 2014). Various reservoir fluid properties are listed in Table 3 and the Pressure-Temperature (P-T) diagram of the reservoir fluid is shown in Figure 3.</anchoringText>
+<label>Table 3</label>
+<caption>Fluid Properties</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Fluid Properties</caption-text>
+</formatted-caption>
+<table id="102118189779MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Property</th>
+<th valign="top" align="center">Average Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Oil Density</td>
+<td valign="top" align="center">42 API</td>
+</tr>
+<tr>
+<td valign="top" align="center">Viscosity</td>
+<td valign="top" align="center">0.364 cp</td>
+</tr>
+<tr>
+<td valign="top" align="center">GOR</td>
+<td valign="top" align="center">102 m3/m3</td>
+</tr>
+<tr>
+<td valign="top" align="center">Initial Pressure</td>
+<td valign="top" align="center">36,200 kPa</td>
+</tr>
+<tr>
+<td valign="top" align="center">Bubble Point</td>
+<td valign="top" align="center">10783 kPa</td>
+</tr>
+<tr>
+<td valign="top" align="center">Reservoir Temperature</td>
+<td valign="top" align="center">115.6 C</td>
+</tr>
+<tr>
+<td valign="top" align="center">CO2 MMP</td>
+<td valign="top" align="center">21 mPa</td>
+</tr>
+<tr>
+<td valign="top" align="center">N2 MMP</td>
+<td valign="top" align="center">Not Found</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="4" data-type-order="8">
+<table-wrap id="102118189779MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4"> </anchoringText>
+<label>Table 4</label>
+<caption>Economic Parameters Used in the Study.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Economic Parameters Used in the Study.</caption-text>
+</formatted-caption>
+<table id="102118189779MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Parameter</th>
+<th valign="top" align="center">Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Oil Price</td>
+<td valign="top" align="center">$50/bbl</td>
+</tr>
+<tr>
+<td valign="top" align="center">Gas Price</td>
+<td valign="top" align="center">$2.5/MSCF</td>
+</tr>
+<tr>
+<td valign="top" align="center">Nitrogen Cost</td>
+<td valign="top" align="center">$1/MSCF (<link href="BIB2">Mitariten, 2009</link>)</td>
+</tr>
+<tr>
+<td valign="top" align="center">Carbon Dioxide Cost</td>
+<td valign="top" align="center">$2.25/MSCF (<link href="BIB3">Godec, 2014</link>)</td>
+</tr>
+<tr>
+<td valign="top" align="center">Oil lift Cost</td>
+<td valign="top" align="center">$10/bbl (<link href="BIB4">EPAC, 2015</link>)
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">Gas Processing Cost</td>
+<td valign="top" align="center">$0.25/MSCF (<link href="BIB4">EPAC, 2015</link>)
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">Water Handling Cost</td>
+<td valign="top" align="center">$0.5/bbl (<link href="BIB4">EPAC, 2015</link>)
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">Drilling Cost</td>
+<td valign="top" align="center">$2000000/well</td>
+</tr>
+<tr>
+<td valign="top" align="center">Completions and Tie in Cost</td>
+<td valign="top" align="center">$1500000/well</td>
+</tr>
+<tr>
+<td valign="top" align="center">Total Fracturing Cost per well</td>
+<td valign="top" align="center">$1.5 M + # <i>of stages</i>*(<i>Variable Stage Cost</i>)</td>
+</tr>
+<tr>
+<td valign="top" align="center">Variable Stage Cost</td>
+<td valign="top" align="center">$150K +$691/m*<i>Half Length</i> (<link href="BIB5">Joslin, 2017</link>)</td>
+</tr>
+<tr>
+<td valign="top" align="center">Discount rate</td>
+<td valign="top" align="center">10%</td>
+</tr>
+<tr>
+<td valign="top" align="center">Inflation rate</td>
+<td valign="top" align="center">2%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-16" type="bib">
+<bib id="BIB2">
+<label>Mitariten, 2009</label>
+<author>
+<first-name>M.</first-name>
+<last-name>Mitariten</last-name>
+</author>
+<pubDate>2009</pubDate> (updated). <article-title>Economic N2 Removal</article-title>. <journal-title>
+<i>Hydrocarbon Engineering Magazine</i>
+</journal-title>. July 2004.</bib>
+</linkTarget>
+<linkTarget id="link-17" type="bib">
+<bib id="BIB3">
+<label>Godec, 2014</label>
+<author>
+<first-name>M.</first-name>
+<last-name>Godec</last-name>
+</author>
+<pubDate>2014</pubDate>. <article-title>Carbon Dioxide Enhanced Oil Recovery</article-title>. <journal-title>
+<i>American Oil &amp; Gas Reporter</i>
+</journal-title>. February 2014.</bib>
+</linkTarget>
+<linkTarget id="link-18" type="bib">
+<bib id="BIB4">
+<label>EPAC, 2015</label>
+EPAC. <pubDate>2015</pubDate>. <journal-title>
+<i>2015 Alberta Royalty Review Enhanced Oil Recovery Discussion Paper</i>
+</journal-title>, Explorers and Producers Association of Canada, Alberta (November 16, 2015).</bib>
+</linkTarget>
+<linkTarget id="link-19" type="bib">
+<bib id="BIB5">
+<label>Joslin et al., 2017</label>
+<author>
+<first-name>K.</first-name>
+<last-name>Joslin</last-name>
+</author>, <author>
+<first-name>S. G.</first-name>
+<last-name>Ghedan</last-name>
+</author>, <author>
+<first-name>A. M.</first-name>
+<last-name>Abraham</last-name>
+</author>, <author>
+<first-name>V.</first-name>
+<last-name>Pathak</last-name>
+</author>
+<pubDate>2017</pubDate>. <article-title>EOR in Tight Reservoirs, Technical and Economical Feasibility. Presented at SPE Unconventional Resources Conference in Calgary, Alberta, Canada, 15-16 February</article-title>. SPE-185037-MS. https://doi.org/10.2118/185037-MS</bib>
+</linkTarget>
+</appendix>
+</docTable>
+<docTable pdf-page="7" table-order="5" data-type-order="9">
+<table-wrap id="102118189779MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5"> </anchoringText>
+<label>Table 5</label>
+<caption>Parameters Used in Natural Depletion Optimization</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Parameters Used in Natural Depletion Optimization</caption-text>
+</formatted-caption>
+<table id="102118189779MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Parameter</th>
+<th valign="top" align="center">Range</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Hydraulic Fracture (Stage) Spacing</td>
+<td valign="top" align="center">50 – 175 m</td>
+</tr>
+<tr>
+<td valign="top" align="center">Hydraulic Fracture Half-Length</td>
+<td valign="top" align="center">50 – 125 m</td>
+</tr>
+<tr>
+<td valign="top" align="center">Well Spacing</td>
+<td valign="top" align="center">300 m (9 wells) &amp; 400 m (7 wells)</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="8" table-order="6" data-type-order="10">
+<table-wrap id="102118189779MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6">The producer wells were mainly operated on a minimum BHP constraint of 5000 kPa with an initial drawdown on 1000 kPa, similar to the natural depletion scheme. In addition to the operational parameters that were optimized for in the natural depletion study, the N2 study included the variables in Table 6:</anchoringText>
+<label>Table 6</label>
+<caption>Added Parameters for Flooding Optimization</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Added Parameters for Flooding Optimization</caption-text>
+</formatted-caption>
+<table id="102118189779MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Parameter</th>
+<th valign="top" align="center">Range</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Injection BHP</td>
+<td valign="top" align="center">20000 – 50000 kPa</td>
+</tr>
+<tr>
+<td valign="top" align="center">Start of Injection</td>
+<td valign="top" align="center">1– 5 years after start of project</td>
+</tr>
+<tr>
+<td valign="top" align="center">End of Injection Period</td>
+<td valign="top" align="center">3– 7 years before end of project</td>
+</tr>
+<tr>
+<td valign="top" align="center">Well Pattern</td>
+<td valign="top" align="center">Staggered fractures versus non-staggered fractures</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="9" table-order="7" data-type-order="11">
+<table-wrap id="102118189779MS-tblwrp-7" content-type="structured">
+<anchoringText id="Ancr7">The ranges used in the optimization study are presented in Table 7 below:</anchoringText>
+<label>Table 7</label>
+<caption>Cycling Parameters Used in the Optimization</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Cycling Parameters Used in the Optimization</caption-text>
+</formatted-caption>
+<table id="102118189779MS-Tbl_SPi-7" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Cycle</th>
+<th valign="top" align="center">Switching Criteria</th>
+<th valign="top" align="center">Range</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Injection</td>
+<td valign="top" align="center">Max Average Pressure</td>
+<td valign="top" align="center">11000-13000 kPa below injection pressure</td>
+</tr>
+<tr>
+<td valign="top" align="center">Soak</td>
+<td valign="top" align="center">Time</td>
+<td valign="top" align="center">0-14 days</td>
+</tr>
+<tr>
+<td valign="top" align="center">Production</td>
+<td valign="top" align="center">Minimum Oil Rate</td>
+<td valign="top" align="center">1-3 m<sup>3</sup>/day</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="9" table-order="8" data-type-order="12">
+<table-wrap id="102118189779MS-tblwrp-8" content-type="structured">
+<anchoringText id="Ancr8">Following the optimization study, an uncertainty analysis study was done on the optimal scenario for each of the recovery schemes discussed above. To evaluate the uncertainty for each of the recovery mechanisms, both geological and economic parameters were considered. The parameters and their ranges are listed in Table 8 below. The parameters were each given an initial distribution based on an expected probability.</anchoringText>
+<label>Table 8</label>
+<caption>Uncertainty Assessment Parameters and Ranges</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Uncertainty Assessment Parameters and Ranges</caption-text>
+</formatted-caption>
+<table id="102118189779MS-Tbl_SPi-8" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Parameter</th>
+<th valign="top" align="center">Range</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Reservoir Depth (Pressure)</td>
+<td valign="top" align="center">2549 m to 2895 m (<link href="BIB6">Sonnenberg et. al., 2009</link>)</td>
+</tr>
+<tr>
+<td valign="top" align="center">Average Reservoir Porosity</td>
+<td valign="top" align="center">4.9% to 7.9% (<link href="BIB7">Alexandre et. al., 2011</link>)</td>
+</tr>
+<tr>
+<td valign="top" align="center">Average Reservoir Permeability</td>
+<td valign="top" align="center">0.029 to 0.097 mD (<link href="BIB7">Alexandre et. al., 2011</link>)</td>
+</tr>
+<tr>
+<td valign="top" align="center">Average Reservoir Thickness</td>
+<td valign="top" align="center">10m, 15m, 20m (<link href="BIB6">Sonnenberg et. al., 2009</link>)</td>
+</tr>
+<tr>
+<td valign="top" align="center">Average Reservoir Water Saturation</td>
+<td valign="top" align="center">25% to 50% (<link href="BIB7">Alexandre et. al., 2011</link>)</td>
+</tr>
+<tr>
+<td valign="top" align="center">NPV Discount Rate</td>
+<td valign="top" align="center">6% to 14%</td>
+</tr>
+<tr>
+<td valign="top" align="center">Oil Price</td>
+<td valign="top" align="center">$30 to $70</td>
+</tr>
+<tr>
+<td valign="top" align="center">CO<sub>2</sub> Price</td>
+<td valign="top" align="center">$1 to $3</td>
+</tr>
+<tr>
+<td valign="top" align="center">Completion Cost Multiplier (applied to Drilling Costs, Fracturing Costs):</td>
+<td valign="top" align="center">0.5 to 1.5</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-20" type="bib">
+<bib id="BIB6">
+<label>Sonnenberg and Pramudito, 2009</label>
+<author>
+<first-name>S. A.</first-name>
+<last-name>Sonnenberg</last-name>
+</author>, and <author>
+<first-name>A.</first-name>
+<last-name>Pramudito</last-name>
+</author>, <pubDate>2009</pubDate>. <article-title>Petroleum geology of the giant Elm Coulee field, Williston Basin</article-title>. <journal-title>
+<i>AAPG Bulletin</i>
+</journal-title>
+<volume>93</volume>
+<issue>(9)</issue>
+</bib>
+</linkTarget>
+<linkTarget id="link-21" type="bib">
+<bib id="BIB7">
+<label>Alexandre, 2011</label>
+<author>
+<first-name>C. S.</first-name>
+<last-name>Alexandre</last-name>
+</author>
+<pubDate>2011</pubDate>. <journal-title>
+<i>Reservoir Characterization and Petrology of the Bakken Formation, Elm Coulee Field, Richland County, MT</i>
+</journal-title>. Doctoral dissertation, Colorado School of Mines, Golden, Colorado (2011)</bib>
+</linkTarget>
+</appendix>
+</docTable>
+<docTable pdf-page="12" table-order="9" data-type-order="16">
+<table-wrap id="102118189779MS-tblwrp-9" content-type="structured">
+<anchoringText id="Ancr9"> </anchoringText>
+<label>Table 9</label>
+<caption>Optimal Parameters for N2 Flood</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Optimal Parameters for N2 Flood</caption-text>
+</formatted-caption>
+<table id="102118189779MS-Tbl_SPi-9" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Parameter</th>
+<th valign="top" align="center">Value in Optimal Case</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Fracture Spacing</td>
+<td valign="top" align="center">125 m</td>
+</tr>
+<tr>
+<td valign="top" align="center">Fracture Half-length</td>
+<td valign="top" align="center">100 m</td>
+</tr>
+<tr>
+<td valign="top" align="center">Well Spacing</td>
+<td valign="top" align="center">400 m</td>
+</tr>
+<tr>
+<td valign="top" align="center">Start Injection</td>
+<td valign="top" align="center">2 years after start</td>
+</tr>
+<tr>
+<td valign="top" align="center">Stop Injection</td>
+<td valign="top" align="center">7 Years before end</td>
+</tr>
+<tr>
+<td valign="top" align="center">Injection BHP</td>
+<td valign="top" align="center">50000 kPa</td>
+</tr>
+<tr>
+<td valign="top" align="center">Staggered?</td>
+<td valign="top" align="center">Yes</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="14" table-order="10" data-type-order="19">
+<table-wrap id="102118189779MS-tblwrp-10" content-type="structured">
+<anchoringText id="Ancr10">The optimal CO2 flood case yielded an NPV of $47 M, exceeding both nitrogen injection and natural depletion. For this model, the improved recovery due to oil swelling from miscibility contributed significantly leading to an NPV 68% higher than the immiscible case. The parameters that produced this result are presented in Table 10.</anchoringText>
+<label>Table 10</label>
+<caption>Optimal Parameters for CO<sub>2</sub> Flood</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Optimal Parameters for CO<sub>2</sub> Flood</caption-text>
+</formatted-caption>
+<table id="102118189779MS-Tbl_SPi-10" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Parameter</th>
+<th valign="top" align="center">Value in Optimal Case</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Fracture Spacing</td>
+<td valign="top" align="center">125 m</td>
+</tr>
+<tr>
+<td valign="top" align="center">Fracture Half-length</td>
+<td valign="top" align="center">100 m</td>
+</tr>
+<tr>
+<td valign="top" align="center">Well Spacing</td>
+<td valign="top" align="center">300 m</td>
+</tr>
+<tr>
+<td valign="top" align="center">Start Injection</td>
+<td valign="top" align="center">1 year from start</td>
+</tr>
+<tr>
+<td valign="top" align="center">Stop Injection</td>
+<td valign="top" align="center">7 years from end</td>
+</tr>
+<tr>
+<td valign="top" align="center">Injection BHP</td>
+<td valign="top" align="center">50000 kPa</td>
+</tr>
+<tr>
+<td valign="top" align="center">Staggered?</td>
+<td valign="top" align="center">Yes</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="16" table-order="11" data-type-order="22">
+<table-wrap id="102118189779MS-tblwrp-11" content-type="structured">
+<anchoringText id="Ancr11">Further to the above parameters there were 6 other operating inputs that were changed during the optimization and the results can be seen in Table 11. Unique to a cyclic process is the optimization of the duration of each period in a cycle. Because the optimal cycle phase length may change with time, a different set of criteria was used for cycle switching as opposed to specifying a length of time. The injection phase was considered complete when the average pressure around a well reached a maximum value and the production phase was ended when the oil rate dropped below a minimum.</anchoringText>
+<label>Table 11</label>
+<caption>Optimal Parameters for CO<sub>2</sub> Huff n Puff</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Optimal Parameters for CO<sub>2</sub> Huff n Puff</caption-text>
+</formatted-caption>
+<table id="102118189779MS-Tbl_SPi-11" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Parameter</th>
+<th valign="top" align="center">Value in Optimal Case</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Fracture Spacing</td>
+<td valign="top" align="center">100 m</td>
+</tr>
+<tr>
+<td valign="top" align="center">Fracture Half-length</td>
+<td valign="top" align="center">125 m</td>
+</tr>
+<tr>
+<td valign="top" align="center">Well Spacing</td>
+<td valign="top" align="center">400 m</td>
+</tr>
+<tr>
+<td valign="top" align="center">Start Injection</td>
+<td valign="top" align="center">7 years after start</td>
+</tr>
+<tr>
+<td valign="top" align="center">Stop Injection</td>
+<td valign="top" align="center">6 years from end</td>
+</tr>
+<tr>
+<td valign="top" align="center">Injection BHP</td>
+<td valign="top" align="center">47600 kPa</td>
+</tr>
+<tr>
+<td valign="top" align="center">Max Average Pressure</td>
+<td valign="top" align="center">35100 kPa</td>
+</tr>
+<tr>
+<td valign="top" align="center">Soak time</td>
+<td valign="top" align="center">0 days</td>
+</tr>
+<tr>
+<td valign="top" align="center">Minimum Oil Rate</td>
+<td valign="top" align="center">3 m<sup>3</sup>/day</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="17" table-order="12" data-type-order="25">
+<table-wrap id="102118189779MS-tblwrp-12" content-type="structured">
+<anchoringText id="Ancr12">Well spacing, fracture spacing and half-length were the only parameters consistent for each process’ optimization and are presented for comparison in the Table 12 below. An important conclusion from this table is that each EOR technique had a different optimal configuration.</anchoringText>
+<label>Table 12</label>
+<caption>Comparison of Optimal Parameters for all 4 Recovery Processes</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Comparison of Optimal Parameters for all 4 Recovery Processes</caption-text>
+</formatted-caption>
+<table id="102118189779MS-Tbl_SPi-12" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">Well Spacing (m)</th>
+<th valign="top" align="center">Fracture Spacing (m)</th>
+<th valign="top" align="center">Half Length (m)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Natural Depletion</td>
+<td valign="top" align="center">400</td>
+<td valign="top" align="center">125</td>
+<td valign="top" align="center">125</td>
+</tr>
+<tr>
+<td valign="top" align="center">Immiscible Nitrogen Flood</td>
+<td valign="top" align="center">400</td>
+<td valign="top" align="center">125</td>
+<td valign="top" align="center">100</td>
+</tr>
+<tr>
+<td valign="top" align="center">Miscible CO2 Flood</td>
+<td valign="top" align="center">300</td>
+<td valign="top" align="center">125</td>
+<td valign="top" align="center">100</td>
+</tr>
+<tr>
+<td valign="top" align="center">CO2 Huff n Puff</td>
+<td valign="top" align="center">400</td>
+<td valign="top" align="center">100</td>
+<td valign="top" align="center">125</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118183046MS.txt" extractionDate="2021-03-23T10:04:12Z">
+<doi>10.2118/183046-MS</doi>
+<pii>10.2118/183046-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr3">The seismically defined structure is an elongated low relief structure on a NW-SE trend. This field is structurally complicated and highly faulted which then led to compartmentalization of the field into separate fault blocks with different fluid contacts. The fault blocks are defined as Proven, Probable, and Possible as portrayed in Figure 1.</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_1.tif" id="ImgLink-1" />
+<caption>Structural cross section showing proven and possible hydrocarbon distribution along with the compartmentalization perception of the field.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Structural cross section showing proven and possible hydrocarbon distribution along with the compartmentalization perception of the field.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr4">In 1993, an early production scheme (EPS) was started to gather production data in order to identify the main uncertainties and test the feasibility of the full field development. The field produced oil and gas from 1993 to 1999. Monitoring the average reservoir pressure against cumulative production would indicate an average initial reservoir pressure of x090 psi with a range of +/- 75 psi at a datum level. During the years of production, a number of pressure build-up tests (PBU) for the producers and static bottom hole pressure tests in the observer wells had been taken. The results of those tests are given in Figure 2.</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_2.tif" id="ImgLink-2" />
+<caption>Summary of reservoir closed-in pressure data.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Summary of reservoir closed-in pressure data.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr5">The main hydrocarbon bearing reservoir in the field is a heterogeneous carbonate reservoir and is characterized by its marked vertical facies changes wackestone/ mudstone in the lower part while grading upward into foraminiferal grainstone/packstone. Based on the lithology variation, the reservoir could be subdivided into seven facies units. The reservoir represents a regressive depositional sequence starting with low energy (the LM facies) and ending with shallow marine high energy shoal deposits of the RO facies. The facies identified are from top to bottom RO, Ml, R1, M2, R2, M3A and LM as shown in Figure 3.</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_3.tif" id="ImgLink-3" />
+<caption>Stratigraphy zonation, sub-zones used to build static model.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Stratigraphy zonation, sub-zones used to build static model.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr6">Porosity. Twenty-six (26) cores with a total length of 951 ft were cut within the reservoir from ten (10) wells. The overall core recovery is around 68%. Routine core analysis was performed on plugs taken at regularly spaced intervals of one feet. In general, the core plugs porosity is matching with log porosity after overburden pressure correction except on the upper part of reservoir due to heterogeneities. The degree of compaction and subsequent formation of stylolites down flank is considered to be responsible for the thickness reduction and the deterioration of the average porosity towards the flank (Figure 4).</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_4.tif" id="ImgLink-4" />
+<caption>Well Section showing porosity and permeability variation vertically and laterally.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Well Section showing porosity and permeability variation vertically and laterally.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr7">For the scope of this work, the evaluation is mainly focused on the proven blocks and for this paper we would like to highlight the approach followed to derive the poro-perm relationships. Porosity/permeability relationships, corrected for overburden pressure, have been derived from routine core data for every subzone. This has been applied to log derived porosity to obtain permeability in the non-cored sections using neural network. With the limited amount of available data, utilizing the neural networks approach had improved the data representation compared to conventional approaches, as can be clearly observed from (Figure 5).</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_5.tif" id="ImgLink-5" />
+<caption>New poro-perm cross plot generated using neural networks.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>New poro-perm cross plot generated using neural networks.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr8">The workflow used to build the new static model is shown in the Figure 6, which starts from data validation to building a new structural framework and grid, redefining the previous model intorducing more details in each cell. The Property modeling was made using trends and rock typing guides.</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_6.tif" id="ImgLink-6" />
+<caption>Workflow implemented to build the new static model.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Workflow implemented to build the new static model.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr9">The structural model was compared with old model, interpretation and the regional structural model as part of QC and the new model is following the regional trend (Figure 7).</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_7.tif" id="ImgLink-7" />
+<caption>Structural modeling and structure framework QCed.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Structural modeling and structure framework QCed.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr10">The same workflow of the previous model was used, but in the new static model (fine grid), the interpreted porosity logs were correlated with the core values and a merge was made to capture the high values in the upper part of Zone I and honoring all porosity values; arithmetic averaging was used for upscaling, getting good results given the high vertical resolution (Figure 8).</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_8.tif" id="ImgLink-8" />
+<caption>Upscaled porosity and permeability logs, example from wells 1 and 7 into the new fine grid.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Upscaled porosity and permeability logs, example from wells 1 and 7 into the new fine grid.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr11">The two developed EOS mimicking the compositional variation across the reservoir through 8 pseudo components, good matched the routine experiments of the honored PVT studies (Figure 9).</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_9.tif" id="ImgLink-9" />
+<caption>Matching of PVT paramters utilizing EOS (Data shown is for Block A, same pseudo component is used).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Matching of PVT paramters utilizing EOS (Data shown is for Block A, same pseudo component is used).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr12">The historical test data, BHP and THP were used as guidance for improving history match. The new model resulted in much better history match in comparison to Old Model as shown in Figure 10.</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_10.tif" id="ImgLink-10" />
+<caption>Comparison between match quality of old and new model (Better improvement of the new model History Match).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Comparison between match quality of old and new model (Better improvement of the new model History Match).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="11" data-type-order="13">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr13">Prediction runs were performed for different recovery mechanisms to assist decision on the best development scheme. The development scenarios considered the following list of recovery mechanisms with new eight horizontal producers and 7 new injectors with specified field and well constraints (Figure 11).</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_11.tif" id="ImgLink-11" />
+<caption>Proposed well locations of the development options.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Proposed well locations of the development options.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="12" data-type-order="14">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr14">Comparison of the different development options along with their corresponding sensitivities indicate that the pure gas injection yields the best recovery while water injection would be the worst. As expected, the WAG injection would be strongly affected by the heterogeneity and the complexity of the rock that would directly impact the effectiveness of the water cycle. The prediction runs suggested that gas injection would be able to maintain the reservoir pressure compared to the WAG (Figures 12 to 20).</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_12.tif" id="ImgLink-12" />
+<caption>Oil production profiles under different recovery mechanims.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Oil production profiles under different recovery mechanims.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="13" data-type-order="15">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr15">Comparison of the different development options along with their corresponding sensitivities indicate that the pure gas injection yields the best recovery while water injection would be the worst. As expected, the WAG injection would be strongly affected by the heterogeneity and the complexity of the rock that would directly impact the effectiveness of the water cycle. The prediction runs suggested that gas injection would be able to maintain the reservoir pressure compared to the WAG (Figures 12 to 20).</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_13.tif" id="ImgLink-13" />
+<caption>Pressure profile under different recovery mechanisms.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Pressure profile under different recovery mechanisms.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="14" data-type-order="16">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr16">Comparison of the different development options along with their corresponding sensitivities indicate that the pure gas injection yields the best recovery while water injection would be the worst. As expected, the WAG injection would be strongly affected by the heterogeneity and the complexity of the rock that would directly impact the effectiveness of the water cycle. The prediction runs suggested that gas injection would be able to maintain the reservoir pressure compared to the WAG (Figures 12 to 20).</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_14.tif" id="ImgLink-14" />
+<caption>Oil production profile at different natural depletion target rates.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Oil production profile at different natural depletion target rates.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="15" data-type-order="17">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr17">Comparison of the different development options along with their corresponding sensitivities indicate that the pure gas injection yields the best recovery while water injection would be the worst. As expected, the WAG injection would be strongly affected by the heterogeneity and the complexity of the rock that would directly impact the effectiveness of the water cycle. The prediction runs suggested that gas injection would be able to maintain the reservoir pressure compared to the WAG (Figures 12 to 20).</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_15.tif" id="ImgLink-15" />
+<caption>Pressure profiles at different natural depletion target rates.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Pressure profiles at different natural depletion target rates.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="16" data-type-order="18">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr18">Comparison of the different development options along with their corresponding sensitivities indicate that the pure gas injection yields the best recovery while water injection would be the worst. As expected, the WAG injection would be strongly affected by the heterogeneity and the complexity of the rock that would directly impact the effectiveness of the water cycle. The prediction runs suggested that gas injection would be able to maintain the reservoir pressure compared to the WAG (Figures 12 to 20).</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_16.tif" id="ImgLink-16" />
+<caption>Oil production profile for different target rates under WI. Water injection rate is controlled by VRR.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Oil production profile for different target rates under WI. Water injection rate is controlled by VRR.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="17" data-type-order="19">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr19">Comparison of the different development options along with their corresponding sensitivities indicate that the pure gas injection yields the best recovery while water injection would be the worst. As expected, the WAG injection would be strongly affected by the heterogeneity and the complexity of the rock that would directly impact the effectiveness of the water cycle. The prediction runs suggested that gas injection would be able to maintain the reservoir pressure compared to the WAG (Figures 12 to 20).</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_17.tif" id="ImgLink-17" />
+<caption>Pressure profile for different target rates under WI.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Pressure profile for different target rates under WI.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="18" data-type-order="20">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr20">Comparison of the different development options along with their corresponding sensitivities indicate that the pure gas injection yields the best recovery while water injection would be the worst. As expected, the WAG injection would be strongly affected by the heterogeneity and the complexity of the rock that would directly impact the effectiveness of the water cycle. The prediction runs suggested that gas injection would be able to maintain the reservoir pressure compared to the WAG (Figures 12 to 20).</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_18.tif" id="ImgLink-18" />
+<caption>Oil production profile under different WI scenarios compared to ND scenario.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Oil production profile under different WI scenarios compared to ND scenario.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="19" data-type-order="21">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr21">Comparison of the different development options along with their corresponding sensitivities indicate that the pure gas injection yields the best recovery while water injection would be the worst. As expected, the WAG injection would be strongly affected by the heterogeneity and the complexity of the rock that would directly impact the effectiveness of the water cycle. The prediction runs suggested that gas injection would be able to maintain the reservoir pressure compared to the WAG (Figures 12 to 20).</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_19.tif" id="ImgLink-19" />
+<caption>Pressure profile for different WI scenarios compared to ND scenario.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Pressure profile for different WI scenarios compared to ND scenario.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="20" data-type-order="22">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr22">Comparison of the different development options along with their corresponding sensitivities indicate that the pure gas injection yields the best recovery while water injection would be the worst. As expected, the WAG injection would be strongly affected by the heterogeneity and the complexity of the rock that would directly impact the effectiveness of the water cycle. The prediction runs suggested that gas injection would be able to maintain the reservoir pressure compared to the WAG (Figures 12 to 20).</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-20">
+<label>Figure 20 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_20.tif" id="ImgLink-20" />
+<caption>Figure indicates the poor injectivity in case of WI.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Figure indicates the poor injectivity in case of WI.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="21" data-type-order="23">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr23">The final optimized subsurface locations are shown in Figures 21 and the simulation results Figures 22-26. Based on the prediction runs, developing the gas cap seems promising and in line with the other new existing conditions of low oil prices and increasing gas demand. Therefore and given all the circumstances, the development mindset is adapted towards the gas cap development, after it was originally set on oil development. Yet, the dynamic model is constructed with advanced tracking in order to identify and maximize the condensate and gas production from gas cap also to assess the future opportunities of targeting the bypassed hydrocarbon.</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-21">
+<label>Figure 21 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_21.tif" id="ImgLink-21" />
+<caption>Gas cap proposed subsurface locations.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>21</caption-order>
+<caption-text>Gas cap proposed subsurface locations.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="22" data-type-order="24">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr24">The final optimized subsurface locations are shown in Figures 21 and the simulation results Figures 22-26. Based on the prediction runs, developing the gas cap seems promising and in line with the other new existing conditions of low oil prices and increasing gas demand. Therefore and given all the circumstances, the development mindset is adapted towards the gas cap development, after it was originally set on oil development. Yet, the dynamic model is constructed with advanced tracking in order to identify and maximize the condensate and gas production from gas cap also to assess the future opportunities of targeting the bypassed hydrocarbon.</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-22">
+<label>Figure 22 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_22.tif" id="ImgLink-22" />
+<caption>Gas cap development options, oil/cond. rate and cummulative comaprison.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>22</caption-order>
+<caption-text>Gas cap development options, oil/cond. rate and cummulative comaprison.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="20" figure-order="23" data-type-order="25">
+<link href="link-23" type="image" />
+<appendix>
+<linkTarget id="link-23" type="image">
+<anchoringText id="Ancr25">The final optimized subsurface locations are shown in Figures 21 and the simulation results Figures 22-26. Based on the prediction runs, developing the gas cap seems promising and in line with the other new existing conditions of low oil prices and increasing gas demand. Therefore and given all the circumstances, the development mindset is adapted towards the gas cap development, after it was originally set on oil development. Yet, the dynamic model is constructed with advanced tracking in order to identify and maximize the condensate and gas production from gas cap also to assess the future opportunities of targeting the bypassed hydrocarbon.</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-23">
+<label>Figure 23 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_23.tif" id="ImgLink-23" />
+<caption>Gas cap development options, oil/cond. rate and cummulative comparison.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>23</caption-order>
+<caption-text>Gas cap development options, oil/cond. rate and cummulative comparison.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="20" figure-order="24" data-type-order="26">
+<link href="link-24" type="image" />
+<appendix>
+<linkTarget id="link-24" type="image">
+<anchoringText id="Ancr26">The final optimized subsurface locations are shown in Figures 21 and the simulation results Figures 22-26. Based on the prediction runs, developing the gas cap seems promising and in line with the other new existing conditions of low oil prices and increasing gas demand. Therefore and given all the circumstances, the development mindset is adapted towards the gas cap development, after it was originally set on oil development. Yet, the dynamic model is constructed with advanced tracking in order to identify and maximize the condensate and gas production from gas cap also to assess the future opportunities of targeting the bypassed hydrocarbon.</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-24">
+<label>Figure 24 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_24.tif" id="ImgLink-24" />
+<caption>Gas cap development options, gas rate and cummulative comaprison.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>24</caption-order>
+<caption-text>Gas cap development options, gas rate and cummulative comaprison.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="25" data-type-order="27">
+<link href="link-25" type="image" />
+<appendix>
+<linkTarget id="link-25" type="image">
+<anchoringText id="Ancr27">The final optimized subsurface locations are shown in Figures 21 and the simulation results Figures 22-26. Based on the prediction runs, developing the gas cap seems promising and in line with the other new existing conditions of low oil prices and increasing gas demand. Therefore and given all the circumstances, the development mindset is adapted towards the gas cap development, after it was originally set on oil development. Yet, the dynamic model is constructed with advanced tracking in order to identify and maximize the condensate and gas production from gas cap also to assess the future opportunities of targeting the bypassed hydrocarbon.</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-25">
+<label>Figure 25 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_25.tif" id="ImgLink-25" />
+<caption>Gas cap development options, gas rate and cummulative comaprison.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>25</caption-order>
+<caption-text>Gas cap development options, gas rate and cummulative comaprison.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="26" data-type-order="28">
+<link href="link-26" type="image" />
+<appendix>
+<linkTarget id="link-26" type="image">
+<anchoringText id="Ancr28">The final optimized subsurface locations are shown in Figures 21 and the simulation results Figures 22-26. Based on the prediction runs, developing the gas cap seems promising and in line with the other new existing conditions of low oil prices and increasing gas demand. Therefore and given all the circumstances, the development mindset is adapted towards the gas cap development, after it was originally set on oil development. Yet, the dynamic model is constructed with advanced tracking in order to identify and maximize the condensate and gas production from gas cap also to assess the future opportunities of targeting the bypassed hydrocarbon.</anchoringText>
+<image-wrap id="102118183046MS-Img_SPi-26">
+<label>Figure 26 </label>
+<imageLink type="mediaResource" href="102118183046MS_i_26.tif" id="ImgLink-26" />
+<caption>Gas cap development options, WCT, GOR and reservoir pressure comparison.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>26</caption-order>
+<caption-text>Gas cap development options, WCT, GOR and reservoir pressure comparison.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

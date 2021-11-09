@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118188911MS.txt" extractionDate="2021-03-29T11:18:25Z">
+<doi>10.2118/188911-MS</doi>
+<pii>10.2118/188911-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">IRT, Integrated Reservoir Tool, is an In-house developed application. It is used to visualize the data in master database. It addresses all types of data ranging from daily to monthly to sporadic; from geology to reservoir to production; from static to dynamic data. Dynamic data like daily metering from field, well activities of the rig, production tests on wells; Static data like well header, well marker, trajectories, well logs, well reservoir, well cores, RFT pressures, perforations; Interpretations like core analysis, fluid analysis, survey results, flow test results; Monthly production and injection data - all can be visualised from a single place. Figure 1 shows the tabs available in IRT.</anchoringText>
+<image-wrap id="102118188911MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118188911MS_i_1.tif" id="ImgLink-1" />
+<caption>Data types present in IRT</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Data types present in IRT</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">IRT is built using Microsoft Access with linked oracle database. Having linked master database tables enables automatic refresh of data. The data available in master database is immediately visible to the user. This application infrastructure model uses both oracle capability of data integrity and secutiry and Miscrosoft access programming feature. With the latest release of Microsoft access, IRT graphical user interface was redesigned with menu bar and tree-view. This further enhanced user friendly feature of the tool. Figure 2 shows some of the plots available in IRT</anchoringText>
+<image-wrap id="102118188911MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118188911MS_i_2.tif" id="ImgLink-2" />
+<caption>Screen shots of IRT</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Screen shots of IRT</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188911MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118188911MS_i_2a.tif" id="ImgLink-2a" />
+</image-wrap>
+<image-wrap id="102118188911MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118188911MS_i_2b.tif" id="ImgLink-2b" />
+</image-wrap>
+<image-wrap id="102118188911MS-Img_SPi-2c">
+<imageLink type="mediaResource" href="102118188911MS_i_2c.tif" id="ImgLink-2c" />
+</image-wrap>
+<image-wrap id="102118188911MS-Img_SPi-2d">
+<imageLink type="mediaResource" href="102118188911MS_i_2d.tif" id="ImgLink-2d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">The field has different types of producer wells. They are classified as deviated wells, horizontal wells, multilateral wells upto 5 horizontal drains dedicated to either tight layer or dedicated to permeable layers. The global overview of production (Figure 3) is plotted which is a combination of 4 plots. The first is a regular bubble map which shows the location of the well, the size of the bubble shows the cumulative oil production and the color code is for different completion type. The color code is kept consistent in all plots. The second plot shows production rate, watercut and Gas Oil Ratio. The third plot shows cumulative oil production Vs months from startup. The fourth plot is the histogram of cumulative production plotted on the year of startup.</anchoringText>
+<image-wrap id="102118188911MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118188911MS_i_3.tif" id="ImgLink-3" />
+<caption>Global production overview</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Global production overview</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188911MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118188911MS_i_3a.tif" id="ImgLink-3a" />
+</image-wrap>
+<image-wrap id="102118188911MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118188911MS_i_3b.tif" id="ImgLink-3b" />
+</image-wrap>
+<image-wrap id="102118188911MS-Img_SPi-3c">
+<imageLink type="mediaResource" href="102118188911MS_i_3c.tif" id="ImgLink-3c" />
+</image-wrap>
+<image-wrap id="102118188911MS-Img_SPi-3d">
+<imageLink type="mediaResource" href="102118188911MS_i_3d.tif" id="ImgLink-3d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">The remaining example throughout the paper shows the data for a realitively small sub layer which has the minimum number of producers and injectors. Figure 4 shows production data for a sub layer. Deviated producers producing from multiple layers and dedicated horizontal producers are identified with different colours. Plot 1 in the dashboard shows the location, type and cumulative oil production of the producers. The other plots follow the same principle as the Global Production overview dashboard.</anchoringText>
+<image-wrap id="102118188911MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118188911MS_i_4.tif" id="ImgLink-4" />
+<caption>Production overview of a sub-layer</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Production overview of a sub-layer</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188911MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118188911MS_i_4a.tif" id="ImgLink-4a" />
+</image-wrap>
+<image-wrap id="102118188911MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118188911MS_i_4b.tif" id="ImgLink-4b" />
+</image-wrap>
+<image-wrap id="102118188911MS-Img_SPi-4c">
+<imageLink type="mediaResource" href="102118188911MS_i_4c.tif" id="ImgLink-4c" />
+</image-wrap>
+<image-wrap id="102118188911MS-Img_SPi-4d">
+<imageLink type="mediaResource" href="102118188911MS_i_4d.tif" id="ImgLink-4d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="7" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">Figure 5 is a dashboard that links the saturation distribution map with evolution of saturation with time. The color of the points in the saturation evolution with time plot is based on type of tool used to measure saturation data weather it is Open hole tool or different types of cased hole tool. The interactive link between the two plots in the dashboard is useful to observe trends in an area. By selecting the required area in the map the corresponding measurements are highlighted in the saturation vs time plot. This ability helps to quickly observe any trend of saturation evolution in the selected region.</anchoringText>
+<image-wrap id="102118188911MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118188911MS_i_5.tif" id="ImgLink-5" />
+<caption>Dashboard for Saturation analysis</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Dashboard for Saturation analysis</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188911MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118188911MS_i_5a.tif" id="ImgLink-5a" />
+</image-wrap>
+<image-wrap id="102118188911MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118188911MS_i_5b.tif" id="ImgLink-5b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">Figure 6 shows the dashboard for pressure evolution analysis and can be used to analyse any sector of the layer. The sealing effects of faults, sectorisation, zone of influence of injectors etc can be analysed by this plot. By introducing the injector startup and shut-in time we can see the effectivity of injection in the required area.</anchoringText>
+<image-wrap id="102118188911MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118188911MS_i_6.tif" id="ImgLink-6" />
+<caption>Dashboard for Pressure analysis</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Dashboard for Pressure analysis</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188911MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118188911MS_i_6a.tif" id="ImgLink-6a" />
+</image-wrap>
+<image-wrap id="102118188911MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118188911MS_i_6b.tif" id="ImgLink-6b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

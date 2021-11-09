@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118176648MS.txt" extractionDate="2021-03-20T14:17:58Z">
+<doi>10.2118/176648-MS</doi>
+<pii>10.2118/176648-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">Located in Russian sector of the Caspian shelf, Korchagina features an anticline trap where a thin oil rim (10 to 15m) is produced using dominant gas-cap drive and bottom aquifer support (Fig. 1)5. Drilling into Neocomian and Volzhsky formations commenced in 2010. A total of 28 planned producers, 2 gas re-injection wells and 2 water disposal wells were to be drilled and completed. To date, 20 Extended Reach Drilkling (ERD) wells with step-outs of up to 9 km and 2-to 4-km horizontal sections have been completed, and average daily oil production of 5000 m3/day has been achieved.</anchoringText>
+<image-wrap id="102118176648MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118176648MS_i_1.tif" id="ImgLink-1" />
+<caption>Korchagina reservoir description.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Korchagina reservoir description.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">The IC completion is run inside of a 7-in slotted liner with its annulus (slotted liner – formation) compartmentalized by swell packers (V7, V9, V12, V16, V19, V22, V25, and V29) (Fig.2). Production is commingled into a 3.5-in tubing that is run inside the slotted liner. Individual zones flow through four annular FCVs (U28, U43, U59, and U74) which are separated by three feed-through packers (U32, U47, and U64) inside the tubing annulus (IC – slotted liner). Four dual gauge mandrels for tubing and annular gauges measuring both pressure and temperature are U23, U38, U53, and U70.</anchoringText>
+<image-wrap id="102118176648MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118176648MS_i_2.tif" id="ImgLink-2" />
+<caption>Well 13 completion schematic with FCVs.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Well 13 completion schematic with FCVs.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Comparing these ratios for the reported area values from the FCV design document to the respective pressure-derived values for Korchagina well 13 produces the following crossplot shown in Fig. 3.</anchoringText>
+<image-wrap id="102118176648MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118176648MS_i_3.tif" id="ImgLink-3" />
+<caption>Comparison of choke area ratios derived from downhole gauge data with the actual design ratios</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Comparison of choke area ratios derived from downhole gauge data with the actual design ratios</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">The software solution proposed is based on a real-time platform supporting production and operation data analysis as well as interpretation and modeling of an IC (Fig. 4). As the analysis models apply in surveillance mode, the user spends a minimal amount of time handling the data and only intervenes when an alarm is raised based on a certain criteria. The software aggregates raw pressure and temperature data from multiple downhole gauges as well as FCV valve positions and generates useful surveillance information in the form of volumetric zonal rates.</anchoringText>
+<image-wrap id="102118176648MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118176648MS_i_4.tif" id="ImgLink-4" />
+<caption>Zonal rate surveillance methodology</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Zonal rate surveillance methodology</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="8" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">Almost 6 months of raw data from Well 13 consisting of tubing pressure, annular pressure and choke positions for all the four zones was available. The valves often get through a complete cycle (fully open to fully closed positions) to get from the current to the required end position following the designed setting sequence. Reconciled FCV choke positions (as per Fig. 3) along with annular and tubing pressures were loaded into the software to generate liquid rates. Fig. 5 represents a typical choke setting cycle and the related Ptub and Pwf responses for all four zones.</anchoringText>
+<image-wrap id="102118176648MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118176648MS_i_5.tif" id="ImgLink-5" />
+<caption>Choke cycling response examples Zone A - Raw Data Zone B - Raw Data Zone C - Raw Data Zone D - Raw Data</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Choke cycling response examples Zone A - Raw Data Zone B - Raw Data Zone C - Raw Data Zone D - Raw Data</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118176648MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118176648MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Zone A - Raw Data Zone</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118176648MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118176648MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>B - Raw Data Zone</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118176648MS-Img_SPi-5c">
+<imageLink type="mediaResource" href="102118176648MS_i_5c.tif" id="ImgLink-5c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>C - Raw Data Zone</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118176648MS-Img_SPi-5d">
+<imageLink type="mediaResource" href="102118176648MS_i_5d.tif" id="ImgLink-5d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>D - Raw Data</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">Raw data from all the four zones is processed as per the methodology described above. Results of liquid rate reconstruction for zones A, B, C, and D for the production period of the last 6 months, when commingled, were comparable to the actual production test performed (Fig. 6).</anchoringText>
+<image-wrap id="102118176648MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118176648MS_i_6.tif" id="ImgLink-6" />
+<caption>Liquid Rate Comparison: Well Test vs. Rate Reconstruction</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Liquid Rate Comparison: Well Test vs. Rate Reconstruction</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">The calculated, finely sampled rate for an individual zone filters further into the stabilized flow rate through a custom algorithm to identify the stable flow regimes. The plots on the right (Figs. 7–10) show the identified stable rates represented by the bold dots while the solid line shows the calculated liquid rate. The plots on the left (Figs. 7–10) show IPR curves that are automatically generated in the software to estimate PI and P* in each of the A, B, C, and D zones (Figs. 7–10). The PI and P* update in real time whenever there is a new stable flow regime identified and a pseudo-steady pressure point is sampled.</anchoringText>
+<image-wrap id="102118176648MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118176648MS_i_7.tif" id="ImgLink-7" />
+<caption>Estimated pseudo steady state productivity index and <i>P<sup>*</sup>
+</i> of Zone A</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Estimated pseudo steady state productivity index and P<sup>*</sup> of Zone A</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118176648MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118176648MS_i_7a.tif" id="ImgLink-7a" />
+</image-wrap>
+<image-wrap id="102118176648MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118176648MS_i_7b.tif" id="ImgLink-7b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">The calculated, finely sampled rate for an individual zone filters further into the stabilized flow rate through a custom algorithm to identify the stable flow regimes. The plots on the right (Figs. 7–10) show the identified stable rates represented by the bold dots while the solid line shows the calculated liquid rate. The plots on the left (Figs. 7–10) show IPR curves that are automatically generated in the software to estimate PI and P* in each of the A, B, C, and D zones (Figs. 7–10). The PI and P* update in real time whenever there is a new stable flow regime identified and a pseudo-steady pressure point is sampled.</anchoringText>
+<image-wrap id="102118176648MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118176648MS_i_8.tif" id="ImgLink-8" />
+<caption>Estimated pseudo steady state productivity index and <i>P<sup>*</sup>
+</i> of Zone B</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Estimated pseudo steady state productivity index and P<sup>*</sup> of Zone B</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118176648MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118176648MS_i_8a.tif" id="ImgLink-8a" />
+</image-wrap>
+<image-wrap id="102118176648MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118176648MS_i_8b.tif" id="ImgLink-8b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">The calculated, finely sampled rate for an individual zone filters further into the stabilized flow rate through a custom algorithm to identify the stable flow regimes. The plots on the right (Figs. 7–10) show the identified stable rates represented by the bold dots while the solid line shows the calculated liquid rate. The plots on the left (Figs. 7–10) show IPR curves that are automatically generated in the software to estimate PI and P* in each of the A, B, C, and D zones (Figs. 7–10). The PI and P* update in real time whenever there is a new stable flow regime identified and a pseudo-steady pressure point is sampled.</anchoringText>
+<image-wrap id="102118176648MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118176648MS_i_9.tif" id="ImgLink-9" />
+<caption>Estimated pseudo steady state productivity index and <i>P<sup>*</sup>
+</i> of Zone C</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Estimated pseudo steady state productivity index and P<sup>*</sup> of Zone C</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118176648MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118176648MS_i_9a.tif" id="ImgLink-9a" />
+</image-wrap>
+<image-wrap id="102118176648MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118176648MS_i_9b.tif" id="ImgLink-9b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">The calculated, finely sampled rate for an individual zone filters further into the stabilized flow rate through a custom algorithm to identify the stable flow regimes. The plots on the right (Figs. 7–10) show the identified stable rates represented by the bold dots while the solid line shows the calculated liquid rate. The plots on the left (Figs. 7–10) show IPR curves that are automatically generated in the software to estimate PI and P* in each of the A, B, C, and D zones (Figs. 7–10). The PI and P* update in real time whenever there is a new stable flow regime identified and a pseudo-steady pressure point is sampled.</anchoringText>
+<image-wrap id="102118176648MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118176648MS_i_10.tif" id="ImgLink-10" />
+<caption>Estimated pseudo steady state productivity index and <i>P<sup>*</sup>
+</i> of Zone D</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Estimated pseudo steady state productivity index and P<sup>*</sup> of Zone D</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118176648MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118176648MS_i_10a.tif" id="ImgLink-10a" />
+</image-wrap>
+<image-wrap id="102118176648MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118176648MS_i_10b.tif" id="ImgLink-10b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">The resulting productivity index and reservoir pressure of the four zones automatically publish into the wellbore model, and, at the end of the 6-month period, a choke optimization run is performed. Using the operator’s production constraints, even drawdown across four zones was achieved, and the software provided recommend valve positions and their expected production rates for each of the zones (Fig. 11).</anchoringText>
+<image-wrap id="102118176648MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118176648MS_i_11.tif" id="ImgLink-11" />
+<caption>Valve position optimization results</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Valve position optimization results</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

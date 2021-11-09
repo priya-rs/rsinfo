@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118180093MS.txt" extractionDate="2021-03-19T16:45:30Z">
+<doi>10.2118/180093-MS</doi>
+<pii>10.2118/180093-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="5">
+<table-wrap id="102118180093MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Table 1 summarizes the average fluid properties of each reservoir. The gas/oil ratio is greater in the Napo T reservoir than in the other reservoirs; however, the oil viscosity is also greater in comparison with the Hollin and Basal Tena reservoirs.</anchoringText>
+<label>Table 1</label>
+<caption>Summary of reservoir properties, Lago Agrio field.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Summary of reservoir properties, Lago Agrio field.</caption-text>
+</formatted-caption>
+<table id="102118180093MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Formation</th>
+<th valign="bottom" align="center">API
+</th>
+<th valign="bottom" align="center">Gas in solution, scf/stb</th>
+<th valign="bottom" align="center">Datum, ft TVDSS</th>
+<th valign="bottom" align="center">Initial pressure, psi</th>
+<th valign="bottom" align="center">Current pressure, psi</th>
+<th valign="bottom" align="center">Initial oil formation volume (Boi), rb/stb</th>
+<th valign="bottom" align="center">Oil viscosity, cP</th>
+<th valign="bottom" align="center">Porosity (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Lower and Upper Hollin</td>
+<td valign="bottom" align="center">28</td>
+<td valign="bottom" align="center">188</td>
+<td valign="bottom" align="center">9,100</td>
+<td valign="bottom" align="center">4,400</td>
+<td valign="bottom" align="center">4,300-3,600</td>
+<td valign="bottom" align="center">1.167</td>
+<td valign="bottom" align="center">1.57</td>
+<td valign="bottom" align="center">12.9-14.0</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Napo T</td>
+<td valign="bottom" align="center">32</td>
+<td valign="bottom" align="center">264</td>
+<td valign="bottom" align="center">8,890</td>
+<td valign="bottom" align="center">4,240</td>
+<td valign="bottom" align="center">750-2,000</td>
+<td valign="bottom" align="center">1.219</td>
+<td valign="bottom" align="center">4.33</td>
+<td valign="bottom" align="center">12.1-12.2</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Napo U</td>
+<td valign="bottom" align="center">28</td>
+<td valign="bottom" align="center">120</td>
+<td valign="bottom" align="center">8,670</td>
+<td valign="bottom" align="center">4,140</td>
+<td valign="bottom" align="center">700-2,200</td>
+<td valign="bottom" align="center">1.240</td>
+<td valign="bottom" align="center">4.05</td>
+<td valign="bottom" align="center">10.9-13.0</td>
+</tr>
+<tr>
+<td align="left">Basal Tena</td>
+<td align="center">27
+</td>
+<td align="center">198</td>
+<td align="center">7,955</td>
+<td align="center">3,300-3,800</td>
+<td align="center">600-3,200</td>
+<td align="center">1.1863</td>
+<td align="center">2.86</td>
+<td align="center">14.6</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="2" data-type-order="7">
+<table-wrap id="102118180093MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The analysis continued for active wells and for inactive wells with a mechanical possibility of reactivation or reentry drilling. The petrophysical analysis was performed on all potential reservoirs to determine the parameters of the reservoir rock and to visualize all possible intervention scenarios to increase production. Table 2 provides an example of the summary that was made to identify potential zones by well. It shows the potential of each zone by combining rock properties and production and are color-coded as the following: tested prospective zones currently in production (bright yellow), tested prospective zones without production (green), untested prospective zones (orange), and tested zones currently plugged or squeezed (light yellow).</anchoringText>
+<label>Table 2</label>
+<caption>Example summary of tested and prospective zones in Lago Agrio field.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Example summary of tested and prospective zones in Lago Agrio field.</caption-text>
+</formatted-caption>
+<table id="102118180093MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" align="center">Well
+</th>
+<th colspan="7" valign="bottom" align="center">Reservoir</th>
+<th valign="bottom" align="center">Visualization</th>
+<th valign="bottom" align="center">Conceptualization</th>
+</tr>
+<tr>
+<th valign="bottom" align="center">Basal Tena</th>
+<th valign="bottom" align="center">Upper U</th>
+<th valign="bottom" align="center">Lower U</th>
+<th valign="bottom" align="center">Upper T</th>
+<th valign="bottom" align="center">Lower T</th>
+<th valign="bottom" align="center">Upper Hollin</th>
+<th valign="bottom" align="center">Lower Hollin</th>
+<th valign="bottom" align="center">Well status</th>
+<th valign="bottom" align="center">Well status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">LGA-004</td>
+<td valign="bottom" align="center" bgcolor="#92D14F">0.00</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center" bgcolor="#FF9900">
+</td>
+<td valign="bottom" align="center" bgcolor="#92D14F">0.00</td>
+<td valign="bottom" align="center" bgcolor="#92D14F">0.00</td>
+<td valign="bottom" align="center" bgcolor="#FDFEA7">2.28</td>
+<td valign="top" align="center">
+</td>
+<td align="left">Active</td>
+<td align="left">Inactive</td>
+</tr>
+<tr>
+<td align="center">LGAA-007</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center" bgcolor="#FF9900">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center" bgcolor="#92D14F">0.00</td>
+<td valign="bottom" align="center" bgcolor="#92D14F">0.00</td>
+<td valign="bottom" align="center" bgcolor="#FDFEA7">2.00</td>
+<td valign="top" align="center" bgcolor="#FDFEA7">
+</td>
+<td align="left">Inactive</td>
+<td align="left">Inactive</td>
+</tr>
+<tr>
+<td align="center">
+<b>LGA-013</b>
+</td>
+<td align="center" bgcolor="#FDFEA7">0.00</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td align="center" bgcolor="#FDFEA7">0.12</td>
+<td align="center" bgcolor="#FDFEA7">1.26</td>
+<td align="center" bgcolor="#FDFEA7">1.96</td>
+<td align="left">Active</td>
+<td align="left">Inactive</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">LGA-014</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center" bgcolor="#92D14F">0.00</td>
+<td valign="bottom" align="center" bgcolor="#FDFEA7">0.44</td>
+<td valign="bottom" align="center" bgcolor="#FDFEA7">1.33</td>
+<td valign="bottom" align="left">Inactive</td>
+<td valign="bottom" align="left">Inactive</td>
+</tr>
+<tr>
+<td align="center">LGA-021</td>
+<td align="center" bgcolor="#FDFEA7">0.10</td>
+<td align="center" bgcolor="#FDFEA7">0.01</td>
+<td align="center" bgcolor="#FDFEA7">0.01</td>
+<td align="center" bgcolor="#FDFEA7">0.00</td>
+<td align="center" bgcolor="#FDFEA7">0.03</td>
+<td align="center" bgcolor="#FDFEA7">2.53</td>
+<td valign="top" align="center">
+</td>
+<td align="left">Inactive</td>
+<td align="left">Inactive</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">LGA-022</td>
+<td valign="bottom" align="center" bgcolor="#FFFF00">2.87</td>
+<td valign="bottom" align="center" bgcolor="#FDFEA7">0.39</td>
+<td valign="bottom" align="center" bgcolor="#FDFEA7">0.54</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center" bgcolor="#FDFEA7">0.50</td>
+<td valign="bottom" align="center" bgcolor="#FDFEA7">0.57</td>
+<td valign="bottom" align="center" bgcolor="#FDFEA7">1.72</td>
+<td valign="bottom" align="left">Active</td>
+<td valign="bottom" align="left">Active</td>
+</tr>
+<tr>
+<td align="center">
+<b>LGAE-024</b>
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td align="center" bgcolor="#FDFEA7">0.32</td>
+<td align="center" bgcolor="#FDFEA7">0.00</td>
+<td valign="top" align="center">
+</td>
+<td align="center" bgcolor="#FDFEA7">1.11</td>
+<td align="center" bgcolor="#FDFEA7">12.78</td>
+<td align="left">Active</td>
+<td align="left">Inactive</td>
+</tr>
+<tr>
+<td align="center">
+<b>LGA-025</b>
+</td>
+<td valign="top" align="center" bgcolor="#FF9900">
+</td>
+<td valign="top" align="center">
+</td>
+<td align="center" bgcolor="#FDFEA7">0.61</td>
+<td align="center" bgcolor="#FDFEA7">0.63</td>
+<td align="center" bgcolor="#92D14F">0.00</td>
+<td align="center" bgcolor="#FDFEA7">0.16</td>
+<td valign="top" align="center">
+</td>
+<td align="left">Active</td>
+<td align="left">Inactive</td>
+</tr>
+<tr>
+<td align="center">
+<b>LGAH-031</b>
+</td>
+<td valign="top" align="center" bgcolor="#FF9900">
+</td>
+<td align="center" bgcolor="#FDFEA7">0.13</td>
+<td align="center" bgcolor="#FDFEA7">0.17</td>
+<td align="center" bgcolor="#FDFEA7">0.02</td>
+<td align="center" bgcolor="#92D14F">0.00</td>
+<td align="center">0.01</td>
+<td align="center">0.33</td>
+<td align="left">Inactive</td>
+<td align="left">Inactive</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>LGA-034</b>
+</td>
+<td valign="bottom" align="center" bgcolor="#92D14F">0.00</td>
+<td valign="bottom" align="center" bgcolor="#FDFEA7">0.34</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center" bgcolor="#FDFEA7">0.13</td>
+<td valign="bottom" align="center" bgcolor="#FDFEA7">0.37</td>
+<td valign="bottom" align="center" bgcolor="#FDFEA7">1.19</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="left">Active</td>
+<td valign="bottom" align="left">Inactive</td>
+</tr>
+<tr>
+<td align="center">
+<b>LGA-036</b>
+</td>
+<td align="center" bgcolor="#FDFEA7">1.63</td>
+<td valign="top" align="center" bgcolor="#FF9900">
+</td>
+<td valign="top" align="center" bgcolor="#FF9900">
+</td>
+<td align="center" bgcolor="#FDFEA7">0.00</td>
+<td valign="top" align="center">
+</td>
+<td align="center" bgcolor="#92D14F">0.00</td>
+<td valign="top" align="center" bgcolor="#FF9900">
+</td>
+<td align="left">Inactive</td>
+<td align="left">Inactive</td>
+</tr>
+<tr>
+<td align="center">LGA-037</td>
+<td align="center" bgcolor="#FDFEA7">0.56</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td align="center" bgcolor="#92D14F">0.00</td>
+<td valign="top" align="center">
+</td>
+<td align="center" bgcolor="#92D14F">0.00</td>
+<td valign="top" align="center">
+</td>
+<td align="left">Inactve</td>
+<td align="left">Inactive</td>
+</tr>
+<tr>
+<td align="center">LGAJ-039</td>
+<td valign="top" align="center">
+</td>
+<td align="center" bgcolor="#FDFEA7">0.00</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td align="center" bgcolor="#FFFF00">2.64</td>
+<td align="center" bgcolor="#FDFEA7">0.00</td>
+<td align="left">Active</td>
+<td align="left">Active</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>LGA-041</b>
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center" bgcolor="#FF9900">
+</td>
+<td valign="bottom" align="center" bgcolor="#FDFEA7">1.31</td>
+<td valign="top" align="center" bgcolor="#FF9900">
+</td>
+<td valign="bottom" align="left">Active</td>
+<td valign="bottom" align="left">Inactive</td>
+</tr>
+<tr>
+<td align="center">LGAF-048D</td>
+<td align="center" bgcolor="#FDFEA7">0.00</td>
+<td align="center" bgcolor="#92D14F">0.00</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center" bgcolor="#FF9900">
+</td>
+<td align="center" bgcolor="#FDFEA7">0.33</td>
+<td valign="top" align="center" bgcolor="#FF9900">
+</td>
+<td align="left">Active</td>
+<td align="left">Inactive</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="12" table-order="3" data-type-order="13">
+<table-wrap id="102118180093MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">From the subsurface perspective (Table 3), all Lago Agrio field reservoirs have medium-low complexity. The definition, however, is critical, showing greater values for Basal Tena and Napo U sandstones, which indicates that intervention proposals with these targets have a greater level of risk than in the Hollin reservoir. The aspect that provides a greater complexity level to Napo T, Napo U, and Basal Tena reservoirs is the stratigraphy and facies variation (areal and vertical behavior of rock properties). Other complexities include volumetric reservoirs (Napo U reservoir) and low energy aquifers (Napo T or Basal Tena reservoir).</anchoringText>
+<label>Table 3</label>
+<caption>Subsurface and well technical risk results: Visualization phase.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Subsurface and well technical risk results: Visualization phase.</caption-text>
+</formatted-caption>
+<table id="102118180093MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="bottom" align="center">
+Reservoir
+</th>
+<th colspan="2" valign="bottom" align="center">Subsurface Evaluation</th>
+<th colspan="2" valign="bottom" align="center">Well Evaluation Tested Zones</th>
+<th colspan="2" valign="bottom" align="center">Well Evaluation Untested Zones</th>
+</tr>
+<tr>
+<th valign="bottom" align="center">Complexity</th>
+<th valign="bottom" align="center">Definition</th>
+<th valign="bottom" align="center">Complexity</th>
+<th valign="bottom" align="center">Definition</th>
+<th valign="bottom" align="center">Complexity</th>
+<th valign="bottom" align="center">Definition</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Hollin</td>
+<td valign="bottom" align="center">4.13</td>
+<td valign="bottom" align="center">9.94</td>
+<td valign="bottom" align="center">7.50</td>
+<td valign="bottom" align="center">6.33</td>
+<td valign="bottom" align="center">7.50</td>
+<td valign="bottom" align="center">16.33</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Napo T</td>
+<td valign="bottom" align="center">7.00</td>
+<td valign="bottom" align="center">10.31</td>
+<td valign="bottom" align="center">8.75</td>
+<td valign="bottom" align="center">6.33</td>
+<td valign="bottom" align="center">8.75</td>
+<td valign="bottom" align="center">17.67</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Napo U</td>
+<td valign="bottom" align="center">9.00</td>
+<td valign="bottom" align="center">12.25</td>
+<td valign="bottom" align="center">10.50</td>
+<td valign="bottom" align="center">6.33</td>
+<td valign="bottom" align="center">10.50</td>
+<td valign="bottom" align="center">20.67</td>
+</tr>
+<tr>
+<td align="left">Basal Tena</td>
+<td align="center">7.25</td>
+<td align="center">11.00</td>
+<td align="center">8.00</td>
+<td align="center">6.33</td>
+<td align="center">8.00</td>
+<td align="center">20.67</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="14" table-order="4" data-type-order="16">
+<table-wrap id="102118180093MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">Finally, some workovers were performed (Table 4), and the initial rate and other parameters (including reservoir pressure, permeability, and skin) were corroborated/calibrated.</anchoringText>
+<label>Table 4</label>
+<caption>Summary of executed workovers as a result of this project in Lago Agrio field.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Summary of executed workovers as a result of this project in Lago Agrio field.</caption-text>
+</formatted-caption>
+<table id="102118180093MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th align="center">Well
+</th>
+<th align="center">Main Target FEL
+</th>
+<th align="center">Target during Execution</th>
+<th align="center">Workover Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">LGAH-031</td>
+<td valign="bottom" align="left">Lower T</td>
+<td valign="bottom" align="left">Lower and Upper T</td>
+<td valign="bottom" align="left">Hydrajet perforating, conventional hydraulic fracturing</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">LGA-034</td>
+<td valign="bottom" align="left">Lower T</td>
+<td valign="bottom" align="left">Lower T, Lower and Upper U</td>
+<td valign="bottom" align="left">Surgifrac</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">LGA-013</td>
+<td valign="bottom" align="left">Upper Hollin</td>
+<td valign="bottom" align="left">Upper Hollin</td>
+<td valign="bottom" align="left">Wireline perforating, conventional hydraulic fracturing, RPM, sealant</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">LGAE-024</td>
+<td valign="bottom" align="left">Upper and Lower Hollin</td>
+<td valign="bottom" align="left">Upper and Lower Hollin</td>
+<td valign="bottom" align="left">Hydrajet perforating, conventional hydraulic fracturing</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">LGA-041</td>
+<td valign="bottom" align="left">Lower T</td>
+<td valign="bottom" align="left">Lower T</td>
+<td valign="bottom" align="left">Surgifrac, RPM</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">LGA-036</td>
+<td valign="bottom" align="left">Upper Hollin</td>
+<td valign="bottom" align="left">Upper Hollin</td>
+<td valign="bottom" align="left">Hydrajet perforating, conventional hydraulic fracturing, RPM</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">LGA-037</td>
+<td valign="bottom" align="left">Upper Hollin</td>
+<td valign="bottom" align="left">Upper Hollin</td>
+<td valign="bottom" align="left">Hydrajet perforating, conventional hydraulic fracturing</td>
+</tr>
+<tr>
+<td align="left">LGA-025</td>
+<td align="left">Upper Hollin</td>
+<td align="left">Basal Tena</td>
+<td align="left">TCP guns</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187779MS.txt" extractionDate="2021-03-24T17:47:22Z">
+<doi>10.2118/187779-MS</doi>
+<pii>10.2118/187779-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">The multi-azimuth 3D survey from 2015 has the CDP order of 140 and the aspect ratio of 1, which make it possible to use ES360 full-azimuth angle domain imaging and AVAZ inversion to study anisotropic behaviour of the reservoir. The seismic cube resulting from ES360 imaging is significantly more detailed and was used for creation of a structural tectonic model of the reservoir. We have completed structural interpretation of the seismic cube mapped using ES360 full-azimuth angle domain imaging; the updated structural tectonic model is also shown on figure 1.</anchoringText>
+<image-wrap id="102118187779MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118187779MS_i_1.tif" id="ImgLink-1" />
+<caption>Structural map of preneogenic basement</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Structural map of preneogenic basement</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">The figure 2 demonstrates the comparison between conventional PSTM data and advanced ES360 migration. PSTM data includes reflection amplitudes, diffracted energy, migration artefacts, and contains errors in reflection dips and azimuths caused by velocity model not corrected for azimuthal moveout. The reflected component obtained by directional stacks thus contains real boundaries, dips and azimuths. The ES360 image clearly shows the intrapaleozoic boundaries thus making structural interpretation less challengeable.</anchoringText>
+<image-wrap id="102118187779MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118187779MS_i_2.tif" id="ImgLink-2" />
+<caption>the comparison between conventional PSTM data (left picture) and advanced ES360 migration (right picture)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>the comparison between conventional PSTM data (left picture) and advanced ES360 migration (right picture)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187779MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118187779MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>the comparison between conventional PSTM data</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187779MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118187779MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>advanced ES360 migration</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Productive intervals were detected based on comprehensive analysis of resistivity logs, acoustic logging and analysis of bulk density. Further classification of interval was based on the parameters of overall porosity, BI and the discrepancies between the modelled and measured acoustic logging curves. Figure 3 shows the results of petrophysical interpretation for one of the wells on the studied field. Yellow highlight marks the suggested perforation intervals based on storage properties and presence of fractures. Production history shows that such intervals provide high and long-term flow rate.</anchoringText>
+<image-wrap id="102118187779MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118187779MS_i_3.tif" id="ImgLink-3" />
+<caption>Layout for one of the wells of the studied field; left to right: gamma-ray curve; volumetric mineral model; T2 distribution; total porosity (green curve) and brittleness index (red curve); WBI data; density of natural and induced fractures per meter of depth; actual perforations; intervals with storage properties, intervals with storage properties and fractures, intervals with fractures; suggested perforation intervals.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Layout for one of the wells of the studied field; left to right: gamma-ray curve; volumetric mineral model; T2 distribution; total porosity (green curve) and brittleness index (red curve); WBI data; density of natural and induced fractures per meter of depth; actual perforations; intervals with storage properties, intervals with storage properties and fractures, intervals with fractures; suggested perforation intervals.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">The Paleozoic formation consists of several regions with different oil water contacts that are separated by sealing faults. Each separated region is divided by semi-sealing faults which affect pressure distribution in the region. Estimated five reservoir regions are shown on figure 4.</anchoringText>
+<image-wrap id="102118187779MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118187779MS_i_4.tif" id="ImgLink-4" />
+<caption>Estimated five regions using pressure trends</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Estimated five regions using pressure trends</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">The region 1 is bounded by sealing faults which were confirmed by pressure trend during water injection period (figure 5).</anchoringText>
+<image-wrap id="102118187779MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118187779MS_i_5.tif" id="ImgLink-5" />
+<caption>Recorded pressure in the region 1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Recorded pressure in the region 1</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">Significant incremental of reservoir pressure was caused by waterflooding period, because the produced volume of the region 1 was compensated by twenty times higher injected volume and the region 1 was overpressurized. The main region 2 is located in the central part of the Paleozoic formation. According to recorded pressure the region 2 is divided by semi-sealing faults. The semi-sealing faults affect pressure distribution in each sub-region and the pressure trends are similar but shifted for +/-ΔP (figure 6).</anchoringText>
+<image-wrap id="102118187779MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118187779MS_i_6.tif" id="ImgLink-6" />
+<caption>Recorded pressure trend caused by semi-sealing faults in the region 2</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Recorded pressure trend caused by semi-sealing faults in the region 2</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">The period of observation has been for one year and there were not production wells in the region 3. The wells W12 and W31 were producers and W21 was pressure observed well in the region 2. On the other hand, the wells W37 and W40 were tested and then shut for build-up in observed period of one year. Continuously pressure decline was recorded in observed wells located in the region 2, but also pressure build-up could be clearly seen in observed wells located in the region 3. Therefore, recorded reservoir pressure in the region 3 in 1994 was equal to initial pressure. Figure 7 shows analysed pressure trends in observed period.</anchoringText>
+<image-wrap id="102118187779MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118187779MS_i_7.tif" id="ImgLink-7" />
+<caption>Observed pressure in the region 2 and region 3</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Observed pressure in the region 2 and region 3</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">The sealing boundary was additionally confirmed by recorded water salinity, whereas 6 g/l average water salinity was recorded in the region 3. On the other hand, average water salinity of the rest Paleozoic formation was 12 g/l. Recorded water salinities are shown on figure 8. According to the pressure trends analyses and water salinity analysis the boundary between the region 2 and region 3 is classified by tight narrowed zone.</anchoringText>
+<image-wrap id="102118187779MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118187779MS_i_8.tif" id="ImgLink-8" />
+<caption>Recorded water salinity</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Recorded water salinity</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">In the same time the pressure was continuously observed by upper perforated interval using installed pressure gauge. Vertical puls test was conducted by five production period and four shut in period. Decreasing recorded pressure in upper observed interval was caused by production period in lower interval. On the other hand, increasing recorded pressure in upper observed interval was caused by shut in period in lower interval. Obviously, upper and lower zones are connected. Single well vertical puls test is shown on the figure 9.</anchoringText>
+<image-wrap id="102118187779MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118187779MS_i_9.tif" id="ImgLink-9" />
+<caption>Single well vertical puls test</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Single well vertical puls test</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">The results obtained by single well vertical puls test can be confirmed by additional analyses of historic pressure and well events such as perforation and squeeze events. Eight wells were used for historic preesure and wells events analyses. The summarized results are shown on the figure 10.</anchoringText>
+<image-wrap id="102118187779MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118187779MS_i_10.tif" id="ImgLink-10" />
+<caption>Pressure and well events analyses</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Pressure and well events analyses</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">The general developed trend is represented by relationship between productivity index or injectivity index and depth of perforated intervals. In the beginning of historic production productivity index of twenty-nine naturally flowing wells and injectivity index of nine injectors were estimated by welltest. The tested producers and injectors were perforated in different intervals from lower to upper zones of the Paleozoic formation. Based on welltest, productivity and injectivity index approximately increase ten times from lower to upper zones of the Paleozoic formation (figure 11).</anchoringText>
+<image-wrap id="102118187779MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118187779MS_i_11.tif" id="ImgLink-11" />
+<caption>Productivity index of naturally flowing wells and injectivity index of injectors</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Productivity index of naturally flowing wells and injectivity index of injectors</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">The pressure will be supported from one part of reservoir to the other part of reservoir as one of them is depleted. Material balance in the naturally fractured and faulted Paleozoic formation was performed by multiple tanks considering semi-sealing faults as transmissibility between two tanks. Material balance shows a good pressure history match for a weak water drive. An example of used material balance in separated region confirms estimated global pressure trend (figure 12).</anchoringText>
+<image-wrap id="102118187779MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118187779MS_i_12.tif" id="ImgLink-12" />
+<caption>Pressure trends estimated by material balance in the separated regions</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Pressure trends estimated by material balance in the separated regions</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">The hydraulic fractures are safely unlocking reserves of oil that are located in unconnected natural fractures. Due to better connection between hydraulic fracture and interconnected fracture network estimated ultimate oil recovery is significant increased. Obviously oil production improvement is achieved by massive hydraulically fracturing campaign. The hydraulic fractured intervals were designed by new log interpretation, that can identify porous and naturally fractured zones. Figure 13 shows estimated ultimate recovery with and without hydraulic fractured wells respectively.</anchoringText>
+<image-wrap id="102118187779MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118187779MS_i_13.tif" id="ImgLink-13" />
+<caption>Estimated ultimate recovery with/without hydraulic fracturing</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Estimated ultimate recovery with/without hydraulic fracturing</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185724MS.txt" extractionDate="2021-03-29T10:20:49Z">
+<doi>10.2118/185724-MS</doi>
+<pii>10.2118/185724-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr5">Production-based methods include the use of rate-transient analysis (RTA) techniques, in which models for simulating fluid flow are applied in inverse mode to extract reservoir and hydraulic fracture properties from flow rates and flowing pressures (Clarkson 2013). Historically RTA methods have been applied primarily to production data obtained after the initial "cleanup" period (ideally after 6-12 months of production) following hydraulic fracture stimulation (e.g. online or long-term production data); recently, practitioners have attempted to apply these techniques to flowback data, which often is initially dominated by hydraulic fracture fluid production, after which reservoir fluid production becomes dominant (Clarkson et al. 2014). The timing of the flowback and production periods is illustrated in Fig. 1.</anchoringText>
+<image-wrap id="102118185724MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118185724MS_i_1.tif" id="ImgLink-1" />
+<caption>Illustration of the sequence of events during the production life of a well from hydraulic fracture stimulation through flowback and online production. Modified from Alkouh et al. (2013).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Illustration of the sequence of events during the production life of a well from hydraulic fracture stimulation through flowback and online production. Modified from <link href="BIB1">Alkouh et al. (2013)</link>.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-9" type="bib">
+<bib id="BIB1">
+<label>Alkouh et al., 2013</label>
+<author>
+<first-name>A. B.</first-name>
+<last-name>Alkouh</last-name>
+</author>, <author>
+<first-name>S. F.</first-name>
+<last-name>Mcketta</last-name>
+</author>, and <author>
+<first-name>R. A.</first-name>
+<last-name>Wattenbarger</last-name>
+</author>
+<pubDate>2013</pubDate>. <article-title>Estimation of Fracture Volume Using Water Flowback and Production Data for Shale Gas Wells. Paper SPE 166279 presented at the SPE Annual Technical Conference and Exhibition held in the New Orleans, Louisiana, USA, 30 September –2 October </article-title>. SPE-166279-MS. http://dx.doi.org/10.2118/166279-MS.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr6">The conceptual model used in the DDA method is illustrated in Fig. 2. Each fracturing stage is assumed to be comprised of a primary hydraulic fracture (PHF), which is the conductive induced fracture assumed to contain the majority of the proppant, and an adjacent reservoir region that is comprised of either: 1) reservoir that has had its permeability enhanced due to (for example) natural fracture reactivation during the stimulation treatment (enhanced fracture region or EFR) or 2) a non-stimulated reservoir region where the native-state reservoir properties exist (non-stimulated region or NSR).</anchoringText>
+<image-wrap id="102118185724MS-Img_SPi-2">
+<label>Figure 2</label>
+<imageLink type="mediaResource" href="102118185724MS_i_2.tif" id="ImgLink-2" />
+<caption>Conceptual model used in the development of the dynamic drainage area (DDA) flowback simulator of Clarkson et al. (2016b) for tight oil wells. The model assumes that, for each hydraulic fracturing stage, there is a primary hydraulic fracture (PHF) and adjacent reservoir which may have an elevated permeability due to (for example) reactivation of natural fractures (referred to herein as an enhanced fracture region, EFR). Alternatively, where fracture complexity is limited, the adjacent reservoir may not be stimulated (referred to herein as non-stimulated reservoir, NSR). At early time during flowback (left), assuming the initial fluid pressure in the fracture is equal to that in the reservoir, fluid flow in the PHF and adjacent EFR/NSR is modeled by estimating the distance of investigation (DOI) in both regions at each timestep (<i>x<sub>inv1</sub></i> and <i>y<sub>inv1</sub></i> for timestep 1), then solving coupled flow/material balance equations in each region for fluid flow rate, pressure and saturation. Once <i>x<sub>inv</sub></i> = <i>x<sub>f</sub></i> (right) then fluid flow from the matrix to the fracture is modeled by estimating the DOI in the EFR/NSR at each timestep (<i>y<sub>inv2</sub></i> for timestep 2), then solving the coupled flow/material balance equations in that region for flow rate, pressure and saturation.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>—Conceptual model used in the development of the dynamic drainage area (DDA) flowback simulator of <link href="BIB2">Clarkson et al. (2016b)</link> for tight oil wells. The model assumes that, for each hydraulic fracturing stage, there is a primary hydraulic fracture (PHF) and adjacent reservoir which may have an elevated permeability due to (for example) reactivation of natural fractures (referred to herein as an enhanced fracture region, EFR). Alternatively, where fracture complexity is limited, the adjacent reservoir may not be stimulated (referred to herein as non-stimulated reservoir, NSR). At early time during flowback (left), assuming the initial fluid pressure in the fracture is equal to that in the reservoir, fluid flow in the PHF and adjacent EFR/NSR is modeled by estimating the distance of investigation (DOI) in both regions at each timestep (x<sub>inv1</sub> and y<sub>inv1</sub> for timestep 1), then solving coupled flow/material balance equations in each region for fluid flow rate, pressure and saturation. Once x<sub>inv</sub> = x<sub>f</sub> (right) then fluid flow from the matrix to the fracture is modeled by estimating the DOI in the EFR/NSR at each timestep (y<sub>inv2</sub> for timestep 2), then solving the coupled flow/material balance equations in that region for flow rate, pressure and saturation.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185724MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118185724MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>assuming the initial fluid pressure in the fracture is equal to that in the reservoir, fluid flow in the PHF and adjacent EFR/NSR is modeled by estimating the distance of investigation (DOI) in both regions at each timestep (<i>x<sub>inv1</sub></i> and <i>y<sub>inv1</sub></i> for timestep 1), then solving coupled flow/material balance equations in each region for fluid flow rate, pressure and saturation. Once <i>x<sub>inv</sub></i> = <i>x<sub>f</sub></i></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185724MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118185724MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>then fluid flow from the matrix to the fracture is modeled by estimating the DOI in the EFR/NSR at each timestep (<i>y<sub>inv2</sub></i> for timestep 2), then solving the coupled flow/material balance equations in that region for flow rate, pressure and saturation.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-10" type="bib">
+<bib id="BIB2">
+<label>Clarkson and Qanbari, 2016b</label>
+<author>
+<first-name>C. R.</first-name>
+<last-name>Clarkson</last-name>
+</author> and <author>
+<first-name>F.</first-name>
+<last-name>Qanbari</last-name>
+</author>, and Williams-Kovacs, J.D. <pubDate>2016b</pubDate>. <article-title>Semi-Analytical Model for Matching Flowback and Early-Time Production of Multi-Fractured Horizontal Tight Oil Wells </article-title>. <journal-title><i>J. Unc. Oil Gas Res. </i></journal-title><volume>15</volume>: <pages><first-page>134</first-page><last-page>145</last-page></pages>. http://dx.doi.org/10.1016/j.juogr.2016.07.002.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr7">A comparison between the DDA model and numerical model predictions of leakoff rate is provided in Fig 3. The DDA model tends to overestimate early time leakoff rates, and underestimate late time leakoff rates, but the two models generally agree within 20% error over the 20-day test period.</anchoringText>
+<image-wrap id="102118185724MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118185724MS_i_3.tif" id="ImgLink-3" />
+<caption>Comparison of water leakoff rates from a single fracture into the reservoir derived from the DDA model and numerical reservoir simulation during water injection into a static fracture.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Comparison of water leakoff rates from a single fracture into the reservoir derived from the DDA model and numerical reservoir simulation during water injection into a static fracture.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr8">Prior to performing the frac modeling operation, the fracture geometry for the studied MFHW was first assessed from microseismic data (Fig. 4). The data suggest that the stimulation treatment (details of which are withheld to preserve operator confidentiality) resulted in low-complexity (mostly planar) fractures with a consistent NE-SW orientation. This information justified the choice of a simple planar hydraulic fracture model for estimating PHF properties.</anchoringText>
+<image-wrap id="102118185724MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118185724MS_i_4.tif" id="ImgLink-4" />
+<caption>Map view of microseismic data collected for studied well. The fractures are interpreted to be relatively low-complexity (mostly planar) with a NE/SW orientation. The superimposed ruler highlights the stage used for illustrating (planar) hydraulic fracture model results. Note 1 m = 3.28 ft.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Map view of microseismic data collected for studied well. The fractures are interpreted to be relatively low-complexity (mostly planar) with a NE/SW orientation. The superimposed ruler highlights the stage used for illustrating (planar) hydraulic fracture model results. Note 1 m = 3.28 ft.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr9">Using the fracture treatment data, and the model inputs provided in Table 2, the Valko HF2D frac design spreadsheet was used to estimate fracture length and width as a function of pumping time (Fig. 5). The fracture half-length at the end of pumping is estimated to be ~ 450 ft, and fracture width ~ 0.12 inches. Frac height is assumed to be equal to net pay thickness. Independent fracture modeling performed by a service provider using the Gohfer software (not shown) resulted in propped fracture half-lengths consistent with those determined using the Valko model. The resulting frac geometry is assumed to correspond to that for the PHF region.</anchoringText>
+<image-wrap id="102118185724MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118185724MS_i_5.tif" id="ImgLink-5" />
+<caption>Fracture half-length and average fracture width calculated as a function of pumping time using the Valko HF2D frac design spreadsheet.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Fracture half-length and average fracture width calculated as a function of pumping time using the Valko HF2D frac design spreadsheet.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr10">The procedure for modeling fracture propagation and leakoff discussed in the Theory and Methods section was then applied to the field case. Using the estimated bottomhole pressures during the fracture treatment (Fig. 6a), the leakoff rate during fracture propagation was first calculated using the DDA model. For this purpose, fracture propagation during the 30 minute pump time was constrained by the HF2D fracture model (Fig. 5), and the DDA model used to calculate leakoff from the PHF to the NSR (Fig. 6b). Reservoir properties were adopted from the flowback modeling of Clarkson et al. (2016b) (Table 3).</anchoringText>
+<image-wrap id="102118185724MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118185724MS_i_6.tif" id="ImgLink-6" />
+<caption>(a) Estimated bottomhole pressures obtained during the fracture treatment for use in leakoff modeling; (b) leakoff rates during the fracture treatment calculated using the DDA leakoff model.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>(a) Estimated bottomhole pressures obtained during the fracture treatment for use in leakoff modeling; (b) leakoff rates during the fracture treatment calculated using the DDA leakoff model.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185724MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118185724MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Estimated bottomhole pressures obtained during the fracture treatment for use in leakoff modeling;</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185724MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118185724MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>leakoff rates during the fracture treatment calculated using the DDA leakoff model.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="12" figure-order="7" data-type-order="10">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr11">At the end of fracture propagation, assuming a static fracture length consistent with that derived from the frac model (450 ft), the DDA model was then used calculate frac fluid leakoff to the NSR over the 12-day shut-in period prior to flowback. As noted in the Theory and Methods section, the current version of the DDA model uses fracture pressure as a constraint; however, the pressure in the fracture during the shut-in pressure was not available and therefore was extrapolated from the last bottomhole pressure obtained from the frac treatment (6082 psi) to the frac pressure (5000 psi) used at the start of the flowback history-match by Clarkson et al. (2016b) (Fig. 7a).</anchoringText>
+<image-wrap id="102118185724MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118185724MS_i_7.tif" id="ImgLink-7" />
+<caption>(a) Estimated (extrapolated) bottomhole pressures between the end of fracture treatment and start of flowback (the shut-in period) are shown as well as the pressures during the fracture treatment; (b) leakoff rates calculated using the DDA leakoff model.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>(a) Estimated (extrapolated) bottomhole pressures between the end of fracture treatment and start of flowback (the shut-in period) are shown as well as the pressures during the fracture treatment; (b) leakoff rates calculated using the DDA leakoff model.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185724MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118185724MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Estimated (extrapolated) bottomhole pressures between the end of fracture treatment and start of flowback (the shut-in period) are shown as well as the pressures during the fracture treatment;</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185724MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118185724MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>leakoff rates calculated using the DDA leakoff model.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="6" pdf-page="14" figure-order="8" data-type-order="12">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr12">As noted above, because of the small amount of fluid leakoff, and current limitations of the DDA model, the calculated increase in water saturation in the NSR post-fracture treatment is negligible, meaning that the resulting flowback data match with the DDA model is similar to the original provided by Clarkson et al. (2016b) –for completeness, the match to flowback water, oil and gas rates is shown in Fig. 8, using input data provided in Table 4. The exact same model inputs as used by Clarkson et al. (2016b) are used here, except for the slightly elevated water saturation in the NSR.</anchoringText>
+<image-wrap id="102118185724MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118185724MS_i_8.tif" id="ImgLink-8" />
+<caption>DDA flowback model match of (a) water rates, (b) water cumulative production, (c) oil rates, (d) oil cumulative production, (e) gas rates, (f) and gas cumulative production for the subject MFHW. Modified from Clarkson et al. (2016b).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>DDA flowback model match of (a) water rates, (b) water cumulative production, (c) oil rates, (d) oil cumulative production, (e) gas rates, (f) and gas cumulative production for the subject MFHW. Modified from <link href="BIB3">Clarkson et al. (2016b)</link>.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185724MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118185724MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>water rates,</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185724MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118185724MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>water cumulative production,</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185724MS-Img_SPi-8c">
+<imageLink type="mediaResource" href="102118185724MS_i_8c.tif" id="ImgLink-8c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>oil rates,</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185724MS-Img_SPi-8d">
+<imageLink type="mediaResource" href="102118185724MS_i_8d.tif" id="ImgLink-8d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>oil cumulative production, (e) gas rates, (f) and gas cumulative production for the subject MFHW</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185724MS-Img_SPi-8e">
+<imageLink type="mediaResource" href="102118185724MS_i_8e.tif" id="ImgLink-8e" />
+<figure-specific-caption>
+<caption-order>e</caption-order>
+<caption-text>gas rates</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185724MS-Img_SPi-8f">
+<imageLink type="mediaResource" href="102118185724MS_i_8f.tif" id="ImgLink-8f" />
+<figure-specific-caption>
+<caption-order>f</caption-order>
+<caption-text>and gas cumulative production for the subject MFHW</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-10" type="bib">
+<bib id="BIB3">
+<label>Clarkson and Qanbari, 2016b</label>
+<author>
+<first-name>C. R.</first-name>
+<last-name>Clarkson</last-name>
+</author> and <author>
+<first-name>F.</first-name>
+<last-name>Qanbari</last-name>
+</author>, and Williams-Kovacs, J.D. <pubDate>2016b</pubDate>. <article-title>Semi-Analytical Model for Matching Flowback and Early-Time Production of Multi-Fractured Horizontal Tight Oil Wells </article-title>. <journal-title><i>J. Unc. Oil Gas Res. </i></journal-title><volume>15</volume>: <pages><first-page>134</first-page><last-page>145</last-page></pages>. http://dx.doi.org/10.1016/j.juogr.2016.07.002.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

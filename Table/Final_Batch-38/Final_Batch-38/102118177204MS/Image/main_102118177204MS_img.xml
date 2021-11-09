@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118177204MS.txt" extractionDate="2021-03-16T09:38:13Z">
+<doi>10.2118/177204-MS</doi>
+<pii>10.2118/177204-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">The objective of this project was to define the optimum exploitation strategy and maximize the recovery factor through different simulation studies with Integrated Asset Modeling approach to evaluate a mature field under reactivation (FDP), water injection as secondary recovery due high pressure decline, for the current operating wells, the definition of the artificial lift strategy was needed to maintain production. Different strategies were evaluated (Figure 1) considering actions to mitigate all these challenges mentioned above taking into account the effects related with: open new wells to production, water injection, artificial lift systems, etc.</anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_1.tif" id="ImgLink-1" />
+<caption>Field strategy integration</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Field strategy integration</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">Field [1]A[1] was discovered in 1984 and is located in the south region of Mexico with an initial reservoir estimated area of 3.1 km2 (figure 2). The formation is sandstone producing oil of 32° API, and average porosity of 24%, and permeability of 975 mD. The estimation of gross and net thickness was of 48 and 35 m, respectively; while the average field depth was around the 2000 m (Figure 3). In terms of fluid, two wells with PVT analysis were used.</anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_2.tif" id="ImgLink-2" />
+<caption>Reservoir Map</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Reservoir Map</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Field [1]A[1] was discovered in 1984 and is located in the south region of Mexico with an initial reservoir estimated area of 3.1 km2 (figure 2). The formation is sandstone producing oil of 32° API, and average porosity of 24%, and permeability of 975 mD. The estimation of gross and net thickness was of 48 and 35 m, respectively; while the average field depth was around the 2000 m (Figure 3). In terms of fluid, two wells with PVT analysis were used.</anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_3.tif" id="ImgLink-3" />
+<caption>General Reservoir properties</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>General Reservoir properties</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">For the purposes of this work the detailed description of how the static model was built and all the criteria used will not be stated, however the main output will be discussed as it is an input for the dynamic model. (Cross section Arena 1, Figure 4; Petrophysical properties distribution, Figure 5 and 6; Appendix A)</anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_4.tif" id="ImgLink-4" />
+<caption>Cross section for wells in Sand A1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Cross section for wells in Sand A1</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">For the purposes of this work the detailed description of how the static model was built and all the criteria used will not be stated, however the main output will be discussed as it is an input for the dynamic model. (Cross section Arena 1, Figure 4; Petrophysical properties distribution, Figure 5 and 6; Appendix A)</anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_5.tif" id="ImgLink-5" />
+<caption>Permeability and Porosity distribution for Sand A1 and A2</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Permeability and Porosity distribution for Sand A1 and A2</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118177204MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118177204MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Permeability A1</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118177204MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118177204MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Permeability A2</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118177204MS-Img_SPi-5c">
+<imageLink type="mediaResource" href="102118177204MS_i_5c.tif" id="ImgLink-5c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Porosity A1</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118177204MS-Img_SPi-5d">
+<imageLink type="mediaResource" href="102118177204MS_i_5d.tif" id="ImgLink-5d" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Porosity A2</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="7" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">For the purposes of this work the detailed description of how the static model was built and all the criteria used will not be stated, however the main output will be discussed as it is an input for the dynamic model. (Cross section Arena 1, Figure 4; Petrophysical properties distribution, Figure 5 and 6; Appendix A)</anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_6.tif" id="ImgLink-6" />
+<caption>Thickness and saturation distribution for Sand A1 and A2</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Thickness and saturation distribution for Sand A1 and A2</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118177204MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118177204MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Sw (%)- A1</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118177204MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118177204MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Sw (%)- A2</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118177204MS-Img_SPi-6c">
+<imageLink type="mediaResource" href="102118177204MS_i_6c.tif" id="ImgLink-6c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Thickness - A1</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118177204MS-Img_SPi-6d">
+<imageLink type="mediaResource" href="102118177204MS_i_6d.tif" id="ImgLink-6d" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Thickness - A2</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7"> </anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_7.tif" id="ImgLink-7" />
+<caption>Simplified tank models</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Simplified tank models</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8"> </anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_8.tif" id="ImgLink-8" />
+<caption>Reservoir simulation model for the central block</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Reservoir simulation model for the central block</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">The wells are connected to both sands partially or totally. Sand A1is a single layer while sand A2 is conceptualized in the simulation model in three lenses identified as A2a, A2b and A2c (figure 9;figure 10; appendix A). And the history match process was performed for the field as shown in figure 11.</anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_9.tif" id="ImgLink-9" />
+<caption>Wells and connections in the reservoir model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Wells and connections in the reservoir model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">The wells are connected to both sands partially or totally. Sand A1is a single layer while sand A2 is conceptualized in the simulation model in three lenses identified as A2a, A2b and A2c (figure 9;figure 10; appendix A). And the history match process was performed for the field as shown in figure 11.</anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_10.tif" id="ImgLink-10" />
+<caption>Different defined zones in Sand A2</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Different defined zones in Sand A2</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">The wells are connected to both sands partially or totally. Sand A1is a single layer while sand A2 is conceptualized in the simulation model in three lenses identified as A2a, A2b and A2c (figure 9;figure 10; appendix A). And the history match process was performed for the field as shown in figure 11.</anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_11.tif" id="ImgLink-11" />
+<caption>History match reached for the simulation model of the central block</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>History match reached for the simulation model of the central block</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">This section describes how the production network was built in order to satisfy the requirements of this study. Basically all the wells were modeled and calibrated independently and the network was built adapted for the artificial lift evaluation of different systems in the same model to be used in the same simulation run, Figures 12 and 13. Several analysis were performed well by well to identify their potential and represent such behavior with models and reproduce the conditions currently measured and reported of the wells.</anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_12.tif" id="ImgLink-12" />
+<caption>Production network model Base Case</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Production network model Base Case</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">This section describes how the production network was built in order to satisfy the requirements of this study. Basically all the wells were modeled and calibrated independently and the network was built adapted for the artificial lift evaluation of different systems in the same model to be used in the same simulation run, Figures 12 and 13. Several analysis were performed well by well to identify their potential and represent such behavior with models and reproduce the conditions currently measured and reported of the wells.</anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_13.tif" id="ImgLink-13" />
+<caption>Detailed model with Artificial Lift Systems</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Detailed model with Artificial Lift Systems</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr14">The construction of the production network was prepared including the new wells that are considered in the field development program and additional networks were built with different artificial lift systems with the purpose of evaluating the profitability and operative response of the wells under several lift systems over time; as described before, and extra network was built with the artificial system in different branches to evaluate the conversion from one system to another under specific conditions of efficiency and water-cut behavior, just interchanging branches triggered through rules using AMS in the coupled model, Figure 14. Moreover this model was used to analyze all the behavior per well and the interaction among them supporting the debottlenecking and production capacity evaluation.</anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_14.tif" id="ImgLink-14" />
+<caption>Production Network with GL and ESP in the same well.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Production Network with GL and ESP in the same well.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="15" data-type-order="15">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr15">The Figure 15 Appendix A shows the scenarios analysis by plotting NPV (Net Present Value) vs PIR (Project Investment Ratio) vs Np (Total production, shown here as bubble size), then we divided the graph into four quadrants by every mean for each axis. With this we could identify the key projects with more attractive indicators over the average for both indicators. Then well conversion from production to injection would offer the best PIR, mainly the staggered injection offers the best NPV, so the best scenario is the well conversion with staggered injection.</anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_15.tif" id="ImgLink-15" />
+<caption>NPV vs NPV/PIR chart for efficiency evaluation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>NPV vs NPV/PIR chart for efficiency evaluation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="12" figure-order="16" data-type-order="16">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr16">Additionally a sensitivity analysis was performed to validate what parameter can be more sensitive to changes like price, volume, etc., and verify the validity of the scenarios under different circumstances that can affect the decision or the value expected, based on the current variability for example in price on the market, production, associated cost, etc. Figure 16 Appendix A. By the Tornado Diagram, we identify the key variables that have the main impact on the before tax Cash flow and NPV, Production has the main impact and the Oil price. We could also identify that considering a variation for price or production, the project was still profitable.</anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_16.tif" id="ImgLink-16" />
+<caption>Sensitivity analysis chart</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Sensitivity analysis chart</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118177204MS-Img_SPi-16a">
+<imageLink type="mediaResource" href="102118177204MS_i_16a.tif" id="ImgLink-16a" />
+</image-wrap>
+<image-wrap id="102118177204MS-Img_SPi-16b">
+<imageLink type="mediaResource" href="102118177204MS_i_16b.tif" id="ImgLink-16b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="17" data-type-order="17">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr17">By the Monte Carlo simulation for the NPV we can make a deeper analysis for the scenarios, we can have not only a single indicator value, but the wide range from de P10 to P90, the standard deviation and the mean value. We can identify the risk (in this case there is no risk for having a no profitable project with this considerations) and make a deeper comparison for the scenarios. We can identify the gas lift – ESP as the higher value, but also the one with the higher risk (higher standard deviation), helping us to make the best decision not only with single values, but with a wide range analysis figure 17 Appendix A.</anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_17.tif" id="ImgLink-17" />
+<caption>Monte Carlo simulation case: ALS-BEC and ALS-GL</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Monte Carlo simulation case: ALS-BEC and ALS-GL</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118177204MS-Img_SPi-17a">
+<imageLink type="mediaResource" href="102118177204MS_i_17a.tif" id="ImgLink-17a" />
+</image-wrap>
+<image-wrap id="102118177204MS-Img_SPi-17b">
+<imageLink type="mediaResource" href="102118177204MS_i_17b.tif" id="ImgLink-17b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="18" data-type-order="18">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr18">Once all the model are built, calibrated and ready, the integration starts, coupling and linking all the models and defining all the rules and criteria to control the runs, figure 18 and 19. In this part is important to have very clear all the scenarios to be evaluated to include all the rules that will control the model. The initial case to be run is the Base Case that emulate the current condition without any change only maintaining the rates, number of wells, artificial lift systems remain the same to have this scenario as base for comparison purposes.</anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_18.tif" id="ImgLink-18" />
+<caption>Conceptual schematic of integrated Model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Conceptual schematic of integrated Model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="19" data-type-order="19">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr19">Once all the model are built, calibrated and ready, the integration starts, coupling and linking all the models and defining all the rules and criteria to control the runs, figure 18 and 19. In this part is important to have very clear all the scenarios to be evaluated to include all the rules that will control the model. The initial case to be run is the Base Case that emulate the current condition without any change only maintaining the rates, number of wells, artificial lift systems remain the same to have this scenario as base for comparison purposes.</anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_19.tif" id="ImgLink-19" />
+<caption>Base Case of the Integrated Asset Model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Base Case of the Integrated Asset Model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="20" data-type-order="20">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr20">For the base case describe before, the figure 20 shows the production rate and cumulative of the base case, these results shown the importance about the oil rate control and its optimization, in other words how this production plan can be optimized assigning rates that extend the life, well by well and contribute to improve the production profile. In this figure can be seen how the production trend has a high decline indicating that the reservoir is not capable to sustain this production for a long period, in this case the water will continue increasing and the oil recovery will be affected.</anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-20">
+<label>Figure 20 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_20.tif" id="ImgLink-20" />
+<caption>Base Case production forecast</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Base Case production forecast</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="21" data-type-order="21">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr21">The well chosen for conversion was A-351. This well raised interest from engineering team by the features that it has. Available simulation model was used to perform the sensitivity for this test. The history match for WCUT in the simulation model for this well has a very good quality, the proximity of this well to the WOC and the properties quality to their level of connectivity made it strong candidate. As main result of this exercise, was observed that the sand A2 won pressure and this effect generated a positive impact on wells that are engaged in prediction lack of power with natural flow, figure 21 Appendix A.</anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-21">
+<label>Figure 21 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_21.tif" id="ImgLink-21" />
+<caption>A-351 well. The best case was staggered injection during 3 years.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>21</caption-order>
+<caption-text>A-351 well. The best case was staggered injection during 3 years.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="22" data-type-order="22">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr22">Other scenario was to use new wells in the peripheral zone. The best recovery factor appear where different injection times and expenses are combined for a total period of 3 years and 2 injection wells. For this particular case, the effect is positive with 2 wells more than 3 wells, because the location of the third well (INY 3). This position is not very favorable level of connectivity in the area. This aspect highlights the importance of proper geological modeling of properties when the site has a strong stratigraphic component in their properties, figure 22 Appendix A.</anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-22">
+<label>Figure 22 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_22.tif" id="ImgLink-22" />
+<caption>Periferical injection. The best case was staggered injection during 3 years with 2 wells.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>22</caption-order>
+<caption-text>Periferical injection. The best case was staggered injection during 3 years with 2 wells.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="16" figure-order="23" data-type-order="23">
+<link href="link-23" type="image" />
+<appendix>
+<linkTarget id="link-23" type="image">
+<anchoringText id="Ancr23">Finding the best plateau was possible generating several combinations and comparing vs cumulative production (figure 23), giving attention to some wells producing at higher rate, reducing production can favor not only to obtain the plateau but also control wells with high WCUT and GOR, helping to artificial lift systems to have better performance and compensate this reduction with other wells with more potential or no restriction for water for example.</anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-23">
+<label>Figure 23 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_23.tif" id="ImgLink-23" />
+<caption>Different scenarios evaluated</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>23</caption-order>
+<caption-text>Different scenarios evaluated</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118177204MS-Img_SPi-23a">
+<imageLink type="mediaResource" href="102118177204MS_i_23a.tif" id="ImgLink-23a" />
+</image-wrap>
+<image-wrap id="102118177204MS-Img_SPi-23b">
+<imageLink type="mediaResource" href="102118177204MS_i_23b.tif" id="ImgLink-23b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="24" data-type-order="24">
+<link href="link-24" type="image" />
+<appendix>
+<linkTarget id="link-24" type="image">
+<anchoringText id="Ancr24">Using the simulation model, different rates were assigned to the wells as described before to balance the production per reservoir, the figure 24 Appendix A, shows two strategies after several tests to reduce the production in A2 to mitigate the high pressure declination. The proportion in production per reservoir that can change at a given plateau for the field. In strategy B the proportion for A1 is 58% vs 25% of A2, it means that after this analysis was defined the rate per well can be assigned and avoid several problems satisfying the production plateau.</anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-24">
+<label>Figure 24 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_24.tif" id="ImgLink-24" />
+<caption>Strategies to balance the production per reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>24</caption-order>
+<caption-text>Strategies to balance the production per reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="25" data-type-order="25">
+<link href="link-25" type="image" />
+<appendix>
+<linkTarget id="link-25" type="image">
+<anchoringText id="Ancr25"> </anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-25">
+<label>Figure 25 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_25.tif" id="ImgLink-25" />
+<caption>Cumulative production per Artificial lift system</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>25</caption-order>
+<caption-text>Cumulative production per Artificial lift system</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="26" data-type-order="26">
+<link href="link-26" type="image" />
+<appendix>
+<linkTarget id="link-26" type="image">
+<anchoringText id="Ancr26"> </anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-26">
+<label>Figure 26 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_26.tif" id="ImgLink-26" />
+<caption>Production profile Base case vs GL system</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>26</caption-order>
+<caption-text>Production profile Base case vs GL system</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="27" data-type-order="27">
+<link href="link-27" type="image" />
+<appendix>
+<linkTarget id="link-27" type="image">
+<anchoringText id="Ancr27"> </anchoringText>
+<image-wrap id="102118177204MS-Img_SPi-27">
+<label>Figure 27 </label>
+<imageLink type="mediaResource" href="102118177204MS_i_27.tif" id="ImgLink-27" />
+<caption>Total Field Production under Artificial Lift</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>27</caption-order>
+<caption-text>Total Field Production under Artificial Lift</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

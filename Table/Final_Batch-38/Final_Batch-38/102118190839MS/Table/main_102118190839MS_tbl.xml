@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190839MS.txt" extractionDate="2021-03-27T18:38:40Z">
+<doi>10.2118/190839-MS</doi>
+<pii>10.2118/190839-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="6" table-order="1" data-type-order="6">
+<table-wrap id="102118190839MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Criteria for Drivers 1 and 2 were established (Table 1) for the screening and initial rank with consideration of the previous fracture treatments. The criterion values were averaged to obtain one value for each well. Then, the final ranking was determined considering the completion complexity and new refracture designs.</anchoringText>
+<label>Table 1</label>
+<caption>Main drivers and decision criteria for the study.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Main drivers and decision criteria for the study.</caption-text>
+</formatted-caption>
+<table id="102118190839MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Main Drivers</th>
+<th valign="top" align="left">Decision Criteria</th>
+<th valign="top" align="left">Plan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Latest water cut</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td align="left">Initial production peak</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Latest production</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Time from initial peak to current production</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Current PI from reservoir model</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Relative productivity</td>
+<td align="left">Initial decline rate. Di (decline curve analysis)</td>
+<td valign="bottom" align="left">Screening and initial rank considering</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">KH (using average K)</td>
+<td valign="top" align="left">current fracture design</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Average flow zone indicator (RQI GrainVol)</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Wellbore direction to SHmax (degrees from north)</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td align="left">Natural fracture density along wellbore</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Reservoir contact [PHI*(l-Sw)*L]</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Relative degree of drainage</td>
+<td valign="bottom" align="left">Enhanced Ultimate Recover}- (decline curve analysis)</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">Cumulative production (from first port opening)</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td align="left">Pressure drawdown</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">Current fracture geometry (half length) xf</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">Current port spacing</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">Crurent drainage volume</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Integrate refracture candidate thickness</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Mass proppant pumped latest production</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+
+<td valign="top" align="left">
+</td>
+<td align="left">Degree of interference</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Improved fracture conductivity Kfw</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+
+<td valign="top" align="left">Comparative potential for process improvement</td>
+<td valign="bottom" align="left">Optimised fracture spacing and maximised SRV</td>
+<td valign="top" align="left">Final rank, considering new refracture design</td>
+</tr>
+<tr>
+
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">Reduced potential excessive water productive risk</td>
+<td valign="top" align="left">
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="15" table-order="2" data-type-order="17">
+<table-wrap id="102118190839MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">This well consisted of a 6-in. open hole with a 4 1/2-in. completion and three open sliding sleeves. The three ports connected the total lateral length of 466 m (Fig. 15 and Table 2). The 7-in. casing shoe is set at 2190 m MD (1790 m TVD), and below this is a 6-in. open hole where the lower completion is installed on the liner hanger at 2138 m MD. A 4 1/2-in., 15.1 ppf N-80 lower completion consists of a toe circulation sub, hydraulic OH packers, and ball activated fracture ports. Packers isolate zones between stages. All three sleeves were left opened during the refracturing campaign.</anchoringText>
+<label>Table 2</label>
+<caption>Port and packer depths.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Port and packer depths.</caption-text>
+</formatted-caption>
+<table id="102118190839MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Compartment</th>
+<th valign="top" align="center">Port Depth (m)</th>
+<th valign="top" align="center">Packer Depth (m)</th>
+<th valign="top" align="center">Packer Top (m)</th>
+<th valign="top" align="center">Length (m)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Port 1</td>
+<td align="center">2867</td>
+<td align="center">3037</td>
+<td align="center">2S19</td>
+<td align="center">218</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Port 2</td>
+<td valign="bottom" align="center">2701</td>
+<td valign="bottom" align="center">2819</td>
+<td valign="bottom" align="center">2631</td>
+<td valign="bottom" align="center">188</td>
+</tr>
+<tr>
+<td align="center">Port 3</td>
+<td align="center">2589</td>
+<td align="center">2631</td>
+<td align="center">2571</td>
+<td align="center">60</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">Total</td>
+<td valign="top" align="center">466</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="17" table-order="3" data-type-order="18">
+<table-wrap id="102118190839MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Additional modifications, compared with previous designs, were increasing pumping rates from 20 to 25 bbl/min and up to 30 bbl/min in nonabrasive stages (e.g., PAD) and implementing short 100-mesh slugs in PAD to modify fissure-opening pressures. Therefore, the treatment design (Table 3) primarily aims to increase the productive complexity within the reservoir.</anchoringText>
+<label>Table 3</label>
+<caption>Super cycle fracturing design schedule.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Super cycle fracturing design schedule.</caption-text>
+</formatted-caption>
+<table id="102118190839MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th align="center">Stage No.</th>
+<th align="center">Stage Description</th>
+<th align="center">Linear Gel (m<sup>3</sup>)</th>
+<th align="center">Crosslinked Gel (m<sup>3</sup>)</th>
+<th align="center">Pump Rate (bbl/min)</th>
+<th align="center">Proppant Concentration (kg./m<sup>3</sup>)</th>
+<th valign="top" align="center">Total Proppant Pumped per Stage (kg)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1</td>
+<td align="center">Diverter Displacement</td>
+<td align="center">13.0</td>
+<td align="center">0.0</td>
+<td align="center">12</td>
+<td align="center">0</td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">CBT</td>
+<td align="center">0.0</td>
+<td align="center">38.0</td>
+<td align="center">12</td>
+<td align="center">0</td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">PAD l00mesh</td>
+<td align="center">57.0</td>
+<td valign="bottom" align="center">0.0</td>
+<td align="center">30</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">0.5 lbm/gal</td>
+<td align="center">45.0</td>
+<td align="center">0.0</td>
+<td align="center">25</td>
+<td align="center">60</td>
+<td align="center">2700</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center">1.0 lbm/gal</td>
+<td align="center">83.0</td>
+<td align="center">0.0</td>
+<td align="center">25</td>
+<td align="center">120</td>
+<td align="center">9960</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">6</td>
+<td align="center">1.5 lbm/gal</td>
+<td valign="bottom" align="center">0.0</td>
+<td align="center">57.0</td>
+<td align="center">25</td>
+<td align="center">180</td>
+<td valign="bottom" align="center">10260</td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td align="center">2.0 lbm/gal</td>
+<td align="center">0.0</td>
+<td align="center">45.0</td>
+<td align="center">25</td>
+<td align="center">240</td>
+<td align="center">10800</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">2.5 lbm/gal</td>
+<td align="center">0.0</td>
+<td align="center">45.0</td>
+<td align="center">25</td>
+<td align="center">300</td>
+<td align="center">13500</td>
+</tr>
+<tr>
+<td align="center">9</td>
+<td align="center">3.0 lbm/gal</td>
+<td align="center">0.0</td>
+<td align="center">38.0</td>
+<td align="center">25</td>
+<td align="center">360</td>
+<td align="center">13680</td>
+</tr>
+<tr>
+<td align="center">10</td>
+<td align="center">3.5 lbm/gal</td>
+<td align="center">0.0</td>
+<td align="center">34.0</td>
+<td align="center">25</td>
+<td align="center">420</td>
+<td align="center">14280</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">11</td>
+<td align="center">4.0 lbm/gal</td>
+<td valign="bottom" align="center">0.0</td>
+<td align="center">42.0</td>
+<td align="center">25</td>
+<td align="center">480</td>
+<td valign="bottom" align="center">20160</td>
+</tr>
+<tr>
+<td align="center">12</td>
+<td align="center">Flush</td>
+<td align="center">13.0</td>
+<td align="center">0</td>
+<td align="center">25</td>
+<td align="center">0</td>
+<td align="center">0</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

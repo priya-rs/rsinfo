@@ -1,0 +1,739 @@
+<!-- ======= Header ======= -->
+<header id="header" class="headerTarget">
+  <nav class="navbar navbar-expand-md fixed-top navbar-light" id="mainNav" [ngClass]="{'pt': ariaExpanded}">
+    <img class="navbar-brand text-uppercase click" src="assets/logo/log.png" (click)="scrollToTop()" />
+
+
+    <button class="navbar-toggler navbar-toggler-right collapsed" type="button" data-toggle="collapse"
+      (click)="clickMenu()" data-target="#navbarMenuContent" aria-controls="navbarMenuContent" aria-expanded="false"
+      aria-label="Toggle navigation" id="menu-button">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarMenuContent">
+      <ul class="navbar-nav ml-auto text-uppercase">
+        <li class="nav-item">
+          <a class="nav-link click" (click)="scrollToTarget('.headerTarget')" id="header-link">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link click" (click)="scrollToTarget('.aboutTarget')" id="aboutus-link">about</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link click" (click)="scrollToTarget('.serviceTarget')" id="services-link">Services</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link click" (click)="scrollToTarget('.portfolioTarget')" id="services-link">Portfolio</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link click" (click)="scrollToTarget('.careerTarget')" id="career-link">career</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link click" (click)="scrollToTarget('.contactTarget')" id="contact-link">contact</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+</header><!-- End Header -->
+
+<!-- ======= Intro Section ======= -->
+<section id="intro">
+  <div class="intro-container">
+
+    <div id="carouselExampleCaptions" class="carousel slide" data-interval="2000" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselExampleCaptions" data-slide-to="1"></li>
+        <li data-target="#carouselExampleCaptions" data-slide-to="2"></li>
+        <li data-target="#carouselExampleCaptions" data-slide-to="3"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="assets/img/fro.jpg" class="d-block w-100 h-100 intro-img" alt="">
+          <div class="carousel-caption d-md-block">
+            <h5 class="title">Web & App Development</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="assets/img/art1.jpg" class="d-block w-100 h-100 intro-img" alt="">
+          <div class="carousel-caption d-md-block">
+            <h5 class="title">Artwork & Animation</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="assets/img/th.jpeg" class="d-block w-100 h-100 intro-img" alt="">
+          <div class="carousel-caption d-md-block">
+            <h5 class="title">Pre-Press and Typesetting</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="assets/img/fr.jpg" class="d-block w-100 h-100 intro-img" alt="">
+          <div class="carousel-caption d-md-block">
+            <h5 class="title">Digital Publishing</h5>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</section>
+<!-- End Intro Section -->
+
+<main id="main">
+
+  <!-- ======= Featured Services Section Section ======= -->
+  <section id="featured-services">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-lg-3 box">
+          <i class="ion-android-phone-portrait"></i>
+          <h4 class="title"><a>App Development</a></h4>
+          <p class="description">We create enhanced eBooks, device agnostic solutions of HTML5, widget creation, App
+            Development</p>
+        </div>
+        <div class="col-lg-3 box box-bg">
+          <i class="ion-ios-infinite"></i>
+          <h4 class="title"><a>Artwork & Animation</a></h4>
+          <p class="description">Our creative team works together with the instructional designers to create technically
+            correct illustration and animation.</p>
+        </div>
+
+        <div class="col-lg-3 box">
+          <i class="ion-ios-bookmarks"></i>
+          <h4 class="title"><a>Pre-Press and Typesetting</a></h4>
+          <p class="description">We compose Books, Journals, Newsletters, Magazines, Catalogs, Trade books, School
+            books.</p>
+        </div>
+        <div class="col-lg-3 box box-bg">
+          <i class="ion-laptop"></i>
+          <h4 class="title"><a>Digital Publishing</a></h4>
+          <p class="description">We create Enhanced eBooks, device agnostic solutions of HTML5, widget creation, App
+            Development
+        </div>
+
+      </div>
+    </div>
+  </section><!-- End Featured Services Section -->
+  <!-- counter Section -->
+  <section class="wow fadeIn animated" style="visibility: visible; animation-name: fadeIn;">
+    <div class="container" id="countersection" data-aos-anchor="#counter" data-aos-anchor-placement="top-top">
+      <div class="row">
+
+        <div
+          class="col-md-3 col-sm-6 col bottom-margin text-center counter-section wow fadeInUp sm-margin-bottom-ten animated "
+          data-wow-duration="300ms" style="visibility: visible; animation-duration: 100ms; animation-name: fadeInUp;">
+          <i class="ion-android-bicycle medium-icon"></i>
+          <span id="anim-number-pizza" class="counter-number" data-aos="fade-right"></span>
+          <span class="timer counter alt-font appear" data-to="980" data-speed="3000" id="counter">10</span>
+          <p class="counter-title">Years of Experience</p>
+        </div><!-- end counter -->
+        <!-- counter -->
+        <div
+          class="col-md-3 col-sm-6 bottom-margin text-center counter-section wow fadeInUp sm-margin-bottom-ten animated "
+          data-wow-duration="600ms" style="visibility: visible; animation-duration: 600ms; animation-name: fadeInUp;">
+          <i class="ion-stats-bars medium-icon" data-aos-anchor-placement="top-top"></i>
+          <span class="timer counter alt-font appear" data-to="980" data-speed="3000">15</span>
+          <span class="counter-title">Million Pages</span>
+        </div> <!-- end counter -->
+        <!-- counter -->
+        <div
+          class="col-md-3 col-sm-6 bottom-margin-small text-center counter-section wow fadeInUp xs-margin-bottom-ten animated"
+          data-wow-duration="900ms" style="visibility: visible; animation-duration: 900ms; animation-name: fadeInUp;">
+          <i class="ion-speedometer medium-icon"></i>
+          <span class="timer counter alt-font appear" data-to="810" data-speed="3000">50</span>
+          <span class="counter-title">Types of Works</span>
+        </div> <!-- end counter -->
+        <!-- counter -->
+        <div class="col-md-3 col-sm-6 text-center counter-section wow fadeInUp animated" data-wow-duration="1200ms"
+          style="visibility: visible; animation-duration: 1200ms; animation-name: fadeInUp;">
+          <i class="ion-arrow-graph-up-right medium-icon"></i>
+          <span class="timer counter alt-font appear" data-to="600" data-speed="3000">100</span>
+          <span class="counter-title">Clients Served</span>
+        </div> <!-- end counter -->
+      </div>
+    </div>
+  </section>
+  <!-- ======= heading Section ======= -->
+  <section id="rs" class="rsTarget">
+    <div class="container-fluid">
+
+      <header class="section-header">
+        <div class="row">
+          <div class="col-md-7 aos-animate">
+            <img src="assets/img/window.jpg" class="img" data-aos="slide-right" width="100%" height="90%">
+          </div>
+          <div class="col-md-5 aos-animate padding">
+            <h3 data-aos="slide-left">RS Infosolution </h3>
+            <h6 data-aos="slide-left" class="text-center text-bold">Exploring Creativity & Expertise</h6>
+            <p class="text-justify" data-aos="fade-up"><b>RS Infosolution</b> is a global leading provider to the
+              content industry, working with publishers and companies around the world at the vanguard of e-publishing
+              from complex ebook projects and composition (typesetting), to mobile application development and bespoke
+              solutions.</p>
+          </div>
+
+        </div>
+      </header>
+
+    </div>
+  </section>
+
+  <!-- ======= heading Section ======= -->
+  <!-- ======= About Us Section ======= -->
+  <section id="about" class="aboutTarget">
+    <div class="container-fluid">
+
+      <header class="section-header">
+        <div class="row">
+          <div class="col-md-5 aos-animate padding">
+            <h3 data-aos="slide-right">About Us</h3>
+            <p class="text-justify" data-aos="fade-up"><b>RS Infosolution</b> have many years of experience working with
+              publishers worldwide on typesetting books, magazines and other projects. <br />We are able to offer an
+              exceptional return-on-investment compared to our competitors, and work quickly and responsively with
+              publishers on producing print-ready materials to the very highest quality. <br />Our epub team delivers
+              100 of books monthly. We keenly using the technology for proofing, editing, conversion.<br /> We
+              concentrate each and evey word while doing conversion. To each project we bring industry knowledge,
+              experience, and best practices, and work closely to publishers to ensure that every project runs smoothly,
+              on time and on budget. <br />We use the following platforms for typesetting: QuarkXPress, InDesign, 3B2,
+              TeX, LaTeX, PageMaker and Microsoft Word. We are very much concentrate in latest APP development using
+              latest technology We have done many web applications using Angular,Bootstrap,Html5,CSS3,PHP & MYSQL.</p>
+          </div>
+          <div class="col-md-7 aos-animate">
+            <img src="assets/img/about.jpg" class="img-a" data-aos="slide-left" width="100%" height="90%">
+          </div>
+        </div>
+      </header>
+
+    </div>
+  </section>
+  <!-- End About Us Section -->
+
+  <!-- Our story Section-->
+  <section id="trainings" class="recruitementTarget">
+    <div class="container" data-aos="zoom-in">
+      <header class="section-header">
+        <h3 class="section-title">Our story</h3>
+      </header>
+      <div class="col-md-12 text-center">
+        <p>We happily say to this field we made our process on time delivery.</p>
+        <p>We are from RS Infosolution, Greatly Everyday we meet at least 1000 pages ebooks development, Here HTML & CSS
+          not only played the vital role also plays the efforts from our employee, they live with epub creation. It may
+          be take the 1 minute late because we use eagle eye proofing technology but the result gives you more and more
+          happy. We greatly offer the ebook with high-end view & validation. Conversions from our company made the
+          milestone. Our employee reaches 15000 pages of pdf to word & pdf to pdf conversion. We use new end technology
+          for processing the file.</p>
+        <p>We are from RS Infosolution, We made the unique solution for any complex situations. Greatly Everyday we meet
+          atleast 3000 pages proof reading, proofing doesn't the simple work we need an eagle eye to catch the errors
+          and edit with appropriate text also more concentration in grammatical mistakes. Our team handles well done and
+          gets applause from many of the top clients. We having sound knowledge in HTML5, CSS3, Fixed layout, Jquery,
+          Javascipt. Also capable to recreation the multilingual books languages like English, Portugal, Spanish,
+          French, Duetsch.</p>
+      </div>
+
+    </div>
+
+  </section>
+  <!-- Our Story Section -->
+
+  <!-- ======= Services Section ======= -->
+
+  <section id="services" class="section-bg serviceTarget">
+    <div class="container text-center" data-aos="fade-up">
+
+      <header class="section-header">
+        <h3 class="section-title">Services</h3>
+      </header>
+
+      <div class="row service-container" data-aos="fade-up" data-aos-delay="200">
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <div class="card h-100">
+            <a><img class="card-img-top" src="assets/img/mobile.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a>App Development</a>
+              </h4>
+              <p class="card-text">We help our clients in:
+                Manuscript Preparation WFS or Pre-editing Copyediting Proofreading Layout/Template Creation Content
+                Creation Typesetting/Multilingual Typesetting LaTex & Tex Graphic Design & Artworks Indexing Full
+                Service Project Management
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <div class="card h-100">
+            <a><img class="card-img-top" src="assets/img/trade.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a>Traditional Publishing</a>
+              </h4>
+              <p class="card-text">We help our clients in:
+                Manuscript Preparation WFS or Pre-editing Copyediting Proofreading Layout/Template Creation Content
+                Creation Typesetting/Multilingual Typesetting LaTex & Tex Graphic Design & Artworks Indexing Full
+                Service Project Management
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <div class="card h-100">
+            <a><img class="card-img-top" src="assets/img/di.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a>Digital Publishing</a>
+              </h4>
+              <p class="card-text">We have expertise in conversion of — Enhanced eBooks ePub3 iBooks Author Widget
+                Creation HTML5 based learning material development Flash to HTML5 Conversion, Website Development Web
+                Portal Developmen Interactive books creation
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <div class="card h-100">
+            <a><img class="card-img-top" src="assets/img/art.jpeg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a>Digital Artwork</a>
+              </h4>
+              <p class="card-text">We provides our clients art services regarding:<br /> Ad Design (Web & Print) Image
+                Enhancement Image Manipulation Image Silhouette Image Cut Out/Background Removal 3D Character Designing
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <div class="card h-100">
+            <a><img class="card-img-top" src="assets/img/e-learn.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a>E-Learning & Training</a>
+              </h4>
+              <p class="card-text">RS Infosolutions provide training programs in following fields: <br />Animatic
+                Creation 2D / 3D Animation Story Boarding Content Creation Simulation Creation SCORM Creation Audio /
+                Video Editing TIN CAN APP
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <div class="card h-100">
+            <a><img class="card-img-top" src="assets/img/cat.jpg" alt=""></a>
+            <div class="card-body">
+              <h4 class="card-title">
+                <a>Misc. Services</a>
+              </h4>
+              <p class="card-text"> We at RS Infosolutions also deal in:<br /> Conversion Services Cartography Services
+                Translation & Transcription Services App Development Scanning & Digitization Services</p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+  <!-- ======= CAREER Section ======= -->
+  <section id="trainings1" class="careerTarget">
+    <div class="container" data-aos="zoom-in">
+
+      <header class="section-header">
+        <h3 class="section-title">Career</h3>
+      </header>
+
+
+      <div class="row">
+
+        <div class="col-lg-4 col-md-6 box" data-aos="fade-up" data-aos-delay="100"
+          *ngFor="let t of recruitments; let i = index">
+          <div class="card">
+            <div class="row no-gutters padding-none">
+              <!---<div class="col-2 icon-container">
+                <div class="icon"><i class="{{t.icon}}"></i></div>
+              </div>-->
+              <div class="col-10">
+                <div class="card-body">
+                  <h5 class="title">{{t.title}}</h5>
+                  <p class="caption"><i class="ion-compose"> </i> <a href="mailto:career@rsinfosolution.in"
+                      type="submit"> Apply</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+  <!-- ======= End Section ======= -->
+  <!-- ======= Portfolio Section ======= -->
+  
+  <section id="portfolio" class="section-bg portfolioTarget">
+    <div class="container bg" data-aos="fade-up">
+
+      <header class="section-header">
+        <h3 class="section-title">Portfolio</h3>
+      </header>
+      
+       <!-- Modal -->
+      
+     <!-- modal ends here -->
+
+      <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="200">
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <div class="resource">
+            <img src="assets/img/softdev.jpg" />
+            <div id="overlay5">
+              <h2 class="img-title">Software Development</h2>
+              <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#portfolio1">
+                Read more
+              </button>
+             
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <div class="resource">
+            <img src="assets/img/appdev2.jpg" />
+            <div id="overlay5">
+              <h2 class="img-title">App Development</h2>
+              <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#portfolio2">
+                Read more
+              </button>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <div class="resource">
+            <img src="assets/img/ebook.jpg" />
+            <div id="overlay5">
+              <h2 class="img-title">Ebook</h2>
+              <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#portfolio3">
+                Read more
+              </button>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <div class="resource">
+            <img src="assets/img/word.jpg" />
+            <div id="overlay5">
+              <h2 class="img-title">Conversion</h2>
+              <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#portfolio4">
+                Read more
+              </button>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <div class="resource">
+            <img src="assets/img/artan.jpg" />
+            <div id="overlay5">
+              <h2 class="img-title">Artwork& Animation</h2>
+              <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#portfolio5">
+                Read more
+              </button>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6 mb-4">
+          <div class="resource">
+            <img src="assets/img/typeset.jpg" />
+            <div id="overlay5">
+              <h2 class="img-title">Pre-press & Typesetter</h2>
+              <button type="button" class="btn btn-secondary" data-toggle="modal" data-target="#portfolio6">
+                Read more
+              </button>
+            </div>
+          </div>
+        </div>
+
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ======= Contact Section ======= -->
+  <section id="contact" class="section-bg contactTarget">
+    <div class="container" data-aos="fade-up">
+
+      <div class="section-header">
+        <h3>Contact Us</h3>
+      </div>
+
+      <div class="row contact-info">
+
+        <div class="col-md-4">
+          <div class="contact-address">
+            <i class="ion-ios-location-outline"></i>
+            <h3>Address</h3>
+            <address>Sri Maha Ganesh Flat,
+              No.18/1 Aruna nagar North Extension,
+              Karaikudi - 630002,
+              Sivaganga (Dist),
+              Tamilnadu, India.</address>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="contact-phone">
+            <i class="ion-ios-telephone-outline"></i>
+            <h3>Phone Number</h3>
+            <p><a href="+91 9840401336">+91 9840401336</a></p>
+            <p><a href="04565-234330">04565-234330</a></p>
+          </div>
+        </div>
+
+        <div class="col-md-4">
+          <div class="contact-email">
+            <i class="ion-ios-email-outline"></i>
+            <h3>Email</h3>
+            <p><a href="mailto:info@infosolution.in">info@infosolution.in</a></p>
+            <p><a href="mailto:ramesh@rsinfosolution.in"> ramesh@rsinfosolution.in</a></p>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+
+    <!-- End Contact Section -->
+    <!-- map Section -->
+    <div class="container mapdiv">
+      <iframe
+        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d114581.33528787653!2d78.71991005328465!3d10.057813967619033!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x910acd04bef80762!2sRS%20Infosolution%20%7C%20IT%2FITES%20Company!5e1!3m2!1sen!2sin!4v1635505322214!5m2!1sen!2sin"
+        width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+  </section>
+</main>
+
+<!-- ======= Footer ======= -->
+<footer id="footer">
+  <div class="footer-top">
+    <div class="container">
+      <div class="row">
+
+        <div class="col-md-3 col-md-4 footer-info">
+          <h3>RS <br />INFO SOLUTION</h3>
+          <p>RS INFOSOLUTION With a highly experienced leadership team with over 10 years experience, RS Infosolutions
+            work with leading publishers, typesetters, government agencies, universities, libraries and major
+            corporations around the world on a wide range of e-publishing projects.</p>
+        </div>
+
+        <div class="col-md-3 col-md-4 footer-links">
+          <h4>Links</h4>
+          <ul>
+            <li class="click" (click)="scrollToTop()"><i class="ion-ios-arrow-right"></i> <a>Home</a>
+            </li>
+
+            <li class="click" (click)="scrollToTarget('.aboutTarget')"><i class="ion-ios-arrow-right"></i> <a>About
+                us</a></li>
+            <li class="click" (click)="scrollToTarget('.serviceTarget')"><i class="ion-ios-arrow-right"></i>
+              <a>Services</a>
+            </li>
+            <li class="click" (click)="scrollToTarget('.careerTarget')"><i class="ion-ios-arrow-right"></i>
+              <a>Career</a>
+            </li>
+            <li class="click" (click)="scrollToTarget('.portfolioTarget')"><i class="ion-ios-arrow-right"></i>
+              <a>Portfolio</a>
+            </li>
+            <li class="click" (click)="scrollToTarget('.contactTarget')"><i class="ion-ios-arrow-right"></i>
+              <a>Contact</a>
+            </li>
+          </ul>
+        </div>
+
+        <div class="col-md-3 col-md-4 footer-contact">
+          <h4>Contact Us</h4>
+          <p>
+            RS INFOSOLUTION
+            <br />
+            Sri Maha Ganesh Flat,
+            <br />
+            No.18/1 Aruna nagar North
+            <br />
+            Extension,
+            <br />
+            Karaikudi - 630002,
+            <br />
+            Sivaganga (Dist),
+            <br />
+            Tamilnadu, India.
+            <br />
+            <strong>Email:</strong> <a href="mailto:info@infosolution.in"> info@infosolution.in</a><br>
+          </p>
+
+          <div class="social-links">
+            <a href="https://twitter.com/rameshking2000" class="twitter click"><i class="ion-social-twitter"></i></a>
+            <a href="https://www.facebook.com/rsinfosolution.kkdi" class="facebook click"><i
+                class="ion-social-facebook"></i></a>
+            <a href="https://instagram.com/rsinfosolution?utm_medium=copy_link" class="instagram click"><i
+                class="ion-social-instagram-outline"></i></a>
+            <a href="https://g.co/kgs/gnkAt6" class="google-plus click"><i class="ion-social-google"></i></a>
+            <a href="https://www.linkedin.com/company/rsinfosolution" class="linkedin click"><i
+                class="ion-social-linkedin"></i></a>
+            <a href="https://www.youtube.com/channel/UCFKJwwGQB8rYbgVF7ioZUNw" class="youtube click"><i
+                class="ion-social-youtube"></i></a>
+          </div>
+
+        </div>
+
+      </div>
+    </div>
+  </div>
+
+</footer><!-- End Footer -->
+
+<!--Scroll to top-->
+<a class="back-to-top click" (click)="scrollToTop()" [ngClass]="{'show-scrollTop': windowScrolled}">
+  <i class="ion-chevron-up"></i>
+</a>
+<!--<div class="row">
+<img  src="assets/img/sp.jpg" class="image" alt="" width="120" height="120">
+</div>-->
+
+
+<div class="modal" id="portfolio1" tabindex="-1" role="dialog"
+aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+<div class="modal-dialog" role="document">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h5 class="modal-title" id="exampleModalLongTitle">Modal title</h5>
+      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <div class="modal-body">
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis ipsam adipisci expedita quam
+      dicta cupiditate minus quo. Fugiat culpa id officiis accusantium, provident quibusdam eius
+      maiores! Eveniet omnis et a recusandae amet hic rerum in. Hic dignissimos, laboriosam recusandae
+      ad similique maiores, veritatis laudantium quod tempora error totam sint expedita.</p>
+    </div>
+    
+  </div>
+</div>
+</div>
+
+
+
+<div class="modal" id="portfolio2" tabindex="-1" role="dialog"
+aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+<div class="modal-dialog" role="document">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h5 class="modal-title" id="exampleModalLongTitle">Modal title</h5>
+      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <div class="modal-body">
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis ipsam adipisci expedita quam
+      dicta cupiditate minus quo. Fugiat culpa id officiis accusantium, provident quibusdam eius
+      maiores! Eveniet omnis et a recusandae amet hic rerum in. Hic dignissimos, laboriosam recusandae
+      ad similique maiores, veritatis laudantium quod tempora error totam sint expedita.</p>
+    </div>
+    
+  </div>
+</div>
+</div>
+
+<div class="modal" id="portfolio3" tabindex="-1" role="dialog"
+aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+<div class="modal-dialog" role="document">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h5 class="modal-title" id="exampleModalLongTitle">Ebooks</h5>
+      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <div class="modal-body">
+      <p>RS Infosolution has an internal team of Instructional Designers who develop story boards from content. We have a network of
+        subject matter experts who develop custom lessons based on different syllabi on all academic subjects for various grades. The
+        Instructional Designers create complete story boards that define each slide with the On Screen Text, Narration, Visual and its
+        Description, and the Duration of each Slide.
+        </p>
+    </div>
+    
+  </div>
+</div>
+</div>
+
+<div class="modal" id="portfolio4" tabindex="-1" role="dialog"
+aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+<div class="modal-dialog" role="document">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h5 class="modal-title" id="exampleModalLongTitle">Conversion</h5>
+      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <div class="modal-body">
+      <p>RS Infosolution offers a comprehensive range of services for data conversions and content digitization. We capture data from all
+        types of handwritten forms accurately, rapidly, and cost‐effectively and convert them into a powerful MANAGEMENT resource. We
+        also we handle content digitization services which involve conversion of printed matter to electronic formats. Following are the
+        conversion services offered by RS Infosolution:</p>
+    </div>
+    
+  </div>
+</div>
+</div>
+
+<div class="modal" id="portfolio5" tabindex="-1" role="dialog"
+aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+<div class="modal-dialog" role="document">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h5 class="modal-title" id="exampleModalLongTitle">Artwork & Animation</h5>
+      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <div class="modal-body">
+      <h5 class="text-left">Animation</h5>
+        <p>The animation team has the capability to develop both 2D and 3D animations. Developing animations is an art in itself. The
+        animation should be of the right duration and should have the right focus and panning. The team develops engaging animation
+        while ensuring that the attention of the user on the subject is not lost.</p>
+        <h5 class="text-left">Artwork</h5>
+      <p>RS Infosolution has an art work team that develops graphics from icons and interfaces to subject illustrations and realistic
+        drawings. The team ensures that the colors use dare meaningful, evoke the right emotion, and are also pleasant to the user. The
+        team has experience of working on such a requirement. The team easily adapts to different styles of drawing depending on the
+        customer’s requirement. Picture cleaning, color correction, and enhancement are also handled. The art work team has
+        contributed significantly even to lead book publishers.</p>
+    </div>
+    
+  </div>
+</div>
+</div>
+
+<div class="modal" id="portfolio6" tabindex="-1" role="dialog"
+aria-labelledby="exampleModalLongTitle" aria-hidden="true">
+<div class="modal-dialog" role="document">
+  <div class="modal-content">
+    <div class="modal-header">
+      <h5 class="modal-title" id="exampleModalLongTitle">Prepress & Typesetting</h5>
+      <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <div class="modal-body">
+      <p>RS Infosolution offers a comprehensive range of services for publishing; in particular we are specialized in handling various types
+        of books and scientific / technical / medical journals. We follow a structured XML workflow system for both conventional and
+        online publishing. Our software and R&D experts always concentrate on innovation and provide automated solutions for each
+        project.</p>
+        <h5 class="text-letf">Type setting</h5>
+        <p>RS Infosolution handles a wide range of books and journals from low complexity pagination levels to heavy complexity free style
+          design projects. We have the capability to work on all the latest publishing softwares (Arbor text (3B2), Adobe InDesign, Quark
+          Xpress, Adobe Framemaker, etc.) used for typesetting needs. We also can work on any customer specified product if suitable for
+          the project</p>
+    </div>
+    
+  </div>
+</div>
+</div>

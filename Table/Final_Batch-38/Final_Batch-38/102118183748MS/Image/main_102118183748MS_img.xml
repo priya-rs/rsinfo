@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118183748MS.txt" extractionDate="2021-03-25T09:55:08Z">
+<doi>10.2118/183748-MS</doi>
+<pii>10.2118/183748-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="2">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr6">Analytical correlations recommended by Reiss [2] and Lucia [3] shown in Figures 1 and 2 are used to calculate the approximate effective porosity and permeability of background fractures, fracture swarms, and induced fractures. To make these calculations reproducible in any future sector models, a distribution of fracture flags or indices are created in the geological model to mark different fracture types for each cell. Then these flags are used in the reservoir simulation model to create or calculate fracture properties such as effective fracture porosity, permeability, and density.</anchoringText>
+<image-wrap id="102118183748MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118183748MS_i_1.tif" id="ImgLink-1" />
+<caption>Correlation of fracture permeability with fracture porosity</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Correlation of fracture permeability with fracture porosity</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr7">Analytical correlations recommended by Reiss [2] and Lucia [3] shown in Figures 1 and 2 are used to calculate the approximate effective porosity and permeability of background fractures, fracture swarms, and induced fractures. To make these calculations reproducible in any future sector models, a distribution of fracture flags or indices are created in the geological model to mark different fracture types for each cell. Then these flags are used in the reservoir simulation model to create or calculate fracture properties such as effective fracture porosity, permeability, and density.</anchoringText>
+<image-wrap id="102118183748MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118183748MS_i_2.tif" id="ImgLink-2" />
+<caption>Relationship between fracture permeability, fracture porosity, and fracture width</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Relationship between fracture permeability, fracture porosity, and fracture width</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="5" figure-order="3" data-type-order="5">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr8">The relative permeability curves for water and oil were obtained from laboratory calculated data. Figure 3 shows the water/oil relative permeability curves and temperature-dependent endpoints.</anchoringText>
+<image-wrap id="102118183748MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118183748MS_i_3.tif" id="ImgLink-3" />
+<caption>Water-oil relative permeability curves and temperature-dependent endpoints</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Water-oil relative permeability curves and temperature-dependent endpoints</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183748MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118183748MS_i_3a.tif" id="ImgLink-3a" />
+</image-wrap>
+<image-wrap id="102118183748MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118183748MS_i_3b.tif" id="ImgLink-3b" />
+</image-wrap>
+<image-wrap id="102118183748MS-Img_SPi-3c">
+<imageLink type="mediaResource" href="102118183748MS_i_3c.tif" id="ImgLink-3c" />
+</image-wrap>
+<image-wrap id="102118183748MS-Img_SPi-3d">
+<imageLink type="mediaResource" href="102118183748MS_i_3d.tif" id="ImgLink-3d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="8">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr9">Oil viscosity reduction with elevated temperature is one of the key drivers for thermal recovery processes. The Rubble dead and live-oil viscosities show a change with temperature, as demonstrated in the laboratory data in Table 4 and Figure 4. Tests were conducted at different temperatures and pressures.</anchoringText>
+<image-wrap id="102118183748MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118183748MS_i_4.tif" id="ImgLink-4" />
+<caption>Log-log plot of dead and live oil viscosity changes with temperature</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Log-log plot of dead and live oil viscosity changes with temperature</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="5" data-type-order="9">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr10">A three deviated well pattern that was previously set up to test CSS was selected to conduct the FIM trial. A basemap of the pattern is provided in Figure 5. Deviated wells D1, D2, and D3 in the center of the pilot area have good cold production that was attributed to extensive fracturing. This fracturing satisfies the primary criteria for the FIM trial.</anchoringText>
+<image-wrap id="102118183748MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118183748MS_i_5.tif" id="ImgLink-5" />
+<caption>FIM pilot area, well layout, and Rubble structural geology</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>FIM pilot area, well layout, and Rubble structural geology</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="6" data-type-order="10">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr11">A type log for the Rubble stratigraphy is shown in Figure 6. In the FIM trial area the Rubble reservoir is about 48 feet thick with fairly consistent reservoir matrix properties (skeletal wackestone with 22% porosity and 3.5 mD permeability). A few thin layers within the Rubble have enhanced permeability due to karst dissolution. The overlying Blue Shale is about 40 feet thick and an effective seal. However, the argillaceous limestones between the Rubble and underlying Limestone-2 (LS2) and Ostracod formations are only one to two feet thick and commonly fractured.</anchoringText>
+<image-wrap id="102118183748MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118183748MS_i_6.tif" id="ImgLink-6" />
+<caption>FIM area type log showing Rubble thermal target, overlying Blue Shale seal, and underlying Limestone-2 and Ostracod formations</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>FIM area type log showing Rubble thermal target, overlying Blue Shale seal, and underlying Limestone-2 and Ostracod formations</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="7" data-type-order="11">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr12">The horizontal wells were allowed to soak before being produced together along with the deviated wells. In cycle 3, steam was injected in all 6 horizontal wells simultaneously while in cycle-4, only 4 horizontal wells were injected into. The cycle design (volume of steam, soaking and production times, injection configuration) as well as the well spacing were all reservoir simulation driven. Figure 7 and Table 5 summarize the four cycle designs.</anchoringText>
+<image-wrap id="102118183748MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118183748MS_i_7.tif" id="ImgLink-7" />
+<caption>Graphical summary of the four steam cycle designs</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Graphical summary of the four steam cycle designs</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="8" data-type-order="13">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr13">The intention in all cycles was to inject pre-defined volumes of steam to build up the system pressure. The pressure build-up was capped at 1000 psi to prevent further fracturing of the reservoir or extending existing natural fractures. A slow injection pressure build-up was noticed in all four FIM cycles. Figure 8 illustrates the pressure build in cycles 1 and 2. Similar behavior was noticed in cycles 3 and 4.</anchoringText>
+<image-wrap id="102118183748MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118183748MS_i_8.tif" id="ImgLink-8" />
+<caption>Pressure buildup during injection in cycles 1 and 2</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Pressure buildup during injection in cycles 1 and 2</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="9" data-type-order="14">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr14">The DTS profile (Figure 9) of well H2 confirms that the majority of the injected steam volumes are entering the extensive fracture system. An additional possible cause for slow pressure buildup is loss of steam into the underlying Ostracod reservoir. As mentioned earlier, there is no effective seal between the Rubble and the Ostracod. Furthermore, 3D seismic and wellbore image logs show that faults and fractures cut across the two reservoirs.</anchoringText>
+<image-wrap id="102118183748MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118183748MS_i_9.tif" id="ImgLink-9" />
+<caption>Distributed temperature survey (DTS) evidence for significant steam loss into faults and fractures during steam injection</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Distributed temperature survey (DTS) evidence for significant steam loss into faults and fractures during steam injection</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="10" data-type-order="15">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr15">In the fourth FIM cycle a different injection configuration was used. Steam was only injected in the four horizontal edge wells H1, H3, H4 and H6. Although a similar volume of steam flooded the same fracture system a slower pressure build-up was recorded when compared to the previous three cycles, as illustrated in Figure 10. This could be due to wider injection well spacing, lower injection rates per well, or greater pressure depletion of the fractures.</anchoringText>
+<image-wrap id="102118183748MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118183748MS_i_10.tif" id="ImgLink-10" />
+<caption>Pressure buildup during injection in cycle 4</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Pressure buildup during injection in cycle 4</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="11" data-type-order="16">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr16">A steep pressure drop has been observed in all four FIM cycles during the soaking period as shown by Figure 11. When injection ends on day 3, downhole pressure drops from around a 1000 psi to less than 400 psi in only 3 days of soak. Such a steep drop in pressure may suggest leakage in which injected fluids escape out of the system (most probably to the underlying Ostracod).</anchoringText>
+<image-wrap id="102118183748MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118183748MS_i_11.tif" id="ImgLink-11" />
+<caption>Downhole pressure and temperature during the soaking period</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Downhole pressure and temperature during the soaking period</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="12" data-type-order="17">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr17">A SOR of 5 bs/bo or less has been achieved in all four cycles, as shown in Figure 12. This is a marked improvement over the 8 to 10 bs/bo SOR obtained during the trials of other thermal processes.</anchoringText>
+<image-wrap id="102118183748MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118183748MS_i_12.tif" id="ImgLink-12" />
+<caption>SOR of all cycles</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>SOR of all cycles</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="13" data-type-order="18">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr18">The downhole temperature data during the production phase demonstrates good reservoir heat retention. Comparing the downhole temperature between cycles 3 and 4 at the same cumulative liquid produced, the reservoir downhole temperature in cycle 4 is approximately 20°F higher than the preceding cycle's temperature (Figure 13). This observation is consistent with the increase in matrix temperature recorded in the observation well M1 (Figure 14).</anchoringText>
+<image-wrap id="102118183748MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118183748MS_i_13.tif" id="ImgLink-13" />
+<caption>Temperature profile during the production phase</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Temperature profile during the production phase</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="14" data-type-order="19">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr19">The downhole temperature data during the production phase demonstrates good reservoir heat retention. Comparing the downhole temperature between cycles 3 and 4 at the same cumulative liquid produced, the reservoir downhole temperature in cycle 4 is approximately 20°F higher than the preceding cycle's temperature (Figure 13). This observation is consistent with the increase in matrix temperature recorded in the observation well M1 (Figure 14).</anchoringText>
+<image-wrap id="102118183748MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118183748MS_i_14.tif" id="ImgLink-14" />
+<caption>Temperature profile in monitoring well M1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Temperature profile in monitoring well M1</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="15" data-type-order="20">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr20">The DTS temperature profile of well H2 shows that the fracture systems dominate the flow in the production phase as they did during steam injection. The temperature is highest at the fractured zones as shown in Figure 15. It is believed that as steam is injected into the fracture system, heat transfers from the fracture face to the adjacent matrix, increasing the temperature of the matrix and its occupying fluids, and causing them to thermally expand and be expelled out of the matrix.</anchoringText>
+<image-wrap id="102118183748MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118183748MS_i_15.tif" id="ImgLink-15" />
+<caption>Temperature profile in well H2 during the production phase</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Temperature profile in well H2 during the production phase</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

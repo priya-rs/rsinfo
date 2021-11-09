@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118180153MS.txt" extractionDate="2021-03-19T16:10:18Z">
+<doi>10.2118/180153-MS</doi>
+<pii>10.2118/180153-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="4">
+<table-wrap id="102118180153MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1"> </anchoringText>
+<label>Table 1</label>
+<caption>Grove well 49/10A-G6z perforated interval locations.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Grove well 49/10A-G6z perforated interval locations.</caption-text>
+</formatted-caption>
+<table id="102118180153MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">
+Perf.
+</th>
+<th valign="bottom" align="center">MD<sub>brt</sub> (ft)</th>
+<th valign="bottom" align="center">TVD<sub>brt</sub> (ft)</th>
+<th valign="bottom" align="center">Sandstone Layer</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">5</td>
+<td valign="bottom" align="left">12,885 to 12,895</td>
+<td valign="bottom" align="left">11,097</td>
+<td valign="bottom" align="left">BRM "A"</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">4</td>
+<td valign="bottom" align="left">13,407 to 13,414</td>
+<td valign="bottom" align="left">11,115</td>
+<td align="left">BRM "A"</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">3</td>
+<td valign="bottom" align="left">13,912 to 13,919</td>
+<td valign="bottom" align="left">11,134</td>
+<td align="left">BRM "A"</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">2</td>
+<td valign="bottom" align="left">14,575 to 14,582</td>
+<td valign="bottom" align="left">11,158</td>
+<td align="left">BRM "A"</td>
+</tr>
+<tr>
+<td align="left">
+1
+</td>
+<td align="left">16,275 to 16,282</td>
+<td align="left">11,220</td>
+<td valign="top" align="left">BRM "A"</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="6" table-order="2" data-type-order="7">
+<table-wrap id="102118180153MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2"> </anchoringText>
+<label>Table 2</label>
+<caption>Tabulated output from gun simulations.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Tabulated output from gun simulations.</caption-text>
+</formatted-caption>
+<table id="102118180153MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Charge</th>
+<th valign="bottom" align="center">0° Exit Hole
+</th>
+<th valign="bottom" align="center">180° Exit Hole</th>
+<th valign="bottom" align="center">Minimum Exit Hole Required</th>
+<th valign="bottom" align="center">Pass/Fail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">A</td>
+<td valign="bottom" align="center">0.28</td>
+<td valign="bottom" align="center">0.29</td>
+<td valign="bottom" align="center">0.37</td>
+<td valign="bottom" align="center">Fail</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">B</td>
+<td valign="bottom" align="center">0.22</td>
+<td valign="bottom" align="center">0.28</td>
+<td valign="bottom" align="center">0.37</td>
+<td valign="bottom" align="center">Fail</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">C</td>
+<td valign="bottom" align="center">0.43</td>
+<td valign="bottom" align="center">0.56</td>
+<td valign="bottom" align="center">0.37</td>
+<td valign="bottom" align="center">Pass</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="10" table-order="3" data-type-order="11">
+<table-wrap id="102118180153MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3"> </anchoringText>
+<label>Table 3</label>
+<caption>Typical fluid and proppant schedule.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Typical fluid and proppant schedule.</caption-text>
+</formatted-caption>
+<table id="102118180153MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Stage No.</th>
+<th valign="bottom" align="center">
+Stage Description
+</th>
+<th valign="bottom" align="center">Fracturing Fluid (lbm/gal)</th>
+<th valign="bottom" align="center">Clean Volume (gal)</th>
+<th valign="bottom" align="center">Slurry Rate (bbl/min)</th>
+<th valign="bottom" align="center">Proppant Conc (lbm/gal)</th>
+<th valign="bottom" align="center">Proppant Type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">1</td>
+<td valign="bottom" align="left">Flush lines</td>
+<td valign="bottom" align="center">10</td>
+<td valign="bottom" align="center">1,800</td>
+<td valign="bottom" align="center">—</td>
+<td valign="bottom" align="center">—</td>
+<td valign="bottom" align="center">—</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">2</td>
+<td valign="bottom" align="left">Pressure test</td>
+<td valign="bottom" align="center">10</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">—</td>
+<td valign="bottom" align="center">—</td>
+<td valign="bottom" align="center">—</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">3</td>
+<td valign="bottom" align="left">BD/SD test</td>
+<td valign="bottom" align="center">10</td>
+<td valign="bottom" align="center">10,389</td>
+<td valign="bottom" align="center">14.73</td>
+<td valign="bottom" align="center">—</td>
+<td valign="bottom" align="center">—</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">4</td>
+<td valign="bottom" align="left">Shut-in</td>
+<td valign="bottom" align="center">—</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">—</td>
+<td valign="bottom" align="center">—</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">5</td>
+<td valign="bottom" align="left">Minifrac pad</td>
+<td valign="bottom" align="center">35</td>
+<td valign="bottom" align="center">6,037</td>
+<td valign="bottom" align="center">15.7</td>
+<td valign="bottom" align="center">—</td>
+<td valign="bottom" align="center">—</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">6</td>
+<td valign="bottom" align="left">Step rate test</td>
+<td valign="bottom" align="center">35</td>
+<td valign="bottom" align="center">10,185</td>
+<td valign="bottom" align="center">30.56</td>
+<td valign="bottom" align="center">—</td>
+<td valign="bottom" align="center">—</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">7</td>
+<td valign="bottom" align="left">Shut-in</td>
+<td valign="bottom" align="center">—</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">—</td>
+<td valign="bottom" align="center">—</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">8</td>
+<td valign="bottom" align="left">Prepad</td>
+<td valign="bottom" align="center">35#</td>
+<td valign="bottom" align="center">2,110</td>
+<td valign="bottom" align="center">15.48</td>
+<td valign="bottom" align="center">—</td>
+<td valign="bottom" align="center">—</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">9</td>
+<td valign="bottom" align="left">Main frac pad</td>
+<td valign="bottom" align="center">35</td>
+<td valign="bottom" align="center">29,811</td>
+<td valign="bottom" align="center">36.14</td>
+<td valign="bottom" align="center">—</td>
+<td valign="bottom" align="center">—</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">10</td>
+<td valign="bottom" align="left">Proppant-laden fluid</td>
+<td valign="bottom" align="center">35</td>
+<td valign="bottom" align="center">9,171</td>
+<td valign="bottom" align="center">36.29</td>
+<td valign="bottom" align="center">0.4</td>
+<td valign="bottom" align="center">16/30 Mesh</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">11</td>
+<td valign="bottom" align="left">Proppant-laden fluid</td>
+<td valign="bottom" align="center">35</td>
+<td valign="bottom" align="center">22,312</td>
+<td valign="bottom" align="center">36.12</td>
+<td valign="bottom" align="center">1.11</td>
+<td valign="bottom" align="center">16/30 Mesh</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">12</td>
+<td valign="bottom" align="left">Proppant-laden fluid</td>
+<td valign="bottom" align="center">35</td>
+<td valign="bottom" align="center">20,550</td>
+<td valign="bottom" align="center">36.12</td>
+<td valign="bottom" align="center">2.09</td>
+<td valign="bottom" align="center">16/30 Mesh</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">13</td>
+<td valign="bottom" align="left">Proppant-laden fluid</td>
+<td valign="bottom" align="center">35</td>
+<td valign="bottom" align="center">18,684</td>
+<td valign="bottom" align="center">36.07</td>
+<td valign="bottom" align="center">3.14</td>
+<td valign="bottom" align="center">16/30 Mesh</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">14</td>
+<td valign="bottom" align="left">Proppant-laden fluid</td>
+<td valign="bottom" align="center">35</td>
+<td valign="bottom" align="center">14,362</td>
+<td valign="bottom" align="center">36.15</td>
+<td valign="bottom" align="center">4.14</td>
+<td valign="bottom" align="center">16/30 Mesh</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">15</td>
+<td valign="bottom" align="left">Proppant-laden fluid</td>
+<td valign="bottom" align="center">35</td>
+<td valign="bottom" align="center">12,685</td>
+<td valign="bottom" align="center">36.14</td>
+<td valign="bottom" align="center">5.15</td>
+<td valign="bottom" align="center">16/30 Mesh</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">16</td>
+<td valign="bottom" align="left">Proppant-laden fluid</td>
+<td valign="bottom" align="center">35</td>
+<td valign="bottom" align="center">10,518</td>
+<td valign="bottom" align="center">36.11</td>
+<td valign="bottom" align="center">6.12</td>
+<td valign="bottom" align="center">16/30 Mesh</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">17</td>
+<td valign="bottom" align="left">Proppant-laden fluid</td>
+<td valign="bottom" align="center">35</td>
+<td valign="bottom" align="center">8,624</td>
+<td valign="bottom" align="center">36.1</td>
+<td valign="bottom" align="center">7.08</td>
+<td valign="bottom" align="center">16/30 Mesh</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">18</td>
+<td valign="bottom" align="left">Proppant-laden fluid</td>
+<td valign="bottom" align="center">35</td>
+<td valign="bottom" align="center">4,564</td>
+<td valign="bottom" align="center">36.08</td>
+<td valign="bottom" align="center">8.11</td>
+<td valign="bottom" align="center">16/30 Mesh</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">19</td>
+<td valign="bottom" align="left">Proppant-laden fluid</td>
+<td valign="bottom" align="center">35</td>
+<td valign="bottom" align="center">1,956</td>
+<td valign="bottom" align="center">36.04</td>
+<td valign="bottom" align="center">14.83</td>
+<td valign="bottom" align="center">16/30 Mesh</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">20</td>
+<td valign="bottom" align="left">Displacement</td>
+<td valign="bottom" align="center">35</td>
+<td valign="bottom" align="center">7,102</td>
+<td valign="bottom" align="center">36.18</td>
+<td valign="bottom" align="center">—</td>
+<td valign="bottom" align="center">—</td>
+</tr>
+<tr>
+<td align="left">21</td>
+<td align="left">Shut-in</td>
+<td align="center">—</td>
+<td align="center">—</td>
+<td align="center">0</td>
+<td align="center">—</td>
+<td align="center">—</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="11" table-order="4" data-type-order="12">
+<table-wrap id="102118180153MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">Fractures 3, 4, and 5 were performed using the same procedure as for the diagnostic testing. In all cases, a single dominant fracture was indicated, the 100-mesh slug was omitted on all treatments, and schedules similar to those shown in Table 3 were successfully pumped with concentrations of 4 to 16 lbm/gal (480 to 1920 kg/m3). The proppant plugs for Fractures 3 and 4 were placed in such a way that testing with CT was not required. Fracture 5 ended with a proppant concentration up to 7 lbm/gal (840 kg/m3). As this was the final treatment, a proppant plug was not required. An overview of the treatments is given in Table 4. A total of 1.5 million lbm of proppant was pumped using more than 19,000 bbl of fluid. The well situation after the final treatment and before cleaning out the well is shown in Figs. 9 and 10.</anchoringText>
+<label>Table 4</label>
+<caption>Treatment summary.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Treatment summary.</caption-text>
+</formatted-caption>
+<table id="102118180153MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Frac No.</th>
+<th valign="bottom" align="center">Total Proppant (Thousands of Ibm)</th>
+<th valign="bottom" align="center">
+Total Fluid (bbl)
+</th>
+<th valign="bottom" align="center">Stage</th>
+<th valign="bottom" align="center">Tubing ISIP (psi)</th>
+<th valign="bottom" align="center">Bottomhole ISIP (psi)</th>
+<th valign="bottom" align="center">Bottomhole Closure (psi)</th>
+<th valign="bottom" align="center">Closure Gradient (psi/ft)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2" align="center" bgcolor="#D9D9D9">Zone 1</td>
+<td valign="bottom" align="center" bgcolor="#D9D9D9">220.8</td>
+<td valign="bottom" align="center" bgcolor="#D9D9D9">3,575</td>
+<td valign="bottom" align="center" bgcolor="#D9D9D9">Injection</td>
+<td valign="bottom" align="center" bgcolor="#D9D9D9">2,905</td>
+<td valign="bottom" align="center" bgcolor="#D9D9D9">7,766</td>
+<td valign="bottom" align="center" bgcolor="#D9D9D9">6,867</td>
+<td valign="bottom" align="center" bgcolor="#D9D9D9">0.612</td>
+</tr>
+<tr>
+<td valign="top" align="center" bgcolor="#D9D9D9">
+</td>
+<td valign="top" align="center" bgcolor="#D9D9D9">
+</td>
+<td align="center" bgcolor="#D9D9D9">Minifrac</td>
+<td align="center" bgcolor="#D9D9D9">3,101</td>
+<td align="center" bgcolor="#D9D9D9">7,947</td>
+<td align="center" bgcolor="#D9D9D9">No closure</td>
+<td align="center" bgcolor="#D9D9D9">N/A</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">Zone 2</td>
+<td align="center">245.9</td>
+<td align="center">4,147</td>
+<td align="center">Injection</td>
+<td align="center">2,080</td>
+<td align="center">6,878</td>
+<td align="center">6,536</td>
+<td align="center">0.588</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">Minifrac</td>
+<td valign="top" align="center">2,710</td>
+<td valign="top" align="center">7,509</td>
+<td valign="top" align="center">6,333</td>
+<td valign="top" align="center">0.570</td>
+</tr>
+<tr>
+<td rowspan="2" align="center" bgcolor="#D9D9D9">Zone 3</td>
+<td valign="bottom" align="center" bgcolor="#D9D9D9">388.5</td>
+<td valign="bottom" align="center" bgcolor="#D9D9D9">3,918</td>
+<td valign="bottom" align="center" bgcolor="#D9D9D9">Injection</td>
+<td valign="bottom" align="center" bgcolor="#D9D9D9">2,536</td>
+<td valign="bottom" align="center" bgcolor="#D9D9D9">7,395</td>
+<td valign="bottom" align="center" bgcolor="#D9D9D9">6,356</td>
+<td valign="bottom" align="center" bgcolor="#D9D9D9">0.572</td>
+</tr>
+<tr>
+<td valign="top" align="center" bgcolor="#D9D9D9">
+</td>
+<td valign="top" align="center" bgcolor="#D9D9D9">
+</td>
+<td align="center" bgcolor="#D9D9D9">Minifrac</td>
+<td align="center" bgcolor="#D9D9D9">2,445</td>
+<td align="center" bgcolor="#D9D9D9">7,305</td>
+<td align="center" bgcolor="#D9D9D9">6,424</td>
+<td align="center" bgcolor="#D9D9D9">0.578</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">Zone 4</td>
+<td valign="bottom" align="center">422.2</td>
+<td valign="bottom" align="center">4,142</td>
+<td valign="bottom" align="center">Injection</td>
+<td valign="bottom" align="center">2,049</td>
+<td valign="bottom" align="center">6,840</td>
+<td valign="bottom" align="center">5,979</td>
+<td valign="bottom" align="center">0.538</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td align="center">Minifrac</td>
+<td align="center">2,243</td>
+<td align="center">7,037</td>
+<td align="center">No closure</td>
+<td align="center">N/A</td>
+</tr>
+<tr>
+<td rowspan="2" align="center" bgcolor="#D9D9D9">Zone 5</td>
+<td valign="bottom" align="center" bgcolor="#D9D9D9">223.7</td>
+<td valign="bottom" align="center" bgcolor="#D9D9D9">3,582</td>
+<td valign="bottom" align="center" bgcolor="#D9D9D9">Injection</td>
+<td valign="bottom" align="center" bgcolor="#D9D9D9">2,476</td>
+<td valign="bottom" align="center" bgcolor="#D9D9D9">7,269</td>
+<td valign="bottom" align="center" bgcolor="#D9D9D9">6,500</td>
+<td valign="bottom" align="center" bgcolor="#D9D9D9">0.586</td>
+</tr>
+<tr>
+<td valign="top" align="center" bgcolor="#D9D9D9">
+</td>
+<td valign="top" align="center" bgcolor="#D9D9D9">
+</td>
+<td align="center" bgcolor="#D9D9D9">Minifrac</td>
+<td align="center" bgcolor="#D9D9D9">2,803</td>
+<td align="center" bgcolor="#D9D9D9">7,596</td>
+<td align="center" bgcolor="#D9D9D9">No closure</td>
+<td align="center" bgcolor="#D9D9D9">N/A</td>
+</tr>
+<tr>
+<td align="center">Total</td>
+<td align="center">
+1501.1
+</td>
+<td align="center">19,365</td>
+<td align="center">—</td>
+<td align="center">—</td>
+<td align="center">—</td>
+<td align="center">—</td>
+<td align="center">—</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="13" table-order="5" data-type-order="17">
+<table-wrap id="102118180153MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">The stress gradients for the wells were 0.61 psi/ft (Zone 1), 0.59 psi/ft (Zone 2), 0.57 psi/ft (Zone 3), 0.54 psi/ft (Zone 4), and 0.59 psi/ft (Zone 5), which provided an average of 0.58 for all zones. The resulting matched simulator fracture geometries for each zone are summarized in Table 5.</anchoringText>
+<label>Table 5</label>
+<caption>Modelling results from P3D simulator.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Modelling results from P3D simulator.</caption-text>
+</formatted-caption>
+<table id="102118180153MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Zone</th>
+<th valign="bottom" align="center">Propped Length (ft)</th>
+<th valign="bottom" align="center">Propped Height (ft)</th>
+<th valign="bottom" align="center">Fracture Top Depth (ft)</th>
+<th valign="bottom" align="center">Fracture Bottom Depth (ft)</th>
+<th valign="bottom" align="center">Average Fracture Width (in.)</th>
+<th valign="bottom" align="center">Average Proppant Concentration (lbm/ft<sup>2</sup>)</th>
+<th valign="bottom" align="center">Dimensionless Conductivity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">662.5</td>
+<td valign="bottom" align="center">212.7</td>
+<td valign="bottom" align="center">11,018.5</td>
+<td valign="bottom" align="center">11,238.7</td>
+<td valign="bottom" align="center">0.262</td>
+<td valign="bottom" align="center">0.72</td>
+<td valign="bottom" align="center">61.098</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">576.4</td>
+<td valign="bottom" align="center">156</td>
+<td valign="bottom" align="center">11,029.9</td>
+<td valign="bottom" align="center">11,193.8</td>
+<td valign="bottom" align="center">0.172</td>
+<td valign="bottom" align="center">1.76</td>
+<td valign="bottom" align="center">204.808</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">507.5</td>
+<td valign="bottom" align="center">129.9</td>
+<td valign="bottom" align="center">11,032.3</td>
+<td valign="bottom" align="center">11,162.2</td>
+<td valign="bottom" align="center">0.379</td>
+<td valign="bottom" align="center">3.87</td>
+<td valign="bottom" align="center">7.424</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">4</td>
+<td valign="bottom" align="center">497.8</td>
+<td valign="bottom" align="center">187.4</td>
+<td valign="bottom" align="center">10,931.8</td>
+<td valign="bottom" align="center">11,157.9</td>
+<td valign="bottom" align="center">1.185</td>
+<td valign="bottom" align="center">2.92</td>
+<td valign="bottom" align="center">21.901</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">5</td>
+<td align="center">256.2</td>
+<td align="center">132.2</td>
+<td align="center">11,001.7</td>
+<td align="center">11,165.6</td>
+<td align="center">1.936</td>
+<td align="center">4.32</td>
+<td align="center">96.174</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

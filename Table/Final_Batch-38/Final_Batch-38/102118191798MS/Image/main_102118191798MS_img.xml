@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191798MS.txt" extractionDate="2021-03-31T12:01:12Z">
+<doi>10.2118/191798-MS</doi>
+<pii>10.2118/191798-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr11">For example, Barhaug et al. (2014) and King and Wray (2014) published separate papers in which nonlinear regression models suggested an optimal stage length, treatment rate, and proppant mass per lateral foot for Williston Basin wells. Their study showed that stage length has a negative monotonic trend, meaning that more stages will increase the response variable (i.e., 180-day cumulative oil production). The authors went on to show that there is a plateau in the trend between 280 and 370 ft, and they explained that this plateau could be present because a predictor variable or combination of predictor variables need to be added to the analysis to smooth the data, or there may be very little or no benefit to decreasing the stage length from 370 to 280 ft (Fig. 1).</anchoringText>
+<image-wrap id="102118191798MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118191798MS_i_1.tif" id="ImgLink-1" />
+<caption>Transformed stage length vs. stage length derived from MVA using nonlinear regression [SPE-170721].</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Transformed stage length vs. stage length derived from MVA using nonlinear regression [SPE-170721].</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr12">Mayerhofer et al. (2017) presented a hybrid physics-based MVA approach for Middle Bakken and Three Forks wells to try to overcome some of the drawbacks discussed above. They developed physics-based relationships between production outcome (i.e., 365-day cumulative oil per lateral length) and completion-driven parameters (i.e., proppant/fluid volumes pumped and fracture spacing) that can be used as "transformed" variables in the MLR. These relationships were obtained from history-matched fracture and reservoir models. Fig. 2 shows the results of reservoir modeling sensitivities of 365-day cumulative oil production per foot of lateral vs.</anchoringText>
+<image-wrap id="102118191798MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118191798MS_i_2.tif" id="ImgLink-2" />
+<caption>Proxy function of 365-day cumulative oil (bbl//ft) vs. proppant mass (lb/ft) [SPE-187254].</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Proxy function of 365-day cumulative oil (bbl//ft) vs. proppant mass (lb/ft) [SPE-187254].</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr13">The plot shows significant improvement from 150 to 800 lb/ft, but diminishing production improvements above 800 lb/ft. The curve shape and resulting proxy function are then derived from this plot. The function that approximates the results best is natural log-based, and it is shown in the plot. The natural log-based function provides the transformed relationship of proppant mass per foot of lateral in the subsequent MLR models. The authors also presented the results of reservoir-modeling sensitivities of 365-day cumulative oil production per foot of lateral vs. fracture spacing (Fig. 3).</anchoringText>
+<image-wrap id="102118191798MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118191798MS_i_3.tif" id="ImgLink-3" />
+<caption>Proxy function of 365-day cumulative oil (bbl/ft) vs. fracture spacing (ft) [SPE-187254].</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Proxy function of 365-day cumulative oil (bbl/ft) vs. fracture spacing (ft) [SPE-187254].</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="6" pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr14">If we are simply given the data values for Y, |X1|, |X2|, |X3|, X4, |X5|, and X6 without any knowledge of the functional relationships above (Eq. 5), we would usually first try to create bivariate plots between Y and each of the predictor variables to gain some insight into the pair-wise relationships as shown in Fig. 4. The black dots represent the 400 data points, and the red lines represent a linear relationship between Y and each of the predictor variables. Although these plots reveal some sort of relationship between the Y and Xi or |Xi| variables, direct application of linear regression and MLR is most likely not very optimal.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-4">
+<label>Figure 4</label>
+<imageLink type="mediaResource" href="102118191798MS_i_4.tif" id="ImgLink-4" />
+<caption>Bivariate plots of the simulated dataset.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Bivariate plots of the simulated dataset.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118191798MS_i_4a.tif" id="ImgLink-4a" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118191798MS_i_4b.tif" id="ImgLink-4b" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-4c">
+<imageLink type="mediaResource" href="102118191798MS_i_4c.tif" id="ImgLink-4c" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-4d">
+<imageLink type="mediaResource" href="102118191798MS_i_4d.tif" id="ImgLink-4d" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-4e">
+<imageLink type="mediaResource" href="102118191798MS_i_4e.tif" id="ImgLink-4e" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-4f">
+<imageLink type="mediaResource" href="102118191798MS_i_4f.tif" id="ImgLink-4f" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="7" pdf-page="8" figure-order="5" data-type-order="10">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr15">To confirm whether the ACE model can recover the above functions, we ran the ACE algorithm for this simulated dataset. The results are shown in Fig. 5. Regression of the transformed response variable on all of the transformed predictor variables results in all parameter coefficients of the transformed predictor variables being positive and close to one (Eq. 7):</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-5">
+<label>Figure 5</label>
+<imageLink type="mediaResource" href="102118191798MS_i_5.tif" id="ImgLink-5" />
+<caption>Optimal transformations obtained by the ACE model for the simulated dataset.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Optimal transformations obtained by the ACE model for the simulated dataset.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118191798MS_i_5a.tif" id="ImgLink-5a" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118191798MS_i_5b.tif" id="ImgLink-5b" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-5c">
+<imageLink type="mediaResource" href="102118191798MS_i_5c.tif" id="ImgLink-5c" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-5d">
+<imageLink type="mediaResource" href="102118191798MS_i_5d.tif" id="ImgLink-5d" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-5e">
+<imageLink type="mediaResource" href="102118191798MS_i_5e.tif" id="ImgLink-5e" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-5f">
+<imageLink type="mediaResource" href="102118191798MS_i_5f.tif" id="ImgLink-5f" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-5g">
+<imageLink type="mediaResource" href="102118191798MS_i_5g.tif" id="ImgLink-5g" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="6" data-type-order="11">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr16">Fig. 6 compares the predicted vs. observed Y values for the MLR and ACE models. The diagonal red reference lines indicate where the observed and predicted values would be equal. We compared how well both models perform on the data using the R2, training RMSE, and test RMSE values. The R2 statistic represents how much the model explains the variability of the response data around its mean, whereas the RMSE represents how far, on average, the residuals (observed minus predicted values) are from zero and is usually a better indicator of how well a model will predict (i.e., test RMSE).</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-6">
+<label>Figure 6</label>
+<imageLink type="mediaResource" href="102118191798MS_i_6.tif" id="ImgLink-6" />
+<caption>Predicted vs. observed Y values using the MLR and ACE models for the simulated dataset.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Predicted vs. observed Y values using the MLR and ACE models for the simulated dataset.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118191798MS_i_6a.tif" id="ImgLink-6a" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118191798MS_i_6b.tif" id="ImgLink-6b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="7" data-type-order="12">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr17">As a whole, the Permian Basin remains the most active basin in the U.S. today. The total number of horizontal wells in the Midland Basin is currently over 6,000, of which at least 4,950 were completed in the Wolfcamp Formation. The Wolfcamp interval has stacked pay potential with different possible target zones in which to land horizontal wellbores. For this study, we focused on the Wolfcamp B interval. Fig. 7 (left) shows the Wolfcamp B section from a type log in Midland County, which is part of a larger commercial petrophysical and geomechanical dataset.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-7">
+<label>Figure 7</label>
+<imageLink type="mediaResource" href="102118191798MS_i_7.tif" id="ImgLink-7" />
+<caption>Left: Type log from Midland County showing the Wolfcamp B section with standard triple combo curves and final model variables (clay volume and permeability). Right: 365-day BO/ft bubbles with TVD contours colored by operator.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Left: Type log from Midland County showing the Wolfcamp B section with standard triple combo curves and final model variables (clay volume and permeability). Right: 365-day BO/ft bubbles with TVD contours colored by operator.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118191798MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order>Left</caption-order>
+<caption-text>Type log from Midland County showing the Wolfcamp B section with standard triple combo curves and final model variables (clay volume and permeability).</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118191798MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order>Right</caption-order>
+<caption-text>365-day BO/ft bubbles with TVD contours colored by operator.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="8" pdf-page="12" figure-order="8" data-type-order="14">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr18">Fig. 8 shows the bivariate plots between the 365-day BO/ft vs. the predictor variables for the Midland Basin Wolfcamp B horizontal well dataset. The 365-day GOR was part of the predictor variables because it is likely tied to initial pore pressure and bubble point pressure. The stabilized 365-day water cut and 365-day GOR were used as proxies for geographical location and reservoir quality. In Fig. 8, the black dots represent the 1,825 wells and the red lines represent a linear regression of the response variable vs. each predictor variable. The linear regression of the 365-day BO/ft on the individual predictor variables gives a maximum R2 of 0.42 with TVD.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-8">
+<label>Figure 8</label>
+<imageLink type="mediaResource" href="102118191798MS_i_8.tif" id="ImgLink-8" />
+<caption>Bivariate plots of the Midland Basin Wolfcamp B wells. The black dots represent the 1,825 horizontal wells and the red lines represent a linear regression of the response variable vs. each predictor variable. There appears to be a stronger correlation between 365-day BO/ft and TVD.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Bivariate plots of the Midland Basin Wolfcamp B wells. The black dots represent the 1,825 horizontal wells and the red lines represent a linear regression of the response variable vs. each predictor variable. There appears to be a stronger correlation between 365-day BO/ft and TVD.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118191798MS_i_8a.tif" id="ImgLink-8a" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118191798MS_i_8b.tif" id="ImgLink-8b" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-8c">
+<imageLink type="mediaResource" href="102118191798MS_i_8c.tif" id="ImgLink-8c" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-8d">
+<imageLink type="mediaResource" href="102118191798MS_i_8d.tif" id="ImgLink-8d" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-8e">
+<imageLink type="mediaResource" href="102118191798MS_i_8e.tif" id="ImgLink-8e" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-8f">
+<imageLink type="mediaResource" href="102118191798MS_i_8f.tif" id="ImgLink-8f" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-8g">
+<imageLink type="mediaResource" href="102118191798MS_i_8g.tif" id="ImgLink-8g" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-8h">
+<imageLink type="mediaResource" href="102118191798MS_i_8h.tif" id="ImgLink-8h" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="9" pdf-page="14" figure-order="9" data-type-order="17">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr19">Table 8 shows the ACE regression results for this dataset. All predictor variables have p-values of less than 0.01, indicating that they are highly statistically significant. Fig. 9 presents the optimal transformations of the 365-day BO/ft and predictor variables obtained using the ACE model. This figure shows evidence of more complicated relationships between the 365-day BO/ft and the predictor variables as compared to the assumed linear relationships using the conventional MLR.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-9">
+<label>Figure 9</label>
+<imageLink type="mediaResource" href="102118191798MS_i_9.tif" id="ImgLink-9" />
+<caption>ACE optimal transformations of the Midland Basin Wolfcamp B wells, indicating evidence of more complicated relationships between the 365-day BO/ft and the predictor variables as compared to the assumed linear relationships using the conventional MLR.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>ACE optimal transformations of the Midland Basin Wolfcamp B wells, indicating evidence of more complicated relationships between the 365-day BO/ft and the predictor variables as compared to the assumed linear relationships using the conventional MLR.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118191798MS_i_9a.tif" id="ImgLink-9a" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118191798MS_i_9b.tif" id="ImgLink-9b" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-9c">
+<imageLink type="mediaResource" href="102118191798MS_i_9c.tif" id="ImgLink-9c" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-9d">
+<imageLink type="mediaResource" href="102118191798MS_i_9d.tif" id="ImgLink-9d" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-9e">
+<imageLink type="mediaResource" href="102118191798MS_i_9e.tif" id="ImgLink-9e" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-9f">
+<imageLink type="mediaResource" href="102118191798MS_i_9f.tif" id="ImgLink-9f" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-9g">
+<imageLink type="mediaResource" href="102118191798MS_i_9g.tif" id="ImgLink-9g" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-9h">
+<imageLink type="mediaResource" href="102118191798MS_i_9h.tif" id="ImgLink-9h" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-9i">
+<imageLink type="mediaResource" href="102118191798MS_i_9i.tif" id="ImgLink-9i" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="10" data-type-order="18">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr20">Fig. 10 illustrates the general workflow for combining the ACE model with the hybrid physics-based approach in this study. First, well completion and reservoir data were collected from various sources and then visualized using histograms and scatterplots. Next, the response and predictor variables were selected with a backward selection method. Simultaneously, fracture modeling to establish physical relationships between fracture geometry/conductivity and treatment size was performed.</anchoringText>
+<image-wrap id="102118191798MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118191798MS_i_10.tif" id="ImgLink-10" />
+<caption>General workflow for ACE-augmented hybrid physics-based MVA model.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>General workflow for ACE-augmented hybrid physics-based MVA model.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="11" data-type-order="19">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr21">Fig. 11 is the predicted 365-day BO/ft vs. proppant mass (lb/ft) using the MLR, hybrid physics-based MVA, and fully data-driven ACE models for the Midland Basin Wolfcamp B dataset. The black dots represent the 1,825 Midland Basin horizontal wells in this study. The blue curve represents the predicted 365-day BO/ft from the hybrid physics-based MVA where all other predictor variables are fixed at their mean values.</anchoringText>
+<image-wrap id="102118191798MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118191798MS_i_11.tif" id="ImgLink-11" />
+<caption>Predicted 365-day BO/ft vs. proppant mass (lb/ft) for the Midland Basin Wolfcamp B wells. The physics-based transformation appears to provide a more realistic prediction of diminishing production improvement with larger treatment sizes compared to a linear projection with MLR or overly optimistic increasing incremental production with the full ACE model.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Predicted 365-day BO/ft vs. proppant mass (lb/ft) for the Midland Basin Wolfcamp B wells. The physics-based transformation appears to provide a more realistic prediction of diminishing production improvement with larger treatment sizes compared to a linear projection with MLR or overly optimistic increasing incremental production with the full ACE model.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="9" pdf-page="16" figure-order="12" data-type-order="20">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr22">As expected, regression of the transformed response on the transformed predictor variables for the ACE-augmented hybrid physics-based MVA model results in a lower R2 of 0.62 as compared to the full ACE model (0.64), but the R2 value is still higher than that obtained using the conventional MLR (0.54). Using the ACE-augmented hybrid physics-based model, the training and test RMSEs are 3.42 bbl/ft and 3.48 bbl/ft respectively in real space, which are lower than those obtained by the MLR. Fig. 12 shows the ACE-augmented hybrid physics-based transformations of the Midland Basin Wolfcamp B data.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-12">
+<label>Figure 12</label>
+<imageLink type="mediaResource" href="102118191798MS_i_12.tif" id="ImgLink-12" />
+<caption>ACE-augmented hybrid physics-based transformations of Midland Basin Wolfcamp B data. To allow for direct comparison to the work of Mayerhofer et al. (2017), the 365-day BO/ft transformation was assumed to be linear. The proppant mass transformation function is given by 4.4535 × proppant mass (lb/ft)<sup>0.3465</sup>, based on a curve fitting of the reservoir-modeling production sensitivities for the Midland Basin Wolfcamp B horizontal wells.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>ACE-augmented hybrid physics-based transformations of Midland Basin Wolfcamp B data. To allow for direct comparison to the work of <link href="BIB1">Mayerhofer et al. (2017)</link>, the 365-day BO/ft transformation was assumed to be linear. The proppant mass transformation function is given by 4.4535 × proppant mass (lb/ft)<sup>0.3465</sup>, based on a curve fitting of the reservoir-modeling production sensitivities for the Midland Basin Wolfcamp B horizontal wells.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118191798MS_i_12a.tif" id="ImgLink-12a" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118191798MS_i_12b.tif" id="ImgLink-12b" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-12c">
+<imageLink type="mediaResource" href="102118191798MS_i_12c.tif" id="ImgLink-12c" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-12d">
+<imageLink type="mediaResource" href="102118191798MS_i_12d.tif" id="ImgLink-12d" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-12e">
+<imageLink type="mediaResource" href="102118191798MS_i_12e.tif" id="ImgLink-12e" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-12f">
+<imageLink type="mediaResource" href="102118191798MS_i_12f.tif" id="ImgLink-12f" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-12g">
+<imageLink type="mediaResource" href="102118191798MS_i_12g.tif" id="ImgLink-12g" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-12h">
+<imageLink type="mediaResource" href="102118191798MS_i_12h.tif" id="ImgLink-12h" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-12i">
+<imageLink type="mediaResource" href="102118191798MS_i_12i.tif" id="ImgLink-12i" />
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-1" type="bib">
+<bib id="BIB1">
+<label>Mayerhofer et al. (2017)</label>
+<author><last-name>Mayerhofer</last-name>, <first-name>M.J.</first-name></author> et al. <pubDate>2017</pubDate>. <article-title>A Cost/Benefit Review of Completion Choices in the Williston Basin Using a Hybrid Physics-Based Modeling and Multivariate Analysis Approach</article-title>. Presented at the SPE Annual Technical Conference and Exhibition, San Antonio, Texas, <first-page>9</first-page>-<last-page>11</last-page> October. SPE-187254-MS.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="13" data-type-order="21">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr23">Fig. 13 shows an example of a linear spline fit for the ACE-suggested transformation of the stabilized 365-day water cut. The same approach was used for the other predictor variables in the model. The final predictive model in real space is obtained by the regression of the 365-day BO/ft on all of the resulting parameterized predictor variables. The R2 from this parameterized model is 0.62, with the training and test RMSEs of 3.43 bbl/ft and 3.46 bbl/ft respectively. Fig. 14 compares the predicted vs.</anchoringText>
+<image-wrap id="102118191798MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118191798MS_i_13.tif" id="ImgLink-13" />
+<caption>Closed functional form of the transformed stabilized 365-day water cut showing a good fit between the ACE suggested transformation and a linear spline function.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Closed functional form of the transformed stabilized 365-day water cut showing a good fit between the ACE suggested transformation and a linear spline function.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="18" figure-order="14" data-type-order="22">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr24">Fig. 13 shows an example of a linear spline fit for the ACE-suggested transformation of the stabilized 365-day water cut. The same approach was used for the other predictor variables in the model. The final predictive model in real space is obtained by the regression of the 365-day BO/ft on all of the resulting parameterized predictor variables. The R2 from this parameterized model is 0.62, with the training and test RMSEs of 3.43 bbl/ft and 3.46 bbl/ft respectively. Fig. 14 compares the predicted vs.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-14">
+<label>Figure 14</label>
+<imageLink type="mediaResource" href="102118191798MS_i_14.tif" id="ImgLink-14" />
+<caption>Predicted vs. observed 365-day BO/ft. Top-left: conventional MLR; top-right: fully data-driven ACE model; and bottom: ACE-augmented hybrid physics-based MVA model.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Predicted vs. observed 365-day BO/ft. Top-left: conventional MLR; top-right: fully data-driven ACE model; and bottom: ACE-augmented hybrid physics-based MVA model.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118191798MS_i_14a.tif" id="ImgLink-14a" />
+<figure-specific-caption>
+<caption-order>Top-left</caption-order>
+<caption-text>conventional MLR;</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118191798MS_i_14b.tif" id="ImgLink-14b" />
+<figure-specific-caption>
+<caption-order>Top-right</caption-order>
+<caption-text>fully data-driven ACE model;</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-14c">
+<imageLink type="mediaResource" href="102118191798MS_i_14c.tif" id="ImgLink-14c" />
+<figure-specific-caption>
+<caption-order>bottom</caption-order>
+<caption-text>ACE-augmented hybrid physics-based MVA model.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="8" pdf-page="19" figure-order="15" data-type-order="23">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr25">Fig. 15 shows the predicted 365-day BO/ft vs. each predictor variable using the ACE-augmented hybrid physics-based model, while holding all of the other predictors fixed at their mean values. As described previously, the relationship of the 365-day BO/ft to proppant mass (lb/ft) is given by physics-based modeling, whereas the relationship of the 365-day BO/ft to the rest of the predictor variables is in the form of linear splines. Note that the y-axis in Fig. 15 is defined in real space rather than in transformed space. The black dots represent the 1,825 wells and the red lines represent a linear regression of the 365-day BO/ft vs. each predictor variable.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-15">
+<label>Figure 15</label>
+<imageLink type="mediaResource" href="102118191798MS_i_15.tif" id="ImgLink-15" />
+<caption>Predicted 365-day BO/ft vs. each predictor variable in the model using the ACE-augmented hybrid physics-based MVA (orange) and MLR (red). The relationship of the 365-day BO/ft to proppant mass (lb/ft) is given by physics-based modeling, whereas the relationship of the 365-day BO/ft to the rest of the predictor variables is in the form of linear splines. None of the predictor variables is exactly linearly correlated to the response variable for the entire range of the predictor values. The ACE-generated plots provide insight into the key variables that drive well productivity adjusted for other predictors in the model.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Predicted 365-day BO/ft vs. each predictor variable in the model using the ACE-augmented hybrid physics-based MVA (orange) and MLR (red). The relationship of the 365-day BO/ft to proppant mass (lb/ft) is given by physics-based modeling, whereas the relationship of the 365-day BO/ft to the rest of the predictor variables is in the form of linear splines. None of the predictor variables is exactly linearly correlated to the response variable for the entire range of the predictor values. The ACE-generated plots provide insight into the key variables that drive well productivity adjusted for other predictors in the model.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-15a">
+<imageLink type="mediaResource" href="102118191798MS_i_15a.tif" id="ImgLink-15a" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-15b">
+<imageLink type="mediaResource" href="102118191798MS_i_15b.tif" id="ImgLink-15b" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-15c">
+<imageLink type="mediaResource" href="102118191798MS_i_15c.tif" id="ImgLink-15c" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-15d">
+<imageLink type="mediaResource" href="102118191798MS_i_15d.tif" id="ImgLink-15d" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-15e">
+<imageLink type="mediaResource" href="102118191798MS_i_15e.tif" id="ImgLink-15e" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-15f">
+<imageLink type="mediaResource" href="102118191798MS_i_15f.tif" id="ImgLink-15f" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-15g">
+<imageLink type="mediaResource" href="102118191798MS_i_15g.tif" id="ImgLink-15g" />
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-15h">
+<imageLink type="mediaResource" href="102118191798MS_i_15h.tif" id="ImgLink-15h" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="16" data-type-order="24">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr26">Fig. 15 shows the predicted 365-day BO/ft vs. each predictor variable using the ACE-augmented hybrid physics-based model, while holding all of the other predictors fixed at their mean values. As described previously, the relationship of the 365-day BO/ft to proppant mass (lb/ft) is given by physics-based modeling, whereas the relationship of the 365-day BO/ft to the rest of the predictor variables is in the form of linear splines. Note that the y-axis in Fig. 15 is defined in real space rather than in transformed space. The black dots represent the 1,825 wells and the red lines represent a linear regression of the 365-day BO/ft vs. each predictor variable.</anchoringText>
+<image-wrap id="102118191798MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118191798MS_i_16.tif" id="ImgLink-16" />
+<caption>Variable importance for the Midland Basin Wolfcamp B wells. TVD and proppant mass are observed as the two most influencing predictors in the model, followed by GOR and water cut. Other variables such as average proppant concentration, average permeability, oil gravity, and clay volume have relatively much less impact in the model.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Variable importance for the Midland Basin Wolfcamp B wells. TVD and proppant mass are observed as the two most influencing predictors in the model, followed by GOR and water cut. Other variables such as average proppant concentration, average permeability, oil gravity, and clay volume have relatively much less impact in the model.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="21" figure-order="17" data-type-order="26">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr27">Fig. 17 (top) shows the total well cost, 1-year cumulative oil production, and 1-year USD/BO sensitivities to proppant mass (lb/ft) when average proppant concentration is held at the optimum value of 0.82 ppg. The physics-based transformation for proppant mass in the MVA model indicates a diminishing cumulative oil production with increasing proppant mass. Since proppant mass is a variable cost, the total well cost increases linearly with proppant mass. The minimum 1-year USD/BO is 1,166 lb/ft in this case.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-17">
+<label>Figure 17</label>
+<imageLink type="mediaResource" href="102118191798MS_i_17.tif" id="ImgLink-17" />
+<caption>Top: Total well cost, 1-year cumulative oil, and 1-year USD/BO vs. proppant mass; bottom: Total well cost, 1-year cumulative oil, and 1-year USD/BO vs. average proppant concentration.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Top: Total well cost, 1-year cumulative oil, and 1-year USD/BO vs. proppant mass; bottom: Total well cost, 1-year cumulative oil, and 1-year USD/BO vs. average proppant concentration.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-17a">
+<imageLink type="mediaResource" href="102118191798MS_i_17a.tif" id="ImgLink-17a" />
+<figure-specific-caption>
+<caption-order>Top</caption-order>
+<caption-text>Top: Total well cost, 1-year cumulative oil, and 1-year USD/BO vs. proppant mass</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191798MS-Img_SPi-17b">
+<imageLink type="mediaResource" href="102118191798MS_i_17b.tif" id="ImgLink-17b" />
+<figure-specific-caption>
+<caption-order>bottom</caption-order>
+<caption-text>Total well cost, 1-year cumulative oil, and 1-year USD/BO vs</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

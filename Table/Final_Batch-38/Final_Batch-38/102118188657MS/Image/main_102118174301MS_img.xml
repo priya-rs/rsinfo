@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118188657MS.txt" extractionDate="2021-03-27T12:16:17Z">
+<doi>10.2118/174301-MS</doi>
+<pii>10.2118/188657-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="6" figure-order="1" data-type-order="4">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr5">As an example, Figure 1 shows for reservoir LU: Thermal Region (dark area), as well as the RQI property with the 3 reservoir categories H(red), M(green) and L(blue) defined by RQI. In addition, 6 representative Model-sectors selected for LU reservoir are also remarked in this figure with the following color code: 3 pink rectangles (H, M &amp; L) for Thermal sectors, and 3 black rectangles (H, M &amp; L) for Non-Thermal sectors.</anchoringText>
+<image-wrap id="102118188657MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118188657MS_i_1.tif" id="ImgLink-1" />
+<caption>Reservoir LU - Thermal and Non-Thermal Regions, RQI categories, and Model-sectors</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Reservoir LU - Thermal and Non-Thermal Regions, RQI categories, and Model-sectors</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="2" data-type-order="5">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr6">Figure 2 shows a top view of a Model-sector. As it can be observed, the model corresponds to one of the 2 branches of a pad of horizontal wells. To ensure the simulation symmetry of the Model-sectors, the configuration includes 6 wells, with simulation of half wells located at the North and South boundaries, for a total of 5 effective horizontal wells per sector.</anchoringText>
+<image-wrap id="102118188657MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118188657MS_i_2.tif" id="ImgLink-2" />
+<caption>Top Horizontal well locations in a typical Model-Sector (property NTG, red cells= sand)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Top Horizontal well locations in a typical Model-Sector (property NTG, red cells= sand)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="3" data-type-order="7">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr7">In this stage, each reservoir was discretized in sectors as shown in Figure 3. These sectors were identified as Field-sectors. The corresponding STOIIP of each Field-sector was calculated, as well as their respective fractions of STOIIP, for each category H, M and L.</anchoringText>
+<image-wrap id="102118188657MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118188657MS_i_3.tif" id="ImgLink-3" />
+<caption>Yellow grid representing the discretization of LU reservoir in reservoir-sectors</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Yellow grid representing the discretization of LU reservoir in reservoir-sectors</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="4" data-type-order="8">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr8">The extrapolation function was validated with the numerical simulation of 6 additional Field-sectors that were selected in a random way. A comparison between the simulation results, and extrapolated results using Equation 2, showed a reasonably deviation, with average errors in the cumulative production of -6% for CP, -5% for the case of CP+CSS, and -4% for the case CP+CSS+SF. Two examples are shown in Figure 4.</anchoringText>
+<image-wrap id="102118188657MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118188657MS_i_4.tif" id="ImgLink-4" />
+<caption>Comparison of results between simulation and extrapolation function for two Field-sectors Validation of extrapolation (Field sector # 57 - CP+CSS+SF) Validation of extrapolation (Field sector #146 - CP+CSS)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Comparison of results between simulation and extrapolation function for two Field-sectors Validation of extrapolation (Field sector # 57 - CP+CSS+SF) Validation of extrapolation (Field sector #146 - CP+CSS)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188657MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118188657MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Validation of extrapolation (Field sector # 57 - CP+CSS+SF)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188657MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118188657MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Validation of extrapolation (Field sector #146 - CP+CSS)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="5" data-type-order="9">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr9">It is important to note, that in Field-sector level it is possible to perform a lot of important analysis about the behavior of each recovery method. As an example, in Figure 5 is presented and sketch showing the technologies with higher production per Field-sector, in MU reservoir.</anchoringText>
+<image-wrap id="102118188657MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118188657MS_i_5.tif" id="ImgLink-5" />
+<caption>Technologies with higher recovery per Field-sector – MU reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Technologies with higher recovery per Field-sector – MU reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="6" data-type-order="10">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr10">Among others, the application of the complete methodology previously explained to the studied giant-XHO field allowed the evaluation of different field development scenarios. In Figure 6, we studied the fullfield behavior of just Cold production in a horizon of 40 years. In the figure, it is represented the oil production rate as a function of time, for a sensitivity to 5 fullfield production plateaus. Also, it is highlighted the corresponding duration time for each plateau. The results showed that cold production alone would not be enough to meet very high and long production plateaus and, if it was required, thermal EOR should be applied in less than 6 years. Also, the results look to indicate that for this field, it is unlikely to keep a production plateau of 400MSTOB/D.</anchoringText>
+<image-wrap id="102118188657MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118188657MS_i_6.tif" id="ImgLink-6" />
+<caption>Cold production cases – Sensibility to Target Plateau</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Cold production cases – Sensibility to Target Plateau</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="7" data-type-order="11">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr11">The previous analysis was extended to the thermal behavior, and a comparison of the different oil recovery technologies was performed. Figure 7 presents the results of oil production rate as a function of time, obtained for a fullfield oil production plateau of 200MSTOB/D.</anchoringText>
+<image-wrap id="102118188657MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118188657MS_i_7.tif" id="ImgLink-7" />
+<caption>EOR technology comparison - 200MSTOB/D production plateau</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>EOR technology comparison - 200MSTOB/D production plateau</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="8" data-type-order="12">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr12">Figure 8 shows the results of these cases, where cold production is shown in color blue, and CSS production is shown in red. These results are very comparable to the ones obtained with the semi-analytical methodology presented in this paper. In addition, the figure shows in Magenta the average steam injection rate at fullfield scale.</anchoringText>
+<image-wrap id="102118188657MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118188657MS_i_8.tif" id="ImgLink-8" />
+<caption>CP+CSS Fullfield numerical simulation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>CP+CSS Fullfield numerical simulation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="9" data-type-order="13">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr13">Once the fullfield incremental recovery and injection requirements were estimated using the semi-analytical methodology discussed in this paper, and additional workflow was developed to integrate the inputs coming from reservoir, surface facilities and cost analysis. It was done through the implementation of the decision tool that was presented by Coll et al., 2015. Figure 9 summarizes the global integrated procedure, for fullfield techno-economic assessment of EOR strategies, applied in this study. The figure highlights the integration of surface and sub-surface data that is done in this section.</anchoringText>
+<image-wrap id="102118188657MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118188657MS_i_9.tif" id="ImgLink-9" />
+<caption>Workflow for fullfield techno-economic assessment of EOR strategies (Coll <i>et al.</i>, 2015)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Workflow for fullfield techno-economic assessment of EOR strategies (<link href="BIB2">Coll et al., 2015</link>)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-11" type="bib">
+<bib id="BIB2">
+<label>Coll et al., 2015</label>
+<author><last-name>Coll</last-name><first-name>R.</first-name></author>, <author><last-name>Escobar</last-name><first-name>E.</first-name></author>, <author><last-name>Le&#x00F3;n-Carrera</last-name><first-name>M.</first-name></author>, <author><last-name>P&#x00E9;rez</last-name><first-name>S.</first-name></author> (Repsol S.A.), (June, <pubDate>2015</pubDate>). <article-title>Assessment and Ranking of EOR Strategies for Giant Extra-Heavy Oil Fields</article-title>. Society of Petroleum Engineers. doi: <doi>10.2118/174301-MS</doi>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="10" data-type-order="14">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr14">Finally, in Figure 10, we are showing the incremental NPV (respect to cold production and before tax discounting) as a function of Np (in 21 years) for each combination of recovery process evaluated in this study. As can be seen the sequence of CP + CSS + SF, using interspaced vertical steam injector wells, is the technology that accumulates the highest amount of produced oil (≅1600MMSTOB, 5%OOIP). On the other hand, the sequence of CP + CSS + HASD with slightly less produced oil, has a higher incremental NPV (2250 MMUSD), basically because HASD does not need to drill additional injector wells.</anchoringText>
+<image-wrap id="102118188657MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118188657MS_i_10.tif" id="ImgLink-10" />
+<caption>Fullfield Incremental NPV vs. <i>Np </i>- EOR Technology comparison - 200MSTOB/D</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Fullfield Incremental NPV vs. Np - EOR Technology comparison - 200MSTOB/D</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190453MS.txt" extractionDate="2021-03-27T15:24:17Z">
+<doi>10.2118/190453-MS</doi>
+<pii>10.2118/190453-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="13" table-order="1" data-type-order="12">
+<table-wrap id="102118190453MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Choosing the right mode of transport is important for an EOR project as the project develops (and the volume dramatically increases) from a single-well test (SWT) to multi-well pilot (MWP) to a full-scale project. For example, surfactant quantity at 100% AM concentration increases from ~1 ton (SWT) to ~1,000 ton (MWP) to 10,000s of ton per year (full scale project). Table 2 summarises the different volume units and transport methods for chemical products, including surfactant concentrates.</anchoringText>
+<label>Table 2</label>
+<caption>Characteristics of the different options to transport chemicals and fit to EOR field projects</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Characteristics of the different options to transport chemicals and fit to EOR field projects</caption-text>
+</formatted-caption>
+<table id="102118190453MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" bgcolor="#4472C4" align="left">
+</th>
+<th valign="top" bgcolor="#4472C4" align="left">Drum</th>
+<th valign="top" bgcolor="#4472C4" align="left">IBC/tote</th>
+<th valign="top" bgcolor="#4472C4" align="left">ISO-tank</th>
+<th valign="top" bgcolor="#4472C4" align="left">Rail tank car</th>
+<th valign="top" bgcolor="#4472C4" align="left">Bulk marine</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td id="tfn-1" colspan="6" align="left">* heating lowers the viscosity of product</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td valign="bottom" bgcolor="#D9E2F3" align="left">
+<b>Volume per unit</b>
+</td>
+<td valign="bottom" bgcolor="#D9E2F3" align="left">~180 kg</td>
+<td valign="bottom" bgcolor="#D9E2F3" align="left">~900 kg</td>
+<td valign="bottom" bgcolor="#D9E2F3" align="left">20 ton</td>
+<td valign="bottom" bgcolor="#D9E2F3" align="left">~75ton</td>
+<td valign="bottom" bgcolor="#D9E2F3" align="left">1-1.5 kton</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Footprint</b>
+</td>
+<td valign="bottom" align="left">lm<sup>3</sup> / pallet (4 drums)</td>
+<td valign="top" align="left">lm<sup>3</sup> / pallet</td>
+<td valign="top" align="left">6 × 2.4 × 2.6 m</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#D9E2F3" align="left">
+<b>Freight by</b>
+</td>
+<td valign="bottom" bgcolor="#D9E2F3" align="left">Truck, ship, air­freight</td>
+<td valign="bottom" bgcolor="#D9E2F3" align="left">Truck, ship, air­freight</td>
+<td valign="bottom" bgcolor="#D9E2F3" align="left">Truck, rail, ship</td>
+<td valign="top" bgcolor="#D9E2F3" align="left">Rail</td>
+<td valign="top" bgcolor="#D9E2F3" align="left">Ship</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>Storage requirement at port</b>
+</td>
+<td valign="top" align="left">Warehouse</td>
+<td valign="top" align="left">Warehouse</td>
+<td valign="top" align="left">Open space</td>
+<td valign="top" align="left">Rail tracks</td>
+<td valign="top" align="left">Tank, incl. connections</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#D9E2F3" align="left">
+<b>Storage requirement at site</b>
+</td>
+<td valign="top" bgcolor="#D9E2F3" align="left">Warehouse</td>
+<td valign="top" bgcolor="#D9E2F3" align="left">Warehouse</td>
+<td valign="top" bgcolor="#D9E2F3" align="left">Open space</td>
+<td valign="top" bgcolor="#D9E2F3" align="left">Rail tracks</td>
+<td valign="top" bgcolor="#D9E2F3" align="left">Tank, incl. connections</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>Lifting requirement</b>
+</td>
+<td valign="top" align="left">Yes, moderate</td>
+<td valign="bottom" align="left">Yes, heavy / Fork lift</td>
+<td valign="bottom" align="left">Yes, heavy / gantry/crane</td>
+<td valign="bottom" align="left">-Not applicable</td>
+<td valign="top" align="left">Not applicable</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#D9E2F3" align="left">
+<b>Application</b>
+</td>
+<td valign="top" bgcolor="#D9E2F3" align="left">SWT, small MWP</td>
+<td valign="top" bgcolor="#D9E2F3" align="left">SWT, small MWP</td>
+<td valign="bottom" bgcolor="#D9E2F3" align="left">MWP, full field</td>
+<td valign="bottom" bgcolor="#D9E2F3" align="left">Full field deployment</td>
+<td valign="bottom" bgcolor="#D9E2F3" align="left">Full field deployment</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>Heating of contents possible during transport*</b>
+</td>
+<td valign="top" align="left">No</td>
+<td valign="top" align="left">No</td>
+<td valign="bottom" align="left">Yes, for limited distance</td>
+<td valign="bottom" align="left">Yes, for limited distance</td>
+<td valign="top" align="left">Yes, for large distances</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#D9E2F3" align="left">
+<b>Viscosity requirement</b>
+</td>
+<td valign="bottom" bgcolor="#D9E2F3" align="left">Liquid or paste at ambient (liquid preferred)</td>
+<td valign="bottom" bgcolor="#D9E2F3" align="left">Liquid at ambient (when warm, if heat traced)</td>
+<td valign="top" bgcolor="#D9E2F3" align="left">Liquid when warm</td>
+<td valign="top" bgcolor="#D9E2F3" align="left">Liquid when warm</td>
+<td valign="top" bgcolor="#D9E2F3" align="left">Liquid when warm</td>
+</tr>
+</tbody>
+</table>
+<legend>SWT = single well test.<br />MWP = multi-well pilot. <br />IBC = intermędiațe bulk çntainer</legend>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

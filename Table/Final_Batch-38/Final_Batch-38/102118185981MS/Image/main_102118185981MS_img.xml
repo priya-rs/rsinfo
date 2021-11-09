@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185981MS.txt" extractionDate="2021-03-26T18:32:29Z">
+<doi>10.2118/185981-MS</doi>
+<pii>10.2118/185981-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="4" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr2"> </anchoringText>
+<image-wrap id="102118185981MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118185981MS_i_1.tif" id="ImgLink-1" />
+<caption>Compaction ratio vs. Depth</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Compaction ratio vs. Depth</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr3"> </anchoringText>
+<image-wrap id="102118185981MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118185981MS_i_2.tif" id="ImgLink-2" />
+<caption>Diagenetics vs. Porosity loss</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Diagenetics vs. Porosity loss</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="6" pdf-page="6" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr4">This type of the diagenetic facies has the parameters of ACR: 60.2%, ADR: 58.4, porosity: 11.5 ~ 13.7%, permeability: 10 ~ 15mD, is the most favorable type, as Figure 3-(1).</anchoringText>
+<image-wrap id="102118185981MS-Img_SPi-3">
+<label>Figure 3</label>
+<imageLink type="mediaResource" href="102118185981MS_i_3.tif" id="ImgLink-3" />
+<caption>Types of Diagenetic Facies</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Types of Diagenetic Facies</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185981MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118185981MS_i_3a.tif" id="ImgLink-3a" />
+<figure-specific-caption>
+<caption-order>(1)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185981MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118185981MS_i_3b.tif" id="ImgLink-3b" />
+<figure-specific-caption>
+<caption-order>(2)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185981MS-Img_SPi-3c">
+<imageLink type="mediaResource" href="102118185981MS_i_3c.tif" id="ImgLink-3c" />
+<figure-specific-caption>
+<caption-order>(3)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185981MS-Img_SPi-3d">
+<imageLink type="mediaResource" href="102118185981MS_i_3d.tif" id="ImgLink-3d" />
+<figure-specific-caption>
+<caption-order>(4)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185981MS-Img_SPi-3e">
+<imageLink type="mediaResource" href="102118185981MS_i_3e.tif" id="ImgLink-3e" />
+<figure-specific-caption>
+<caption-order>(5)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185981MS-Img_SPi-3f">
+<imageLink type="mediaResource" href="102118185981MS_i_3f.tif" id="ImgLink-3f" />
+<figure-specific-caption>
+<caption-order>(6)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr5">By using the standard in Table 1, the types of diagenetic facies in the non-core reservoirs can be recognized. The research mainly uses ACR and ADR, and the process is shown in Figure 4.</anchoringText>
+<image-wrap id="102118185981MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118185981MS_i_4.tif" id="ImgLink-4" />
+<caption>Diagenetic Facies Prediction by BP Neural Network</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Diagenetic Facies Prediction by BP Neural Network</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr6">The relationship of well logging parameters (GR, DT, CNCF, RT, DEN) in different diagenetic facies are shown as the Figures 5, 6, 7, 8.</anchoringText>
+<image-wrap id="102118185981MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118185981MS_i_5.tif" id="ImgLink-5" />
+<caption>Relationship of RT vs Density in different Diagenetic Facies</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Relationship of RT vs Density in different Diagenetic Facies</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr7">The relationship of well logging parameters (GR, DT, CNCF, RT, DEN) in different diagenetic facies are shown as the Figures 5, 6, 7, 8.</anchoringText>
+<image-wrap id="102118185981MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118185981MS_i_6.tif" id="ImgLink-6" />
+<caption>Relationship of GR vs Density in different Diagenetic Facies</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Relationship of GR vs Density in different Diagenetic Facies</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr8">The relationship of well logging parameters (GR, DT, CNCF, RT, DEN) in different diagenetic facies are shown as the Figures 5, 6, 7, 8.</anchoringText>
+<image-wrap id="102118185981MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118185981MS_i_7.tif" id="ImgLink-7" />
+<caption>Relationship of DT vs Density in different Diagenetic Facies</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Relationship of DT vs Density in different Diagenetic Facies</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr9">The relationship of well logging parameters (GR, DT, CNCF, RT, DEN) in different diagenetic facies are shown as the Figures 5, 6, 7, 8.</anchoringText>
+<image-wrap id="102118185981MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118185981MS_i_8.tif" id="ImgLink-8" />
+<caption>Relationship of CNCF vs Density in Different Diagenetic Facies</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Relationship of CNCF vs Density in Different Diagenetic Facies</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr10">By using this method, the diagenetic facies of 4 wells in the research area can be quantitative interpreted. As Figures 9.</anchoringText>
+<image-wrap id="102118185981MS-Img_SPi-9">
+<label>Figure 9</label>
+<imageLink type="mediaResource" href="102118185981MS_i_9.tif" id="ImgLink-9" />
+<caption>ACR &amp; ADR by Core and BP Neural Network</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>ACR &amp; ADR by Core and BP Neural Network</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185981MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118185981MS_i_9a.tif" id="ImgLink-9a" />
+</image-wrap>
+<image-wrap id="102118185981MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118185981MS_i_9b.tif" id="ImgLink-9b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="10" data-type-order="11">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr11">Under the environment of the sparse wells in the research area, we can explore a new method to quantitative characterizing diagenetic facies by using seismic attributes: Ip - p wave impedance; Is - s wave impedance; Vp/Vs - p and s wave velocity ratio. The relationship of these attributes vs. ADR and ACR are shown in the Figures 10, 11, 12.</anchoringText>
+<image-wrap id="102118185981MS-Img_SPi-10">
+<label>Figure 10</label>
+<imageLink type="mediaResource" href="102118185981MS_i_10.tif" id="ImgLink-10" />
+<caption>Ip vs ADR &amp; ACR</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Ip vs ADR &amp; ACR</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185981MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118185981MS_i_10a.tif" id="ImgLink-10a" />
+</image-wrap>
+<image-wrap id="102118185981MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118185981MS_i_10b.tif" id="ImgLink-10b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="11" data-type-order="12">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr12">Under the environment of the sparse wells in the research area, we can explore a new method to quantitative characterizing diagenetic facies by using seismic attributes: Ip - p wave impedance; Is - s wave impedance; Vp/Vs - p and s wave velocity ratio. The relationship of these attributes vs. ADR and ACR are shown in the Figures 10, 11, 12.</anchoringText>
+<image-wrap id="102118185981MS-Img_SPi-11">
+<label>Figure 11</label>
+<imageLink type="mediaResource" href="102118185981MS_i_11.tif" id="ImgLink-11" />
+<caption>Is vs ADR &amp; ACR</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Is vs ADR &amp; ACR</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185981MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118185981MS_i_11a.tif" id="ImgLink-11a" />
+</image-wrap>
+<image-wrap id="102118185981MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118185981MS_i_11b.tif" id="ImgLink-11b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="12" data-type-order="13">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr13">Under the environment of the sparse wells in the research area, we can explore a new method to quantitative characterizing diagenetic facies by using seismic attributes: Ip - p wave impedance; Is - s wave impedance; Vp/Vs - p and s wave velocity ratio. The relationship of these attributes vs. ADR and ACR are shown in the Figures 10, 11, 12.</anchoringText>
+<image-wrap id="102118185981MS-Img_SPi-12">
+<label>Figure 12</label>
+<imageLink type="mediaResource" href="102118185981MS_i_12.tif" id="ImgLink-12" />
+<caption>VP/VS vs ADR &amp; ACR</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>VP/VS vs ADR &amp; ACR</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185981MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118185981MS_i_12a.tif" id="ImgLink-12a" />
+</image-wrap>
+<image-wrap id="102118185981MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118185981MS_i_12b.tif" id="ImgLink-12b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="10" figure-order="13" data-type-order="14">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr14">The results of diagenetic facies distribution characteristics in vertical are plotted in Figure 13. As can be seen, the shallow formation is mainly fine sandstone, which develops diagenetic facies of mid dissolution and mid compaction, mid dissolution and mid-strong compaction.</anchoringText>
+<image-wrap id="102118185981MS-Img_SPi-13">
+<label>Figure 13</label>
+<imageLink type="mediaResource" href="102118185981MS_i_13.tif" id="ImgLink-13" />
+<caption>Diagenetic Facies Distribution Characteristics in Vertical Shallow Layer Mid Layer Deep Layer</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Diagenetic Facies Distribution Characteristics in Vertical Shallow Layer Mid Layer Deep Layer</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185981MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118185981MS_i_13a.tif" id="ImgLink-13a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Shallow Layer</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185981MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118185981MS_i_13b.tif" id="ImgLink-13b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Mid Layer</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185981MS-Img_SPi-13c">
+<imageLink type="mediaResource" href="102118185981MS_i_13c.tif" id="ImgLink-13c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Deep Layer</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="11" figure-order="14" data-type-order="15">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr15">The results of diagenetic facies distribution characteristics in horizon are plotted in Figure 14. As can be seen, the shallow formation mainly develops diagenetic facies of mid dissolution and mid compaction, mid dissolution and mid-strong compaction, strong dissolution and strong compaction, mid-strong dissolution and strong compaction. The mid and deep formation mainly develope diagenetic facies of strong dissolution and strong compaction, mid-strong dissolution and strong compaction. The transition of the diagenetic facies in horizon is not significant.</anchoringText>
+<image-wrap id="102118185981MS-Img_SPi-14">
+<label>Figure 14</label>
+<imageLink type="mediaResource" href="102118185981MS_i_14.tif" id="ImgLink-14" />
+<caption>Diagenetic Facies Distribution Characteristics in Horizon</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Diagenetic Facies Distribution Characteristics in Horizon</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185981MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118185981MS_i_14a.tif" id="ImgLink-14a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Shallow Layer</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185981MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118185981MS_i_14b.tif" id="ImgLink-14b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Mid Layer</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185981MS-Img_SPi-14c">
+<imageLink type="mediaResource" href="102118185981MS_i_14c.tif" id="ImgLink-14c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Deep Layer</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

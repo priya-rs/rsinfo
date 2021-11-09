@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191239MS.txt" extractionDate="2021-03-29T12:37:10Z">
+<doi>10.2118/191239-MS</doi>
+<pii>10.2118/191239-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="8" table-order="1" data-type-order="7">
+<table-wrap id="102118191239MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1"> </anchoringText>
+<label>Table 1</label>
+<caption>Reservoir fluid properties of the Jubilee Field</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Reservoir fluid properties of the Jubilee Field</caption-text>
+</formatted-caption>
+<table id="102118191239MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" valign="top" align="center">RESERVOIR FLUID PROPERTIES</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Initial Reservoir Pressure (psia) in M-1</td>
+<td valign="top" align="center">5295</td>
+</tr>
+<tr>
+<td valign="top" align="center">Pressure range across field (psia)</td>
+<td valign="top" align="center">5000 – 5700</td>
+</tr>
+<tr>
+<td valign="top" align="center">Initial Reservoir Temperature (°F) across field</td>
+<td valign="top" align="center">196 – 225</td>
+</tr>
+<tr>
+<td valign="top" align="center">Stock Tank Oil Gravity (°API)</td>
+<td valign="top" align="center">36-38</td>
+</tr>
+<tr>
+<td valign="top" align="center">GOR (scf/stb)</td>
+<td valign="top" align="center">1200</td>
+</tr>
+<tr>
+<td valign="top" align="center">Viscosity (cp)</td>
+<td valign="top" align="center">0.16 – 0.3</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="8" table-order="2" data-type-order="8">
+<table-wrap id="102118191239MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">After drilling three appraisal wells, a 250 m (820.21 ft.) average gross interval of stacked, amalgamated turbidite channel and fan sands with net pay ranging from 20 m (65.52 ft.) – 100 m (328.08 ft.) were confirmed. Based on core measurements, porosities averaged 21% and permeability is in the hundreds of millidarcies. Table 2.2 shows the reservoir properties found in the Jubilee field.</anchoringText>
+<label>Table 2</label>
+<caption>PVT model parameters for dynamic reservoir model</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>PVT model parameters for dynamic reservoir model</caption-text>
+</formatted-caption>
+<table id="102118191239MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" valign="top" align="center">PVT MODEL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Stock tank oil gravity (°API)</td>
+<td valign="top" align="center">32</td>
+</tr>
+<tr>
+<td valign="top" align="center">Reservoir Temperature (°F)</td>
+<td valign="top" align="center">205</td>
+</tr>
+<tr>
+<td valign="top" align="center">Gas Gravity</td>
+<td valign="top" align="center">0.63</td>
+</tr>
+<tr>
+<td valign="top" align="center">Bubble point pressure (psi)</td>
+<td valign="top" align="center">8500</td>
+</tr>
+<tr>
+<td valign="top" align="center">Model</td>
+<td valign="top" align="center">Black Oil</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="12" table-order="3" data-type-order="10">
+<table-wrap id="102118191239MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3"> </anchoringText>
+<label>Table 3</label>
+<caption>Relative permeability parameters for dynamic reservoir model</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Relative permeability parameters for dynamic reservoir model</caption-text>
+</formatted-caption>
+<table id="102118191239MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" valign="top" align="center">RELATIVE PERMEABILITY CORRELATIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">SWCON - Endpoint Saturation: Connate Water</td>
+<td valign="top" align="center">0.22</td>
+</tr>
+<tr>
+<td valign="top" align="center">SWCRIT - Endpoint Saturation: Critical Water</td>
+<td valign="top" align="center">0.22</td>
+</tr>
+<tr>
+<td valign="top" align="center">SOIRW - Endpoint Saturation: Irreducible Oil for Water-Oil Table</td>
+<td valign="top" align="center">0.2</td>
+</tr>
+<tr>
+<td valign="top" align="center">SORW - Endpoint Saturation: Residual Oil for Water-Oil Table</td>
+<td valign="top" align="center">0.2</td>
+</tr>
+<tr>
+<td valign="top" align="center">SOIRG - Endpoint Saturation: Irreducible Oil for Gas-Liquid Table</td>
+<td valign="top" align="center">0.2</td>
+</tr>
+<tr>
+<td valign="top" align="center">SORG - Endpoint Saturation: Residual Oil for Gas-Liquid Table</td>
+<td valign="top" align="center">0.2</td>
+</tr>
+<tr>
+<td valign="top" align="center">SGCON - Endpoint Saturation: Connate Gas</td>
+<td valign="top" align="center">0.1</td>
+</tr>
+<tr>
+<td valign="top" align="center">SGCRIT - Endpoint Saturation: Critical Gas</td>
+<td valign="top" align="center">0.1</td>
+</tr>
+<tr>
+<td valign="top" align="center">KROCW - Kro at Connate Water</td>
+<td valign="top" align="center">0.8</td>
+</tr>
+<tr>
+<td valign="top" align="center">KRWIRO - Krw at Irreducible Oil</td>
+<td valign="top" align="center">0.4</td>
+</tr>
+<tr>
+<td valign="top" align="center">KRGCL - Krg at Connate Liquid</td>
+<td valign="top" align="center">0.8</td>
+</tr>
+<tr>
+<td valign="top" align="center">KROGCG - Krog at Connate Gas</td>
+<td valign="top" align="center">0.8</td>
+</tr>
+<tr>
+<td valign="top" align="center">Exponent for calculating Krw from KRWIRO</td>
+<td valign="top" align="center">2</td>
+</tr>
+<tr>
+<td valign="top" align="center">Exponent for calculating Krow from KROCW</td>
+<td valign="top" align="center">2</td>
+</tr>
+<tr>
+<td valign="top" align="center">Exponent for calculating Krog from KROGCG</td>
+<td valign="top" align="center">2</td>
+</tr>
+<tr>
+<td valign="top" align="center">Exponent for calculating Krg from KRGCL</td>
+<td valign="top" align="center">2</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="12" table-order="4" data-type-order="11">
+<table-wrap id="102118191239MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4"> </anchoringText>
+<label>Table 4</label>
+<caption>Initial conditions for dynamic reservoir model</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Initial conditions for dynamic reservoir model</caption-text>
+</formatted-caption>
+<table id="102118191239MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" valign="top" align="center">INITIAL CONDITIONS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Reference Pressure (psi)</td>
+<td valign="top" align="center">8650</td>
+</tr>
+<tr>
+<td valign="top" align="center">Reference Depth (feet)</td>
+<td valign="top" align="center">12,000</td>
+</tr>
+<tr>
+<td valign="top" align="center">Water Oil Contact (feet)</td>
+<td valign="top" align="center">12,475</td>
+</tr>
+<tr>
+<td valign="top" align="center">Gas Oil Contact (feet)</td>
+<td valign="top" align="center">11,700</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="15" table-order="5" data-type-order="14">
+<table-wrap id="102118191239MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">Table 5 shows the results from simulation. It should be noted that:</anchoringText>
+<label>Table 5</label>
+<caption>Results of various scenarios in the Liza field development (2020 – 2045)</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Results of various scenarios in the Liza field development (2020 – 2045)</caption-text>
+</formatted-caption>
+<table id="102118191239MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">Oil Production (MMSTB)</th>
+<th valign="top" align="center">Gas Production (BCF)</th>
+<th valign="top" align="center">Water Production (MMSTB)</th>
+<th valign="top" align="center">Gross Production (MMBOE)</th>
+<th valign="top" align="center">Oil Recovery Factor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Scenario 1</td>
+<td valign="top" align="center">460.21</td>
+<td valign="top" align="center">3407</td>
+<td valign="top" align="center">175.21</td>
+<td valign="top" align="center">1028.82</td>
+<td valign="top" align="center">17.99</td>
+</tr>
+<tr>
+<td valign="top" align="center">Scenario 2</td>
+<td valign="top" align="center">545.02</td>
+<td valign="top" align="center">5185</td>
+<td valign="top" align="center">23.72</td>
+<td valign="top" align="center">1409.18</td>
+<td valign="top" align="center">21.52</td>
+</tr>
+<tr>
+<td valign="top" align="center">Scenario 3</td>
+<td valign="top" align="center">556.76</td>
+<td valign="top" align="center">4544</td>
+<td valign="top" align="center">31.50</td>
+<td valign="top" align="center">1314.09</td>
+<td valign="top" align="center">21.98</td>
+</tr>
+<tr>
+<td valign="top" align="center">Scenario 4</td>
+<td valign="top" align="center">494.34</td>
+<td valign="top" align="center">8437</td>
+<td valign="top" align="center">177.10</td>
+<td valign="top" align="center">1900.51</td>
+<td valign="top" align="center">19.52</td>
+</tr>
+<tr>
+<td valign="top" align="center">Scenario 5</td>
+<td valign="top" align="center">506.64</td>
+<td valign="top" align="center">6388</td>
+<td valign="top" align="center">162.83</td>
+<td valign="top" align="center">1571.31</td>
+<td valign="top" align="center">20.00</td>
+</tr>
+<tr>
+<td valign="top" align="center">Scenario 6</td>
+<td valign="top" align="center">536.48</td>
+<td valign="top" align="center">5516</td>
+<td valign="top" align="center">21.45</td>
+<td valign="top" align="center">1455.82</td>
+<td valign="top" align="center">21.18</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="18" table-order="6" data-type-order="18">
+<table-wrap id="102118191239MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6">Based on the economic analysis, results are shown in Table 6. Sensitivity to oil price was conducted based on the current climate of the oil and gas industry. The oil OPEX had an escalation factor of 2% assigned but the maximum oil OPEX was constrained to half of the associated oil price.</anchoringText>
+<label>Table 6</label>
+<caption>Economic analysis of Liza field development - Phase 1 based on Case 1 Scenario 1 (100,000 bopd)</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Economic analysis of Liza field development - Phase 1 based on Case 1 Scenario 1 (100,000 bopd)</caption-text>
+</formatted-caption>
+<table id="102118191239MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Oil Price($/Bbl)</th>
+<th valign="top" align="center">50</th>
+<th valign="top" align="center">45</th>
+<th valign="top" align="center">65</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">
+<b>Cumulative Oil Production (Mstb)</b>
+</td>
+<td valign="top" align="center">
+<b>460,538</b>
+</td>
+<td valign="top" align="center">
+<b>460,538</b>
+</td>
+<td valign="top" align="center">
+<b>460,538</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>Cumulative Gas Production (Mmscf)</b>
+</td>
+<td valign="top" align="center">
+<b>3,407,070</b>
+</td>
+<td valign="top" align="center">
+<b>3,407,070</b>
+</td>
+<td valign="top" align="center">
+<b>3,407,070</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>Cumulative Oil Production (Bcfe)</b>
+</td>
+<td valign="top" align="center">
+<b>1.028</b>
+</td>
+<td valign="top" align="center">
+<b>1.028</b>
+</td>
+<td valign="top" align="center">
+<b>1.028</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>Oil Revenue (Us M$)</b>
+</td>
+<td valign="top" align="center">
+<b>23,026,899.20</b>
+</td>
+<td valign="top" align="center">
+<b>20,724,209</b>
+</td>
+<td valign="top" align="center">
+<b>29,934,968.96</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>Gas Revenue (Us M$)</b>
+</td>
+<td valign="top" align="center">
+<b>9,771,018.11</b>
+</td>
+<td valign="top" align="center">
+<b>9771018.11</b>
+</td>
+<td valign="top" align="center">
+<b>9771018.11</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>Total Govt Revenue (Us M$)</b>
+</td>
+<td valign="top" align="center">
+<b>8,886,208.79</b>
+</td>
+<td valign="top" align="center">
+<b>7688810.03</b>
+</td>
+<td valign="top" align="center">
+<b>12478405.07</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>Govt Take (%)</b>
+</td>
+<td valign="top" align="center">
+<b>51.92</b>
+</td>
+<td valign="top" align="center">
+<b>52.06</b>
+</td>
+<td valign="top" align="center">
+<b>51.64</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>Cost Rec Period (Yrs)</b>
+</td>
+<td valign="top" align="center">
+<b>6.0</b>
+</td>
+<td valign="top" align="center">
+<b>6.0</b>
+</td>
+<td valign="top" align="center">
+<b>4.0</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

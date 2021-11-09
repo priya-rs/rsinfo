@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190860MS.txt" extractionDate="2021-03-27T19:54:19Z">
+<doi>10.2118/190860-MS</doi>
+<pii>10.2118/190860-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr2">Current workflows for selecting well landing depth are centered around selecting a few landing points in the vertical wellbore (pilot) driven by RQ and then evaluating the fracture geometries using a hydraulic fracture model to assess the well connectivity and pinchout and height of the fractures. The fracture geometries having no pinchouts or flow barriers and no uncontrolled height growth are considered favorable landing points. The same landing point/rock layer is typically followed for the horizontal well trajectory profile to plan the lateral drilling. Fig. 1 shows a typical workflow for landing point study.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_1.tif" id="ImgLink-1" />
+<caption>Typical workflow used for selecting lateral landing points.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Typical workflow used for selecting lateral landing points.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="5" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr3">The recovery factors remain in the single digits for most of the operators. Fig. 2 shows the location of Permian basin and a cross section showing the Delaware basin, central basin platform, Midland basin, and eastern shelf. The Wolfcamp, Spraberry, and Bone Spring are the most prolific formations in the basin. Parent-child well interaction has recently received a lot of discussion in literature for the Wolfcamp owing to multiple producing benches in the reservoir. These producing benches are commonly classified in four different layers, from top to bottom (Mohan 2013): Wolfcamp A, Wolfcamp B, Wolfcamp C, and Wolfcamp D. Characteristics of the layers are as follows:</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_2.tif" id="ImgLink-2" />
+<caption>Locations and stratigraphy. (a) Distribution of wells in US mainland with Permian basin wells highlighted in yellow (generated from IHS) (b) Zoomed view of Permian basin wells concentrated in the Midland basin and Delaware basin. The area of interest is highlighted (generated from IHS) (c) Permian basin map from US Energy Information Agency (EIA) showing Midland and Delaware basins (d) Taken from Engle et al. (2016) (after Matchus and Jones 1984), cross section of the Permian basin showing Wolfcamp shale thickness and distribution across the basin along the red line shown in (c).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Locations and stratigraphy. (a) Distribution of wells in US mainland with Permian basin wells highlighted in yellow (generated from IHS) (b) Zoomed view of Permian basin wells concentrated in the Midland basin and Delaware basin. The area of interest is highlighted (generated from IHS) (c) Permian basin map from US Energy Information Agency (EIA) showing Midland and Delaware basins (d) Taken from <link href="BIB1">Engle et al. (2016)</link> (after <link href="BIB2">Matchus and Jones 1984</link>), cross section of the Permian basin showing Wolfcamp shale thickness and distribution across the basin along the red line shown in (c).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118190860MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Distribution of wells in US mainland with Permian basin wells highlighted in yellow (generated from IHS)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118190860MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>Zoomed view of Permian basin wells concentrated in the Midland basin and Delaware basin. The area of interest is highlighted (generated from IHS)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-2c">
+<imageLink type="mediaResource" href="102118190860MS_i_2c.tif" id="ImgLink-2c" />
+<figure-specific-caption>
+<caption-order>(c)</caption-order>
+<caption-text>Permian basin map from US Energy Information Agency (EIA) showing Midland and Delaware basins</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-2c">
+<imageLink type="mediaResource" href="102118190860MS_i_2c.tif" id="ImgLink-2c" />
+<figure-specific-caption>
+<caption-order>(d)</caption-order>
+<caption-text>Taken from Engle et al. (2016) (after Matchus and Jones 1984), cross section of the Permian basin showing Wolfcamp shale thickness and distribution across the basin along the red line shown in (c)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-39" type="bib">
+<bib id="BIB1">
+<label>Engle et al., 2016</label>
+<last-name>Engle</last-name>
+<author>
+<first-name>M.</first-name>
+<last-name>Engle</last-name>
+</author>, <last-name>Reyes</last-name>, <author>
+<first-name>F.</first-name>
+<last-name>Reyes</last-name>
+</author>, <last-name>Varonka</last-name>, <author>
+<first-name>M.</first-name>
+<last-name>Varonka</last-name>
+</author> et al. <pubDate>2016</pubDate>. <article-title>Geochemistry of Formation Waters from the Wolfcamp and "Cline" Shales: Insights into Brine Origin, Reservoir Connectivity, and Fluid Flow in the Permian Basin, USA </article-title>. <journal-title>Chemical Geology </journal-title>
+<volume>425</volume>: <pages>
+<first-page>76</first-page>
+<last-page>92</last-page>
+</pages>. https://doi.org/10.1016Zj.chemgeo.2016.01.025.</bib>
+</linkTarget>
+<linkTarget id="link-40" type="bib">
+<bib id="BIB2">
+<label>Matchus et al., 1984</label>
+<last-name>Matchus</last-name>
+<author>
+<first-name>E. J.</first-name>
+<last-name>Matchus</last-name>
+</author> and <last-name>Jones</last-name>, <author>
+<first-name>T. S.</first-name>
+<last-name>Jones</last-name>
+</author>
+<pubDate>1984</pubDate>. <article-title>East - West Cross Section Through Permian Basin of West Texas </article-title>. West Texas Geological Society.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr4">Fig. 3 shows the production trend in the basin shown a consistent increase from all formations. The steepest growth has been registered from the Spraberry formation. Fig. 4 shows the oil and gas production in the past 10 years based on the reports published by the US EIA that document a consistent increase in oil and natural gas production from the Permian basin. Fig. 4 shows a 230% increase in oil and 100% increase in gas production in 10 years.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_3.tif" id="ImgLink-3" />
+<caption>Oil production trends from the major producing formations in the Permian basin. Wolfcamp production has been split into the Delaware and Midland basins (raw data source: IHS).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Oil production trends from the major producing formations in the Permian basin. Wolfcamp production has been split into the Delaware and Midland basins (raw data source: IHS).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr5">Fig. 3 shows the production trend in the basin shown a consistent increase from all formations. The steepest growth has been registered from the Spraberry formation. Fig. 4 shows the oil and gas production in the past 10 years based on the reports published by the US EIA that document a consistent increase in oil and natural gas production from the Permian basin. Fig. 4 shows a 230% increase in oil and 100% increase in gas production in 10 years.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_4.tif" id="ImgLink-4" />
+<caption>Production trends in Permian basin in the past 10 years (source: US EIA Drilling Productivity Report, February 2018).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Production trends in Permian basin in the past 10 years (source: US EIA Drilling Productivity Report, February 2018).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118190860MS_i_4a.tif" id="ImgLink-4a" />
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118190860MS_i_4b.tif" id="ImgLink-4b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="7" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr6">The increase in production is directly correlated with the changes in completion methods between 2010 and 2016, as shown in Fig. 5, and this suggests that the fracturing mix the industry is adopting is working to good effect.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_5.tif" id="ImgLink-5" />
+<caption>Completion trends in the Permian basin showing changes in lateral lengths, proppant loading, and fluid loading from 2010 to 2016 (raw data source: IHS).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Completion trends in the Permian basin showing changes in lateral lengths, proppant loading, and fluid loading from 2010 to 2016 (raw data source: IHS).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118190860MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>lateral lengths</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118190860MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>proppant loading</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-5c">
+<imageLink type="mediaResource" href="102118190860MS_i_5c.tif" id="ImgLink-5c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>fluid loading</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr7">In the current study, a pilot wellbore with logs is selected to determine the potential landing interval in the Upper Wolfcamp formation. Fig. 6 shows a vertical pilot wellbore drilled through the Upper Wolfcamp and the geologic model with permeability distribution around the area where the horizontal trajectory is to be determined. Analysis of the potential targets uses the data acquired on the vertical pilot wellbore.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_6.tif" id="ImgLink-6" />
+<caption>Vertical wellbore and geological model with permeability distribution around the planned horizontal well.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Vertical wellbore and geological model with permeability distribution around the planned horizontal well.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr8">As seen in Fig. 7, the RQ designations are indicators for the rock quality in terms of geologist-defined parameters, which could be permeability, porosity, saturation, TOC, or their combinations. In the pilot wellbore, the combination of permeability and porosity is chosen as the RQ, with 4% porosity and 40 nd permeability as lower cutoffs for qualifying as a "good" layer indicated in blue on the RQ track. For the CQ, layers with low minimum horizontal stress and a strong stress barrier were classified as "good" CQ, with a stress gradient cutoff of 0.75 psi/ft.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_7.tif" id="ImgLink-7" />
+<caption>RQ and CQ indicators from the well combine to form composite quality to identify potential landing targets.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>RQ and CQ indicators from the well combine to form composite quality to identify potential landing targets.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr9">Pseudo 3D models (Fig. 8) are primarily cell-based models and fracture propagation and fluid flow are computed on a horizontal axis. These models solve the transport in 1D and the vertical height growth is determined by equilibrium and volume balance. The concept is derived from the legacy PKN model having a constant pressure in each cell and concatenating the fracture geometry computed in these cells. The model is a good engineering approximation for routine/quick design and evaluation, especially in conventional sandstone reservoirs, but fails under a more complex and laminated stress environment such as shales.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_8.tif" id="ImgLink-8" />
+<caption>Representation of a calculation of fracture geometry in a pseudo3D model.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Representation of a calculation of fracture geometry in a pseudo3D model.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr10">The fracture width is based on 3D elasticity; fluid and proppant flow during the fracture propagation are fully 2D (within fracture plane). The model couples the fluid flow equation described by a 2D mesh of cells, typically a moving triangular mesh oriented in a (vertical) plane, as shown in Fig. 9. Most importantly, the geomechanical properties and stress parameter variations are treated more accurately across the layers, which defines the fracture shape and height more precisely.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_9.tif" id="ImgLink-9" />
+<caption>Representation of a calculation of fracture geometry in a planar3D model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Representation of a calculation of fracture geometry in a planar3D model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr11">These fluids were evaluated for the design as a sensitivity variable because, typically, during the time of drill planning, geologists do not consider the fracturing fluid that would be used during well completion. Figs. 10-12 show the hydraulic fracture geometries obtained for slickwater, high-viscosity slickwater, and crosslinked gel, respectively. The left three tracks in each figure show the RQ, CQ, and the composite log (combining RQ and CQ). The fourth track shows the nine landing points, and the last nine tracks show hydraulic fracture geometries for each landing point starting from the bottom-most landing point. The first four tracks are same in all figures, but the geometries differ corresponding to the fluid type.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_10.tif" id="ImgLink-10" />
+<caption>Hydraulic fracture geometry from planar 3D simulation in a side view of proppant concentration by area for the slickwater cases. Starting from the bottom, the first three landing points have height containment issues. The fourth landing point shows containment, but a chance of a potential pinchout. The next three landing points show fracture containment, but there is excessive proppant settling. The last two landing points have runaway height growth.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Hydraulic fracture geometry from planar 3D simulation in a side view of proppant concentration by area for the slickwater cases. Starting from the bottom, the first three landing points have height containment issues. The fourth landing point shows containment, but a chance of a potential pinchout. The next three landing points show fracture containment, but there is excessive proppant settling. The last two landing points have runaway height growth.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr12">These fluids were evaluated for the design as a sensitivity variable because, typically, during the time of drill planning, geologists do not consider the fracturing fluid that would be used during well completion. Figs. 10-12 show the hydraulic fracture geometries obtained for slickwater, high-viscosity slickwater, and crosslinked gel, respectively. The left three tracks in each figure show the RQ, CQ, and the composite log (combining RQ and CQ). The fourth track shows the nine landing points, and the last nine tracks show hydraulic fracture geometries for each landing point starting from the bottom-most landing point. The first four tracks are same in all figures, but the geometries differ corresponding to the fluid type.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_11.tif" id="ImgLink-11" />
+<caption>Hydraulic fracture geometry from planar 3D simulation in a side view of proppant concentration by area for the high-viscosity slickwater cases. Starting from the bottom, the first three landing points have height containment issues. The next four landing points show good height containment, but the sixth landing point from the bottom has both good RQ as well as CQ. The last two landing points have runaway height growth.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Hydraulic fracture geometry from planar 3D simulation in a side view of proppant concentration by area for the high-viscosity slickwater cases. Starting from the bottom, the first three landing points have height containment issues. The next four landing points show good height containment, but the sixth landing point from the bottom has both good RQ as well as CQ. The last two landing points have runaway height growth.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr13">These fluids were evaluated for the design as a sensitivity variable because, typically, during the time of drill planning, geologists do not consider the fracturing fluid that would be used during well completion. Figs. 10-12 show the hydraulic fracture geometries obtained for slickwater, high-viscosity slickwater, and crosslinked gel, respectively. The left three tracks in each figure show the RQ, CQ, and the composite log (combining RQ and CQ). The fourth track shows the nine landing points, and the last nine tracks show hydraulic fracture geometries for each landing point starting from the bottom-most landing point. The first four tracks are same in all figures, but the geometries differ corresponding to the fluid type.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_12.tif" id="ImgLink-12" />
+<caption>Hydraulic fracture geometry from planar3D simulation in a side view of proppant concentration by area for the crosslinked fluid cases. Excessive height growth is observed in all cases, and the fracture is not contained.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Hydraulic fracture geometry from planar3D simulation in a side view of proppant concentration by area for the crosslinked fluid cases. Excessive height growth is observed in all cases, and the fracture is not contained.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr14">Proppant transport and settling during fracture propagation was evaluated with different pumping fluids at the most optimum landing depth interval (interval 6) to determine the proppant settling and coverage around the wellbore. Figs. 13-15 show the detailed evolution of fracture propagation until closure for all three fracturing fluid cases. Fracture propagation and proppant transport are represented for all the three different fluids at 20 min intervals into the pumping and after shutdown.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_13.tif" id="ImgLink-13" />
+<caption>Fracture geometries with slickwater for landing interval 6.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Fracture geometries with slickwater for landing interval 6.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr15">Proppant transport and settling during fracture propagation was evaluated with different pumping fluids at the most optimum landing depth interval (interval 6) to determine the proppant settling and coverage around the wellbore. Figs. 13-15 show the detailed evolution of fracture propagation until closure for all three fracturing fluid cases. Fracture propagation and proppant transport are represented for all the three different fluids at 20 min intervals into the pumping and after shutdown.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_14.tif" id="ImgLink-14" />
+<caption>Fracture geometries with high-viscosity slickwater for landing interval 6.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Fracture geometries with high-viscosity slickwater for landing interval 6.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="15" data-type-order="15">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr16">Proppant transport and settling during fracture propagation was evaluated with different pumping fluids at the most optimum landing depth interval (interval 6) to determine the proppant settling and coverage around the wellbore. Figs. 13-15 show the detailed evolution of fracture propagation until closure for all three fracturing fluid cases. Fracture propagation and proppant transport are represented for all the three different fluids at 20 min intervals into the pumping and after shutdown.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_15.tif" id="ImgLink-15" />
+<caption>Fracture geometries with crosslinked fluid for landing interval 6.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Fracture geometries with crosslinked fluid for landing interval 6.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="16" data-type-order="16">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr17">When production simulation was run on these three cases on a single stage considering a gel damage of 30% with crosslinked fluid and no gel damage with slickwater and HV slickwater, the HV slickwater resulted in improved performance (Fig. 16) by over 92% from the slickwater case in 5years timeframe.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_16.tif" id="ImgLink-16" />
+<caption>Production performance with different fracturing fluid systems for one stage compared (absolute values are not displayed for the sake of confidentiality).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Production performance with different fracturing fluid systems for one stage compared (absolute values are not displayed for the sake of confidentiality).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="16" figure-order="17" data-type-order="17">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr18">In general, the bigger fracture systems picked on seismic data tend to have lower cohesion, and after a hydraulic fracture opens a larger fracture, fluid communication/transport can be observed several thousand feet away. In this study, we have defined three discrete natural fracture (DFN) sets, namely dense, medium, and rare to determine the impact of the natural fractures on landing wellbore. As the name suggests, the density (spacing) of fractures is the only variable changing between these fracture networks. Length and orientation of the fractures has been held constant among the fracture sets. Figs. 17-19 show the hydraulic fracture geometries created using the dense, medium, and rare natural fracture networks, respectively.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_17.tif" id="ImgLink-17" />
+<caption>Dense natural fracture network. (a) Hydraulic fracture network created for the dense natural fracture network case. (b) Closer view of the hydraulic fractures reveals widespread complexity and lesser fracture length owing to a complex and dense natural fracture network</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Dense natural fracture network. (a) Hydraulic fracture network created for the dense natural fracture network case. (b) Closer view of the hydraulic fractures reveals widespread complexity and lesser fracture length owing to a complex and dense natural fracture network</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-17a">
+<imageLink type="mediaResource" href="102118190860MS_i_17a.tif" id="ImgLink-17a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Hydraulic fracture network created for the dense natural fracture network case.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-17b">
+<imageLink type="mediaResource" href="102118190860MS_i_17b.tif" id="ImgLink-17b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>Closer view of the hydraulic fractures reveals widespread complexity and lesser fracture length owing to a complex and dense natural fracture network</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="16" figure-order="18" data-type-order="18">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr19">In general, the bigger fracture systems picked on seismic data tend to have lower cohesion, and after a hydraulic fracture opens a larger fracture, fluid communication/transport can be observed several thousand feet away. In this study, we have defined three discrete natural fracture (DFN) sets, namely dense, medium, and rare to determine the impact of the natural fractures on landing wellbore. As the name suggests, the density (spacing) of fractures is the only variable changing between these fracture networks. Length and orientation of the fractures has been held constant among the fracture sets. Figs. 17-19 show the hydraulic fracture geometries created using the dense, medium, and rare natural fracture networks, respectively.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_18.tif" id="ImgLink-18" />
+<caption>Medium density natural fracture framework. (a) Hydraulic fracture network created for the dense natural fracture network case. (b) Closer view of the hydraulic fractures reveals lesser complexity and more planar features owing to a less complexity in the natural fracture network. Fracture lengths are also longer.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Medium density natural fracture framework. (a) Hydraulic fracture network created for the dense natural fracture network case. (b) Closer view of the hydraulic fractures reveals lesser complexity and more planar features owing to a less complexity in the natural fracture network. Fracture lengths are also longer.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-18a">
+<imageLink type="mediaResource" href="102118190860MS_i_18a.tif" id="ImgLink-18a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Hydraulic fracture network created for the dense natural fracture network case.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-18b">
+<imageLink type="mediaResource" href="102118190860MS_i_18b.tif" id="ImgLink-18b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>Closer view of the hydraulic fractures reveals lesser complexity and more planar features owing to a less complexity in the natural fracture network. Fracture lengths are also longer.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="17" figure-order="19" data-type-order="19">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr20">In general, the bigger fracture systems picked on seismic data tend to have lower cohesion, and after a hydraulic fracture opens a larger fracture, fluid communication/transport can be observed several thousand feet away. In this study, we have defined three discrete natural fracture (DFN) sets, namely dense, medium, and rare to determine the impact of the natural fractures on landing wellbore. As the name suggests, the density (spacing) of fractures is the only variable changing between these fracture networks. Length and orientation of the fractures has been held constant among the fracture sets. Figs. 17-19 show the hydraulic fracture geometries created using the dense, medium, and rare natural fracture networks, respectively.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_19.tif" id="ImgLink-19" />
+<caption>Rare natural fracture network. (a) Hydraulic fracture network created for the rare natural fracture network case. (b) Closer view of the hydraulic fractures reveals almost no complexity and largely planar fractures owing to very low-density natural fracture network.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Rare natural fracture network. (a) Hydraulic fracture network created for the rare natural fracture network case. (b) Closer view of the hydraulic fractures reveals almost no complexity and largely planar fractures owing to very low-density natural fracture network.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-19a">
+<imageLink type="mediaResource" href="102118190860MS_i_19a.tif" id="ImgLink-19a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Hydraulic fracture network created for the rare natural fracture network case.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-19b">
+<imageLink type="mediaResource" href="102118190860MS_i_19b.tif" id="ImgLink-19b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>Closer view of the hydraulic fractures reveals almost no complexity and largely planar fractures owing to very low-density natural fracture network.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="20" data-type-order="20">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr21">Fig. 20 compares the hydraulic fracture surface area, fracture lengths, and fluid efficiency for each case on a relative comparison to the dense DFN case. The dense natural fracture case has the shortest fracture length in the direction of maximum stress but the greatest length in the direction of minimum stress due to development of hydraulic fracture complexity. This case also has the highest fracture surface area and therefore the highest efficiency. For the rare fracture network, the fracture length is the greatest and fracture surface area the least, thereby offering the lowest efficiency.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-20">
+<label>Figure 20 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_20.tif" id="ImgLink-20" />
+<caption>Comparison of hydraulic fracture parameters for dense, medium-density, and rare natural fracture network cases.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Comparison of hydraulic fracture parameters for dense, medium-density, and rare natural fracture network cases.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="21" data-type-order="21">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr22">Fig. 21 shows the production comparison for the hydraulic fracture network created in the three cases. It is observed that the rare natural fracture case shows the highest production whereas the dense natural fracture case shows the least production. Although the dense natural fractures develop the largest surface area, not all of the area can be filled with proppant. High-viscosity slickwater can penetrate the natural fractures and develop a complex fracture network, but the proppant may not be able to enter the entire hydraulic length due to its larger size. The case of rare natural fractures has the longest fracture length, which extends far into the reservoir and records the highest production.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-21">
+<label>Figure 21 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_21.tif" id="ImgLink-21" />
+<caption>Cumulative oil production normalized by length of lateral for the three natural fracture network cases. The rare natural fracture case shows the highest oil production.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>21</caption-order>
+<caption-text>Cumulative oil production normalized by length of lateral for the three natural fracture network cases. The rare natural fracture case shows the highest oil production.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="20" figure-order="22" data-type-order="22">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr23">If completion is given a priority with the hope that fractures can contact the good RQ rock, then there could be issues in maintaining the connectivity of fractures with the good rock and the well would fail. If RQ is given a higher preference, then there could be nonuniform initiation of fractures along the wellbore, which will not drain the reservoir uniformly. The ideal situation is to land the well in a sweet spot that has good RQ and CQ and steer the well to stay in the zone of interest. Modern technologies have made it possible to land and steer the well in any desired trajectory. Lane and Chokshi (2014) presented normalized wellbore trajectories from different basins that show that each basin has a dominant well profile (Fig. 22).</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-22">
+<label>Figure 22 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_22.tif" id="ImgLink-22" />
+<caption>Normalized unconventional well trajectories (Lane et al. 2014, after Sutton 2013).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>22</caption-order>
+<caption-text>Normalized unconventional well trajectories (<link href="BIB3">Lane et al. 2014</link>, after <link href="BIB4">Sutton 2013</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-41" type="bib">
+<bib id="BIB3">
+<label>Lane et al., 2014</label>
+<last-name>Lane</last-name>, <author>
+<first-name>W.</first-name>
+<last-name>Lane</last-name>
+</author> and <last-name>Chokshi</last-name>, <author>
+<first-name>R.</first-name>
+<last-name>Chokshi</last-name>
+</author>
+<pubDate>2014</pubDate>. <article-title>Considerations for Optimizing Artificial Lift in Unconventionals. Presented at the Unconventional Resources Technology Conference, Denver, Colorado, 25-27 August </article-title>. URTEC- 1921823-MS. https://doi.org/10.15530/URTEC-2014-1921823.</bib>
+</linkTarget>
+<linkTarget id="link-42" type="bib">
+<bib id="BIB4">
+<label>Sutton and Sutton, 2013</label>
+<last-name>Sutton</last-name>, <author>
+<first-name>R.</first-name>
+<last-name>Sutton</last-name>
+</author>
+<pubDate>2013</pubDate>. <article-title>Wellbore Geometry Effects on Well Production Performance. Presented at the SPE Liquids Rich Shale Conference, Rancho Palos Verdes, California, USA </article-title>, May.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="23" data-type-order="23">
+<link href="link-23" type="image" />
+<appendix>
+<linkTarget id="link-23" type="image">
+<anchoringText id="Ancr24">Fig. 23-27 depict some of the lateral wellbore trajectories listed above.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-23">
+<label>Figure 23 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_23.tif" id="ImgLink-23" />
+<caption>Lateral well trajectory following the surface</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>23</caption-order>
+<caption-text>Lateral well trajectory following the surface</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="24" data-type-order="24">
+<link href="link-24" type="image" />
+<appendix>
+<linkTarget id="link-24" type="image">
+<anchoringText id="Ancr25">Fig. 23-27 depict some of the lateral wellbore trajectories listed above.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-24">
+<label>Figure 24 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_24.tif" id="ImgLink-24" />
+<caption>Lateral well trajectory following good saturation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>24</caption-order>
+<caption-text>Lateral well trajectory following good saturation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="25" data-type-order="25">
+<link href="link-25" type="image" />
+<appendix>
+<linkTarget id="link-25" type="image">
+<anchoringText id="Ancr26">Fig. 23-27 depict some of the lateral wellbore trajectories listed above.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-25">
+<label>Figure 25 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_25.tif" id="ImgLink-25" />
+<caption>Lateral well trajectory following good permeability</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>25</caption-order>
+<caption-text>Lateral well trajectory following good permeability</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="26" data-type-order="26">
+<link href="link-26" type="image" />
+<appendix>
+<linkTarget id="link-26" type="image">
+<anchoringText id="Ancr27">Fig. 23-27 depict some of the lateral wellbore trajectories listed above.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-26">
+<label>Figure 26 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_26.tif" id="ImgLink-26" />
+<caption>Lateral well trajectory in a shallow low stress layer</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>26</caption-order>
+<caption-text>Lateral well trajectory in a shallow low stress layer</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="22" figure-order="27" data-type-order="27">
+<link href="link-27" type="image" />
+<appendix>
+<linkTarget id="link-27" type="image">
+<anchoringText id="Ancr28">Fig. 23-27 depict some of the lateral wellbore trajectories listed above.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-27">
+<label>Figure 27 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_27.tif" id="ImgLink-27" />
+<caption>Lateral well trajectory in a deeper low stress layer</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>27</caption-order>
+<caption-text>Lateral well trajectory in a deeper low stress layer</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="10" pdf-page="22" figure-order="28" data-type-order="28">
+<link href="link-28" type="image" />
+<appendix>
+<linkTarget id="link-28" type="image">
+<anchoringText id="Ancr29">High-viscosity slickwater, discussed earlier, was used to simulate hydraulic fractures in each of the trajectories. The pump schedule was kept consistent for all the cases. Fig. 23 shows the simulated hydraulic fractures superimposed on the minimum horizontal stress distribution for all 10 trajectories. In all the cases, the heel of the well is on the right side and toe is on the left. The distribution of hydraulic fractures in Fig. 28 also gives an indication of the horizontal wellbore trajectory for each case.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-28">
+<label>Figure 28 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_28.tif" id="ImgLink-28" />
+<caption>Simulated hydraulic fractures superimposed on the minimum horizontal stress distribution for the 10 trajectories. (a) Follow a surface at best landing point. (b) Land in good saturation. (c) Land in good permeability. (d) Shallow well in low stress layer. (e) Deeper well in low stress layer. (f) Toe down. (g) Toe up. (h) Hold horizontal followed by toe up. (i) Hold horizontal followed by toe down. (j) Horizontal at best landing point.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>28</caption-order>
+<caption-text>Simulated hydraulic fractures superimposed on the minimum horizontal stress distribution for the 10 trajectories. (a) Follow a surface at best landing point. (b) Land in good saturation. (c) Land in good permeability. (d) Shallow well in low stress layer. (e) Deeper well in low stress layer. (f) Toe down. (g) Toe up. (h) Hold horizontal followed by toe up. (i) Hold horizontal followed by toe down. (j) Horizontal at best landing point.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-28a">
+<imageLink type="mediaResource" href="102118190860MS_i_28a.tif" id="ImgLink-28a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Follow a surface at best landing point.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-28b">
+<imageLink type="mediaResource" href="102118190860MS_i_28b.tif" id="ImgLink-28b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>Land in good saturation.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-28c">
+<imageLink type="mediaResource" href="102118190860MS_i_28c.tif" id="ImgLink-28c" />
+<figure-specific-caption>
+<caption-order>(c)</caption-order>
+<caption-text>Land in good permeability.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-28d">
+<imageLink type="mediaResource" href="102118190860MS_i_28d.tif" id="ImgLink-28d" />
+<figure-specific-caption>
+<caption-order>(d)</caption-order>
+<caption-text>Shallow well in low stress layer.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-28e">
+<imageLink type="mediaResource" href="102118190860MS_i_28e.tif" id="ImgLink-28e" />
+<figure-specific-caption>
+<caption-order>(e)</caption-order>
+<caption-text>Deeper well in low stress layer.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-28f">
+<imageLink type="mediaResource" href="102118190860MS_i_28f.tif" id="ImgLink-28f" />
+<figure-specific-caption>
+<caption-order>(f)</caption-order>
+<caption-text>Toe down</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-28g">
+<imageLink type="mediaResource" href="102118190860MS_i_28g.tif" id="ImgLink-28g" />
+<figure-specific-caption>
+<caption-order>(g)</caption-order>
+<caption-text>Toe up</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-28h">
+<imageLink type="mediaResource" href="102118190860MS_i_28h.tif" id="ImgLink-28h" />
+<figure-specific-caption>
+<caption-order>(h)</caption-order>
+<caption-text>Hold horizontal followed by toe up.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-28i">
+<imageLink type="mediaResource" href="102118190860MS_i_28i.tif" id="ImgLink-28i" />
+<figure-specific-caption>
+<caption-order>(i)</caption-order>
+<caption-text>Hold horizontal followed by toe down.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190860MS-Img_SPi-28j">
+<imageLink type="mediaResource" href="102118190860MS_i_28j.tif" id="ImgLink-28j" />
+<figure-specific-caption>
+<caption-order>(j)</caption-order>
+<caption-text> Horizontal at best landing point.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="23" figure-order="29" data-type-order="29">
+<link href="link-29" type="image" />
+<appendix>
+<linkTarget id="link-29" type="image">
+<anchoringText id="Ancr30">The fractures created were used to construct a production grid for each case, and the production forecast was obtained for 10 years. Fig. 29 shows a comparison of production forecast for all the 10 cases for a normalized wellbore length. It is clear from Fig. 29 that the best production performance is shown by a horizontal well landed at the best RQ and CQ interval identified through the lateral landing study. Although it is possible to drill wells with any desired trajectory, there could be long-term effects of wellbore trajectory on well production.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-29">
+<label>Figure 29 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_29.tif" id="ImgLink-29" />
+<caption>Production performance of 10 different trajectory cases. Horizontal well landed at the best landing interval (interval 6) shows the best production performance.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>29</caption-order>
+<caption-text>Production performance of 10 different trajectory cases. Horizontal well landed at the best landing interval (interval 6) shows the best production performance.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="24" figure-order="30" data-type-order="30">
+<link href="link-30" type="image" />
+<appendix>
+<linkTarget id="link-30" type="image">
+<anchoringText id="Ancr31">To fully understand the well trajectory impact on well production, we manually coupled a wellbore hydraulic model with the reservoir and completion model. The 5-year reservoir completion simulation provides parameters such as oil phase productivity index, gas-oil ratio (GOR), and water cut as inputs for the wellbore hydraulic simulations. This integrated modeling investigated 5 out of the 10 well trajectories shown in Fig. 30:</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-30">
+<label>Figure 30 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_30.tif" id="ImgLink-30" />
+<caption>Five well trajectories investigated in the integrated engineering study.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>30</caption-order>
+<caption-text>Five well trajectories investigated in the integrated engineering study.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="25" figure-order="31" data-type-order="31">
+<link href="link-31" type="image" />
+<appendix>
+<linkTarget id="link-31" type="image">
+<anchoringText id="Ancr32">The different well trajectories yield slightly different rock quality and reservoir conditions. Figs. 31-34 show the stage-wise averaged reservoir parameters for each of the five well trajectories cases. The figures indicate that the horizontal and toe-up trajectory have a higher oil phase productivity index (PI) whereas the hold-toe down has the lowest oil phase PI. The horizontal well has a slightly higher reservoir pressure than most of the others. Regarding the GOR, the hold toe-down well has a lower GOR in the initial production and a higher GOR in the later stage of production compared to other trajectories. Water cut numbers are similar for all trajectories except for the hold toe-down whose water cut remains above 50% after 5 years.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-31">
+<label>Figure 31 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_31.tif" id="ImgLink-31" />
+<caption>Oil phase PI as a function of time.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>31</caption-order>
+<caption-text>Oil phase PI as a function of time.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="25" figure-order="32" data-type-order="32">
+<link href="link-32" type="image" />
+<appendix>
+<linkTarget id="link-32" type="image">
+<anchoringText id="Ancr33">The different well trajectories yield slightly different rock quality and reservoir conditions. Figs. 31-34 show the stage-wise averaged reservoir parameters for each of the five well trajectories cases. The figures indicate that the horizontal and toe-up trajectory have a higher oil phase productivity index (PI) whereas the hold-toe down has the lowest oil phase PI. The horizontal well has a slightly higher reservoir pressure than most of the others. Regarding the GOR, the hold toe-down well has a lower GOR in the initial production and a higher GOR in the later stage of production compared to other trajectories. Water cut numbers are similar for all trajectories except for the hold toe-down whose water cut remains above 50% after 5 years.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-32">
+<label>Figure 32 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_32.tif" id="ImgLink-32" />
+<caption>Reservoir pressure as a function of time.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>32</caption-order>
+<caption-text>Reservoir pressure as a function of time.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="25" figure-order="33" data-type-order="33">
+<link href="link-33" type="image" />
+<appendix>
+<linkTarget id="link-33" type="image">
+<anchoringText id="Ancr34">The different well trajectories yield slightly different rock quality and reservoir conditions. Figs. 31-34 show the stage-wise averaged reservoir parameters for each of the five well trajectories cases. The figures indicate that the horizontal and toe-up trajectory have a higher oil phase productivity index (PI) whereas the hold-toe down has the lowest oil phase PI. The horizontal well has a slightly higher reservoir pressure than most of the others. Regarding the GOR, the hold toe-down well has a lower GOR in the initial production and a higher GOR in the later stage of production compared to other trajectories. Water cut numbers are similar for all trajectories except for the hold toe-down whose water cut remains above 50% after 5 years.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-33">
+<label>Figure 33 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_33.tif" id="ImgLink-33" />
+<caption>GOR as a function of time.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>33</caption-order>
+<caption-text>GOR as a function of time.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="26" figure-order="34" data-type-order="34">
+<link href="link-34" type="image" />
+<appendix>
+<linkTarget id="link-34" type="image">
+<anchoringText id="Ancr35">The different well trajectories yield slightly different rock quality and reservoir conditions. Figs. 31-34 show the stage-wise averaged reservoir parameters for each of the five well trajectories cases. The figures indicate that the horizontal and toe-up trajectory have a higher oil phase productivity index (PI) whereas the hold-toe down has the lowest oil phase PI. The horizontal well has a slightly higher reservoir pressure than most of the others. Regarding the GOR, the hold toe-down well has a lower GOR in the initial production and a higher GOR in the later stage of production compared to other trajectories. Water cut numbers are similar for all trajectories except for the hold toe-down whose water cut remains above 50% after 5 years.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-34">
+<label>Figure 34 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_34.tif" id="ImgLink-34" />
+<caption>Water cut as a function of time.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>34</caption-order>
+<caption-text>Water cut as a function of time.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="26" figure-order="35" data-type-order="35">
+<link href="link-35" type="image" />
+<appendix>
+<linkTarget id="link-35" type="image">
+<anchoringText id="Ancr36">Due to small simulation timesteps in the wellbore hydraulic model, the integrated model was run by 20 short simulation periods instead of 5 years to reduce the run time. Fig. 35 shows the total liquid production rates at wellhead for wells with different trajectories. We can see that the hold-toe-down trajectory has a higher production rate in the early period but has the lowest production rate in the late period. For all well trajectories, sooner or later, unstable production behavior, such as hydrodynamic slugging, is observed. The toe-up well and hold-toe-up well tend to experience slugging issues earlier than the others.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-35">
+<label>Figure 35 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_35.tif" id="ImgLink-35" />
+<caption>Daily liquid production rate at the wellhead for different well trajectories (absolute values are not displayed for the sake of confidentiality).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>35</caption-order>
+<caption-text>Daily liquid production rate at the wellhead for different well trajectories (absolute values are not displayed for the sake of confidentiality).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="27" figure-order="36" data-type-order="36">
+<link href="link-36" type="image" />
+<appendix>
+<linkTarget id="link-36" type="image">
+<anchoringText id="Ancr37">Among the five well trajectories, the horizontal well produces the most cumulative liquid volume, as shown in Fig. 36. This result from the wellbore hydraulic model is consistent with the standalone reservoir simulation result. The toe-down and hold-toe-down wells are underperforming compared to others. This is due to liquid accumulation near the toe, which impairs the production from stages close to the toe.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-36">
+<label>Figure 36 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_36.tif" id="ImgLink-36" />
+<caption>Accumulative liquid production for different well trajectories (absolute values are not displayed for the sake of confidentiality).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>36</caption-order>
+<caption-text>Accumulative liquid production for different well trajectories (absolute values are not displayed for the sake of confidentiality).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="28" figure-order="37" data-type-order="37">
+<link href="link-37" type="image" />
+<appendix>
+<linkTarget id="link-37" type="image">
+<anchoringText id="Ancr38">There exists a secure operating envelope (SOE) in which the flowback operation should be performed to mitigate the detrimental effects of high drawdown. If the operation is carried out outside of the safe margin, then there is potential to damage the proppant pack or cause proppant flowback. Construction of the SOE (discussed in detail by Potapenko et al. 2017) requires information on geomechanics, well tubular, perforations, and proppant. Fig. 37 illustrates the concept of and SOE that can be used during flowback operations to safely flow back the well and mitigate problems related to fracture damage and formation damage.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-37">
+<label>Figure 37 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_37.tif" id="ImgLink-37" />
+<caption>SOE showing various zones that may occur during a flowback operation (Schlumberger 2016).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>37</caption-order>
+<caption-text>SOE showing various zones that may occur during a flowback operation (Schlumberger 2016).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="29" figure-order="38" data-type-order="38">
+<link href="link-38" type="image" />
+<appendix>
+<linkTarget id="link-38" type="image">
+<anchoringText id="Ancr39">Well shut-in simulations were performed using the wellbore hydraulic models following the 5-year production conditions. A well restart scenario was also included to see if any well trajectory would lead to a restart failure. Fig. 38 shows the liquid holdup distribution in the wellbore after shutting down the wells for 1 day. It shows there are liquid slugs in the lateral sections of the toe-down, hold-toe-down, and oscillating trajectories. These liquid slugs will arrive at the surface separator and will be a challenge to handle after the well is restarted. Table 1 shows the total liquid volume in the wellbore after 1 day of shutting in.</anchoringText>
+<image-wrap id="102118190860MS-Img_SPi-38">
+<label>Figure 38 </label>
+<imageLink type="mediaResource" href="102118190860MS_i_38.tif" id="ImgLink-38" />
+<caption>Liquid holdup profile in the wellbore after 1 day of shut-in.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>38</caption-order>
+<caption-text>Liquid holdup profile in the wellbore after 1 day of shut-in.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

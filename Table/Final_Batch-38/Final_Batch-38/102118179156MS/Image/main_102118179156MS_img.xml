@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118179156MS.txt" extractionDate="2021-03-18T15:26:56Z">
+<doi>10.2118/179156-MS</doi>
+<pii>10.2118/179156-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">The Bakken-Lodgepole total petroleum system (TPS), as it is called (Fig. 1), comprises the Bakken formation, upper Three Forks formation, and the lower Lodgepole formation, with the upper and lower Bakken Shales acting as the source rocks The play was mostly vertical in the early exploration periods, with vertical wells completed and produced from the Sanish formation in the Antelope field. The first horizontal well was attempted into the upper Bakken Shale in 1987 (Jin et al. 2015).</anchoringText>
+<image-wrap id="102118179156MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118179156MS_i_1.tif" id="ImgLink-1" />
+<caption>The Bakken-Lodgepole TPS ( <link href="BIB1">Pollastro et al. 2013</link> ).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>The Bakken-Lodgepole TPS ( <link href="BIB1">Pollastro et al. 2013</link> ).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-17" type="bib">
+<bib id="BIB1">
+<label>Pollastro et al., 2013</label>
+<author>
+<first-name> R.M.</first-name>
+<last-name>Pollastro</last-name>
+</author>, <author>
+<first-name>L. N.R.</first-name>
+<last-name>Roberts</last-name>
+</author>, <author>
+<first-name>T.A</first-name>
+<last-name>Cook</last-name>
+</author>. <pubDate>2013</pubDate>.<article-title> Geological Assessment of Technically Recoverable Oil in the Devonian and Mississippian Bakken Formation. In Assessment of Undiscovered Oil and Gas Resources of the Williston Basin Province of North Dakota, Montana, and South Dakota, U.S. Geological Survey Williston Basin Province Assessment Team, 2010 (ver. 1.1, November 2013)</article-title>,<journal-title> Chapter 5. U.S. Geological Survey Digital Data Series</journal-title> DDS-69-W, 34 p. http://pubs.usgs.gov/dds/dds-069/dds-069-w/contents/REPORTS/69_W_CH_5.pdf (accessed 24 November 2015).</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">There is a large database of conventional wireline logs, cores, and tests covering most areas of the basin. With a mix of thin beds, variable mineralogy, low permeability, and mixed wettability rocks, porosity and permeability relationships in the TPS can be quite complicated. Mineral assemblages within the matrix can include calcite, dolomite, siderite, potassium feldspar, plagioclase, quartz, pyrite, illite, and anhydrite. Kerogen is also present in quantities between 1 and 40%. Measured Archie’s m and n parameters from core vary considerably (Fig. 2), and recent work by Simpson and Fishman (2015) has shed some doubt on existing core permeability measurements in the system.</anchoringText>
+<image-wrap id="102118179156MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118179156MS_i_2.tif" id="ImgLink-2" />
+<caption>Bakken and Three Forks <i>m</i> versus <i>n</i>, compiled from North Dakota Industrial Commission (NDIC) core reports. Lower <i>m</i> and higher <i>n</i> results in lower water saturation in the Archie equation.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Bakken and Three Forks m versus n, compiled from North Dakota Industrial Commission (NDIC) core reports. Lower m and higher n results in lower water saturation in the Archie equation.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179156MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118179156MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Middle Bakken</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179156MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118179156MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Three Forks</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">A typical petrophysical interpretation and reservoir quality characterization of a Bakken well is shown in Fig. 3. As seen from the log, a combination of high-tier logs is usually required to characterize the lithology and hydrocarbon content of the rock. Enhanced log analysis from openhole elemental capture spectroscopy is used to understand different mineralogy and clay types. Weight fractions of different minerals are then used to estimate water saturation, although this calculation does not differentiate between bound and mobile water. Various published and publicly available m and n values are then used to calculate water saturation as a function of formation water resistivity at different depths.</anchoringText>
+<image-wrap id="102118179156MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118179156MS_i_3.tif" id="ImgLink-3" />
+<caption>Typical Bakken petrophysical interpretation in the Williston basin.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Typical Bakken petrophysical interpretation in the Williston basin.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">Fig. 4 illustrates the potential difference between using sliding sleeves and plug-and-perf completion. Although with plug-and-perf completions we can propagate multiple hydraulic fractures, not all of the clusters are capable of propagating fractures. Fig. 5 shows that the near-wellbore pressure losses were the same in wells with different numbers of perforation clusters, suggesting that only a certain number of clusters can accept fluid, and perforating more clusters does not necessarily create an equivalent number of hydraulic fractures.</anchoringText>
+<image-wrap id="102118179156MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118179156MS_i_4.tif" id="ImgLink-4" />
+<caption>Comparison of sliding sleeves and plug-and-perf completions.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Comparison of sliding sleeves and plug-and-perf completions.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179156MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118179156MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Sliding Sleeves One fracture per stage</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179156MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118179156MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Plug and Perf Potential for multiple fractures per stage</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">Fig. 4 illustrates the potential difference between using sliding sleeves and plug-and-perf completion. Although with plug-and-perf completions we can propagate multiple hydraulic fractures, not all of the clusters are capable of propagating fractures. Fig. 5 shows that the near-wellbore pressure losses were the same in wells with different numbers of perforation clusters, suggesting that only a certain number of clusters can accept fluid, and perforating more clusters does not necessarily create an equivalent number of hydraulic fractures.</anchoringText>
+<image-wrap id="102118179156MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118179156MS_i_5.tif" id="ImgLink-5" />
+<caption>Estimation of near-wellbore pressure losses from stepdown tests.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Estimation of near-wellbore pressure losses from stepdown tests.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="7" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">Planar models built using geomechanical earth models that were calibrated with closures from extended shut-in decline analysis tests have shown that the hydraulic fractures grow considerably in height, well into the Lodgepole formation, and they extend more than 1,000 ft in length. Microseismic studies were performed to investigate height growth and validate predictions from a numerical 3D planar hydraulic fracture model. Fig. 6 shows the microseismic event distribution from fractures initiated in the Three Forks formation that confirm height propagation well into the Lodgepole formation, as predicted by numerical simulation. With respect to length, extension pressure gauges were installed in offset wells 2,000 ft away, and direct fracture interference was witnessed. Fig. 6 also illustrates the fracture pressure inteference between wells.</anchoringText>
+<image-wrap id="102118179156MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118179156MS_i_6.tif" id="ImgLink-6" />
+<caption>Microseismic events depicting fracture height and fracture pressure interference between wells.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Microseismic events depicting fracture height and fracture pressure interference between wells.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179156MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118179156MS_i_6a.tif" id="ImgLink-6a" />
+</image-wrap>
+<image-wrap id="102118179156MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118179156MS_i_6b.tif" id="ImgLink-6b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="7" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">Another way of understanding the nature of fracture propagation and contribution to production from the stimulated reservoir volume is to look at production from wells as a function of stage count in the same pad or area. Fig. 7 shows one such example in which 12-month cumulative production from different Bakken and Three Forks wells in the same pad were compared and plotted against the number of fracturing stages from each well. It should be noted that all these wells were completed with plug-and-perf completions using three perforation clusters per stage. The analysis shows that the cumulative production from these wells is directly proportional to the number of fractures propagating (assuming all fracture clusters were propagating and contributing to production).</anchoringText>
+<image-wrap id="102118179156MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118179156MS_i_7.tif" id="ImgLink-7" />
+<caption>Production comparison of Middle Bakken and Three Forks wells versus fracture stage count</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Production comparison of Middle Bakken and Three Forks wells versus fracture stage count</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179156MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118179156MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Middle Bakken</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179156MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118179156MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Three Forks</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">Fig. 8 shows the effect of fracture parameters on long-term oil production from a Bakken field. As seen in the plot, half-length has a far-reaching impact on well productivity whereas fracture conductivity (shown as a function of type of proppant used) has minimal to no impact on the same. This is because, most of the differences in production resulting from higher conductivity are due to storage effects in the fracture leading to higher initial production as the reservoir and fracture attempt to reach a state of equilibrium. In unconventional reservoirs with very low permeability, the transition from fracture linear flow to bilinear flow to formation linear flow happens in the first few months of production, and thus the overall impact of conductivity on long-term production is abated.</anchoringText>
+<image-wrap id="102118179156MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118179156MS_i_8.tif" id="ImgLink-8" />
+<caption>Effect of conductive half-lengths and proppant types on long-term production.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Effect of conductive half-lengths and proppant types on long-term production.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179156MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118179156MS_i_8a.tif" id="ImgLink-8a" />
+</image-wrap>
+<image-wrap id="102118179156MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118179156MS_i_8b.tif" id="ImgLink-8b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="12" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">Reservoir quality, typically characterized by effective porosity, mobile water saturation, effective permeability and net pay, varies throughout the basin as a function of the depositional environment. A plot showing the variation of hydrogen index (HI) from the Upper and Lower shale members of the Bakken formation are shown in Fig. 9. Most of the trends in the indices show a general decrease in total organic content from east to west with decreasing HI and stages of oil generation with respect to HI (USGS 2010). Effective porosity and water saturation determine the volume of oil stored in the pore spaces of the rock matrix, and the effective and relative permeabilities of the rock determine the ability of the rock matrix to flow oil into the hydraulic fractures.</anchoringText>
+<image-wrap id="102118179156MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118179156MS_i_9.tif" id="ImgLink-9" />
+<caption>Hydrogen index variation in the Williston basin (A, Upper Bakken shale; B, Lower Bakken shale).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Hydrogen index variation in the Williston basin (A, Upper Bakken shale; B, Lower Bakken shale).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179156MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118179156MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order>A</caption-order>
+<caption-text>Upper Bakken shale</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179156MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118179156MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order>B</caption-order>
+<caption-text>Lower Bakken shale</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">As pore pressure gradients vary throughout the basin, principal horizontal stresses, which are hugely a function of the reservoir pressure, mechanical properties, and overburden stresses, also vary throughout the basin, as shown in Fig. 10. As discussed in some of the earlier sections of this paper, variations in stresses combined with petrophysical properties can hugely impact fracture geometries depending on the type of fluid used and the velocity at which the fluid is pumped. Fig. 11 shows differences in fracture geometries for the same stress profile from a Bakken well with different types of proppant-carrying fluids pumped at different rates. In the example shown here, a combination of pressure gradients, the thickness of the Middle Bakken and shale barriers, the number of perforations taking fluid, the velocity of the fluid entering the perforation clusters, and the viscosity of the proppant-carrying fluid lead to variations in fracture geometries for each case.</anchoringText>
+<image-wrap id="102118179156MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118179156MS_i_10.tif" id="ImgLink-10" />
+<caption>Variation of pore pressure gradient in the Williston basin.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Variation of pore pressure gradient in the Williston basin.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">As pore pressure gradients vary throughout the basin, principal horizontal stresses, which are hugely a function of the reservoir pressure, mechanical properties, and overburden stresses, also vary throughout the basin, as shown in Fig. 10. As discussed in some of the earlier sections of this paper, variations in stresses combined with petrophysical properties can hugely impact fracture geometries depending on the type of fluid used and the velocity at which the fluid is pumped. Fig. 11 shows differences in fracture geometries for the same stress profile from a Bakken well with different types of proppant-carrying fluids pumped at different rates. In the example shown here, a combination of pressure gradients, the thickness of the Middle Bakken and shale barriers, the number of perforations taking fluid, the velocity of the fluid entering the perforation clusters, and the viscosity of the proppant-carrying fluid lead to variations in fracture geometries for each case.</anchoringText>
+<image-wrap id="102118179156MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118179156MS_i_11.tif" id="ImgLink-11" />
+<caption>Differences in fracture geometries using different fracturing fluids.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Differences in fracture geometries using different fracturing fluids.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="14" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">Fig. 12 shows a simple single-well-based optimization approach to estimate the right number of stages and fractures to pump in a certain Bakken/Three Forks lateral. Although uncertainties are an unavoidable part of the parameters that go into an unconventional fracturing/production model, every attempt must be taken to reduce these uncertainties by calibrating our models with real field or measured data.</anchoringText>
+<image-wrap id="102118179156MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118179156MS_i_12.tif" id="ImgLink-12" />
+<caption>Sensitivity analysis and net present value (NPV) optimization.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Sensitivity analysis and net present value (NPV) optimization.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179156MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118179156MS_i_12a.tif" id="ImgLink-12a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Sensitivity analysis</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179156MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118179156MS_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>net present value (NPV) optimization</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">Fig. 13 shows minimum oil prices required to break-even on drilling and completion costs from different unconventional plays in the US. As seen from the figure, when oil prices trend in the range of USD 40 to USD 45 per barrel, most of these plays become uneconomical to explore and exploit. Although operators are struggling to find different ways to reduce overall well costs and service costs have come down significantly to reflect demand and pricing pressure, most operators have idled rigs and built a huge inventory of horizontal wells that are drilled and waiting to be completed when oil prices rebound and returns on wells that come online improve.</anchoringText>
+<image-wrap id="102118179156MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118179156MS_i_13.tif" id="ImgLink-13" />
+<caption>Break-even oil prices for different unconventional plays in the US (Wood Mackenzie 2014)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Break-even oil prices for different unconventional plays in the US (Wood Mackenzie 2014)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr14">As oil prices keep getting lower, optimum values may never reach a point of inflection, and we start seeing diminishing returns irrespective of the combination of oil prices and number of fracture stages. Optimum well spacing at USD 80 per barrel of oil may be four wells per drilling unit (DU) whereas even six wells per DU may not be optimum at USD 50 per barrel of oil. A functional optimization scenario should take into account volatility in oil prices, as shown in Fig. 14. Not only will provide the operator an opportunity to make meaningful decisions on their drilling and completion strategies but will also offer them a valuable tool to prepare for cyclical fluctuations in oil prices without affecting revenue margins signif-icantly.</anchoringText>
+<image-wrap id="102118179156MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118179156MS_i_14.tif" id="ImgLink-14" />
+<caption>Optimizing development strategies requires taking into account instabilities in oil prices.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Optimizing development strategies requires taking into account instabilities in oil prices.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="15" data-type-order="15">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr15">Fig. 15 shows the current horizontal well activity from the four most productive counties of North Dakota in the Williston basin. The average number of wells currently producing from any horizon is approximately three per DU. As these wells continue to produce and as the pressure transient around the wellbore continues to move, depletion effects resulting from hydrocarbon drainage and pressure drop can significantly impact fracture geometries from offset wells. For example, in a DU that has three wells that have been producing for over 2 years, the entire DU may have experienced changes in geomechanics and pore pressure that the next well that will be drilled in the same horizon as the other three wells may have a completely different fracture geometry and proppant distribution compared to the parent wells. This scenario is shown in Fig. 16.</anchoringText>
+<image-wrap id="102118179156MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118179156MS_i_15.tif" id="ImgLink-15" />
+<caption>Current horizontal well density in the Williston basin (only four counties shown) (data from IHS).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Current horizontal well density in the Williston basin (only four counties shown) (data from IHS).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="16" figure-order="16" data-type-order="16">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr16">Fig. 15 shows the current horizontal well activity from the four most productive counties of North Dakota in the Williston basin. The average number of wells currently producing from any horizon is approximately three per DU. As these wells continue to produce and as the pressure transient around the wellbore continues to move, depletion effects resulting from hydrocarbon drainage and pressure drop can significantly impact fracture geometries from offset wells. For example, in a DU that has three wells that have been producing for over 2 years, the entire DU may have experienced changes in geomechanics and pore pressure that the next well that will be drilled in the same horizon as the other three wells may have a completely different fracture geometry and proppant distribution compared to the parent wells. This scenario is shown in Fig. 16.</anchoringText>
+<label>Figure 16 </label>
+<image-wrap id="102118179156MS-Img_SPi-16">
+<imageLink type="mediaResource" href="102118179156MS_i_16.tif" id="ImgLink-16" />
+<caption>Impact of parent well depletion on fracture geometries from new wellbores.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Impact of parent well depletion on fracture geometries from new wellbores.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179156MS-Img_SPi-16a">
+<imageLink type="mediaResource" href="102118179156MS_i_16a.tif" id="ImgLink-16a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Virgin conditions</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179156MS-Img_SPi-16b">
+<imageLink type="mediaResource" href="102118179156MS_i_16b.tif" id="ImgLink-16b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Uniform Depletion</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179156MS-Img_SPi-16c">
+<imageLink type="mediaResource" href="102118179156MS_i_16c.tif" id="ImgLink-16c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Non- Uniform Depletion</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

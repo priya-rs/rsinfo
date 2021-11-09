@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118181110MS.txt" extractionDate="2021-03-23T16:00:05Z">
+<doi>10.2118/181110-MS</doi>
+<pii>10.2118/181110-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="6" table-order="1" data-type-order="4">
+<table-wrap id="102118181110MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Values of a = 0.5 and c = 0.08 were selected for the tuning parameters based on the developed recommendations in (Haghighat Sefat et al., 2016b). The objective function was calculated using Eq. 2 with A = 0 (i.e. the mean only) while NPV (Eq. 1) is calculated for the initial 4 years of production period using general economic data for a North Sea development (Table 1).</anchoringText>
+<label>Table 1</label>
+<caption>Economic parameters for calculating NPV.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Economic parameters for calculating NPV.</caption-text>
+</formatted-caption>
+<table id="102118181110MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Parameter</th>
+<th valign="top" align="center">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" bgcolor="#C0C0C0">
+<b>Oil revenue</b>
+</td>
+<td valign="top" align="center" bgcolor="#C0C0C0">377$/sm<sup>3</sup> oil</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Water handling cost</b>
+</td>
+<td valign="top" align="center">6.3$/sm<sup>3</sup> water</td>
+</tr>
+<tr>
+<td valign="top" align="left" bgcolor="#C0C0C0">
+<b>Operating cost of the produced liquid</b>
+</td>
+<td valign="top" align="center" bgcolor="#C0C0C0">12.6$/sm<sup>3</sup> liquid</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Discount rate</b>
+</td>
+<td valign="top" align="center">10% / year</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="10" table-order="2" data-type-order="11">
+<table-wrap id="102118181110MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">This illustrates the case when the model-based, proactive optimization scenario is applied to the actual wells, while the actual reservoir is different from that described by the model. Table 2 shows the percent improvement in NPV of each realization and the percent change in the mean and variance of NPV, all calculated w.r.t. the base case (with fully-open ICVs). We observe that single realization optimization, while providing the maximum improvement for that particular realization, fails to provide optimal performance for other realizations.</anchoringText>
+<label>Table 2</label>
+<caption>Changes in the NPV of each realization, mean and variance w.r.t. the base-case when the control scenario is obtained using single-realization optimization or robust optimization</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Changes in the NPV of each realization, mean and variance w.r.t. the base-case when the control scenario is obtained using single-realization optimization or robust optimization</caption-text>
+</formatted-caption>
+<table id="102118181110MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">% Change</th>
+<th valign="top" align="center">NPV (P10)</th>
+<th valign="top" align="center">NPV (P50)</th>
+<th valign="top" align="center">NPV (P90)</th>
+<th valign="top" align="center">Mean</th>
+<th valign="top" align="center">Variance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">
+<b>Robust optimization</b>
+</td>
+<td valign="top" align="center">+0.2</td>
+<td valign="top" align="center">+1.3</td>
+<td valign="top" align="center">+4.3</td>
+<td valign="top" align="center">+1.6</td>
+<td valign="top" align="center">–12</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Single-realization (P50)</b>
+</td>
+<td valign="top" align="center">+0.05</td>
+<td valign="top" align="center">+2</td>
+<td valign="top" align="center">+0.3</td>
+<td valign="top" align="center">+0.8</td>
+<td valign="top" align="center">+2.8</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

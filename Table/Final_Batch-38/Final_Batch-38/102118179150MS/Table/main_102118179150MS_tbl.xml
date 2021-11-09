@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118179150MS.txt" extractionDate="2021-03-18T14:45:17Z">
+<doi>10.2118/179150-MS</doi>
+<pii>10.2118/179150-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="11" table-order="1" data-type-order="13">
+<table-wrap id="102118179150MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Fracture complexity here refers to fracture planes at multiple orientations that are dilating and accepting fluid, as opposed to the planar complexity observed in cored fractures (Figs. 2 and 4). Fig. 18 shows an illustration of various forms of complexity (Warpinski et al. 2009); the lower two cases would be considered complex if the orthogonal fractures dilate. Complexity is a difficult trait to assess because of the potential to be artificially created or obscured by uncertainty in the microseismic measurements. Such complexity was already discussed relative to azimuth (Table 1) measurements in Australia (Johnson et al. 2010) and at Jonah field (Wolhart et al. 2006; Malone et al. 2009).</anchoringText>
+<label>Table 1</label>
+<caption>Comparison of azimuth in coalbed methane test (after Johnson et al. 2010 )</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Comparison of azimuth in coalbed methane test (after <link href="BIB34">Johnson et al. 2010</link> )</caption-text>
+</formatted-caption>
+<table id="102118179150MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Test</th>
+<th valign="top" align="center">Microseismic Azimuth</th>
+<th valign="top" align="center">Tiltmeter Azimuth</th>
+<th valign="top" align="center">Fracture type</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">1</td>
+<td valign="top" align="center">310 to 330</td>
+<td valign="top" align="center">340</td>
+<td valign="top" align="center">T-shape</td>
+</tr>
+<tr>
+<td valign="top" align="left">2</td>
+<td valign="top" align="center">21</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">T-shape</td>
+</tr>
+<tr>
+<td valign="top" align="left">3</td>
+<td valign="top" align="center">310 to 320</td>
+<td valign="top" align="center">30</td>
+<td valign="top" align="center">Horizontal</td>
+</tr>
+<tr>
+<td valign="top" align="left">4</td>
+<td valign="top" align="center">300</td>
+<td valign="top" align="center">23</td>
+<td valign="top" align="center">Horizontal</td>
+</tr>
+<tr>
+<td valign="top" align="left">5</td>
+<td valign="top" align="center">2</td>
+<td valign="top" align="center">300</td>
+<td valign="top" align="center">Two-component</td>
+</tr>
+<tr>
+<td valign="top" align="left">6</td>
+<td valign="top" align="center">350</td>
+<td valign="top" align="center">340</td>
+<td valign="top" align="center">Two-component</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-34" type="bib">
+<bib id="BIB34">
+<label>Johnson et al., 2010</label>
+<last-name>Johnson</last-name>
+<author>
+<first-name>R. L.</first-name>
+<last-name>Johnson</last-name>
+</author>, <last-name>Scott</last-name>, <author>
+<first-name>M. P.</first-name>
+<last-name>Scott</last-name>
+</author>, <last-name>Jeffrey</last-name>, <author>
+<first-name>R. G.</first-name>
+<last-name>Jeffrey</last-name>
+</author> et al. <pubDate>2010</pubDate>. <article-title>Evaluating Hydraulic Fracture Effectiveness in a Coal Seam Gas Reservoir from Surface Tiltmeter and Microseismic Monitoring. Presented at the SPE Annual Technical Conference and Exhibition, Florence, Italy, 19-22 September </article-title>. SPE-133063-MS. http://dx.doi.org/10.2118/133063-MS.</bib>
+</linkTarget>
+</appendix>
+</docTable>
+</docTableList>
+</docTables>

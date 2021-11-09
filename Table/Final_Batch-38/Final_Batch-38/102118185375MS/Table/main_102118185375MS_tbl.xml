@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185375MS.txt" extractionDate="2021-03-25T10:33:08Z">
+<doi>10.2118/185375-MS</doi>
+<pii>10.2118/185375-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="3" table-order="1" data-type-order="2">
+<table-wrap id="102118185375MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Based on sampled core analysis, the average porosity is 22.4%, and average permeability is 934×10-3 μm2. Layer S34III-1-1 has the highest permeability, with average value of 1788×10-3 μm2. From the layer, the permeability show decending tread downwards. The permeability deviation factor is 0.21-1.49, as Table 1, so the reservoir has high heterogeneity.</anchoringText>
+<label>Table 1</label>
+<caption>LHSC reservoir intralayer heterogeneity</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>LHSC reservoir intralayer heterogeneity</caption-text>
+</formatted-caption>
+<table id="102118185375MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" align="center">Layer</th>
+<th rowspan="2" align="center">Sample No.</th>
+<th colspan="3" align="center">Permeability</th>
+<th rowspan="2" align="center">Difference ratio</th>
+<th rowspan="2" align="center">Deviation factor</th>
+</tr>
+<tr>
+<th valign="top" align="center">Max</th>
+<th valign="top" align="center">Min</th>
+<th valign="top" align="center">Average</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">S<sub>3</sub>
+<sup>4</sup>III-1-1</td>
+<td align="center">37</td>
+<td align="center">1409</td>
+<td align="center">2167</td>
+<td align="center">1788</td>
+<td align="center">1.54</td>
+<td align="center">0.21</td>
+</tr>
+<tr>
+<td align="center">S<sub>3</sub>
+<sup>4</sup>III-1-2</td>
+<td align="center">41</td>
+<td align="center">146</td>
+<td align="center">2620</td>
+<td align="center">103S</td>
+<td align="center">17.95</td>
+<td align="center">1.05</td>
+</tr>
+<tr>
+<td align="center">S<sub>3</sub>
+<sup>4</sup>III-2-3</td>
+<td align="center">42</td>
+<td align="center">100</td>
+<td align="center">3114</td>
+<td align="center">870.8</td>
+<td align="center">31.14</td>
+<td align="center">1.49</td>
+</tr>
+<tr>
+<td align="center">S<sub>3</sub>
+<sup>4</sup>III-2-4</td>
+<td align="center">43</td>
+<td align="center">14</td>
+<td align="center">171</td>
+<td align="center">92.5</td>
+<td align="center">12.21</td>
+<td align="center">0.85</td>
+</tr>
+<tr>
+<td align="center">S<sub>3</sub>
+<sup>4</sup>III-2-5</td>
+<td align="center">44</td>
+<td align="center">53</td>
+<td align="center">1887</td>
+<td align="center">911.8</td>
+<td align="center">35.6</td>
+<td align="center">0.77</td>
+</tr>
+<tr>
+<td valign="top" align="center">S<sub>3</sub>
+<sup>4</sup>III-2-5</td>
+<td valign="top" align="center">45</td>
+<td valign="top" align="center">117</td>
+<td valign="top" align="center">2565</td>
+<td valign="top" align="center">997.5</td>
+<td valign="top" align="center">21.92</td>
+<td valign="top" align="center">0.95</td>
+</tr>
+<tr>
+<td valign="top" align="center">S<sub>3</sub>
+<sup>4</sup>III-2-5</td>
+<td valign="top" align="center">46</td>
+<td valign="top" align="center">72</td>
+<td valign="top" align="center">2741</td>
+<td valign="top" align="center">1291</td>
+<td valign="top" align="center">38.07</td>
+<td valign="top" align="center">0.74</td>
+</tr>
+<tr>
+<td align="center">S<sub>3</sub>
+<sup>4</sup>III-3-6</td>
+<td align="center">47</td>
+<td align="center">56</td>
+<td align="center">1704</td>
+<td align="center">674.1</td>
+<td align="center">30.43</td>
+<td align="center">0.86</td>
+</tr>
+<tr>
+<td align="center">S<sub>3</sub>
+<sup>4</sup>III-3-6</td>
+<td align="center">48</td>
+<td align="center">21</td>
+<td align="center">1503</td>
+<td align="center">S15.3</td>
+<td align="center">71.57</td>
+<td align="center">0.91</td>
+</tr>
+<tr>
+<td valign="top" align="center">S<sub>3</sub>
+<sup>4</sup>III-3-7</td>
+<td valign="top" align="center">50</td>
+<td valign="top" align="center">357</td>
+<td valign="top" align="center">1520</td>
+<td valign="top" align="center">863</td>
+<td valign="top" align="center">4.26</td>
+<td valign="top" align="center">0.49</td>
+</tr>
+<tr>
+<td colspan="2" align="center">Average</td>
+<td align="center">235</td>
+<td align="center">1999</td>
+<td align="center">934</td>
+<td align="center">26.47</td>
+<td align="center">0.82</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="8" table-order="2" data-type-order="8">
+<table-wrap id="102118185375MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The benefiting direction change after NPF can be seen in Table 2. The ratio of producer number with single benefiting direction is decreased from 42.9% before NPF to 28.6%after NPF. The ratio of producer number with two benefiting directions is increased from 42.9% before NPF to 47.6% after NPF. And the ratio of producer number with multiple benefiting directions is increased from 14.2% before NPF to 23.8% after NPF.</anchoringText>
+<label>Table 2</label>
+<caption>The benefiting direction comparison of the producers in LHSC pilot</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>The benefiting direction comparison of the producers in LHSC pilot</caption-text>
+</formatted-caption>
+<table id="102118185375MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" align="center">Item</th>
+<th rowspan="2" align="center">Total producer number</th>
+<th rowspan="2" align="center">Benefiting wells</th>
+<th colspan="2" align="center">Single direction</th>
+<th colspan="2" align="center">Two direction</th>
+<th colspan="2" align="center">Multiple direction</th>
+</tr>
+<tr>
+<th align="center">producer number</th>
+<th align="center">ratio (%)</th>
+<th align="center">producer number</th>
+<th align="center">ratio (%)</th>
+<th align="center">producer number</th>
+<th align="center">ratio (°/o)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Before<b>
+</b>NPF</td>
+<td align="center">21</td>
+<td align="center">21</td>
+<td align="center">9</td>
+<td align="center">42.9</td>
+<td align="center">9</td>
+<td align="center">42.9</td>
+<td align="center">3</td>
+<td align="center">14.2</td>
+</tr>
+<tr>
+<td align="center">After NPF</td>
+<td align="center">21</td>
+<td align="center">21</td>
+<td align="center">6</td>
+<td align="center">28.6</td>
+<td align="center">10</td>
+<td align="center">47.6</td>
+<td align="center">5</td>
+<td align="center">23.8</td>
+</tr>
+<tr>
+<td colspan="3" valign="top" align="center">Difference</td>
+<td align="center">-3</td>
+<td align="center">-14.3</td>
+<td align="center">1</td>
+<td align="center">4.7</td>
+<td align="center">7</td>
+<td align="center">9.6</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="8" table-order="3" data-type-order="9">
+<table-wrap id="102118185375MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">The injection pressure and apparent injectivity change of the 10 injectors after NPF can be seen in Table 3. During SMG injection, the injection pressure increased to different extent. After NPF, the average injection pressure of single well is increased by 4.5MPa. The apparent injectivity decreased to different extent, and the decreasing amplitude is 1.4% to 74.7%, with the average of 27.1%.</anchoringText>
+<label>Table 3</label>
+<caption>Injection pressure and apparent injectivity of typical injectors before and after NPF</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Injection pressure and apparent injectivity of typical injectors before and after NPF</caption-text>
+</formatted-caption>
+<table id="102118185375MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" align="center">Injector</th>
+<th rowspan="2" align="center">Pressure Increase During NPF /MPa</th>
+<th colspan="3" align="center">Before NPF</th>
+<th colspan="3" align="center">After NPF</th>
+<th rowspan="2" align="center">Pressure Increase / MPa</th>
+<th rowspan="2" align="center">Apparent injectivity decrease amplitude / %</th>
+</tr>
+<tr>
+<th align="center">Pressure /Mpa</th>
+<th align="center">Injection rate/ (m<sup>3</sup>.d<sup>-1</sup>)</th>
+<th align="center">Apparent injectivity / [m<sup>3</sup>. (d.Mpa)<sup>-1</sup>]</th>
+<th align="center">Pressure / Mpa</th>
+<th align="center">Injection rate /(m<sup>3</sup>.d<sup>-1</sup>)</th>
+<th align="center">Apparent injectivity / [m<sup>3</sup>. (d.MPa)<sup>-1</sup>]</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">L65-029</td>
+<td align="center">0.5</td>
+<td align="center">14</td>
+<td align="center">51</td>
+<td align="center">3.6</td>
+<td align="center">18</td>
+<td align="center">60</td>
+<td align="center">3.3</td>
+<td align="center">4</td>
+<td align="center">8.5</td>
+</tr>
+<tr>
+<td align="center">L65-229</td>
+<td align="center">7</td>
+<td align="center">9.5</td>
+<td align="center">50</td>
+<td align="center">5.3</td>
+<td align="center">12</td>
+<td align="center">60</td>
+<td align="center">5.0</td>
+<td align="center">2.5</td>
+<td align="center">5.0</td>
+</tr>
+<tr>
+<td align="center">L67-59</td>
+<td align="center">1</td>
+<td align="center">13</td>
+<td align="center">65</td>
+<td align="center">5.0</td>
+<td align="center">14.2</td>
+<td align="center">70</td>
+<td align="center">4.9</td>
+<td align="center">1.2</td>
+<td align="center">1.4</td>
+</tr>
+<tr>
+<td align="center">L67-61</td>
+<td align="center">3.7</td>
+<td align="center">11.5</td>
+<td align="center">SI</td>
+<td align="center">7.0</td>
+<td align="center">23</td>
+<td align="center">41</td>
+<td align="center">1.8</td>
+<td align="center">11.5</td>
+<td align="center">74.7</td>
+</tr>
+<tr>
+<td align="center">L68-60</td>
+<td align="center">0.5</td>
+<td align="center">13</td>
+<td align="center">60</td>
+<td align="center">4.6</td>
+<td align="center">16.5</td>
+<td align="center">65</td>
+<td align="center">3.9</td>
+<td align="center">3.5</td>
+<td align="center">14.6</td>
+</tr>
+<tr>
+<td align="center">L67-161</td>
+<td align="center">2.5</td>
+<td align="center">11</td>
+<td align="center">60</td>
+<td align="center">5.5</td>
+<td align="center">17.5</td>
+<td align="center">80</td>
+<td align="center">4.6</td>
+<td align="center">6.5</td>
+<td align="center">16.2</td>
+</tr>
+<tr>
+<td align="center">L68-560</td>
+<td align="center">3.5</td>
+<td align="center">12</td>
+<td align="center">72</td>
+<td align="center">6.0</td>
+<td align="center">17</td>
+<td align="center">67</td>
+<td align="center">3.9</td>
+<td align="center">5</td>
+<td align="center">34.3</td>
+</tr>
+<tr>
+<td align="center">L69-61</td>
+<td align="center">3.6</td>
+<td align="center">11.7</td>
+<td align="center">50</td>
+<td align="center">4.3</td>
+<td align="center">15.5</td>
+<td align="center">60</td>
+<td align="center">3.9</td>
+<td align="center">3.8</td>
+<td align="center">9.4</td>
+</tr>
+<tr>
+<td align="center">L71-161</td>
+<td align="center">0.5</td>
+<td align="center">14</td>
+<td align="center">40</td>
+<td align="center">2.9</td>
+<td align="center">14.5</td>
+<td align="center">40</td>
+<td align="center">2.8</td>
+<td align="center">0.5</td>
+<td align="center">3.4</td>
+</tr>
+<tr>
+<td align="center">L71-163</td>
+<td align="center">6.5</td>
+<td align="center">11.5</td>
+<td align="center">SI</td>
+<td align="center">7.0</td>
+<td align="center">18</td>
+<td align="center">58</td>
+<td align="center">3.2</td>
+<td align="center">6.5</td>
+<td align="center">54.3</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="9" table-order="4" data-type-order="11">
+<table-wrap id="102118185375MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">Due to the plugging during chemical injection, the oil rate benefit curve has a cave in the middle, and it can not explain the real EOR effect. Numerical simulation method was used. As Fig.7 showing, after matching the real production history until now, the oil rate increasing effect of 10 years was predicted, see the curve A in Fig.7. After matching the real production history of the waterflooding phase, the slug injecting parameters were optimized to make the injection smooth and eliminate the effect of plugging and pressure boosting, and the NPF conduction was simulated again to predict the EOR effect, as curve B. The data can be seen in Table 4.</anchoringText>
+<label>Table 4</label>
+<caption>NPF economic parameter list of LHSC pilot</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>NPF economic parameter list of LHSC pilot</caption-text>
+</formatted-caption>
+<table id="102118185375MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" align="center">Year</th>
+<th colspan="3" align="center">A. Actual data of LHSC</th>
+<th colspan="3" align="center">B. Reused data of LHSC</th>
+<th rowspan="2" align="center">Actual oil price of the year,USD/ bbl</th>
+</tr>
+<tr>
+<th align="center">Annual oil increment,t/Y</th>
+<th align="center">Income of the year. K USD</th>
+<th align="center">Income of the year @30USD/ bbl. K USD</th>
+<th align="center">Annual oil increment,t</th>
+<th align="center">Income of the year USD</th>
+<th align="center">Income of the vear @30USD/ bbl, K USD</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1</td>
+<td align="center">5110.7</td>
+<td align="center">3905.8</td>
+<td align="center">1126.9</td>
+<td align="center">5510.7</td>
+<td align="center">4211.5</td>
+<td align="center">1215.1</td>
+<td align="center">104.0</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">5626.6</td>
+<td align="center">4183.3</td>
+<td align="center">1240.7</td>
+<td align="center">5967.0</td>
+<td align="center">4436.4</td>
+<td align="center">1315.7</td>
+<td align="center">101.2</td>
+</tr>
+<tr>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">2440.8</td>
+<td valign="top" align="center">1734.4</td>
+<td valign="top" align="center">53S.2</td>
+<td valign="top" align="center">6096.0</td>
+<td valign="top" align="center">4331.9</td>
+<td valign="top" align="center">1344.2</td>
+<td valign="top" align="center">96.7</td>
+</tr>
+<tr>
+<td valign="top" align="center">4</td>
+<td valign="top" align="center">2709.5</td>
+<td valign="top" align="center">969.7</td>
+<td valign="top" align="center">597.4</td>
+<td valign="top" align="center">5492.0</td>
+<td valign="top" align="center">1965.5</td>
+<td align="center">1211.0</td>
+<td valign="top" align="center">4S.7</td>
+</tr>
+<tr>
+<td valign="top" align="center">5</td>
+<td valign="top" align="center">4843.0</td>
+<td valign="top" align="center">1674.5</td>
+<td valign="top" align="center">1067.9</td>
+<td valign="top" align="center">4981.0</td>
+<td valign="top" align="center">1722.2</td>
+<td valign="top" align="center">1098.3</td>
+<td valign="top" align="center">47.0</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="center">5494.9</td>
+<td align="center">1981.5</td>
+<td align="center">1211.6</td>
+<td align="center">4578.0</td>
+<td align="center">1650.9</td>
+<td align="center">1009.4</td>
+<td align="center">49.1</td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td align="center">5613.0</td>
+<td align="center">2058.1</td>
+<td align="center">1237.7</td>
+<td align="center">4213.0</td>
+<td align="center">1544.8</td>
+<td align="center">929.0</td>
+<td align="center">49.9</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td valign="top" align="center">4853.0</td>
+<td valign="top" align="center">1845.6</td>
+<td valign="top" align="center">1070.1</td>
+<td valign="top" align="center">3818.0</td>
+<td valign="top" align="center">1452.0</td>
+<td valign="top" align="center">841.9</td>
+<td valign="top" align="center">51.7</td>
+</tr>
+<tr>
+<td valign="top" align="center">9</td>
+<td valign="top" align="center">4115.0</td>
+<td valign="top" align="center">1589.9</td>
+<td valign="top" align="center">907.4</td>
+<td valign="top" align="center">3459.0</td>
+<td valign="top" align="center">1336.4</td>
+<td valign="top" align="center">762.7</td>
+<td valign="top" align="center">52.6</td>
+</tr>
+<tr>
+<td align="center">10</td>
+<td align="center">2719.0</td>
+<td align="center">1235.9</td>
+<td align="center">599.5</td>
+<td align="center">3122.0</td>
+<td align="center">1419.1</td>
+<td align="center">688.4</td>
+<td align="center">61.8</td>
+</tr>
+<tr>
+<td align="center">Cumulative oil incremental, t</td>
+<td align="center">43525.5</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td align="center">47236.7</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">Recovery incremental. %</td>
+<td valign="top" align="center">4.9</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">5.3</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td align="center">Total income, K USD</td>
+<td valign="top" align="center">
+</td>
+<td align="center">21178.7</td>
+<td align="center">9597.4</td>
+<td valign="top" align="center">
+</td>
+<td align="center">24070.6</td>
+<td align="center">10415.7</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">Total invest, K USD</td>
+<td colspan="3" valign="top" align="center">6886.5</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">5825.9</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td align="center">EOR cost of one barrel oil produced</td>
+<td colspan="3" align="center">21.5</td>
+<td colspan="3" align="center">16.8</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td align="center">input to output ratio</td>
+<td valign="top" align="center">
+</td>
+<td align="center">1:3.1</td>
+<td align="center">1:1.4</td>
+<td valign="top" align="center">
+</td>
+<td align="center">1:4.1</td>
+<td align="center">1:1.8</td>
+<td valign="top" align="center">
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

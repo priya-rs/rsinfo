@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118177046MS.txt" extractionDate="2021-03-22T16:36:23Z">
+<doi>10.2118/177046-MS</doi>
+<pii>10.2118/177046-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="11" table-order="1" data-type-order="11">
+<table-wrap id="102118177046MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">In this case the injected tracer (injector I2) displays an extremely early arrival at the producer P6, as depicted in Figure 9. 50% of the cumulative tracer production is captured only by this well. Both indicators yield to the conclusion that there exists a high perm type of connection between them. Consistently the numerical analysis highlights this well as 46th in the list. Figure 10 shows a zoom of Figure 6 around this injector and Table 1 displays the details of the fit.</anchoringText>
+<label>Table 1</label>
+<caption>Injector-producer connectivities for each time segment. The coeficients are constant between Initial time and final time.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Injector-producer connectivities for each time segment. The coeficients are constant between Initial time and final time.</caption-text>
+</formatted-caption>
+<table id="102118177046MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Injector</th>
+<th valign="top" align="center">Producer</th>
+<th valign="top" align="center">Initial time</th>
+<th valign="top" align="center">Final time</th>
+<th valign="top" align="center">Connectivity</th>
+<th valign="top" align="center">Standard Deviation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">I2</td>
+<td valign="top" align="center">P5</td>
+<td valign="top" align="center">jan-01</td>
+<td valign="top" align="center">nov-04</td>
+<td valign="top" align="center">0.30</td>
+<td valign="top" align="center">0.07</td>
+</tr>
+<tr>
+<td valign="top" align="left">I2</td>
+<td valign="top" align="center">P6</td>
+<td valign="top" align="center">jan-01</td>
+<td valign="top" align="center">nov-04</td>
+<td valign="top" align="center">0.44</td>
+<td valign="top" align="center">0.05</td>
+</tr>
+<tr>
+<td valign="top" align="left">I2</td>
+<td valign="top" align="center">P7</td>
+<td valign="top" align="center">jan-01</td>
+<td valign="top" align="center">nov-04</td>
+<td valign="top" align="center">0.22</td>
+<td valign="top" align="center">0.05</td>
+</tr>
+<tr>
+<td valign="top" align="left">I2</td>
+<td valign="top" align="center">P8</td>
+<td valign="top" align="center">jan-01</td>
+<td valign="top" align="center">nov-04</td>
+<td valign="top" align="center">0.04</td>
+<td valign="top" align="center">0.05</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="11" table-order="2" data-type-order="12">
+<table-wrap id="102118177046MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">In the case of this injector (simulation name I3), arrival time is large enough to discard the possibility of a channel. Nonetheless most of the tracer (cumulative 66% of the total arrival) is colleceted in producer P10. The cause can be heterogeneity in the reservoir, however without presence of a channel. CRM analysis again displays a clear out of balance situation from the history match. Eight years of steady conditions are fitted in this case finding the connectivity values as shown in Table 2.</anchoringText>
+<label>Table 2</label>
+<caption>
+</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text />
+</formatted-caption>
+<table id="102118177046MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Injector</th>
+<th valign="top" align="center">Producer</th>
+<th valign="top" align="center">Initial time</th>
+<th valign="top" align="center">Final time</th>
+<th valign="top" align="center">Connectivity</th>
+<th valign="top" align="center">Standard deviation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">I3</td>
+<td valign="top" align="center">P9</td>
+<td valign="top" align="center">jan-01</td>
+<td valign="top" align="center">jul-09</td>
+<td valign="top" align="center">0.05</td>
+<td valign="top" align="center">0.07</td>
+</tr>
+<tr>
+<td valign="top" align="left">I3</td>
+<td valign="top" align="center">P10</td>
+<td valign="top" align="center">jan-01</td>
+<td valign="top" align="center">jul-09</td>
+<td valign="top" align="center">0.58</td>
+<td valign="top" align="center">0.09</td>
+</tr>
+<tr>
+<td valign="top" align="left">I3</td>
+<td valign="top" align="center">P11</td>
+<td valign="top" align="center">jan-01</td>
+<td valign="top" align="center">jul-09</td>
+<td valign="top" align="center">0.31</td>
+<td valign="top" align="center">0.08</td>
+</tr>
+<tr>
+<td valign="top" align="left">I3</td>
+<td valign="top" align="center">P12</td>
+<td valign="top" align="center">jan-01</td>
+<td valign="top" align="center">jul-09</td>
+<td valign="top" align="center">0.05</td>
+<td valign="top" align="center">0.07</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191305MS.txt" extractionDate="2021-03-29T15:25:02Z">
+<doi>10.2118/191305-MS</doi>
+<pii>10.2118/191305-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="8" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr3">The tapering function typically achieves its maximum value 1 when dist* (A, B) = 0 (i.e., when A and B are identical) and monotonically decreases as the normalized distance dist* (A, B) increases. In a practical implementation of distance-based localization, one may assume that the shape of the area of model variables that are correlated to a given observation element is elliptical (Emerick and Reynolds, 2011a). However, the major and minor axes of the ellipse may not overlap the axes of the coordinate system used in the reservoir models, as illustrated in Figure 1.</anchoringText>
+<image-wrap id="102118191305MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118191305MS_i_1.tif" id="ImgLink-1" />
+<caption>2D Cartesian coordinate systems <i>S</i>(<i>x, y</i>) and <i>S</i>(<i>x</i>*, <i>y</i>*) with the rotation angle <i>θ</i>.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>2D Cartesian coordinate systems S(x, y) and S(x*, y*) with the rotation angle θ.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="2" data-type-order="4">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr4">Norne is an offshore oil field in the Norwegian Sea, operated by Statoil ASA, Eni Norge AS and Petoro. The Norne field has five primary formations (from top to bottom): Garn, Not, Ile, Tofte and Tilje. Oil is mainly found in the Ile and Tofte formations, whereas gas in the Garn formation. The full Norne field reservoir model is obtained from the Norne database provided by the Center for Integrated Operations at NTNU (http://www.ipt.ntnu.no/~norne), and it consists of four segments: C, D, E and G (see Figure 2).</anchoringText>
+<image-wrap id="102118191305MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118191305MS_i_2.tif" id="ImgLink-2" />
+<caption>Segmentation of the full Norne field reservoir model illustrated through a realization of the x-directional permeability (PERMX) field plotted in PETREL©.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Segmentation of the full Norne field reservoir model illustrated through a realization of the x-directional permeability (PERMX) field plotted in PETREL©.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="3" data-type-order="5">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr5">For illustration, Figure 3 shows a map of distance-based tapering coefficients c^h_ks × c^v_ks distributed over the active reservoir gridblocks on Layer 10 of the reservoir models. These tapering coefficients are computed with respect to all production rates (WGPRH, WOPRH and WWPRH) from well B-2H. To reduce the complexities in implementing distance-based localization, the same map in Figure 3 will be applied to "localize" the impacts of all WGPRH, WOPRH and WWPRH data from well B-2H (at different time instances) on the updates of petro-physical parameters on Layer 10 of the reservoir model.</anchoringText>
+<image-wrap id="102118191305MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118191305MS_i_3.tif" id="ImgLink-3" />
+<caption>Map of distance-based tapering coefficients for active reservoir gridblocks on Layer 10 with respect to all production rates (WGPRH, WOPRH and WWPRH) from well B-2H. For visualization, this map (and all similar figures later) is (are) plotted using an identical size for all reservoir gridblocks.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Map of distance-based tapering coefficients for active reservoir gridblocks on Layer 10 with respect to all production rates (WGPRH, WOPRH and WWPRH) from well B-2H. For visualization, this map (and all similar figures later) is (are) plotted using an identical size for all reservoir gridblocks.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="16" figure-order="4" data-type-order="6">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr6">Figure 4 shows the maps of correlations between PERMX (or PORO) and WGPR (or WOPR) data from well B-2H at the time of Day 41, distributed over active reservoir gridblocks on Layer 10. As one can see from the sub-figures in Figure 4, the correlation maps with respect to the combinations of different types of petro-physical parameters and production data appear distinct from each other. Thus, in principle, the localization scheme should take these differences into account.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-4">
+<label>Figure 4</label>
+<imageLink type="mediaResource" href="102118191305MS_i_4.tif" id="ImgLink-4" />
+<caption>Maps of correlations between PERMX (or PORO) and simulated WGPR (or WOPR) data from well B-2H at the time of Day 41, distributed over active reservoir gridblocks on Layer 10. In the labels of sub-figures, "Corr(data,parameter)" stands for the sample correlation map between a certain type of simulated data and a certain type of petro-physical parameters. (a) Corr(WGPR,PERMX) on Day 41 (b) Corr(WGPR,PORO) on Day 41 (c) Corr(WOPR,PERMX) on Day 41 (d) Corr(WOPR,PORO) on Day 41</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Maps of correlations between PERMX (or PORO) and simulated WGPR (or WOPR) data from well B-2H at the time of Day 41, distributed over active reservoir gridblocks on Layer 10. In the labels of sub-figures, "Corr(data,parameter)" stands for the sample correlation map between a certain type of simulated data and a certain type of petro-physical parameters. (a) Corr(WGPR,PERMX) on Day 41 (b) Corr(WGPR,PORO) on Day 41 (c) Corr(WOPR,PERMX) on Day 41 (d) Corr(WOPR,PORO) on Day 41</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118191305MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Corr(WGPR,PERMX) on Day 41</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118191305MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Corr(WGPR,PORO) on Day 41</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-4c">
+<imageLink type="mediaResource" href="102118191305MS_i_4c.tif" id="ImgLink-4c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Corr(WOPR,PERMX) on Day 41</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-4d">
+<imageLink type="mediaResource" href="102118191305MS_i_4d.tif" id="ImgLink-4d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>Corr(WOPR,PORO) on Day 41</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="17" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr7">As in Figure 4,Figure 5 reports similar correlation maps, but for simulated WGPR (or WOPR) data from well B-2H at the time of Day 2460 instead. Comparing Figures 4 and 5, one can see that the correlation maps also appear different for the same pairs of petro-physical parameters and production data at different time instants. As a result, the localization scheme should also take the time-lapse effect into account.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-5">
+<label>Figure 5</label>
+<imageLink type="mediaResource" href="102118191305MS_i_5.tif" id="ImgLink-5" />
+<caption>As in Figure 4, but for the correlation maps at the time of Day 2460. (a) Corr(WGPR,PERMX) on Day 2460 (b) Corr(WGPR,PORO) on Day 2460 (c) Corr(WOPR,PERMX) on Day 2460 (d) Corr(WOPR,PORO) on Day 2460</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>As in <link href="102118191305MS-Img_SPi-4">Figure 4</link>, but for the correlation maps at the time of Day 2460. (a) Corr(WGPR,PERMX) on Day 2460 (b) Corr(WGPR,PORO) on Day 2460 (c) Corr(WOPR,PERMX) on Day 2460 (d) Corr(WOPR,PORO) on Day 2460</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118191305MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Corr(WGPR,PERMX) on Day 2460</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118191305MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Corr(WGPR,PORO) on Day 2460</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-5c">
+<imageLink type="mediaResource" href="102118191305MS_i_5c.tif" id="ImgLink-5c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Corr(WOPR,PERMX) on Day 2460</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-5d">
+<imageLink type="mediaResource" href="102118191305MS_i_5d.tif" id="ImgLink-5d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>Corr(WOPR,PORO) on Day 2460</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="17" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr8">Figures 6 and 7 indicate the maps of correlation-based tapering coefficients, obtained by applying Eq.(27) to the correlation maps in Figures 4 and 5, respectively. As one can see, these tapering maps are different from each other, meaning that they are adaptive to different combinations of petro-physical parameters and production data at different time instants, in contrast to the non-adaptive tapering map in Figure 3 from distance-based localization.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-6">
+<label>Figure 6</label>
+<imageLink type="mediaResource" href="102118191305MS_i_6.tif" id="ImgLink-6" />
+<caption>Maps of correlation-based tapering coefficients with respect to the correlation maps in Figure 4. (a) Map of tapering coefficients for Corr(WGPR,PERMX) on Day 41 (b) Map of tapering coefficients for Corr(WGPR,PORO) on Day 41 (c) Map of tapering coefficients for Corr(WOPR,PERMX) on Day 41 (d) Map of tapering coefficients for Corr(WOPR,PORO) on Day 41</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Maps of correlation-based tapering coefficients with respect to the correlation maps in <link href="102118191305MS-Img_SPi-4">Figure 4</link>. (a) Map of tapering coefficients for Corr(WGPR,PERMX) on Day 41 (b) Map of tapering coefficients for Corr(WGPR,PORO) on Day 41 (c) Map of tapering coefficients for Corr(WOPR,PERMX) on Day 41 (d) Map of tapering coefficients for Corr(WOPR,PORO) on Day 41</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118191305MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Map of tapering coefficients for Corr(WGPR,PERMX) on Day 41</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118191305MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Map of tapering coefficients for Corr(WGPR,PORO) on Day 41</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-6c">
+<imageLink type="mediaResource" href="102118191305MS_i_6c.tif" id="ImgLink-6c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Map of tapering coefficients for Corr(WOPR,PERMX) on Day 41</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-6d">
+<imageLink type="mediaResource" href="102118191305MS_i_6d.tif" id="ImgLink-6d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>Map of tapering coefficients for Corr(WOPR,PORO) on Day 41</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="18" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr9">Figures 6 and 7 indicate the maps of correlation-based tapering coefficients, obtained by applying Eq.(27) to the correlation maps in Figures 4 and 5, respectively. As one can see, these tapering maps are different from each other, meaning that they are adaptive to different combinations of petro-physical parameters and production data at different time instants, in contrast to the non-adaptive tapering map in Figure 3 from distance-based localization.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-7">
+<label>Figure 7</label>
+<imageLink type="mediaResource" href="102118191305MS_i_7.tif" id="ImgLink-7" />
+<caption>Maps of correlation-based tapering coefficients with respect to the correlation maps in Figure 5. (a) Map of tapering coefficients for Corr(WGPR,PERMX) on Day 2460 (b) Map of tapering coefficients for Corr(WGPR,PORO) on Day 2460 (c) Map of tapering coefficients for Corr(WOPR,PERMX) on Day 2460 (d) Map of tapering coefficients for</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Maps of correlation-based tapering coefficients with respect to the correlation maps in <link href="102118191305MS-Img_SPi-5">Figure 5</link>. (a) Map of tapering coefficients for Corr(WGPR,PERMX) on Day 2460 (b) Map of tapering coefficients for Corr(WGPR,PORO) on Day 2460 (c) Map of tapering coefficients for Corr(WOPR,PERMX) on Day 2460 (d) Map of tapering coefficients for</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118191305MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Map of tapering coefficients for Corr(WGPR,PERMX) on Day 2460</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118191305MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Map of tapering coefficients for Corr(WGPR,PORO) on Day 2460</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-7c">
+<imageLink type="mediaResource" href="102118191305MS_i_7c.tif" id="ImgLink-7c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Map of tapering coefficients for Corr(WOPR,PERMX) on Day 2460</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-7d">
+<imageLink type="mediaResource" href="102118191305MS_i_7d.tif" id="ImgLink-7d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>Map of tapering coefficients for</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="19" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr10">Figure 8 shows the boxplots of the ensembles of data mismatch at different iteration steps, for the production rates used in history matching when the iES is equipped with the distance- (left) and correlation-based (right) localization scheme, respectively. Here, for an ensemble M^I = {m^i_j}^Nc_i=1 of Ne reservoir models at the ith iteration step, the corresponding ensemble of data mismatch is</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-8">
+<label>Figure 8</label>
+<imageLink type="mediaResource" href="102118191305MS_i_8.tif" id="ImgLink-8" />
+<caption>Boxplots of data mismatch (in the scale of log10) at different iteration steps, for the production data assimilated by the iES with distance- (distLoc for short) and correlation-based (corrLoc for short) localization schemes, respectively. In each sug-figure, the horizontal dashed line represents the data mismatch of the manually history matched reservoir model from the Norne database. (a) distLoc (b) corrLoc</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Boxplots of data mismatch (in the scale of log10) at different iteration steps, for the production data assimilated by the iES with distance- (distLoc for short) and correlation-based (corrLoc for short) localization schemes, respectively. In each sug-figure, the horizontal dashed line represents the data mismatch of the manually history matched reservoir model from the Norne database. (a) distLoc (b) corrLoc</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118191305MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>distLoc</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118191305MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>corrLoc</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="9" pdf-page="20" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr11">Figures 9 and 10 plot the profiles of the production rates WGPR, WOPR and WWPR from wells B-2H and D-1H, respectively, with respect to the manually history matched reservoir model in the Norne database and the initial and final ensembles in the iES. In comparison to the production-data profiles of the initial ensemble, those of the final ensembles for the iES with distance- and correlation- based localization tend to have lower spread, and match the real production data used in history matching (red dots) better. In addition, the production-data profiles of the final ensembles also exhibit better matching to the real production data than those of the manually history matched reservoir model provided in the Norne database, as is previously observed in Figure 8.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-9">
+<label>Figure 9</label>
+<imageLink type="mediaResource" href="102118191305MS_i_9.tif" id="ImgLink-9" />
+<caption>Profiles of the production rates WGPR (first row), WOPR (second row) and WWPR (third row) from well B-2H, with respect to the initial ensemble (first column), the final history-matched ensemble with distance-based localization (second column), and the final history-matched ensemble with correlation-based localization (third column), respectively. In each sub-figure, the blue curves stand for the production-rate profiles of an ensemble of reservoir models; the orange curve for the profile of the manually history matched reservoir model from the Norne database; the red dots for the observed production rates used in history matching; and the black dots for the observed production rates used for cross validation. (a) Initial ensemble (b) Final ensemble (distLoc) (c) Final ensemble (corrLoc) (d) Initial ensemble (e) Final ensemble (distLoc) (f) Final ensemble (corrLoe) (g) Initial ensemble (h) Final ensemble (distLoc) (i) Fina] ensemble (corrLoc)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Profiles of the production rates WGPR (first row), WOPR (second row) and WWPR (third row) from well B-2H, with respect to the initial ensemble (first column), the final history-matched ensemble with distance-based localization (second column), and the final history-matched ensemble with correlation-based localization (third column), respectively. In each sub-figure, the blue curves stand for the production-rate profiles of an ensemble of reservoir models; the orange curve for the profile of the manually history matched reservoir model from the Norne database; the red dots for the observed production rates used in history matching; and the black dots for the observed production rates used for cross validation. (a) Initial ensemble (b) Final ensemble (distLoc) (c) Final ensemble (corrLoc) (d) Initial ensemble (e) Final ensemble (distLoc) (f) Final ensemble (corrLoe) (g) Initial ensemble (h) Final ensemble (distLoc) (i) Fina] ensemble (corrLoc)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118191305MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Initial ensemble</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118191305MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Final ensemble (distLoc)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-9c">
+<imageLink type="mediaResource" href="102118191305MS_i_9c.tif" id="ImgLink-9c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Final ensemble (corrLoc)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-9d">
+<imageLink type="mediaResource" href="102118191305MS_i_9d.tif" id="ImgLink-9d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>Initial ensemble</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-9e">
+<imageLink type="mediaResource" href="102118191305MS_i_9e.tif" id="ImgLink-9e" />
+<figure-specific-caption>
+<caption-order>e</caption-order>
+<caption-text>Final ensemble (distLoc)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-9f">
+<imageLink type="mediaResource" href="102118191305MS_i_9f.tif" id="ImgLink-9f" />
+<figure-specific-caption>
+<caption-order>f</caption-order>
+<caption-text>Final ensemble (corrLoe)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-9g">
+<imageLink type="mediaResource" href="102118191305MS_i_9g.tif" id="ImgLink-9g" />
+<figure-specific-caption>
+<caption-order>g</caption-order>
+<caption-text>Initial ensemble</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-9h">
+<imageLink type="mediaResource" href="102118191305MS_i_9h.tif" id="ImgLink-9h" />
+<figure-specific-caption>
+<caption-order>h</caption-order>
+<caption-text>Final ensemble (distLoc)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-9i">
+<imageLink type="mediaResource" href="102118191305MS_i_9i.tif" id="ImgLink-9i" />
+<figure-specific-caption>
+<caption-order>i</caption-order>
+<caption-text>Fina] ensemble (corrLoc)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="9" pdf-page="20" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr12">Figures 9 and 10 plot the profiles of the production rates WGPR, WOPR and WWPR from wells B-2H and D-1H, respectively, with respect to the manually history matched reservoir model in the Norne database and the initial and final ensembles in the iES. In comparison to the production-data profiles of the initial ensemble, those of the final ensembles for the iES with distance- and correlation- based localization tend to have lower spread, and match the real production data used in history matching (red dots) better. In addition, the production-data profiles of the final ensembles also exhibit better matching to the real production data than those of the manually history matched reservoir model provided in the Norne database, as is previously observed in Figure 8.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-10">
+<label>Figure 10</label>
+<imageLink type="mediaResource" href="102118191305MS_i_10.tif" id="ImgLink-10" />
+<caption>As in Figure 9, but for profiles of the production rates from well D-1H. (a) Initial ensemble (b) Final ensemble (distLoc) (c) Final ensemble (corrLoc) (d) Initial ensemble (e) Final ensemble (distLoc) (f) Final ensemble (corrLoe) (g) Initial ensemble (h) Final ensemble (distLoc) (i) Fina] ensemble (corrLoc)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>As in <link href="102118191305MS-Img_SPi-9">Figure 9</link>, but for profiles of the production rates from well D-1H. (a) Initial ensemble (b) Final ensemble (distLoc) (c) Final ensemble (corrLoc) (d) Initial ensemble (e) Final ensemble (distLoc) (f) Final ensemble (corrLoe) (g) Initial ensemble (h) Final ensemble (distLoc) (i) Fina] ensemble (corrLoc)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118191305MS_i_10a.tif" id="ImgLink-10a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Initial ensemble</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118191305MS_i_10b.tif" id="ImgLink-10b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Final ensemble (distLoc)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-10c">
+<imageLink type="mediaResource" href="102118191305MS_i_10c.tif" id="ImgLink-10c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Final ensemble (corrLoc)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-10d">
+<imageLink type="mediaResource" href="102118191305MS_i_10d.tif" id="ImgLink-10d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>Initial ensemble</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-10e">
+<imageLink type="mediaResource" href="102118191305MS_i_10e.tif" id="ImgLink-10e" />
+<figure-specific-caption>
+<caption-order>e</caption-order>
+<caption-text>Final ensemble (distLoc)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-10f">
+<imageLink type="mediaResource" href="102118191305MS_i_10f.tif" id="ImgLink-10f" />
+<figure-specific-caption>
+<caption-order>f</caption-order>
+<caption-text>Final ensemble (corrLoe)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-10g">
+<imageLink type="mediaResource" href="102118191305MS_i_10g.tif" id="ImgLink-10g" />
+<figure-specific-caption>
+<caption-order>g</caption-order>
+<caption-text>Initial ensemble</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-10h">
+<imageLink type="mediaResource" href="102118191305MS_i_10h.tif" id="ImgLink-10h" />
+<figure-specific-caption>
+<caption-order>h</caption-order>
+<caption-text>Final ensemble (distLoc)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-10i">
+<imageLink type="mediaResource" href="102118191305MS_i_10i.tif" id="ImgLink-10i" />
+<figure-specific-caption>
+<caption-order>i</caption-order>
+<caption-text>Fina] ensemble (corrLoc)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="6" pdf-page="21" figure-order="11" data-type-order="13">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr13">Figures 11 reports the mean (top) and STD (bottom) of PERMX fields distributed over the active gridblocks on Layer 10, with respect to the initial ensemble (first column), the final history-matched ensemble with distance-based localization (second column), and the final history-matched ensemble with correlation-based localization (third column), respectively. In comparison to the mean (or STD) map of the initial ensemble, there are significant changes in the mean (or STD) maps of the final history matched ensembles.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-11">
+<label>Figure 11</label>
+<imageLink type="mediaResource" href="102118191305MS_i_11.tif" id="ImgLink-11" />
+<caption>Mean (top row) and STD (bottom row) maps of the ensemble of PERMX fields on Layer 10, with respect to the initial ensemble (first column), the final history-matched ensemble with distancebased localization (second column), and the final history-matched ensemble with correlation-based localization (third column), respectively. In each sub-figure, the circles represent well locations. (a) Initial mean (b) Final mean (distLoc) (c) Final mean (corrLoc) (d) Initial STD (e) Final STD (distLoc) (f) Final STD (corrLoc)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Mean (top row) and STD (bottom row) maps of the ensemble of PERMX fields on Layer 10, with respect to the initial ensemble (first column), the final history-matched ensemble with distancebased localization (second column), and the final history-matched ensemble with correlation-based localization (third column), respectively. In each sub-figure, the circles represent well locations. (a) Initial mean (b) Final mean (distLoc) (c) Final mean (corrLoc) (d) Initial STD (e) Final STD (distLoc) (f) Final STD (corrLoc)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118191305MS_i_11a.tif" id="ImgLink-11a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Initial mean</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118191305MS_i_11b.tif" id="ImgLink-11b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Final mean (distLoc)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-11c">
+<imageLink type="mediaResource" href="102118191305MS_i_11c.tif" id="ImgLink-11c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Final mean (corrLoc)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-11d">
+<imageLink type="mediaResource" href="102118191305MS_i_11d.tif" id="ImgLink-11d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>Initial STD</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-11e">
+<imageLink type="mediaResource" href="102118191305MS_i_11e.tif" id="ImgLink-11e" />
+<figure-specific-caption>
+<caption-order>e</caption-order>
+<caption-text>Final STD (distLoc)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-11f">
+<imageLink type="mediaResource" href="102118191305MS_i_11f.tif" id="ImgLink-11f" />
+<figure-specific-caption>
+<caption-order>f</caption-order>
+<caption-text>Final STD (corrLoc)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="6" pdf-page="22" figure-order="12" data-type-order="14">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr14">In contrast, in history matching with correlation-based localization, the spatial distributions of the tapering coefficients are not confined to be unimodal, whereas relatively large tapering coefficients can be found along the edges of the area with active gridblocks, as demonstrated in Figures 6 and 7. As a result, the petro-physical parameters on the active gridblocks along these edges have more changes (hence smaller ensemble spreads), in comparison to the same petro-physical parameters with distance-based localization. Similar phenomena can also be observed in the mean and STD maps of PORO fields, as indicated in Figure 12.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-12">
+<label>Figure 12</label>
+<imageLink type="mediaResource" href="102118191305MS_i_12.tif" id="ImgLink-12" />
+<caption>As in Figure 11, but for the corresponding mean and STD maps of PORO fields. (a) Initial mean (b) Final mean (distLoc) (c) Final mean (corrLoc) (d) Initial STD (e) Final STD (distLoc) (f) Final STD (corrLoc)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>As in <link href="102118191305MS-Img_SPi-11">Figure 11</link>, but for the corresponding mean and STD maps of PORO fields. (a) Initial mean (b) Final mean (distLoc) (c) Final mean (corrLoc) (d) Initial STD (e) Final STD (distLoc) (f) Final STD (corrLoc)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118191305MS_i_12a.tif" id="ImgLink-12a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Initial mean</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118191305MS_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Final mean (distLoc)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-12c">
+<imageLink type="mediaResource" href="102118191305MS_i_12c.tif" id="ImgLink-12c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Final mean (corrLoc)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-12d">
+<imageLink type="mediaResource" href="102118191305MS_i_12d.tif" id="ImgLink-12d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>Initial STD</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-12e">
+<imageLink type="mediaResource" href="102118191305MS_i_12e.tif" id="ImgLink-12e" />
+<figure-specific-caption>
+<caption-order>e</caption-order>
+<caption-text>Final STD (distLoc)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-12f">
+<imageLink type="mediaResource" href="102118191305MS_i_12f.tif" id="ImgLink-12f" />
+<figure-specific-caption>
+<caption-order>f</caption-order>
+<caption-text>Final STD (corrLoc)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="23" figure-order="13" data-type-order="15">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr15">Figure 13 shows the boxplots of the ensembles of the MULTFLT parameter for fault C-08 (top) and the KRG parameter for the Tilje formation (Layers 19 – 22) (bottom), obtained at different iteration steps without localization (first column) and with correlation-based (second column) localization, respectively. As can be seen in the figure, in this particular case, ensemble collapse did not seem to take place for these two parameters when there is no localization, although localization can indeed help retain higher spreads in the final ensembles.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-13">
+<label>Figure 13</label>
+<imageLink type="mediaResource" href="102118191305MS_i_13.tif" id="ImgLink-13" />
+<caption>Boxplots of the ensembles of two free parameters, namely, transmissibility multiplier for the fault C-08 (MULTFLT C-08, top row) and multiplier for scaled end-point gas relative permeability for Layers 19 – 22 (KRG Layers 19 – 22, bottom row), obtained at different iteration steps without localization (noLoc for short) (first column) and with correlation-based (second column) localization, respectively. (a) MULTFLT C-08 (noLoc) (b) MULTFLT C-08 (corrLoc) (c) KRG Layers 19-22 (noLoc) (d) KRG Layers 19-22 (corrLoc)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Boxplots of the ensembles of two free parameters, namely, transmissibility multiplier for the fault C-08 (MULTFLT C-08, top row) and multiplier for scaled end-point gas relative permeability for Layers 19 – 22 (KRG Layers 19 – 22, bottom row), obtained at different iteration steps without localization (noLoc for short) (first column) and with correlation-based (second column) localization, respectively. (a) MULTFLT C-08 (noLoc) (b) MULTFLT C-08 (corrLoc) (c) KRG Layers 19-22 (noLoc) (d) KRG Layers 19-22 (corrLoc)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118191305MS_i_13a.tif" id="ImgLink-13a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>MULTFLT C-08 (noLoc)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118191305MS_i_13b.tif" id="ImgLink-13b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>MULTFLT C-08 (corrLoc)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-13c">
+<imageLink type="mediaResource" href="102118191305MS_i_13c.tif" id="ImgLink-13c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>KRG Layers 19-22 (noLoc)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191305MS-Img_SPi-13d">
+<imageLink type="mediaResource" href="102118191305MS_i_13d.tif" id="ImgLink-13d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>KRG Layers 19-22 (corrLoc)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="24" figure-order="14" data-type-order="16">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr16">As aforementioned, in the current case study, we have reserved 2680 production data for cross validation. Here, cross validation is carried out by comparing the corresponding simulated production rates of the final history-matched ensembles to these 2680 observed data. Figure 14 shows the boxplots of data mismatch between the production data for cross validation and the corresponding simulated data from the final ensembles with distance- and correlation-based localization, respectively. In this case, on average, correlation-based localization also leads to lower data mismatch than distance-based localization.</anchoringText>
+<image-wrap id="102118191305MS-Img_SPi-14">
+<label>Figure 14</label>
+<imageLink type="mediaResource" href="102118191305MS_i_14.tif" id="ImgLink-14" />
+<caption>Boxplots of data mismatch (in the scale of log10) for production data used for cross validation (but not history matched), with respect to the final history-matched ensembles with distance- (left) and correlation-based (right) localization schemes, respectively.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>—Boxplots of data mismatch (in the scale of log10) for production data used for cross validation (but not history matched), with respect to the final history-matched ensembles with distance- (left) and correlation-based (right) localization schemes, respectively.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

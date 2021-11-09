@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185614MS.txt" extractionDate="2021-03-26T14:31:25Z">
+<doi>10.2118/185614-MS</doi>
+<pii>10.2118/185614-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="6" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">When solving Eq. 2 for an injector, the sign of v is reversed. The historical time average tracer concentration for a producer well, and the control volumes for all wells can be observed in Fig. 1. It is important to point out that Eq. 2 is valid for both incompressible and compressible flow. Shahvali et al. (2012) on the other hand solved for ∇ · (vc) = 0 because of its natural conservative form. The two tracer algorithms are identical for incompressible case ∇ · v = 0; however, ∇ · (vc) = 0 will fail in compressible cases.</anchoringText>
+<image-wrap id="102118185614MS-Img_SPi-1">
+<label>Figure 1</label>
+<imageLink type="mediaResource" href="102118185614MS_i_1.tif" id="ImgLink-1" />
+<caption>Control volumes of all wells at a specific time step for PEMEX's Poza Rica field and tracer concentration for a producer with aquifer support (right). Grid up-scaled from 400 to 28 thousand cells for displaying purposes.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Control volumes of all wells at a specific time step for PEMEX's Poza Rica field and tracer concentration for a producer with aquifer support (right). Grid up-scaled from 400 to 28 thousand cells for displaying purposes.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">The Poza Rica field is composed of five vertically connected layers from the Tamabra formation and is horizontally divided into four different blocks: North West (1), Central (2 and 4) and South East (3), which will be used to describe some of the proposed waterflood strategies. A graphical representation of the blocks may be seen in Fig. 2 (right). The oil API gravity is around 31 degrees and porosity and permeability are within 14-18 percent and 12-19 mD respectively.</anchoringText>
+<image-wrap id="102118185614MS-Img_SPi-2">
+<label>Figure 2</label>
+<imageLink type="mediaResource" href="102118185614MS_i_2.tif" id="ImgLink-2" />
+<caption>Poza Rica PEBI grid top view (left), PEBI grid colored by elevation in ft. with different blocks marked (right).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Poza Rica PEBI grid top view (left), PEBI grid colored by elevation in ft. with different blocks marked (right).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185614MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118185614MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>Poza Rica PEBI grid top view</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185614MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118185614MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>PEBI grid colored by elevation in ft. with different blocks marked</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">To understand the evolution of the field the workflow integrates all the data to an online platform. This way asset teams can easily visualize the evolution of the field, including production and injection rates, as well as efficiencies and strength of connections. The production and injection rates for January of 1996 and 2006 can be seen in Fig. 3. The size of the pie is proportional to the rate, while the ratio between green and blue, for a production well, provides the oil-water ratio.</anchoringText>
+<image-wrap id="102118185614MS-Img_SPi-3">
+<label>Figure 3</label>
+<imageLink type="mediaResource" href="102118185614MS_i_3.tif" id="ImgLink-3" />
+<caption>Field production and injection for January of 1996 (left) and 2006 (right). Injectors are light blue while producers are green/blue, representing the ratio of oil to water respectively. Size of the pie proportional to the rate.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Field production and injection for January of 1996 (left) and 2006 (right). Injectors are light blue while producers are green/blue, representing the ratio of oil to water respectively. Size of the pie proportional to the rate.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185614MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118185614MS_i_3a.tif" id="ImgLink-3a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>Field production and injection for January of 1996</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185614MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118185614MS_i_3b.tif" id="ImgLink-3b" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>and 2006</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="10" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">To fully understand how injectors are providing support to nearby producers, connection strengths and efficiencies must be studied. As described previously, connection strengths are given by a numerical tracer test and connection efficiencies are calibrated upon it. The tracer provides information on the volume and strength of influence affected by the producer or injector. For example, in Fig. 4 we can observe the tracer evolution for a producer well over the course of 16 years.</anchoringText>
+<image-wrap id="102118185614MS-Img_SPi-4">
+<label>Figure 4</label>
+<imageLink type="mediaResource" href="102118185614MS_i_4.tif" id="ImgLink-4" />
+<caption>Evolution of tracer concentration for producer MECATEPEC-11 over 16 year. a) January 1941, b) 1946, c) 1951, d) 1956. Tracer concentration increases from yellow (c=0) to dark red (c=1). Same pie color and size convention as Fig. 3. Same up-scaling as Fig. 1.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Evolution of tracer concentration for producer MECATEPEC-11 over 16 year. a) January 1941, b) 1946, c) 1951, d) 1956. Tracer concentration increases from yellow (c=0) to dark red (c=1). Same pie color and size convention as <link href="102118185614MS-Img_SPi-3">Fig. 3</link>. Same up-scaling as <link href="102118185614MS-Img_SPi-1">Fig. 1</link>.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185614MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118185614MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>January 1941</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185614MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118185614MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>1946</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185614MS-Img_SPi-4c">
+<imageLink type="mediaResource" href="102118185614MS_i_4c.tif" id="ImgLink-4c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>1951</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185614MS-Img_SPi-4d">
+<imageLink type="mediaResource" href="102118185614MS_i_4d.tif" id="ImgLink-4d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>1956</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">The tracer concentration, similar to the spatial distribution density of streamlines, can provide a very powerful graphical representation of the reservoir dynamics. Yet, visualizing the tracer concentrations for each well can become overwhelming and finding an optimization strategy is difficult. To have a better understanding of how injectors are providing support, a subsurface network connectivity map based on the WAF and efficiency can be created, thus simplifying the analysis from three dimension to two. Fig. 5 shows the connectivity map for January of 1951 and 1971.</anchoringText>
+<image-wrap id="102118185614MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118185614MS_i_5.tif" id="ImgLink-5" />
+<caption>Connectivity map for January 1951 (left) and January 1971 (right). Blue circles correspond to injectors, green to producers and gray to inactive wells. Gray shadows represent a connection with WAF &#x003E; 20%. Connections from well to side boundary means well-aquifer communication, but does not indicate the direction of pressure support<b>.</b>
+</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Connectivity map for January 1951 (left) and January 1971 (right). Blue circles correspond to injectors, green to producers and gray to inactive wells. Gray shadows represent a connection with WAF &#x003E; 20%. Connections from well to side boundary means well-aquifer communication, but does not indicate the direction of pressure support.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185614MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118185614MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>Connectivity map for January 1951</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185614MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118185614MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>and January 1971</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="12" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">The connectivity map can provide immediate assessment as to which injectors are the most effective and if certain regions of the reservoir are not receiving enough support. An interesting observation is that some of the injectors do not have any connections to nearby producers. Instead, these injectors appear to be injecting into the aquifer. This could be part of an injection strategy to increase the aquifer support, but it could also point towards inefficient injectors. The connectivity of each individual injector or producer can also be visualized, as seen in Fig. 6.</anchoringText>
+<image-wrap id="102118185614MS-Img_SPi-6">
+<label>Figure 6</label>
+<imageLink type="mediaResource" href="102118185614MS_i_6.tif" id="ImgLink-6" />
+<caption>Evolution of connection WAF and efficiency. a) January 1941, b) 1946, c) 1951, d) 1956. Size of pie is proportional to WAF (connection strength), and ratio of green to blue represents the efficiency of the connection. Blue circles: injectors, green: producers.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Evolution of connection WAF and efficiency. a) January 1941, b) 1946, c) 1951, d) 1956. Size of pie is proportional to WAF (connection strength), and ratio of green to blue represents the efficiency of the connection. Blue circles: injectors, green: producers.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185614MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118185614MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>January 1941</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185614MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118185614MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>1946</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185614MS-Img_SPi-6c">
+<imageLink type="mediaResource" href="102118185614MS_i_6c.tif" id="ImgLink-6c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>1951</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185614MS-Img_SPi-6d">
+<imageLink type="mediaResource" href="102118185614MS_i_6d.tif" id="ImgLink-6d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>1956</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">For confidentiality of current production rates, the optimization scenarios are based on historical field production and not the current rates. Reported changes of performance are strictly contrasted to the production and injection data of May 1997. At this point in time, the field was producing 16.4 MBBL/D of 31 API oil at 51.4 percent water cut, with 223 producer and 60 injector wells. The total water injection was of 121.4 MBBL/D. Fig. 7 shows the location of producers and injectors, along with the rate associated with each. Injection is mainly distributed along blocks one and two.</anchoringText>
+<image-wrap id="102118185614MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118185614MS_i_7.tif" id="ImgLink-7" />
+<caption>Field production for May of 1997. Same color and size convention as Fig. 3.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Field production for May of 1997. Same color and size convention as <link href="102118185614MS-Img_SPi-3">Fig. 3</link>.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">Two types of optimization scenarios are shown, one for the entire field and one focused on block three, which has the weakest but most efficient wells. The first is a very loose optimization where all injectors and producers will be allowed to change rates. The constraints for all wells are half to 1.5 of their rate (as of May 1997), with a minimum oil target of 17.2 MBBL/D, which represents a 5% increase. While the authors understand that modifying hundreds of wells that expand over nearly 130 square kilometers is not realistic, the scenario is shown to showcase how the optimizer handles extremely complex problems. As mentioned previously, the results are compared to the field performance of May 1997. Fig. 8 shows the optimized results along with the inter-well connections that have WAF larger than 20 percent.</anchoringText>
+<image-wrap id="102118185614MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118185614MS_i_8.tif" id="ImgLink-8" />
+<caption>Complete field optimization including 222 producers and 60 injectors. Same colors scheme as Fig. 5. Red and green arrows represent a decrease or increase of at least 20 BBL/D, while a red cross is for shut-in wells.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Complete field optimization including 222 producers and 60 injectors. Same colors scheme as <link href="102118185614MS-Img_SPi-5">Fig. 5</link>. Red and green arrows represent a decrease or increase of at least 20 BBL/D, while a red cross is for shut-in wells.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9"> </anchoringText>
+<image-wrap id="102118185614MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118185614MS_i_9.tif" id="ImgLink-9" />
+<caption>Optimization of block three with 28 producers and three injectors. Same colors scheme and arrow scheme as Fig. 8.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Optimization of block three with 28 producers and three injectors. Same colors scheme and arrow scheme as <link href="102118185614MS-Img_SPi-8">Fig. 8</link>.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

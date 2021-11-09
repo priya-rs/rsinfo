@@ -1,0 +1,1141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185710MS.txt" extractionDate="2021-03-27T19:11:49Z">
+<doi>10.2118/185710-MS</doi>
+<pii>10.2118/185710-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="4" table-order="1" data-type-order="3">
+<table-wrap id="102118185710MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The project is located about 2 miles south of the City of Orcutt, on the southern flank of the Orcutt Oil Field, on the Newlove lease in northwestern Santa Barbara County, California. See Figure 2. Pertinent logs and completion data are available from the California Department of Conservation, Division of Oil, Gas and Geothermal Resources (DOGGR) website.12 Project specific model input parameters include those listed in Table 1.The oil gravity is understood to be 15 &#x00B0;API and well spacing equals about 0.625 acres. A listing of the model input data is given in Appendix A.</anchoringText>
+<label>Table 1</label>
+<caption>Reservoir Parameters</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Reservoir Parameters</caption-text>
+</formatted-caption>
+<table id="102118185710MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Parameter</th>
+<th valign="top" align="center">Value</th>
+<th valign="top" align="center">Units</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Initial Reservoir Pressure</td>
+<td valign="top" align="right">350.0</td>
+<td valign="top" align="right">psi</td>
+</tr>
+<tr>
+<td valign="top" align="left">Reservoir Porosity</td>
+<td valign="top" align="right">0.60</td>
+<td valign="top" align="right">dimensionless</td>
+</tr>
+<tr>
+<td valign="top" align="left">Connate Water Saturation<link href="BIB2"><sub>13</sub></link></td>
+<td valign="top" align="right">0.35</td>
+<td valign="top" align="right">dimensionless</td>
+</tr>
+<tr>
+<td valign="top" align="left">Reservoir Thermal Diffusivity<link href="BIB3"><sub>17</sub></link></td>
+<td valign="top" align="right">0.40</td>
+<td valign="top" align="right">ft 2/d</td>
+</tr>
+<tr>
+<td valign="top" align="left">Reservoir Thickness Per Zone</td>
+<td valign="top" align="right">125.0</td>
+<td valign="top" align="right">ft</td>
+</tr>
+<tr>
+<td valign="top" align="left">Well Radius</td>
+<td valign="top" align="right">0.23</td>
+<td valign="top" align="right">ft</td>
+</tr>
+<tr>
+<td valign="top" align="left">Residual Oil Saturation After Steamflood</td>
+<td valign="top" align="right">0.10</td>
+<td valign="top" align="right">dimensionless</td>
+</tr>
+<tr>
+<td valign="top" align="left">Residual Oil Saturation After Waterflood</td>
+<td valign="top" align="right">0.25</td>
+<td valign="top" align="right">dimensionless</td>
+</tr>
+<tr>
+<td valign="top" align="left">Minimum Economical Oil Rate</td>
+<td valign="top" align="right">20.0</td>
+<td valign="top" align="right">BPD</td>
+</tr>
+<tr>
+<td valign="top" align="left">Water Saturation in Cold Zone</td>
+<td valign="top" align="right">0.50</td>
+<td valign="top" align="right">dimensionless</td>
+</tr>
+<tr>
+<td valign="top" align="left">Reservoir Thermal Conductivity<link href="BIB4"><sub>15</sub></link>, <link href="BIB5"><sub>16</sub></link>, <link href="BIB3"><sub>17</sub></link></td>
+<td valign="top" align="right">14.0</td>
+<td valign="top" align="right">Btu-ft/ft2-D-oF</td>
+</tr>
+<tr>
+<td valign="top" align="left">Reservoir Dip Angle</td>
+<td valign="top" align="right">5.0</td>
+<td valign="top" align="right">deg</td>
+</tr>
+<tr>
+<td valign="top" align="left">Pattern Area</td>
+<td valign="top" align="right">0.63</td>
+<td valign="top" align="right">acres</td>
+</tr>
+<tr>
+<td valign="top" align="left">Water Relative Perm at Residual Oil Saturation</td>
+<td valign="top" align="right">0.03</td>
+<td valign="top" align="right">dimensionless</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil Relative Perm at Connate Water Saturation<link href="BIB2"><sub>13</sub></link></td>
+<td valign="top" align="right">1.0</td>
+<td valign="top" align="right">dimensionless</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil Relative Permeability Exponent<link href="BIB2"><sub>13</sub></link></td>
+<td valign="top" align="right">2.0</td>
+<td valign="top" align="right">dimensionless</td>
+</tr>
+<tr>
+<td valign="top" align="left">Water Relative Permeability Exponent<link href="BIB2"><sub>13</sub></link></td>
+<td valign="top" align="right">2.5</td>
+<td valign="top" align="right">dimensionless</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-1" type="bib">
+<bib id="BIB2">
+<label>13</label>
+<author><last-name>Kumar</last-name>, <first-name>M.</first-name></author> and <author><last-name>Beatty</last-name>, <first-name>F.D.</first-name></author>, <article-title>"Cyclic Steaming in Heavy Oil Diatomite", paper presented at the Western Regional Meeting, Bakersfield, CA, U.S.A</article-title>., 8&#x2013;10 March <pubDate>1995</pubDate>, SPE 29623-MS.</bib>
+</linkTarget>
+<linkTarget id="link-1" type="bib">
+<bib id="BIB3">
+<label>17</label>
+<author><last-name>Williams</last-name><first-name>Colin F.</first-name></author>, <author><last-name>Galanis</last-name><first-name>S. Peter Jr.</first-name></author>, <author><last-name>Grubb</last-name><first-name>Frederick V.</first-name></author>, and <author><last-name>Moses</last-name><first-name>Thomas H. Jr</first-name></author>., "Thermal Regime of Santa Maria Province, California," <i>U.S.Geological Bulletin 1995, Chapter F, Evolution of Sedimentary Basins/Onshore Oil and Gas Investigations - Santa Maria Province</i>, United States Government Printing Office, Washington: <pubDate>1994</pubDate>, pp <first-page>F9</first-page>-<last-page>F11</last-page>.</bib>
+</linkTarget>
+<linkTarget id="link-1" type="bib">
+<bib id="BIB4">
+<label>15</label>
+<author><last-name>Dietrich</last-name><first-name>J. K.</first-name></author> and <author><last-name>Scott</last-name><first-name>J. D.</first-name></author>, <article-title>"Modeling Thermally Induced Compaction in Diatomite," </article-title> <journal-title><i>SPE Journal</i> </journal-title>, <pubDate>March 2007</pubDate>, pp <first-page>130</first-page>&#x2013;<last-page>144</last-page>.</bib>
+</linkTarget>
+<linkTarget id="link-1" type="bib">
+<bib id="BIB5">
+<label>16</label>
+<author><last-name>Crawford</last-name><first-name>B. R.</first-name></author>, <author><last-name>Rearles</last-name><first-name>K. H.</first-name></author>, <author><last-name>Hsu</last-name><first-name>S-Y.</first-name></author>, <author><last-name>Reese</last-name><first-name>W. L.</first-name></author>, <author><last-name>Urdaneta</last-name><first-name>A. H.</first-name></author>, <author><last-name>Carnahan</last-name><first-name>B. D.</first-name></author>, <article-title>Martin </article-title>, <journal-title>J.W., "Plastic Compaction in Diatomite: In Situ Stress versus Temperature Effects," presented at Golden Rocks 2006, The 41st U.S. Symposium on Rock Mechanics (USRMS), Golden, Colorado, June </journal-title> <first-page>17</first-page>&#x2013;<last-page>21</last-page>, <pubDate>2006</pubDate>.</bib>
+</linkTarget>
+</appendix>
+</docTable>
+<docTable pdf-page="5" table-order="2" data-type-order="4">
+<table-wrap id="102118185710MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The project average flow back time is not known. A fixed CSS flow back and soak time can be related to total producing days and cumulative steam injected to approximate the average injection rate and volume. Three base cases cycle times were constructed to consider three different flow back times as shown in Table 2. One case was selected for matching the calculated cumulative oil and water production versus time with the historical type well. The actual production is given in Appendix B. Once a match was obtained, the remaining cases were tested using similar reservoir and operating parameters. The match results are graphically shown in Figure 3.</anchoringText>
+<label>Table 2</label>
+<caption>Base Case Scenarios</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Base Case Scenarios</caption-text>
+</formatted-caption>
+<table id="102118185710MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="center" />
+<th valign="top" align="center">Steam Rate</th>
+<th valign="top" align="center">Injection Time</th>
+<th valign="top" align="center">Steam Volume</th>
+<th valign="top" align="center">Soak Time</th>
+<th valign="top" align="center">Max. Prod. Time</th>
+</tr>
+<tr>
+<th valign="top" align="center">BSPD-cwe</th>
+<th valign="top" align="center">Days</th>
+<th valign="top" align="center">Bbls</th>
+<th valign="top" align="center">Days</th>
+<th valign="top" align="center">Days</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Base Case 1</td>
+<td valign="top" align="center">375</td>
+<td valign="top" align="center">4</td>
+<td valign="top" align="center">1500</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">25</td>
+</tr>
+<tr>
+<td valign="top" align="left">Base Case 2</td>
+<td valign="top" align="center">394</td>
+<td valign="top" align="center">5</td>
+<td valign="top" align="center">1970</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">35</td>
+</tr>
+<tr>
+<td valign="top" align="left">Base Case 3</td>
+<td valign="top" align="center">425</td>
+<td valign="top" align="center">4</td>
+<td valign="top" align="center">1700</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">29</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="3" data-type-order="9">
+<table-wrap id="102118185710MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">The same assumption is used for each subsequent steam cycle. Sensitivity runs were made using various skin factors, s, equal to -3, -4, and -5 and k was varied until a production match was obtained. The results are shown in Table 3 where s is defined by Equation (5) and ss equals -0.9 for inclined wells.</anchoringText>
+<label>Table 3</label>
+<caption>Permeability Match for Different Values of s</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Permeability Match for Different Values of s</caption-text>
+</formatted-caption>
+<table id="102118185710MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">Assumed</th>
+<th valign="top" align="center" />
+<th valign="top" align="center">Match</th>
+</tr>
+<tr>
+<th valign="top" align="center">s</th>
+<th valign="top" align="center" />
+<th valign="top" align="center">sf</th>
+<th valign="top" align="center">k (D)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">-3</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">-2.1</td>
+<td valign="top" align="center">0.0103</td>
+</tr>
+<tr>
+<td valign="top" align="center">-4</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">-3.1</td>
+<td valign="top" align="center">0.0066</td>
+</tr>
+<tr>
+<td valign="top" align="center">-5</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">-4.1</td>
+<td valign="top" align="center">0.0036</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="4" data-type-order="10">
+<table-wrap id="102118185710MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">Permeability enhancement associated with dilation is invoked when a multiplier, X, is specified. In this case, only X is varied until a production match was obtained for a given value of permeability with consideration included for inclination, or ss equal to -0.9. Table 4summarizesthe results obtained using input values of permeability similar to those listed in Table 3.</anchoringText>
+<label>Table 4</label>
+<caption>Matched X for Specified Permeability, k</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Matched X for Specified Permeability, k</caption-text>
+</formatted-caption>
+<table id="102118185710MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">Assumed</th>
+<th valign="top" align="center" />
+<th valign="top" align="center">Match</th>
+</tr>
+<tr>
+<th valign="top" align="center">k (D)</th>
+<th valign="top" align="center" />
+<th valign="top" align="center">s<sub>s</sub>
+</th>
+<th valign="top" align="center">X</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">0.0103</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">-0.9</td>
+<td valign="top" align="center">1.7</td>
+</tr>
+<tr>
+<td valign="top" align="center">0.0066</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">-0.9</td>
+<td valign="top" align="center">2.9</td>
+</tr>
+<tr>
+<td valign="top" align="center">0.0036</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">-0.9</td>
+<td valign="top" align="center">4.6</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="11" table-order="5" data-type-order="11">
+<table-wrap id="102118185710MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5"> </anchoringText>
+<caption>Appendix A Example Input</caption>
+<formatted-caption />
+<table id="102118185710MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Parameter</th>
+<th valign="top" align="center">Value</th>
+<th valign="top" align="center">Units</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Initial Reservoir Pressure</td>
+<td valign="top" align="right">350.0</td>
+<td valign="top" align="center">psi</td>
+</tr>
+<tr>
+<td valign="top" align="left">Cold Reservoir Compressibility<link href="BIB6"><sub>15</sub></link></td>
+<td valign="top" align="right">0.00022</td>
+<td valign="top" align="center">1/psi</td>
+</tr>
+<tr>
+<td valign="top" align="left">Steam Zone Compressibility<link href="BIB6"><sub>15</sub></link></td>
+<td valign="top" align="right">0.00204</td>
+<td valign="top" align="left">1/psi</td>
+</tr>
+<tr>
+<td valign="top" align="left">Reservoir Permeability</td>
+<td valign="top" align="right">Unknown</td>
+<td valign="top" align="left">D</td>
+</tr>
+<tr>
+<td valign="top" align="left">Reservoir Porosity</td>
+<td valign="top" align="right">0.6</td>
+<td valign="top" align="left">dimensionless</td>
+</tr>
+<tr>
+<td valign="top" align="left">Connate Water Saturation<link href="BIB7"><sub>13</sub></link></td>
+<td valign="top" align="right">0.35</td>
+<td valign="top" align="left">dimensionless</td>
+</tr>
+<tr>
+<td valign="top" align="left">Reservoir Thermal Diffusivity<link href="BIB10"><sub>17</sub></link></td>
+<td valign="top" align="right">0.4</td>
+<td valign="top" align="left">ft<sup>2</sup>/d</td>
+</tr>
+<tr>
+<td valign="top" align="left">Reservoir Thickness Per Zone</td>
+<td valign="top" align="right">125.0</td>
+<td valign="top" align="left">ft</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil Viscosity at Res Temperature<link href="BIB8"><sub>18</sub></link><sup>,</sup><link href="BIB9"><sub>19</sub></link></td>
+<td valign="top" align="right">473.0</td>
+<td valign="top" align="left">cp</td>
+</tr>
+<tr>
+<td valign="top" align="left">Initial Reservoir Temperature</td>
+<td valign="top" align="right">90.0</td>
+<td valign="top" align="left"> &#x00B0;F</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil Viscosity At Second Temperature<link href="BIB8"><sub>18</sub></link><sup>,</sup><link href="BIB9"><sub>19</sub></link></td>
+<td valign="top" align="right">0.887</td>
+<td valign="top" align="left">cp</td>
+</tr>
+<tr>
+<td valign="top" align="left">Second Reference Temperature</td>
+<td valign="top" align="right">600.0</td>
+<td valign="top" align="left"> &#x00B0;F</td>
+</tr>
+<tr>
+<td valign="top" align="left">Well Radius</td>
+<td valign="top" align="right">0.23</td>
+<td valign="top" align="left">ft</td>
+</tr>
+<tr>
+<td valign="top" align="left">Residual Oil Saturation After Steamflood</td>
+<td valign="top" align="right">0.1</td>
+<td valign="top" align="left">dimensionless</td>
+</tr>
+<tr>
+<td valign="top" align="left">Residual Oil Saturation After Waterflood</td>
+<td valign="top" align="right">0.25</td>
+<td valign="top" align="left">dimensionless</td>
+</tr>
+<tr>
+<td valign="top" align="left">Minimum Economical Oil Rate</td>
+<td valign="top" align="right">20.0</td>
+<td valign="top" align="left">BPD</td>
+</tr>
+<tr>
+<td valign="top" align="left">Water Saturation in Cold Zone</td>
+<td valign="top" align="right">0.5</td>
+<td valign="top" align="left">dimensionless</td>
+</tr>
+<tr>
+<td valign="top" align="left">Early Oil Saturation Near Wellbore</td>
+<td valign="top" align="right">0.45</td>
+<td valign="top" align="left">dimensionless</td>
+</tr>
+<tr>
+<td valign="top" align="left">Relative Permeability to Saturated Steam</td>
+<td valign="top" align="right">0.15</td>
+<td valign="top" align="left">dimensionless</td>
+</tr>
+<tr>
+<td valign="top" align="left">Reservoir Thermal Conductivity<link href="BIB6"><sub>15</sub></link><sup>,</sup><link href="BIB11"><sub>16</sub></link><sup>,</sup><link href="BIB10"><sub>17</sub></link></td>
+<td valign="top" align="right">14.0</td>
+<td valign="top" align="left">Btu-ft/ft2-D- &#x00B0;F</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil Density at Standard Conditions</td>
+<td valign="top" align="right">60.29</td>
+<td valign="top" align="left">lb/ft<sup>3</sup></td>
+</tr>
+<tr>
+<td valign="top" align="left">Water Density at Standard Conditions</td>
+<td valign="top" align="right">62.42</td>
+<td valign="top" align="left">lb/ft<sup>3</sup></td>
+</tr>
+<tr>
+<td valign="top" align="left">Time Interval for Output</td>
+<td valign="top" align="right">1.0</td>
+<td valign="top" align="left">days</td>
+</tr>
+<tr>
+<td valign="top" align="left">Reservoir Dip Angle</td>
+<td valign="top" align="right">5.0</td>
+<td valign="top" align="left">deg</td>
+</tr>
+<tr>
+<td valign="top" align="left">Pattern Area</td>
+<td valign="top" align="right">0.625</td>
+<td valign="top" align="left">acres</td>
+</tr>
+<tr>
+<td valign="top" align="left">Viscosity Factor</td>
+<td valign="top" align="right">0.0</td>
+<td valign="top" align="left">dimensionless</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil Rate Decline Factor</td>
+<td valign="top" align="right">0.0</td>
+<td valign="top" align="left">dimensionless</td>
+</tr>
+<tr>
+<td valign="top" align="left">Water Relative Perm at Residual Oil Saturation</td>
+<td valign="top" align="right">0.03</td>
+<td valign="top" align="left">dimensionless</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil Relative Perm at Connate Water Saturation<link href="BIB7"><sub>13</sub></link></td>
+<td valign="top" align="right">1.0</td>
+<td valign="top" align="left">dimensionless</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil Relative Permeability Exponent<link href="BIB7"><sub>13</sub></link></td>
+<td valign="top" align="right">2.0</td>
+<td valign="top" align="left">dimensionless</td>
+</tr>
+<tr>
+<td valign="top" align="left">Water Relative Permeability Exponent<link href="BIB7"><sub>13</sub></link></td>
+<td valign="top" align="right">2.5</td>
+<td valign="top" align="left">dimensionless</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-1" type="bib">
+<bib id="BIB6">
+<label>15</label>
+<author><last-name>Dietrich</last-name><first-name>J. K.</first-name></author> and <author><last-name>Scott</last-name><first-name>J. D.</first-name></author>, <article-title>"Modeling Thermally Induced Compaction in Diatomite," </article-title> <journal-title><i>SPE Journal</i> </journal-title>, <pubDate>March 2007</pubDate>, pp <first-page>130</first-page>&#x2013;<last-page>144</last-page>.</bib>
+</linkTarget>
+<linkTarget id="link-1" type="bib">
+<bib id="BIB7">
+<label>13</label>
+<author><last-name>Kumar</last-name>, <first-name>M.</first-name></author> and <author><last-name>Beatty</last-name>, <first-name>F.D.</first-name></author>, <article-title>"Cyclic Steaming in Heavy Oil Diatomite", paper presented at the Western Regional Meeting, Bakersfield, CA, U.S.A.</article-title>, 8&#x2013;10 March <pubDate>1995</pubDate>, SPE 29623-MS.</bib>
+</linkTarget>
+<linkTarget id="link-1" type="bib">
+<bib id="BIB10">
+<label>17</label>
+<author><last-name>Williams</last-name><first-name>Colin F.</first-name></author>, <author><last-name>Galanis</last-name><first-name>S. Peter Jr.</first-name></author>, <author><last-name>Grubb</last-name><first-name>Frederick V.</first-name></author>, and <author><last-name>Moses</last-name><first-name>Thomas H. Jr</first-name></author>., "Thermal Regime of Santa Maria Province, California," <i>U.S.Geological Bulletin 1995, Chapter F, Evolution of Sedimentary Basins/Onshore Oil and Gas Investigations - Santa Maria Province</i>, United States Government Printing Office, Washington: <pubDate>1994</pubDate>, pp <first-page>F9</first-page>-<last-page>F11</last-page>.</bib>
+</linkTarget>
+<linkTarget id="link-1" type="bib">
+<bib id="BIB8">
+<label>18</label>
+<author><last-name>Beal</last-name><first-name>C.</first-name></author>, <article-title>" The Viscosity of Air, Water, Natural Gas, Crude Oil and Its Associated Gases at Oil Field Temperatures and Pressures ," </article-title><i /> SPE Reprint Series No. <volume>3</volume>, Richardson, Texas, <pubDate>1970</pubDate>.</bib>
+</linkTarget>
+<linkTarget id="link-1" type="bib">
+<bib id="BIB9">
+<label>19</label>
+<author><last-name>Vazquez</last-name>, <first-name>M.</first-name></author> and <author><last-name>Beggs</last-name>, <first-name>H.D.</first-name></author>, <article-title>"Correlations for Fluid Physical Property Prediction</article-title>," <i>J Pet Technology </i><volume>32</volume> <issue>(6)</issue>: <first-page>968</first-page>&#x2013;<last-page>970</last-page>. SPE-6719-PA.</bib>
+</linkTarget>
+<linkTarget id="link-1" type="bib">
+<bib id="BIB11">
+<label>16</label>
+<author><last-name>Crawford</last-name><first-name>B. R.</first-name></author>, <author><last-name>Rearles</last-name><first-name>K. H.</first-name></author>, <author><last-name>Hsu</last-name><first-name>S-Y.</first-name></author>, <author><last-name>Reese</last-name><first-name>W. L.</first-name></author>, <author><last-name>Urdaneta</last-name><first-name>A. H.</first-name></author>, <author><last-name>Carnahan</last-name><first-name>B. D.</first-name></author>, <article-title>Martin </article-title>, <journal-title>J.W., "Plastic Compaction in Diatomite: In Situ Stress versus Temperature Effects," presented at Golden Rocks 2006, The 41st U.S. Symposium on Rock Mechanics (USRMS), Golden, Colorado, June </journal-title> <first-page>17</first-page>&#x2013;<last-page>21</last-page>, <pubDate>2006</pubDate>.</bib>
+</linkTarget>
+</appendix>
+</docTable>
+<docTable pdf-page="12" table-order="6" data-type-order="12">
+<table-wrap id="102118185710MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6"> </anchoringText>
+<caption>
+</caption>
+<formatted-caption />
+<table id="102118185710MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Inj Rate</th>
+<th valign="top" align="center">Inj Time</th>
+<th valign="top" align="center">Soak Time</th>
+<th valign="top" align="center">Inj Temp</th>
+<th valign="top" align="center">Quality</th>
+<th valign="top" align="center">Prod Time</th>
+<th valign="top" align="center">Max D.I.*</th>
+<th valign="top" align="center">Initial BHP</th>
+<th valign="top" align="center">Half Life**</th>
+<th valign="top" align="center">Min BHP</th>
+<th valign="top" align="center">Max Prod Rate</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td id="tfn-1" colspan="11" align="left">* - depletion index limit for each cycle <br />** - half life time constant for exponential bottomhole pressure decline</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td valign="top" align="center">BSPD-CWE</td>
+<td valign="top" align="center">days</td>
+<td valign="top" align="center">days</td>
+<td valign="top" align="center">oF</td>
+<td valign="top" align="center">frac</td>
+<td valign="top" align="center">days</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">psi</td>
+<td valign="top" align="center">days</td>
+<td valign="top" align="center">psi</td>
+<td valign="top" align="center">BPD</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="13" table-order="7" data-type-order="13">
+<table-wrap id="102118185710MS-tblwrp-7" content-type="structured">
+<anchoringText id="Ancr7"> </anchoringText>
+<caption>Appendix B Project and Average Well Production12</caption>
+<formatted-caption />
+<table id="102118185710MS-Tbl_SPi-7" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" valign="top" align="center" />
+<th valign="top" align="center" />
+<th valign="top" align="center">Gas</th>
+<th valign="top" align="center">Oil</th>
+<th valign="top" align="center">Steam</th>
+<th valign="top" align="center">Water</th>
+<th valign="top" align="center">Well</th>
+<th colspan="3" valign="top" align="center">Type Well Monthly Data</th>
+</tr>
+<tr>
+<th colspan="2" valign="top" align="center">Month</th>
+<th valign="top" align="center">Cum Days</th>
+<th valign="top" align="center">Mcf</th>
+<th valign="top" align="center">Bbls</th>
+<th valign="top" align="center">Bbls-cwe</th>
+<th valign="top" align="center">Bbls</th>
+<th valign="top" align="center">Count</th>
+<th valign="top" align="center">Oil/mo</th>
+<th valign="top" align="center">Water/ mo</th>
+<th valign="top" align="center">Steam/ mo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="right">0</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">-</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+</tr>
+<tr>
+<td valign="top" align="right">1</td>
+<td valign="top" align="right">Oct-12</td>
+<td valign="top" align="right">31</td>
+<td valign="top" align="right">-</td>
+<td valign="top" align="right">1 ,500</td>
+<td valign="top" align="right">11,612</td>
+<td valign="top" align="right">149</td>
+<td valign="top" align="right">8</td>
+<td valign="top" align="right">188</td>
+<td valign="top" align="right">19</td>
+<td valign="top" align="right">1,452</td>
+</tr>
+<tr>
+<td valign="top" align="right">2</td>
+<td valign="top" align="right">Nov-12</td>
+<td valign="top" align="right">61</td>
+<td valign="top" align="right">-</td>
+<td valign="top" align="right">9 ,521</td>
+<td valign="top" align="right">19,223</td>
+<td valign="top" align="right">6 ,078</td>
+<td valign="top" align="right">16</td>
+<td valign="top" align="right">595</td>
+<td valign="top" align="right">380</td>
+<td valign="top" align="right">1,201</td>
+</tr>
+<tr>
+<td valign="top" align="right">3</td>
+<td valign="top" align="right">Dec-12</td>
+<td valign="top" align="right">92</td>
+<td valign="top" align="right">-</td>
+<td valign="top" align="right">15,179</td>
+<td valign="top" align="right">20,242</td>
+<td valign="top" align="right">7 ,605</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">893</td>
+<td valign="top" align="right">447</td>
+<td valign="top" align="right">1,191</td>
+</tr>
+<tr>
+<td valign="top" align="right">4</td>
+<td valign="top" align="right">Jan-13</td>
+<td valign="top" align="right">123</td>
+<td valign="top" align="right">2,395</td>
+<td valign="top" align="right">18,099</td>
+<td valign="top" align="right">19,489</td>
+<td valign="top" align="right">9 ,871</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">1,065</td>
+<td valign="top" align="right">581</td>
+<td valign="top" align="right">1,146</td>
+</tr>
+<tr>
+<td valign="top" align="right">5</td>
+<td valign="top" align="right">Feb-13</td>
+<td valign="top" align="right">151</td>
+<td valign="top" align="right">1,951</td>
+<td valign="top" align="right">16,062</td>
+<td valign="top" align="right">22,957</td>
+<td valign="top" align="right">11,760</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">945</td>
+<td valign="top" align="right">692</td>
+<td valign="top" align="right">I35O</td>
+</tr>
+<tr>
+<td valign="top" align="right">6</td>
+<td valign="top" align="right">Mar-13</td>
+<td valign="top" align="right">182</td>
+<td valign="top" align="right">2,609</td>
+<td valign="top" align="right">22,036</td>
+<td valign="top" align="right">26,050</td>
+<td valign="top" align="right">14,362</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">1,296</td>
+<td valign="top" align="right">845</td>
+<td valign="top" align="right">1,532</td>
+</tr>
+<tr>
+<td valign="top" align="right">7</td>
+<td valign="top" align="right">Apr-13</td>
+<td valign="top" align="right">212</td>
+<td valign="top" align="right">2,787</td>
+<td valign="top" align="right">20,470</td>
+<td valign="top" align="right">25,681</td>
+<td valign="top" align="right">14,766</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">1,204</td>
+<td valign="top" align="right">869</td>
+<td valign="top" align="right">1,511</td>
+</tr>
+<tr>
+<td valign="top" align="right">8</td>
+<td valign="top" align="right">May-13</td>
+<td valign="top" align="right">243</td>
+<td valign="top" align="right">2,982</td>
+<td valign="top" align="right">22,965</td>
+<td valign="top" align="right">22,685</td>
+<td valign="top" align="right">13,211</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">1351</td>
+<td valign="top" align="right">777</td>
+<td valign="top" align="right">I334</td>
+</tr>
+<tr>
+<td valign="top" align="right">9</td>
+<td valign="top" align="right">Jun-13</td>
+<td valign="top" align="right">273</td>
+<td valign="top" align="right">3,301</td>
+<td valign="top" align="right">20,226</td>
+<td valign="top" align="right">23397</td>
+<td valign="top" align="right">8 ,708</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">1,190</td>
+<td valign="top" align="right">512</td>
+<td valign="top" align="right">1376</td>
+</tr>
+<tr>
+<td valign="top" align="right">10</td>
+<td valign="top" align="right">Jul-13</td>
+<td valign="top" align="right">304</td>
+<td valign="top" align="right">3,197</td>
+<td valign="top" align="right">22,527</td>
+<td valign="top" align="right">26,082</td>
+<td valign="top" align="right">7 ,656</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">1325</td>
+<td valign="top" align="right">450</td>
+<td valign="top" align="right">1,534</td>
+</tr>
+<tr>
+<td valign="top" align="right">11</td>
+<td valign="top" align="right">Aug-13</td>
+<td valign="top" align="right">335</td>
+<td valign="top" align="right">3,527</td>
+<td valign="top" align="right">25,356</td>
+<td valign="top" align="right">24,454</td>
+<td valign="top" align="right">10,535</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">1,492</td>
+<td valign="top" align="right">620</td>
+<td valign="top" align="right">1,438</td>
+</tr>
+<tr>
+<td valign="top" align="right">12</td>
+<td valign="top" align="right">Sep-13</td>
+<td valign="top" align="right">365</td>
+<td valign="top" align="right">2,774</td>
+<td valign="top" align="right">22,247</td>
+<td valign="top" align="right">25,662</td>
+<td valign="top" align="right">9 ,507</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">1309</td>
+<td valign="top" align="right">559</td>
+<td valign="top" align="right">1,510</td>
+</tr>
+<tr>
+<td valign="top" align="right">13</td>
+<td valign="top" align="right">Oct-13</td>
+<td valign="top" align="right">396</td>
+<td valign="top" align="right">3,132</td>
+<td valign="top" align="right">25,773</td>
+<td valign="top" align="right">28,723</td>
+<td valign="top" align="right">11,509</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">1,516</td>
+<td valign="top" align="right">677</td>
+<td valign="top" align="right">1,690</td>
+</tr>
+<tr>
+<td valign="top" align="right">14</td>
+<td valign="top" align="right">Nov-13</td>
+<td valign="top" align="right">426</td>
+<td valign="top" align="right">3,287</td>
+<td valign="top" align="right">25,559</td>
+<td valign="top" align="right">27376</td>
+<td valign="top" align="right">9 ,481</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">1,503</td>
+<td valign="top" align="right">558</td>
+<td valign="top" align="right">1,610</td>
+</tr>
+<tr>
+<td valign="top" align="right">15</td>
+<td valign="top" align="right">Dec-13</td>
+<td valign="top" align="right">457</td>
+<td valign="top" align="right">3,078</td>
+<td valign="top" align="right">23,922</td>
+<td valign="top" align="right">29312</td>
+<td valign="top" align="right">10,736</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">1,407</td>
+<td valign="top" align="right">632</td>
+<td valign="top" align="right">1,724</td>
+</tr>
+<tr>
+<td valign="top" align="right">16</td>
+<td valign="top" align="right">Jan-14</td>
+<td valign="top" align="right">488</td>
+<td valign="top" align="right">3,601</td>
+<td valign="top" align="right">22,397</td>
+<td valign="top" align="right">21,939</td>
+<td valign="top" align="right">12,627</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">1317</td>
+<td valign="top" align="right">743</td>
+<td valign="top" align="right">1,291</td>
+</tr>
+<tr>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">Feb-14</td>
+<td valign="top" align="right">516</td>
+<td valign="top" align="right">2,474</td>
+<td valign="top" align="right">20,395</td>
+<td valign="top" align="right">25,678</td>
+<td valign="top" align="right">9 ,590</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">1,200</td>
+<td valign="top" align="right">564</td>
+<td valign="top" align="right">1,510</td>
+</tr>
+<tr>
+<td valign="top" align="right">18</td>
+<td valign="top" align="right">Mar-14</td>
+<td valign="top" align="right">547</td>
+<td valign="top" align="right">2,336</td>
+<td valign="top" align="right">23,355</td>
+<td valign="top" align="right">26,945</td>
+<td valign="top" align="right">10,699</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">1374</td>
+<td valign="top" align="right">629</td>
+<td valign="top" align="right">1,585</td>
+</tr>
+<tr>
+<td valign="top" align="right">19</td>
+<td valign="top" align="right">Apr-14</td>
+<td valign="top" align="right">577</td>
+<td valign="top" align="right">2,956</td>
+<td valign="top" align="right">22,781</td>
+<td valign="top" align="right">29,932</td>
+<td valign="top" align="right">11,558</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">I34O</td>
+<td valign="top" align="right">680</td>
+<td valign="top" align="right">1,761</td>
+</tr>
+<tr>
+<td valign="top" align="right">20</td>
+<td valign="top" align="right">May-14</td>
+<td valign="top" align="right">608</td>
+<td valign="top" align="right">3,142</td>
+<td valign="top" align="right">22,532</td>
+<td valign="top" align="right">33,129</td>
+<td valign="top" align="right">9 ,905</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">I325</td>
+<td valign="top" align="right">583</td>
+<td valign="top" align="right">1,949</td>
+</tr>
+<tr>
+<td valign="top" align="right">21</td>
+<td valign="top" align="right">Jun-14</td>
+<td valign="top" align="right">638</td>
+<td valign="top" align="right">2,887</td>
+<td valign="top" align="right">23,228</td>
+<td valign="top" align="right">26,645</td>
+<td valign="top" align="right">7 ,397</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">1366</td>
+<td valign="top" align="right">435</td>
+<td valign="top" align="right">1,567</td>
+</tr>
+<tr>
+<td valign="top" align="right">22</td>
+<td valign="top" align="right">Jul-14</td>
+<td valign="top" align="right">669</td>
+<td valign="top" align="right">2,697</td>
+<td valign="top" align="right">23,656</td>
+<td valign="top" align="right">32,817</td>
+<td valign="top" align="right">8 ,729</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">I392</td>
+<td valign="top" align="right">513</td>
+<td valign="top" align="right">1,930</td>
+</tr>
+<tr>
+<td valign="top" align="right">23</td>
+<td valign="top" align="right">Aug-14</td>
+<td valign="top" align="right">700</td>
+<td valign="top" align="right">3,000</td>
+<td valign="top" align="right">23,458</td>
+<td valign="top" align="right">32,535</td>
+<td valign="top" align="right">9 ,179</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">1380</td>
+<td valign="top" align="right">540</td>
+<td valign="top" align="right">1,914</td>
+</tr>
+<tr>
+<td valign="top" align="right">24</td>
+<td valign="top" align="right">Sep-14</td>
+<td valign="top" align="right">730</td>
+<td valign="top" align="right">4,149</td>
+<td valign="top" align="right">22,804</td>
+<td valign="top" align="right">32,149</td>
+<td valign="top" align="right">8 ,014</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">I34I</td>
+<td valign="top" align="right">471</td>
+<td valign="top" align="right">1,891</td>
+</tr>
+<tr>
+<td valign="top" align="right">25</td>
+<td valign="top" align="right">Oct-14</td>
+<td valign="top" align="right">761</td>
+<td valign="top" align="right">4,928</td>
+<td valign="top" align="right">22,517</td>
+<td valign="top" align="right">34,181</td>
+<td valign="top" align="right">9 ,506</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">I325</td>
+<td valign="top" align="right">559</td>
+<td valign="top" align="right">2,011</td>
+</tr>
+<tr>
+<td valign="top" align="right">26</td>
+<td valign="top" align="right">Nov-14</td>
+<td valign="top" align="right">791</td>
+<td valign="top" align="right">3,941</td>
+<td valign="top" align="right">23,056</td>
+<td valign="top" align="right">33,417</td>
+<td valign="top" align="right">9 ,554</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">1356</td>
+<td valign="top" align="right">562</td>
+<td valign="top" align="right">1,966</td>
+</tr>
+<tr>
+<td valign="top" align="right">27</td>
+<td valign="top" align="right">Dec-14</td>
+<td valign="top" align="right">822</td>
+<td valign="top" align="right">2,782</td>
+<td valign="top" align="right">21,352</td>
+<td valign="top" align="right">29,456</td>
+<td valign="top" align="right">8 ,998</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">1,256</td>
+<td valign="top" align="right">529</td>
+<td valign="top" align="right">1,733</td>
+</tr>
+<tr>
+<td valign="top" align="right">28</td>
+<td valign="top" align="right">Jan-15</td>
+<td valign="top" align="right">853</td>
+<td valign="top" align="right">3,170</td>
+<td valign="top" align="right">22,768</td>
+<td valign="top" align="right">26,867</td>
+<td valign="top" align="right">9 ,974</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">I339</td>
+<td valign="top" align="right">587</td>
+<td valign="top" align="right">1,580</td>
+</tr>
+<tr>
+<td valign="top" align="right">29</td>
+<td valign="top" align="right">Feb-15</td>
+<td valign="top" align="right">881</td>
+<td valign="top" align="right">2,965</td>
+<td valign="top" align="right">22,565</td>
+<td valign="top" align="right">27368</td>
+<td valign="top" align="right">10,996</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">I327</td>
+<td valign="top" align="right">647</td>
+<td valign="top" align="right">1,610</td>
+</tr>
+<tr>
+<td valign="top" align="right">30</td>
+<td valign="top" align="right">Mar-15</td>
+<td valign="top" align="right">912</td>
+<td valign="top" align="right">2,787</td>
+<td valign="top" align="right">22,729</td>
+<td valign="top" align="right">24,795</td>
+<td valign="top" align="right">10,496</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">I337</td>
+<td valign="top" align="right">617</td>
+<td valign="top" align="right">1,459</td>
+</tr>
+<tr>
+<td valign="top" align="right">31</td>
+<td valign="top" align="right">Apr-15</td>
+<td valign="top" align="right">942</td>
+<td valign="top" align="right">4,123</td>
+<td valign="top" align="right">23,919</td>
+<td valign="top" align="right">25,759</td>
+<td valign="top" align="right">11,789</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">1,407</td>
+<td valign="top" align="right">693</td>
+<td valign="top" align="right">1,515</td>
+</tr>
+<tr>
+<td valign="top" align="right">32</td>
+<td valign="top" align="right">May-15</td>
+<td valign="top" align="right">973</td>
+<td valign="top" align="right">3,239</td>
+<td valign="top" align="right">20,067</td>
+<td valign="top" align="right">23323</td>
+<td valign="top" align="right">9 ,992</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">1,180</td>
+<td valign="top" align="right">588</td>
+<td valign="top" align="right">I372</td>
+</tr>
+<tr>
+<td valign="top" align="right">33</td>
+<td valign="top" align="right">Jun-15</td>
+<td valign="top" align="right">1,003</td>
+<td valign="top" align="right">2,852</td>
+<td valign="top" align="right">18,174</td>
+<td valign="top" align="right">17,598</td>
+<td valign="top" align="right">7 ,550</td>
+<td valign="top" align="right">16</td>
+<td valign="top" align="right">1,136</td>
+<td valign="top" align="right">472</td>
+<td valign="top" align="right">1,100</td>
+</tr>
+<tr>
+<td valign="top" align="right">34</td>
+<td valign="top" align="right">Jul-15</td>
+<td valign="top" align="right">1,034</td>
+<td valign="top" align="right">2,889</td>
+<td valign="top" align="right">19,144</td>
+<td valign="top" align="right">22,451</td>
+<td valign="top" align="right">9 ,266</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">1,126</td>
+<td valign="top" align="right">545</td>
+<td valign="top" align="right">1321</td>
+</tr>
+<tr>
+<td valign="top" align="right">35</td>
+<td valign="top" align="right">Aug-15</td>
+<td valign="top" align="right">1,065</td>
+<td valign="top" align="right">3,253</td>
+<td valign="top" align="right">16,766</td>
+<td valign="top" align="right">21,803</td>
+<td valign="top" align="right">7 ,744</td>
+<td valign="top" align="right">17</td>
+<td valign="top" align="right">986</td>
+<td valign="top" align="right">456</td>
+<td valign="top" align="right">1,283</td>
+</tr>
+<tr>
+<td valign="top" align="right">36</td>
+<td valign="top" align="right">Sep-15</td>
+<td valign="top" align="right">1,095</td>
+<td valign="top" align="right">3,458</td>
+<td valign="top" align="right">15,790</td>
+<td valign="top" align="right">21,154</td>
+<td valign="top" align="right">7 ,926</td>
+<td valign="top" align="right">13</td>
+<td valign="top" align="right">1,215</td>
+<td valign="top" align="right">610</td>
+<td valign="top" align="right">1,627</td>
+</tr>
+<tr>
+<td valign="top" align="right">37</td>
+<td valign="top" align="right">Oct-15</td>
+<td valign="top" align="right">1,126</td>
+<td valign="top" align="right">3,721</td>
+<td valign="top" align="right">20,089</td>
+<td valign="top" align="right">22,729</td>
+<td valign="top" align="right">9 ,652</td>
+<td valign="top" align="right">16</td>
+<td valign="top" align="right">1,256</td>
+<td valign="top" align="right">603</td>
+<td valign="top" align="right">1,421</td>
+</tr>
+<tr>
+<td valign="top" align="right">38</td>
+<td valign="top" align="right">Nov-15</td>
+<td valign="top" align="right">1,156</td>
+<td valign="top" align="right">2,979</td>
+<td valign="top" align="right">17,410</td>
+<td valign="top" align="right">23,649</td>
+<td valign="top" align="right">8 ,171</td>
+<td valign="top" align="right">14</td>
+<td valign="top" align="right">1,244</td>
+<td valign="top" align="right">584</td>
+<td valign="top" align="right">1,689</td>
+</tr>
+<tr>
+<td valign="top" align="right">39</td>
+<td valign="top" align="right">Dec-15</td>
+<td valign="top" align="right">1,187</td>
+<td valign="top" align="right">2,948</td>
+<td valign="top" align="right">18,703</td>
+<td valign="top" align="right">25,437</td>
+<td valign="top" align="right">13,382</td>
+<td valign="top" align="right">15</td>
+<td valign="top" align="right">1,247</td>
+<td valign="top" align="right">892</td>
+<td valign="top" align="right">1,696</td>
+</tr>
+<tr>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">48,050</td>
+<td valign="top" align="right">22,719</td>
+<td valign="top" align="right">60380</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

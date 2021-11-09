@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118181994MS.txt" extractionDate="2021-03-23T16:26:31Z">
+<doi>10.2118/181994-MS</doi>
+<pii>10.2118/181994-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="2" table-order="1" data-type-order="1">
+<table-wrap id="102118181994MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The deposit is a thin oil rim clastic reservoir with an average thickness of 20 metres, bounded by a massive gas cap approximately 100 meters in height and an underlying active acquifer (fig.2). The Neocom formation's GOC and WOC is located at -1517 m and 1537 m respectively. Effective thickness of the oil rim has considerable gas and water-oil transition zones and is characterized with heterogeneity of filtration properties (table 1).</anchoringText>
+<label>Table 1</label>
+<caption>Properties of the Neocom productive sediments</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Properties of the Neocom productive sediments</caption-text>
+</formatted-caption>
+<table id="102118181994MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th colspan="3" valign="top" align="left">Properties of the Neocom productive sediments</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">type of formation</td>
+<td valign="top" align="left">sandstone</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Average porosity</td>
+<td valign="top" align="left">25</td>
+<td valign="top" align="left">%</td>
+</tr>
+<tr>
+<td valign="top" align="left">Average permeability</td>
+<td valign="top" align="left">168</td>
+<td valign="top" align="left">mD</td>
+</tr>
+<tr>
+<td valign="top" align="left">Reservoir pressure</td>
+<td valign="top" align="left">165.1</td>
+<td valign="top" align="left">bar</td>
+</tr>
+<tr>
+<td valign="top" align="left">Reservoir temperature</td>
+<td valign="top" align="left">80</td>
+<td valign="top" align="left">C</td>
+</tr>
+<tr>
+<td valign="top" align="left">bubble point pressure</td>
+<td valign="top" align="left">120</td>
+<td valign="top" align="left">bar</td>
+</tr>
+<tr>
+<td valign="top" align="left">oil density</td>
+<td valign="top" align="left">807</td>
+<td valign="top" align="left">kg/m3</td>
+</tr>
+<tr>
+<td valign="top" align="left">oil viscosity</td>
+<td valign="top" align="left">0.72</td>
+<td valign="top" align="left">cP</td>
+</tr>
+<tr>
+<td valign="top" align="left">GOR</td>
+<td valign="top" align="left">104.3</td>
+<td valign="top" align="left">m3/ton</td>
+</tr>
+<tr>
+<td valign="top" align="left">water density</td>
+<td valign="top" align="left">1061</td>
+<td valign="top" align="left">kg/m3</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="15" table-order="2" data-type-order="18">
+<table-wrap id="102118181994MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The interpretation of results in Flush Out Model defined the capacity of filters with tracers. Basing on the geophysical data, an approximation of inflow profile, including the blind zones, has been done. The results of the analysis, obtained in 2016, are given in Table 2.</anchoringText>
+<label>Table 2</label>
+<caption>Quantitative inflow distribution estimation in 2016</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Quantitative inflow distribution estimation in 2016</caption-text>
+</formatted-caption>
+<table id="102118181994MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="center">Zone (C - «blind» subzone without tracer)</th>
+<th rowspan="2" valign="top" align="center">Top MD (m)</th>
+<th rowspan="2" valign="top" align="center">Bottom MD (m)</th>
+<th rowspan="2" valign="top" align="center">Flushout decline factor K</th>
+<th rowspan="2" valign="top" align="center">Capacity of filter with tracer (%)</th>
+<th colspan="2" valign="top" align="center">Well performance approximation for “blind” zones</th>
+</tr>
+<tr>
+<th valign="top" align="center">Considering length of the zone and similar reservoir properties (%)</th>
+<th valign="bottom" align="center">Considering length and average permeability of zones (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left" bgcolor="#DE90BD8"> (Heel)</td>
+<td valign="top" align="left">2432.4</td>
+<td valign="top" align="left">2883.9</td>
+<td valign="top" align="left">0.17</td>
+<td valign="top" align="left">23</td>
+<td valign="top" align="left">14.9</td>
+<td valign="top" align="left">13.5</td>
+</tr>
+<tr>
+<td valign="top" align="left" bgcolor="#73C167">7</td>
+<td valign="top" align="left">3133.7</td>
+<td valign="top" align="left">3435.4</td>
+<td valign="bottom" align="left">0.12</td>
+<td valign="bottom" align="left">16</td>
+<td valign="top" align="left">10.5</td>
+<td valign="top" align="left">9.6</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" bgcolor="#F5BB1D">6</td>
+<td valign="top" align="left">3470.4</td>
+<td valign="top" align="left">3677.3</td>
+<td valign="top" align="left">0.09</td>
+<td valign="bottom" align="left">12</td>
+<td valign="top" align="left">7.9</td>
+<td valign="top" align="left">7.2</td>
+</tr>
+<tr>
+<td valign="top" align="left" bgcolor="#F1EA40">5</td>
+<td valign="top" align="left">3712.3</td>
+<td valign="top" align="left">3898.4</td>
+<td valign="top" align="left">0.09</td>
+<td valign="bottom" align="left">12</td>
+<td valign="top" align="left">7.9</td>
+<td valign="top" align="left">7.2</td>
+</tr>
+<tr>
+<td valign="top" align="left">4C</td>
+<td valign="top" align="left">3931.5</td>
+<td valign="top" align="left">4140.5</td>
+<td valign="top" align="left">-</td>
+<td valign="top" align="left">-</td>
+<td valign="top" align="left">9.3</td>
+<td valign="top" align="left">10.7</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" bgcolor="#7F3E97">4</td>
+<td align="left">4170.3</td>
+<td align="left">4366.4</td>
+<td valign="bottom" align="left">0.1</td>
+<td valign="bottom" align="left">12</td>
+<td valign="bottom" align="left">8.8</td>
+<td align="left">7.9</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#8AD3DE">3</td>
+<td align="left">4403.7</td>
+<td align="left">4601.0</td>
+<td align="left">0.08</td>
+<td align="left">11</td>
+<td align="left">7.0</td>
+<td align="left">6.0</td>
+</tr>
+<tr>
+<td align="left">3 C (2)</td>
+<td align="left">4629.4</td>
+<td align="left">4780.5</td>
+<td align="left">-</td>
+<td align="left">-</td>
+<td align="left">5.4</td>
+<td align="left">12.0</td>
+</tr>
+<tr>
+<td align="left">3C(1)</td>
+<td align="left">4859.1</td>
+<td align="left">4952.4</td>
+<td align="left">-</td>
+<td align="left">-</td>
+<td align="left">3.3</td>
+<td align="left">5.4</td>
+</tr>
+<tr>
+<td valign="top" align="left">2C(4)</td>
+<td valign="top" align="left">4980.8</td>
+<td valign="top" align="left">5108.8</td>
+<td valign="top" align="left">-</td>
+<td valign="top" align="left">-</td>
+<td valign="top" align="left">3.2</td>
+<td valign="top" align="left">2.5</td>
+</tr>
+<tr>
+<td align="left">2 C (3)</td>
+<td align="left">5140.0</td>
+<td align="left">5186.7</td>
+<td align="left">-</td>
+<td align="left">-</td>
+<td valign="bottom" align="left">1.2</td>
+<td valign="bottom" align="left">0.2</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" bgcolor="#334EA1">2</td>
+<td valign="top" align="left">5220.3</td>
+<td valign="top" align="left">5395.1</td>
+<td valign="top" align="left">0.05</td>
+<td valign="top" align="left">7</td>
+<td valign="top" align="left">4.4</td>
+<td valign="top" align="left">4.0</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">2 C (2)</td>
+<td valign="bottom" align="left">5428.8</td>
+<td valign="bottom" align="left">5603.6</td>
+<td valign="top" align="left">-</td>
+<td valign="top" align="left">-</td>
+<td valign="bottom" align="left">4.4</td>
+<td valign="bottom" align="left">3.8</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">2C(1)</td>
+<td valign="bottom" align="left">5638.6</td>
+<td valign="bottom" align="left">5720.2</td>
+<td align="left">-</td>
+<td align="left">-</td>
+<td valign="bottom" align="left">2.0</td>
+<td valign="bottom" align="left">0.5</td>
+</tr>
+<tr>
+<td valign="top" align="left" bgcolor="#ED2123">l(Toe)</td>
+<td valign="top" align="left">5755.3</td>
+<td valign="top" align="left">5906.8</td>
+<td valign="top" align="left">0.05</td>
+<td valign="top" align="left">7</td>
+<td valign="top" align="left">4.4</td>
+<td valign="top" align="left">4.1</td>
+</tr>
+<tr>
+<td valign="top" align="left">1 C</td>
+<td valign="top" align="left">5940.4</td>
+<td valign="top" align="left">6126.4</td>
+<td valign="top" align="left">-</td>
+<td valign="top" align="left">-</td>
+<td valign="top" align="left">5.4</td>
+<td valign="top" align="left">5.4</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

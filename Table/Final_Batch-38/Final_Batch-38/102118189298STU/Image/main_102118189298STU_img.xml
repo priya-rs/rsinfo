@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189298STU.txt" extractionDate="2021-03-26T17:32:56Z">
+<doi>10.2118/189298-STU</doi>
+<pii>10.2118/189298-STU</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr4">ES-MDA is a method based on KF and it is derived directly from ES. To generate better data matches, ES-MDA runs ES methodology multiple times, until reach the defined number of iterations. In order to do so, a weight factor (αi) is added to each iteration. To have a better visualization of the method, Fig. 1 shows a flowchart of the ES-MDA. Following is the explanation of each step.</anchoringText>
+<image-wrap id="102118189298STU-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118189298STU_i_1.tif" id="ImgLink-1" />
+<caption>ES-MDA flowchart (based on Emerick, 2016).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>ES-MDA flowchart (based on <link href="BIB1">Emerick, 2016</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-9" type="bib">
+<bib id="BIB1">
+<label>Emerick, 2016</label>
+<author>
+<first-name>A. A.</first-name>
+<last-name>Emerick</last-name>
+</author>
+<pubDate>2016</pubDate>. <article-title>Analisys of the performance of ensemble-based assimilation of production and seismic data</article-title>. <journal-title>
+<i>Journal of Petroleum Science and Engineering</i>
+</journal-title>
+<volume>139</volume>: <pages>
+<first-page>219</first-page>
+<last-page>239</last-page>
+</pages>. http://dx.doi.org/10.1016/j.petrol.2016.01.029.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr5">To represent the distance used in the localization approach, Emerick and Reynolds (2011) proposed an ellipse that is capable of describing an anisotropic environment (Fig. 2). Where Lx and Ly are the critical lengths and θ is the rotational angle of the ellipse.</anchoringText>
+<image-wrap id="102118189298STU-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118189298STU_i_2.tif" id="ImgLink-2" />
+<caption>Localization distance represented by an ellipse (Emerick, 2011).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Localization distance represented by an ellipse (<link href="BIB2">Emerick, 2011</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-10" type="bib">
+<bib id="BIB2">
+<label>Emerick and Reynolds, 2011</label>
+<author>
+<first-name>A.</first-name>
+<last-name>Emerick</last-name>
+</author>, and <author>
+<first-name>A.</first-name>
+<last-name>Reynolds</last-name>
+</author>
+<pubDate>2011</pubDate>. <article-title>Combining Sensitivities and Prior Information for Covariance Localization in the Ensemble Kalman Filter for Petroleum Reservoir Applications </article-title>. <journal-title>
+<i>Computer Geoscience</i>
+</journal-title>
+<volume>15</volume>
+<issue>(2)</issue>:<pages>
+<first-page>251</first-page>
+<last-page>269</last-page>
+</pages>. http://dx.doi.org/10.1007/s10596-010-9198-y.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="7" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr6">To define the influence area of the wells in LOC1 approach, I used the influence region of each injector-producer pair according to Maschio and Schiozer (2016) (Fig. 3a), where the different collors represent each individual area. Thus, from this definition, it was possible to create ellipses defining the region of influence of the wells as Fig. 3a shows for the well PROD009.</anchoringText>
+<image-wrap id="102118189298STU-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118189298STU_i_3.tif" id="ImgLink-3" />
+<caption>Ellipse for well PROD009: LOC1(a); LOC2(b).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Ellipse for well PROD009: LOC1(a); LOC2(b).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189298STU-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118189298STU_i_3a.tif" id="ImgLink-3a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>LOC1</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189298STU-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118189298STU_i_3b.tif" id="ImgLink-3b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>LOC2</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="7" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr7">I applied this methodology to a benchmark case with a known response, called UNISIM-I-H, which is a synthetic oil field based on data from Namorado field at Campos Basin in Brazil (Fig. 4).</anchoringText>
+<image-wrap id="102118189298STU-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118189298STU_i_4.tif" id="ImgLink-4" />
+<caption>UNISIM-I-H: well location and porosity distribution.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>UNISIM-I-H: well location and porosity distribution.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189298STU-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118189298STU_i_4a.tif" id="ImgLink-4a" />
+</image-wrap>
+<image-wrap id="102118189298STU-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118189298STU_i_4b.tif" id="ImgLink-4b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="9" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr8">Fig. 5 depicts the evolution of krwiro’s pdf and it helps to have a better visualization of the models’ variability. In Fig. 5a, krwiro values are distributed according to the specification shown in Table 1 and the standard deviation was 0.073. Fig. 5b, c and d show a significant reduction of this uncertainty with a standard deviation of 0.006, 0.012 and 0.011, respectively. This great reduction was observed for all scalars uncertainties and it can be explained because these attributes have a single value for the entire model. Thus, localization technique was not used to update them.</anchoringText>
+<image-wrap id="102118189298STU-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118189298STU_i_5.tif" id="ImgLink-5" />
+<caption>k<sub>rwiro</sub>histogram: (a) Prior realization; (b) STD (posterior); (c) LOC1 (posterior); (d) LOC2 (posterior).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>k<sub>rwiro</sub>histogram: (a) Prior realization; (b) STD (posterior); (c) LOC1 (posterior); (d) LOC2 (posterior).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189298STU-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118189298STU_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Prior realization</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189298STU-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118189298STU_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>STD (posterior)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189298STU-Img_SPi-5c">
+<imageLink type="mediaResource" href="102118189298STU_i_5c.tif" id="ImgLink-5c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>LOC1 (posterior)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189298STU-Img_SPi-5d">
+<imageLink type="mediaResource" href="102118189298STU_i_5d.tif" id="ImgLink-5d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>LOC2 (posterior)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="8" pdf-page="10" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr9">Another important question is related to spurious correlation. For the STD case, there was no specific region of influence. Thus, model parameters were updated considering all data available and it caused correlation of non-physical related parameters (spurious correlation). This can be seen through a comparison of the natural logarithm of kx mean images: in regions where there were no or few data to assimilate, the pattern shown in Figs. 6e and g tended to follow the pattern observed in the prior ensemble (Fig 6a, as it is possible to see in the east and northwest part of the model.</anchoringText>
+<image-wrap id="102118189298STU-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118189298STU_i_6.tif" id="ImgLink-6" />
+<caption>Natural logarithm of k<sub>x</sub> distribution: (a) Prior mean; (b) Prior standard deviation; (c) Posterior mean – STD; (d) Posterior standard deviation– STD; (e) Posterior mean – LOC1; (f) Posterior standard deviation– LOC1; (g) Posterior mean – LOC2; (h) Posterior standard deviation– LOC2.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Natural logarithm of k<sub>x</sub> distribution: (a) Prior mean; (b) Prior standard deviation; (c) Posterior mean – STD; (d) Posterior standard deviation– STD; (e) Posterior mean – LOC1; (f) Posterior standard deviation– LOC1; (g) Posterior mean – LOC2; (h) Posterior standard deviation– LOC2.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189298STU-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118189298STU_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Prior mean</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189298STU-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118189298STU_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Prior standard deviation</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189298STU-Img_SPi-6c">
+<imageLink type="mediaResource" href="102118189298STU_i_6c.tif" id="ImgLink-6c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Posterior mean – STD</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189298STU-Img_SPi-6d">
+<imageLink type="mediaResource" href="102118189298STU_i_6d.tif" id="ImgLink-6d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>Posterior standard deviation– STD</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189298STU-Img_SPi-6e">
+<imageLink type="mediaResource" href="102118189298STU_i_6e.tif" id="ImgLink-6e" />
+<figure-specific-caption>
+<caption-order>e</caption-order>
+<caption-text>Posterior mean – LOC1</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189298STU-Img_SPi-6f">
+<imageLink type="mediaResource" href="102118189298STU_i_6f.tif" id="ImgLink-6f" />
+<figure-specific-caption>
+<caption-order>f</caption-order>
+<caption-text>Posterior standard deviation– LOC1</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189298STU-Img_SPi-6g">
+<imageLink type="mediaResource" href="102118189298STU_i_6g.tif" id="ImgLink-6g" />
+<figure-specific-caption>
+<caption-order>g</caption-order>
+<caption-text>Posterior mean – LOC2</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189298STU-Img_SPi-6h">
+<imageLink type="mediaResource" href="102118189298STU_i_6h.tif" id="ImgLink-6h" />
+<figure-specific-caption>
+<caption-order>h</caption-order>
+<caption-text>Posterior standard deviation– LOC2</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="7" data-type-order="10">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr10">Finally, following the application of ES-MDA, it was necessary to conduct the production forecast until the end of the field productive life. Fig 7 shows that all cases (Prior, STD, LOC1 and LOC2) encompassed the reference response for oil cumulative production (Np) and water cumulative production (Wp). The only exception was Np for STD case.</anchoringText>
+<image-wrap id="102118189298STU-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118189298STU_i_7.tif" id="ImgLink-7" />
+<caption>Risk Curve for all models: N<sub>p</sub> (a); W<sub>p</sub> (b).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Risk Curve for all models: N<sub>p</sub> (a); W<sub>p</sub> (b).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189298STU-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118189298STU_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>N<sub>p</sub></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189298STU-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118189298STU_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>W<sub>p</sub></caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="12" figure-order="8" data-type-order="11">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr11">With application of the filter (Fig. 8), it was possible to notice that for STD case, the ensemble converged to the real answer for Wp, but this did not happen for Np, as noticed before. When analyzing LOC1, because only 6.2% of the models were filtered, this small amount contributed to reduce variability of the production curve, which caused the divergence of the answer. Lastly, the curve pattern was the same when compared with Fig. 7 for LOC2 and the filter discarded some models that were far from the reference response, showing that the models converged for the real answer for Np and Wp.</anchoringText>
+<image-wrap id="102118189298STU-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118189298STU_i_8.tif" id="ImgLink-8" />
+<caption>Risk Curve for Filtered models: N<sub>p</sub> (a); W<sub>p</sub> (b).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Risk Curve for Filtered models: N<sub>p</sub> (a); W<sub>p</sub> (b).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189298STU-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118189298STU_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>N<sub>p</sub></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189298STU-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118189298STU_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>W<sub>p</sub></caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

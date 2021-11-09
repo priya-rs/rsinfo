@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185429MS.txt" extractionDate="2021-03-25T14:38:35Z">
+<doi>10.2118/185429-MS</doi>
+<pii>10.2118/185429-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="5">
+<table-wrap id="102118185429MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">
+</anchoringText>
+<label>Table 1</label>
+<caption>Average properties of different diagenetic phases of silica (Schwalbach et al., 2007)</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Average properties of different diagenetic phases of silica (Schwalbach et al., 2007)</caption-text>
+</formatted-caption>
+<table id="102118185429MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th align="center">Silica Phase</th>
+<th align="center">Porosity, %</th>
+<th align="center">Grain Density, gm/cc</th>
+<th align="center">Solubility, ppm</th>
+<th align="center">XRD Pattern</th>
+<th align="center">SEM Pattern</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Opal-A</td>
+<td align="center">80-60</td>
+<td align="center">1.8-2.2</td>
+<td align="center">60-130</td>
+<td align="center">
+<b>Broad hump in XRD pattern</b>
+</td>
+<td align="center">
+<b>Close packed homometric spheres of amorphous silica</b>
+</td>
+</tr>
+<tr>
+<td align="center">Opal-CT</td>
+<td align="center">40-30</td>
+<td align="center">2.25-2.35</td>
+<td align="center">20-30</td>
+<td align="center">
+<b>Broad XRD pick</b>
+</td>
+<td valign="top" align="center">
+<b>Small thin platelets forming lepisphre aggregates</b>
+</td>
+</tr>
+<tr>
+<td align="center">Microcrystalline Quartz</td>
+<td align="center">20-10</td>
+<td align="center">2.55-2.65</td>
+<td align="center">10-6</td>
+<td align="center">
+<b>A sharp peak is observed at approx. 26.5 26 degree.</b>
+</td>
+<td align="center">
+<b>Granular texture of well- developed silica crystals</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="9" table-order="2" data-type-order="13">
+<table-wrap id="102118185429MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">
+</anchoringText>
+<label>Table 2</label>
+<caption>Uplift correction factors for the major oil fields different fields in northern Barmer Basin</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Uplift correction factors for the major oil fields different fields in northern Barmer Basin</caption-text>
+</formatted-caption>
+<table id="102118185429MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th align="center">Field name</th>
+<th align="center">Mangala</th>
+<th align="center">Bhagyam</th>
+<th align="center">Aishwariya</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Uplift correction, m TVDss</td>
+<td valign="top" align="center">900</td>
+<td valign="top" align="center">1150</td>
+<td valign="top" align="center">750</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

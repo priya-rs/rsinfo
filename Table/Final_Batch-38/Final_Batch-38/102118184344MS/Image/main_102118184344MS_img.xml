@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118184344MS.txt" extractionDate="2021-03-23T13:02:18Z">
+<doi>10.2118/184344-MS</doi>
+<pii>10.2118/184344-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">Reservoir-A Reservoir-A has been penetrated by two wells; the minimum amplitude map for this reservoir is shown in the Figure 1.</anchoringText>
+<image-wrap id="102118184344MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118184344MS_i_1.tif" id="ImgLink-1" />
+<caption>Minimum amplitude map for Reservoir-A, 1P area of interest is shown by red polygon</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Minimum amplitude map for Reservoir-A, 1P area of interest is shown by red polygon</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">Reservoir-B The Reservoir-B in Field-X has been penetrated by fourteen wells, displayed in the Minimum Amplitude map for the reservoir (Figure-2). The area of interest for SCRV estimation is shown by the red polygon (1P Polygon), primarily based on the following:</anchoringText>
+<image-wrap id="102118184344MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118184344MS_i_2.tif" id="ImgLink-2" />
+<caption>Minimum amplitude map for Reservoir-B, 1P area of interest is shown by red polygon</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Minimum amplitude map for Reservoir-B, 1P area of interest is shown by red polygon</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Analysis The methodology is to extrapolate the pressure depth correlation till it intersects the bubble point pressure to estimate the possible GOC. The extrapolation is described in Figure-3. The resulting GOC range was shallower than the crest observed in polygon of interest indicating a high possibility of oil fill to the crest of the reservoir. Based on this conclusion, the 1P area was extended to the crest to be oil filled for the SCRV estimation.</anchoringText>
+<image-wrap id="102118184344MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118184344MS_i_3.tif" id="ImgLink-3" />
+<caption>Analysis for Reservoir-A showing the possible GOC range</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Analysis for Reservoir-A showing the possible GOC range</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">Refer to Figure 4 for the cartoon illustration of the above mentioned methodology.</anchoringText>
+<image-wrap id="102118184344MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118184344MS_i_4.tif" id="ImgLink-4" />
+<caption>Cartoon illustration-Estimation of pressure depth equation using the uncertinaty range of OWC</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Cartoon illustration-Estimation of pressure depth equation using the uncertinaty range of OWC</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

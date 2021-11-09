@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118180791MS.txt" extractionDate="2021-03-23T15:18:34Z">
+<doi>10.2118/180791-MS</doi>
+<pii>10.2118/180791-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="3" table-order="1" data-type-order="3">
+<table-wrap id="102118180791MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Two production cases as shown in Table 1</anchoringText>
+<label>Table 1</label>
+<caption>Production cases for multiphase simulation.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Production cases for multiphase simulation.</caption-text>
+</formatted-caption>
+<table id="102118180791MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Operating Point</th>
+<th valign="top" align="left">Oil(BOPD)</th>
+<th valign="top" align="left">Water (BWPD)</th>
+<th valign="top" align="left">Liquid (BLPD)</th>
+<th valign="top" align="left">Injection (BWPD)</th>
+<th valign="top" align="left">Gas (SCFD)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Maximum Gas Production</td>
+<td valign="top" align="left">3,980</td>
+<td valign="top" align="left">2,496</td>
+<td valign="top" align="left">6,477</td>
+<td valign="top" align="left">10,626</td>
+<td valign="top" align="left">398,032</td>
+</tr>
+<tr>
+<td valign="top" align="left">Maximum Liquid Production</td>
+<td valign="top" align="left">454</td>
+<td valign="top" align="left">9,663</td>
+<td valign="top" align="left">10,116</td>
+<td valign="top" align="left">10,626</td>
+<td valign="top" align="left">45,383</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="4" table-order="2" data-type-order="5">
+<table-wrap id="102118180791MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The results are shown in Table 2.</anchoringText>
+<label>Table 2</label>
+<caption>Results from the dynamic multiphase flow simulator.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Results from the dynamic multiphase flow simulator.</caption-text>
+</formatted-caption>
+<table id="102118180791MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">CASE SCENARIO</th>
+<th valign="top" align="center">DISCHARGE PRESSURE RANGE (psig)</th>
+<th valign="top" align="center">SURGE VOLUME RANGE (bbl)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Steady state condition</td>
+<td valign="top" align="center">215 - 360</td>
+<td valign="top" align="center">0 - 83</td>
+</tr>
+<tr>
+<td valign="top" align="left">Shutdown and restart</td>
+<td valign="top" align="center">218 - 358</td>
+<td valign="top" align="center">13 – 21</td>
+</tr>
+<tr>
+<td valign="top" align="left">Turndown / ramp-up</td>
+<td valign="top" align="center">210 - 376</td>
+<td valign="top" align="center">0 - 5</td>
+</tr>
+<tr>
+<td valign="top" align="left">Pigging</td>
+<td valign="top" align="center">215 - 423</td>
+<td valign="top" align="center">0 - 140</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

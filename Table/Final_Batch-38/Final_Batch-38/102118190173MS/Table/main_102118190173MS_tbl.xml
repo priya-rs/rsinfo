@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190173MS.txt" extractionDate="2021-03-30T18:46:57Z">
+<doi>10.2118/190173-MS</doi>
+<pii>10.2118/190173-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="6" table-order="1" data-type-order="8">
+<table-wrap id="102118190173MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">It evaluated eleven schemes of steam + nitrogen injection using numerical simulation. In all schemes, it was tested remained constant volume of injected steam (except 2, corresponding to nitrogen injection only), while the volume of nitrogen varied according to the scheme (pre-injection, post-injection, co-injection or a combination of the above). Table 1 presents all the cases evaluated, red cases were discarding because according to the simulation results in Figure 7, their production is lower than the the base case (only steam). In all cases, it assumed nitrogen injection rate according to real drive capacity 1200 m3/hour (1017072 ft3/day).</anchoringText>
+<label>Table 1</label>
+<caption>Nitrogen + Steam Injection Schemes.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Nitrogen + Steam Injection Schemes.</caption-text>
+</formatted-caption>
+<table id="102118190173MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th align="center">CASE</th>
+<th align="center">FLUID</th>
+<th align="center">DAY 1</th>
+<th align="center">DAY 2</th>
+<th align="center">DAY 3</th>
+<th align="center">DAY 4</th>
+<th align="center">DAY 5</th>
+<th align="center">DAY 6</th>
+<th align="center">DAY 7</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2" align="center">
+<b>1</b>
+</td>
+<td align="left">
+<b>STEAM</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+</tr>
+<tr>
+<td align="left">
+<b>NITROGEN</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="center"><b>2</b></td>
+<td align="left">
+<b>STEAM</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+</tr>
+<tr>
+<td align="left">
+<b>NITROGEN</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">
+<b>3</b>
+</td>
+<td align="left">
+<b>STEAM</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+</tr>
+<tr>
+<td align="left">
+<b>NITROGEN</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">
+<b>4</b>
+</td>
+<td align="left">
+<b>STEAM</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+</tr>
+<tr>
+<td align="left">
+<b>NITROGEN</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">
+<b>5</b>
+</td>
+<td align="left">
+<b>STEAM</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+</tr>
+<tr>
+<td align="left">
+<b>NITROGEN</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="center"><b>6</b></td>
+<td align="left">
+<b>STEAM</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+</td>
+</tr>
+<tr>
+<td align="left">
+<b>NITROGEN</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+<b>X</b>
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">
+<b>7</b>
+</td>
+<td align="left">
+<b>STEAM</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+<b>X</b>
+</td>
+</tr>
+<tr>
+<td align="left">
+<b>NITROGEN</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="center"><b>8</b></td>
+<td align="left">
+<b>STEAM</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+</tr>
+<tr>
+<td align="left">
+<b>NITROGEN</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">
+<b>9</b>
+</td>
+<td align="left">
+<b>STEAM</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+</tr>
+<tr>
+<td align="left">
+<b>NITROGEN</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="center"><b>10</b></td>
+<td align="left">
+<b>STEAM</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+</td>
+</tr>
+<tr>
+<td align="left">
+<b>NITROGEN</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="center"><b>11</b></td>
+<td align="left">
+<b>STEAM</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+</tr>
+<tr>
+<td align="left">
+<b>NITROGEN</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="center"><b>12</b></td>
+<td align="left">
+<b>STEAM</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+</td>
+<td align="center">
+<b>X</b>
+</td>
+</tr>
+<tr>
+<td align="left">
+<b>NITROGEN</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+<td align="center">
+<b>X</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="8" table-order="2" data-type-order="11">
+<table-wrap id="102118190173MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">It simulated a second cycle of steam + nitrogen using the same scheme that in the case 10, because with this, it obtained the best results. In the second cycle, it simulated a sensitivity analysis to the nitrogen volume in the pre-injection and post injection, according to information in Table 2. According to Figure 10, the best case is to increase the pre and post injection from one day to two days.</anchoringText>
+<label>Table 2</label>
+<caption>Nitrogen + Steam Injection Sensitivity: Cycle 2.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Nitrogen + Steam Injection Sensitivity: Cycle 2.</caption-text>
+</formatted-caption>
+<table id="102118190173MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th align="center" bgcolor="#003236">CASO</th>
+<th align="center" bgcolor="#F2F2F2">BASE</th>
+<th align="center" bgcolor="#BFBFBF">I</th>
+<th align="center" bgcolor="#F2F2F2">II</th>
+<th align="center" bgcolor="#BFBFBF">III</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" bgcolor="#003236">
+<b>N2</b>
+</td>
+<td align="center" bgcolor="#F2F2F2">----</td>
+<td align="center" bgcolor="#BFBFBF">1 dia</td>
+<td align="center" bgcolor="#F2F2F2">2 dias</td>
+<td align="center" bgcolor="#BFBFBF">3 dias</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#003236">
+<b>vapor + N2</b>
+</td>
+<td align="center" bgcolor="#F2F2F2">5 dias</td>
+<td align="center" bgcolor="#BFBFBF">5 dias</td>
+<td align="center" bgcolor="#F2F2F2">5 dias</td>
+<td align="center" bgcolor="#BFBFBF">5 dias</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#003236">
+<b>N2</b>
+</td>
+<td align="center" bgcolor="#F2F2F2">----</td>
+<td align="center" bgcolor="#BFBFBF">1 dia</td>
+<td align="center" bgcolor="#F2F2F2">2 dias</td>
+<td align="center" bgcolor="#BFBFBF">3 dias</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#003236">
+<b>CUM OIL</b>
+</td>
+<td align="center" bgcolor="#F2F2F2">11692</td>
+<td align="center" bgcolor="#BFBFBF">14282</td>
+<td align="center" bgcolor="#F2F2F2">18118</td>
+<td align="center" bgcolor="#BFBFBF">18139</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#003236">
+<b>Incremental</b>
+</td>
+<td align="center" bgcolor="#F2F2F2">----</td>
+<td align="center" bgcolor="#BFBFBF">2590</td>
+<td align="center" bgcolor="#F2F2F2">6426</td>
+<td align="center" bgcolor="#BFBFBF">6447</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#003236">
+<b>BOPD prom</b>
+</td>
+<td align="center" bgcolor="#F2F2F2">32</td>
+<td align="center" bgcolor="#BFBFBF">39</td>
+<td align="center" bgcolor="#F2F2F2">50</td>
+<td align="center" bgcolor="#BFBFBF">50</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#003236">
+<b>OIL INC * 60 $/BL</b>
+</td>
+<td align="center" bgcolor="#F2F2F2">----</td>
+<td align="center" bgcolor="#BFBFBF">$ 155,400</td>
+<td align="center" bgcolor="#F2F2F2">$ 385,560</td>
+<td align="center" bgcolor="#BFBFBF">$386,820</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#003236">
+<b>Costo N2</b>
+</td>
+<td align="center" bgcolor="#F2F2F2">----</td>
+<td align="center" bgcolor="#BFBFBF">$ 54,833</td>
+<td align="center" bgcolor="#F2F2F2">$ 70,500</td>
+<td align="center" bgcolor="#BFBFBF">$ 86,167</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#003236">
+<b>Ganancia Inc.</b>
+</td>
+<td align="center" bgcolor="#F2F2F2">----</td>
+<td align="center" bgcolor="#BFBFBF">$ 100,567</td>
+<td align="center" bgcolor="#F2F2F2">$ 315,060</td>
+<td align="center" bgcolor="#BFBFBF">$300,653</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191186MS.txt" extractionDate="2021-03-29T12:06:50Z">
+<doi>10.2118/191186-MS</doi>
+<pii>10.2118/191186-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr3"> </anchoringText>
+<image-wrap id="102118191186MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118191186MS_i_1.tif" id="ImgLink-1" />
+<caption>Equivalent radius of the modeled GWC</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Equivalent radius of the modeled GWC</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr4">Manipulating the GWC contour polygon in Figure 2 (left), generated a match on the log-log derivative plot (right) in the late time boundary dominated response region. Once a match is achieved, the equivalent radius of the closed boundary contour line can be tabulated. It is important to note that this contour manipulation is highly subjective as there is much uncertainty associated with the direction of water encroachment toward the well.</anchoringText>
+<image-wrap id="102118191186MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118191186MS_i_2.tif" id="ImgLink-2" />
+<caption>Area of GWC Contour Boundary (ft<sup>2</sup>) &amp; matched derivative log-log plot</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Area of GWC Contour Boundary (ft<sup>2</sup>) &amp; matched derivative log-log plot</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191186MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118191186MS_i_2a.tif" id="ImgLink-2a" />
+</image-wrap>
+<image-wrap id="102118191186MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118191186MS_i_2b.tif" id="ImgLink-2b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr5">Figure 3 shows the production history updated from the work presented by Yaich et al., from 2012 to March 2015. Four new build-ups were added to the analysis; #282, 285, 286 and 288. However, due to the steep decline in pressure of the two year long shut-in (BU #282), PTA results could not be considered reliable. This decline is attributed to interference due to production from neighbouring fields in pressure communication with the field across their common aquifer.</anchoringText>
+<image-wrap id="102118191186MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118191186MS_i_3.tif" id="ImgLink-3" />
+<caption>Production history updated from 2011 to 2016</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Production history updated from 2011 to 2016</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr6">The pressure derivatives were extracted, then time normalized in the diagnostic log-log plot shown in Figure 4. This was done to ensure the radial flow periods were aligned for all build-ups and to diagnostically establish the movement in the late time period.</anchoringText>
+<image-wrap id="102118191186MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118191186MS_i_4.tif" id="ImgLink-4" />
+<caption>Overlay of Derivatives of all build-ups.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Overlay of Derivatives of all build-ups.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="5" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr7">The initial build up match determined from the infinite acting analytical model, shown in Figure 5, illustrates the reservoir properties ascertained. These reservoir properties, as discussed by Yaich et al. 2012, were maintained in the composite model and only the composite boundary contours or GWC were manipulated for each successive pressure response as discussed in the methodology above.</anchoringText>
+<image-wrap id="102118191186MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118191186MS_i_5.tif" id="ImgLink-5" />
+<caption>Initial Build Up analysis</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Initial Build Up analysis</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191186MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118191186MS_i_5a.tif" id="ImgLink-5a" />
+</image-wrap>
+<image-wrap id="102118191186MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118191186MS_i_5b.tif" id="ImgLink-5b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr8">Figure 6 shows the field amplitude map with an initial GWC and its corresponding composite boundary model. The composite boundary model distinguishes between the mobility and diffusivity ratios of gas and water highlighted by the yellow and white areas.</anchoringText>
+<image-wrap id="102118191186MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118191186MS_i_6.tif" id="ImgLink-6" />
+<caption>Field amplitude map and composite boundary model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Field amplitude map and composite boundary model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr9">By stepping through successive pressure build up analyses, the inward movement of the GWC polygon with time can be seen in Figure 7. The plots highlight the time lapse water encroachment models from initial build up #25 to #288, and their corresponding equivalent radii.</anchoringText>
+<image-wrap id="102118191186MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118191186MS_i_7.tif" id="ImgLink-7" />
+<caption>Time lapse GWC movement from March 2009 to February 2015</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Time lapse GWC movement from March 2009 to February 2015</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr10">As the movement mechanism of water toward the well presents some uncertainty, three idealized contours were defined as a proxy to capture a range of low, medium and high cases of GWC movement, reservoir sweep and WBT timing (Figure 8). These three contours were then converted to an equivalent radius featured in the Table 1. These are represented as the horizontal L, M and H lines in Figure 9.</anchoringText>
+<image-wrap id="102118191186MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118191186MS_i_8.tif" id="ImgLink-8" />
+<caption>Three idealized cases L, M and H where water reaches the well.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Three idealized cases L, M and H where water reaches the well.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="7" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr11">As the equivalent radius for each successive build up is ascertained, they are plotted against the cumulative production at each stage. A plot of Req2 vs. cumulative production or Req3 vs. cumulative production can then be used to ascertain the timing to water breakthrough (Figure 9).</anchoringText>
+<image-wrap id="102118191186MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118191186MS_i_9.tif" id="ImgLink-9" />
+<caption>Equivalent radius vs. Cumulative Production</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Equivalent radius vs. Cumulative Production</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191186MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118191186MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Quadratic Fit</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191186MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118191186MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Cubic Fit</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr12">Yaich et al. concluded that the water encroachment mechanism in the field behaved closest to that of the lateral movement or quadratic fit. As such, water breakthrough was predicted to occur in the range of 58 Bscf to 70 Bscf, with a mid-case of 64 Bscf of cumulative produced volumes. In early 2015, actual water breakthrough occurred after 62 Bscf of production, thus strongly validating the robustness of the time lapse pressure derivative analysis study. Figure 10 below illustrates the drastic increase in formation water production.</anchoringText>
+<image-wrap id="102118191186MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118191186MS_i_10.tif" id="ImgLink-10" />
+<caption>Actual Water Breakthrough (measured)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Actual Water Breakthrough (measured)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

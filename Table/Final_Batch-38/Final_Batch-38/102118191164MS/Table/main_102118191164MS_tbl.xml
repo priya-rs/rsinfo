@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191164MS.txt" extractionDate="2021-03-29T11:06:25Z">
+<doi>10.2118/191164-MS</doi>
+<pii>10.2118/191164-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="13" table-order="1" data-type-order="10">
+<table-wrap id="102118191164MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Irreducible water saturation (Swirr) was calculated using Capillary Bound Fluid Volume from NMR data. The resulting irreducible water saturations from CMR ranged from 25% to 50% in some intervals in wells AD1and AD3 as seen in Table 1 above. In well AD8, irreducible water saturations ranged from 30% to 50%(as seen in figure 11). When comparing NMR derived water saturations with critical water saturations from core analysis in well AD18, it was observed that in zone 4b, sw_core was 40-50% whereas Sw_CMR ranged 30-45%. Similar correlations were noted in Zones 3a and 3b. It is possible that the critical water saturation from core data could also be affected the collection mechanisms and cleaning and measuring processes.</anchoringText>
+<label>Table 1</label>
+<caption>Table showing Water Saturations derived from analytical workflows in some intervals in AD1 and AD3.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Table showing Water Saturations derived from analytical workflows in some intervals in AD1 and AD3.</caption-text>
+</formatted-caption>
+<table id="102118191164MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Well</th>
+<th valign="top" align="center">
+</th>
+<th valign="top" align="center">
+</th>
+<th valign="bottom" align="center">AD1</th>
+<th valign="bottom" align="center">AD1</th>
+<th valign="bottom" align="center">AD2</th>
+<th valign="bottom" align="center">AD3</th>
+<th valign="bottom" align="center">AD3</th>
+<th valign="bottom" align="center">AD3</th>
+<th valign="bottom" align="center">AD3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Zone</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="right">1</td>
+<td valign="bottom" align="right">1</td>
+<td valign="bottom" align="right">1</td>
+<td valign="bottom" align="right">1</td>
+<td valign="bottom" align="right">2</td>
+<td valign="top" align="right">3</td>
+<td valign="top" align="right">3</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Interval top/ft</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="right">3368</td>
+<td valign="bottom" align="right">3410</td>
+<td valign="bottom" align="right">4260</td>
+<td valign="bottom" align="right">3754</td>
+<td valign="bottom" align="right">3870</td>
+<td valign="bottom" align="right">4066</td>
+<td valign="bottom" align="right">4158</td>
+</tr>
+<tr>
+<td valign="top" align="left">Interval Base/ft</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="right">3378</td>
+<td valign="top" align="right">3445</td>
+<td valign="top" align="right">4290</td>
+<td valign="top" align="right">3765</td>
+<td valign="top" align="right">3940</td>
+<td valign="top" align="right">4092</td>
+<td valign="top" align="right">4195</td>
+</tr>
+<tr>
+<td valign="top" align="left">VSH GR LIN</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="right">20</td>
+<td valign="bottom" align="right">26</td>
+<td valign="bottom" align="right">12</td>
+<td valign="top" align="right">35</td>
+<td valign="top" align="right">40</td>
+<td valign="top" align="right">35</td>
+<td valign="bottom" align="right">18</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">VSH_min(%)</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="right">10</td>
+<td valign="bottom" align="right">10</td>
+<td valign="bottom" align="right">3</td>
+<td valign="bottom" align="right">10</td>
+<td valign="bottom" align="right">17</td>
+<td valign="bottom" align="right">20</td>
+<td valign="bottom" align="right">5</td>
+</tr>
+<tr>
+<td rowspan="3" valign="top" bgcolor="#D99594" align="left">Sim SW (Eff) %</td>
+<td valign="top" align="center" bgcolor="#D99594">PHIE D</td>
+<td valign="top" align="left" bgcolor="#D99594">VSH min</td>
+<td valign="top" align="right" bgcolor="#D99594">34</td>
+<td valign="top" align="right" bgcolor="#D99594">29</td>
+<td valign="top" align="right" bgcolor="#D99594">27</td>
+<td valign="top" align="right" bgcolor="#D99594">45</td>
+<td valign="top" align="right" bgcolor="#D99594">27-60</td>
+<td valign="top" align="right" bgcolor="#D99594">40</td>
+<td valign="top" align="right" bgcolor="#D99594">32</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">ND</td>
+<td valign="bottom" align="left" bgcolor="#D99594">VSH GR</td>
+<td valign="bottom" align="right" bgcolor="#D99594">36</td>
+<td valign="bottom" align="right" bgcolor="#D99594">28</td>
+<td valign="bottom" align="right" bgcolor="#D99594">26</td>
+<td valign="bottom" align="right" bgcolor="#D99594">47</td>
+<td valign="bottom" align="right" bgcolor="D99594">22-53</td>
+<td valign="bottom" align="right" bgcolor="#D99594">42</td>
+<td valign="bottom" align="right" bgcolor="#D99594">32</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#D99594">PHIE ND</td>
+<td valign="bottom" align="left" bgcolor="#D99594">VSH min</td>
+<td valign="bottom" align="right" bgcolor="#D99594">34</td>
+<td valign="bottom" align="right" bgcolor="#D99594">32</td>
+<td valign="bottom" align="right" bgcolor="#D99594">27</td>
+<td valign="bottom" align="right" bgcolor="#D99594">37</td>
+<td valign="bottom" align="right" bgcolor="D99594">27-52</td>
+<td valign="bottom" align="right" bgcolor="#D99594">43</td>
+<td valign="bottom" align="right" bgcolor="#D99594">32</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="center">PHIE D</td>
+<td valign="bottom" align="left" bgcolor="#D99594">VSH_GR</td>
+<td valign="bottom" align="right" bgcolor="#D99594">35</td>
+<td valign="bottom" align="right" bgcolor="#D99594">30</td>
+<td valign="bottom" align="right" bgcolor="#D99594">27</td>
+<td valign="bottom" align="right" bgcolor="#D99594">43</td>
+<td valign="bottom" align="right" bgcolor="D99594">22-55</td>
+<td valign="bottom" align="right" bgcolor="#D99594">37</td>
+<td valign="bottom" align="right" bgcolor="#D99594">32</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="center">CMR</td>
+<td valign="top" align="center" bgcolor="#D99594">
+</td>
+<td valign="top" align="right" bgcolor="#D99594">37</td>
+<td valign="bottom" align="right" bgcolor="#D99594">28</td>
+<td valign="top" align="right" bgcolor="#D99594">32</td>
+<td valign="top" align="right" bgcolor="#D99594">37</td>
+<td valign="top" align="right" bgcolor="D99594">22-55</td>
+<td valign="top" align="right" bgcolor="#D99594">32</td>
+<td valign="top" align="right" bgcolor="#D99594">27</td>
+</tr>
+<tr>
+<td valign="top" align="left">Dual Water Swe%</td>
+<td valign="bottom" align="center" bgcolor="#95B3D7">D</td>
+<td valign="top" align="left" bgcolor="#95B3D7">VCL MIN</td>
+<td valign="top" align="right" bgcolor="#95B3D7">35</td>
+<td valign="top" align="right" bgcolor="#95B3D7">27</td>
+<td valign="top" align="right" bgcolor="#95B3D7">32</td>
+<td valign="top" align="right" bgcolor="#95B3D7">37</td>
+<td valign="top" align="right" bgcolor="#95B3D7">25-47</td>
+<td valign="top" align="right" bgcolor="#95B3D7">38</td>
+<td valign="bottom" align="right" bgcolor="#95B3D7">28</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="right" bgcolor="#95B3D7"></td>
+<td valign="top" align="left" bgcolor="#95B3D7">VCL GR</td>
+<td valign="top" align="right" bgcolor="#95B3D7">38</td>
+<td valign="top" align="right" bgcolor="#95B3D7">25</td>
+<td valign="top" align="right" bgcolor="#95B3D7">34</td>
+<td valign="top" align="right" bgcolor="#95B3D7">37</td>
+<td valign="top" align="right" bgcolor="#95B3D7">25-48</td>
+<td valign="top" align="right" bgcolor="#95B3D7">43</td>
+<td valign="top" align="right" bgcolor="#95B3D7">33</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left" bgcolor="#95B3D7">ND</td>
+<td valign="top" align="left" bgcolor="#95B3D7">VCL MIN</td>
+<td valign="top" align="right" bgcolor="#95B3D7">41</td>
+<td valign="top" align="right" bgcolor="#95B3D7">23</td>
+<td valign="top" align="right" bgcolor="#95B3D7">33</td>
+<td valign="top" align="right" bgcolor="#95B3D7">37</td>
+<td valign="top" align="right" bgcolor="#95B3D7">27-47</td>
+<td valign="top" align="right" bgcolor="#95B3D7">37</td>
+<td valign="bottom" align="right" bgcolor="#95B3D7">28</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="center" bgcolor="#FBD4B4">CMR</td>
+<td valign="top" align="center" bgcolor="#FBD4B4">
+</td>
+<td valign="bottom" align="right" bgcolor="#FBD4B4">37</td>
+<td valign="bottom" align="right" bgcolor="#FBD4B4">28</td>
+<td valign="bottom" align="right" bgcolor="#FBD4B4">32</td>
+<td valign="bottom" align="right" bgcolor="#FBD4B4">38</td>
+<td valign="bottom" align="right" bgcolor="#FBD4B4">30-44</td>
+<td valign="bottom" align="right" bgcolor="#FBD4B4">35</td>
+<td valign="bottom" align="right" bgcolor="#FBD4B4">28</td>
+</tr>
+<tr>
+<td valign="top" align="left">Swirr %</td>
+<td valign="top" align="center" bgcolor="#FBD4B4">CMR</td>
+<td valign="top" align="center" bgcolor="#FBD4B4">
+</td>
+<td valign="top" align="right" bgcolor="#FBD4B4">38</td>
+<td valign="bottom" align="right" bgcolor="#FBD4B4">28</td>
+<td valign="top" align="right" bgcolor="#FBD4B4">25</td>
+<td valign="top" align="right" bgcolor="#FBD4B4">38</td>
+<td valign="top" align="right" bgcolor="#FBD4B4">43</td>
+<td valign="top" align="right" bgcolor="#FBD4B4">35</td>
+<td valign="bottom" align="right" bgcolor="#FBD4B4">28</td>
+</tr>
+<tr>
+<td valign="top" align="left">SUWA (Moveable SW) %</td>
+<td valign="top" align="right" bgcolor="#FBD4B4">
+</td>
+<td valign="top" align="right" bgcolor="#FBD4B4">
+</td>
+<td valign="bottom" align="right" bgcolor="#FBD4B4">0</td>
+<td valign="bottom" align="right" bgcolor="#FBD4B4">0</td>
+<td valign="top" align="right" bgcolor="#FBD4B4">7</td>
+<td valign="bottom" align="right" bgcolor="#FBD4B4">0</td>
+<td valign="top" align="right" bgcolor="#FBD4B4">2-5%</td>
+<td valign="bottom" align="right" bgcolor="#FBD4B4">0</td>
+<td valign="bottom" align="right" bgcolor="#FBD4B4">0</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

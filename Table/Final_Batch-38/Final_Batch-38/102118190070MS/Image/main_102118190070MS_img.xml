@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190070MS.txt" extractionDate="2021-03-29T15:41:04Z">
+<doi>10.2118/190070-MS</doi>
+<pii>10.2118/190070-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure composite="true" composite-count="2" pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">The same geomechanical technology, validated across many shale basins, is used in this study. Faults interpreted from the seismically derived coherency were used as input in the geomechanical tool using the Material Point Method (MPM) to computationally solve the full continuum mechanics equations (Aimene and Ouenes, 2015). To better represent the role of the natural fractures on the local disturbance of the regional stress, the coherency map is used to create an Equivalent Fracture Model (EFM) in (Fig. 1A) which is used as input in the geomechanical simulation tool. The resulting localized differential stress is shown in (Fig. 1B) where asymmetry is present in many zones.</anchoringText>
+<image-wrap id="102118190070MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118190070MS_i_1.tif" id="ImgLink-1" />
+<caption>(A) Equivalent Fracture Model derived from seismic coherency as shown in Aimene and Ouenes, 2015 (B) differential stress simulation at the scale of a well pad using the derived EFM. Black colors represent high differential stress areas that prevent frac complexity and promote the formation of linear fracs with very limited microseismic events. Lighter areas promote frac complexity and exhibit diffuse microseismic events.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>(A) Equivalent Fracture Model derived from seismic coherency as shown in <link href="BIB1">Aimene and Ouenes, 2015</link> (B) differential stress simulation at the scale of a well pad using the derived EFM. Black colors represent high differential stress areas that prevent frac complexity and promote the formation of linear fracs with very limited microseismic events. Lighter areas promote frac complexity and exhibit diffuse microseismic events.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190070MS-Img_SPi-1a">
+<imageLink type="mediaResource" href="102118190070MS_i_1a.tif" id="ImgLink-1a" />
+<figure-specific-caption>
+<caption-order>(A)</caption-order>
+<caption-text>Equivalent Fracture Model derived from seismic coherency as shown in Aimene and Ouenes, 2015</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190070MS-Img_SPi-1b">
+<imageLink type="mediaResource" href="102118190070MS_i_1b.tif" id="ImgLink-1b" />
+<figure-specific-caption>
+<caption-order>(B)</caption-order>
+<caption-text>differential stress simulation at the scale of a well pad using the derived EFM. Black colors represent high differential stress areas that prevent frac complexity and promote the formation of linear fracs with very limited microseismic events. Lighter areas promote frac complexity and exhibit diffuse microseismic events.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-13" type="bib">
+<bib id="BIB1">
+<label>Aimene and Ouenes, (2015)</label>
+<author>
+<first-name>Y.</first-name>
+<last-name>Aimene</last-name>
+</author> and <author>
+<first-name>A.</first-name>
+<last-name>Ouenes</last-name>
+</author>
+<pubDate>(2015)</pubDate>. <article-title>Geomechanical modeling of hydraulic fractures interacting with natural fractures — Validation with microseismic data and tracer data from the Marcellus and Eagle Ford </article-title>. <journal-title><i>Interpretation</i></journal-title>, <volume>3</volume> <issue>(3)</issue>, <pages>
+<first-page>1</first-page>
+<last-page>18</last-page>
+</pages>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">Given the initial variable differential stress, the hydraulic fracturing is simulated using the same geomechanical tool that relies on the Material Point Method to computationally solve the complex problem of interaction between hydraulic and natural fractures. The resulting strain that is created during the hydraulic fracturing is shown in Fig. 2. The derived final strain was the result of the interaction between hydraulic and natural fractures during hydraulic fracturing.</anchoringText>
+<image-wrap id="102118190070MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118190070MS_i_2.tif" id="ImgLink-2" />
+<caption>Strain resulting from the interaction between hydraulic and natural fractures during hydraulic fracturing. The envelope drawn around the strain is used to estimate, at each cluster, the asymmetric geomechanical half lengths (lines perpendicular to the well) used as constraint in the 3D frac design.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Strain resulting from the interaction between hydraulic and natural fractures during hydraulic fracturing. The envelope drawn around the strain is used to estimate, at each cluster, the asymmetric geomechanical half lengths (lines perpendicular to the well) used as constraint in the 3D frac design.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">This is no longer a problem since surface drilling data could be used from all the drilled wells to provide the required geomechanical logs, pore pressure, stresses, porosity, and natural fracture index as shown in Paryani et al. (2018), Jacques et al. (2017) and Ouenes et al. (2017). We will consider two 3D modeling methods, inverse square distance and sequential gaussian simulation, applied to the same number of wells and evaluate their impact on the fracture geometry and its conductivity. Fig. 3 shows the difference between the two methods when modeling the distribution of minimum horizontal stress Shmin. The resulting fracture geometry and its fracture conductivity is shown for both models in Fig. 4 where there are noticeables differences.</anchoringText>
+<image-wrap id="102118190070MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118190070MS_i_3.tif" id="ImgLink-3" />
+<caption>(A) 3D distribution of Shmin using inverse square distance interpolation from 3 wells compared to (B) a geostatistically derived distribution using sequential gaussian simulation.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>(A) 3D distribution of Shmin using inverse square distance interpolation from 3 wells compared to (B) a geostatistically derived distribution using sequential gaussian simulation.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190070MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118190070MS_i_3a.tif" id="ImgLink-3a" />
+<figure-specific-caption>
+<caption-order>(A)</caption-order>
+<caption-text>3D distribution of Shmin using inverse square distance interpolation from 3 wells compared to (B) a geostatistically derived distribution using sequential gaussian simulation</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190070MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118190070MS_i_3b.tif" id="ImgLink-3b" />
+<figure-specific-caption>
+<caption-order>(B)</caption-order>
+<caption-text>3D distribution of Shmin using inverse square distance interpolation from 3 wells compared to (B) a geostatistically derived distribution using sequential gaussian simulation</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">This is no longer a problem since surface drilling data could be used from all the drilled wells to provide the required geomechanical logs, pore pressure, stresses, porosity, and natural fracture index as shown in Paryani et al. (2018), Jacques et al. (2017) and Ouenes et al. (2017). We will consider two 3D modeling methods, inverse square distance and sequential gaussian simulation, applied to the same number of wells and evaluate their impact on the fracture geometry and its conductivity. Fig. 3 shows the difference between the two methods when modeling the distribution of minimum horizontal stress Shmin. The resulting fracture geometry and its fracture conductivity is shown for both models in Fig. 4 where there are noticeables differences.</anchoringText>
+<image-wrap id="102118190070MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118190070MS_i_4.tif" id="ImgLink-4" />
+<caption>(A) Fracture conductivity at a given stage using in the 3D frac design the inverse square distance interpolation for all the properties versus (B) the fracture conductivity derived by using in the 3D frac design the geostatistically derived distribution using sequential gaussian simulation.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>(A) Fracture conductivity at a given stage using in the 3D frac design the inverse square distance interpolation for all the properties versus (B) the fracture conductivity derived by using in the 3D frac design the geostatistically derived distribution using sequential gaussian simulation.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190070MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118190070MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>(A)</caption-order>
+<caption-text>Fracture conductivity at a given stage using in the 3D frac design the inverse square distance interpolation for all the properties versus</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190070MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118190070MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>(B)</caption-order>
+<caption-text>the fracture conductivity derived by using in the 3D frac design the geostatistically derived distribution using sequential gaussian simulation.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">A log of differential stress (Fig. 5A) is extracted along the wellbore from the differential stress map shown in Fig. 1B. The differential stress log is normalized and its distribution along the wellbore is examined. The principle for an engineered completion is to adapt the stage length to the subsurface conditions to treat similar rock throughout a stage, to increase cluster performance. Most companies are currently using the brittleness of the rock along the wellbore to adjust the stage length. Unfortunately, brittleness is often conflated with fracability, and while the brittleness measured at the wellbore plays a major role in the frac initiation, it is the differential stress at the wellbore and beyond that will control the propagation of the hydraulic fracture and its interaction with natural fractures.</anchoringText>
+<image-wrap id="102118190070MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118190070MS_i_5.tif" id="ImgLink-5" />
+<caption>(A) extracted log along the wellbore from differential stress map shown in Fig. 1B used to geoengineer a completion where the stage length is determined by the (B) distribution of the normalized differential stress.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>(A) extracted log along the wellbore from differential stress map shown in <link href="102118190070MS-Img_SPi-1">Fig. 1B</link> used to geoengineer a completion where the stage length is determined by the (B) distribution of the normalized differential stress.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190070MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118190070MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>(A)</caption-order>
+<caption-text>extracted log along the wellbore from differential stress map shown in Fig. 1B used to geoengineer a completion where the stage length is determined by the (B) distribution of the normalized differential stress.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190070MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118190070MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>(B)</caption-order>
+<caption-text>extracted log along the wellbore from differential stress map shown in Fig. 1B used to geoengineer a completion where the stage length is determined by the (B) distribution of the normalized differential stress.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="7" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">Depending on how many standard deviations we are from the average differential stress, the stage length could be reduced to 200 ft for higher differential stress intervals or could be increased to 400ft for lower differential stress as shown in Fig. 5B. The resulting engineered completion is shown in Fig. 6B. With this engineered completion that takes into account the variable differential stress along the wellbore and beyond, the number of stages was increased from 9 to 14 and the approriate treatment is given to each stage. Fig. 7 shows the variation along the wellbore of stage length (blue dots) versus the differential stress (orange curve).</anchoringText>
+<image-wrap id="102118190070MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118190070MS_i_6.tif" id="ImgLink-6" />
+<caption>(A) Geometric design and its initial 9 stages shown along with the extracted log along the wellbore from differential stress map shown in Fig. 1B used to (B) geoengineer a completion where the stage length is determined by the distribution of the normalized differential stress.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>(A) Geometric design and its initial 9 stages shown along with the extracted log along the wellbore from differential stress map shown in <link href="102118190070MS-Img_SPi-1">Fig. 1B</link> used to (B) geoengineer a completion where the stage length is determined by the distribution of the normalized differential stress.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190070MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118190070MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>(A)</caption-order>
+<caption-text>Geometric design and its initial 9 stages shown along with the extracted log along the wellbore from differential stress map shown in Fig. 1B used to (B) geoengineer a completion where the stage length is determined by the distribution of the normalized differential stress.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190070MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118190070MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>(B)</caption-order>
+<caption-text>Geometric design and its initial 9 stages shown along with the extracted log along the wellbore from differential stress map shown in Fig. 1B used to (B) geoengineer a completion where the stage length is determined by the distribution of the normalized differential stress.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">Depending on how many standard deviations we are from the average differential stress, the stage length could be reduced to 200 ft for higher differential stress intervals or could be increased to 400ft for lower differential stress as shown in Fig. 5B. The resulting engineered completion is shown in Fig. 6B. With this engineered completion that takes into account the variable differential stress along the wellbore and beyond, the number of stages was increased from 9 to 14 and the approriate treatment is given to each stage. Fig. 7 shows the variation along the wellbore of stage length (blue dots) versus the differential stress (orange curve).</anchoringText>
+<image-wrap id="102118190070MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118190070MS_i_7.tif" id="ImgLink-7" />
+<caption>Variation of stage length and differential stress for the geoengineered completion of Fig. 6B</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Variation of stage length and differential stress for the geoengineered completion of <link href="102118190070MS-Img_SPi-6">Fig. 6B</link>
+</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">As the differential stress drops after stage 7, the stage length increases considerably. To successfully frac these stages, the amount of sand pumped is adjusted as shown in Fig. 8 where the blue dots represent the stage lengths and the orange curve represents the amount of proppant injected. The shorter stages such as those recommended at the toe where the differential stress is very high will require a smaller amount of proppant as shown in Fig. 8. The result of such engineered completion could be used as input in the 3D frac simulator to evaluate its resulting frac geometry as shown in Fig. 9.</anchoringText>
+<image-wrap id="102118190070MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118190070MS_i_8.tif" id="ImgLink-8" />
+<caption>Variation of amount of proppant required for each engineered stage shown in Fig. 6B</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Variation of amount of proppant required for each engineered stage shown in <link href="102118190070MS-Img_SPi-6">Fig. 6B</link>
+</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">As the differential stress drops after stage 7, the stage length increases considerably. To successfully frac these stages, the amount of sand pumped is adjusted as shown in Fig. 8 where the blue dots represent the stage lengths and the orange curve represents the amount of proppant injected. The shorter stages such as those recommended at the toe where the differential stress is very high will require a smaller amount of proppant as shown in Fig. 8. The result of such engineered completion could be used as input in the 3D frac simulator to evaluate its resulting frac geometry as shown in Fig. 9.</anchoringText>
+<image-wrap id="102118190070MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118190070MS_i_9.tif" id="ImgLink-9" />
+<caption>Geoengineered completion results in term of fracture conductivity in (A) short stage length 5 to accommodate high differential stress versus (B) long stage length 12 where differential stress is lower.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Geoengineered completion results in term of fracture conductivity in (A) short stage length 5 to accommodate high differential stress versus (B) long stage length 12 where differential stress is lower.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190070MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118190070MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order>(A)</caption-order>
+<caption-text>short stage length 5 to accommodate high differential stress versus</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190070MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118190070MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order>(B)</caption-order>
+<caption-text>long stage length 12 where differential stress is lower</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="9" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">The FMM simulator was applied to the study area and the drainage area around the considered well was estimated across multiple horizontal layers crossed by the inclined wellbore as shown in Fig. 10. The FMM simulator can accurately reproduce the drainage area and the pressure depletion with the advantage of being able to provide such a result in less than one (1) minute of computation time. The resulting pressure depletion can be used as input in the poroelastic geomechanical simulation to study the effect of the new wells drilled next to the producing parent well.</anchoringText>
+<image-wrap id="102118190070MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118190070MS_i_10.tif" id="ImgLink-10" />
+<caption>Drainage area and pressure depletion shown in three layers around the considered inclined parent horizontal well using a FMM simulator (A) Top, (B) Middle, (C) Bottom</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Drainage area and pressure depletion shown in three layers around the considered inclined parent horizontal well using a FMM simulator (A) Top, (B) Middle, (C) Bottom</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190070MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118190070MS_i_10a.tif" id="ImgLink-10a" />
+<figure-specific-caption>
+<caption-order>(A)</caption-order>
+<caption-text>Top</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190070MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118190070MS_i_10b.tif" id="ImgLink-10b" />
+<figure-specific-caption>
+<caption-order>(B)</caption-order>
+<caption-text>Middle</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190070MS-Img_SPi-10c">
+<imageLink type="mediaResource" href="102118190070MS_i_10c.tif" id="ImgLink-10c" />
+<figure-specific-caption>
+<caption-order>(C)</caption-order>
+<caption-text>Bottom</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="9" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">Two new horizontal child wells are considered 800ft east and west of the parent well that was discussed in the previous sections. The pressure depletion around the parent well (Figs. 11B and 12B) was discussed in the previous section and was used as input in the poroelastic geomechanical simulation described in Khodabakhshnejad et al. (2017). The previous Equivalent Fracture Model where the presence of the natural fractures will play a major role in the poroelastic geomechanical simulation is shown in Figs. 11A and 12A.</anchoringText>
+<image-wrap id="102118190070MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118190070MS_i_11.tif" id="ImgLink-11" />
+<caption>(A) Equivalent Fracture Model showing the natural fractures used as input in the poroelastic geomechanical simulation along with (B) the pressure depletion around the parent well and its neighboring EASTERN child well positioned at 800 ft. (C) resulting strain after fracing the child well in the presence of the pressure depletion and the natural fractures contributing to frac hits and interferences</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>(A) Equivalent Fracture Model showing the natural fractures used as input in the poroelastic geomechanical simulation along with (B) the pressure depletion around the parent well and its neighboring EASTERN child well positioned at 800 ft. (C) resulting strain after fracing the child well in the presence of the pressure depletion and the natural fractures contributing to frac hits and interferences</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190070MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118190070MS_i_11a.tif" id="ImgLink-11a" />
+<figure-specific-caption>
+<caption-order>(A)</caption-order>
+<caption-text>Equivalent Fracture Model showing the natural fractures used as input in the poroelastic geomechanical simulation along with (B) the pressure depletion around the parent well and its neighboring EASTERN child well positioned at 800 ft.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190070MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118190070MS_i_11b.tif" id="ImgLink-11b" />
+<figure-specific-caption>
+<caption-order>(B)</caption-order>
+<caption-text>Equivalent Fracture Model showing the natural fractures used as input in the poroelastic geomechanical simulation along with (B) the pressure depletion around the parent well and its neighboring EASTERN child well positioned at 800 ft.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190070MS-Img_SPi-11c">
+<imageLink type="mediaResource" href="102118190070MS_i_11c.tif" id="ImgLink-11c" />
+<figure-specific-caption>
+<caption-order>(C)</caption-order>
+<caption-text>resulting strain after fracing the child well in the presence of the pressure depletion and the natural fractures contributing to frac hits and interferences</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="10" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">Two new horizontal child wells are considered 800ft east and west of the parent well that was discussed in the previous sections. The pressure depletion around the parent well (Figs. 11B and 12B) was discussed in the previous section and was used as input in the poroelastic geomechanical simulation described in Khodabakhshnejad et al. (2017). The previous Equivalent Fracture Model where the presence of the natural fractures will play a major role in the poroelastic geomechanical simulation is shown in Figs. 11A and 12A.</anchoringText>
+<image-wrap id="102118190070MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118190070MS_i_12.tif" id="ImgLink-12" />
+<caption>(A) Equivalent Fracture Model showing the natural fractures used as input in the poroelastic geomechanical simulation along with (B) the pressure depletion around the parent well and its neighboring WESTERN child well positioned at 800 ft. (C) resulting strain after fracing the child well in the presence of the pressure depletion and the natural fractures contributing to frac hits and interferences</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>(A) Equivalent Fracture Model showing the natural fractures used as input in the poroelastic geomechanical simulation along with (B) the pressure depletion around the parent well and its neighboring WESTERN child well positioned at 800 ft. (C) resulting strain after fracing the child well in the presence of the pressure depletion and the natural fractures contributing to frac hits and interferences</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190070MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118190070MS_i_12a.tif" id="ImgLink-12a" />
+<figure-specific-caption>
+<caption-order>(A)</caption-order>
+<caption-text>Equivalent Fracture Model showing the natural fractures used as input in the poroelastic geomechanical simulation along with (B) the pressure depletion around the parent well and its neighboring WESTERN child well positioned at 800 ft.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190070MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118190070MS_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-order>(B)</caption-order>
+<caption-text>Equivalent Fracture Model showing the natural fractures used as input in the poroelastic geomechanical simulation along with (B) the pressure depletion around the parent well and its neighboring WESTERN child well positioned at 800 ft.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190070MS-Img_SPi-12c">
+<imageLink type="mediaResource" href="102118190070MS_i_12c.tif" id="ImgLink-12c" />
+<figure-specific-caption>
+<caption-order>(C)</caption-order>
+<caption-text>resulting strain after fracing the child well in the presence of the pressure depletion and the natural fractures contributing to frac hits and interferences</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

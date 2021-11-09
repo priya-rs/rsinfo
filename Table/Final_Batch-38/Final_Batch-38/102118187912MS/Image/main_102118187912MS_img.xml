@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187912MS.txt" extractionDate="2021-03-25T11:06:10Z">
+<doi>10.2118/187912-MS</doi>
+<pii>10.2118/187912-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure composite="true" composite-count="2" pdf-page="5" figure-order="1" data-type-order="2">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr2">The model runs for watercut and cumulative oil production for the first option are presented in Figure 1a-b. For comparison, the model was run without a CFW. It can be seen that the results obtained coincide with satisfactory accuracy. Satisfactory coincidence of the results was also obtained for the second option, as can be seen from Figure 2a-b. The difference in the results may be due to the fact that the pulsating pressure in the layers is not aligned instantaneously, as is assumed in the averaged equations. Thus, the presented results of the CWF runs, obtained on the basis of ordinary and averaged equations of two-phase flow, indicate their satisfactory coincidence. In this case, the run time of the averaged (2) and initial (1) equations differed approximately by 50 times, which indicates the efficiency of averaged equations for the CWF simulation.</anchoringText>
+<image-wrap id="102118187912MS-Img_SPi-1">
+<label>Figure 1</label>
+<imageLink type="mediaResource" href="102118187912MS_i_1.tif" id="ImgLink-1" />
+<caption>Watercut (a) and cumulative oil production (b) vs. time in the first option (the initial oil saturation of the high-permeable layer is 0.6, and of the low-permeable layer is 0.8).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Watercut (a) and cumulative oil production (b) vs. time in the first option (the initial oil saturation of the high-permeable layer is 0.6, and of the low-permeable layer is 0.8).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187912MS-Img_SPi-1a">
+<imageLink type="mediaResource" href="102118187912MS_i_1a.tif" id="ImgLink-1a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>cumulative oil production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187912MS-Img_SPi-1b">
+<imageLink type="mediaResource" href="102118187912MS_i_1b.tif" id="ImgLink-1b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>initial oil saturation</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr3">The model runs for watercut and cumulative oil production for the first option are presented in Figure 1a-b. For comparison, the model was run without a CFW. It can be seen that the results obtained coincide with satisfactory accuracy. Satisfactory coincidence of the results was also obtained for the second option, as can be seen from Figure 2a-b. The difference in the results may be due to the fact that the pulsating pressure in the layers is not aligned instantaneously, as is assumed in the averaged equations. Thus, the presented results of the CWF runs, obtained on the basis of ordinary and averaged equations of two-phase flow, indicate their satisfactory coincidence. In this case, the run time of the averaged (2) and initial (1) equations differed approximately by 50 times, which indicates the efficiency of averaged equations for the CWF simulation.</anchoringText>
+<image-wrap id="102118187912MS-Img_SPi-2">
+<label>Figure 2</label>
+<imageLink type="mediaResource" href="102118187912MS_i_2.tif" id="ImgLink-2" />
+<caption>Watercut (a) and cumulative oil production (b) vs. time in the second option (the initial oil saturation of the high-permeable layer is 0.4, and of the low-permeable layer is 0.8).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Watercut (a) and cumulative oil production (b) vs. time in the second option (the initial oil saturation of the high-permeable layer is 0.4, and of the low-permeable layer is 0.8).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187912MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118187912MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>cumulative oil production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187912MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118187912MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>initial oil saturation</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr4">The averaged equations were also tested at one of the fields in West Siberia and Kazakhstan. Figure 3 shows the locations of the wells in the selected area, as well as the map of the average water saturation of the reservoir, and Figure 4 shows the estimated functions of cumulative oil production versus time. As can be seen from Figure 4, the results on the actual site also show a good match. This means that the equations (2) can be used to model the development of oil fields.</anchoringText>
+<image-wrap id="102118187912MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118187912MS_i_3.tif" id="ImgLink-3" />
+<caption>A map of thickness-averaged water-saturation for a reservoir section of one of the fields in West Siberia.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>A map of thickness-averaged water-saturation for a reservoir section of one of the fields in West Siberia.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr5">The averaged equations were also tested at one of the fields in West Siberia and Kazakhstan. Figure 3 shows the locations of the wells in the selected area, as well as the map of the average water saturation of the reservoir, and Figure 4 shows the estimated functions of cumulative oil production versus time. As can be seen from Figure 4, the results on the actual site also show a good match. This means that the equations (2) can be used to model the development of oil fields.</anchoringText>
+<image-wrap id="102118187912MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118187912MS_i_4.tif" id="ImgLink-4" />
+<caption>Cumulative oil production vs. time for the site of one of the fields in West Siberia.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Cumulative oil production vs. time for the site of one of the fields in West Siberia.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr6">The results of ranking the sites by the CWF performance (using the η parameter) for this field obtained using a simulator and using an analytical solution, are shown in Figure 5. The maximum values of the η parameter were used, which were determined as a result of the variation of the period and the duration of the cyclic stimulation. It can be seen that although the η parameter values simulated and estimated using the proposed method do not coincide, the trends of their decrease are qualitatively similar. This makes it possible, with the help of an analytical solution, to calculate and select almost instantly 10-20% of the best from the set of all options, and then to search for the best one among them already with the help of a simulator. In practical cases, reservoir parameters are often known with not very good accuracy.</anchoringText>
+<image-wrap id="102118187912MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118187912MS_i_5.tif" id="ImgLink-5" />
+<caption>Ranking of sites based on the normalized performance of cyclic waterflooding, performed with the help of the proposed express methodology and the flow simulator.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Ranking of sites based on the normalized performance of cyclic waterflooding, performed with the help of the proposed express methodology and the flow simulator.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr7">Based on the results obtained at this stage, a number of promising areas were selected. One of these sites was recommended for the CWF implementation. Figure 6 shows the oil production profile before and after CWF. In order to observe the effect from the CWF, Figure 6 has the Kambarov's displacement characteristic [8] plotted on it. It can be seen that the CWF application led to a significant increase in oil recovery, since the magnitude of the effect was about 160%. This can be explained by the fact that the values of the water cut in the producing wells were about 98%.</anchoringText>
+<image-wrap id="102118187912MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118187912MS_i_6.tif" id="ImgLink-6" />
+<caption>The oil production profile in terms of cumulative oil production Qo – back cumulative production of liquid 1/Ql for one of the fields of Western Siberia. The thick line indicates the Kambarov's displacement characteristic (Qo = A + B/Ql).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>The oil production profile in terms of cumulative oil production Qo – back cumulative production of liquid 1/Ql for one of the fields of Western Siberia. The thick line indicates the Kambarov's displacement characteristic (Qo = A + B/Ql).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="10" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr8">Figure 7 shows the scatter plot between the actual and estimated values of the normalized efficiency (the ratio of the value for the well to the maximum value of all values for the wells under consideration). As a comparison, similar functions are given for ∇ and the Lorentz factor. Figure 8 shows the possibility to estimate the optimum period of pressure fluctuations in injection wells. It can be seen that the function of the CWF performance and the stimulation period has its maximum. The maximum CWF performance depends here from the parameters of the reservoir and the development system.</anchoringText>
+<image-wrap id="102118187912MS-Img_SPi-7">
+<label>Figure 7</label>
+<imageLink type="mediaResource" href="102118187912MS_i_7.tif" id="ImgLink-7" />
+<caption>A comparison of cyclic waterflood performance indicators (for wells), obtained on the basis of various techniques on a section of one of the Western Siberia fields.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>A comparison of cyclic waterflood performance indicators (for wells), obtained on the basis of various techniques on a section of one of the Western Siberia fields.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187912MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118187912MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Lorentz factor</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187912MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118187912MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Permeability contrast</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187912MS-Img_SPi-7c">
+<imageLink type="mediaResource" href="102118187912MS_i_7c.tif" id="ImgLink-7c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Estimated values of the normalised cyclic waterflooding efficiency</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr9">Figure 7 shows the scatter plot between the actual and estimated values of the normalized efficiency (the ratio of the value for the well to the maximum value of all values for the wells under consideration). As a comparison, similar functions are given for ∇ and the Lorentz factor. Figure 8 shows the possibility to estimate the optimum period of pressure fluctuations in injection wells. It can be seen that the function of the CWF performance and the stimulation period has its maximum. The maximum CWF performance depends here from the parameters of the reservoir and the development system.</anchoringText>
+<image-wrap id="102118187912MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118187912MS_i_8.tif" id="ImgLink-8" />
+<caption>A comparison of the CWF performance sensitivity to the cycle period obtained with the help of the proposed method for two wells in one of the Western Siberia fields.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>A comparison of the CWF performance sensitivity to the cycle period obtained with the help of the proposed method for two wells in one of the Western Siberia fields.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr10">The reservoir area is divided into cells, i.e. the control volumes that are divided into internal and boundary ones. The internal control volumes contain real wells, and the boundary volumes contain fictitious wells that simulate the reservoir contour (Figure B1). Thus, each well is connected only to wells located in opposite corners of the associated control volumes [7].</anchoringText>
+<image-wrap id="102118187912MS-Img_SPi-9">
+<label>Figure B1 </label>
+<imageLink type="mediaResource" href="102118187912MS_i_9.tif" id="ImgLink-9" />
+<caption>A plot of connections between the <i>i</i>-th well and neighboring wells. The control volumes, inside which the oil is displaced by water, are color-highlighted.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>B1</caption-order>
+<caption-text>A plot of connections between the i-th well and neighboring wells. The control volumes, inside which the oil is displaced by water, are color-highlighted.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

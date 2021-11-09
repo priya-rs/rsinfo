@@ -1,0 +1,1441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191834MS.txt" extractionDate="2021-03-31T17:07:21Z">
+<doi>10.2118/191834-MS</doi>
+<pii>10.2118/191834-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="2" table-order="1" data-type-order="1">
+<table-wrap id="102118191834MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Following table# 1 shows Analysis performed by different disciplines and tools used </anchoringText>
+<caption>
+</caption>
+<formatted-caption />
+<table id="102118191834MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Disciplines</th>
+<th valign="top" align="center">Analisys</th>
+<th valign="top" align="center">Tools</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">G&amp;G</td>
+<td valign="top" align="left">Earth modeling; Seismic; Petrophisical analysis; Uncertainty Management Plan; Landing Zone</td>
+<td valign="top" align="left">UMP</td>
+</tr>
+<tr>
+<td valign="top" align="left">Reservoir &amp; Production Eng.</td>
+<td valign="top" align="left">Production optimization; interference analysis; rate transient analysis</td>
+<td valign="top" align="left">Numerical Similator; <br />Surveillance; <br />RTA,</td>
+</tr>
+<tr>
+<td valign="top" align="left">Drilling and Completions teams</td>
+<td valign="top" align="left">Hydraulic fracture modeling; Benchmarking Analysis</td>
+<td valign="top" align="left">Analog and Competitor data</td>
+</tr>
+<tr>
+<td valign="top" align="left">Decision and Economic Evaluation</td>
+<td valign="top" align="left">Design of experiments; <br />Portfolio Analisrs; <br />Decision and Economic analysis; <br />Multivariate analysis</td>
+<td valign="top" align="left">DOE; PAT; DAT</td>
+</tr>
+<tr>
+<td valign="top" align="left">Cost assurance process</td>
+<td valign="top" align="left">Cost Analysys</td>
+<td valign="top" align="left">Operating expenses<br />Facilities, drilling and completion cost in a Pad Basis.</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="5" table-order="2" data-type-order="5">
+<table-wrap id="102118191834MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">In areas with a lot of data, a proper selection of wells to be study plus static and dynamic data to be used in Rate transient analysis to calculate fracture half-length, permeability and fracture conductivity dimensionless are essential for model calibration and to calculate production forecast cases using analytical model and P50 values from table 2.</anchoringText>
+<label>Table 2</label>
+<caption>Completion results from selected wells with similar completions design and inputs – Example</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Completion results from selected wells with similar completions design and inputs – Example</caption-text>
+</formatted-caption>
+<table id="102118191834MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">
+</th>
+<th align="center">well identification</th>
+<th align="center">
+</th>
+<th align="center">1</th>
+<th align="center">2</th>
+<th align="center">3</th>
+<th align="center">4</th>
+<th align="center">5</th>
+<th valign="top" align="center">Average (per 1000) feet</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">G&amp;G Imputs</td>
+<td valign="bottom" align="left">
+<b>Reservoir </b>
+<b>Pressure</b>
+</td>
+<td valign="bottom" align="left">
+<b>psia</b>
+</td>
+<td valign="bottom" align="right">5066</td>
+<td valign="bottom" align="right">5070</td>
+<td valign="bottom" align="right">5031</td>
+<td valign="bottom" align="right">4847</td>
+<td valign="bottom" align="right">4982</td>
+<td valign="bottom" align="center" bgcolor="#FFFF00">4999.2</td>
+</tr>
+<tr>
+<td valign="top" align="left">G&amp;G Imputs</td>
+<td valign="top" align="left">
+<b>TVD</b>
+</td>
+<td valign="top" align="left">
+<b>ft</b>
+</td>
+<td valign="top" align="right">8300</td>
+<td valign="top" align="right">8395</td>
+<td valign="top" align="right">8395</td>
+<td valign="top" align="right">8078</td>
+<td valign="top" align="right">8283</td>
+<td valign="top" align="center" bgcolor="#FFFF00">8290.2</td>
+</tr>
+<tr>
+<td align="left">G&amp;G Imputs</td>
+<td align="left">
+<b>Gradient</b>
+</td>
+<td align="left">
+<b>psi/ft</b>
+</td>
+<td valign="bottom" align="right">0.6</td>
+<td valign="bottom" align="right">0.6</td>
+<td valign="bottom" align="right">0.6</td>
+<td valign="bottom" align="right">0.6</td>
+<td valign="bottom" align="right">0.6</td>
+<td valign="bottom" align="center" bgcolor="#FFFF00">0.6</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">G&amp;G Imputs</td>
+<td valign="bottom" align="left">
+<b>Reservoir </b>
+<b>Temp</b>
+</td>
+<td valign="bottom" align="left">
+<b>ft</b>
+</td>
+<td valign="bottom" align="right">170</td>
+<td valign="bottom" align="right">170</td>
+<td valign="bottom" align="right">170</td>
+<td valign="bottom" align="right">170</td>
+<td valign="bottom" align="right">170</td>
+<td valign="bottom" align="center" bgcolor="#FFFF00">170.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">D&amp;C</td>
+<td valign="bottom" align="left">
+<b>Length</b>
+</td>
+<td valign="bottom" align="left">
+<b>ft</b>
+</td>
+<td valign="bottom" align="right">2703</td>
+<td valign="bottom" align="right">2300</td>
+<td valign="bottom" align="right">4102</td>
+<td valign="bottom" align="right">3833</td>
+<td valign="bottom" align="right">4668</td>
+<td valign="bottom" align="center" bgcolor="#FFFF00">3521.2</td>
+</tr>
+<tr>
+<td valign="top" align="left">D&amp;C</td>
+<td valign="top" align="left">
+<b>Fractures</b>
+</td>
+<td valign="top" align="left">
+<b>-</b>
+</td>
+<td valign="top" align="right">30</td>
+<td valign="top" align="right">27</td>
+<td valign="top" align="right">45</td>
+<td valign="top" align="right">42</td>
+<td valign="top" align="right">51</td>
+<td valign="top" align="center" bgcolor="#FFFF00">39.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">D&amp;C</td>
+<td valign="top" align="left">
+<b>Fractures/1000'</b>
+</td>
+<td valign="top" align="left">
+</td>
+<td align="right">11</td>
+<td align="right">12</td>
+<td align="right">11</td>
+<td align="right">11</td>
+<td align="right">11</td>
+<td align="center" bgcolor="#FFFF00">11.1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">G&amp;G Imputs</td>
+<td valign="bottom" align="left">
+<b>Gas Saturation</b>
+</td>
+<td valign="bottom" align="left">
+<b>%</b>
+</td>
+<td valign="bottom" align="right">0.5</td>
+<td valign="bottom" align="right">0.5</td>
+<td valign="bottom" align="right">0.5</td>
+<td valign="bottom" align="right">0.5</td>
+<td valign="bottom" align="right">0.5</td>
+<td valign="bottom" align="center" bgcolor="#FFFF00">0.5</td>
+</tr>
+<tr>
+<td align="left">G&amp;G Imputs</td>
+<td align="left">
+<b>Porosity</b>
+</td>
+<td align="left">
+<b>%</b>
+</td>
+<td align="right">7.8</td>
+<td align="right">7.8</td>
+<td align="right">8.0</td>
+<td align="right">8.0</td>
+<td align="right">7.6</td>
+<td align="center" bgcolor="#FFFF00">7.9</td>
+</tr>
+<tr>
+<td valign="top" align="left">G&amp;G Imputs</td>
+<td valign="top" align="left">
+<b>Langmuir </b>
+<b>Storage(VLS)</b>
+</td>
+<td valign="top" align="left">
+<b>sef/ton</b>
+</td>
+<td valign="top" align="right">65</td>
+<td valign="top" align="right">65</td>
+<td valign="top" align="right">71</td>
+<td valign="top" align="right">71</td>
+<td valign="top" align="right">59</td>
+<td valign="bottom" align="center" bgcolor="#FFFF00">66.2</td>
+</tr>
+<tr>
+<td align="left">G&amp;G Imputs</td>
+<td align="left">
+<b>Net Pay</b>
+</td>
+<td align="left">
+<b>feet</b>
+</td>
+<td valign="bottom" align="right">200</td>
+<td valign="bottom" align="right">200</td>
+<td valign="bottom" align="right">200</td>
+<td valign="bottom" align="right">200</td>
+<td valign="bottom" align="right">200</td>
+<td valign="bottom" align="center" bgcolor="#FFFF00">200.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">RTA Output</td>
+<td valign="bottom" align="left">
+<b>OG IP</b>
+</td>
+<td valign="bottom" align="left">
+<b>BCF</b>
+</td>
+<td valign="bottom" align="right">8.3</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="bottom" align="center" bgcolor="#FFFF00">11.0</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">RTA Output</td>
+<td valign="bottom" align="left">
+<b>Area</b>
+</td>
+<td valign="bottom" align="left">
+<b>Acres</b>
+</td>
+<td valign="bottom" align="right">62.0</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="bottom" align="center" bgcolor="#FFFF00">74.8</td>
+</tr>
+<tr>
+<td valign="top" align="left">RTA Output</td>
+<td valign="top" align="left">
+<b>OGIP/Section</b>
+</td>
+<td valign="top" align="left">
+<b>BCF</b>
+</td>
+<td valign="top" align="right">85.7</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="center" bgcolor="#FFFF00">94.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">RTA Output</td>
+<td valign="top" align="left">
+<b>OGIP/acre</b>
+</td>
+<td valign="top" align="left">
+<b>MMCF</b>
+</td>
+<td valign="top" align="right">133.9</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="center" bgcolor="#FFFF00">146.8</td>
+</tr>
+<tr>
+<td valign="top" align="left">RTA Output</td>
+<td valign="top" align="left">
+<b>EUR</b>
+</td>
+<td valign="top" align="left">
+<b>BCF</b>
+</td>
+<td valign="top" align="right">4.5</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="center" bgcolor="#FFFF00">5.8</td>
+</tr>
+<tr>
+<td valign="top" align="left">RTA Output</td>
+<td valign="top" align="left">
+<b>EUR/1000'</b>
+</td>
+<td valign="top" align="left">
+<b>BCF/ft</b>
+</td>
+<td valign="top" align="right">1.7</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="center" bgcolor="#FFFF00">1.7</td>
+</tr>
+<tr>
+<td valign="top" align="left">RTA Output</td>
+<td valign="top" align="left">
+<b>Recovery </b>
+<b>Factor</b>
+</td>
+<td valign="top" align="left">
+<b>-</b>
+</td>
+<td valign="top" align="right">0.5</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="center" bgcolor="#FFFF00">0.5</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">RTA Output</td>
+<td valign="bottom" align="left">
+<b>Fed</b>
+</td>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="right">377.0</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="bottom" align="center" bgcolor="#FFFF00">216.6</td>
+</tr>
+<tr>
+<td valign="top" align="left">RTA Output</td>
+<td valign="top" align="left">
+<b>Xf</b>
+</td>
+<td valign="top" align="left">
+<b>ft</b>
+</td>
+<td valign="top" align="right">290.0</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="center" bgcolor="#FFFF00">245.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">RTA Output</td>
+<td valign="top" align="left">
+<b>Perm</b>
+</td>
+<td valign="top" align="left">
+<b>nD</b>
+</td>
+<td valign="top" align="right">42.0</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="center" bgcolor="#FFFF00">54.0</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="6" table-order="3" data-type-order="7">
+<table-wrap id="102118191834MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Table 3 is escential to select # of fractures to be used in step 4. Table shows value drivers against distance between fractures.</anchoringText>
+<label>Table 3</label>
+<caption>Economic analysis example. In that case, water transportation cost was reduced, supporting closer fractures cases.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Economic analysis example. In that case, water transportation cost was reduced, supporting closer fractures cases.</caption-text>
+</formatted-caption>
+<table id="102118191834MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Value Driver</th>
+<th valign="bottom" align="center">Welth lengh Thousands (ft)</th>
+<th colspan="9" valign="top" align="center">Distance between fracture (ft)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="7" valign="top" align="left">Discount investment ratio (10 %)</td>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="center">100</td>
+<td valign="top" align="center">91</td>
+<td valign="top" align="center">83</td>
+<td valign="top" align="center">71</td>
+<td valign="top" align="center">67</td>
+<td valign="top" align="center">56</td>
+<td valign="top" align="center">48</td>
+<td valign="top" align="center">42</td>
+<td valign="top" align="center">30</td>
+</tr>
+<tr>
+<td align="center">3500</td>
+<td align="center">1.11</td>
+<td align="center">1.11</td>
+<td align="center">1.12</td>
+<td align="center">1.13</td>
+<td align="center">1.14</td>
+<td align="center">1.15</td>
+<td align="center">1.16</td>
+<td align="center">
+<b>1.17</b>
+</td>
+<td align="center">1.15</td>
+</tr>
+<tr>
+<td align="center">4000</td>
+<td align="center">1.18</td>
+<td align="center">1.19</td>
+<td align="center">1.20</td>
+<td align="center">1.21</td>
+<td align="center">1.22</td>
+<td align="center">1.23</td>
+<td align="center">
+<b>1.24</b>
+</td>
+<td align="center">1.25</td>
+<td align="center">1.23</td>
+</tr>
+<tr>
+<td valign="top" align="center">4500</td>
+<td align="center">1.28</td>
+<td valign="top" align="center">1.29</td>
+<td valign="top" align="center">1.30</td>
+<td valign="top" align="center">1.31</td>
+<td valign="top" align="center">1.32</td>
+<td valign="top" align="center">1.33</td>
+<td valign="top" align="center">
+<b>1.34</b>
+</td>
+<td valign="top" align="center">1.33</td>
+<td valign="top" align="center">1.30</td>
+</tr>
+<tr>
+<td valign="top" align="center">5000</td>
+<td valign="top" align="center">1.37</td>
+<td valign="top" align="center">1.38</td>
+<td valign="top" align="center">1.39</td>
+<td valign="top" align="center">1.40</td>
+<td valign="top" align="center">1.41</td>
+<td valign="top" align="center">
+<b>1.42</b>
+</td>
+<td valign="top" align="center">1.41</td>
+<td valign="top" align="center">1.39</td>
+<td valign="top" align="center">1.36</td>
+</tr>
+<tr>
+<td valign="top" align="center">5500</td>
+<td valign="top" align="center">1.46</td>
+<td valign="top" align="center">1.47</td>
+<td valign="top" align="center">1.49</td>
+<td valign="top" align="center">1.50</td>
+<td valign="top" align="center">1.51</td>
+<td valign="top" align="center">
+<b>1.52</b>
+</td>
+<td valign="top" align="center">1.50</td>
+<td valign="top" align="center">1.49</td>
+<td valign="top" align="center">1.46</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">6000</td>
+<td valign="bottom" align="center">1.56</td>
+<td valign="bottom" align="center">1.58</td>
+<td valign="bottom" align="center">1.59</td>
+<td valign="bottom" align="center">1.60</td>
+<td valign="bottom" align="center">1.61</td>
+<td valign="bottom" align="center">
+<b>1.63</b>
+</td>
+<td valign="bottom" align="center">1.61</td>
+<td valign="bottom" align="center">1.59</td>
+<td valign="bottom" align="center">1.56</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="8" table-order="4" data-type-order="11">
+<table-wrap id="102118191834MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">A homogeneous reservoir without natural fractures was proposed to be numerically simulated by drilling a defined number of horizontal wells. Fig. #7 describes two extreme cases for reservoir simulation. Case 1: minimum amount of horizontal wells (4), spaced 1000ft, and case 5: maximum amount of horizontal wells (8), spaced 500ft. The other 3 cases are represented in Table# 4. Completion designs were assumed at 3 clusters per stage assuming cluster spacing of 60, 80 &amp;100ft.</anchoringText>
+<label>Table 4</label>
+<caption>Model inputs example</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Model inputs example</caption-text>
+</formatted-caption>
+<table id="102118191834MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Reservoir Assumption</th>
+<th valign="top" align="left" />
+<th valign="top" align="left">Well fract Assumptions</th>
+<th valign="top" align="left" />
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Res. Press, psia</td>
+<td valign="top" align="right">5000</td>
+<td valign="top" align="left">Lateral length ft</td>
+<td valign="bottom" align="right">6000</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Res Temp F</td>
+<td valign="bottom" align="right">160</td>
+<td valign="bottom" align="left">Cluster spacing</td>
+<td valign="bottom" align="right">50</td>
+</tr>
+<tr>
+<td valign="top" align="left">Reservoir Height</td>
+<td valign="bottom" align="right">200</td>
+<td valign="top" align="left">% of contribution cluster</td>
+<td valign="top" align="right">70</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Porosity height</td>
+<td valign="bottom" align="right">0.103</td>
+<td valign="bottom" align="left">Fract height</td>
+<td valign="bottom" align="right">variable</td>
+</tr>
+<tr>
+<td valign="top" align="left">Water saturation, SW</td>
+<td valign="top" align="right">0.3</td>
+<td valign="top" align="left">Fracture half lengh</td>
+<td valign="top" align="right">250</td>
+</tr>
+<tr>
+<td valign="top" align="left">Perm,nd</td>
+<td valign="top" align="right">250</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="right">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>PVT Assumption</b>
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="bottom" align="left">
+<b>Fracture assumptions</b>
+</td>
+<td valign="top" align="right">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Gas Gravity</td>
+<td valign="top" align="right">0.57</td>
+<td valign="top" align="left">Aperture,ft</td>
+<td valign="top" align="right">0.0125</td>
+</tr>
+<tr>
+<td valign="top" align="left">Gas FVF, RB/RB/MSCF</td>
+<td valign="top" align="right">0.636</td>
+<td valign="top" align="left">Perm, md</td>
+<td valign="top" align="right">1900</td>
+</tr>
+<tr>
+<td valign="top" align="left">Vise, cp</td>
+<td valign="top" align="right">0.029</td>
+<td valign="top" align="left">Porosity, frac</td>
+<td valign="bottom" align="right">1</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="left">Fed</td>
+<td valign="top" align="right">380</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>Absorption Assumptions</b>
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="right">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Langmuir Volume ,scf/ton</td>
+<td align="right">120</td>
+<td valign="top" align="left">
+<b>Abandonment</b>
+</td>
+<td valign="top" align="right">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Langmuir Pres</td>
+<td valign="bottom" align="right">500</td>
+<td valign="bottom" align="left">Press</td>
+<td valign="bottom" align="right">300</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="9" table-order="5" data-type-order="14">
+<table-wrap id="102118191834MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">Results from two simplified commercial numerical simulators model (both single layer model) are acceptable comparing with Intersect (IX)(five layer model) for dry gas example(see table 5). Therefore, they are good and faster tools to use for simple models and quick analyses.</anchoringText>
+<label>Table 5</label>
+<caption>Simple dry gas model comparison</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Simple dry gas model comparison</caption-text>
+</formatted-caption>
+<table id="102118191834MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th colspan="4" valign="top" align="left">Overlaping Resuis Comparison</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Spacing(ft)</td>
+<td valign="bottom" align="right">
+<i>667</i>
+</td>
+<td valign="bottom" align="right">
+<i>667</i>
+</td>
+<td valign="bottom" align="right">
+<i>667</i>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Fracture half lengh</td>
+<td valign="top" align="right">
+<i>275</i>
+</td>
+<td valign="top" align="right">
+<i>350</i>
+</td>
+<td valign="top" align="right">
+<i>400</i>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Robust numerical</b>
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>simulator</b>
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">EUR(BCF/1000ft)(well)</td>
+<td valign="bottom" align="right">
+<i>1.28</i>
+</td>
+<td valign="top" align="right">
+<i>1.30</i>
+</td>
+<td valign="top" align="right">
+<i>1.34</i>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>Simplified version 1</b>
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">EUR(BCF/1000ft)(well)</td>
+<td valign="top" align="right">
+<i>1.33</i>
+</td>
+<td valign="top" align="right">
+<i>1.39</i>
+</td>
+<td valign="top" align="right">
+<i>*</i>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Difference</td>
+<td valign="bottom" align="right">
+<i>-4%</i>
+</td>
+<td valign="bottom" align="right">
+<i>-7%</i>
+</td>
+<td valign="bottom" align="right">
+<i>N/A</i>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>Simplified version 2</b>
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">EUR(BCF/1000ft)(well)</td>
+<td valign="top" align="right">1.37</td>
+<td valign="top" align="right">1.41</td>
+<td valign="top" align="right">1.44</td>
+</tr>
+<tr>
+<td valign="top" align="left">Difference</td>
+<td valign="top" align="right">-7%</td>
+<td valign="top" align="right">
+<i>-8%</i>
+</td>
+<td valign="top" align="right">-7%</td>
+</tr>
+<tr>
+<td colspan="2" valign="bottom" align="left">Note: in simplified version 1 XF</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">=667/2=333.5</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="11" table-order="6" data-type-order="18">
+<table-wrap id="102118191834MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6">In order to perform a DOE using Placket Burman design, it is necessary to choose the variables, which are called factors or parameters that in this case were selected in point 3. A range of variability must be set for each variable. The number of necessary runs to assess all production forecast cases is restricted and results are showed in the DOE table 6.</anchoringText>
+<label>Table 6</label>
+<caption>DOE table for 8 variables</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>6</caption-order>
+<caption-text>DOE table for 8 variables</caption-text>
+</formatted-caption>
+<table id="102118191834MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Run#</th>
+<th valign="bottom" align="center">Lateral Spacing</th>
+<th valign="bottom" align="center">Cluster Spacing</th>
+<th valign="bottom" align="center">Perm (k)</th>
+<th valign="bottom" align="center">Xf</th>
+<th valign="bottom" align="center">% Clusters</th>
+<th valign="bottom" align="center">Net Pay</th>
+<th valign="bottom" align="center">Φ</th>
+<th valign="bottom" align="center">p*</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="right">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">2</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+</tr>
+<tr>
+<td align="right">3</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+</tr>
+<tr>
+<td align="right">4</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+</tr>
+<tr>
+<td align="right">5</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">6</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+</tr>
+<tr>
+<td align="right">7</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">8</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+</tr>
+<tr>
+<td align="right">9</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">10</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">11</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">12</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+</tr>
+<tr>
+<td align="right">13</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+</tr>
+<tr>
+<td align="right">14</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+</tr>
+<tr>
+<td align="right">15</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">16</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+</tr>
+<tr>
+<td align="right">17</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">18</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+</tr>
+<tr>
+<td align="right">19</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">20</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">21</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">22</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+</tr>
+<tr>
+<td align="right">23</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+</tr>
+<tr>
+<td align="right">24</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td align="center" bgcolor="#FFCC99">-1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+<td valign="bottom" align="center" bgcolor="#CCFFCC">1</td>
+</tr>
+<tr>
+<td align="right">25</td>
+<td valign="bottom" align="center" bgcolor="#FFFFCC">0</td>
+<td valign="bottom" align="center" bgcolor="#FFFFCC">0</td>
+<td valign="bottom" align="center" bgcolor="#FFFFCC">0</td>
+<td valign="bottom" align="center" bgcolor="#FFFFCC">0</td>
+<td valign="bottom" align="center" bgcolor="#FFFFCC">0</td>
+<td valign="bottom" align="center" bgcolor="#FFFFCC">0</td>
+<td valign="bottom" align="center" bgcolor="#FFFFCC">0</td>
+<td valign="bottom" align="center" bgcolor="#FFFFCC">0</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="15" table-order="7" data-type-order="25">
+<table-wrap id="102118191834MS-tblwrp-7" content-type="structured">
+<anchoringText id="Ancr7">All probabilistic economic analysis results performed using DAT are summarized in Table 7. From the table, well and cluster spacing choices is highly dependent on selection and priorities of value drivers or value measure; DPIR(discount profit investment ratio), NPV(net present Value), and production lead to different conclusions. As it ws mentioned in 5.2, the use of the capital efficiency chart can help on decisions to be made.</anchoringText>
+<label>Table 7</label>
+<caption>Probabilistic analysis - Summary of results –Example</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Probabilistic analysis - Summary of results –Example</caption-text>
+</formatted-caption>
+<table id="102118191834MS-Tbl_SPi-7" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th colspan="6" valign="top" align="center">Uncertainties</th>
+</tr>
+<tr>
+<th valign="bottom" align="center">Value Measure</th>
+<th colspan="2" valign="bottom" align="center">Fracture half length</th>
+<th colspan="2" valign="bottom" align="center">Permeability</th>
+<th valign="bottom" align="center">Capex</th>
+<th valign="bottom" align="center">Price deck</th>
+</tr>
+<tr>
+<th valign="top" align="center" />
+<th valign="bottom" align="center">high</th>
+<th valign="bottom" align="center">low</th>
+<th valign="bottom" align="center">high</th>
+<th valign="bottom" align="center">low</th>
+<th valign="top" align="center" />
+<th valign="top" align="center" />
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">
+<b>DPIR</b>
+</td>
+<td valign="bottom" align="center">
+<b>1000</b>
+</td>
+<td valign="bottom" align="center">
+<b>800</b>
+</td>
+<td valign="bottom" align="center">
+<b>1000</b>
+</td>
+<td valign="bottom" align="center">
+<b>800</b>
+</td>
+<td valign="bottom" align="center">
+<b>1000</b>
+</td>
+<td valign="bottom" align="center">
+<b>1000</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+<b>70</b>
+</td>
+<td valign="top" align="center">
+<b>70</b>
+</td>
+<td valign="top" align="center">
+<b>70</b>
+</td>
+<td valign="top" align="center">
+<b>70</b>
+</td>
+<td valign="top" align="center">
+<b>70</b>
+</td>
+<td valign="top" align="center">
+<b>70</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<b>NPV</b>
+</td>
+<td valign="bottom" align="center">
+<b>800</b>
+</td>
+<td valign="bottom" align="center">
+<b>600</b>
+</td>
+<td valign="bottom" align="center">
+<b>600</b>
+</td>
+<td valign="bottom" align="center">
+<b>600</b>
+</td>
+<td valign="bottom" align="center">
+<b>600</b>
+</td>
+<td valign="bottom" align="center">
+<b>600</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>(MM$)</b>
+</td>
+<td valign="top" align="center">
+<b>50</b>
+</td>
+<td valign="top" align="center">
+<b>70</b>
+</td>
+<td valign="top" align="center">
+<b>50</b>
+</td>
+<td valign="top" align="center">
+<b>50</b>
+</td>
+<td valign="top" align="center">
+<b>50</b>
+</td>
+<td valign="top" align="center">
+<b>50</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<b>PAY OUT</b>
+</td>
+<td valign="bottom" align="center">
+<b>600</b>
+</td>
+<td valign="bottom" align="center">
+<b>800</b>
+</td>
+<td valign="bottom" align="center">
+<b>600</b>
+</td>
+<td valign="bottom" align="center">
+<b>600</b>
+</td>
+<td valign="bottom" align="center">
+<b>600</b>
+</td>
+<td valign="bottom" align="center">
+<b>600</b>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>years</b>
+</td>
+<td valign="bottom" align="center">
+<b>50</b>
+</td>
+<td valign="bottom" align="center">
+<b>50</b>
+</td>
+<td valign="bottom" align="center">
+<b>50</b>
+</td>
+<td valign="bottom" align="center">
+<b>30</b>
+</td>
+<td valign="bottom" align="center">
+<b>50</b>
+</td>
+<td valign="bottom" align="center">
+<b>50</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td colspan="3" valign="bottom" align="center">Values from decision nodes</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td align="center">
+<b>Well spacing</b>
+</td>
+<td valign="bottom" align="center">
+<b>1000</b>
+</td>
+<td valign="bottom" align="center">
+<b>800</b>
+</td>
+<td valign="bottom" align="center">
+<b>600</b>
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>Cluster spacing</b>
+</td>
+<td valign="bottom" align="center">
+<b>30</b>
+</td>
+<td valign="bottom" align="center">
+<b>50</b>
+</td>
+<td valign="bottom" align="center">
+<b>70</b>
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

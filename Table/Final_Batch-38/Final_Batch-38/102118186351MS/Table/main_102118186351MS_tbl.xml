@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118186351MS.txt" extractionDate="2021-03-26T15:24:50Z">
+<doi>10.2118/186351-MS</doi>
+<pii>10.2118/186351-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="2">
+<table-wrap id="102118186351MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">In the first phase of the project, a detailed study was conducted to evaluate the remaining oil volume in the RAZU field and to to identify the reservoir horizon that is most attractive for an ASP EOR development. In this study, a volumetric rankikng was applied to identify the reservoir horizon that is most attractive for EOR development. As shown in Table 1 below, the UZSD and MZSD comprise of over 70% of the total STOIIP in RAZU and are the most attractive targets for EOR application in in the field.</anchoringText>
+<label>Table 1</label>
+<caption>Percentage oil recovery and water cut from different RAZU reservoirs</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Percentage oil recovery and water cut from different RAZU reservoirs</caption-text>
+</formatted-caption>
+<table id="102118186351MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center" bgcolor="#548DD4">Horizon</th>
+<th valign="bottom" align="center" bgcolor="#548DD4">Portion of Total OOIP</th>
+<th valign="bottom" align="center" bgcolor="#548DD4">Oil Recovery Factor</th>
+<th valign="bottom" align="center" bgcolor="#548DD4">Water Cut</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">
+<b>UZSH</b>
+</td>
+<td valign="bottom" align="right">19.40%</td>
+<td valign="bottom" align="right">14.00%</td>
+<td valign="bottom" align="right">12.50%</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>UZSD</b>
+</td>
+<td valign="bottom" align="right">45.20%</td>
+<td valign="bottom" align="right">36.70%</td>
+<td valign="bottom" align="right">25.70%</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>MZSH</b>
+</td>
+<td valign="bottom" align="right">1.70%</td>
+<td valign="bottom" align="right">0.10%</td>
+<td valign="bottom" align="right">0.01%</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>MZSD</b>
+</td>
+<td valign="bottom" align="right">25.00%</td>
+<td valign="bottom" align="right">32.70%</td>
+<td valign="bottom" align="right">19.80%</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>LZSH</b>
+</td>
+<td valign="bottom" align="right">1.90%</td>
+<td valign="bottom" align="right">0.00%</td>
+<td valign="bottom" align="right">0.00%</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>LZSD</b>
+</td>
+<td valign="bottom" align="right">6.90%</td>
+<td valign="bottom" align="right">17.30%</td>
+<td valign="bottom" align="right">11.10%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="10" table-order="2" data-type-order="6">
+<table-wrap id="102118186351MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Table 2 below compares Corey function parameters derived from KOC Eclipse Model, Experimental SCAL data available and Shell analog database “RELATE”. Based on analysis done below, parameters from RELATE, KOC-history matched Eclipse model and KOC SCAL data were used to prepare input to sector model dynamic simulation. As seen from the Table below, for this phase of the modeling effort, the input to the dynamic model was predominantly based on the experimentally measured data from the field.</anchoringText>
+<label>Table 2</label>
+<caption>Relative permeability parameter Comparison from different sources</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Relative permeability parameter Comparison from different sources</caption-text>
+</formatted-caption>
+<table id="102118186351MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th align="center">Parameter</th>
+<th align="center">KOC Eclipse Model</th>
+<th align="center">SCAL data</th>
+<th align="center">RELATE© model</th>
+<th align="center">Simulation Model Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Water Corey exponent (Nw)</td>
+<td align="left">4</td>
+<td align="left">3</td>
+<td align="left">3.45</td>
+<td align="left">3</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Oil-Water Corey exponent (No)</td>
+<td align="left">3</td>
+<td align="left">3</td>
+<td align="left">2.95</td>
+<td align="left">3</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Connate water saturation (Swc)</td>
+<td align="left">0.15-0.25</td>
+<td align="left">0.1-0.2</td>
+<td align="left">0.05-0.25</td>
+<td align="left">0.15</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Residual oil to water (Sorw)</td>
+<td align="left">0.25</td>
+<td align="left">0.28-0.38</td>
+<td align="left">0.16</td>
+<td align="left">0.3</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Oil end point Relperm (Krow)</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Water end point Relperm (Krw)</td>
+<td align="left">0.38</td>
+<td align="left">0.2</td>
+<td align="left">0.5</td>
+<td align="left">0.2</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Gas Corey exponent (Ng)</td>
+<td align="left">1.25</td>
+<td align="left">2.5</td>
+<td align="left">2.28</td>
+<td align="left">2.5</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Oil-Gas Corey exponent (No)</td>
+<td align="left">6</td>
+<td align="left">2.5</td>
+<td align="left">4.65</td>
+<td align="left">2.5</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Oil end point Relperm (Krog)</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Gas end point relperm (Krg)</td>
+<td align="left">0.5-0.6</td>
+<td align="left">0.2</td>
+<td align="left">0.75</td>
+<td align="left">0.5</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="13" table-order="3" data-type-order="10">
+<table-wrap id="102118186351MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">In the pilot model, producers were constrained to maintain minimum BHP above bubble point pressure. Injectors were constrained to maintain maximum BHP below the design limit for fracture pressure. The reference case model constraints are summarized in Table 3 below.</anchoringText>
+<label>Table 3</label>
+<caption>Pilot sector model constraints</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Pilot sector model constraints</caption-text>
+</formatted-caption>
+<table id="102118186351MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center" bgcolor="#548DD4">Parameters</th>
+<th valign="bottom" align="center" bgcolor="#548DD4">Values</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Minimum Bottom Hole pressure (psi]</td>
+<td align="left">2500</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Water injection rate [bbl/day]</td>
+<td valign="bottom" align="left">1600</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Liquid production rate [bbl/day/wel&#x003C;</td>
+<td align="left">400</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Maximum injection pressure (psi]</td>
+<td valign="bottom" align="left">4000</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Wellbore skin</td>
+<td valign="bottom" align="left">5</td>
+</tr>
+<tr>
+<td align="left">Pattern type</td>
+<td valign="bottom" align="left">Inverted 5 spot (4 producers and 1 Injector]</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Pattern size</td>
+<td valign="bottom" align="left">1.5 Acre</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Water injection duration in pilot injector</td>
+<td align="left">1.5 years</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">ASP injection period</td>
+<td valign="bottom" align="left">3.5 months</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">ASP slug size</td>
+<td valign="bottom" align="left">0.3PV</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">ASP chase slug type</td>
+<td valign="bottom" align="left">Polymer flood</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="13" table-order="4" data-type-order="11">
+<table-wrap id="102118186351MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">All wells are vertical wells perforated in the entire Z46CH zone. ASP pilot injection sequence was modelled as shown in Table 4 below. The pre-flush brine injection was carried out for 1.5 years until the water cut in the model was above 90% and average remaining oil saturation was of the order of Sorw (i.e. ~30%). Following the pre-flush was 0.3 pore volume of ASP slug injection. The ASP slug was followed by polymer chase injection for 1.2 years. No attempt was made at tapering the polymer drive in this phase of the work.</anchoringText>
+<label>Table 4</label>
+<caption>ASP Pilot Injection Sequence</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>ASP Pilot Injection Sequence</caption-text>
+</formatted-caption>
+<table id="102118186351MS-Tbl_SPi-4" frame="hsides">
+<tbody>
+<tr>
+<td valign="bottom" bgcolor="#FFC100" align="left">
+<b>Pilot Stage</b>
+</td>
+<td valign="bottom" bgcolor="#C6D9F0" align="left">
+<b>Pre-Flush</b>
+</td>
+<td valign="bottom" bgcolor="#F9F99B" align="left">
+<b>ASP</b>
+</td>
+<td valign="bottom" bgcolor="#FCD4B5" align="left">
+<b>Polymer Chase</b>
+</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#FFC100" align="left">
+<b>Injection type</b>
+</td>
+<td valign="bottom" bgcolor="#C6D9F0" align="left">
+<b>Brine Injection</b>
+</td>
+<td valign="bottom" bgcolor="#F9F99B" align="left">
+<b>ASP Slug Injection</b>
+</td>
+<td valign="bottom" bgcolor="#FCD4B5" align="left">
+<b>Polymer Injection</b>
+</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#FFC100" align="left">
+<b>Injection Volume</b>
+</td>
+<td valign="bottom" bgcolor="#C6D9F0" align="left">
+<b>2.5 Pore Volume</b>
+</td>
+<td valign="bottom" bgcolor="#F9F99B" align="left">
+<b>0.3 Pore Volume</b>
+</td>
+<td valign="bottom" bgcolor="#FCD4B5" align="left">
+<b>2.5 pore volume</b>
+</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#FFC100" align="left">
+<b>Injection Duration</b>
+</td>
+<td valign="bottom" bgcolor="#C6D9F0" align="left">
+<b>1.5 years</b>
+</td>
+<td valign="bottom" bgcolor="#F9F99B" align="left">
+<b>0.3 years</b>
+</td>
+<td valign="bottom" bgcolor="#FCD4B5" align="left">
+<b>1.2 years</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="16" table-order="5" data-type-order="16">
+<table-wrap id="102118186351MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">The Dykstra Parsons coefficient, VDP is used to quantify the range of permeability heterogeneity that might be detrimental to the ASP process (Dykstra, H. and Parsons, R.L. 1950). For Z64CH layer in UZSD, VDP range of 0.3 to 0.8 was calculated from well logs of RA106, RA135, and RA263, representing mid, high, and low case properties as listed in Table 5 below. To evaluate the impact of permeability contrast on flood performance, the reference case sector model was populated with permeability of RA263 and RA135, respectively, to test the low and high case permeability contrast. The results of the analysis showed that the remaining oil saturation (ROS) in the sections of the UZSD that have been swept by water to date is in the 20% - 40% range.</anchoringText>
+<label>Table 5</label>
+<caption>Ranges of VDP values for UZSD, Z46CH layer</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Ranges of VDP values for UZSD, Z46CH layer</caption-text>
+</formatted-caption>
+<table id="102118186351MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th align="center">Wells</th>
+<th align="center">Average permeability (mD)</th>
+<th align="center">VDP (for continuous unit)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">RA263</td>
+<td align="center">500</td>
+<td align="center">0.8</td>
+</tr>
+<tr>
+<td align="center">RA106</td>
+<td align="center">775</td>
+<td align="center">0.5</td>
+</tr>
+<tr>
+<td align="center">RA135</td>
+<td align="center">2652</td>
+<td align="center">0.3</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="20" table-order="6" data-type-order="21">
+<table-wrap id="102118186351MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6">Table 6 below summarizes the ranges of key uncertainties tested using the simulation model.</anchoringText>
+<label>Table 6</label>
+<caption>Tornado parameters and their ranges</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Tornado parameters and their ranges</caption-text>
+</formatted-caption>
+<table id="102118186351MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th align="center" bgcolor="#C6D9F0">Key Uncertainty</th>
+<th align="center" bgcolor="#C6D9F0">Low Case</th>
+<th valign="bottom" align="center" bgcolor="#C6D9F0">Reference Case</th>
+<th align="center" bgcolor="#C6D9F0">High Case</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">End point relative permeability of water</td>
+<td align="left">0.2</td>
+<td align="left">0.2</td>
+<td align="left">0.5</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Residual oil to waterflood</td>
+<td valign="bottom" align="left">0.25</td>
+<td valign="bottom" align="left">0.3</td>
+<td valign="bottom" align="left">0.4</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Kv/Kh</td>
+<td valign="bottom" align="left">0.33</td>
+<td valign="bottom" align="left">0.79</td>
+<td valign="bottom" align="left">0.98</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Current average water saturation</td>
+<td valign="bottom" align="left">0.6</td>
+<td valign="bottom" align="left">0.5</td>
+<td valign="bottom" align="left">0.4</td>
+</tr>
+<tr>
+<td valign="top" align="left">Permeability contrast</td>
+<td valign="top" align="left">PERM Log of RA-0263</td>
+<td valign="bottom" align="left">Reference case Pilot location model</td>
+<td valign="top" align="left">PERM Log of RA-0135</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Residual oil to chemical</td>
+<td valign="bottom" align="left">0.1</td>
+<td valign="bottom" align="left">0.04</td>
+<td valign="bottom" align="left">0.02</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Average pressure drop/Year (psi/year]</td>
+<td align="left">39</td>
+<td align="left">16</td>
+<td align="left">5</td>
+</tr>
+<tr>
+<td align="left">Fluid drift</td>
+<td valign="bottom" align="left">Drift from West to East</td>
+<td align="left">No drift</td>
+<td align="left">No Drift</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="29" table-order="7" data-type-order="36">
+<table-wrap id="102118186351MS-tblwrp-7" content-type="structured">
+<anchoringText id="Ancr7">The modeling work led to the pilot design decisions as summarized in Table 7 below. Note that the parameter values shown in green are for the base reference case but the acceptable range of parameters for pilot implementation is shown in yellow (and green).</anchoringText>
+<label>Table 7</label>
+<caption>Summary of Pilot design decisions</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Summary of Pilot design decisions</caption-text>
+</formatted-caption>
+<table id="102118186351MS-Tbl_SPi-7" frame="hsides">
+<thead>
+<tr>
+<th colspan="7" valign="bottom" align="center" bgcolor="#C6D9F0">Pilot Design Decision Selection Parameters</th>
+</tr>
+<tr>
+<th valign="bottom" align="center" bgcolor="#ECF2E1">Polymer Viscosity (cP)</th>
+<th valign="bottom" align="center" bgcolor="#ECF2E1">Injection rate (bpd)</th>
+<th valign="bottom" align="center" bgcolor="#ECF2E1">Polymer Chase Duration</th>
+<th valign="bottom" align="center" bgcolor="#ECF2E1">Pattern size (Acres)</th>
+<th align="center" bgcolor="#ECF2E1">Pattern Type</th>
+<th valign="bottom" align="center" bgcolor="#ECF2E1">ASP Slug size (Pore volume fraction)</th>
+<th valign="bottom" align="center" bgcolor="#ECF2E1">Surfactant concentration (Mol %)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td bgcolor="#FFFF00" align="left">1</td>
+<td bgcolor="#FFC100" align="left">500</td>
+<td bgcolor="#FFC100" align="left">6 months</td>
+<td bgcolor="#FFC100" align="left">0.5</td>
+<td bgcolor="#FFC100" align="left">Regular 5-spot</td>
+<td valign="bottom" bgcolor="#FFC100" align="left">0.1</td>
+<td bgcolor="#FFC100" align="left">0.1x Base case</td>
+</tr>
+<tr>
+<td bgcolor="#00B04F" align="left">2</td>
+<td bgcolor="#FFFF00" align="left">1000</td>
+<td valign="bottom" bgcolor="#FFFF00" align="left">1 year</td>
+<td bgcolor="#FFFF00" align="left">1</td>
+<td valign="bottom" bgcolor="#00B04F" align="left">Inverted 5-spot</td>
+<td valign="bottom" bgcolor="#00B04F" align="left">0.3</td>
+<td valign="bottom" bgcolor="#00B04F" align="left">Base case</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#FFFF00" align="left">6</td>
+<td valign="bottom" bgcolor="#00B04F" align="left">1600</td>
+<td valign="bottom" bgcolor="#00B04F" align="left">1.2 years</td>
+<td bgcolor="#00B04F" align="left">1.5</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" bgcolor="#FFFF00" align="left">0.6</td>
+<td valign="bottom" bgcolor="#FFFF00" align="left">10x Base case</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#FFC100" align="left">10</td>
+<td valign="bottom" bgcolor="#FFFF00" align="left">2000</td>
+<td valign="bottom" bgcolor="#FFC100" align="left">2 years</td>
+<td valign="bottom" bgcolor="#FFFF00" align="left">2</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td bgcolor="#FFC100" align="left">5000</td>
+<td bgcolor="#FFC100" align="left">3 years</td>
+<td bgcolor="#FFC100" align="left">3</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td bgcolor="#FFC100" align="left">7.5</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#00B04F" align="left">
+</td>
+<td colspan="3" valign="bottom" align="left">Reference Case Design Selection</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#FFFF00" align="left">
+</td>
+<td colspan="3" valign="bottom" align="left">Acceptable Case Design Selection</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#FFC100" align="left">
+</td>
+<td colspan="3" valign="bottom" align="left">Risk Case Design Selection</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="29" table-order="8" data-type-order="37">
+<table-wrap id="102118186351MS-tblwrp-8" content-type="structured">
+<anchoringText id="Ancr8">The analysis for Pilot design led to the recommendations for the pilot as summarized in Table 8 below. These recommendations will change as the simulator is updated based on additional lab and field data as pilot activities progress. However, these recommendations support key decisions regarding the pilot e.g. how large a pattern size to choose, what type of pilot pattern to choose, what injection rates to use, what should be the ASP slug and polymer drive viscosity, when should the switch be made from pre-flush to ASP drive and how the duration of the polymer chase.</anchoringText>
+<label>Table 8</label>
+<caption>Pilot Design recommendations for RAZU ASP Pilot</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Pilot Design recommendations for RAZU ASP Pilot</caption-text>
+</formatted-caption>
+<table id="102118186351MS-Tbl_SPi-8" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" bgcolor="#C6D9F0" align="left">Design Parameter</th>
+<th valign="bottom" bgcolor="#C6D9F0" align="left">Recommendation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Pilot Type</td>
+<td valign="bottom" align="left">Inverted 5-spot</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Pattern Size</td>
+<td valign="bottom" align="left">1-2 Acres</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Injection rates</td>
+<td valign="bottom" align="left">1000-2000 bpd</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Polymer viscosities</td>
+<td valign="bottom" align="left">2-6 cP</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">ASP slug size</td>
+<td valign="bottom" align="left">0.3 PV</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Pre-flush duration</td>
+<td valign="bottom" align="left">1 - 1.5 Years [1.5 PV]</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Polymer chase duration</td>
+<td valign="bottom" align="left">1 - 1.5 Years [1 PVÌ</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="32" table-order="9" data-type-order="40">
+<table-wrap id="102118186351MS-tblwrp-9" content-type="structured">
+<anchoringText id="Ancr9">Based on the arrival time information for the injection fluid from the model, a logging and sampling schedule for the observation well Obs-1 is prescribed. The properties that need to be measured at this well are salinity and water saturation change. Table 9 below shows the recommended logging interval for Obs-1 based on the simulated arrival times of the pre-flush brine at this injection well.</anchoringText>
+<label>Table 9</label>
+<caption>Recommended logging interval for Obs-1 based on simulation model results.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Recommended logging interval for Obs-1 based on simulation model results.</caption-text>
+</formatted-caption>
+<table id="102118186351MS-Tbl_SPi-9" frame="hsides">
+<thead>
+<tr>
+<th bgcolor="#707070" align="left">Day</th>
+<th bgcolor="#707070" align="left">Log</th>
+<th valign="bottom" bgcolor="#707070" align="left">Log Type*(Straw Man)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left" bgcolor="#DBDBDB">-10</td>
+<td valign="bottom" align="left" bgcolor="#DBDBDB">
+<b>X</b>
+</td>
+<td valign="bottom" align="left" bgcolor="#DBDBDB">Tri- suit/ NMR</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" bgcolor="#ECF2E1">
+<b>0 Start</b>
+</td>
+<td valign="top" bgcolor="#ECF2E1" align="left">
+</td>
+<td valign="top" bgcolor="#ECF2E1" align="left">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" bgcolor="#DBDBDB">25</td>
+<td valign="bottom" align="left" bgcolor="#DBDBDB">
+<b>X</b>
+</td>
+<td valign="bottom" align="left" bgcolor="#DBDBDB">Tri- suit/ NMR</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" bgcolor="#ECF2E1">35</td>
+<td valign="bottom" align="left" bgcolor="#ECF2E1">
+<b>X</b>
+</td>
+<td valign="bottom" align="left" bgcolor="#ECF2E1">Tri- suit/ NMR</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" bgcolor="#DBDBDB">45</td>
+<td valign="bottom" align="left" bgcolor="#DBDBDB">
+<b>X</b>
+</td>
+<td valign="bottom" align="left" bgcolor="#DBDBDB">Tri- suit/ NMR</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" bgcolor="#ECF2E1">75</td>
+<td valign="bottom" align="left" bgcolor="#ECF2E1">
+<b>X</b>
+</td>
+<td valign="bottom" align="left" bgcolor="#ECF2E1">Tri- suit/ NMR</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" bgcolor="#DBDBDB">105</td>
+<td valign="bottom" align="left" bgcolor="#DBDBDB">
+<b>X</b>
+</td>
+<td valign="bottom" align="left" bgcolor="#DBDBDB">Tri- suit/ NMR</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" bgcolor="#ECF2E1">135</td>
+<td valign="bottom" align="left" bgcolor="#ECF2E1">
+<b>X</b>
+</td>
+<td valign="bottom" align="left" bgcolor="#ECF2E1">Tri- suit/ NMR</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" bgcolor="#DBDBDB">165</td>
+<td valign="bottom" align="left" bgcolor="#DBDBDB">
+<b>X</b>
+</td>
+<td valign="bottom" align="left" bgcolor="#DBDBDB">Tri- suit/ NMR</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

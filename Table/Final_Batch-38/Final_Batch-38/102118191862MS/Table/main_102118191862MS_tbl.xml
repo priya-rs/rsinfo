@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191862MS.txt" extractionDate="2021-03-31T09:54:09Z">
+<doi>10.2118/191862-MS</doi>
+<pii>10.2118/191862-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="6" table-order="1" data-type-order="7">
+<table-wrap id="102118191862MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">A N83E trend was identified on image logs, and N59W is the regional natural fracture description in the area (Wilson et al. 2016). Table 1 describes the two natural fracture sets. Vertical well image logs suggested open and healed natural fractures trending at N58E and N88E, respectively, and microseismic data also reveal that hydraulic fractures seem to follow the open natural fracture trend, and coincides with the maximum stress trend (Wilson et al. 2016).</anchoringText>
+<label>Table 1</label>
+<caption>Natural fracture distribution statistics for the model.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Natural fracture distribution statistics for the model.</caption-text>
+</formatted-caption>
+<table id="102118191862MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Property</th>
+<th valign="top" align="center">Length (ft)</th>
+<th valign="top" align="center">Orientation (degree)</th>
+<th valign="top" align="center">Spacing (ft)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Fracture set 1</td>
+<td valign="top" align="center">500</td>
+<td valign="top" align="center">83</td>
+<td valign="top" align="center">20</td>
+</tr>
+<tr>
+<td valign="top" align="center">Fracture set 2</td>
+<td valign="top" align="center">300</td>
+<td valign="top" align="center">59</td>
+<td valign="top" align="center">20</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

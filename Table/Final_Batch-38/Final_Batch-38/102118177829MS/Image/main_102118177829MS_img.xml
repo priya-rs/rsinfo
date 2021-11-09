@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118177829MS.txt" extractionDate="2021-03-16T17:01:39Z">
+<doi>10.2118/177829-MS</doi>
+<pii>10.2118/177829-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="4" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">An example that has been documented to demonstrate this point refers to the rate of divorce in the state of Maine (in the United States of America) between the years 2000 and 2009 that demonstrate almost a perfect correlation with per capita consumption of margarine in the United States. Although there is a perfect correlation between the two (Figure 1 shows a correlation of 0.993), it is highly doubtful that one has caused the other.</anchoringText>
+<image-wrap id="102118177829MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118177829MS_i_1.tif" id="ImgLink-1" />
+<caption>Good example of lack of relationship between correlation and causation: Divorce Rate in state of Maine highly correlates to per capita consumption of Margarine in the United States.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Good example of lack of relationship between correlation and causation: Divorce Rate in state of Maine highly correlates to per capita consumption of Margarine in the United States.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">As shown in Figure 2 every grid block from every run of the numerical reservoir simulation model generates a record that is used to train the SRM. In this figure the grid block shown in pink (and marked as Tier 0) is the target grid block. In every run, eventually every grid block in the numerical model becomes the target grid block. For example given the fact that six simulation runs were used to develop the SRM for this project, and that the model includes 2.5 million grid blocks, every single neural network is trained using a database that included 6 × 2.5 = 15 million records at every time step.</anchoringText>
+<image-wrap id="102118177829MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118177829MS_i_2.tif" id="ImgLink-2" />
+<caption>Every grid block in the model is used as a training record. All the neighboring grid blocks contribute to the model response of the target grid block. Every time step in a single run of the numerical simulation model that contains 2.5 million grid block generates 2.5 million records worth of information for training.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Every grid block in the model is used as a training record. All the neighboring grid blocks contribute to the model response of the target grid block. Every time step in a single run of the numerical simulation model that contains 2.5 million grid block generates 2.5 million records worth of information for training.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">The geologic model developed using a commercial software application included more than 21 million grid blocks. The geologic model was up-scaled to almost 2.5 million grid blocks to be used in the flow model. The model included two different PVT regions and 8 different rock types, 12 regions for the fluidin-place, multiple high permeability streaks, with the typical inter-well spacing of about 1 kilometer. Relative location of more than 500 wells that were modeled in this project are shown in Figure 3.</anchoringText>
+<image-wrap id="102118177829MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118177829MS_i_3.tif" id="ImgLink-3" />
+<caption>Well locations in the giant mature field in the UAE.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Well locations in the giant mature field in the UAE.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">The two production schemes of step-change (where production cap on each individual well increases by 500 barrels per day every few years) and continuous change (where production cap on each individual well increases slightly every month) as shown in Figure 4. These production schemes were used as the simulation runs number five and six. In the seventh simulation run that was designed as a blind run for the SRM validation all wells were producing against an operational constraint that was translated to a production cap of 3,000 barrels per day.</anchoringText>
+<image-wrap id="102118177829MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118177829MS_i_4.tif" id="ImgLink-4" />
+<caption>Change in production cap for each individual well as a function of time. These two production schemes were designed as used for the training purposes of the SRM.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Change in production cap for each individual well as a function of time. These two production schemes were designed as used for the training purposes of the SRM.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">Upon completion of the SRM we needed to check its accuracy. First we compared the results from the SRM with one of the runs that was used in the training. The comparison was made on a well by well basis and also when all the results from all the wells were summed to represent the production from the entire field. Figure 5 shows the results of this test for the entire field. This figure includes three graphs. The graph on the top shows the results of the oil production for the entire field. In this graph the annual oil production rate results generated by the SRM are shown by solid line while similar results from the numerical simulation model are shown using green circles.</anchoringText>
+<image-wrap id="102118177829MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118177829MS_i_5.tif" id="ImgLink-5" />
+<caption>Demonstrating the accuracy of the SRM. Figures show the SRM results (one of the six runs used for training and calibrating the SRM) against actual simulation runs -1500 BOPD production cap for individual wells. Results from individual wells are summed in order to calculate the results for the entire field.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Demonstrating the accuracy of the SRM. Figures show the SRM results (one of the six runs used for training and calibrating the SRM) against actual simulation runs -1500 BOPD production cap for individual wells. Results from individual wells are summed in order to calculate the results for the entire field.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">As was mentioned earlier, the results of the SRM are generated for each well individually. To show the results of the SRM on a well by well basis Figure 6 through Figure 8 are presented. These figures represent the accuracy of the SRM in generating results for the operational condition that it has not explicitly been trained on, also known as the blind test.</anchoringText>
+<image-wrap id="102118177829MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118177829MS_i_6.tif" id="ImgLink-6" />
+<caption>SRM’s blind validation test for Well #17. Results from the SRM (solid lines) and numerical simulation model (dots) for FBHP, GOR, WC and Oil rate versus time.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>SRM’s blind validation test for Well #17. Results from the SRM (solid lines) and numerical simulation model (dots) for FBHP, GOR, WC and Oil rate versus time.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">As was mentioned earlier, the results of the SRM are generated for each well individually. To show the results of the SRM on a well by well basis Figure 6 through Figure 8 are presented. These figures represent the accuracy of the SRM in generating results for the operational condition that it has not explicitly been trained on, also known as the blind test.</anchoringText>
+<image-wrap id="102118177829MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118177829MS_i_7.tif" id="ImgLink-7" />
+<caption>SRM’s blind validation test for Well #384. Results from the SRM (solid lines) and numerical simulation model (dots) for FBHP, GOR, WC and Oil rate versus time.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>SRM’s blind validation test for Well #384. Results from the SRM (solid lines) and numerical simulation model (dots) for FBHP, GOR, WC and Oil rate versus time.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">As was mentioned earlier, the results of the SRM are generated for each well individually. To show the results of the SRM on a well by well basis Figure 6 through Figure 8 are presented. These figures represent the accuracy of the SRM in generating results for the operational condition that it has not explicitly been trained on, also known as the blind test.</anchoringText>
+<image-wrap id="102118177829MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118177829MS_i_8.tif" id="ImgLink-8" />
+<caption>SRM’s blind validation test for Well #223. Results from the SRM (solid lines) and numerical simulation model (dots) for FBHP, GOR, WC and Oil rate versus time.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>SRM’s blind validation test for Well #223. Results from the SRM (solid lines) and numerical simulation model (dots) for FBHP, GOR, WC and Oil rate versus time.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">Figure 9 displays the results of the Oil rate, Gas Oil Ratio, and Water Cut for the entire field (for the blind simulation run) when the results generated by the SRM (solid lines) are compared with the similar results from the numerical simulation model (circles - dots). With the results of the validation run as displayed in Figure 6 through Figure 9 development of the SRM is judged to be satisfactory and the SRM can now be used for the purposes of optimizing the oil production from this field.</anchoringText>
+<image-wrap id="102118177829MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118177829MS_i_9.tif" id="ImgLink-9" />
+<caption>Demonstrating the accuracy of the SRM. Figures show the SRM results against the blind simulation run. Results from individual wells are summed in order to calculate the results for the entire field.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Demonstrating the accuracy of the SRM. Figures show the SRM results against the blind simulation run. Results from individual wells are summed in order to calculate the results for the entire field.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">In order to accomplish the objectives of this study, as was mentioned above, the model should be executed in a matter that would accommodate these dynamics. Figure 10 is the schematic diagram of the workflow that was used to implement the optimization for this study. This flow chart clearly demonstrate the type of challenges that a study like this imposes on the model being used as the objective function of an optimization routine.</anchoringText>
+<image-wrap id="102118177829MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118177829MS_i_10.tif" id="ImgLink-10" />
+<caption>Flow chart for optimizing the oil production rate from each individual well.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Flow chart for optimizing the oil production rate from each individual well.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">The original run that is performed and is shown using dashed lines in Figure 11 through Figure 14 demonstrates that each well may or may not be able to produce even the target production cap. The objective is to identify the set of choke settings that maximizes this production.</anchoringText>
+<image-wrap id="102118177829MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118177829MS_i_11.tif" id="ImgLink-11" />
+<caption>Oil production optimization of Well #78 using the SRM. “Original” versus “Optimized”. The graph on the bottom demonstrates that all shareholder’s guidelines are honored during the optimization process.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Oil production optimization of Well #78 using the SRM. “Original” versus “Optimized”. The graph on the bottom demonstrates that all shareholder’s guidelines are honored during the optimization process.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">The original run that is performed and is shown using dashed lines in Figure 11 through Figure 14 demonstrates that each well may or may not be able to produce even the target production cap. The objective is to identify the set of choke settings that maximizes this production.</anchoringText>
+<image-wrap id="102118177829MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118177829MS_i_12.tif" id="ImgLink-12" />
+<caption>Oil production optimization of Well #200 using the SRM. “Original” versus “Optimized”. The graph on the bottom demonstrates that all shareholder’s guidelines are honored during the optimization process.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Oil production optimization of Well #200 using the SRM. “Original” versus “Optimized”. The graph on the bottom demonstrates that all shareholder’s guidelines are honored during the optimization process.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">The original run that is performed and is shown using dashed lines in Figure 11 through Figure 14 demonstrates that each well may or may not be able to produce even the target production cap. The objective is to identify the set of choke settings that maximizes this production.</anchoringText>
+<image-wrap id="102118177829MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118177829MS_i_13.tif" id="ImgLink-13" />
+<caption>Oil production optimization of Well #536 using the SRM. “Original” versus “Optimized”. The graph on the bottom demonstrates that all shareholder’s guidelines are honored during the optimization process.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Oil production optimization of Well #536 using the SRM. “Original” versus “Optimized”. The graph on the bottom demonstrates that all shareholder’s guidelines are honored during the optimization process.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="20" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr14">The original run that is performed and is shown using dashed lines in Figure 11 through Figure 14 demonstrates that each well may or may not be able to produce even the target production cap. The objective is to identify the set of choke settings that maximizes this production.</anchoringText>
+<image-wrap id="102118177829MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118177829MS_i_14.tif" id="ImgLink-14" />
+<caption>Oil production optimization for the entire field using the SRM. “Original” versus “Optimized”. The graph on the bottom demonstrates that all shareholder’s guidelines are honored during the optimization process.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Oil production optimization for the entire field using the SRM. “Original” versus “Optimized”. The graph on the bottom demonstrates that all shareholder’s guidelines are honored during the optimization process.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="22" figure-order="15" data-type-order="15">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr15">Whether these wells benefit from a rate relaxation program may be contingent upon more factors than those considered in this study therefore caution is recommended when selecting these wells as candidates for rate relaxation. Finally, Cluster 4 wells are those identified as “Not a Candidate”. These wells are not recommended to be rate relaxed. Figure 15 shows the locations of all candidates in the field. The expected incremental oil production from the primary candidate wells are shown in Figure 16.</anchoringText>
+<image-wrap id="102118177829MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118177829MS_i_15.tif" id="ImgLink-15" />
+<caption>Map showing the location of all candidate wells for the rate relaxation program. Scenario LTP-FC</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Map showing the location of all candidate wells for the rate relaxation program. Scenario LTP-FC</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="23" figure-order="16" data-type-order="16">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr16">Whether these wells benefit from a rate relaxation program may be contingent upon more factors than those considered in this study therefore caution is recommended when selecting these wells as candidates for rate relaxation. Finally, Cluster 4 wells are those identified as “Not a Candidate”. These wells are not recommended to be rate relaxed. Figure 15 shows the locations of all candidates in the field. The expected incremental oil production from the primary candidate wells are shown in Figure 16.</anchoringText>
+<image-wrap id="102118177829MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118177829MS_i_16.tif" id="ImgLink-16" />
+<caption>Incremental Oil production (till year 2020) for the “Primary Candidates” for rate relaxation program wells. LTP-FC.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Incremental Oil production (till year 2020) for the “Primary Candidates” for rate relaxation program wells. LTP-FC.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="24" figure-order="17" data-type-order="17">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr17">Since Surrogate Reservoir Models (SRM) accurately reproduces the results of numerical simulation models, they can be effectively used for uncertainty quantification. In this study, a comprehensive uncertainty analysis is performed on all the wells that are identified as primary and secondary candidates as well as those that may or may not be a candidate. Figure 17 and Figure 18 are examples of uncertainty analysis performed on oil rate and water cut for two of the primary candidate wells.</anchoringText>
+<image-wrap id="102118177829MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118177829MS_i_17.tif" id="ImgLink-17" />
+<caption>Quantifying the uncertainties associated with the geological model using Monte Carlo Simulation method; Well “320”.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Quantifying the uncertainties associated with the geological model using Monte Carlo Simulation method; Well “320”.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="24" figure-order="18" data-type-order="18">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr18">Since Surrogate Reservoir Models (SRM) accurately reproduces the results of numerical simulation models, they can be effectively used for uncertainty quantification. In this study, a comprehensive uncertainty analysis is performed on all the wells that are identified as primary and secondary candidates as well as those that may or may not be a candidate. Figure 17 and Figure 18 are examples of uncertainty analysis performed on oil rate and water cut for two of the primary candidate wells.</anchoringText>
+<image-wrap id="102118177829MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118177829MS_i_18.tif" id="ImgLink-18" />
+<caption>Quantifying the uncertainties associated with the geological model using Monte Carlo Simulation method; Well “438”.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Quantifying the uncertainties associated with the geological model using Monte Carlo Simulation method; Well “438”.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

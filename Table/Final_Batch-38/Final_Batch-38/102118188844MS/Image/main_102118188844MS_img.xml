@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118188844MS.txt" extractionDate="2021-03-27T18:17:50Z">
+<doi>10.2118/188844-MS</doi>
+<pii>10.2118/188844-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure composite="true" composite-count="2" pdf-page="4" figure-order="1" data-type-order="2">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr4">The simulation results of NB 35-2 oil field shows that, compared with single huff and puff, multi-well simultaneous steam stimulation has larger gas-swept zone, high pressure and lower viscosity near the wellbore. The numerical results shows as Fig.1.</anchoringText>
+<image-wrap id="102118188844MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118188844MS_i_1.tif" id="ImgLink-1" />
+<caption>Simulation results comparison for single well injection and the multi-well simultaneous steam stimulation (a) Single well injection in sequence (b) Multi-well Simultaneous Steam Stimulation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Simulation results comparison for single well injection and the multi-well simultaneous steam stimulation (a) Single well injection in sequence (b) Multi-well Simultaneous Steam Stimulation</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188844MS-Img_SPi-1a">
+<imageLink type="mediaResource" href="102118188844MS_i_1a.tif" id="ImgLink-1a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Single well injection in sequence</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188844MS-Img_SPi-1b">
+<imageLink type="mediaResource" href="102118188844MS_i_1b.tif" id="ImgLink-1b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Multi-well Simultaneous Steam Stimulation</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="2" data-type-order="5">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr5">During field operation process, no gas channeling phenomenon occurred from the injection wells to adjacent wells, which can be observed from Casing Gas production curve of Adjacment well in Fig.2. That means no negative impact on the production wells was induced by the steam injection operation.</anchoringText>
+<image-wrap id="102118188844MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118188844MS_i_2.tif" id="ImgLink-2" />
+<caption>Casing Gas production curve of Adjacment well</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Casing Gas production curve of Adjacment well</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="3" data-type-order="6">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr6">As what is shown in Fig.3, for these two steam injection wells, their daily oil production rate are increased from 28.77 m3/d to 38.87m3/d, and 23.68 m3/d to 35.71 m3/d, respectively. According to the numerical simulation results, the predicted overall incremental oil production amount is about 5250 m3, and the period of validity is about 180 days.</anchoringText>
+<image-wrap id="102118188844MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118188844MS_i_3.tif" id="ImgLink-3" />
+<caption>Production curve of X1 and X2 before and after steam injection</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Production curve of X1 and X2 before and after steam injection</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

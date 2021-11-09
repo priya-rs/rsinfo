@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191986MS.txt" extractionDate="2021-03-29T19:12:17Z">
+<doi>10.2118/191986-MS</doi>
+<pii>10.2118/191986-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">A typical development strategy for an unconventional gas project with various phases of exploration, appraisal and full field development is shown below in Figure 1.</anchoringText>
+<image-wrap id="102118191986MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118191986MS_i_1.tif" id="ImgLink-1" />
+<caption>Development strategy of an unconventional play</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Development strategy of an unconventional play</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">The integrated simulation model is developed with pre-assessed and validated assumptions such as grid size, the property distribution, relative permeability assumptions, pvt model etc. Figure 2 below shows the impact of grid size on well trajectory and its associated production forecast. It is essential to review and validate technical assumptions and ensure they are agreed upon before embarking on a large-scale integrated model. Interal/external technical reviews must be conducted before initiating any integration studies. Another example of assumption and agreed workaround is outlined below.</anchoringText>
+<image-wrap id="102118191986MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118191986MS_i_2.tif" id="ImgLink-2" />
+<caption>Impact of Grid size on well trajectory</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Impact of Grid size on well trajectory</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Detailing analytics flesh out the backbone with pads, pipes, infrastructure, low point drains and high point vents. Since these items have an economic cost, it enables secondary analysis and subject matter expert review which can iteratively optimise and refine the network. The process is repeated until the final network is derived and agreed upon by the rest of the organisation. Figure 3 Ilustrates the GIS tool that was developed and used to integrate multiple discplines to derive final gathering layout.</anchoringText>
+<image-wrap id="102118191986MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118191986MS_i_3.tif" id="ImgLink-3" />
+<caption>Illustration of the GIS tool outling multiple constraints</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Illustration of the GIS tool outling multiple constraints</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">The detailed forecasting workflow is shown in Figure 4. A gathering network model is built using exports from GIS tool of the gathering hierarchy. Pressure sensitive forecasting is performed by the reservoir simulator using lift curves to approximate the backpressures imposed by the gas gathering system. This forecast covers the entire field life, including a multiple reservoir performance realisations (e.g. P50, high case, low case).</anchoringText>
+<image-wrap id="102118191986MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118191986MS_i_4.tif" id="ImgLink-4" />
+<caption>Integrated Modeling workflow</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Integrated Modeling workflow</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">Figure 5 below shows results in year 29 and 40. In the late life the reservoir simulator predicts less pressure than the gathering model by about 5%. This is due to a gathering line that lies on a steep topography and the lift curves used can't represent the pressures accurately. Hence these plots are very useful in identifying the limitations of assumptions and assess their impacts on the production forecast.</anchoringText>
+<image-wrap id="102118191986MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118191986MS_i_5.tif" id="ImgLink-5" />
+<caption>Comparison of simulator vs gathering model pressure drop</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Comparison of simulator vs gathering model pressure drop</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

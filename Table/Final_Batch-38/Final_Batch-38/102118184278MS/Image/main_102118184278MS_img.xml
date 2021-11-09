@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118184278MS.txt" extractionDate="2021-03-23T11:31:32Z">
+<doi>10.2118/184278-MS</doi>
+<pii>10.2118/184278-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr5">The case study was carried out on a gas field onshore Niger – Delta. The field is located in the eastern part of Northern Delta Depobelt, and in the north-eastern fringe of Niger Delta Basin. It lays onshore Nigeria (Inland Basin) in the northern-most part of the Niger Delta Depobelt which contains the Akata-Agbada Petroleum System. Structurally, the field reservoirs are typical simple four way closed roll-over anticlines formed at the downthrown side of a major North-West (NW) – South-East (SE) synthetic fault. The shallow reservoir is a four way dip closure; both intermediate and deep reservoirs are mostly four way dip closure assisted with a major fault. The top structure of the reservoir is shown in Fig. 1.</anchoringText>
+<image-wrap id="102118184278MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118184278MS_i_1.tif" id="ImgLink-1" />
+<caption>Reservoir Top structure map</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Reservoir Top structure map</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr6">With the absence of core data, an earth model was constructed for the entire field by integrating well logs, 3D seismic and cores from analogue field (Fig. 2).</anchoringText>
+<image-wrap id="102118184278MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118184278MS_i_2.tif" id="ImgLink-2" />
+<caption>Modelled structured surfaces (Field modelled horizons)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Modelled structured surfaces (Field modelled horizons)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr7">From DST results, full field GOR was observed to range from 8.7Mscf/stb to 55 Mscf/stb. See Fig. 3.</anchoringText>
+<image-wrap id="102118184278MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118184278MS_i_3.tif" id="ImgLink-3" />
+<caption>CGR vs GOR</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>CGR vs GOR</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="6" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr8">Three major static reservoir models with varying structural geometry with depth were chosen, based on their GRV, from among the 14 established static reservoir models encountered in the field. The first is relatively shallow sand with 4 way dip closures against a major fault. It has a gross rock volume (GRV) of 2092 Acre-ft. It was chosen as the “Low” case. The second reservoir is at intermediate depth with a GRV of 52281 Acre-ft. It is also a 4 way dip closure and taken to be the mid case. The third reservoir is relatively deeper with the largest GRV of 374079 Acre-ft. It is a fault dependent closure and a “gas-down-to”. See Fig. 4 below.</anchoringText>
+<image-wrap id="102118184278MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118184278MS_i_4.tif" id="ImgLink-4" />
+<caption>Low, Mid and High structural geometry variation with depth</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Low, Mid and High structural geometry variation with depth</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118184278MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118184278MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Low</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118184278MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118184278MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Mid</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118184278MS-Img_SPi-4c">
+<imageLink type="mediaResource" href="102118184278MS_i_4c.tif" id="ImgLink-4c" />
+<figure-specific-caption>
+<caption-order>High</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr9">Effect of uncertainty parameters might be best judged by assessing the time dependent impact of each uncertainty variable on cumulative recovery of gas. See Fig. 5 through Fig. 7.</anchoringText>
+<image-wrap id="102118184278MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118184278MS_i_5.tif" id="ImgLink-5" />
+<caption>Tornado chart of first four heavy hitters after 5 years of production</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Tornado chart of first four heavy hitters after 5 years of production</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr10">Effect of uncertainty parameters might be best judged by assessing the time dependent impact of each uncertainty variable on cumulative recovery of gas. See Fig. 5 through Fig. 7.</anchoringText>
+<image-wrap id="102118184278MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118184278MS_i_6.tif" id="ImgLink-6" />
+<caption>Tornado chart of first four heavy hitters after 10 years of production</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Tornado chart of first four heavy hitters after 10 years of production</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr11">Effect of uncertainty parameters might be best judged by assessing the time dependent impact of each uncertainty variable on cumulative recovery of gas. See Fig. 5 through Fig. 7.</anchoringText>
+<image-wrap id="102118184278MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118184278MS_i_7.tif" id="ImgLink-7" />
+<caption>Tornado chart of first four heavy hitters after 15 years of production</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Tornado chart of first four heavy hitters after 15 years of production</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr12"> </anchoringText>
+<image-wrap id="102118184278MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118184278MS_i_8.tif" id="ImgLink-8" />
+<caption>Tornado chart of first four heavy hitters after 20 years of production</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Tornado chart of first four heavy hitters after 20 years of production</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="9" data-type-order="13">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr13"> </anchoringText>
+<image-wrap id="102118184278MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118184278MS_i_9.tif" id="ImgLink-9" />
+<caption>Quadratic response surface for two variables GOR &amp; GRV vs Gas Np, and KV/KH &amp; GRV vs Gas Np derived from the optimal design.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Quadratic response surface for two variables GOR &amp; GRV vs Gas Np, and KV/KH &amp; GRV vs Gas Np derived from the optimal design.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118184278MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118184278MS_i_9a.tif" id="ImgLink-9a" />
+</image-wrap>
+<image-wrap id="102118184278MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118184278MS_i_9b.tif" id="ImgLink-9b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="10" data-type-order="14">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr14">The response equation was used for Monte Carlo Simulation. BetaPERT probability distribution was used for GRV and Target GOR while uniform distribution was used for KV/KH, Krg, Sor and Aquifer radius. Monte Carlo simulation runs were performed for 5100 trails and a probability distribution function was generated. See Figure 10 &amp; 11 below.</anchoringText>
+<image-wrap id="102118184278MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118184278MS_i_10.tif" id="ImgLink-10" />
+<caption>Gas UR Probability</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Gas UR Probability</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="11" data-type-order="15">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr15">The response equation was used for Monte Carlo Simulation. BetaPERT probability distribution was used for GRV and Target GOR while uniform distribution was used for KV/KH, Krg, Sor and Aquifer radius. Monte Carlo simulation runs were performed for 5100 trails and a probability distribution function was generated. See Figure 10 &amp; 11 below.</anchoringText>
+<image-wrap id="102118184278MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118184278MS_i_11.tif" id="ImgLink-11" />
+<caption>Gas UR Cumulative frequency distribution</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Gas UR Cumulative frequency distribution</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="12" data-type-order="16">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr16"> </anchoringText>
+<image-wrap id="102118184278MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118184278MS_i_12.tif" id="ImgLink-12" />
+<caption>Probabilistic Forecasts using LOW GRV models</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Probabilistic Forecasts using LOW GRV models</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="13" data-type-order="17">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr17"> </anchoringText>
+<image-wrap id="102118184278MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118184278MS_i_13.tif" id="ImgLink-13" />
+<caption>Probabilistic Forecasts using MID GRV models</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Probabilistic Forecasts using MID GRV models</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="14" data-type-order="18">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr18"> </anchoringText>
+<image-wrap id="102118184278MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118184278MS_i_14.tif" id="ImgLink-14" />
+<caption>Probabilistic Forecasts using HIGH GRV models</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Probabilistic Forecasts using HIGH GRV models</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

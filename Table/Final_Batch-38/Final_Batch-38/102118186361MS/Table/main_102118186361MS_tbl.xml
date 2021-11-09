@@ -1,0 +1,1174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118186361MS.txt" extractionDate="2021-03-26T14:26:53Z">
+<doi>10.2118/186361-MS</doi>
+<pii>10.2118/186361-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="3" table-order="1" data-type-order="1">
+<table-wrap id="102118186361MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Oil gravity is between 22-28°API and oil viscosity is 2.5 cP. Currently, the reservoir pressure is very low at 1,024 psi; the current average watercut value is about 78% and low Gas Oil Ratio (GOR) value. This field has a remaining oil in place of 97 MMSTB, average porosity of 27.5% and average permeability of 120 mD. EOR screening method based on Aladasani and Bryant is shown in Table 1, with Bryant criteria tends to be more flexible than Aladasani criteria that is useful as opposed to very rigid interval for several parameters.</anchoringText>
+<label>Table 1</label>
+<caption>EOR Screening Reference Parameter</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>EOR Screening Reference Parameter</caption-text>
+</formatted-caption>
+<table id="102118186361MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" align="center">Parameter</th>
+<th colspan="2" valign="bottom" align="center">Reference</th>
+</tr>
+<tr>
+<th valign="bottom" align="center">Aladasani</th>
+<th valign="bottom" align="center">Bryant</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center">API<sup>0</sup> gravity</td>
+<td valign="bottom" align="center">12.0-33.0</td>
+<td valign="bottom" align="center">&#x003E;15</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Viscosity (cp)</td>
+<td valign="bottom" align="center">1.7-8900</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Porosity (%)</td>
+<td valign="bottom" align="center">12.0-28.0</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Oil Saturation (% PV)</td>
+<td valign="bottom" align="center">55-65</td>
+<td valign="bottom" align="center">&#x003E;25</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Formation Type</td>
+<td valign="bottom" align="center">Sandstone</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">Permeability (md)</td>
+<td valign="bottom" align="center">60-200</td>
+<td valign="top" align="center">&#x003E;50</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Depth (ft)</td>
+<td valign="bottom" align="center">1572-3464</td>
+<td valign="bottom" align="center">&#x003C;8000</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Temperahire (F)</td>
+<td valign="bottom" align="center">86-90</td>
+<td valign="bottom" align="center">&#x003C;170</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="3" table-order="2" data-type-order="2">
+<table-wrap id="102118186361MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">In general, based on Table 1 the values of Bryant criteria matched with Aladasani interval. But for temperature, Aladasani interval criteria are very strict; otherwise, Bryant is very loose—for this reason Bryant methods are more appropriate. These parameter combination is applied to Mangunjaya Field which has Palembang A, Palembang B, Palembang C formations with the properties listed in Table 2 and screening results listed in Table 3.</anchoringText>
+<label>Table 2</label>
+<caption>Mangunjaya Field Data for EOR Screening</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Mangunjaya Field Data for EOR Screening</caption-text>
+</formatted-caption>
+<table id="102118186361MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Parameter</th>
+<th valign="bottom" align="center">Palembang A</th>
+<th valign="bottom" align="center">Palembang B</th>
+<th valign="bottom" align="center">Palembang C</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Gravity (°API)</td>
+<td align="center">22 -28</td>
+<td align="center">22 -28</td>
+<td align="center">22 -28</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Viscosity (cP)</td>
+<td valign="bottom" align="center">2.5</td>
+<td valign="bottom" align="center">2.5</td>
+<td valign="bottom" align="center">2.5</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Porosity (%)</td>
+<td valign="bottom" align="center">27.5</td>
+<td valign="bottom" align="center">27.5</td>
+<td valign="bottom" align="center">27.5</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Oil Saturation (% PV)</td>
+<td valign="bottom" align="center">0.55</td>
+<td valign="bottom" align="center">0.55</td>
+<td valign="bottom" align="center">0.55</td>
+</tr>
+<tr>
+<td align="center">Permeability (mD)</td>
+<td valign="bottom" align="center">68</td>
+<td align="center">84</td>
+<td valign="bottom" align="center">202</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Depth (ft)</td>
+<td valign="bottom" align="center">558</td>
+<td valign="bottom" align="center">902</td>
+<td valign="bottom" align="center">1197.5</td>
+</tr>
+<tr>
+<td align="center">Temperature (°F)</td>
+<td valign="bottom" align="center">122</td>
+<td valign="bottom" align="center">122</td>
+<td valign="bottom" align="center">122</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Formation Type</td>
+<td valign="bottom" align="center">Shally sand</td>
+<td valign="bottom" align="center">Shally sand</td>
+<td valign="bottom" align="center">Shally sand</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Net Thickness (m)</td>
+<td valign="bottom" align="center">55</td>
+<td valign="bottom" align="center">70</td>
+<td valign="bottom" align="center">30</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="4" table-order="3" data-type-order="3">
+<table-wrap id="102118186361MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">In general, based on Table 1 the values of Bryant criteria matched with Aladasani interval. But for temperature, Aladasani interval criteria are very strict; otherwise, Bryant is very loose—for this reason Bryant methods are more appropriate. These parameter combination is applied to Mangunjaya Field which has Palembang A, Palembang B, Palembang C formations with the properties listed in Table 2 and screening results listed in Table 3.</anchoringText>
+<label>Table 3</label>
+<caption>Mangunjaya Field Specific Screening Result</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Mangunjaya Field Specific Screening Result</caption-text>
+</formatted-caption>
+<table id="102118186361MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th align="center">EOR Method</th>
+<th align="center">Field (Formation)</th>
+<th align="center">Gravity (API°)</th>
+<th align="center">Viscosity (cP)</th>
+<th align="center">Oil Saturation (%PV)</th>
+<th align="center">Permeability (mD)</th>
+<th align="center">Depth (ft)</th>
+<th align="center">Temperature (°F)</th>
+<th align="center">Formation type</th>
+<th align="center">Reference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="6" align="center">MEOR</td>
+<td rowspan="2" align="center">Mangunjaya (Palembang A)</td>
+<td align="center">OK</td>
+<td align="center">OK</td>
+<td align="center">OK</td>
+<td align="center">OK</td>
+<td align="center">OK</td>
+<td bgcolor="#FF0000" align="center">NO</td>
+<td align="center">OK</td>
+<td align="center">Aladasani, 2010</td>
+</tr>
+<tr>
+<td align="center">OK</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">OK</td>
+<td align="center">OK</td>
+<td align="center">OK</td>
+<td align="center">-</td>
+<td align="center">Bryant, 1991</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">Mangunjaya (Palembang B)</td>
+<td align="center">OK</td>
+<td align="center">OK</td>
+<td align="center">OK</td>
+<td align="center">OK</td>
+<td align="center">OK</td>
+<td bgcolor="#FF0000" align="center">NO</td>
+<td align="center">OK</td>
+<td align="center">Aladasani, 2010</td>
+</tr>
+<tr>
+<td align="center">OK</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">OK</td>
+<td align="center">OK</td>
+<td align="center">OK</td>
+<td align="center">-</td>
+<td align="center">Bryant, 1991</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">Mangunjaya (Palembang C)</td>
+<td align="center">OK</td>
+<td align="center">OK</td>
+<td align="center">OK</td>
+<td align="center">OK</td>
+<td align="center">OK</td>
+<td bgcolor="#FF0000" align="center">NO</td>
+<td align="center">OK</td>
+<td align="center">Aladasani, 2010</td>
+</tr>
+<tr>
+<td align="center">OK</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">OK</td>
+<td align="center">OK</td>
+<td align="center">OK</td>
+<td align="center">-</td>
+<td align="center">Bryant, 1991</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="6" table-order="4" data-type-order="6">
+<table-wrap id="102118186361MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">It is noticeable that oil recovery using a solution containing microbes produced more oil recovery than brine solution. In laboratory studies, simulations were conducted on several samples of Mangunjaya wells, which are MJ-74, MJ-125, MJ-116 and MJ-42TW. Simulations carried out by comparing treatment using microbes MEOR and brine solution at the temperature of 52° C. With the initial oil system data, simulation using MEOR can be done using a solution containing microbes (MEOR) compared with a non-microbial solution (brine solution). The initial oil treatment system data for each well listed in Table 4.</anchoringText>
+<label>Table 4</label>
+<caption>Initial oil system data in each Mangunjaya well</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Initial oil system data in each Mangunjaya well</caption-text>
+</formatted-caption>
+<table id="102118186361MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">System Data</th>
+<th valign="bottom" align="center">MJ-74</th>
+<th valign="bottom" align="center">MJ-125</th>
+<th valign="bottom" align="center">MJ-116</th>
+<th valign="bottom" align="center">MJ 42TW</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center">Temperature (°C)</td>
+<td valign="bottom" align="center">52</td>
+<td valign="bottom" align="center">52</td>
+<td valign="bottom" align="center">52</td>
+<td valign="bottom" align="center">52</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Total Zeolite Per System (mL)</td>
+<td valign="bottom" align="center">150</td>
+<td valign="bottom" align="center">150</td>
+<td valign="bottom" align="center">150</td>
+<td valign="bottom" align="center">150</td>
+</tr>
+<tr>
+<td align="center">Total initial oil (mL)</td>
+<td align="center">800</td>
+<td align="center">650</td>
+<td align="center">650</td>
+<td align="center">500</td>
+</tr>
+<tr>
+<td align="center">Oil leak (mL)</td>
+<td align="center">610</td>
+<td align="center">540</td>
+<td align="center">544</td>
+<td align="center">420</td>
+</tr>
+<tr>
+<td align="center">Oil before leaching (mL)</td>
+<td align="center">190</td>
+<td valign="bottom" align="center">110</td>
+<td valign="bottom" align="center">106</td>
+<td valign="bottom" align="center">80</td>
+</tr>
+<tr>
+<td align="center">Loose oil while leaching (mL)</td>
+<td align="center">50</td>
+<td valign="bottom" align="center">10</td>
+<td valign="bottom" align="center">11</td>
+<td align="center">15</td>
+</tr>
+<tr>
+<td align="center">Oil after leaching (mL)</td>
+<td align="center">140</td>
+<td align="center">100</td>
+<td align="center">95</td>
+<td align="center">65</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Oil per system (mL)</td>
+<td valign="bottom" align="center">35</td>
+<td valign="bottom" align="center">33.33</td>
+<td valign="bottom" align="center">31.67</td>
+<td valign="bottom" align="center">32.5</td>
+</tr>
+<tr>
+<td align="center">Percentage of sticking oil per system (%)</td>
+<td align="center">23.33</td>
+<td valign="bottom" align="center">22.22</td>
+<td valign="bottom" align="center">21.11</td>
+<td align="center">21.67</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="9" table-order="5" data-type-order="11">
+<table-wrap id="102118186361MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">Oil recovery simulation experiments on samples of oil of MJ-122 was conducted at several temperatures; 50 ° C, 60 ° C and 70 ° C. The data of initial oil treatment system for each well can be seen in Table 5.</anchoringText>
+<label>Table 5</label>
+<caption>The data of initial oil system of MJ-122 in various temperature</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>The data of initial oil system of MJ-122 in various temperature</caption-text>
+</formatted-caption>
+<table id="102118186361MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th align="center">System Data</th>
+<th valign="top" align="center">MJ 122</th>
+<th valign="top" align="center">MJ 122</th>
+<th valign="top" align="center">MJ 122</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Temperature (°C)</td>
+<td valign="top" align="center">50</td>
+<td align="center">60</td>
+<td valign="top" align="center">70</td>
+</tr>
+<tr>
+<td align="center">Total Zeolite Per System (mL)</td>
+<td align="center">100</td>
+<td valign="top" align="center">150</td>
+<td valign="top" align="center">150</td>
+</tr>
+<tr>
+<td align="center">Total initial oil (mL)</td>
+<td valign="top" align="center">525</td>
+<td valign="top" align="center">525</td>
+<td align="center">800</td>
+</tr>
+<tr>
+<td align="center">Oil leak (mL)</td>
+<td valign="top" align="center">390</td>
+<td valign="top" align="center">350</td>
+<td align="center">620</td>
+</tr>
+<tr>
+<td align="center">Oil before leaching (mL)</td>
+<td valign="top" align="center">135</td>
+<td valign="top" align="center">175</td>
+<td align="center">180</td>
+</tr>
+<tr>
+<td align="center">Loose oil while leaching (mL)</td>
+<td valign="top" align="center">39</td>
+<td valign="top" align="center">49</td>
+<td valign="top" align="center">40</td>
+</tr>
+<tr>
+<td align="center">Oil after leaching (mL)</td>
+<td valign="top" align="center">96</td>
+<td align="center">126</td>
+<td valign="top" align="center">140</td>
+</tr>
+<tr>
+<td align="center">Oil per system (mL)</td>
+<td valign="top" align="center">32</td>
+<td valign="top" align="center">42</td>
+<td valign="top" align="center">35</td>
+</tr>
+<tr>
+<td align="center">Percentage of sticking oil per system (%)</td>
+<td valign="top" align="center">32</td>
+<td align="center">28</td>
+<td valign="top" align="center">23</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="10" table-order="6" data-type-order="14">
+<table-wrap id="102118186361MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6">The simulation test result on oil recovery toward oil sample of MJ-127, which was carried on both 60°C and 50°C shown in Table 6.</anchoringText>
+<label>Table 6</label>
+<caption>The initial oil system data of MJ-127 in 60°C and 50°C</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>6</caption-order>
+<caption-text>The initial oil system data of MJ-127 in 60°C and 50°C</caption-text>
+</formatted-caption>
+<table id="102118186361MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">System Data</th>
+<th valign="bottom" align="center">MJ 127 (60°C)</th>
+<th valign="bottom" align="center">MJ 127 (50°C)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center">Total Zeolite Per System (mL)</td>
+<td valign="bottom" align="center">150</td>
+<td valign="bottom" align="center">150</td>
+</tr>
+<tr>
+<td align="center">Total initial oil (mL)</td>
+<td valign="bottom" align="center">800</td>
+<td valign="bottom" align="center">800</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Oil leak (mL)</td>
+<td valign="bottom" align="center">609</td>
+<td valign="bottom" align="center">612</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Oil before leaching (mL)</td>
+<td valign="bottom" align="center">191</td>
+<td valign="bottom" align="center">188</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Loose oil while leaching (mL)</td>
+<td valign="bottom" align="center">80</td>
+<td valign="bottom" align="center">75</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Oil after leaching (mL)</td>
+<td valign="bottom" align="center">111</td>
+<td valign="bottom" align="center">113</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Oil per system (mL)</td>
+<td valign="bottom" align="center">27.75</td>
+<td valign="bottom" align="center">18.83</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Percentage of sticking oil per system (%)</td>
+<td valign="bottom" align="center">18.5</td>
+<td valign="bottom" align="center">18.83</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="11" table-order="7" data-type-order="17">
+<table-wrap id="102118186361MS-tblwrp-7" content-type="structured">
+<anchoringText id="Ancr7"> </anchoringText>
+<label>Table 7</label>
+<caption>The percentage of Oil Recovery, based on MEOR simulation result</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>7</caption-order>
+<caption-text>The percentage of Oil Recovery, based on MEOR simulation result</caption-text>
+</formatted-caption>
+<table id="102118186361MS-Tbl_SPi-7" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="center">Oil</th>
+<th colspan="2" valign="bottom" align="center">The Percentage of Oil Recovery (%)</th>
+</tr>
+<tr>
+<th valign="bottom" align="center">MEOR (microbe)</th>
+<th valign="bottom" align="center">Blank (brine solution)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center">MJ-122 (50°C)</td>
+<td valign="bottom" align="center">12%</td>
+<td valign="bottom" align="center">0%</td>
+</tr>
+<tr>
+<td align="center">MJ-74 (52°C)</td>
+<td align="center">3%</td>
+<td align="center">0%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">MJ-125 (55°C)</td>
+<td valign="bottom" align="center">12% (SP); 9.8% (PW)</td>
+<td valign="bottom" align="center">0%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">MJ-116 (55°C)</td>
+<td valign="bottom" align="center">5.7% (SP); 7.9% (PW)</td>
+<td valign="bottom" align="center">0%</td>
+</tr>
+<tr>
+<td align="center">MJ-42 (55°C)</td>
+<td align="center">5.4%</td>
+<td align="center">0%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="12" table-order="8" data-type-order="18">
+<table-wrap id="102118186361MS-tblwrp-8" content-type="structured">
+<anchoringText id="Ancr8">The differences of temperature provide different result of oil recovery, resulted in Table 8. It is essential to obtain the clarity of the actual temperature data of a well since it will affect toward the process of microbial cultivation used to recover oil and field implementation.</anchoringText>
+<label>Table 8</label>
+<caption>The percentage of Oil Recovery on well sample of MJ-122 in several temperature</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>8</caption-order>
+<caption-text>The percentage of Oil Recovery on well sample of MJ-122 in several temperature</caption-text>
+</formatted-caption>
+<table id="102118186361MS-Tbl_SPi-8" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" align="center">Temperature</th>
+<th colspan="2" valign="bottom" align="center">The Percentage of Oil Recovery</th>
+</tr>
+<tr>
+<th valign="bottom" align="center">MEOR</th>
+<th valign="bottom" align="center">Blank (brine)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center">158°F (70°C)</td>
+<td align="center">10%</td>
+<td align="center">6%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">140°F (60°C)</td>
+<td valign="bottom" align="center">13.57%</td>
+<td valign="bottom" align="center">0%</td>
+</tr>
+<tr>
+<td align="center">122°F (50°C)</td>
+<td align="center">12%</td>
+<td align="center">0%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="18" table-order="9" data-type-order="26">
+<table-wrap id="102118186361MS-tblwrp-9" content-type="structured">
+<anchoringText id="Ancr9">The demand of injection fluid of MEOR in the wells of MJ-122 and MJ-125 as follows (Table 9):</anchoringText>
+<label>Table 9</label>
+<caption>The Demand of Fluid Injection of MEOR</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>9</caption-order>
+<caption-text>The Demand of Fluid Injection of MEOR</caption-text>
+</formatted-caption>
+<table id="102118186361MS-Tbl_SPi-9" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" bgcolor="#00B1F6">50bbls</th>
+<th valign="bottom" align="center" bgcolor="#FFFF03">200 bbls</th>
+<th valign="bottom" align="center" bgcolor="#00B1F6">50bbls</th>
+<th valign="bottom" align="center">SOAKING</th>
+<th valign="bottom" align="center" bgcolor="#FFFF03">200 bbls</th>
+<th valign="bottom" align="center" bgcolor="#00B1F6">200 bbls</th>
+<th valign="bottom" align="center">SOAKING</th>
+<th valign="top" align="center" bgcolor="#00B1F6">600 bbls</th>
+<th valign="bottom" align="center">SOAKING</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center" bgcolor="#00B1F6">Pre flush (brine)</td>
+<td bgcolor="#FFFF03" align="center">Inject MEOR (100 formation + 98 brine + 2 bbls oil)</td>
+<td bgcolor="#00B1F6" align="center">Post flush (brine)</td>
+<td align="center">7 days</td>
+<td bgcolor="#FFFF03" align="center">Inject MEOR (100 formation+ 98 brine + 2 bbls oil)</td>
+<td bgcolor="#00B1F6" align="center">Post flush after job (brine)</td>
+<td align="center">3 days</td>
+<td valign="top" align="center" bgcolor="#00B1F6">Post flush after soaking 3 days (brine)</td>
+<td align="center">1 days</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="18" table-order="10" data-type-order="27">
+<table-wrap id="102118186361MS-tblwrp-10" content-type="structured">
+<anchoringText id="Ancr10">Consumption of materials and chemicals in the implementation of H&amp;P MEOR injection operations at the wells of MJ-122 and MJ-125 as follows (table 10):</anchoringText>
+<label>Table 10</label>
+<caption>The Demand of Chemical and Other Substances during MEOR Injection</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>10</caption-order>
+<caption-text>The Demand of Chemical and Other Substances during MEOR Injection</caption-text>
+</formatted-caption>
+<table id="102118186361MS-Tbl_SPi-10" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">MJ-122</th>
+<th valign="top" align="center">MJ-125</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Isolate (ANK-4041)
+</td>
+<td valign="top" align="center">30 liter</td>
+<td valign="top" align="center">30 liter</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Nutrient (ANK-4042)</td>
+<td valign="bottom" align="center">2000 kg</td>
+<td valign="bottom" align="center">2000 kg</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Nutrient (ANK-4043)</td>
+<td valign="bottom" align="center">2425 kg</td>
+<td valign="bottom" align="center">2125 kg</td>
+</tr>
+<tr>
+<td valign="top" align="center">KC1</td>
+<td valign="top" align="center">1600 kg</td>
+<td valign="top" align="center">1600 kg</td>
+</tr>
+<tr>
+<td valign="top" align="center">Diesel fuel</td>
+<td valign="top" align="center">3110 liter</td>
+<td valign="top" align="center">3500 liter</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="18" table-order="11" data-type-order="28">
+<table-wrap id="102118186361MS-tblwrp-11" content-type="structured">
+<anchoringText id="Ancr11">Total operating hours of the generator at the site of MJ-122 and MJ-125 as follows (table 11):</anchoringText>
+<label>Table 11</label>
+<caption>Operational Hours of Generator during Injection of MEOR</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Operational Hours of Generator during Injection of MEOR</caption-text>
+</formatted-caption>
+<table id="102118186361MS-Tbl_SPi-11" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Generator</th>
+<th valign="top" align="center">Capacity</th>
+<th valign="top" align="center">MJ-122</th>
+<th valign="top" align="center">MJ-125</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">PU-04</td>
+<td valign="top" align="center">50 kVA</td>
+<td valign="top" align="center">70</td>
+<td valign="top" align="center">--</td>
+</tr>
+<tr>
+<td align="center">PU-16</td>
+<td align="center">25 kVA</td>
+<td align="center">268</td>
+<td align="center">531</td>
+</tr>
+<tr>
+<td align="center">PU-17</td>
+<td align="center">150 kVA</td>
+<td align="center">48</td>
+<td align="center">196</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="24" table-order="12" data-type-order="34">
+<table-wrap id="102118186361MS-tblwrp-12" content-type="structured">
+<anchoringText id="Ancr12">The marker is a compound of internal reference that generally has the most stable properties compared to other compounds contained in the sample. The stability of these compounds marks the compound as comparator compounds in view of other changes in the concentrations of compounds. Based on the analysis of GC/MS, the ratio of the value of Pristane/Phytane sample before injection and after injection are listed at Table 12.</anchoringText>
+<label>Table 12</label>
+<caption>Pr/Ph Ratio on MJ-122 oil sample</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Pr/Ph Ratio on MJ-122 oil sample</caption-text>
+</formatted-caption>
+<table id="102118186361MS-Tbl_SPi-12" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Sample</th>
+<th valign="bottom" align="center">Pr/Ph Ratio</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Before production (Sept. 2015)</td>
+<td valign="top" align="center">1.29</td>
+</tr>
+<tr>
+<td align="center">1 month after production (Oct. 2015)</td>
+<td align="center">1.08</td>
+</tr>
+<tr>
+<td valign="top" align="center">2 month after production (Nov. 2015)</td>
+<td valign="top" align="center">1.17</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">3 month after production (Dec. 2015)</td>
+<td valign="bottom" align="center">1.05</td>
+</tr>
+<tr>
+<td valign="top" align="center">4 month after production (Jan. 2016)</td>
+<td valign="top" align="center">0.98</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="25" table-order="13" data-type-order="35">
+<table-wrap id="102118186361MS-tblwrp-13" content-type="structured">
+<anchoringText id="Ancr13">Based on the obtained value of the ratio of Pr/Ph, it appears that there is a tendency to ratio value which is stable at ± 1. This indicates that the ratio of Pr/Ph can be used as an internal standard marker reference. Semi-quantitative analysis with standards internal reference marker ratio of Pr/Ph at Table 13 resulted the percentage of sample monthly biodegradation before and after MEOR application. Based on the average value of degradation, the degradation of hydrocarbon fractions in oil samples before and after injection (1 to 3 months of production) shows a significant increase of biodegradation except for the 4th month that resulted decreased biodegradation.</anchoringText>
+<label>Table 13</label>
+<caption>Biodegradation Percentage (Green Highlight is Fraction Forming)</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Biodegradation Percentage (Green Highlight is Fraction Forming)</caption-text>
+</formatted-caption>
+<table id="102118186361MS-Tbl_SPi-13" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" align="center">Carbon Chain</th>
+<th colspan="4" valign="bottom" align="center">% Biodegradation</th>
+</tr>
+<tr>
+<th valign="top" align="center">Sept-Oct</th>
+<th valign="top" align="center">Oct-Nov</th>
+<th valign="top" align="center">Nov-Dec</th>
+<th valign="top" align="center">Dec-Jan</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center">10</td>
+<td valign="bottom" align="right">6,33%</td>
+<td valign="bottom" align="right">25,85%</td>
+<td valign="bottom" align="right">39,86%</td>
+<td valign="bottom" align="right" bgcolor="#92D050">2,06%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">11</td>
+<td valign="bottom" align="right">38,68%</td>
+<td valign="bottom" align="right" bgcolor="#92D050">14,14%</td>
+<td valign="bottom" align="right">34,30%</td>
+<td valign="bottom" align="right">0,40%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">12</td>
+<td valign="bottom" align="right">2,36%</td>
+<td valign="bottom" align="right" bgcolor="#92D050">0,70%</td>
+<td valign="bottom" align="right">26,68%</td>
+<td valign="bottom" align="right">0,78%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">13</td>
+<td valign="bottom" align="right">1,04%</td>
+<td valign="bottom" align="right" bgcolor="#92D050">25,50%</td>
+<td valign="bottom" align="right">27,84%</td>
+<td valign="bottom" align="right">0,24%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">14</td>
+<td valign="bottom" align="right">3,18%</td>
+<td valign="bottom" align="right" bgcolor="#92D050">22,32%</td>
+<td valign="bottom" align="right">35,06%</td>
+<td valign="bottom" align="right" bgcolor="#92D050">3,53%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">15</td>
+<td valign="bottom" align="right">1,74%</td>
+<td valign="bottom" align="right">0,70%</td>
+<td valign="bottom" align="right">40,55%</td>
+<td valign="bottom" align="right" bgcolor="#92D050">2,69%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">16</td>
+<td valign="bottom" align="right">2,45%</td>
+<td valign="bottom" align="right" bgcolor="#92D050">48,48%</td>
+<td valign="bottom" align="right">45,73%</td>
+<td valign="bottom" align="right" bgcolor="#92D050">13,74%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">17</td>
+<td valign="bottom" align="right">3,23%</td>
+<td valign="bottom" align="right" bgcolor="#92D050">16,64%</td>
+<td valign="bottom" align="right">35,36%</td>
+<td valign="bottom" align="right" bgcolor="#92D050">1,43%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18</td>
+<td valign="bottom" align="right">9,63%</td>
+<td valign="bottom" align="right">6,36%</td>
+<td valign="bottom" align="right">23,10%</td>
+<td valign="bottom" align="right">4,38%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Pristane</td>
+<td colspan="4" rowspan="2" valign="top" align="right" bgcolor="#000000">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">Phytane</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">21</td>
+<td valign="bottom" align="right">33,92%</td>
+<td valign="bottom" align="right">58,07%</td>
+<td valign="bottom" align="right" bgcolor="#92D050">2,45%</td>
+<td valign="bottom" align="right" bgcolor="#92D050">54,70%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">22</td>
+<td valign="bottom" align="right">38,01%</td>
+<td valign="bottom" align="right">32,71%</td>
+<td valign="bottom" align="right" bgcolor="#92D050">32,86%</td>
+<td valign="bottom" align="right">12,99%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Averages %degradation/ Carbon Fraction</td>
+<td valign="bottom" align="right" bgcolor="#FFFF00">12,78%</td>
+<td valign="bottom" align="right" bgcolor="#FFFF00">24,74%</td>
+<td valign="bottom" align="right" bgcolor="#FFFF00">34,28%</td>
+<td valign="bottom" align="right" bgcolor="#FFFF00">3,76%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="27" table-order="14" data-type-order="37">
+<table-wrap id="102118186361MS-tblwrp-14" content-type="structured">
+<anchoringText id="Ancr14">Besides referring to the chromatogram pattern analysis, it was also conducted an analysis of the results based on changes in Pristane and Phytane ratio (Pr/Ph). The marker itself is an internal reference compound which is generally possess the most stable behavior compared to other compounds contained in the sample. The stability of these compounds makes the compound as comparator compounds in view of other changes in the concentrations of compounds. Based on the analysis of GC/MS, the ratio of the value of Pr/Ph sample before and after injection were illustrated at Table 14.</anchoringText>
+<label>Table 14</label>
+<caption>The Ratio of Pr/Ph on MJ-125 oil sample</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>14</caption-order>
+<caption-text>The Ratio of Pr/Ph on MJ-125 oil sample</caption-text>
+</formatted-caption>
+<table id="102118186361MS-Tbl_SPi-14" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Sample</th>
+<th valign="top" align="center">Pr/Ph Ratio</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Before (22 Oct. 2015)</td>
+<td valign="top" align="center">0.77</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">1 month after production (30 Dec. 2015)</td>
+<td valign="bottom" align="center">1.53</td>
+</tr>
+<tr>
+<td valign="top" align="center">2 month after production (29 Jan. 2016)</td>
+<td valign="top" align="center">1.58</td>
+</tr>
+<tr>
+<td align="center">3 month after production (28 Feb. 2016)</td>
+<td align="center">2.66</td>
+</tr>
+<tr>
+<td valign="top" align="center">4 month after production (21 Mar. 2016)</td>
+<td valign="top" align="center">1.91</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="28" table-order="15" data-type-order="38">
+<table-wrap id="102118186361MS-tblwrp-15" content-type="structured">
+<anchoringText id="Ancr15">The comparison results of the communities on MJ-125 between the community of pre-injection process and the post-injection, which was performed well, in the first, second, and third month can be seen at Table 15) The obtained similarity index value was &#x003E;0.5 indicating that the two communities of the two observation points can be considered identical (Diserud et al, 2007).</anchoringText>
+<label>Table 15</label>
+<caption>The Sorensen Index of SSCP band of MJ-122 and MJ-125</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>15</caption-order>
+<caption-text>The Sorensen Index of SSCP band of MJ-122 and MJ-125</caption-text>
+</formatted-caption>
+<table id="102118186361MS-Tbl_SPi-15" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" valign="bottom" align="center">MJ-122</th>
+<th colspan="2" valign="bottom" align="center">MJ-125</th>
+</tr>
+<tr>
+<th valign="bottom" align="center">Sample</th>
+<th valign="bottom" align="center">IS</th>
+<th valign="bottom" align="center">Sampel</th>
+<th valign="bottom" align="center">IS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">A-B</td>
+<td valign="top" align="center">0.67</td>
+<td valign="top" align="center">Pre-production – 30 Dec</td>
+<td valign="top" align="center">0,71</td>
+</tr>
+<tr>
+<td valign="top" align="center">B-C</td>
+<td valign="top" align="center">0.25</td>
+<td valign="bottom" align="center">Pre-production – 14 Jan</td>
+<td valign="top" align="center">0,63</td>
+</tr>
+<tr>
+<td valign="top" align="center">C-D</td>
+<td valign="top" align="center">0.43</td>
+<td valign="bottom" align="center">Pre-production – 29 Jan</td>
+<td align="center">0,86</td>
+</tr>
+<tr>
+<td valign="top" align="center">D-E</td>
+<td valign="top" align="center">0.55</td>
+<td valign="top" align="center">Pre-production – 13 Feb</td>
+<td valign="top" align="center">0,63</td>
+</tr>
+<tr>
+<td valign="top" align="center">E-F</td>
+<td valign="top" align="center">0.67</td>
+<td valign="bottom" align="center">Pre-production – 25 Feb</td>
+<td valign="top" align="center">0,57</td>
+</tr>
+<tr>
+<td valign="top" align="center">F-G</td>
+<td valign="top" align="center">0.57</td>
+<td valign="bottom" align="center">Pre-production – 30 Dec</td>
+<td valign="top" align="center">0,71</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">G-H</td>
+<td valign="bottom" align="center">0.46</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">H-I</td>
+<td valign="bottom" align="center">0.46</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">I-J</td>
+<td valign="bottom" align="center">0.40</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">J-K</td>
+<td valign="bottom" align="center">0.50</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="48" table-order="16" data-type-order="75">
+<table-wrap id="102118186361MS-tblwrp-16" content-type="structured">
+<anchoringText id="Ancr16">Figure 59 resulted that the greatest increase appeared in Case 1 where MEOR injection was directly conducted in 3 months and was continued by water flood process. The overall increase of oil production results can be examined in the Table 16 and Table 17.</anchoringText>
+<label>Table 16</label>
+<caption>A summary of data and simulation result</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>16</caption-order>
+<caption-text>A summary of data and simulation result</caption-text>
+</formatted-caption>
+<table id="102118186361MS-Tbl_SPi-16" frame="hsides">
+<thead>
+<tr>
+<th colspan="3" valign="top" align="center">Reservoir Model Data &amp; Production</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">PV</td>
+<td valign="top" align="center">7927.807</td>
+<td valign="top" align="center">MSTB</td>
+</tr>
+<tr>
+<td valign="top" align="center">STOIIP</td>
+<td valign="top" align="center">3692.456</td>
+<td valign="top" align="center">MSTB</td>
+</tr>
+<tr>
+<td valign="top" align="center">Cumulative Oil (Dec 2015)</td>
+<td valign="top" align="center">226.217</td>
+<td valign="top" align="center">MSTB</td>
+</tr>
+<tr>
+<td valign="top" align="center">RF Cumulative Oil</td>
+<td valign="top" align="center">6.126465</td>
+<td valign="top" align="center">%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="48" table-order="17" data-type-order="76">
+<table-wrap id="102118186361MS-tblwrp-17" content-type="structured">
+<anchoringText id="Ancr17">Figure 59 resulted that the greatest increase appeared in Case 1 where MEOR injection was directly conducted in 3 months and was continued by water flood process. The overall increase of oil production results can be examined in the Table 16 and Table 17.</anchoringText>
+<label>Table 17</label>
+<caption>The summary of the result of every scenario case</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>17</caption-order>
+<caption-text>The summary of the result of every scenario case</caption-text>
+</formatted-caption>
+<table id="102118186361MS-Tbl_SPi-17" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="center">Scenario</th>
+<th valign="top" align="center">NP</th>
+<th valign="top" align="center">RF</th>
+<th valign="top" align="center">Rec.Res <i>.Oil</i>
+</th>
+<th valign="top" align="center">Add RF</th>
+<th valign="top" align="center">Inc. Cum. <i>Oil</i>
+</th>
+<th valign="top" align="center">Incre .RF</th>
+<th valign="top" align="center">Cum. Inj. MEO R</th>
+<th valign="top" align="center">Cum. Inj. WF</th>
+<th valign="top" align="center">Cum. Inj. MEOR</th>
+<th valign="top" align="center">Cum. Inj. WF</th>
+</tr>
+<tr>
+<th valign="top" align="center">MMS TB</th>
+<th valign="top" align="center">%</th>
+<th valign="top" align="center">MMST B</th>
+<th valign="top" align="center">%</th>
+<th valign="top" align="center">MMS TB</th>
+<th valign="top" align="center">%</th>
+<th valign="top" align="center">MMS TB</th>
+<th valign="top" align="center">MMS TB</th>
+<th valign="top" align="center">PV</th>
+<th valign="top" align="center">PV</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">History Matching Pilot MEOR</td>
+<td valign="top" align="center">0.226</td>
+<td valign="top" align="center">6.126</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+</tr>
+<tr>
+<td align="center">Base Case</td>
+<td align="center">1.246</td>
+<td align="center">33.740</td>
+<td align="center">2.447</td>
+<td align="center">27.613</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">Scenario 1</td>
+<td valign="top" align="center">1.472</td>
+<td valign="top" align="center">39.877</td>
+<td align="center">2.220</td>
+<td valign="top" align="center">33.750</td>
+<td valign="top" align="center">0.227</td>
+<td valign="top" align="center">6.137</td>
+<td valign="top" align="center">0.045</td>
+<td valign="top" align="center">0.32</td>
+<td valign="top" align="center">5.67*10<sup>-6</sup>
+</td>
+<td valign="top" align="center">4.03*10<sup>-5</sup>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">Scenario 2</td>
+<td valign="top" align="center">1.459</td>
+<td valign="top" align="center">39.513</td>
+<td valign="top" align="center">2.233</td>
+<td valign="top" align="center">33.386</td>
+<td valign="top" align="center">0.213</td>
+<td valign="top" align="center">5.773</td>
+<td valign="top" align="center">0.045</td>
+<td valign="top" align="center">0.32</td>
+<td valign="top" align="center">5.67*10<sup>-6</sup>
+</td>
+<td valign="top" align="center">4.03*10<sup>-5</sup>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">Scenario 3</td>
+<td valign="top" align="center">1.447</td>
+<td valign="top" align="center">39.177</td>
+<td valign="top" align="center">2.246</td>
+<td valign="top" align="center">33.051</td>
+<td align="center">0.201</td>
+<td valign="top" align="center">5.438</td>
+<td valign="top" align="center">0.045</td>
+<td valign="top" align="center">0.32</td>
+<td valign="top" align="center">5.67*10<sup>-6</sup>
+</td>
+<td valign="top" align="center">4.03*10<sup>-5</sup>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

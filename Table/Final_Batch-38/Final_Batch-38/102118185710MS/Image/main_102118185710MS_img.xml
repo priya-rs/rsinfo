@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185710MS.txt" extractionDate="2021-03-27T19:11:49Z">
+<doi>10.2118/185710-MS</doi>
+<pii>10.2118/185710-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr8">The relationship between permeability and porosity is limited to a 70% increase in permeability at the highest porosity that might be reached.9 Graphical representation of this is shown in Figure 1for compressibility, c, equal to 0.00022 1/psi, ϕi equal to 0.6 and initial pressure, pi, equal to350 psi. The highest porosity is when the reservoir pressure, p, equals the overburden pressure, pob, or 650 psi. In this example, the multiplier, X,can be as high as 6. Diabira et al11 of Stanford University uses somewhat similar equations to correlate porosity and permeability changes seen in laboratory experiments in diatomite Opal A core studies. Compressibility must be high for permeability changes to be significant.</anchoringText>
+<image-wrap id="102118185710MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118185710MS_i_1.tif" id="ImgLink-1" />
+<caption>Dilation/Compaction &amp; Normalized Permeability vs. Pressure<sub>6</sub></caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Dilation/Compaction &amp; Normalized Permeability vs. Pressure<link href="BIB1"><sub>6</sub></link></caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-1" type="bib">
+<bib id="BIB1">
+<label>6</label>
+<author><last-name>Beattle</last-name><first-name>C. I.</first-name></author>, <author><last-name>Boberg</last-name><first-name>T. C.</first-name></author>, and <author><last-name>McNab</last-name><first-name>G. S.</first-name></author>, <article-title>"Reservoir Simulation of Cyclic Steam in the Cold Lake Oil Sands," </article-title> <journal-title><i>SPE Reservoir Engineering Journal</i> </journal-title>, <pubDate>May 1991</pubDate>, pp. <first-page>200</first-page>&#x2013;<last-page>206</last-page>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr9">The project is located about 2 miles south of the City of Orcutt, on the southern flank of the Orcutt Oil Field, on the Newlove lease in northwestern Santa Barbara County, California. See Figure 2. Pertinent logs and completion data are available from the California Department of Conservation, Division of Oil, Gas and Geothermal Resources (DOGGR) website.12 Project specific model input parameters include those listed in Table 1.The oil gravity is understood to be 15 °API and well spacing equals about 0.625 acres. A listing of the model input data is given in Appendix A.</anchoringText>
+<image-wrap id="102118185710MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118185710MS_i_2.tif" id="ImgLink-2" />
+<caption>Project Location</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Project Location</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="5">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr10">The project average flow back time is not known. A fixed CSS flow back and soak time can be related to total producing days and cumulative steam injected to approximate the average injection rate and volume. Three base cases cycle times were constructed to consider three different flow back times as shown in Table 2. One case was selected for matching the calculated cumulative oil and water production versus time with the historical type well. The actual production is given in Appendix B. Once a match was obtained, the remaining cases were tested using similar reservoir and operating parameters. The match results are graphically shown in Figure 3.</anchoringText>
+<image-wrap id="102118185710MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118185710MS_i_3.tif" id="ImgLink-3" />
+<caption>History Match</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>History Match</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="6">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr11">Insignificant differences are seen between all three base cases and the historical type well except that the cycle-by-cycle terminal oil production rate was10 to 15 BOPD higher in later cycles than the value of +/- 20 BOPD seen in the field. The calculated oil and water production by cycle plotted against time for Base Case 3 is shown in Figure 4. Given the high rate of decline for each cycle, it was estimated the terminal oil rate would be reached in couple of days and the match was deemed acceptable.</anchoringText>
+<image-wrap id="102118185710MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118185710MS_i_4.tif" id="ImgLink-4" />
+<caption>Base Case 3 – By Cycle</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Base Case 3 – By Cycle</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr12">A skin factor equal to -0.9 was used according to Joshi's Figure 3–6 for an assumed value of hD equal to approximately 1,200for kh/kv equal to 5. The base history match was repeated using this skin factor. A production match was obtained fork equal to0.018D. This value is postulated as being the effective "enhanced" formation permeability and assumes stimulation (i.e., formation parting) and or dilation has occurred.</anchoringText>
+<image-wrap id="102118185710MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118185710MS_i_5.tif" id="ImgLink-5" />
+<caption>Dilation X = 3.7, k = 8.4</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Dilation X = 3.7, k = 8.4</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr13">A skin factor equal to -0.9 was used according to Joshi's Figure 3–6 for an assumed value of hD equal to approximately 1,200for kh/kv equal to 5. The base history match was repeated using this skin factor. A production match was obtained fork equal to0.018D. This value is postulated as being the effective "enhanced" formation permeability and assumes stimulation (i.e., formation parting) and or dilation has occurred.</anchoringText>
+<image-wrap id="102118185710MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118185710MS_i_6.tif" id="ImgLink-6" />
+<caption>Stimulation s = -4, k = 8.4</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Stimulation s = -4, k = 8.4</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191896MS.txt" extractionDate="2021-03-31T14:50:27Z">
+<doi>10.2118/191896-MS</doi>
+<pii>10.2118/191896-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="3" table-order="1" data-type-order="2">
+<table-wrap id="102118191896MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The middle member is dominated by mudstone, which is mainly dark grey to black, finely laminated to bedded (Warren et al., 1998). Within the middle member three organic-rich units are differentiated: A, B, and C shale (Close et al., 2016). The B shale is the most continuous of the three units (Origin, 2017) and has a net pay of more than 40 m (Falcon, 2017). The kerogen contained in the organic-rich zones is type I-II. Other key properties (total organic carbon, vitrinite refelectance, porosity) are presented in Table 1.</anchoringText>
+<label>Table 1</label>
+<caption>Key reservoir properties of middle Velkerri and Kyalla formation gas shales</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Key reservoir properties of middle Velkerri and Kyalla formation gas shales</caption-text>
+</formatted-caption>
+<table id="102118191896MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Property</th>
+<th valign="top" align="center">Middle Velkerri</th>
+<th valign="top" align="center">Reference</th>
+<th valign="top" align="center">Kyalla</th>
+<th valign="top" align="center">Reference</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Kerogen type</td>
+<td valign="bottom" align="left">I-II</td>
+<td valign="bottom" align="left">
+<link href="BIB1">Close et al, 2016</link>
+</td>
+<td valign="bottom" align="left">I-II</td>
+<td valign="bottom" align="left">
+<link href="BIB2">Baruch et al., 2018</link>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Total organic carbon (TOC)</td>
+<td valign="top" align="left">1-10%</td>
+<td valign="top" align="left">
+<link href="BIB1">Close et al., 2016</link>
+</td>
+<td valign="bottom" align="left">1 -4% (up to 6-9% locally)</td>
+<td valign="top" align="left">
+<link href="BIB2">Baruch et al., 2018</link>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Vitrinite Reflectance RJ</td>
+<td valign="top" align="left">1.5-&#x003E;2.5%</td>
+<td valign="top" align="left">
+<link href="BIB1">Close et al., 2016</link>
+</td>
+<td valign="bottom" align="left">1.3-1.6% (lower Kyalla)</td>
+<td valign="top" align="left">
+<link href="BIB3">Altmann et al., 2018</link>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Porosity</td>
+<td valign="bottom" align="left">&#x003E;7% (4% gas filled)</td>
+<td valign="top" align="left">
+<link href="BIB1">Close et al., 2016</link>
+</td>
+<td valign="top" align="left">2-10%</td>
+<td valign="top" align="left">
+<link href="BIB1">Close et al., 2016</link>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-13" type="bib">
+<bib id="BIB1">
+<label>Close et al., 2016</label>
+<author>
+<first-name>D. I.</first-name>
+<last-name>Close</last-name>
+</author>, <author>
+<first-name>E. T.</first-name>
+<last-name>Baruch</last-name>
+</author>, <author>
+<first-name>C. M.</first-name>
+<last-name>Altmann</last-name>
+</author>, <author>
+<first-name>A. J.</first-name>
+<last-name>Cote</last-name>
+</author>, <author>
+<first-name>F. M.</first-name>
+<last-name>Mohinudeen</last-name>
+</author>, <author>
+<first-name>B.</first-name>
+<last-name>Richards</last-name>
+</author>, <author>
+<first-name>S.</first-name>
+<last-name>Stonier</last-name>
+</author>, <pubDate>2016</pubDate>. Unconventional gas potential in Proterozoic source rocks: Exploring the Beetaloo Sub-basin. AGES <pages>
+<first-page>2016</first-page>
+</pages> Proceedings, Northern Territory Geological Survey.</bib>
+</linkTarget>
+<linkTarget id="link-14" type="bib">
+<bib id="BIB2">
+<label>Baruch et al., 2018</label>
+<author>
+<first-name>E. T.</first-name>
+<last-name>Baruch</last-name>
+</author>, <author>
+<first-name>C. M.</first-name>
+<last-name>Altmann</last-name>
+</author>, <author>
+<first-name>D. I.</first-name>
+<last-name>Close</last-name>
+</author>, <author>
+<first-name>M. M.</first-name>
+<last-name>Faiz</last-name>
+</author>, <author>
+<first-name>B. A.</first-name>
+<last-name>Richards</last-name>
+</author>, <author>
+<first-name>A. J.</first-name>
+<last-name>Cote</last-name>
+</author>, <pubDate>2018</pubDate>. The Kyalla Formation prospectivity from a mineralogical and sedimentological perspective; presented at AGES, Mar <pages>
+<first-page>19</first-page>
+<last-page>21</last-page>
+</pages>, Alice Springs, NT, Australia.</bib>
+</linkTarget>
+<linkTarget id="link-15" type="bib">
+<bib id="BIB3">
+<label>Altmann et al., 2018</label>
+<author>
+<first-name>C.</first-name>
+<last-name>Altmann</last-name>
+</author>, <author>
+<first-name>E.</first-name>
+<last-name>Baruch</last-name>
+</author>, <author>
+<first-name>D.</first-name>
+<last-name>Close</last-name>
+</author>, <author>
+<first-name>A.</first-name>
+<last-name>Cote</last-name>
+</author>, <author>
+<first-name>B.</first-name>
+<last-name>Richards</last-name>
+</author>, <author>
+<first-name>M.</first-name>
+<last-name>Faiz</last-name>
+</author>, <pubDate>2018</pubDate>. Could the Mezoproterozoic Kyalla Formation emerge as a viable gas condensatge source rock reservoir play in the Beetaloo Sub-basin?; presented at AEGC, Feb <pages>
+<first-page>18</first-page>
+<last-page>21</last-page>
+</pages>, Sydney, Australia.</bib>
+</linkTarget>
+</appendix>
+</docTable>
+<docTable pdf-page="4" table-order="2" data-type-order="4">
+<table-wrap id="102118191896MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Two sets of drill cutting samples from the Amungee NW-1 well (Figure 2) were characterized as part of this study. Set 1 are 10 samples from the lower Kyalla shale, Set 2 are 8 samples from the middle Velkerri B shale. The middle Velkerri B shale samples were recovered from a depth of around 2450 m, while the lower Kyalla shale samples are from a burial depth of around 1300 m. Sample details are in Table 2. The drill cuttings are of different shapes and sizes and were not further sieved to achieve a particular particle size range due to the limited quantity of sample available as to obtain representative measurements (approximately 90 g per sample).</anchoringText>
+<label>Table 2</label>
+<caption>Details of the lower Kyalla and the middle Velkerri B shale samples from the Amungee NW-1 well</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Details of the lower Kyalla and the middle Velkerri B shale samples from the Amungee NW-1 well</caption-text>
+</formatted-caption>
+<table id="102118191896MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">Sample name</th>
+<th valign="top" align="center">Depth, m</th>
+<th valign="top" align="center">Sample weight, g</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="10" valign="bottom" align="center">Set 1: lower Kyalla shale</td>
+<td valign="bottom" align="center">209</td>
+<td valign="bottom" align="center">1265-1270</td>
+<td valign="bottom" align="center">91.68</td>
+</tr>
+<tr>
+<td align="center">210</td>
+<td align="center">1270-1275</td>
+<td align="center">88.97</td>
+</tr>
+<tr>
+<td align="center">211</td>
+<td valign="top" align="center">1275-1280</td>
+<td valign="top" align="center">91.26</td>
+</tr>
+<tr>
+<td align="center">212</td>
+<td align="center">1280-1285</td>
+<td align="center">83.51</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">213</td>
+<td valign="bottom" align="center">1285-1290</td>
+<td valign="bottom" align="center">91.58</td>
+</tr>
+<tr>
+<td valign="top" align="center">214</td>
+<td valign="top" align="center">1290-1295</td>
+<td valign="top" align="center">90.81</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">215</td>
+<td valign="bottom" align="center">1295-1300</td>
+<td valign="bottom" align="center">92.00</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">216</td>
+<td align="center">1300-1305</td>
+<td align="center">92.45</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">217</td>
+<td valign="bottom" align="center">1305-1310</td>
+<td valign="bottom" align="center">91.73</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">218</td>
+<td align="center">1310-1315</td>
+<td align="center">92.03</td>
+</tr>
+</tbody>
+</table>
+<table id="102118191896MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">Sample name</th>
+<th valign="top" align="center">Depth, m</th>
+<th valign="top" align="center">Sample weight, g</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="8" valign="bottom" align="center">Set 2: mid Velkerri B shale</td>
+<td valign="bottom" align="center">495</td>
+<td valign="bottom" align="center">2433-2436</td>
+<td valign="bottom" align="center">91.92</td>
+</tr>
+<tr>
+<td valign="top" align="center">496</td>
+<td valign="top" align="center">2436-2439</td>
+<td valign="top" align="center">91.57</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">497</td>
+<td valign="bottom" align="center">2439-2442</td>
+<td valign="bottom" align="center">91.80</td>
+</tr>
+<tr>
+<td valign="top" align="center">498</td>
+<td valign="top" align="center">2442-2445</td>
+<td valign="top" align="center">91.43</td>
+</tr>
+<tr>
+<td valign="top" align="center">501</td>
+<td valign="top" align="center">2451-2454</td>
+<td valign="top" align="center">92.82</td>
+</tr>
+<tr>
+<td valign="top" align="center">502</td>
+<td valign="top" align="center">2454-2457</td>
+<td valign="top" align="center">92.26</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">503</td>
+<td valign="bottom" align="center">2457-2460</td>
+<td valign="bottom" align="center">91.92</td>
+</tr>
+<tr>
+<td valign="top" align="center">504</td>
+<td valign="top" align="center">2460-2463</td>
+<td valign="top" align="center">91.57</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

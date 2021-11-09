@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189516MS.txt" extractionDate="2021-03-26T18:11:02Z">
+<doi>10.2118/189516-MS</doi>
+<pii>10.2118/189516-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="7" table-order="1" data-type-order="10">
+<table-wrap id="102118189516MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Another consideration was taken is the fluid movement and water encroachment. By analyzing the water encroachment maps and nearby wells, it is observed that water is moving from southwest to northeast as illustrated in Fig. XXXX. Therefore, the azimuth selection was purely selected to stay away from water movement. Although there is fault, however it does not seem to be a sealing fault as the water has been noticed in some of the nearby wells. Table 1 shows the summery of selected lateral holes.</anchoringText>
+<label>Table 1</label>
+<caption>Summery of Selected Laterals</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Summery of Selected Laterals</caption-text>
+</formatted-caption>
+<table id="102118189516MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th align="center" bgcolor="#D7DEE7">Direction</th>
+<th align="center" bgcolor="#9CC3E7">Lateral 1</th>
+<th align="center" bgcolor="#9CC3E7">Lateral 2</th>
+<th align="center" bgcolor="#F3B080">Lateral 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" bgcolor="#D7DEE7">
+<b>Depth</b>
+</td>
+<td align="center" bgcolor="#BED8F1">10,733</td>
+<td align="center" bgcolor="#BED8F1">10,733</td>
+<td align="center" bgcolor="#F8CCAE">10,723</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#D7DEE7">
+<b>Azimuth</b>
+</td>
+<td align="center" bgcolor="#BED8F1">45 deg</td>
+<td align="center" bgcolor="#BED8F1">315 deg</td>
+<td align="center" bgcolor="#F8CCAE">45 deg</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="2" data-type-order="11">
+<table-wrap id="102118189516MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Table 2 and 3 shows XRD analysis and some core samples propriteries for the subject zone, indicating shale-sand rock type that contains Quartz as the major elements with traces of clays. Unfortunately, the system cannot give the percentage of clays in the rock. The clay materials are mainly Kaolinite and Pyrite, with traces of other clays type, but no smectite found in the core. Smectite is to believe to cause clay swelling with different salinity water.</anchoringText>
+<label>Table 2</label>
+<caption>XRD Analysis</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>XRD Analysis</caption-text>
+</formatted-caption>
+<table id="102118189516MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th align="center">core no.</th>
+<th align="center">XRD</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">27</td>
+<td align="left">Quartz low, Pyrite, Ankerite</td>
+</tr>
+<tr>
+<td align="center">30</td>
+<td align="left">Quartz low, Pyrite, Kaolinite, Anatase,</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="8" table-order="3" data-type-order="13">
+<table-wrap id="102118189516MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Table 2 and 3 shows XRD analysis and some core samples propriteries for the subject zone, indicating shale-sand rock type that contains Quartz as the major elements with traces of clays. Unfortunately, the system cannot give the percentage of clays in the rock. The clay materials are mainly Kaolinite and Pyrite, with traces of other clays type, but no smectite found in the core. Smectite is to believe to cause clay swelling with different salinity water.</anchoringText>
+<label>Table 3</label>
+<caption>Brief Description of the Core Plug Properties</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Brief Description of the Core Plug Properties</caption-text>
+</formatted-caption>
+<table id="102118189516MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th align="center">Core * no.</th>
+<th align="center">Depth * ft</th>
+<th align="center">L cm</th>
+<th align="center">D cm</th>
+<th align="center">BV cc</th>
+<th align="center">PV cc</th>
+<th align="center">Ø %</th>
+<th align="center">PZD μm</th>
+<th align="center">K (air) * mD</th>
+<th align="center">Ø He* %</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">27</td>
+<td align="center">10633.0</td>
+<td align="center">6.0</td>
+<td align="center">3.8</td>
+<td align="center">71.8</td>
+<td align="center">16.4</td>
+<td align="center">24.0</td>
+<td align="center">13.68</td>
+<td align="center">766.0</td>
+<td align="center">22.9</td>
+</tr>
+<tr>
+<td align="center">30</td>
+<td align="center">10636.0</td>
+<td align="center">4.1</td>
+<td align="center">3.8</td>
+<td align="center">49.3</td>
+<td align="center">9.0</td>
+<td align="center">19.2</td>
+<td align="center">11.47</td>
+<td align="center">240.0</td>
+<td align="center">19.6</td>
+</tr>
+</tbody>
+</table>
+<legend>L : Core length, cm<br />D : Core diameter, cm<br />BV : Bulk volume, cc<br />PV : Pore volume, cc<br />Ø : porosity<br />K : permeability, mDPZD : pore size distribution, μm</legend>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

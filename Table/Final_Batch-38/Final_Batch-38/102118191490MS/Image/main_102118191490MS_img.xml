@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191490MS.txt" extractionDate="2021-03-31T10:17:28Z">
+<doi>10.2118/191490-MS</doi>
+<pii>10.2118/191490-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr3">Advances in asphaltene science have led to the resolution of the molecular and colloidal structures that can exist in crude oils for geologic time. Figure 1 shows the three species routinely found in reservoir crude oils; these three species are referred to as the Yen-Mullins model of asphaltenes. (Mullins et al, 2007; Mullins et al, 2010; Mullins et al 2012) Asphaltene molecules predominantly have a core aromatic structure with peripheral alkanes.</anchoringText>
+<image-wrap id="102118191490MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118191490MS_i_1.tif" id="ImgLink-1" />
+<caption>The molecular and nanocolloidal structures of asphaltenes that can exist in reservoir crude oils for geologic time; these three species are referred to as the Yen-Mullins model. (Mullins et al, 2007; Mullins et al, 2010; Mullins et al, 2012) Asphaltenes have three solvency thresholds, not one which is the norm. Schematics of oil columns are shown: light oils with asphaltene molecules, black oils with nanoaggregates, and heavy oil with clusters, and for ‘too much asphaltenes’, heavy oil with a tar mat. In addition, an AFM image of an actual asphaltene molecule is shown with stunning resolution. (Schuler et al, 2015; Schuler et al, 2017a, Schuler et al, 2017b) Asphaltenes are generally dispersed as molecules in light oils, nanoaggregates in black oils and cluster in heavy oils.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>The molecular and nanocolloidal structures of asphaltenes that can exist in reservoir crude oils for geologic time; these three species are referred to as the Yen-Mullins model. (<link href="BIB1">Mullins et al, 2007</link>; <link href="BIB2">Mullins et al, 2010</link>; <link href="BIB3">Mullins et al, 2012</link>) Asphaltenes have three solvency thresholds, not one which is the norm. Schematics of oil columns are shown: light oils with asphaltene molecules, black oils with nanoaggregates, and heavy oil with clusters, and for ‘too much asphaltenes’, heavy oil with a tar mat. In addition, an AFM image of an actual asphaltene molecule is shown with stunning resolution. (<link href="BIB4">Schuler et al, 2015</link>; <link href="BIB5">Schuler et al, 2017a</link>, <link href="BIB6">Schuler et al, 2017b</link>) Asphaltenes are generally dispersed as molecules in light oils, nanoaggregates in black oils and cluster in heavy oils.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-14" type="bib">
+<bib id="BIB1">
+<label>Mullins and Sheu, (2007)</label>
+<author>
+<first-name>O.C.</first-name>
+<last-name>Mullins</last-name>
+</author>; <author>
+<first-name>E.Y.</first-name>
+<last-name>Sheu</last-name>
+</author>; <article-title>Hammami, A.; Marshall, A.G.;</article-title> (Editors) <i>Asphaltenes, Heavy Oil and Petroleomics</i>, Springer, New York, <pubDate>(2007)</pubDate>
+</bib>
+</linkTarget>
+<linkTarget id="link-15" type="bib">
+<bib id="BIB2">
+<label>Mullins, (2010)</label>
+<author>
+<first-name>O. C</first-name>
+<last-name>Mullins</last-name>
+</author>.; <article-title>The Modified Yen Model </article-title>, 
+<journal-title><i>Energy &amp; Fuels </i></journal-title>
+, 
+<volume>24</volume>
+, <pages>
+<first-page>2179</first-page>
+<last-page>2207</last-page>
+</pages>, <pubDate>(2010)</pubDate>
+</bib>
+</linkTarget>
+<linkTarget id="link-16" type="bib">
+<bib id="BIB3">
+<label>Mullins et al., (2012)</label>
+<author>
+<first-name>O. C.</first-name>
+<last-name>Mullins</last-name>
+</author>; <author>
+<first-name>H.</first-name>
+<last-name>Sabbah</last-name>
+</author>; <author>
+<first-name>J.</first-name>
+<last-name>Eyssautier</last-name>
+</author>; <author>
+<first-name>A. E.</first-name>
+<last-name>Pomerantz</last-name>
+</author>; <author>
+<first-name>L.</first-name>
+<last-name>Barré</last-name>
+</author>; <author>
+<first-name>A. B.</first-name>
+<last-name>Andrews</last-name>
+</author>; <author>
+<first-name>Y.</first-name>
+<last-name>Ruiz-Morales</last-name>
+</author>; <author>
+<first-name>F.</first-name>
+<last-name>Mostowfi</last-name>
+</author>; <author>
+<first-name>R.</first-name>
+<last-name>McFarlane</last-name>
+</author>; <author>
+<first-name>L.</first-name>
+<last-name>Goual</last-name>
+</author>; <author>
+<first-name>R.</first-name>
+<last-name>Lepkowicz</last-name>
+</author>; <author>
+<first-name>T.</first-name>
+<last-name>Cooper</last-name>
+</author>; <author>
+<first-name>J.</first-name>
+<last-name>Orbulescu</last-name>
+</author>; <author>
+<first-name>J. M.</first-name>
+<last-name>Leblanc</last-name>
+</author>; <author>
+<first-name>J.</first-name>
+<last-name>Edwards</last-name>
+</author>; <author>
+<first-name>R. N.</first-name>
+<last-name>Zare</last-name>
+</author>; <article-title>Advances in Asphaltene Science and the Yen-Mullins Model </article-title>, 
+<journal-title><i>Energy &amp; Fuels </i></journal-title>
+, 
+<volume>26</volume>
+, <pages>
+<first-page>3986</first-page>
+<last-page>4003</last-page>
+</pages>, <pubDate>(2012)</pubDate>
+</bib>
+</linkTarget>
+<linkTarget id="link-17" type="bib">
+<bib id="BIB4">
+<label>Schuler et al., (2015)</label>
+<author>
+<first-name>B.</first-name>
+<last-name>Schuler</last-name>
+</author>; <author>
+<first-name>G.</first-name>
+<last-name>Meyer</last-name>
+</author>; <author>
+<first-name>D.</first-name>
+<last-name>Pena</last-name>
+</author>; <author>
+<first-name>O. C.</first-name>
+<last-name>Mullins</last-name>
+</author>; <author>
+<first-name>L.</first-name>
+<last-name>Gross</last-name>
+</author>; <article-title>Unraveling the molecular structures of asphaltenes by atomic force microscopy </article-title>, 
+<journal-title><i>J. Amer. Chem. Soc . </i></journal-title>
+, 
+<volume>137</volume>
+
+<b>
+</b>
+<issue>(31)</issue>, <pages>
+<first-page>9870</first-page>
+<last-page>9876</last-page>
+</pages>, <pubDate>(2015)</pubDate>
+</bib>
+</linkTarget>
+<linkTarget id="link-18" type="bib">
+<bib id="BIB5">
+<label>Schuler et al., (2017a)</label>
+<author>
+<first-name>B.</first-name>
+<last-name>Schuler</last-name>
+</author>; <author>
+<first-name>S.</first-name>
+<last-name>Fatayer</last-name>
+</author>; <author>
+<first-name>G.</first-name>
+<last-name>Meyer</last-name>
+</author>; <author>
+<first-name>E.</first-name>
+<last-name>Rogel</last-name>
+</author>; <author>
+<first-name>M.</first-name>
+<last-name>Moir</last-name>
+</author>; <author>
+<first-name>Y.</first-name>
+<last-name>Zhang</last-name>
+</author>; <author>
+<first-name>M. R.</first-name>
+<last-name>Harper</last-name>
+</author>; <author>
+<first-name>A. E.</first-name>
+<last-name>Pomerantz</last-name>
+</author>; <author>
+<first-name>K.</first-name>
+<last-name>Bake</last-name>
+</author>; <author>
+<first-name>M.</first-name>
+<last-name>Witt</last-name>
+</author>; <author>
+<first-name>D.</first-name>
+<last-name>Pena</last-name>
+</author>; <author>
+<first-name>J. D.</first-name>
+<last-name>Kushnerick</last-name>
+</author>; <author>
+<first-name>O. C.</first-name>
+<last-name>Mullins</last-name>
+</author>; <author>
+<first-name>C.</first-name>
+<last-name>Ovalles</last-name>
+</author>; <author>
+<first-name>F. G. A.</first-name>
+<last-name>van den Berg</last-name>
+</author>; <author>
+<first-name>L.</first-name>
+<last-name>Gross</last-name>
+</author>; <article-title>Heavy oil mixtures of different origins and treatments studied by AFM </article-title>, 
+<journal-title><i>Energy Fuels </i></journal-title>
+, 
+<volume>31</volume>
+
+<b>
+</b>
+<issue>(7)</issue>, <pages>
+<first-page>6856</first-page>
+<last-page>6861</last-page>
+</pages>
+<pubDate>(2017a)</pubDate>
+</bib>
+</linkTarget>
+<linkTarget id="link-19" type="bib">
+<bib id="BIB6">
+<label>Schuler et al., (2017b)</label>
+<author>
+<first-name>B.</first-name>
+<last-name>Schuler</last-name>
+</author>; <author>
+<first-name>Y.</first-name>
+<last-name>Zhang</last-name>
+</author>; <author>
+<first-name>S.</first-name>
+<last-name>Collazos</last-name>
+</author>; <author>
+<first-name>S.</first-name>
+<last-name>Fatayer</last-name>
+</author>; <author>
+<first-name>G.</first-name>
+<last-name>Meyer</last-name>
+</author>; <author>
+<first-name>D.</first-name>
+<last-name>Perez</last-name>
+</author>; <author>
+<first-name>E.</first-name>
+<last-name>Guitian</last-name>
+</author>; <author>
+<first-name>M. R.</first-name>
+<last-name>Harper</last-name>
+</author>; <author>
+<first-name>J. D.</first-name>
+<last-name>Kushnerick</last-name>
+</author>; <author>
+<first-name>D.</first-name>
+<last-name>Pena</last-name>
+</author>; <author>
+<first-name>L.</first-name>
+<last-name>Gross</last-name>
+</author>
+<article-title>Characterizing aliphatic moieties in hydrocarbons with atomic force microscopy </article-title>. 
+<journal-title><i>Chem. Sci . </i></journal-title>
+
+
+<volume>8</volume>
+, <pages>
+<first-page>2315</first-page>
+<last-page>2320</last-page>
+</pages>, <pubDate>(2017b)</pubDate>
+</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr4">In addition to the definitions above, hi is height of point i in the column, Ca(hi) is the asphaltene concentration of crude oil at point hi in the oil column, OD(hi) is optical density or color of the crude oil at point i in the column, R is the ideal gas law constant, T is temperature. Figure 2 provides a schematic to understand the terms in FHZ EoS.</anchoringText>
+<image-wrap id="102118191490MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118191490MS_i_2.tif" id="ImgLink-2" />
+<caption>Schematic identifying the terms in the FHZ EoS for asphaltene gradients in oilfield reservoirs. (Freed et al; 2010; Zuo et al, 2013; Freed et al, 2014) The gravity term accounts for the negative buoyancy of asphaltene particles in crude oil, as well as the thermal energy available to elevate them. Bigger asphaltene particles (clusters) tend to be lower in the column producing larger gradients. The solubility term accounts for the chemical axiom "like dissolves like". High solution gas reduces asphaltene solvency, so large GOR gradients cause large asphaltene gradients. The entropy term tends to be somewhat small and causes random distributions.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Schematic identifying the terms in the FHZ EoS for asphaltene gradients in oilfield reservoirs. (<link href="BIB7">Freed et al; 2010</link>; <link href="BIB8">Zuo et al, 2013</link>; <link href="BIB88">Freed et al, 2014</link>) The gravity term accounts for the negative buoyancy of asphaltene particles in crude oil, as well as the thermal energy available to elevate them. Bigger asphaltene particles (clusters) tend to be lower in the column producing larger gradients. The solubility term accounts for the chemical axiom "like dissolves like". High solution gas reduces asphaltene solvency, so large GOR gradients cause large asphaltene gradients. The entropy term tends to be somewhat small and causes random distributions.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-1" type="bib">
+<bib id="BIB88">
+<label>Freed et al, 2014</label>
+<author><last-name>Freed</last-name>,<first-name> D.E.</first-name></author>; <author><last-name>Mullins</last-name>, <first-name>O.C</first-name></author>.; <author><last-name>Zuo</last-name>, <first-name>J.Y.</first-name></author>; <article-title>Heuristics for Equilibrium Distributions of Asphaltenes in the Presence of GOR Gradients</article-title>, Energy &amp; Fuels, <volume>28</volume> (<issue>81</issue>), <first-page>48591</first-page>&#x2013;<last-page>4869</last-page> <pubDate>(2014)</pubDate></bib>
+</linkTarget>
+<linkTarget id="link-20" type="bib">
+<bib id="BIB7">
+<label>Freed et al., (2010)</label>
+<author>
+<first-name>D. E.</first-name>
+<last-name>Freed</last-name>
+</author>; <author>
+<first-name>O. C.</first-name>
+<last-name>Mullins</last-name>
+</author>; <author>
+<first-name>J. Y.</first-name>
+<last-name>Zuo</last-name>
+</author>; <article-title>Asphaltene gradients in the presence of GOR gradients </article-title>, 
+<journal-title><i>Energy &amp; Fuels </i></journal-title>
+, 
+<volume>24</volume>
+
+<b>
+</b>
+<issue>(7)</issue>, <pages>
+<first-page>3942</first-page>
+<last-page>3949</last-page>
+</pages>, <pubDate>(2010)</pubDate>
+</bib>
+</linkTarget>
+<linkTarget id="link-21" type="bib">
+<bib id="BIB8">
+<label>Zuo et al., (2013)</label>
+<author>
+<first-name>J. Y.</first-name>
+<last-name>Zuo</last-name>
+</author>; <author>
+<first-name>O. C.</first-name>
+<last-name>Mullins</last-name>
+</author>; <author>
+<first-name>D. E.</first-name>
+<last-name>Freed</last-name>
+</author>; <author>
+<first-name>C.</first-name>
+<last-name>Dong</last-name>
+</author>; <author>
+<first-name>H.</first-name>
+<last-name>Elshahawi</last-name>
+</author>; <author>
+<first-name>D. J.</first-name>
+<last-name>Seifert</last-name>
+</author>; <article-title>Advances in the Flory-Huggins-Zuo Equation of State for Asphaltene Gradients and Formation Evaluation </article-title>, 
+<journal-title><i>Energy &amp; Fuels </i></journal-title>
+, 
+<volume>27</volume>
+, <pages>
+<first-page>1722</first-page>
+<last-page>1735</last-page>
+</pages>, <pubDate>(2013)</pubDate>
+</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr5">Figure 3 shows a schematic of reservoir fluid geodynamics. To understand important concerns of reservoirs listed on the right such as connectivity, GOR gradients, heavy oil formation, and tar mats, it is highly desirable to understand how the oil columns came to be. In a geology context, it is important to understand the deposition setting (e.g. turbidites, carbonate platform, near shore facies) and the "geodynamics" of the formation post deposition. Treating fluids, the same way, petroleum system modeling provides the timing, type and volume of fluids charging into the reservoir. RFG accounts for redistribution of these fluids, and their phase changes, during and post charge. RFG resolves an important shortcoming in reservoir evaluation. (Mullins et al, 2015b; Mullins et al, 2016; Mullins et al 2017b)</anchoringText>
+<image-wrap id="102118191490MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118191490MS_i_3.tif" id="ImgLink-3" />
+<caption>Reservoir fluid geodynamics (RFG) accounts for fluid redistributions and phase change of reservoir fluid during and post charge. Resolution of asphaltene thermodynamics is a critical enabler of RFG to understand many reservoir concerns including reservoir connectivity, viscosity profiles, tar mats, and asphaltene onset pressure. The petroleum system context is listed in red on the left, the RFG processes in blue in the center, and the reservoir concerns in black on the right.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Reservoir fluid geodynamics (RFG) accounts for fluid redistributions and phase change of reservoir fluid during and post charge. Resolution of asphaltene thermodynamics is a critical enabler of RFG to understand many reservoir concerns including reservoir connectivity, viscosity profiles, tar mats, and asphaltene onset pressure. The petroleum system context is listed in red on the left, the RFG processes in blue in the center, and the reservoir concerns in black on the right.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr6">The Ivar Aasen (IA) oilfield is located on the Gudrun Terrace on the eastern flank of the Viking Graben in the Norwegian North Sea. Figure 4 shows a cross section of the sedimentary sequence in the Ivar Aasen oilfield. It is a complex reservoir in which the majority of the volumes is located in Triassic channel sands. Net/Gross in some parts of the Skagerrak Formation is as low as 0.35 to 0.55. Connectivity was hence a natural concern at pre-production stages of the field development. Figure 5 show a fluid cross section of the oilfield. Log data and oil samples from 6 wells are discussed.</anchoringText>
+<image-wrap id="102118191490MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118191490MS_i_4.tif" id="ImgLink-4" />
+<caption>Cross section of the sedimentary sequence of the Ivar Aasen oilfield. The impermeable Heather shale overlays sediments of Jurassic and Triassic age. Net/Gross of the Jurassic sands (Sleipner and Hugin Fms.) are in general higher than the Triassic sands (Skagerrak Fm.).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Cross section of the sedimentary sequence of the Ivar Aasen oilfield. The impermeable Heather shale overlays sediments of Jurassic and Triassic age. Net/Gross of the Jurassic sands (Sleipner and Hugin Fms.) are in general higher than the Triassic sands (Skagerrak Fm.).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr7">The Ivar Aasen (IA) oilfield is located on the Gudrun Terrace on the eastern flank of the Viking Graben in the Norwegian North Sea. Figure 4 shows a cross section of the sedimentary sequence in the Ivar Aasen oilfield. It is a complex reservoir in which the majority of the volumes is located in Triassic channel sands. Net/Gross in some parts of the Skagerrak Formation is as low as 0.35 to 0.55. Connectivity was hence a natural concern at pre-production stages of the field development. Figure 5 show a fluid cross section of the oilfield. Log data and oil samples from 6 wells are discussed.</anchoringText>
+<image-wrap id="102118191490MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118191490MS_i_5.tif" id="ImgLink-5" />
+<caption>Fluid Cross section of the Ivar Aasen oilfield. Log data from 6 wells is analyzed, along with downhole fluid analysis (DFA) and lab data from several sampling points which are indicated by hashtagnumbers in each well. Connectivity and possible complexities of oil properties need to be understood.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Fluid Cross section of the Ivar Aasen oilfield. Log data from 6 wells is analyzed, along with downhole fluid analysis (DFA) and lab data from several sampling points which are indicated by hashtagnumbers in each well. Connectivity and possible complexities of oil properties need to be understood.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="6" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr8">Figure 6C indicates that most of the reservoir has equilibrated asphaltenes; this indicates that this large portion of the reservoir is likely connected. This is consistent with over one year of production data from the field. Large fluid flow is generally required in the reservoir to have equilibrated asphaltenes. (Mullins et al, 2017a) Points off the equilibrium curve are likely not connected, points 5 and 15. Point 5 is located on the extreme left flank of the field while point 15 is on the right flank of the field. Figure 6D shows the preferred thermal maturity analysis using the ratio Ts/(Ts+Tm). (Peters et al, 2005) Ts is 18α(H)-22,29,30-trisnorhopane, Tm is 17α(H)-22,29,30-trisnorhopane. At high temperature kerogen catagenesis (producing a more mature crude oil), there is a great fraction of the more stable structural isomer Ts compared to Tm; a mnemonic is s for stable, m for metastable.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-6">
+<label>Figure 6</label>
+<caption>Downhole and lab evaluation of the Ivar Aasen oils. (A) Field map with wells. (B) Schematic of light oil column with asphaltene molecular dispersion. (C) Downhole fluid analysis (DFA) optical density (OD) data at a wavelength of 815 nm. Most of the oil color falls on a single gradient line which matches the FHZ EoS using a 1.05 nm particle size (molecules). Oil measurements at points on this equilibrium line are likely connected. This prediction matches over one year of production data to date. Two samples are not equilibrated and not connected, points 5 and 15. Crude 5 has half the asphaltene content (half the color) and crude oil 15 has three times the oil color. (D) Thermal maturity analysis using Ts and Tm biomarkers measured by GCxGC. All points are the same high maturity except points 5 and 15. High maturity is consistent with low asphaltene content and the molecular dispersion of asphaltenes. Point 5 is higher maturity, consistent with its lower asphaltene content and point 15 is lower maturity, consistent with its higher asphaltene content.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Downhole and lab evaluation of the Ivar Aasen oils. (A) Field map with wells. (B) Schematic of light oil column with asphaltene molecular dispersion. (C) Downhole fluid analysis (DFA) optical density (OD) data at a wavelength of 815 nm. Most of the oil color falls on a single gradient line which matches the FHZ EoS using a 1.05 nm particle size (molecules). Oil measurements at points on this equilibrium line are likely connected. This prediction matches over one year of production data to date. Two samples are not equilibrated and not connected, points 5 and 15. Crude 5 has half the asphaltene content (half the color) and crude oil 15 has three times the oil color. (D) Thermal maturity analysis using Ts and Tm biomarkers measured by GCxGC. All points are the same high maturity except points 5 and 15. High maturity is consistent with low asphaltene content and the molecular dispersion of asphaltenes. Point 5 is higher maturity, consistent with its lower asphaltene content and point 15 is lower maturity, consistent with its higher asphaltene content.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191490MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118191490MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>A</caption-order>
+<caption-text>Field map with wells.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191490MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118191490MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>B</caption-order>
+<caption-text>Schematic of light oil column with asphaltene molecular dispersion.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191490MS-Img_SPi-6c">
+<imageLink type="mediaResource" href="102118191490MS_i_6c.tif" id="ImgLink-6c" />
+<figure-specific-caption>
+<caption-order>C</caption-order>
+<caption-text>Downhole fluid analysis (DFA) optical density (OD) data at a wavelength of 815 nm.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191490MS-Img_SPi-6d">
+<imageLink type="mediaResource" href="102118191490MS_i_6d.tif" id="ImgLink-6d" />
+<figure-specific-caption>
+<caption-order>D</caption-order>
+<caption-text>Thermal maturity analysis using Ts and Tm biomarkers measured by GCxGC</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="7" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr9">Pressure equilibration is a necessary but insufficient condition for flow connectivity. Only small mass transfers are necessary to equilibrate pressure. Fluid equilibration requires extensive fluid flow in reservoirs, thus is a more robust indication of flow connectivity. Fig. 7A shows the excess pressure plot for this oilfield. All wells except one overlay indicating possible connectivity. The 16/1-9 well has an excess pressure off trend by about one bar. This is a large offset; however, it is about equal to the maximum expected error so this pressure offset is not conclusively indicating the lack of connectivity for this well. The only DFA station in this well (#158 in Figs. 5 and 6) is consistent with connectivity.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-7">
+<label>Figure 7</label>
+<imageLink type="mediaResource" href="102118191490MS_i_7.tif" id="ImgLink-7" />
+<caption>A&#x2013;Excess pressure. For all wells except 16/1-9, the pressures overlay which is consistent with connectivity. The one outlier well has a pressure that deviates by about 1 bar. This is about the limit of error; thus, for this well, the measurement is inconclusive regarding connectivity. Also, point #15 and nearby points are off the pressure curve by 1 bar or more at the base of well 16/1-6 further indicating lack of connectivity for this point. (B) The GOR gradient largely matches the cubic EoS within its rather large error, thus is consistent with connectivity. Since the pressures are all the same, the oils degassed essentially to the same point, thus is inconclusive about connectivity. Sample 15 has a relatively low GOR and sample #5 has a relatively high GOR matching expectations about maturity. Nevertheless, the offsets are very subtle due to degassing.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>A&#x2013;Excess pressure. For all wells except 16/1-9, the pressures overlay which is consistent with connectivity. The one outlier well has a pressure that deviates by about 1 bar. This is about the limit of error; thus, for this well, the measurement is inconclusive regarding connectivity. Also, point #15 and nearby points are off the pressure curve by 1 bar or more at the base of well 16/1-6 further indicating lack of connectivity for this point. (B) The GOR gradient largely matches the cubic EoS within its rather large error, thus is consistent with connectivity. Since the pressures are all the same, the oils degassed essentially to the same point, thus is inconclusive about connectivity. Sample 15 has a relatively low GOR and sample #5 has a relatively high GOR matching expectations about maturity. Nevertheless, the offsets are very subtle due to degassing.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191490MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118191490MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order>A</caption-order>
+<caption-text>Excess pressure. For all wells except 16/1-9, the pressures overlay which is consistent with connectivity</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191490MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118191490MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order>B</caption-order>
+<caption-text>The GOR gradient largely matches the cubic EoS within its rather large error, thus is consistent with connectivity</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr10">The GOR gradient is shown in Fig. 7B. The downhole and lab GOR measurements are consistent with equilibration and connectivity, within the relatively large error of GOR measurements. As shown in Fig. 7A, all the crude oils are essentially in a single pressure gradient, thus all oils degassed to roughly equivalent extents. The GOR gradient reflects this similar outgassing. Compositions are shown in Fig. 8. As with GOR, the fraction of light ends is dictated to be similar for these similar crude oils as they all outgassed to the same pressure regime. There is a small quantity of CO2 in the reservoir as shown in Fig. 8B, and as with other light ends, it is rather homogeneous and consistent with equilibrium.</anchoringText>
+<image-wrap id="102118191490MS-Img_SPi-8">
+<label>Figure 8</label>
+<imageLink type="mediaResource" href="102118191490MS_i_8.tif" id="ImgLink-8" />
+<caption>Composition. (A) The C<sub>1</sub>, C<sub>2</sub>-C<sub>5</sub> and C<sub>6</sub>+ compositions are consistent with equilibrium, thus connectivity. As with GOR, the similar pressure regime coupled with the similar crude oils dictates similar compositions. (B) There is a small quantity of CO<sub>2</sub> in the crude oil, and is very similar in all samples.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Composition. (A) The C<sub>1</sub>, C<sub>2</sub>-C<sub>5</sub> and C<sub>6</sub>+ compositions are consistent with equilibrium, thus connectivity. As with GOR, the similar pressure regime coupled with the similar crude oils dictates similar compositions. (B) There is a small quantity of CO<sub>2</sub> in the crude oil, and is very similar in all samples.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191490MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118191490MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>A</caption-order>
+<caption-text>The C<sub>1</sub>, C<sub>2</sub>-C<sub>5</sub> and C<sub>6</sub>+ compositions are consistent with equilibrium, thus connectivity. As with GOR, the similar pressure regime coupled with the similar crude oils dictates similar compositions.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191490MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118191490MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>B</caption-order>
+<caption-text>There is a small quantity of CO<sub>2</sub> in the crude oil, and is very similar in all samples.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr11">Conventional GC is used to analyze the liquid phase of all collected samples especially for the lower carbon number compounds. Figure 9 shows peak assignments for sample #11 from well 16/1-21A. Mild biodegradation is indicated; there is a hollowing out of n-alkanes near n-heptane causing branched and cyclic alkanes of similar carbon numbers to be larger. However, the n-C17+ range looks unperturbed by biodegradation. (Betancourt et al, 2018) The level of biodegradation is roughly Peters- Moldovan rank=1.</anchoringText>
+<image-wrap id="102118191490MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118191490MS_i_9.tif" id="ImgLink-9" />
+<caption>Conventional GC of sample #11. Mild biodegradation (PM rank=1) is observed with some reduction of <i>n-</i>alkanes around <i>n</i>-heptane. Current reservoir temperature is 99 °C which is too hot for any current biodegradation.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Conventional GC of sample #11. Mild biodegradation (PM rank=1) is observed with some reduction of n-alkanes around n-heptane. Current reservoir temperature is 99 °C which is too hot for any current biodegradation.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr12">Figure 10 compares the lighter liquid components of the eight samples listed in Table 1 from the six wells. It is evident that the extent of biodegradation is very similar in all the samples. In particular, sample #15 with triple the asphaltene content, and sample #5 with half the asphaltene content compared to all other samples have very similar levels of biodegradation. The differences in asphaltene content are due to thermal maturity variations as discussed earlier, not due to different levels of biodegradation. Asphaltene content does change by a factor of 3 in going from no biodegradation, PM rank=0, to severe biodegradation, PM rank=6, because the microbes can consume ~2/3 of the crude oil. (Head et al, 2003) For these crude oils, the differences in biodegradation are slight.</anchoringText>
+<image-wrap id="102118191490MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118191490MS_i_10.tif" id="ImgLink-10" />
+<caption>Conventional GC for the eight Ivar Aasen crude oils. All samples exhibit mild biodegradation, PM rank=1. Sample 8 shows the smallest <i>n</i>-heptane peak, so is slightly more biodegraded and is the closest to the oil-water contact (OWC). (Betancourt et al, 2018) Samples #5 and #15 are isolated; nevertheless, exhibit the same degree of biodegradation as the connected sands. This indicates that biodegraded oil charged into this reservoir as opposed have the bulk of the bulk of biodegradation within this reservoir.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Conventional GC for the eight Ivar Aasen crude oils. All samples exhibit mild biodegradation, PM rank=1. Sample 8 shows the smallest n-heptane peak, so is slightly more biodegraded and is the closest to the oil-water contact (OWC). (<link href="BIB9">Betancourt et al, 2018</link>) Samples #5 and #15 are isolated; nevertheless, exhibit the same degree of biodegradation as the connected sands. This indicates that biodegraded oil charged into this reservoir as opposed have the bulk of the bulk of biodegradation within this reservoir.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-23" type="bib">
+<bib id="BIB9">
+<label>Betancourt et al., (2018)</label>
+<author>
+<first-name>S. S.</first-name>
+<last-name>Betancourt</last-name>
+</author>; <author>
+<first-name>Y. B.</first-name>
+<last-name>Johansen</last-name>
+</author>; <author>
+<first-name>J. C.</first-name>
+<last-name>Forsythe</last-name>
+</author>; <author>
+<first-name>J.</first-name>
+<last-name>Rinna</last-name>
+</author>; <author>
+<first-name>V.</first-name>
+<last-name>Achourov</last-name>
+</author>; <author>
+<first-name>J.</first-name>
+<last-name>Canas</last-name>
+</author>; <author>
+<first-name>L.</first-name>
+<last-name>Chen</last-name>
+</author>; <author>
+<first-name>A. E.</first-name>
+<last-name>Pomerantz</last-name>
+</author>; <author>
+<first-name>J. Y.</first-name>
+<last-name>Zuo</last-name>
+</author>; <article-title>Mullins, O.C.; Gravitational Gradient of Asphaltene Molecules in an Oilfield Reservoir with Light Oil, Energy &amp; Fuels </article-title>
+<i />. 
+<journal-title>2018 </journal-title>
+, <volume>32</volume>, <issue>4</issue>, <pages>
+<first-page>4911</first-page>
+<last-page>4924</last-page>
+</pages>, <pubDate>(2018)</pubDate>
+</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="11" data-type-order="13">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr13">Selected core images with the customary visible light illumination and UV illumination are reviewed showing important properties of the reservoir especially as relate to fluid distributions discussed above. Figure 11 shows core images through the reservoir section for well 16/1-21_S.</anchoringText>
+<image-wrap id="102118191490MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118191490MS_i_11.tif" id="ImgLink-11" />
+<caption>Core images of the reservoir section for well 16/1-21_S. Core UV-induced fluorescence is obtained in the zones indicated to have oil by petrophysical analysis. The net-to-gross values for the reservoir section is less than unity; equilibration of fluid components requires more than just vertical displacement; lateral displacement is also required increasing requisite distances.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Core images of the reservoir section for well 16/1-21_S. Core UV-induced fluorescence is obtained in the zones indicated to have oil by petrophysical analysis. The net-to-gross values for the reservoir section is less than unity; equilibration of fluid components requires more than just vertical displacement; lateral displacement is also required increasing requisite distances.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="12" data-type-order="14">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr14">The cores in Fig. 12 and 13 do not exhibit any asphaltene deposition, obviating concern with potential pernicious effects of asphaltene deposition. When the crude oil has a low content of asphaltenes, there can be concern that a process such as gas charging into the oil knocked the asphaltenes out of the oil leading to deposition in the reservoir. (Pfeiffer et al, 2016) In the case herein, the crude oil is high maturity (Fig. 6D), thus the crude oil started with little asphaltene content. In addition, the crude oils #5 and #15 shows expected trends of asphaltene content with maturity, consistent with a lack of alteration from an RFG process destabilizing the asphaltenes.</anchoringText>
+<image-wrap id="102118191490MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118191490MS_i_12.tif" id="ImgLink-12" />
+<caption>Core images of the reservoir section for well 16/1-21A. As in Fig. 11, there is good agreement between the petrophysical identification of producible oil and UV-induced fluorescence in the core images. This petrophysical analysis helped determine sampling depths.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Core images of the reservoir section for well 16/1-21A. As in <link href="102118191490MS-Img_SPi-11">Fig. 11</link>, there is good agreement between the petrophysical identification of producible oil and UV-induced fluorescence in the core images. This petrophysical analysis helped determine sampling depths.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="12" figure-order="13" data-type-order="15">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr15">The cores in Fig. 12 and 13 do not exhibit any asphaltene deposition, obviating concern with potential pernicious effects of asphaltene deposition. When the crude oil has a low content of asphaltenes, there can be concern that a process such as gas charging into the oil knocked the asphaltenes out of the oil leading to deposition in the reservoir. (Pfeiffer et al, 2016) In the case herein, the crude oil is high maturity (Fig. 6D), thus the crude oil started with little asphaltene content. In addition, the crude oils #5 and #15 shows expected trends of asphaltene content with maturity, consistent with a lack of alteration from an RFG process destabilizing the asphaltenes.</anchoringText>
+<image-wrap id="102118191490MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118191490MS_i_13.tif" id="ImgLink-13" />
+<caption>(A) DFA data on left. The four DFA stations from Well 16/1-16 are shown in large blue symbols with red squares. The upper three points are on trend while the lowest point has three times the color. (B) Petrophysical logs leading to identification of mobile oil. (C) Whole core for a section of the well identifying a sealing fault isolating sample #15 with light oil fluorescence above the fault and little fluorescence below.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>(A) DFA data on left. The four DFA stations from Well 16/1-16 are shown in large blue symbols with red squares. The upper three points are on trend while the lowest point has three times the color. (B) Petrophysical logs leading to identification of mobile oil. (C) Whole core for a section of the well identifying a sealing fault isolating sample #15 with light oil fluorescence above the fault and little fluorescence below.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191490MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118191490MS_i_13a.tif" id="ImgLink-13a" />
+<figure-specific-caption>
+<caption-order>A</caption-order>
+<caption-text>DFA data on left</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191490MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118191490MS_i_13b.tif" id="ImgLink-13b" />
+<figure-specific-caption>
+<caption-order>B</caption-order>
+<caption-text>Petrophysical logs leading to identification of mobile oil.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191490MS-Img_SPi-13c">
+<imageLink type="mediaResource" href="102118191490MS_i_13c.tif" id="ImgLink-13c" />
+<figure-specific-caption>
+<caption-order>C</caption-order>
+<caption-text>Whole core for a section of the well identifying a sealing fault isolating sample #15 with light oil fluorescence above the fault and little fluorescence below</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

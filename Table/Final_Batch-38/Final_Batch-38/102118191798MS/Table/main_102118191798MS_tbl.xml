@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191798MS.txt" extractionDate="2021-03-31T12:01:12Z">
+<doi>10.2118/191798-MS</doi>
+<pii>10.2118/191798-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="6" table-order="1" data-type-order="5">
+<table-wrap id="102118191798MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">A linear regression of Y on the individual predictor variables yields a maximum R2 of 0.45 with |X5| (Table 1). If we regress Y on |X1|, |X2|, |X3|, X4, |X5|, and X6 using the MLR, we obtain a higher R2 of 0.68 and an F-statistic of 137.3 on 393 degrees of freedom. Thus, approx. 32% of the variation in Y outcomes is still not explained by the conventional MLR, even though we have included all the predictors that affect the Y variable. Table 2 shows the regression results of the Y variable vs. all of the six predictor variables. This table presents the regression coefficients, standard errors, t-values, p-values, and variable significance.</anchoringText>
+<label>Table 1</label>
+<caption>R<sup>2</sup> and p-value results summary for the simulated data.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>R<sup>2</sup> and p-value results summary for the simulated data.</caption-text>
+</formatted-caption>
+<table id="102118191798MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Response Variable</th>
+<th valign="top" align="center">Predictor Variable</th>
+<th valign="top" align="center">R<sup>2</sup>
+</th>
+<th valign="top" align="center">p-Value</th>
+<th valign="top" align="center">Significance</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td id="tfn-1" colspan="5" align="left">Signif. abbr.: HSS = highly statistically significant, SS = statistically significant, and NS = not significant</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td valign="bottom" align="center">
+<i>Y</i>
+</td>
+<td valign="bottom" align="center">|<i>X</i>
+<sub>1</sub>|</td>
+<td valign="bottom" align="right">0.0108</td>
+<td valign="bottom" align="right">0.038</td>
+<td valign="bottom" align="center">SS</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<i>Y</i>
+</td>
+<td valign="bottom" align="center">|<i>X</i>
+<sub>2</sub>|</td>
+<td valign="bottom" align="right">&#x003C;0.0001</td>
+<td valign="bottom" align="right">0.982</td>
+<td valign="bottom" align="center">NS</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<i>Y</i>
+</td>
+<td valign="bottom" align="center">|<i>X</i>
+<sub>3</sub>|</td>
+<td valign="bottom" align="right">0.0545</td>
+<td valign="bottom" align="right">&#x003C;0.001</td>
+<td valign="bottom" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<i>Y</i>
+</td>
+<td valign="bottom" align="center">|<i>X</i>
+<sub>4</sub>|</td>
+<td valign="bottom" align="right">0.0231</td>
+<td valign="bottom" align="right">0.002</td>
+<td valign="bottom" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<i>Y</i>
+</td>
+<td valign="bottom" align="center">|X<sub>5</sub>|</td>
+<td valign="bottom" align="right">0.4460</td>
+<td valign="bottom" align="right">&#x003C;0.001</td>
+<td valign="bottom" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<i>Y</i>
+</td>
+<td valign="top" align="center">|<i>X</i>
+<sub>6</sub>|</td>
+<td valign="top" align="right">0.1270</td>
+<td valign="top" align="right">&#x003C;0.001</td>
+<td valign="top" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<i>Y</i>
+</td>
+<td valign="top" align="center">|<i>X</i>
+<sub>1</sub>|, |<i>X</i>
+<sub>2</sub>|, |<i>X</i>
+<sub>3</sub>|, |<i>X</i>
+<sub>4</sub>|, |<i>X</i>
+<sub>5</sub>|, |<i>X</i>
+<sub>6</sub>|</td>
+<td valign="top" align="right">0.6771</td>
+<td valign="top" align="right">Table 2</td>
+<td valign="top" align="center">Table 2</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="6" table-order="2" data-type-order="6">
+<table-wrap id="102118191798MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">A linear regression of Y on the individual predictor variables yields a maximum R2 of 0.45 with |X5| (Table 1). If we regress Y on |X1|, |X2|, |X3|, X4, |X5|, and X6 using the MLR, we obtain a higher R2 of 0.68 and an F-statistic of 137.3 on 393 degrees of freedom. Thus, approx. 32% of the variation in Y outcomes is still not explained by the conventional MLR, even though we have included all the predictors that affect the Y variable. Table 2 shows the regression results of the Y variable vs. all of the six predictor variables. This table presents the regression coefficients, standard errors, t-values, p-values, and variable significance.</anchoringText>
+<label>Table 2</label>
+<caption>MLR results for the simulated data with six predictor variables.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>MLR results for the simulated data with six predictor variables.</caption-text>
+</formatted-caption>
+<table id="102118191798MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">Coefficients</th>
+<th valign="top" align="center">Std. Error</th>
+<th valign="top" align="center">f-Value</th>
+<th valign="top" align="center">p-Value</th>
+<th valign="top" align="center">Significance</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td id="tfn-2" colspan="6" align="left">Signif. abbr.: HSS = highly statistically significant, SS = statistically significant, and NS = not significant</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td valign="bottom" align="center">(Intercept)</td>
+<td valign="bottom" align="center">35.9688</td>
+<td valign="bottom" align="right">1.0619</td>
+<td valign="bottom" align="right">33.872</td>
+<td valign="bottom" align="right">&#x003C;0.001</td>
+<td valign="bottom" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="top" align="center">|<i>X</i>
+<sub>1</sub>|</td>
+<td valign="top" align="center">-1.9428</td>
+<td valign="top" align="right">1.0578</td>
+<td valign="top" align="right">-1.837</td>
+<td valign="top" align="right">0.067</td>
+<td valign="top" align="center">NS</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">|<i>X</i>
+<sub>2</sub>|</td>
+<td valign="bottom" align="center">-0.6958</td>
+<td valign="bottom" align="right">1.0952</td>
+<td valign="bottom" align="right">-0.635</td>
+<td valign="bottom" align="right">0.526</td>
+<td valign="bottom" align="center">NS</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">|<i>X</i>
+<sub>3</sub>|</td>
+<td valign="bottom" align="center">8.4360</td>
+<td valign="bottom" align="right">1.0103</td>
+<td valign="bottom" align="right">8.350</td>
+<td valign="bottom" align="right">&#x003C;0.001</td>
+<td valign="bottom" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">|<i>X</i>
+<sub>4</sub>|</td>
+<td valign="bottom" align="center">-2.6576</td>
+<td valign="bottom" align="right">0.5386</td>
+<td valign="bottom" align="right">-4.934</td>
+<td valign="bottom" align="right">&#x003C;0.001</td>
+<td valign="bottom" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">|<i>X</i>
+<sub>5</sub>|</td>
+<td valign="bottom" align="center">-24.3692</td>
+<td valign="bottom" align="right">1.0200</td>
+<td valign="bottom" align="right">-23.892</td>
+<td valign="bottom" align="right">&#x003C;0.001</td>
+<td valign="bottom" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="top" align="center">|<i>X</i>
+<sub>6</sub>|</td>
+<td valign="top" align="center">6.8855</td>
+<td valign="top" align="right">0.5201</td>
+<td valign="top" align="right">13.239</td>
+<td valign="top" align="right">&#x003C;0.001</td>
+<td valign="top" align="center">HSS</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="6" table-order="3" data-type-order="7">
+<table-wrap id="102118191798MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">As seen, all the predictor variables, except |X1| and |X2|, are statistically significant with small p-values. A p-value of 0.05 or less is considered as "statistically significant" and of 0.01 or less as "highly statistically significant." If we regress Y on only the predictor variables that are statistically significant (i.e., |X3|, X4, |X5|, and X6) using the MLR, the R2 is slightly lower (0.67). Table 3 presents the MLR results for the case with only four predictor variables that are statistically significant.</anchoringText>
+<label>Table 3</label>
+<caption>MLR results for the simulated data with four predictor variables.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>MLR results for the simulated data with four predictor variables.</caption-text>
+</formatted-caption>
+<table id="102118191798MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">Coefficients</th>
+<th valign="top" align="center">Std. Error</th>
+<th valign="top" align="center">f-Value</th>
+<th valign="top" align="center">p-Value</th>
+<th valign="top" align="center">Significance</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td id="tfn-3" colspan="6" align="left">Signif. abbr.: HSS = highly statistically significant, SS = statistically significant, and NS = not significant</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td valign="bottom" align="center">(Intercept)</td>
+<td valign="bottom" align="right">34.7224</td>
+<td valign="bottom" align="right">0.7689</td>
+<td valign="bottom" align="right">45.159</td>
+<td valign="bottom" align="right">&#x003C;0.001</td>
+<td valign="bottom" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">|<i>X</i>
+<sub>3</sub>|</td>
+<td valign="bottom" align="right">8.4863</td>
+<td valign="bottom" align="right">1.0122</td>
+<td valign="bottom" align="right">8.384</td>
+<td valign="bottom" align="right">&#x003C;0.001</td>
+<td valign="bottom" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<i>X</i>
+<sub>4</sub>
+</td>
+<td valign="bottom" align="right">-2.7177</td>
+<td valign="bottom" align="right">0.5388</td>
+<td valign="bottom" align="right">-5.044</td>
+<td valign="bottom" align="right">&#x003C;0.001</td>
+<td valign="bottom" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">|<i>X</i>
+<sub>5</sub>|</td>
+<td valign="bottom" align="right">-24.4182</td>
+<td valign="bottom" align="right">1.0210</td>
+<td valign="bottom" align="right">-23.916</td>
+<td valign="bottom" align="right">&#x003C;0.001</td>
+<td valign="bottom" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="top" align="center">*6</td>
+<td valign="top" align="right">6.9168</td>
+<td valign="top" align="right">0.5208</td>
+<td valign="top" align="right">13.281</td>
+<td valign="top" align="right">&#x003C;0.001</td>
+<td valign="top" align="center">HSS</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="4" data-type-order="8">
+<table-wrap id="102118191798MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">Accordingly, we know that the optimal transformations of Y and X1, X2, X3, X4, X5, and X6 variables will have the forms, shown in Table 4, to maximize the linear correlation between the transformed response variable and the sum of the transformed predictor variables.</anchoringText>
+<label>Table 4</label>
+<caption>Optimal transformations for the simulated data.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Optimal transformations for the simulated data.</caption-text>
+</formatted-caption>
+<table id="102118191798MS-Tbl_SPi-4" frame="hsides">
+<tbody>
+<tr>
+<td valign="bottom" align="left">
+<i>θ*(Y) = Y</i>
+<sup>0.67</sup>
+</td>
+<td valign="bottom" align="left">Power transformation: [a(x<sup>b</sup>)J</td>
+</tr>
+<tr>
+<td valign="bottom" align="left"><math>
+ <mrow>
+ <msubsup>
+ <mi>&#x03D5;</mi>
+ <mn>1</mn>
+ <mo>*</mo>
+ </msubsup>
+ <mrow><mo>(</mo>
+ <mrow>
+ <msub>
+ <mi>X</mi>
+ <mn>1</mn>
+ </msub>
+ </mrow>
+ <mo>)</mo></mrow><mo>=</mo><mo>&#x2212;</mo><mn>0.4</mn><mrow><mo>|</mo> <mrow>
+ <msub>
+ <mi>X</mi>
+ <mn>1</mn>
+ </msub>
+ </mrow> <mo>|</mo></mrow></mrow>
+</math>
+</td>
+<td valign="bottom" align="left">Linear transformation</td>
+</tr>
+<tr>
+<td valign="top" align="left"><math>
+ <mrow>
+ <msubsup>
+ <mi>&#x03D5;</mi>
+ <mn>2</mn>
+ <mo>*</mo>
+ </msubsup>
+ <mrow><mo>(</mo>
+ <mrow>
+ <msub>
+ <mi>X</mi>
+ <mn>2</mn>
+ </msub>
+ </mrow>
+ <mo>)</mo></mrow><mo>=</mo><mn>0.1</mn><mi>ln</mi><mrow><mo>|</mo> <mrow>
+ <msub>
+ <mi>X</mi>
+ <mn>2</mn>
+ </msub>
+ </mrow> <mo>|</mo></mrow></mrow>
+</math>
+</td>
+<td valign="bottom" align="left">Logarithmic transformation</td>
+</tr>
+<tr>
+<td valign="top" align="left"><math>
+ <mrow>
+ <msubsup>
+ <mi>&#x03D5;</mi>
+ <mn>3</mn>
+ <mo>*</mo>
+ </msubsup>
+ <mrow><mo>(</mo>
+ <mrow>
+ <msub>
+ <mi>X</mi>
+ <mn>3</mn>
+ </msub>
+ </mrow>
+ <mo>)</mo></mrow><mo>=</mo><mn>4</mn><msup>
+ <mrow>
+ <mrow><mo>|</mo> <mrow>
+ <msub>
+ <mi>X</mi>
+ <mn>3</mn>
+ </msub>
+ </mrow> <mo>|</mo></mrow></mrow>
+ <mrow>
+ <mn>0.2</mn></mrow>
+ </msup>
+ </mrow>
+</math>
+</td>
+<td valign="bottom" align="left">Power transformation: [a(x<sup>b</sup>)J</td>
+</tr>
+<tr>
+<td valign="top" align="left"><math>
+ <msubsup>
+ <mi>&#x03D5;</mi>
+ <mn>4</mn>
+ <mo>*</mo>
+ </msubsup>
+ <mrow><mo>(</mo>
+ <mrow>
+ <msub>
+ <mi>X</mi>
+ <mn>4</mn>
+ </msub>
+ </mrow>
+ <mo>)</mo></mrow><mo>=</mo><mo>&#x2212;</mo><msubsup>
+ <mi>X</mi>
+ <mn>4</mn>
+ <mn>3</mn>
+ </msubsup>
+ 
+</math>
+</td>
+<td valign="top" align="left">Negative monotonic transformation</td>
+</tr>
+<tr>
+<td valign="top" align="left"><math>
+ <msubsup>
+ <mi>&#x03D5;</mi>
+ <mn>5</mn>
+ <mo>*</mo>
+ </msubsup>
+ <mrow><mo>(</mo>
+ <mrow>
+ <msub>
+ <mi>X</mi>
+ <mn>5</mn>
+ </msub>
+ </mrow>
+ <mo>)</mo></mrow><mo>=</mo><mfrac>
+ <mn>1</mn>
+ <mrow>
+ <mrow><mo>(</mo>
+ <mrow>
+ <mrow><mo>|</mo> <mrow>
+ <msub>
+ <mi>X</mi>
+ <mn>5</mn>
+ </msub>
+ </mrow> <mo>|</mo></mrow><mo>+</mo><mn>0.1</mn></mrow>
+ <mo>)</mo></mrow></mrow>
+ </mfrac>
+ 
+</math>
+</td>
+<td align="left">Inverse transformation</td>
+</tr>
+<tr>
+<td valign="top" align="left"><math>
+ <msubsup>
+ <mi>&#x03D5;</mi>
+ <mn>6</mn>
+ <mo>*</mo>
+ </msubsup>
+ <mrow><mo>(</mo>
+ <mrow>
+ <msub>
+ <mi>X</mi>
+ <mn>6</mn>
+ </msub>
+ </mrow>
+ <mo>)</mo></mrow><mo>=</mo><msub>
+ <mi>X</mi>
+ <mn>6</mn>
+ </msub>
+ <mo>&#x2212;</mo><mn>2</mn><msubsup>
+ <mi>X</mi>
+ <mn>6</mn>
+ <mn>2</mn>
+ </msubsup>
+ <mo>+</mo><msubsup>
+ <mi>X</mi>
+ <mn>6</mn>
+ <mn>3</mn>
+ </msubsup>
+ 
+</math>
+</td>
+<td valign="top" align="left">Polynomial transformation</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="5" data-type-order="9">
+<table-wrap id="102118191798MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">indicating that the optimal parametric transformations have been obtained. Table 5 summarizes the ACE regression results of the transformed Y variable vs. all the transformed predictor variables for the simulated dataset.</anchoringText>
+<label>Table 5</label>
+<caption>ACE regression results for the simulated data.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>ACE regression results for the simulated data.</caption-text>
+</formatted-caption>
+<table id="102118191798MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">Coefficients</th>
+<th valign="top" align="center">Std. Error</th>
+<th valign="top" align="center">f-Value</th>
+<th valign="top" align="center">p-Value</th>
+<th valign="top" align="center">Significance</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td id="tfn-4" colspan="6" align="left">Signif. abbr.: HSS = highly statistically significant, SS = statistically significant, and NS = not significant</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="left">(Intercept)</td>
+<td valign="bottom" align="right">0.0000</td>
+<td align="right">0.0030</td>
+<td valign="bottom" align="right">0.000</td>
+<td valign="top" align="right"></td>
+<td valign="top" align="right"></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>ϕ</i>(|<i>X</i>
+<sub>l</sub>|)</td>
+<td valign="top" align="right">0.9904</td>
+<td valign="top" align="right">0.0568</td>
+<td valign="top" align="right">17.440</td>
+<td valign="top" align="right">&#x003C;0.001</td>
+<td valign="top" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<i>ϕ</i> (|<i>X</i>
+<sub>2</sub>|)</td>
+<td valign="bottom" align="right">1.0170</td>
+<td valign="bottom" align="right">0.0757</td>
+<td valign="bottom" align="right">13.450</td>
+<td valign="bottom" align="right">&#x003C;0.001</td>
+<td valign="bottom" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<i>ϕ</i> (|<i>X</i>
+<sub>3</sub>|)</td>
+<td align="right">0.9907</td>
+<td align="right">0.0112</td>
+<td align="right">88.790</td>
+<td align="right">&#x003C;0.001</td>
+<td align="center">HSS</td>
+</tr>
+<tr>
+<td align="left">
+<i>ϕ</i> (<i>X</i>
+<sub>4</sub>)</td>
+<td align="right">1.0160</td>
+<td align="right">0.0195</td>
+<td align="right">51.990</td>
+<td align="right">&#x003C;0.001</td>
+<td align="center">HSS</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<i>ϕ</i> (|<i>X</i>
+<sub>5</sub>|)</td>
+<td valign="bottom" align="right">0.9834</td>
+<td valign="bottom" align="right">0.0036</td>
+<td valign="bottom" align="right">277.120</td>
+<td valign="bottom" align="right">&#x003C;0.001</td>
+<td valign="bottom" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>ϕ</i> (<i>X</i>
+<sub>6</sub>)</td>
+<td valign="top" align="right">1.0240</td>
+<td valign="top" align="right">0.0065</td>
+<td valign="top" align="right">157.830</td>
+<td valign="top" align="right">&#x003C;0.001</td>
+<td valign="top" align="center">HSS</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="11" table-order="6" data-type-order="13">
+<table-wrap poor-table-quality="yes" id="102118191798MS-tblwrp-6" content-type="image">
+<anchoringText id="Ancr6">Each variable was plotted against one another to identify variables that are highly correlated. Table 6 depicts the correlation between each pair of selected well and reservoir variables in the dataset. The values in the upper right-hand panels are the correlation coefficient (r) between the indicated variables shown in the diagonal boxes from top left to bottom right of the plots. These coefficients represent the strength of the linear relationship between variables, which can range from −1 to 1. A perfect positive correlation has an r of 1, and a perfect negative correlation has an r of −1.</anchoringText>
+<label>Table 6</label>
+<caption>Well and reservoir parameter scatter plots of the Midland Basin horizontal well data (Wolfcamp B). The values in the upper right-hand panels are the correlation coefficient (r) between the indicated variables shown in the diagonal boxes from top left to bottom right of the plots. These coefficients represent the strength of the linear relationship between variables, which can range from −1 to 1. A perfect positive correlation has an r of 1, and a perfect negative correlation has an r of −1. When there is no correlation between two variables, the r value is 0. Predictor variables that are moderately and highly correlated with other predictor variables (with an absolute r value of &#x003E;0.6) are highlighted in red.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Well and reservoir parameter scatter plots of the Midland Basin horizontal well data (Wolfcamp B). The values in the upper right-hand panels are the correlation coefficient (r) between the indicated variables shown in the diagonal boxes from top left to bottom right of the plots. These coefficients represent the strength of the linear relationship between variables, which can range from −1 to 1. A perfect positive correlation has an r of 1, and a perfect negative correlation has an r of −1. When there is no correlation between two variables, the r value is 0. Predictor variables that are moderately and highly correlated with other predictor variables (with an absolute r value of &#x003E;0.6) are highlighted in red.</caption-text>
+</formatted-caption>
+<table id="102118191798MS-Tbl_SPi-6" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="left"><link type="image" href="102118191798MS_i_18.tif" id="ImgLink-18" /></td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="12" table-order="7" data-type-order="15">
+<table-wrap id="102118191798MS-tblwrp-7" content-type="structured">
+<anchoringText id="Ancr7">For instance, proppant mass may have a nonlinear relationship with production due to complex proppant transport and fluid flow mechanisms, out of zone fracture growth, and varying propped heights. Table 7 shows the MLR regression results for this dataset. All predictor variables, except the oil gravity and clay volume, are (highly) statistically significant. Excluding the oil gravity and clay volume (both are not statistically significant at the 0.05 p-value level) from this MLR model results in similar R2 and adjusted R2 values.</anchoringText>
+<label>Table 7</label>
+<caption>MLR results for the Midland Basin Wolfcamp B wells. All predictor variables, except the oil gravity and clay volume, are (highly) statistically significant.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>7</caption-order>
+<caption-text>MLR results for the Midland Basin Wolfcamp B wells. All predictor variables, except the oil gravity and clay volume, are (highly) statistically significant.</caption-text>
+</formatted-caption>
+<table id="102118191798MS-Tbl_SPi-7" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">Coefficients</th>
+<th valign="top" align="center">Std. Error</th>
+<th valign="top" align="center">f-Value</th>
+<th valign="top" align="center">p-Value</th>
+<th valign="top" align="center">Significance</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td id="tfn-5" colspan="6" align="left">Signif. abbr.: HSS = highly statistically significant, SS = statistically significant, and NS = not significant</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td valign="bottom" align="left">(Intercept)</td>
+<td valign="bottom" align="right">-12.1100</td>
+<td valign="bottom" align="right">2.1520</td>
+<td valign="bottom" align="right">-5.626</td>
+<td valign="bottom" align="right">&#x003C;0.001</td>
+<td valign="bottom" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Stab. 365-day Water Cut (%)</td>
+<td valign="bottom" align="right">-0.0550</td>
+<td valign="bottom" align="right">0.0059</td>
+<td valign="bottom" align="right">-9.266</td>
+<td valign="bottom" align="right">&#x003C;0.001</td>
+<td valign="bottom" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">365-day GOR (scf/bbl)</td>
+<td valign="bottom" align="right">-0.0004</td>
+<td valign="bottom" align="right">&#x003C;0.0001</td>
+<td valign="bottom" align="right">-8.808</td>
+<td valign="bottom" align="right">&#x003C;0.001</td>
+<td valign="bottom" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="top" align="left">Avg. Prop Cone (ppg)</td>
+<td valign="top" align="right">-1.6690</td>
+<td valign="top" align="right">0.2623</td>
+<td valign="top" align="right">-6.360</td>
+<td valign="top" align="right">&#x003C;0.001</td>
+<td valign="top" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="top" align="left">Proppant Mass (Ib/ft)</td>
+<td valign="top" align="right">0.0037</td>
+<td valign="bottom" align="right">0.0002</td>
+<td valign="top" align="right">16.552</td>
+<td valign="top" align="right">&#x003C;0.001</td>
+<td valign="top" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil Gravity (°API)</td>
+<td valign="bottom" align="right">0.0620</td>
+<td valign="top" align="right">0.0407</td>
+<td valign="top" align="right">1.524</td>
+<td valign="bottom" align="right">0.128</td>
+<td valign="top" align="center">NS</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">TVD (ft)</td>
+<td valign="bottom" align="right">0.0024</td>
+<td valign="bottom" align="right">0.0001</td>
+<td valign="bottom" align="right">21.412</td>
+<td valign="bottom" align="right">&#x003C;0.001</td>
+<td valign="bottom" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="top" align="left">Clay Volume (%)</td>
+<td valign="top" align="right">0.0035</td>
+<td valign="top" align="right">0.0189</td>
+<td valign="bottom" align="right">0.186</td>
+<td valign="top" align="right">0.852</td>
+<td valign="top" align="center">NS</td>
+</tr>
+<tr>
+<td valign="top" align="left">Avg. Perm (mD)</td>
+<td valign="top" align="right">1.7320</td>
+<td valign="top" align="right">0.3630</td>
+<td valign="top" align="right">4.771</td>
+<td valign="top" align="right">&#x003C;0.001</td>
+<td valign="top" align="center">HSS</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="13" table-order="8" data-type-order="16">
+<table-wrap id="102118191798MS-tblwrp-8" content-type="structured">
+<anchoringText id="Ancr8">Table 8 shows the ACE regression results for this dataset. All predictor variables have p-values of less than 0.01, indicating that they are highly statistically significant. Fig. 9 presents the optimal transformations of the 365-day BO/ft and predictor variables obtained using the ACE model. This figure shows evidence of more complicated relationships between the 365-day BO/ft and the predictor variables as compared to the assumed linear relationships using the conventional MLR.</anchoringText>
+<label>Table 8</label>
+<caption>ACE regression results for the Midland Basin Wolfcamp B wells, showing all variables as highly statistically significant.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>8</caption-order>
+<caption-text>ACE regression results for the Midland Basin Wolfcamp B wells, showing all variables as highly statistically significant.</caption-text>
+</formatted-caption>
+<table id="102118191798MS-Tbl_SPi-8" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">Coefficients</th>
+<th valign="top" align="center">Std. Error</th>
+<th valign="top" align="center">f-Value</th>
+<th valign="top" align="center">p-Value</th>
+<th valign="top" align="center">Significance</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td id="tfn-6" colspan="6" align="left">Signif. abbr.: HSS = highly statistically significant, SS = statistically significant, and NS = not significant</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td valign="bottom" align="left">(Intercept)</td>
+<td valign="bottom" align="right">0.0000</td>
+<td valign="bottom" align="right">0.0128</td>
+<td valign="bottom" align="right">0.000</td>
+<td valign="top" align="right"></td>
+<td valign="top" align="right"></td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>ϕ</i>(S<link href="102118191798MS-tblwrp-365">tab. 365</link>-day Water Cut)</td>
+<td valign="top" align="right">0.9637</td>
+<td valign="top" align="right">0.0703</td>
+<td valign="top" align="right">13.706</td>
+<td valign="top" align="right">&#x003C;0.001</td>
+<td valign="top" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>ϕ</i> (365-day GOR)</td>
+<td valign="top" align="right">1.0490</td>
+<td valign="top" align="right">0.0703</td>
+<td valign="top" align="right">14.911</td>
+<td valign="top" align="right">&#x003C;0.001</td>
+<td valign="top" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<i>ϕ</i> (Avg. Prop Cone)</td>
+<td valign="top" align="right">1.1040</td>
+<td valign="top" align="right">0.1003</td>
+<td align="right">11.010</td>
+<td valign="top" align="right">&#x003C;0.001</td>
+<td valign="top" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>ϕ</i> (Proppant Mass)</td>
+<td valign="top" align="right">1.0250</td>
+<td valign="top" align="right">0.0517</td>
+<td valign="top" align="right">19.836</td>
+<td valign="top" align="right">&#x003C;0.001</td>
+<td valign="top" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>ϕ</i> (Oil Gravity)</td>
+<td valign="top" align="right">1.0870</td>
+<td valign="top" align="right">0.2745</td>
+<td valign="top" align="right">3.960</td>
+<td valign="top" align="right">&#x003C;0.001</td>
+<td valign="top" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>ϕ</i> (TVD)</td>
+<td align="right">1.0160</td>
+<td valign="top" align="right">0.0368</td>
+<td valign="top" align="right">27.595</td>
+<td valign="top" align="right">&#x003C;0.001</td>
+<td valign="top" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>ϕ</i> (Clay Volume)</td>
+<td valign="top" align="right">0.9026</td>
+<td valign="top" align="right">0.1749</td>
+<td valign="top" align="right">5.161</td>
+<td valign="top" align="right">&#x003C;0.001</td>
+<td valign="top" align="center">HSS</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>ϕ</i> (Avg. Perm)</td>
+<td valign="top" align="right">1.0300</td>
+<td valign="top" align="right">0.1147</td>
+<td valign="top" align="right">8.977</td>
+<td valign="top" align="right">&#x003C;0.001</td>
+<td valign="top" align="center">HSS</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="20" table-order="9" data-type-order="25">
+<table-wrap id="102118191798MS-tblwrp-9" content-type="structured">
+<anchoringText id="Ancr9">Table 9 summarizes the detailed cost structures for the Midland Basin wells. Note that cost structures continually change and are different for different operators and areas, which could yield different economic results than presented herein. The overall cost for chemicals is assumed to be a function of average proppant concentration pumped and is based on the regression of actual costs of chemicals pumped vs. average proppant concentration.</anchoringText>
+<label>Table 9</label>
+<caption>Cost-model assumptions for the Midland Basin wells. The overall cost for chemicals is assumed to be a function of average proppant concentration pumped and is based on the regression of actual costs of chemicals pumped vs. average proppant concentration.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Cost-model assumptions for the Midland Basin wells. The overall cost for chemicals is assumed to be a function of average proppant concentration pumped and is based on the regression of actual costs of chemicals pumped vs. average proppant concentration.</caption-text>
+</formatted-caption>
+<table id="102118191798MS-Tbl_SPi-9" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Cost-Model Item</th>
+<th valign="top" align="left">Cost/Unit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Proppant costs</td>
+<td valign="top" align="left"></td>
+</tr>
+<tr>
+<td valign="top" align="left">Sand (lb)</td>
+<td valign="top" align="left">0.13</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Stage costs</td>
+<td valign="top" align="left"></td>
+</tr>
+<tr>
+<td valign="bottom" align="left">PNP (per stage)</td>
+<td valign="bottom" align="left">6,500</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">HHP spread charge (per stage)</td>
+<td valign="bottom" align="left">40,000</td>
+</tr>
+<tr>
+<td valign="top" align="left">Fluid costs</td>
+<td valign="top" align="left"></td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Chemicals (USD/bbl of frac fluid pumped)</td>
+<td valign="bottom" align="left">1.95 × ppg + 0.27</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Water (USD/bbl of frac fluid pumped)</td>
+<td valign="bottom" align="left">0.65</td>
+</tr>
+<tr>
+<td valign="top" align="left">Diesel (USD/bbl of frac fluid pumped)</td>
+<td valign="bottom" align="left">0.6</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Disposal costs</td>
+<td valign="top" align="left"></td>
+</tr>
+<tr>
+<td valign="top" align="left">Water (USD/bbl of frac fluid pumped)</td>
+<td valign="top" align="left">0.5</td>
+</tr>
+<tr>
+<td valign="top" align="left">Fixed costs</td>
+<td valign="top" align="left"></td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Other well costs (USD)</td>
+<td valign="bottom" align="left">2,743,440</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="22" table-order="10" data-type-order="27">
+<table-wrap id="102118191798MS-tblwrp-10" content-type="structured">
+<anchoringText id="Ancr10">To summarize, the ACE-augmented hybrid physics-based MVA model results in an optimal proppant mass of 1,166 lb/ft and an average proppant concentration of 0.82 ppg, which is equivalent to a clean fracturing fluid volume of 34 bbl/ft (Table 10). In terms of stage design, this would equate to 291,500 lbs of proppant and 8,500 bbls of clean fluid volume per stage in a 30-stage 7,500 ft lateral. As a side note, from 2011 to 2017, the average proppant loading and fluid volume increased from 1,000 to 1,800 lb/ft and from 25 to 50 bbl/ft respectively, whereas the ave-rage proppant concentration historically remained at about 1 ppg for the Midland Basin Wolfcamp B horizontal wells in the study area.</anchoringText>
+<label>Table 10</label>
+<caption>Optimal fracture treament design based on the ACE-augmented hybrid physics-based MVA for the Midland Basin Wolfcamp B horizontal wells.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Optimal fracture treament design based on the ACE-augmented hybrid physics-based MVA for the Midland Basin Wolfcamp B horizontal wells.</caption-text>
+</formatted-caption>
+<table id="102118191798MS-Tbl_SPi-10" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Parameter</th>
+<th valign="top" align="left">Optimum Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Proppant mass (Ib/ft)</td>
+<td valign="bottom" align="left">1,166</td>
+</tr>
+<tr>
+<td valign="top" align="left">Average proppant concentration (Ib/gal)</td>
+<td valign="bottom" align="left">0.82</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Total well cost (USD)</td>
+<td valign="bottom" align="left">5,076,405</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">365-day cumulative oil production (bbl)</td>
+<td valign="bottom" align="left">116,486</td>
+</tr>
+<tr>
+<td valign="top" align="left">365-day USD/BO</td>
+<td valign="top" align="left">43.6</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

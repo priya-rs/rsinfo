@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118184112MS.txt" extractionDate="2021-03-25T12:21:03Z">
+<doi>10.2118/184112-MS</doi>
+<pii>10.2118/184112-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="5" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr4">Kuwait heavy oil deposits are in the shallow-depth unconsolidated sand shale reservoirs. There are two main sands, Sand 1 (upper) and Sand 2 (lower), bound on the top by a sealing cap shale (Fig. 1). The cap shale trapped the light oil, which migrated from deep down because of tectonic activities. The trapped light oil biodegraded because the low formation temperature (~90°F) is conducive to bacteria survival and can consume the lighter oil fractions, thus leaving the heavy residue.</anchoringText>
+<image-wrap id="102118184112MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118184112MS_i_1.tif" id="ImgLink-1" />
+<caption>Stratigraphy of Kuwait shallow-depth heavy oil reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Stratigraphy of Kuwait shallow-depth heavy oil reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="5" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr5">Fig. 2a shows five oil samples from five different wells collected from Field A.</anchoringText>
+<image-wrap id="102118184112MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118184112MS_i_2.tif" id="ImgLink-2" />
+<caption>(a) Field A with five analyzed oil samples; (b) Field B with four analyzed oil samples</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>(a) Field A with five analyzed oil samples; (b) Field B with four analyzed oil samples</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118184112MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118184112MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Field A</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118184112MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118184112MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-order>Field B</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr6">This equipment was designed to perform traditional PVT-type manipulations of temperature and pressure, while simultaneously recording the optical signal in the NIR and visible range. By varying the temperature and pressure, the resulting optical data set includes natural variation that can be encountered during a real-world well situation. Each measurement set results in thousands of optical spectra for a single fluid that are sorted and averaged according to temperature and pressure. Fig. 3 shows the optical signatures of the three heavy stock tank oils.</anchoringText>
+<image-wrap id="102118184112MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118184112MS_i_3.tif" id="ImgLink-3" />
+<caption>Laboratory optical analysis: three heavy stock tank oils were measured on the optical PVT laboratory instrument. The temperature variations spanned from 150 to 250°F. The pressure variations spanned 3,000 to 12,000 psi</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Laboratory optical analysis: three heavy stock tank oils were measured on the optical PVT laboratory instrument. The temperature variations spanned from 150 to 250°F. The pressure variations spanned 3,000 to 12,000 psi</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr7">Fig. 4 shows a comparison of the measured SARA and density (x-axis) to the predicted SARA and density (y-axis). This indicates excellent agreement among the Well B, Well C, and Well D samples, with R2 values of 0.999, 0.986, and 0.990, respectively.</anchoringText>
+<image-wrap id="102118184112MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118184112MS_i_4.tif" id="ImgLink-4" />
+<caption>Measured vs. predicted concentration. The optical spectra of the Well B, Well C, and Well D samples were projected onto the MOC sensor to simulate a sensor response. The sensor predicted concentrations would agree well with the laboratory-measured concentrations, with R2 values of greater than 0.98 for all three fluids.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Measured vs. predicted concentration. The optical spectra of the Well B, Well C, and Well D samples were projected onto the MOC sensor to simulate a sensor response. The sensor predicted concentrations would agree well with the laboratory-measured concentrations, with R2 values of greater than 0.98 for all three fluids.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="5" data-type-order="8">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr8">Fig. 5 shows an example from Well B in Field A. Fig. 5a shows the real-time results from the MOC sensor during the downhole analysis. The sensor indicates that the fluid at the beginning of the pumpout operation was primarily water. The fluid transitioned from water to oil after some time, which is indicated by the presence of saturates (dark green) and aromatics (light green).</anchoringText>
+<image-wrap id="102118184112MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118184112MS_i_5.tif" id="ImgLink-5" />
+<caption>Real-time MOC sensor response. The sensor can easily differentiate between water (blue) and oil (green).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Real-time MOC sensor response. The sensor can easily differentiate between water (blue) and oil (green).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="6" data-type-order="9">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr9">Another important sampling aspect is to identify the location from which to sample. Composition gradients and reservoir compartmentalization are strong influences for sampling location. Unfortunately, it is difficult to detect gradients in real time and challenging to identify reservoir boundaries accurately. The MOC sensor can eliminate many of these uncertainties by accurately measuring the fluid composition in situ. Well A in Field A was measured at 576, 643, and 819 ft. Fig. 6 shows the MOC sensor results, which reveal the depths are characterized by a single reservoir. The fluid composition shows only small, inconsistent variations with each depth.</anchoringText>
+<image-wrap id="102118184112MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118184112MS_i_6.tif" id="ImgLink-6" />
+<caption>Composition variation with depth for Well A. The real-time downhole composition shows little variation from 576 to 819 ft, thus suggesting this region is one continuous reservoir.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Composition variation with depth for Well A. The real-time downhole composition shows little variation from 576 to 819 ft, thus suggesting this region is one continuous reservoir.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

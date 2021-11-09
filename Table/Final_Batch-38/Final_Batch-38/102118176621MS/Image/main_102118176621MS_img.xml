@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118176621MS.txt" extractionDate="2021-03-20T12:50:14Z">
+<doi>10.2118/176621-MS</doi>
+<pii>10.2118/176621-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr4">The matched model, however, can have several realizations; consequently, it is necessary to determine all possible realizations of the simulation model. Further calculations of the development forecast must be performed on each of the history matched models. To calculate the economic parameters of any project, the calculations are performed on the economic model, taking into account hydrocarbon prices, OPEX and CAPEX, and taxes. Fig. 1 illustrates the multivariate approach.</anchoringText>
+<image-wrap id="102118176621MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118176621MS_i_1.tif" id="ImgLink-1" />
+<caption>General scheme of multivariate approach to solving field development tasks.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>General scheme of multivariate approach to solving field development tasks.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr5">Fig. 2 shows the principal differences between classical (deterministic) and multivariate (statistical) approaches through the example of the petrophysical relationship between permeability and porosity.</anchoringText>
+<image-wrap id="102118176621MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118176621MS_i_2.tif" id="ImgLink-2" />
+<caption>Comparison of classical and multivariate approaches through the example of the petrophysical relationship between permeability and porosity.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Comparison of classical and multivariate approaches through the example of the petrophysical relationship between permeability and porosity.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="3" data-type-order="5">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr6">The distribution diagram, show in in Fig. 3, indicates the preference for the vertical wells scenario. As NPV and PI values increase on the distribution function, the probability of implementing the option with vertical wells increases. The vertical wells option provides lower productivity as compared to the options with horizontal wells, but drilling costs will be lower as a result of fewer wells.</anchoringText>
+<image-wrap id="102118176621MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118176621MS_i_3.tif" id="ImgLink-3" />
+<caption>Distribution of economic parameters for two scenarios: vertical and horizontal wells. NPV distribution for HOR and VERT wells PI distribution for HOR and VERT wells</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Distribution of economic parameters for two scenarios: vertical and horizontal wells. NPV distribution for HOR and VERT wells PI distribution for HOR and VERT wells</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118176621MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118176621MS_i_3a.tif" id="ImgLink-3a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>NPV distribution for HOR and VERT wells</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118176621MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118176621MS_i_3b.tif" id="ImgLink-3b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>PI distribution for HOR and VERT wells</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="4" data-type-order="6">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr7">In terms of providing an optimal gas recovery factor, both options show similar results (Fig. 4). The distribution diagram for vertical wells shows a wider data spread range, which indicates a profound effect of initial data uncertainties on the final result.</anchoringText>
+<image-wrap id="102118176621MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118176621MS_i_4.tif" id="ImgLink-4" />
+<caption>Distribution of technical parameters for two scenarios: vertical and horizontal wells. Cum Gas Prod distribution for HOR and VERT wells Gas RF distribution for HOR and VERT wells</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Distribution of technical parameters for two scenarios: vertical and horizontal wells. Cum Gas Prod distribution for HOR and VERT wells Gas RF distribution for HOR and VERT wells</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118176621MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118176621MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Cum Gas Prod distribution for HOR and VERT wells</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118176621MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118176621MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Gas RF distribution for HOR and VERT wells</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr8">In this case, only the scenarios with values PAR&#x003E;0.7 were considered for the analysis. The scenario with a well spacing of 1200 m showed the greatest probability of maximum PAR value, considering the economic and technical components of the development (Fig. 5).</anchoringText>
+<image-wrap id="102118176621MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118176621MS_i_5.tif" id="ImgLink-5" />
+<caption>A) PAR distribution; B) PAR distribution for well spacing scenarios.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>A) PAR distribution; B) PAR distribution for well spacing scenarios.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118176621MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118176621MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>PAR distribution</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118176621MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118176621MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>PAR distribution</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="10" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr9">Fig. 6 shows that permeability and skin factor have the maximum effect on the output parameters. As expected, permeability has the maximum effect on the field development because it controls the reserve recovery dynamics. Skin factor is important in terms of hydraulic fracturing. To minimize the development risks and to reduce the permeability influence, a detailed core test should be performed to update the relationship of permeability and reservoir porosity. To reduce the skin factor influence, well tests should be performed before and after hydraulic fracturing to define the updated well skin factor.</anchoringText>
+<image-wrap id="102118176621MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118176621MS_i_6.tif" id="ImgLink-6" />
+<caption>Analysis of output parameter sensitivity to input parameter uncertainties. NPV sensitivity analysis PI sensitivity analysis Cumulative Prod sensitivity analysis Gas RF sensitivity analysis</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Analysis of output parameter sensitivity to input parameter uncertainties. NPV sensitivity analysis PI sensitivity analysis Cumulative Prod sensitivity analysis Gas RF sensitivity analysis</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118176621MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118176621MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>NPV sensitivity analysis</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118176621MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118176621MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>PI sensitivity analysis</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118176621MS-Img_SPi-6c">
+<imageLink type="mediaResource" href="102118176621MS_i_6c.tif" id="ImgLink-6c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Cumulative Prod sensitivity analysis</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118176621MS-Img_SPi-6d">
+<imageLink type="mediaResource" href="102118176621MS_i_6d.tif" id="ImgLink-6d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>Gas RF sensitivity analysis</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr10">To construct a unified development plan and calculate the technical parameters for development and forecasting the well spacing, a full-scale simulation of the field within the license area was performed. At the same time, the development parameters (well type and well spacing) were applied in accordance with the sector simulation results (Fig. 7).</anchoringText>
+<image-wrap id="102118176621MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118176621MS_i_7.tif" id="ImgLink-7" />
+<caption>Full-scale simulation model.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Full-scale simulation model.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr11">The simulation and economic models calculations (Fig. 8) identified 13 wells with negative NPV. The cumulative gas production for positive economics must be a minimum of 300 million m3. To improve the commercial component of the gas field development project, 13 invariably unprofitable wells were excluded. As a result, the nine remaining wells were considered for further analysis (Fig. 9); the drilling schedule was developed for these wells, based on the individual technical and economic parameters of well operation forecast.</anchoringText>
+<image-wrap id="102118176621MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118176621MS_i_8.tif" id="ImgLink-8" />
+<caption>Well ranking by technical and economic parameters for optimistic data realization. Well NPV distribution for High Case Well Cum Gas Prod for High Case</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Well ranking by technical and economic parameters for optimistic data realization. Well NPV distribution for High Case Well Cum Gas Prod for High Case</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118176621MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118176621MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Well NPV distribution for High Case</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118176621MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118176621MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Well Cum Gas Prod for High Case</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="12" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr12">The simulation and economic models calculations (Fig. 8) identified 13 wells with negative NPV. The cumulative gas production for positive economics must be a minimum of 300 million m3. To improve the commercial component of the gas field development project, 13 invariably unprofitable wells were excluded. As a result, the nine remaining wells were considered for further analysis (Fig. 9); the drilling schedule was developed for these wells, based on the individual technical and economic parameters of well operation forecast.</anchoringText>
+<image-wrap id="102118176621MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118176621MS_i_9.tif" id="ImgLink-9" />
+<caption>Existing and planned well spacing on central and south deposits on the gas in place density map. Central Deposit South Deposit</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Existing and planned well spacing on central and south deposits on the gas in place density map. Central Deposit South Deposit</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118176621MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118176621MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Central Deposit</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118176621MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118176621MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>South Deposit</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr13">The results of calculations on the simulation model enabled the development of probabilistic values of P10, P50, and P90 for original gas in place (OGIP) and original condensate in place (OCIP), as well as the technical and economic parameters of the development (Fig. 10).</anchoringText>
+<image-wrap id="102118176621MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118176621MS_i_10.tif" id="ImgLink-10" />
+<caption>Distribution of gas and condensate reserves according to the results of hydrodynamic simulation. OGIP distribution OCIP distribution</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Distribution of gas and condensate reserves according to the results of hydrodynamic simulation. OGIP distribution OCIP distribution</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118176621MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118176621MS_i_10a.tif" id="ImgLink-10a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>OGIP distribution</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118176621MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118176621MS_i_10b.tif" id="ImgLink-10b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>OCIP distribution</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="14" figure-order="11" data-type-order="13">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr14">The spread of the predicted development indicator values (Fig. 11) reflects the current range of data uncertainties. Based on the diagrams provided, the current risks of the gas field A development were assessed.</anchoringText>
+<image-wrap id="102118176621MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118176621MS_i_11.tif" id="ImgLink-11" />
+<caption>Multivariate predicted development indicators with the indication of P10, P50, and P90 levels. Field Gas Prod Cumulative Gas Production Gas Recovery Factor Condensate Recovery Factor</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Multivariate predicted development indicators with the indication of P10, P50, and P90 levels. Field Gas Prod Cumulative Gas Production Gas Recovery Factor Condensate Recovery Factor</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118176621MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118176621MS_i_11a.tif" id="ImgLink-11a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Field Gas Prod</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118176621MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118176621MS_i_11b.tif" id="ImgLink-11b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Cumulative Gas Production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118176621MS-Img_SPi-11c">
+<imageLink type="mediaResource" href="102118176621MS_i_11c.tif" id="ImgLink-11c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Gas Recovery Factor</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118176621MS-Img_SPi-11d">
+<imageLink type="mediaResource" href="102118176621MS_i_11d.tif" id="ImgLink-11d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>Condensate Recovery Factor</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="12" data-type-order="14">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr15">Because the whole core tests were performed on solid samples, the results of the tests are applicable only to the matrix component of the reservoir. No investigation was performed for the fractures, which is the primary factor of the data uncertainty. To reduce the time for the reservoir simulation, it was decided to divide the area into two parts, consisting of the area with production history and the area with planned horizontal wells (Fig. 12).</anchoringText>
+<image-wrap id="102118176621MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118176621MS_i_12.tif" id="ImgLink-12" />
+<caption>Work area divided into two sectors for the hydrodynamic simulation.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Work area divided into two sectors for the hydrodynamic simulation.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="13" data-type-order="15">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr16">The multivariate approach was used in the model because of a significant lack of quantitative source information about the fissured-cavernous component of the reservoir. The objective function was used to perform matching of the simulation model. The difference in operation parameters (rate, water cut, and pressure) between the model values and actual well operation data was established as the objective function parameters. The optimal values of the objective function were achieved after 4,000 iterations of the simulation model (Fig. 13).</anchoringText>
+<image-wrap id="102118176621MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118176621MS_i_13.tif" id="ImgLink-13" />
+<caption>Objective function change during the model history match.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Objective function change during the model history match.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="16" figure-order="14" data-type-order="16">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr17">The result of the history match was not a single simulation model, but rather a series of models with the distribution of properties providing the minimum value of the objective function (Fig. 14). The series of models made it possible to consider all realizations of the obtained matched parameters on the forecast model to calculate the horizontal well completion optimization and determine the optimal well spacing.</anchoringText>
+<image-wrap id="102118176621MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118176621MS_i_14.tif" id="ImgLink-14" />
+<caption>Example of model history matching by oil rate and water cut.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Example of model history matching by oil rate and water cut.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118176621MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118176621MS_i_14a.tif" id="ImgLink-14a" />
+</image-wrap>
+<image-wrap id="102118176621MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118176621MS_i_14b.tif" id="ImgLink-14b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="15" data-type-order="17">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr18">The optimization parameters included the following (Fig. 15):</anchoringText>
+<image-wrap id="102118176621MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118176621MS_i_15.tif" id="ImgLink-15" />
+<caption>Optimization parameters and well model with multistage fractures.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Optimization parameters and well model with multistage fractures.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="16" data-type-order="19">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr19">Using these parameters (Table 3), approximately 100,000 runs of the multivariate model were performed. Statistical analysis methods were used to help determine the optimization parameters applicable to the range of data uncertainties (Fig. 16).</anchoringText>
+<image-wrap id="102118176621MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118176621MS_i_16.tif" id="ImgLink-16" />
+<caption>Determination of the optimal scenario for well spacing density and horizontal well completion system.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Determination of the optimal scenario for well spacing density and horizontal well completion system.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

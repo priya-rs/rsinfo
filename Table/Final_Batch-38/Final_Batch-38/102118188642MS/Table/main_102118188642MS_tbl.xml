@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118188642MS.txt" extractionDate="2021-03-26T15:56:10Z">
+<doi>10.2118/188642-MS</doi>
+<pii>10.2118/188642-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="13" table-order="1" data-type-order="13">
+<table-wrap id="102118188642MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1"> </anchoringText>
+<label>Table 1</label>
+<caption>Nozzle size as a function of water-cut</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Nozzle size as a function of water-cut</caption-text>
+</formatted-caption>
+<table id="102118188642MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Min Water-cut</th>
+<th valign="top" align="center">Max Water-cut</th>
+<th valign="top" align="center">Nozzle Size (mm)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">0.2</td>
+<td valign="top" align="center">8</td>
+</tr>
+<tr>
+<td valign="top" align="center">0.2</td>
+<td valign="top" align="center">0.3</td>
+<td valign="top" align="center">7</td>
+</tr>
+<tr>
+<td valign="top" align="center">0.3</td>
+<td valign="top" align="center">0.4</td>
+<td valign="top" align="center">6</td>
+</tr>
+<tr>
+<td valign="top" align="center">0.4</td>
+<td valign="top" align="center">0.5</td>
+<td valign="top" align="center">5</td>
+</tr>
+<tr>
+<td valign="top" align="center">0.5</td>
+<td valign="top" align="center">0.6</td>
+<td valign="top" align="center">4</td>
+</tr>
+<tr>
+<td valign="top" align="center">0.6</td>
+<td valign="top" align="center">0.7</td>
+<td valign="top" align="center">2</td>
+</tr>
+<tr>
+<td valign="top" align="center">0.7</td>
+<td valign="top" align="center">0.8</td>
+<td valign="top" align="center">1.5</td>
+</tr>
+<tr>
+<td valign="top" align="center">0.8</td>
+<td valign="top" align="center">1.0</td>
+<td valign="top" align="center">1</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118184349MS.txt" extractionDate="2021-03-23T14:14:50Z">
+<doi>10.2118/184349-MS</doi>
+<pii>10.2118/184349-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="8" table-order="1" data-type-order="16">
+<table-wrap id="102118184349MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">This is captured in the fractional flow matching plots (Fw &amp; Fg) in Figures 13 and 14. The simulation result gave the result of the resource volume impact on the green reservoir. It showed that a significant amount of the resource volume might have already flowed into the brown reservoir. This is captured in the cumulative gas production plot in Figure 15. This significantly affects the initial recovery factor (81%) that had been captured for the green reservoir as seen in Table 1. A significant amount of the in place volume (49%) in the green reservoir has been developed via the wells in the brown reservoir.</anchoringText>
+<label>Table 1</label>
+<caption>Possible Resource Volume Impact Table (Green Reservoir</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Possible Resource Volume Impact Table (Green Reservoir</caption-text>
+</formatted-caption>
+<table id="102118184349MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th colspan="6" valign="bottom" align="center" bgcolor="#FFC100">Resource Volume Impact Table</th>
+</tr>
+<tr>
+<th align="center" bgcolor="#FFC100">Reservoir</th>
+<th align="center" bgcolor="#FFC100">GUP (Bscf)</th>
+<th align="center" bgcolor="#FFC100">Initial UR (Bscf)</th>
+<th align="center" bgcolor="#FFC100">RF (%)</th>
+<th valign="bottom" align="center" bgcolor="#FFC100">Cum. Gas via Transmissibility (Bscf)</th>
+<th valign="bottom" align="center" bgcolor="#FFC100">Resource Volume Fraction of GIIP (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">D9000X</td>
+<td valign="top" align="center">437</td>
+<td valign="top" align="center">356</td>
+<td valign="top" align="center">81</td>
+<td valign="top" align="center">214</td>
+<td valign="top" align="center">49</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

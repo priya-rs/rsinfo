@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189229MS.txt" extractionDate="2021-03-29T15:10:04Z">
+<doi>10.2118/189229-MS</doi>
+<pii>10.2118/189229-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="19" table-order="1" data-type-order="24">
+<table-wrap id="102118189229MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The first implementation of WFR in Raudhatain Filed has proved the concept of improving vertical injection profile by enabling higher injection rates into layers that never received water before and regulating the distribution into all layers. As most of the water injected into the well (more than 70%) was traversing through one zone only before the job, the vertical distribution of injected water due to WFR approach resulted in choking the flow through this layer to about 60% and improve the flow through the remaining uncontacted layers like summirized in Table 1 and Figure 23.</anchoringText>
+<label>Table 1</label>
+<caption>ILT Results</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>ILT Results</caption-text>
+</formatted-caption>
+<table id="102118189229MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th align="center" />
+<th align="center" />
+<th align="center" bgcolor="#9CC3E7">ILT-before WFR</th>
+<th colspan="2" align="center" bgcolor="#9CC3E7">ILT-after WFR</th>
+</tr>
+<tr>
+<th align="center" />
+<th align="center" />
+<th align="center" bgcolor="#00FFFC">%</th>
+<th align="center" bgcolor="#98FF68">%</th>
+<th align="center" bgcolor="#98FF68">BWPD</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" bgcolor="#9CC3E7">UB2</td>
+<td rowspan="2" align="center" bgcolor="#9CC3E7">ZONE 1</td>
+<td rowspan="2" align="center" bgcolor="#00FFFC">86%</td>
+<td rowspan="2" align="center" bgcolor="#98FF68">51%</td>
+<td rowspan="2" align="center" bgcolor="#98FF68">3859</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#9CC3E7">UB3</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#9CC3E7">UB4</td>
+<td rowspan="2" align="center" bgcolor="#9CC3E7">ZONE 2</td>
+<td rowspan="2" align="center" bgcolor="#00FFFC">14%</td>
+<td rowspan="2" align="center" bgcolor="#98FF68">49%</td>
+<td rowspan="2" align="center" bgcolor="#98FF68">3730</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#9CC3E7">UB5</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

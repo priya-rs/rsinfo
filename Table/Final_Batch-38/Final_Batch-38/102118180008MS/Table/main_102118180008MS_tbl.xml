@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118180008MS.txt" extractionDate="2021-03-19T17:05:12Z">
+<doi>10.2118/180008-MS</doi>
+<pii>10.2118/180008-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="4" table-order="1" data-type-order="2">
+<table-wrap id="102118180008MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Where modeling concludes that single hop wireless communications are not feasible, then a relay station(s) can be installed in the well at a depth intermediate to the downhole gauge and the subsea receiver. The relay station serves to boost the downhole gauge signal for onward transmission to the subsea receiver. Where conditions are particularly challenging then, whilst highly unusual, it may be necessary to install more than one relay station in the well. Table 1 summarises the main performance specifications for the wireless transmitting gauge.</anchoringText>
+<label>Table 1</label>
+<caption>Summary of the key performance specifications for the wireless EM gauge.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Summary of the key performance specifications for the wireless EM gauge.</caption-text>
+</formatted-caption>
+<table id="102118180008MS-Tbl_SPi-1" frame="hsides">
+<tbody>
+<tr>
+<td valign="bottom" align="left">Tool string length</td>
+<td align="left">10 to 15m depending on the selected battery pack sizing</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Maximum Tool string O.D
+</td>
+<td align="left">42.9 or 54.0mm depending on battery pack size selected</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Pressure Range</td>
+<td valign="bottom" align="left">0 - 10,000 psi</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Pressure Transducer</td>
+<td valign="bottom" align="left">Quartz Crystal</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Pressure Accuracy</td>
+<td valign="bottom" align="left">± 2.5 psi for a 10K psi sensor</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Pressure Resolution - Wireless transmitted to surface</td>
+<td valign="bottom" align="left">0.01 psi or 0.1 psi selectable</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Pressure Resolution - Stored to memory</td>
+<td valign="bottom" align="left">0.01 psi</td>
+</tr>
+<tr>
+<td valign="top" align="left">Pressure Drift Specification</td>
+<td valign="bottom" align="left">Maximum of 2psi / year (worst case) for a 10K psi transducer, reducing with the actual pressure being measured</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Temperature Transducer</td>
+<td valign="bottom" align="left">Quartz Crystal</td>
+</tr>
+<tr>
+<td valign="top" align="left">Temperature Range</td>
+<td valign="top" align="left">-20 to 125°C</td>
+</tr>
+<tr>
+<td valign="top" align="left">Temperature Accuracy</td>
+<td valign="top" align="left">±1°C</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Temperature Resolution - Wireless transmitted to surface</td>
+<td valign="bottom" align="left">0.1°C or 1.0°C selectable</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Temperature Resolution - Stored to memory</td>
+<td valign="bottom" align="left">0.1°C</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Gauge onboard memory capacity</td>
+<td valign="bottom" align="left">100,000 data sets</td>
+</tr>
+<tr>
+<td valign="top" align="left">Battery life</td>
+<td valign="top" align="left">Up to 7 years depending on well conditions and frequency of data transmission</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="10" table-order="2" data-type-order="8">
+<table-wrap id="102118180008MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">On arrival on the rig the EM gauges were function checked to ensure that no damage had been incurred during shipping. The gauges were then programmed with the selected data transmission schedule as per Table 2.</anchoringText>
+<label>Table 2</label>
+<caption>Data transmission programming schedule for the long-term EM gauges.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Data transmission programming schedule for the long-term EM gauges.</caption-text>
+</formatted-caption>
+<table id="102118180008MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Schedule Number</th>
+<th valign="top" align="center">Number of days since gauge installation</th>
+<th valign="top" align="center">Number of data transmissions per gauge per day</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">1</td>
+<td valign="top" align="left">Days 1 to 15</td>
+<td valign="top" align="left">1 transmissions every 10.5 hours</td>
+</tr>
+<tr>
+<td valign="top" align="left">2</td>
+<td valign="top" align="left">Days 16 to 60</td>
+<td valign="top" align="left">1 transmissions every 12 hours</td>
+</tr>
+<tr>
+<td valign="top" align="left">3</td>
+<td valign="top" align="left">Days 61 to 210</td>
+<td valign="top" align="left">1 transmissions every 24 hours</td>
+</tr>
+<tr>
+<td valign="top" align="left">4</td>
+<td valign="top" align="left">Days 211 to 1274</td>
+<td valign="top" align="left">1 transmission every 72 hours</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

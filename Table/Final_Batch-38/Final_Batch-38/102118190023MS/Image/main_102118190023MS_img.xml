@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190023MS.txt" extractionDate="2021-03-30T15:15:55Z">
+<doi>10.2118/190023-MS</doi>
+<pii>10.2118/190023-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="5" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr2">As described, both dynamic fluid flow and pseudo-static particle deposition are involved in the fluid diversion process. The characterizations of the applied particle diverters, the geometry of the target openings and flow conditions can fundamentally dictate the diversion efficiency and hence should be included in the engineering design of the entire diversion treatments. Considering the complexities of the underlying mechanisms and availabilities of the modelling tools, an engineering design workflow and integrated analysis of particulate diverter applications is proposed, which is comprised of three major steps shown in Fig. 1.</anchoringText>
+<image-wrap id="102118190023MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118190023MS_i_1.tif" id="ImgLink-1" />
+<caption>Design workflow and integrated analysis</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Design workflow and integrated analysis</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="7" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr3">As mentioned previously, an advanced simulator (CFD-DEM) was used in this work to model the dynamic plugging caused by particle accumulation, as shown in Fig. 2(a). With the embedded premium features of the simulator, the numerical model can accurately capture the phenomena with the opening (such as a single slot opening) and particles specifically tested in the lab.</anchoringText>
+<image-wrap id="102118190023MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118190023MS_i_2.tif" id="ImgLink-2" />
+<caption>CFD-DEM modeling: (a) wellbore scale numerical model; (b) effect of particle shape and size on jamming probability</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>CFD-DEM modeling: (a) wellbore scale numerical model; (b) effect of particle shape and size on jamming probability</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190023MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118190023MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>wellbore scale numerical model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190023MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118190023MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>effect of particle shape and size on jamming probability</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr4">Using the learnings from advanced modelling (CFD-DEM) and extensive field and experimental data, we can predict the critical concentration of particulate diverters demanded for an effective fluid diversion when subjected to a specific wellbore condition. An analytical model was proposed by Shahri et al. (2017b) to estimate the minimum required particle concentration. This model had been verified against CFD-DEM models and experiments from our analyses and other literature work (Lafond, 2013; Mondal, 2013; Gomma et al., 2016), as demonstrated in Fig. 3.</anchoringText>
+<image-wrap id="102118190023MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118190023MS_i_3.tif" id="ImgLink-3" />
+<caption>Critical particle concentration for particle plugging</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Critical particle concentration for particle plugging</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr5">As suggested from both simulation and experimental results, two complementary mechanical processes, jamming and sealing, are identified when applying solid particles in fluid diversion (Gomaa et al., 2016; Shahri et al., 2016). By fully understanding these two dominant mechanisms, two sized particles (7 and 100 mesh respectively) are designed and used in this next generation particulate diverter system (Fragachán et al., 2016a and b), as shown in Fig. 4.</anchoringText>
+<image-wrap id="102118190023MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118190023MS_i_4.tif" id="ImgLink-4" />
+<caption>Degradable diverter system</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Degradable diverter system</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="9" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr6">From our experiments, the diverter pills comprised of the mixture of two appropriately sized particles can effectively bridge off the openings with different geometries shown in Fig. 5(a). As observed from Fig. 5(b), the relatively large particles (7 mesh) can jam the opening as also suggested from our numerical simulations; meanwhile, the small particles (100 mesh) can occupy and fill the void space between the large particles to mitigate fluid passage, as illustrated in Fig. 5(c).</anchoringText>
+<image-wrap id="102118190023MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118190023MS_i_5.tif" id="ImgLink-5" />
+<caption>Experimental observations: (a) opening geometries; (b) blockage of opening by diverter pills; (c) jamming and sealing</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Experimental observations: (a) opening geometries; (b) blockage of opening by diverter pills; (c) jamming and sealing</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190023MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118190023MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>opening geometries</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190023MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118190023MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>blockage of opening by diverter pills</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190023MS-Img_SPi-5c">
+<imageLink type="mediaResource" href="102118190023MS_i_5c.tif" id="ImgLink-5c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>jamming and sealing</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr7">Where xi is the number fraction of type i particle and di is the corresponding diameter. As plotted in Fig.6, the average particle diameter of the particle system varies with the fraction of the small particles. To show the influence of small particle size, two different small particle sizes (100 mesh and 50 mesh) are tested and compared by fixing the size of large particles (7 mesh). With the same particle ratio of small particle, the system with 50 mesh particles is characterized in higher average particle diameter than the one with 100 mesh particles.</anchoringText>
+<image-wrap id="102118190023MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118190023MS_i_6.tif" id="ImgLink-6" />
+<caption>Averaged particle diameter</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Averaged particle diameter</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr8">Where ∆P is the pressure drop through the particle pack, L is the length of the particle pack, μ is the fluid viscosity, V is the superficial fluid velocity, ε is the porosity of the particle pack, ρ is the flowing fluid density. By combining Eq.(1) and (2), the required pressure to flow fluid through the accumulated diverter pack can be determined based on different particle designs and flow conditions. In this example, the slurry viscosity is 5cp. As shown in Fig.7, the resulted pressure drops from two different diverter systems are studied and compared.</anchoringText>
+<image-wrap id="102118190023MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118190023MS_i_7.tif" id="ImgLink-7" />
+<caption>Pressure drop resulted from different particle designs and flow rate: (a) diverter system with 7 mesh and 100 mesh particles; (b) diverter system with 7mesh and 50 mesh particles</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Pressure drop resulted from different particle designs and flow rate: (a) diverter system with 7 mesh and 100 mesh particles; (b) diverter system with 7mesh and 50 mesh particles</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190023MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118190023MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>diverter system with 7 mesh and 100 mesh particles</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190023MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118190023MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>diverter system with 7mesh and 50 mesh particles</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr9">Fig.7 also shows that, if the small particle ratio is low (&#x003C;55%), less pressure will be required to flow fluid through diverter pack due to its relative high porosity and permeability. However, if choosing higher value for small particle ratio (&#x003E; 80%), the impermeable diverter pack cannot be created, as there are no sufficient large particles to form a stable jammed structure, which works as the skeleton to support the formation of this impermeable cake (as discussed in the previous sections and shown in Fig. 2 and 3). These findings agree well with the available field data, as presented in Fig.8.</anchoringText>
+<image-wrap id="102118190023MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118190023MS_i_8.tif" id="ImgLink-8" />
+<caption>Field data analysis on particle ratio</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Field data analysis on particle ratio</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr10">After treatment, these next generation particulate diverters can self-degrade from a solid polymer state to a clear, non-damaging, liquid monomer solution, which eliminates the need for mechanical removal after intervention and hence greatly enhances operational efficiency. All the solids, including both large and small particles, can completely degrade into liquid within a controlled amount of time, as demonstrated in Fig.9.</anchoringText>
+<image-wrap id="102118190023MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118190023MS_i_9.tif" id="ImgLink-9" />
+<caption>Degradation test in the lab</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Degradation test in the lab</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr11">The particle dissolution rate varies significantly with reservoir fluid type under the same temperature, as shown in Fig.10. Even the proper particle design can be obtained from numerical modeling and analysis, the particle degradation rate could significantly alter the performance of particulate diverter and the following wellbore clean-up. If the diverter is not compatible with the fracturing or reservoir fluid, it might dissolve very rapidly (probably less than an hour); thus the required differential pressure for fluid diversion cannot be maintained or built-up and failure of the re-fracturing operations could be faced.</anchoringText>
+<image-wrap id="102118190023MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118190023MS_i_10.tif" id="ImgLink-10" />
+<caption>Particle dissolution rate in different fluids at 140°F</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Particle dissolution rate in different fluids at 140°F</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr12">Our ultimate goal is to design the applied diverter pill to enhance the probability of jamming and moreover withstand sufficient pressure to effectively re-direct the fluid, as illustrated in Fig. 11 without having to add excessive amount of diverter to achieve fluid diversion. Based on the presented modeling results, field experience and real-time monitoring of pressure response and microseismicity could help to optimize the field executions by adjusting the particle designs.</anchoringText>
+<image-wrap id="102118190023MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118190023MS_i_11.tif" id="ImgLink-11" />
+<caption>Engineered design vs. non-engineered design</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Engineered design vs. non-engineered design</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190023MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118190023MS_i_11a.tif" id="ImgLink-11a" />
+</image-wrap>
+<image-wrap id="102118190023MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118190023MS_i_11b.tif" id="ImgLink-11b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr13">The perforation pressure drop would vary significantly with the diversion designs as shown in Fig.12. For the non-engineered design or complete failure of fluid diversion (Case-1), its Cd will be relatively high and close to the default value and no additional pressure drop can be obtained. Case-2 represents an improved design scenario, in which an obvious pressure drop can be created. If engineered properly (Case-1), Cd will be reduced to an extremely low value to further constrain the fluid passage through plugged perforations. Following, these three typical scenarios will be further tested through fracturing simulations to quantify the influence of diverter design on re-fracturing efficiency.</anchoringText>
+<image-wrap id="102118190023MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118190023MS_i_12.tif" id="ImgLink-12" />
+<caption>Perforation pressure drop corresponding to different diverter plugging efficiency (light green area represents the engineered diverter designs)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Perforation pressure drop corresponding to different diverter plugging efficiency (light green area represents the engineered diverter designs)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="15" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr14">Fig.13 describes detailed wellbore configuration and perforation cluster locations in both map and side view. Conventional plug-and-perf operations through a cemented casing were performed in the initial hydraulic fracture treatment. For each stage, the fracturing fluid of was pumped at 70bpm and mixed with necessary chemical additives. Singlephase viscous fluid injection was conducted sequentially. Different types of proppants were utilized in the fracturing operations, including 100 mesh, 40/70 mesh and 20/40 mesh sand.</anchoringText>
+<image-wrap id="102118190023MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118190023MS_i_13.tif" id="ImgLink-13" />
+<caption>Initial completion design and fracture pattern: (a) map view; (b) side view; (c) fracture pattern after initial fracturing treatment (warm color represents high fracture aperture).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Initial completion design and fracture pattern: (a) map view; (b) side view; (c) fracture pattern after initial fracturing treatment (warm color represents high fracture aperture).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190023MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118190023MS_i_13a.tif" id="ImgLink-13a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>map view</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190023MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118190023MS_i_13b.tif" id="ImgLink-13b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>side view</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190023MS-Img_SPi-13c">
+<imageLink type="mediaResource" href="102118190023MS_i_13c.tif" id="ImgLink-13c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>fracture pattern after initial fracturing treatment (warm color represents high fracture aperture)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="16" figure-order="14" data-type-order="15">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr15">The diversion treatment needed to be performed by flushing the designed particle slurry through the wellbore before injecting any fracturing fluid. By running the integrated analysis, different diverter design scenarios can be studied and the associated fluid diversion efficiency can be evaluated and implemented into the fracturing model. For demonstration, only three typical designs (the three cases listed in Fig.12) were tested in the fracturing simulator and the simulation results for the corresponding re-fracturing treatments are summarized in Fig.14-16.</anchoringText>
+<image-wrap id="102118190023MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118190023MS_i_14.tif" id="ImgLink-14" />
+<caption>Distributed flow rate for each cluster during re-fracturing for three cases Case 1 Case 2 Case 3</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Distributed flow rate for each cluster during re-fracturing for three cases Case 1 Case 2 Case 3</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190023MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118190023MS_i_14a.tif" id="ImgLink-14a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Case 1</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190023MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118190023MS_i_14b.tif" id="ImgLink-14b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Case 2</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190023MS-Img_SPi-14c">
+<imageLink type="mediaResource" href="102118190023MS_i_14c.tif" id="ImgLink-14c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Case 3</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="16" figure-order="15" data-type-order="16">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr16">The diversion treatment needed to be performed by flushing the designed particle slurry through the wellbore before injecting any fracturing fluid. By running the integrated analysis, different diverter design scenarios can be studied and the associated fluid diversion efficiency can be evaluated and implemented into the fracturing model. For demonstration, only three typical designs (the three cases listed in Fig.12) were tested in the fracturing simulator and the simulation results for the corresponding re-fracturing treatments are summarized in Fig.14-16.</anchoringText>
+<image-wrap id="102118190023MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118190023MS_i_15.tif" id="ImgLink-15" />
+<caption>(a) Fracture pattern for three cases (warm color represents high fracture aperture); (b) Total volume of fracturing fluid injected into each cluster</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>(a) Fracture pattern for three cases (warm color represents high fracture aperture); (b) Total volume of fracturing fluid injected into each cluster</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190023MS-Img_SPi-15a">
+<imageLink type="mediaResource" href="102118190023MS_i_15a.tif" id="ImgLink-15a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Fracture pattern for three cases (warm color represents high fracture aperture)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190023MS-Img_SPi-15b">
+<imageLink type="mediaResource" href="102118190023MS_i_15b.tif" id="ImgLink-15b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Total volume of fracturing fluid injected into each cluster</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="17" figure-order="16" data-type-order="17">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr17">The diversion treatment needed to be performed by flushing the designed particle slurry through the wellbore before injecting any fracturing fluid. By running the integrated analysis, different diverter design scenarios can be studied and the associated fluid diversion efficiency can be evaluated and implemented into the fracturing model. For demonstration, only three typical designs (the three cases listed in Fig.12) were tested in the fracturing simulator and the simulation results for the corresponding re-fracturing treatments are summarized in Fig.14-16.</anchoringText>
+<image-wrap id="102118190023MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118190023MS_i_16.tif" id="ImgLink-16" />
+<caption>Normalized production rate and cumulative production for different diversion scenarios Normalized Flow Rate Normalized Gas Production</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Normalized production rate and cumulative production for different diversion scenarios Normalized Flow Rate Normalized Gas Production</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190023MS-Img_SPi-16a">
+<imageLink type="mediaResource" href="102118190023MS_i_16a.tif" id="ImgLink-16a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Normalized Flow Rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190023MS-Img_SPi-16b">
+<imageLink type="mediaResource" href="102118190023MS_i_16b.tif" id="ImgLink-16b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Normalized Gas Production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

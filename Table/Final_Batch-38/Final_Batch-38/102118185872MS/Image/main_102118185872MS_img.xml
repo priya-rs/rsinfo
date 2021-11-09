@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185872MS.txt" extractionDate="2021-03-25T18:08:18Z">
+<doi>10.2118/185872-MS</doi>
+<pii>10.2118/185872-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">The workflow allows a comprehensive analysis of the water injection based on the following steps (Fig. 1):</anchoringText>
+<image-wrap id="102118185872MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118185872MS_i_1.tif" id="ImgLink-1" />
+<caption>Integrated workflow block diagram.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Integrated workflow block diagram.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">All salinity values were plotted together vs. time, as reported in Fig. 2, showing the wide spread existing in the reservoir (grey dots). Sensible different behaviors can be appreciated for a well producing only formation water during all production life (blue dots), and one where the breakthrough of injected water occurred (red dots). In fact, the former maintains the salinity of the produced water always in the range of the formation water, while the latter shows a clear evidence of a decreasing trend towards lower values due to the breakthrough of injected sea water.</anchoringText>
+<image-wrap id="102118185872MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118185872MS_i_2.tif" id="ImgLink-2" />
+<caption>Salinity trend for a well producing formation water (blue dots) and injected water (red dots).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Salinity trend for a well producing formation water (blue dots) and injected water (red dots).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Let us see the application of the methodology to a specific area of the field. In the example reported in Fig. 3 three main periods are identified:</anchoringText>
+<image-wrap id="102118185872MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118185872MS_i_3.tif" id="ImgLink-3" />
+<caption>Production life subdivision in timeframes.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Production life subdivision in timeframes.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">In Fig. 4a are plotted the RFT data in terms of pressure vs. depth. Red lines are the RFT related to the re-pressurization stage (“red” area in Fig. 3) while green lines are those referring to the end of the depletion period (“green” area in Fig. 3).</anchoringText>
+<image-wrap id="102118185872MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118185872MS_i_4.tif" id="ImgLink-4" />
+<caption>(a) RFT data plot, (b) Map of the area - Red color refers to the re-pressurization stage, green to the end of the depletion period while yellow is used to highlight the behavior of a well not affected by water injection pressure support.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>(a) RFT data plot, (b) Map of the area - Red color refers to the re-pressurization stage, green to the end of the depletion period while yellow is used to highlight the behavior of a well not affected by water injection pressure support.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185872MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118185872MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>RFT data plot</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185872MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118185872MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Map of the area - Red color refers</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">The outcome is a connection map as the one reported in Fig. 5.</anchoringText>
+<image-wrap id="102118185872MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118185872MS_i_5.tif" id="ImgLink-5" />
+<caption>Connection identification - Red wells are connected producers, black are anhydrous wells (means no water production, no salinity data), light blue are wells producing water with the formation salinity and blue dots is the injector.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Connection identification - Red wells are connected producers, black are anhydrous wells (means no water production, no salinity data), light blue are wells producing water with the formation salinity and blue dots is the injector.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="6" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">In Fig. 6 red areas represent the front of injected water, while blue areas the movement of the aquifer. It is clear the early arrival of the aquifer from W (NW only in the late time), and the influence of injectors on the closest producers.</anchoringText>
+<image-wrap id="102118185872MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118185872MS_i_6.tif" id="ImgLink-6" />
+<caption>Evolution in time of the fluid path conceptual model. First timeframe (left) shows the aquifer BT; the second one (central) highlights the effect of injector 1 into two close producers (red wells). The final time step (right) represents the current status of the zone, with areas affected by aquifer (light blue), by injection (red) and by both (overlapping of the two). Green wells are those characterized by mixed water salinity values.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Evolution in time of the fluid path conceptual model. First timeframe (left) shows the aquifer BT; the second one (central) highlights the effect of injector 1 into two close producers (red wells). The final time step (right) represents the current status of the zone, with areas affected by aquifer (light blue), by injection (red) and by both (overlapping of the two). Green wells are those characterized by mixed water salinity values.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185872MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118185872MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>First timeframe</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185872MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118185872MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>central</caption-order>
+<caption-text>second one</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185872MS-Img_SPi-6c">
+<imageLink type="mediaResource" href="102118185872MS_i_6c.tif" id="ImgLink-6c" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>final time step</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="5" pdf-page="7" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">Fig. 7 shows how history match can significantly improve when the fluid paths are properly reproduced. In the old 3D model, for example, the injector was supporting the producers in W direction, in disagreement with the evidence of the PDA. The resulting match was underestimating the water production.</anchoringText>
+<image-wrap id="102118185872MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118185872MS_i_7.tif" id="ImgLink-7" />
+<caption>(a)Old model connections vision; (b)New model connections vision; (c)Old model simulated WC(solid line) and observed WC(dots) vs. time for W-2; (d)New model simulated WC(solid line) and observed WC(dots) vs. time for W-2; (e) New model simulated salinity(solid line) and observed salinity(dots) vs. time for W-2.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>(a)Old model connections vision; (b)New model connections vision; (c)Old model simulated WC(solid line) and observed WC(dots) vs. time for W-2; (d)New model simulated WC(solid line) and observed WC(dots) vs. time for W-2; (e) New model simulated salinity(solid line) and observed salinity(dots) vs. time for W-2.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185872MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118185872MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Old model connections vision</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185872MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118185872MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>New model connections vision</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185872MS-Img_SPi-7c">
+<imageLink type="mediaResource" href="102118185872MS_i_7c.tif" id="ImgLink-7c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Old model simulated WC(solid line) and observed WC(dots) vs. time for W-2</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185872MS-Img_SPi-7d">
+<imageLink type="mediaResource" href="102118185872MS_i_7d.tif" id="ImgLink-7d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>New model simulated WC(solid line) and observed WC(dots) vs. time for W-2</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185872MS-Img_SPi-7e">
+<imageLink type="mediaResource" href="102118185872MS_i_7e.tif" id="ImgLink-7e" />
+<figure-specific-caption>
+<caption-order>e</caption-order>
+<caption-text>New model simulated salinity(solid line) and observed salinity(dots) vs. time for W-2</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">Fluid paths conceptual models can provide valuable information about the fault system (Fig. 8).</anchoringText>
+<image-wrap id="102118185872MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118185872MS_i_8.tif" id="ImgLink-8" />
+<caption>Fault system QC. Faults are those coming from a new seismic interpretation. Red wells produce at low salinity values; light blue show formation water salinity and black ones are anhydrous.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Fault system QC. Faults are those coming from a new seismic interpretation. Red wells produce at low salinity values; light blue show formation water salinity and black ones are anhydrous.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">More complex situations were clarified as well, such as the one reported in Fig. 9. In this case, the analysis showed a communication through faults between reservoirs separated by shales, highlighted by a strong depletion before the production start-up.</anchoringText>
+<image-wrap id="102118185872MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118185872MS_i_9.tif" id="ImgLink-9" />
+<caption>Anomalous depletion of well W-60 and map. The faults involved in this process are highlighted in red, violet and orange. Arrows in the map indicate the top view of the section reported in Fig.10</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Anomalous depletion of well W-60 and map. The faults involved in this process are highlighted in red, violet and orange. Arrows in the map indicate the top view of the section reported in <link href="102118185872MS-Img_SPi-10">Fig.10</link>
+</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185872MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118185872MS_i_9a.tif" id="ImgLink-9a" />
+</image-wrap>
+<image-wrap id="102118185872MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118185872MS_i_9b.tif" id="ImgLink-9b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">The results highlighted that the communication between wells completed on dynamically separated levels (Zone IIIA and IV in Fig.10), was possible through a complex system of faults by sands superposition.</anchoringText>
+<image-wrap id="102118185872MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118185872MS_i_10.tif" id="ImgLink-10" />
+<caption>Communication through complex faults scheme between Zone IIIA and IV. Starting from well W-58 (producer in zone IV), the green arrows highlight how passing through the different faults, the interference reached well W-60 (producer in zone IIIA).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Communication through complex faults scheme between Zone IIIA and IV. Starting from well W-58 (producer in zone IV), the green arrows highlight how passing through the different faults, the interference reached well W-60 (producer in zone IIIA).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">In Fig. 11, the connections between injectors and producers (highlighted by red areas) show a good communication in the producing zone both in the Northern and Southern areas.</anchoringText>
+<image-wrap id="102118185872MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118185872MS_i_11.tif" id="ImgLink-11" />
+<caption>Two main OWCs identified. The grey area represent shale presence.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Two main OWCs identified. The grey area represent shale presence.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">Fig. 12 shows the salinity behavior in a group of wells, which experienced partialization during the production life. In particular, to reduce the water production, the lower part of the interval (zone II1) was excluded in some wells, based on the assumption of the advancement of a bottom aquifer. Salinity values showed a drastic reduction as soon as the production came only from the upper zone (II), in agreement with the presence of a water injector dedicated to zone II.</anchoringText>
+<image-wrap id="102118185872MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118185872MS_i_12.tif" id="ImgLink-12" />
+<caption>Differences on salinity trend for Zone II and II1.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Differences on salinity trend for Zone II and II1.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">Anomalies in wells zonation is another outcome of conceptual models. The example reported in Fig. 13 shows that well 4 was directly entering in a formation named “Lower”, without crossing the shallower “Upper” formation, in strong disagreement with the surrounding wells (left side of Fig.13).</anchoringText>
+<image-wrap id="102118185872MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118185872MS_i_13.tif" id="ImgLink-13" />
+<caption>Zonation of well 4 pre/post analysis.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Zonation of well 4 pre/post analysis.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185872MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118185872MS_i_13a.tif" id="ImgLink-13a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Zonation pre analysis</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185872MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118185872MS_i_13b.tif" id="ImgLink-13b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Zonation post analysis</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr14">The low salinity values showed that well 4 is clearly producing injected water, like the other close wells of the area (Fig. 14). Since the open injector is completed only in the “Upper” zone, the analysis confirmed that well 4 should be open in “Upper” zone as well, and the zonation was accordingly updated in the new geological model (Fig. 13 - right).</anchoringText>
+<image-wrap id="102118185872MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118185872MS_i_14.tif" id="ImgLink-14" />
+<caption>Dynamic behavior of wells in the same zone.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Dynamic behavior of wells in the same zone.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185872MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118185872MS_i_14a.tif" id="ImgLink-14a" />
+</image-wrap>
+<image-wrap id="102118185872MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118185872MS_i_14b.tif" id="ImgLink-14b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="15" data-type-order="15">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr15">Based on the analysis of water breakthrough evidences, a preliminary conceptual model was set-up, showing aquifer arrival from both SW and E directions (Fig. 15a). Nevertheless, significant incongruences were identified. Although the initial period was clearly indicating formation water, the range of values was anomalous, either lower or higher with respect to the aquifer reference salinity for the zone (Fig. 15b). Furthermore, aquifer arrival from SW would imply passing through a fault that in other zones behaved as sealing.</anchoringText>
+<image-wrap id="102118185872MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118185872MS_i_15.tif" id="ImgLink-15" />
+<caption>(a)Fluid path conceptual model based on BT evidences;(b)Salinity values collected for the area.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>(a)Fluid path conceptual model based on BT evidences;(b)Salinity values collected for the area.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185872MS-Img_SPi-15a">
+<imageLink type="mediaResource" href="102118185872MS_i_15a.tif" id="ImgLink-15a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Fluid path conceptual model based on BT evidences</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185872MS-Img_SPi-15b">
+<imageLink type="mediaResource" href="102118185872MS_i_15b.tif" id="ImgLink-15b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Salinity values collected for the area</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="12" figure-order="16" data-type-order="16">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr16">A more detailed analysis of salinity values allowed identifying three different well behaviors (Fig. 16b):</anchoringText>
+<image-wrap id="102118185872MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118185872MS_i_16.tif" id="ImgLink-16" />
+<caption>(a)Reviewed fluid path conceptual model; (b)Salinity data collected and well integrity issues.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>(a)Reviewed fluid path conceptual model; (b)Salinity data collected and well integrity issues.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185872MS-Img_SPi-16a">
+<imageLink type="mediaResource" href="102118185872MS_i_16a.tif" id="ImgLink-16a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Reviewed fluid path conceptual model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185872MS-Img_SPi-16b">
+<imageLink type="mediaResource" href="102118185872MS_i_16b.tif" id="ImgLink-16b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Salinity data collected and well integrity issues</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="17" data-type-order="17">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr17">The approach is represented in Fig. 17. The location of the commingle well to be analyzed is highlighted in orange on the conceptual model of each involved reservoir, in order to quickly identify which is more in agreement with its production performances.</anchoringText>
+<image-wrap id="102118185872MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118185872MS_i_17.tif" id="ImgLink-17" />
+<caption>Zone IIA(a) and Zone IV(b) fluid path conceptual models. Well 63 is the orange square.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Zone IIA(a) and Zone IV(b) fluid path conceptual models. Well 63 is the orange square.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185872MS-Img_SPi-17a">
+<imageLink type="mediaResource" href="102118185872MS_i_17a.tif" id="ImgLink-17a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Zone IV</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185872MS-Img_SPi-17b">
+<imageLink type="mediaResource" href="102118185872MS_i_17b.tif" id="ImgLink-17b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>fluid path conceptual models</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="18" data-type-order="18">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr18">In this case, the decreasing trend in salinity associated to the increase in WC was showing the impact of water injection, implying a strong contribution of zone IIA (Fig. 18).</anchoringText>
+<image-wrap id="102118185872MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118185872MS_i_18.tif" id="ImgLink-18" />
+<caption>Salinity(red dots) and WCT(blue dots) of well 63.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Salinity(red dots) and WCT(blue dots) of well 63.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

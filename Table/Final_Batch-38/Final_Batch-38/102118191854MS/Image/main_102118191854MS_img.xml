@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191854MS.txt" extractionDate="2021-03-29T16:31:43Z">
+<doi>10.2118/191854-MS</doi>
+<pii>10.2118/191854-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">As the fracturing fluid propagates through the tensile deformation of the rock and meets the natural fracture, the natural fracture properties and pressure in the induced fracture determine either of the three outcomes: the hydraulic fracture may propagate through the natural fracture, the hydraulic fracture may be arrested by the natural fracture, or the hydraulic fracture may intersect and propagate in the natural fracture and subsequently cross it (Fig. 1).</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118191854MS_i_1.tif" id="ImgLink-1" />
+<caption>Hydraulic fracture propagation and interaction with a natural fracture.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Hydraulic fracture propagation and interaction with a natural fracture.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">Recently, Cohen et al. (2017) presented a theoretical approach to account for vertical heterogeneity in the natural fracture network (Fig. 2) as they modified the fracture model to honor the crossing criteria developed by Gu and Weng (2010), but over different vertical layers as per the DFN variability, hence, the multilayer DFN (MDFN). However, there has been no application presented in the literature to evaluate the use of an MDFN coupled to a complex fracture model in predicting the fracture geometry in shale reservoirs. The purpose of this study, therefore, is to provide supplemental evidence and a workflow for applying the MDFN approach wherever applicable for improving the predictability of well completions and their production performance.</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118191854MS_i_2.tif" id="ImgLink-2" />
+<caption>MDFN model (Cohen et al. 2017).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>MDFN model <link href="BIB1">(Cohen et al. 2017)</link>.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-31" type="bib">
+<bib id="BIB1">
+<label>Cohen et al., 2017</label>
+<author>
+<first-name>C.-E</first-name>
+<last-name>Cohen</last-name>, ., <last-name>Kresse</last-name>, <first-name>O</first-name>., and <last-name>Weng</last-name>, <first-name>X</first-name>
+</author>. <pubDate>2017</pubDate>. <article-title>Stacked Height Model to Improve Fracture Height Growth Prediction, and Simulate Interactions With Multi-Layer DFNs and Ledges at Weak Zone Interfaces.</article-title> Presented at the SPE Hydraulic Fracturing Technology Conference, The Woodlands, Texas, USA, 24-26 January. SPE-184876-MS. https:// doi.org/10.2118/184876-MS</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">The horizontal well studied by Ajisafe et al. (2016) and here in this paper was drilled to target the Avalon shale in the Delaware basin with 11 fracturing stages completed with the plug-and-perforation technique. The DFN model shows variation in all three dimensions around the wellbore. Therefore, the hydraulic fracture geometry expected in the wellbore had bearing on the density of natural fractures and their distribution. This was also indicated by the microseismic data collected during the stimulation because they show variance along the wellbore (Fig. 3) as well as vertically (Fig. 4). When the DFN is plotted as a cross-section along the wellbore, the vertical variation is evident, and therefore the well completion and performance modeling approach warrants a greater focus on DFN variability in the vertical dimension, and it is as important as the horizontal variability.</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118191854MS_i_3.tif" id="ImgLink-3" />
+<caption>Top view of the microseismic data along the wellbore and DFN in a horizontal cross-section in the plane of the wellbore.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Top view of the microseismic data along the wellbore and DFN in a horizontal cross-section in the plane of the wellbore.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">The horizontal well studied by Ajisafe et al. (2016) and here in this paper was drilled to target the Avalon shale in the Delaware basin with 11 fracturing stages completed with the plug-and-perforation technique. The DFN model shows variation in all three dimensions around the wellbore. Therefore, the hydraulic fracture geometry expected in the wellbore had bearing on the density of natural fractures and their distribution. This was also indicated by the microseismic data collected during the stimulation because they show variance along the wellbore (Fig. 3) as well as vertically (Fig. 4). When the DFN is plotted as a cross-section along the wellbore, the vertical variation is evident, and therefore the well completion and performance modeling approach warrants a greater focus on DFN variability in the vertical dimension, and it is as important as the horizontal variability.</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118191854MS_i_4.tif" id="ImgLink-4" />
+<caption>Side view of the microseismic data along the wellbore and DFN in a vertical crosssection in the plane of wellbore showing natural fractures terminating at different depths.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Side view of the microseismic data along the wellbore and DFN in a vertical crosssection in the plane of wellbore showing natural fractures terminating at different depths.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="5" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">The DFN model is then discretized into various elements represented across the layers in Avalon shale. This allows creating a subdivision of the 3D DFN model as per the layers defined in the geocellular model (Fig. 5). The MDFN created in this study is different from that presented by Ajisafe et al. (2016) where they had considered a SDFN. The SDFN in that study was created by a slice of the 3D-DFN close to the wellbore. These natural fractures captured in the SDFN may have the first impact on creating the complexity because of the fact that the fracturing fluid will propagate laterally as it comes out of the perforation clusters.</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-5">
+<label>Figure 5</label>
+<imageLink type="mediaResource" href="102118191854MS_i_5.tif" id="ImgLink-5" />
+<caption>Side view of DFN network. A) MDFN shows variability of the DFN model when fracture sets vary vertically for properties. B) SDFN cut across the horizontal wellbore.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Side view of DFN network. A) MDFN shows variability of the DFN model when fracture sets vary vertically for properties. B) SDFN cut across the horizontal wellbore.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191854MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118191854MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>MDFN shows variability of the DFN model when fracture sets vary vertically for properties</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191854MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118191854MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>SDFN cut across the horizontal wellbore</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="6" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">Hydraulic fracture geometry for the stage 1 is represented in Fig. 6A and Fig. 6C using the MDFN approach and Fig. 6B and Fig. 6D using the SDNF approach. The hydraulic fracture with the MDFN shows greater complexity and variation of the hydraulic fracture dimensions in the vertical direction than with the SDFN, which essentially creates a vertical plane of fracture with complexity in the horizontal direction only.</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-6">
+<label>Figure 6</label>
+<imageLink type="mediaResource" href="102118191854MS_i_6.tif" id="ImgLink-6" />
+<caption>Stage 1 fracture model. A) Side view using the MDFN approach, B) side view using the SDFN approach, C) top view using the MDFN approach, and D) top view using the SDFN approach.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Stage 1 fracture model. A) Side view using the MDFN approach, B) side view using the SDFN approach, C) top view using the MDFN approach, and D) top view using the SDFN approach.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191854MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118191854MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Side view using the MDFN approach</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191854MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118191854MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>side view using the SDFN approach</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191854MS-Img_SPi-6c">
+<imageLink type="mediaResource" href="102118191854MS_i_6c.tif" id="ImgLink-6c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>top view using the MDFN approach</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191854MS-Img_SPi-6d">
+<imageLink type="mediaResource" href="102118191854MS_i_6d.tif" id="ImgLink-6d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>top view using the SDFN approach</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">The hydraulic fracturing treatment pressure response on the surface may not be very different between the two approaches. The fracture treatment pressure history was plotted together for both the scenarios, and it was found that the stimulation pressure history for both the cases were very similar. The surface areas created by the two fracture simulation cases have only a minor difference at the end; the case with the MDFN adds just over 18% higher surface area due to added complexity with more natural fracture interaction (Fig. 7).</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118191854MS_i_7.tif" id="ImgLink-7" />
+<caption>Treatment pressure history for the MDFN and SDFN cases show similar pressure profile and around 18% higher surface area with SDFN model.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Treatment pressure history for the MDFN and SDFN cases show similar pressure profile and around 18% higher surface area with SDFN model.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">There is some minor variability between the two cases, as seen in Fig. 8. However, when the propped fraction of the hydraulic fractures is computed, we observe that the model predicts greater propped surface area with the SDFN than with the MDFN approach (Fig. 9) due to the fact that the proppant transport is compromised at an increased complexity. Therefore, the proppants stay closer to the wellbore, and the surface area created by the hydraulic fracture across various layers as they propagate and make complexity may show greater unpropped fractions.</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118191854MS_i_8.tif" id="ImgLink-8" />
+<caption>Total fracture surface area from the two models.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Total fracture surface area from the two models.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">There is some minor variability between the two cases, as seen in Fig. 8. However, when the propped fraction of the hydraulic fractures is computed, we observe that the model predicts greater propped surface area with the SDFN than with the MDFN approach (Fig. 9) due to the fact that the proppant transport is compromised at an increased complexity. Therefore, the proppants stay closer to the wellbore, and the surface area created by the hydraulic fracture across various layers as they propagate and make complexity may show greater unpropped fractions.</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118191854MS_i_9.tif" id="ImgLink-9" />
+<caption>Propped surface area from the two models.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Propped surface area from the two models.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">The maximum surface pressures for the two approaches of modeling show a similar pressure trend. Fig. 10 shows the maximum surface pressure modeled by the two approaches. Therefore, execution data from the field may not be enough to determine if the fractures are creating additional complexity in the vertical direction due to interaction with natural fractures or whether the fracture is only creating complexity in the horizontal plane of propagation. Advanced modeling as proposed in this study can only predict the response and hydraulic fracture complexity with varying DFN vertically.</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118191854MS_i_10.tif" id="ImgLink-10" />
+<caption>Maximum surface pressure from the two models.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Maximum surface pressure from the two models.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">The fluid efficiency of the treatments was compared, and it is observed that the fracturing fluid efficiency of the MDFN approach is higher by approximately 5 to 20% compared to the SDFN approach (Fig.11), and this explains the higher surface area created in the model through the MDFN approach as seen in previous Fig. 10.</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118191854MS_i_11.tif" id="ImgLink-11" />
+<caption>Fracturing fluid efficiency from the two models.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Fracturing fluid efficiency from the two models.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">Hydraulic fracture extent compared for the two approaches is summarized in Fig. 12, and it is observed that the fracture extent through the SDFN modeling is greater than with the MDFN. This is attributed to less complexity and interaction with the simplistic natural fracture representation in SDFN whereas when more realistic MDFN approach is used, the hydraulic fractures tend to be smaller in extent. This can have a direct impact on well spacing decisions.</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118191854MS_i_12.tif" id="ImgLink-12" />
+<caption>Fracture extent from the two models.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Fracture extent from the two models.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">The hydraulic fracture height in the MDFN approach shows significant reduction (Fig. 13) since the hydraulic fractures tend to get more complex in the horizontal plane and vary over the vertical dimension as they meet the natural fractures.</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118191854MS_i_13.tif" id="ImgLink-13" />
+<caption>Maximum fracture height from the two models.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Maximum fracture height from the two models.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr14">Hydraulic fracture simulation with the complex fracture model was performed to create the fracture geometry for the treatment stages. Fig. 14 represents the fracture footprint of stage 1 as predicted by the simulation from a top view and overlaid with the microseismic event data collected during the actual treatment.</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-14">
+<label>Figure 14</label>
+<imageLink type="mediaResource" href="102118191854MS_i_14.tif" id="ImgLink-14" />
+<caption>Microseismic data measured around stage 1 overlaid with A) the fracture using MDFN and B) the fracture using SDFN, in top view.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Microseismic data measured around stage 1 overlaid with A) the fracture using MDFN and B) the fracture using SDFN, in top view.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191854MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118191854MS_i_14a.tif" id="ImgLink-14a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>fracture using MDFN</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191854MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118191854MS_i_14b.tif" id="ImgLink-14b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>fracture using SDFN, in top view</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="12" figure-order="15" data-type-order="15">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr15">It is also seen that the microseismic data acquired from the wellsite during the treatment, as shown in the yellow dots in Fig 13, match better to the fracture footprint considering the MDFN representation of natural fractures. Further, a side view of the stage 1 is also compared visually and the microseismic data are much better covered by the fracture geometry from MDFN approach (Fig. 15).</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-15">
+<label>Figure 15</label>
+<imageLink type="mediaResource" href="102118191854MS_i_15.tif" id="ImgLink-15" />
+<caption>Microseismic data measured around stage 1 overlaid with A) fracture using MDFN and B) fracture using SDFN in side view.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Microseismic data measured around stage 1 overlaid with A) fracture using MDFN and B) fracture using SDFN in side view.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191854MS-Img_SPi-15a">
+<imageLink type="mediaResource" href="102118191854MS_i_15a.tif" id="ImgLink-15a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>fracture using MDFN</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191854MS-Img_SPi-15b">
+<imageLink type="mediaResource" href="102118191854MS_i_15b.tif" id="ImgLink-15b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>fracture using SDFN in side view.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="16" data-type-order="16">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr16">When all the other stages of the hydraulic fracture geometry are overlaid with the microseismic data, the MDFN approach of modeling the hydraulic fracture presents greater coherence with the observed microseismic data. The hydraulic fracture extents predicted with the SDFN case represented in Fig. 16 are, in general, larger than the observed microseismic data. Additionally, some of the stages had shown greater intensity of microseismic data near the wellbore whereas the fracture geometry from the SDFN is more disperse and planar.</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-16">
+<label>Figure 16</label>
+<imageLink type="mediaResource" href="102118191854MS_i_16.tif" id="ImgLink-16" />
+<caption>Microseismic data measured on full wellbore with A) fracture using MDFN and B) fracture using SDFN in top view</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Microseismic data measured on full wellbore with A) fracture using MDFN and B) fracture using SDFN in top view</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191854MS-Img_SPi-16a">
+<imageLink type="mediaResource" href="102118191854MS_i_16a.tif" id="ImgLink-16a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>fracture using MDFN</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191854MS-Img_SPi-16b">
+<imageLink type="mediaResource" href="102118191854MS_i_16b.tif" id="ImgLink-16b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>fracture using SDFN in top view</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="14" figure-order="17" data-type-order="17">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr17">Fig. 17 compares the synthetic microseismic data predicted from FEM shown in cyan-colored dots for stage 1 considering the MFDN with the real microseismic data acquired on Stage 1 shown in the yellow-colored dots. When the fracture geometry extracted from the SDFN modeling approach is used, the predicted synthetic microseismic events for the stage 1 stimulation treatment do not show coherence with the actual observed microseismic data (Fig. 18).</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-17">
+<label>Figure 17</label>
+<imageLink type="mediaResource" href="102118191854MS_i_17.tif" id="ImgLink-17" />
+<caption>Measured microseismic data (yellow) compared to synthetic microseismic data (cyan) in MDFN approach.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Measured microseismic data (yellow) compared to synthetic microseismic data (cyan) in MDFN approach.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191854MS-Img_SPi-17a">
+<imageLink type="mediaResource" href="102118191854MS_i_17a.tif" id="ImgLink-17a" />
+<figure-specific-caption>
+<caption-order>yellow</caption-order>
+<caption-text>Measured microseismic data</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191854MS-Img_SPi-17b">
+<imageLink type="mediaResource" href="102118191854MS_i_17b.tif" id="ImgLink-17b" />
+<figure-specific-caption>
+<caption-order>cyan</caption-order>
+<caption-text>synthetic microseismic data</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="14" figure-order="18" data-type-order="18">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr18">Fig. 17 compares the synthetic microseismic data predicted from FEM shown in cyan-colored dots for stage 1 considering the MFDN with the real microseismic data acquired on Stage 1 shown in the yellow-colored dots. When the fracture geometry extracted from the SDFN modeling approach is used, the predicted synthetic microseismic events for the stage 1 stimulation treatment do not show coherence with the actual observed microseismic data (Fig. 18).</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-18">
+<label>Figure 18</label>
+<imageLink type="mediaResource" href="102118191854MS_i_18.tif" id="ImgLink-18" />
+<caption>Measured microseismic data (yellow) compared to synthetic microseismic data (green) in the SDFN approach</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Measured microseismic data (yellow) compared to synthetic microseismic data (green) in the SDFN approach</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191854MS-Img_SPi-18a">
+<imageLink type="mediaResource" href="102118191854MS_i_18a.tif" id="ImgLink-18a" />
+<figure-specific-caption>
+<caption-order>yellow</caption-order>
+<caption-text>Measured microseismic data</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191854MS-Img_SPi-18b">
+<imageLink type="mediaResource" href="102118191854MS_i_18b.tif" id="ImgLink-18b" />
+<figure-specific-caption>
+<caption-order>green</caption-order>
+<caption-text>synthetic microseismic data</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="19" data-type-order="19">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr19">From the presentation above, it is seen that the predicted synthetic microseismic data follow a trend and exhibit a density similar to those of the measured microseismic data. Further, to quantify the space that is stimulated by the hydraulic fractures, the cloud of the microseismic data is evaluated via visual analytics tools to represent the fraction of space covered by the microseismic data in different views (Fig. 19,Fig. 20, and Fig. 21). The fraction of the surface area covering the space around the full wellbore is computed with synthetic microseismic and real microseismic data in different views and represented in the bar chart in Fig. 22.</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118191854MS_i_19.tif" id="ImgLink-19" />
+<caption>Top view of the full wellbore, measured microseismic data compared to synthetic microseismic data in the MDFN approach.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Top view of the full wellbore, measured microseismic data compared to synthetic microseismic data in the MDFN approach.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="20" data-type-order="20">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr20">From the presentation above, it is seen that the predicted synthetic microseismic data follow a trend and exhibit a density similar to those of the measured microseismic data. Further, to quantify the space that is stimulated by the hydraulic fractures, the cloud of the microseismic data is evaluated via visual analytics tools to represent the fraction of space covered by the microseismic data in different views (Fig. 19,Fig. 20, and Fig. 21). The fraction of the surface area covering the space around the full wellbore is computed with synthetic microseismic and real microseismic data in different views and represented in the bar chart in Fig. 22.</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-20">
+<label>Figure 20 </label>
+<imageLink type="mediaResource" href="102118191854MS_i_20.tif" id="ImgLink-20" />
+<caption>Side view of the full wellbore, measured microseismic data compared to synthetic microseismic data in the MDFN approach.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Side view of the full wellbore, measured microseismic data compared to synthetic microseismic data in the MDFN approach.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="21" data-type-order="21">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr21">From the presentation above, it is seen that the predicted synthetic microseismic data follow a trend and exhibit a density similar to those of the measured microseismic data. Further, to quantify the space that is stimulated by the hydraulic fractures, the cloud of the microseismic data is evaluated via visual analytics tools to represent the fraction of space covered by the microseismic data in different views (Fig. 19,Fig. 20, and Fig. 21). The fraction of the surface area covering the space around the full wellbore is computed with synthetic microseismic and real microseismic data in different views and represented in the bar chart in Fig. 22.</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-21">
+<label>Figure 21 </label>
+<imageLink type="mediaResource" href="102118191854MS_i_21.tif" id="ImgLink-21" />
+<caption>Gun barrel view of the full wellbore, measured microseismic data compared to synthetic microseismic data in MDFN approach.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>21</caption-order>
+<caption-text>Gun barrel view of the full wellbore, measured microseismic data compared to synthetic microseismic data in MDFN approach.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="22" data-type-order="22">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr22">From the presentation above, it is seen that the predicted synthetic microseismic data follow a trend and exhibit a density similar to those of the measured microseismic data. Further, to quantify the space that is stimulated by the hydraulic fractures, the cloud of the microseismic data is evaluated via visual analytics tools to represent the fraction of space covered by the microseismic data in different views (Fig. 19,Fig. 20, and Fig. 21). The fraction of the surface area covering the space around the full wellbore is computed with synthetic microseismic and real microseismic data in different views and represented in the bar chart in Fig. 22.</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-22">
+<label>Figure 22 </label>
+<imageLink type="mediaResource" href="102118191854MS_i_22.tif" id="ImgLink-22" />
+<caption>Analysis of coverage of space around the wellbore though visual analytics tool for synthetic/computed microseismic and real microseismic data.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>22</caption-order>
+<caption-text>Analysis of coverage of space around the wellbore though visual analytics tool for synthetic/computed microseismic and real microseismic data.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="23" data-type-order="23">
+<link href="link-23" type="image" />
+<appendix>
+<linkTarget id="link-23" type="image">
+<anchoringText id="Ancr23">In addition to purely visual interpretation, the stress-drop magnitude of the microseismic events measured on the wellsite and synthetic microseismic with the MDFN are compared. The histograms and distribution of the microseismic events for the measured DFN and the computed synthetic DFN, shown in Fig. 23 and Fig. 24, respectively, are similar.</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-23">
+<label>Figure 23 </label>
+<imageLink type="mediaResource" href="102118191854MS_i_23.tif" id="ImgLink-23" />
+<caption>Histogram of stress drop of real, measured microseismic data.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>23</caption-order>
+<caption-text>Histogram of stress drop of real, measured microseismic data.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="24" data-type-order="24">
+<link href="link-24" type="image" />
+<appendix>
+<linkTarget id="link-24" type="image">
+<anchoringText id="Ancr24">In addition to purely visual interpretation, the stress-drop magnitude of the microseismic events measured on the wellsite and synthetic microseismic with the MDFN are compared. The histograms and distribution of the microseismic events for the measured DFN and the computed synthetic DFN, shown in Fig. 23 and Fig. 24, respectively, are similar.</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-24">
+<label>Figure 24 </label>
+<imageLink type="mediaResource" href="102118191854MS_i_24.tif" id="ImgLink-24" />
+<caption>Histogram of stress drop of synthetic microseismic data.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>24</caption-order>
+<caption-text>Histogram of stress drop of synthetic microseismic data.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="25" data-type-order="25">
+<link href="link-25" type="image" />
+<appendix>
+<linkTarget id="link-25" type="image">
+<anchoringText id="Ancr25">Pressure depletion around the hydraulic fracture geometry is shown in Fig. 25 using the MDFN approach and in Fig. 26 using the SDFN approach. It is seen that the pressure depletion using the MDFN method for fracture modeling shows weaker depletion.</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-25">
+<label>Figure 25 </label>
+<imageLink type="mediaResource" href="102118191854MS_i_25.tif" id="ImgLink-25" />
+<caption>Pressure depletion map on a cross section across the wellbore, MDFN approach.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>25</caption-order>
+<caption-text>Pressure depletion map on a cross section across the wellbore, MDFN approach.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="26" data-type-order="26">
+<link href="link-26" type="image" />
+<appendix>
+<linkTarget id="link-26" type="image">
+<anchoringText id="Ancr26">Pressure depletion around the hydraulic fracture geometry is shown in Fig. 25 using the MDFN approach and in Fig. 26 using the SDFN approach. It is seen that the pressure depletion using the MDFN method for fracture modeling shows weaker depletion.</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-26">
+<label>Figure 26 </label>
+<imageLink type="mediaResource" href="102118191854MS_i_26.tif" id="ImgLink-26" />
+<caption>Pressure depletion map on a cross section across the wellbore, SDFN approach.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>26</caption-order>
+<caption-text>Pressure depletion map on a cross section across the wellbore, SDFN approach.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="18" figure-order="27" data-type-order="27">
+<link href="link-27" type="image" />
+<appendix>
+<linkTarget id="link-27" type="image">
+<anchoringText id="Ancr27">The proppant distribution due to increased fracture complexity is compromised. As seen in Fig. 27A, the proppants in the fractured modeled using the SDFN approach show a large fraction of fracture geometry as propped fracture filled with 100-mesh sand, 40/70 sand, or 20/40 sand. On the other hand, the unpropped portion of the hydraulic fractures in the geometry modeled using the MDFN approach are fairly extensive (Fig. 28A). Therefore, as a result of enhanced fracture conductivity, the effective extents of the hydraulic fracture contributing to production are overestimated using the SDFN fracture modeling approach (Fig. 27B) as compared to MDFN approach (Fig. 28B).</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-27">
+<label>Figure 27</label>
+<imageLink type="mediaResource" href="102118191854MS_i_27.tif" id="ImgLink-27" />
+<caption>A) Proppant distribution in the fractures with the SDFN model and B) pressure depletion in the fracture cells with the SDFN model.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>27</caption-order>
+<caption-text>A) Proppant distribution in the fractures with the SDFN model and B) pressure depletion in the fracture cells with the SDFN model.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191854MS-Img_SPi-27a">
+<imageLink type="mediaResource" href="102118191854MS_i_27a.tif" id="ImgLink-27a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>roppant distribution in the fractures with the SDFN model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191854MS-Img_SPi-27b">
+<imageLink type="mediaResource" href="102118191854MS_i_27b.tif" id="ImgLink-27b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>pressure depletion in the fracture cells with the SDFN model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="19" figure-order="28" data-type-order="28">
+<link href="link-28" type="image" />
+<appendix>
+<linkTarget id="link-28" type="image">
+<anchoringText id="Ancr28">The proppant distribution due to increased fracture complexity is compromised. As seen in Fig. 27A, the proppants in the fractured modeled using the SDFN approach show a large fraction of fracture geometry as propped fracture filled with 100-mesh sand, 40/70 sand, or 20/40 sand. On the other hand, the unpropped portion of the hydraulic fractures in the geometry modeled using the MDFN approach are fairly extensive (Fig. 28A). Therefore, as a result of enhanced fracture conductivity, the effective extents of the hydraulic fracture contributing to production are overestimated using the SDFN fracture modeling approach (Fig. 27B) as compared to MDFN approach (Fig. 28B).</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-28">
+<label>Figure 28</label>
+<imageLink type="mediaResource" href="102118191854MS_i_28.tif" id="ImgLink-28" />
+<caption>A) Proppant distribution in the fractures with MDFN model and B) pressure depletion in the fracture cells with the MDFN model.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>28</caption-order>
+<caption-text>A) Proppant distribution in the fractures with MDFN model and B) pressure depletion in the fracture cells with the MDFN model.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191854MS-Img_SPi-28a">
+<imageLink type="mediaResource" href="102118191854MS_i_28a.tif" id="ImgLink-28a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Proppant distribution in the fractures with MDFN model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191854MS-Img_SPi-28b">
+<imageLink type="mediaResource" href="102118191854MS_i_28b.tif" id="ImgLink-28b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>pressure depletion in the fracture cells with the MDFN model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="19" figure-order="29" data-type-order="29">
+<link href="link-29" type="image" />
+<appendix>
+<linkTarget id="link-29" type="image">
+<anchoringText id="Ancr29">As we know, history matching of reservoir deliverability is a non-unique solution. However, if the SDFN approach is chosen, the production history matching parameters are significantly different from those in the MDFN approach because the behavior for the production is different (Fig. 29) due to the fracture geometry and conductivity distribution.</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-29">
+<label>Figure 29</label>
+<imageLink type="mediaResource" href="102118191854MS_i_29.tif" id="ImgLink-29" />
+<caption>Production prediction with SDFN (dotted lines) and MDFN (solid lines) modeling approaches.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>29</caption-order>
+<caption-text>Production prediction with SDFN (dotted lines) and MDFN (solid lines) modeling approaches.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191854MS-Img_SPi-29a">
+<imageLink type="mediaResource" href="102118191854MS_i_29a.tif" id="ImgLink-29a" />
+<figure-specific-caption>
+<caption-order>dotted lines</caption-order>
+<caption-text>SDFN</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191854MS-Img_SPi-29b">
+<imageLink type="mediaResource" href="102118191854MS_i_29b.tif" id="ImgLink-29b" />
+<figure-specific-caption>
+<caption-order>solid lines</caption-order>
+<caption-text>MDFN</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="20" figure-order="30" data-type-order="30">
+<link href="link-30" type="image" />
+<appendix>
+<linkTarget id="link-30" type="image">
+<anchoringText id="Ancr30">Fracture modeling has advanced from the early concepts of no natural fracture impact on hydraulic fracture geometry to the newer complex fracture models with transport of fluids and proppants (Fig. 30). The MDFN approach honors the heterogeneous natural fracture system and provides a better representation of the subsurface interaction of induced hydraulic fractures and hence, better well performance. However, the model still assumes that the natural fractures are vertical in the individual sublayers of the reservoirs.</anchoringText>
+<image-wrap id="102118191854MS-Img_SPi-30">
+<label>Figure 30 </label>
+<imageLink type="mediaResource" href="102118191854MS_i_30.tif" id="ImgLink-30" />
+<caption>Evolution of hydraulic fracture modeling approaches.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>30</caption-order>
+<caption-text>Evolution of hydraulic fracture modeling approaches.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

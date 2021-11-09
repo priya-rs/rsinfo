@@ -1,0 +1,507 @@
+﻿<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8" ></head><div>
+<div><b>Meta Informations:</b><p>SPE_Society_of_Petroleum_Engineers</p><p>DOI: 10.2118/180084-MS<br>PII: 10.2118/180084-MS<br></p></div>
+<div>
+<div pdf-page="4" table-order="1" data-type-order="1">
+<div id="102118180084MS-tblwrp-1" content-type="structured"><p>An objective function was defined to maximize both oil recovery and CO2 storage. A total of 23 possible uncertain variables were initially selected and assisgned upper and lower bounds as shown in Table 1. Sensitivity analysis with a Latin-hypercube sampling technique was conducted to study the uncertain variables’ effects on the objective function. Each variable was sampled three times totaling 69 simulations. The effect of each variable on the objective function was ranked. This procedure was utilized to reduce the number of control variables to 12 and to ensure the optimum solution with fewer simulation runs.</p><p><b>Table 1</b> Initial uncertain parameters with their possible ranges used for sensitivity analysis</p><p>Table 1 Initial uncertain parameters with their possible ranges used for sensitivity analysis</p><table id="102118180084MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Uncertain Variable</th>
+<th valign="bottom" align="center">Description</th>
+<th valign="bottom" align="center">Units</th>
+<th valign="bottom" align="center">Minimum</th>
+<th valign="bottom" align="center">Maximum</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">BHP_INJ1</td>
+<td valign="bottom" align="left">Bottomhole Injection Pressure</td>
+<td valign="bottom" align="center">psia</td>
+<td valign="bottom" align="center">4500</td>
+<td valign="bottom" align="center">5000</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">BHP_PROD1</td>
+<td valign="bottom" align="left">Bottomhole Production Pressure (2015-2018)</td>
+<td valign="bottom" align="center">psia</td>
+<td valign="bottom" align="center">1000</td>
+<td valign="bottom" align="center">3000</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">BHP_PROD2</td>
+<td valign="bottom" align="left">Bottomhole Production Pressure (2019-2036)</td>
+<td valign="bottom" align="center">psia</td>
+<td valign="bottom" align="center">2000</td>
+<td valign="bottom" align="center">4000</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">GCA1</td>
+<td valign="bottom" align="left">Group 1 Gas Cycle (2015-2018)</td>
+<td valign="bottom" align="center">months</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">12</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">GCA2</td>
+<td valign="bottom" align="left">Group 2 Gas Cycle (2015-2018)</td>
+<td valign="bottom" align="center">months</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">12</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">GCA3</td>
+<td valign="bottom" align="left">Group 3 Gas Cycle (2015-2018)</td>
+<td valign="bottom" align="center">months</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">12</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">GCA4</td>
+<td valign="bottom" align="left">Group 4 Gas Cycle (2015-2018)</td>
+<td valign="bottom" align="center">months</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">12</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">GCB1</td>
+<td valign="bottom" align="left">Group 1 Gas Cycle (2019-2036)</td>
+<td valign="bottom" align="center">months</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">12</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">GCB2</td>
+<td valign="bottom" align="left">Group 2 Gas Cycle (2019-2036)</td>
+<td valign="bottom" align="center">months</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">12</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">GCB3</td>
+<td valign="bottom" align="left">Group 3 Gas Cycle (2019-2036)</td>
+<td valign="bottom" align="center">months</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">12</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">GCB4</td>
+<td valign="bottom" align="left">Group 4 Gas Cycle (2019-2036)</td>
+<td valign="bottom" align="center">months</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">12</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">GOR1</td>
+<td valign="bottom" align="left">Gas-Oil Ratio (2015-2018)</td>
+<td valign="bottom" align="center">Mscf/stb</td>
+<td valign="bottom" align="center">15</td>
+<td valign="bottom" align="center">30</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">GOR2</td>
+<td valign="bottom" align="left">Gas-Oil Ratio (2019-2036)</td>
+<td valign="bottom" align="center">Mscf/stb</td>
+<td valign="bottom" align="center">18</td>
+<td valign="bottom" align="center">30</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">PROD1</td>
+<td valign="bottom" align="left">Production Group Rate (2015-2018)</td>
+<td valign="bottom" align="center">stb</td>
+<td valign="bottom" align="center">1800</td>
+<td valign="bottom" align="center">3000</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">PROD2</td>
+<td valign="bottom" align="left">Production Group Rate (2019-2036)</td>
+<td valign="bottom" align="center">stb</td>
+<td valign="bottom" align="center">1500</td>
+<td valign="bottom" align="center">2500</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">WCA1</td>
+<td valign="bottom" align="left">Group 1 Water Cycle (2015-2018)</td>
+<td valign="bottom" align="center">months</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">12</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">WCA2</td>
+<td valign="bottom" align="left">Group 2 Water Cycle (2015-2018)</td>
+<td valign="bottom" align="center">months</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">12</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">WCA3</td>
+<td valign="bottom" align="left">Group 3 Water Cycle (2015-2018)</td>
+<td valign="bottom" align="center">months</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">12</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">WCA4</td>
+<td valign="bottom" align="left">Group 4 Water Cycle (2015-2018)</td>
+<td valign="bottom" align="center">months</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">12</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">WCB1</td>
+<td valign="bottom" align="left">Group 1 Water Cycle (2019-2036)</td>
+<td valign="bottom" align="center">months</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">12</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">WCB2</td>
+<td valign="bottom" align="left">Group 2 Water Cycle (2019-2036)</td>
+<td valign="bottom" align="center">months</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">12</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">WCB3</td>
+<td valign="bottom" align="left">Group 3 Water Cycle (2019-2036)</td>
+<td valign="bottom" align="center">months</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">12</td>
+</tr>
+<tr>
+<td align="left">WCB4</td>
+<td align="left">Group 4 Water Cycle (2019-2036)</td>
+<td align="center">months</td>
+<td align="center">0</td>
+<td align="center">12</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="9" table-order="2" data-type-order="7">
+<div id="102118180084MS-tblwrp-2" content-type="structured"><p>Afterwards, use of purchased CO2 ceased and only recycled gas was injected until January of 2036 as illustrated in the figure 5. The prediction case was run for a total of 21 years. Additional operational parameters are shown in Table 2. Figure 5 shows profiles of available gas for injection (CO2 purchased + produced) and actual injection. According to the simulation results there is a possibility of losing more than 5% of produced CO2 without recycling even though the compressor has not been utilized to its full capacity.</p><p><b>Table 2</b> Additional operation constraints for baseline case</p><p>Table 2 Additional operation constraints for baseline case</p><table id="102118180084MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Constraints</th>
+<th valign="bottom" align="center">Units</th>
+<th valign="bottom" align="center">Baseline case</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Prod. Well BHP</td>
+<td valign="bottom" align="left">Psia</td>
+<td valign="bottom" align="left">2000</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Inj. Well BHP</td>
+<td valign="bottom" align="left">Psia</td>
+<td valign="bottom" align="left">4800</td>
+</tr>
+<tr>
+<td align="left">WAG Cycle</td>
+<td valign="top" align="left">
+</td>
+<td align="left">3:1</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="13" table-order="3" data-type-order="11">
+<div id="102118180084MS-tblwrp-3" content-type="structured"><p>The tornado plots (Figure 6) show that WAG cycle parameters after 2018 have the highest impact on the objective function. WAG parameters prior to year 2018 do not have much influence and are hence omitted as control variables in optimization process as illustrated in Figure 6. Table 3 shows top 12 operational parameters in their order of significance as selected control variables for the optimization process. Results from sensitivity analysis were used to improve sampling space and initial guess values for selected control variables.</p><p><b>Table 3</b> Selected control variables after sensitivity analysis used for optimization process</p><p>Table 3 Selected control variables after sensitivity analysis used for optimization process</p><table id="102118180084MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Control Variable</th>
+<th valign="bottom" align="center">Description</th>
+<th valign="bottom" align="center">Units</th>
+<th valign="bottom" align="center">Minimum</th>
+<th valign="bottom" align="center">Maximum</th>
+<th valign="bottom" align="center">Intial Guess</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">WCB2</td>
+<td valign="bottom" align="left">Group 2 Water Cycle (2019-2036)</td>
+<td valign="bottom" align="center">months</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">WCB3</td>
+<td valign="bottom" align="left">Group 3 Water Cycle (2019-2036)</td>
+<td valign="bottom" align="center">months</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">GCB2</td>
+<td valign="bottom" align="left">Group 2 Gas Cycle (2019-2036)</td>
+<td valign="bottom" align="center">months</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">10</td>
+<td valign="bottom" align="center">5</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">PROD2</td>
+<td valign="bottom" align="left">Production Group Rate (2019-2036)</td>
+<td valign="bottom" align="center">stb</td>
+<td valign="bottom" align="center">1500</td>
+<td valign="bottom" align="center">2500</td>
+<td valign="bottom" align="center">1800</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">WCB1</td>
+<td valign="bottom" align="left">Group 1 Water Cycle (2019-2036)</td>
+<td valign="bottom" align="center">months</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">12</td>
+<td valign="bottom" align="center">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">BHP_INJ1</td>
+<td valign="bottom" align="left">Bottomhole Injection Pressure</td>
+<td valign="bottom" align="center">psia</td>
+<td valign="bottom" align="center">4500</td>
+<td valign="bottom" align="center">5000</td>
+<td valign="bottom" align="center">5000</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">WCB4</td>
+<td valign="bottom" align="left">Group 4 Water Cycle (2019-2036)</td>
+<td valign="bottom" align="center">months</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">12</td>
+<td valign="bottom" align="center">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">GCB1</td>
+<td valign="bottom" align="left">Group 1 Gas Cycle (2019-2036)</td>
+<td valign="bottom" align="center">months</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">12</td>
+<td valign="bottom" align="center">7</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">GCB3</td>
+<td valign="bottom" align="left">Group 3 Gas Cycle (2019-2036)</td>
+<td valign="bottom" align="center">months</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">12</td>
+<td valign="bottom" align="center">9</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">BHP_PROD2</td>
+<td valign="bottom" align="left">Bottomhole Production Pressure (2019-2036)</td>
+<td valign="bottom" align="center">psia</td>
+<td valign="bottom" align="center">1500</td>
+<td valign="bottom" align="center">2500</td>
+<td valign="bottom" align="center">2000</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">GCB4</td>
+<td valign="bottom" align="left">Group 4 Gas Cycle (2019-2036)</td>
+<td valign="bottom" align="center">months</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">12</td>
+<td valign="bottom" align="center">3</td>
+</tr>
+<tr>
+<td align="left">PROD1</td>
+<td align="left">Production Group Rate (2015-2019)</td>
+<td align="center">stb</td>
+<td align="center">1600</td>
+<td align="center">3000</td>
+<td align="center">1800</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="13" table-order="4" data-type-order="12">
+<div id="102118180084MS-tblwrp-4" content-type="structured"><p>The Kv/Kh used for this scenario is 0.5 which is the average value used in the history matching process. In all, 20 simulations were run to optimize the objective function for improving oil recovery and CO2 storage using NN. Table 4 summarizes the comparison between both cases. The optimum deterministic case without uncertainty showed an increased oil recovery of more than 7% as compared to a manually engineered scenario-based model.</p><p><b>Table 4</b> Summary of comparison between baseline case and optimization without uncertainty</p><p>Table 4 Summary of comparison between baseline case and optimization without uncertainty</p><table id="102118180084MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="bottom" align="center">Results</th>
+<th rowspan="2" valign="bottom" align="center">Units</th>
+<th rowspan="2" valign="bottom" align="center">Base case</th>
+<th valign="bottom" align="center">Without</th>
+</tr>
+<tr>
+<th valign="bottom" align="center">Uncertainty</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">CO<sub>2</sub> Purchased</td>
+<td valign="bottom" align="center">BScf</td>
+<td valign="bottom" align="center">58</td>
+<td valign="bottom" align="center">58</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">CO<sub>2</sub> Production Cumulative</td>
+<td valign="bottom" align="center">BScf</td>
+<td valign="bottom" align="center">153</td>
+<td valign="bottom" align="center">243</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">CO<sub>2</sub> Injection Cumulative</td>
+<td valign="bottom" align="center">BScf</td>
+<td valign="bottom" align="center">197</td>
+<td valign="bottom" align="center">297</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Recycle</td>
+<td valign="bottom" align="center">BScf</td>
+<td valign="bottom" align="center">138</td>
+<td valign="bottom" align="center">239</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Total Storage</td>
+<td valign="bottom" align="center">BScf</td>
+<td valign="bottom" align="center">44</td>
+<td valign="bottom" align="center">54</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">% Storage</td>
+<td valign="bottom" align="center">%</td>
+<td valign="bottom" align="center">75</td>
+<td valign="bottom" align="center">93</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Cumulative Oil Production</td>
+<td valign="bottom" align="center">MMStb</td>
+<td valign="bottom" align="center">43.62</td>
+<td valign="bottom" align="center">47.90</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">% Oil Recovery</td>
+<td valign="bottom" align="center">%</td>
+<td valign="bottom" align="center">72.70</td>
+<td valign="bottom" align="center">79.83</td>
+</tr>
+<tr>
+<td align="left">Objective Function, F</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td align="center">345.23</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="14" table-order="5" data-type-order="14">
+<div id="102118180084MS-tblwrp-5" content-type="structured"><p>Table 5 shows details of uncertainty associated with cumulative oil production at different confidence levels. There is 50% chance that oil recovered at end of 21 years of prediction will be 47.67 MMStb or higher. This represents nearly 80% of the original oil in place. There is a more than 6% increase in oil recovery compared to the baseline case. There is a continuous decrease in standard deviation and mean outcomes as risk aversion factors increase.</p><p><b>Table 5</b> shows details of uncertainty associated with cumulative oil production at different confidence levels.</p><p>Table 5 shows details of uncertainty associated with cumulative oil production at different confidence levels.</p><table id="102118180084MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="bottom" align="center">Confidence</th>
+<th valign="top" align="center" />
+<th valign="bottom" align="center">Standard</th>
+<th valign="bottom" align="center">Combined</th>
+<th valign="top" align="center" />
+<th valign="bottom" align="center">% Gains over</th>
+</tr>
+<tr>
+<th align="center">λ</th>
+<th align="center">Level, %</th>
+<th align="center">Mean (<i>µ</i>) MMStb</th>
+<th align="center">Deviation (<i>σ</i>)<i>,</i> MMStb</th>
+<th align="center">Vector, MMStb</th>
+<th align="center">Recovered %</th>
+<th align="center">Base Case</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">50</td>
+<td valign="bottom" align="center">47.67</td>
+<td valign="bottom" align="center">0.05</td>
+<td valign="bottom" align="center">47.67</td>
+<td valign="bottom" align="center">79.46</td>
+<td valign="bottom" align="center">6.76</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">84</td>
+<td valign="bottom" align="center">47.37</td>
+<td valign="bottom" align="center">0.03</td>
+<td valign="bottom" align="center">47.33</td>
+<td valign="bottom" align="center">78.89</td>
+<td valign="bottom" align="center">6.19</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">98</td>
+<td align="center">44.01</td>
+<td align="center">0.01</td>
+<td align="center">43.99</td>
+<td align="center">73.35</td>
+<td align="center">0.65</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="15" table-order="6" data-type-order="15">
+<div id="102118180084MS-tblwrp-6" content-type="structured"><p>CO2 storage is one of the most important objectives of the SWP Phase III project. The scenario-based model which serves as a baseline model predicted that 75% of purchased CO2 is stored. Table 6 shows detailed decisions at various confidence levels. The confidence levels can guide management in weighing risk associated with each operational strategy to ensure co-optimization of oil recovery and CO2 storage.</p><p><b>Table 6</b> shows details of uncertainty associated with CO2 storage at different confidence levels.</p><p>Table 6 shows details of uncertainty associated with CO2 storage at different confidence levels.</p><table id="102118180084MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="bottom" align="center">Confidence</th>
+<th valign="top" align="center" />
+<th valign="bottom" align="center">Standard</th>
+<th valign="bottom" align="center">Combined</th>
+<th valign="top" align="center" />
+<th valign="bottom" align="center">Gains over</th>
+</tr>
+<tr>
+<th align="center">λ</th>
+<th align="center">level</th>
+<th align="center">Mean (<i>µ</i>) BScf</th>
+<th align="center">Deviation (<i>σ</i>)<i>,</i> BScf</th>
+<th align="center">Vector, BScf</th>
+<th align="center">Stored %</th>
+<th align="center">Base Case</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">50</td>
+<td valign="bottom" align="center">54.73</td>
+<td valign="bottom" align="center">0.67</td>
+<td valign="bottom" align="center">54.73</td>
+<td valign="bottom" align="center">93.60</td>
+<td valign="bottom" align="center">18.57</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">84</td>
+<td valign="bottom" align="center">54.94</td>
+<td valign="bottom" align="center">0.24</td>
+<td valign="bottom" align="center">54.71</td>
+<td valign="bottom" align="center">93.56</td>
+<td valign="bottom" align="center">18.52</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">98</td>
+<td align="center">47.62</td>
+<td align="center">0.15</td>
+<td align="center">47.32</td>
+<td align="center">78.95</td>
+<td align="center">3.92</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+</div>
+</div></html>

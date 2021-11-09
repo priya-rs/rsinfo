@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189755MS.txt" extractionDate="2021-03-27T10:51:22Z">
+<doi>10.2118/189755-MS</doi>
+<pii>10.2118/189755-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="5" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr2">Figure 1 shows the saturation vapor pressure of a number of alkanes that are the main constituents of aforementioned hydrocarbon solvent mixtures. As it can be seen from this figure, the vapor pressure of the solvents increases as the solvent become lighter. The operating temperature range of interest in Heated VAPEX process is70-150 °C in which the bitumen viscosity is reduced enough to provide an effective dispersive and diffusive mixing and therefore sufficiently high bitumen recovery rates.</anchoringText>
+<image-wrap id="102118189755MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118189755MS_i_1.tif" id="ImgLink-1" />
+<caption>Vapor pressure of normal hydrocarbons solvents</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Vapor pressure of normal hydrocarbons solvents</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr3">Figure 2 shows the enthalpy of the hydrocarbon solvents. As it can be seen, the heat of vaporization of the solvents decreases as the temperature increases and approaches to the critical temperature. For the operating temperature range of interest in Heated VAPEX process, lighter hydrocarbons have the lowest heat of vaporization. This translates into a higher volumes of solvent in circulation (in cold liquid equivalent) or solvent-to-oil ratio (SolOR) in the Heated VAPEX process.</anchoringText>
+<image-wrap id="102118189755MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118189755MS_i_2.tif" id="ImgLink-2" />
+<caption>Latent heat of vaporization/condensation of normal hydrocarbons solvents</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Latent heat of vaporization/condensation of normal hydrocarbons solvents</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr4">The lighter hydrocarbon solvents also pose the issue of the second heavy liquid phase formation and/or asphaltene precipitation which results in porous medium and near wellbore plugging and permeability impairment. Use of lighter solvents can also result in loss of a significant recoverable bitumen volumes due to deposition of the heavy phase in the depleted reservoir. Figure 3 shows the second heavy liquid phase or asphaltene precipitation behavior of a typical Athabasca bitumen with different solvents at a solvent content of 70 wt% and two different temperatures.</anchoringText>
+<image-wrap id="102118189755MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118189755MS_i_3.tif" id="ImgLink-3" />
+<caption>Fractional partitioning of Athabasca bitumen to the Asphaltene/heavy hydrocarbon liquid phase with normal hydrocarbon solvents at 70wt% solvent fraction.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Fractional partitioning of Athabasca bitumen to the Asphaltene/heavy hydrocarbon liquid phase with normal hydrocarbon solvents at 70wt% solvent fraction.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr5">Most of hydrocarbon compounds with partial pressures relatively close to steam at a certain temperature range exhibit positive deviation from ideality and Raoult’s law. In such cases, the actual partial pressure of each component is larger than its calculated partial pressure from Raoult’s law in the ideal system. This is shown in a P-x diagram for the n-hexane and steam system in Figure 4. As it is seen, the actual partial pressures of n-hexane and steam are larger than the ideal partial pressures of these compounds from Raoult’s law.</anchoringText>
+<image-wrap id="102118189755MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118189755MS_i_4.tif" id="ImgLink-4" />
+<caption>P-x diagram comparing idea and actual partial pressure for n-hexane-steam system at 200 °C.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>P-x diagram comparing idea and actual partial pressure for n-hexane-steam system at 200 °C.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr6">This non-ideal behavior of n-hexane and steam mixture results in actual total pressure larger than ideal total pressure at certain temperature; with a positive deviation from ideality. In a constant pressure system, this positive pressure deviation behavior transfigures into azeotropism with minimum-boiling temperature characteristics. This behavior is shown in Figure 5 on the T-xy diagram for the n-hexane and steam system with a minimum-boiling temperature azeotrope of 182 °C at x=y=0.64.</anchoringText>
+<image-wrap id="102118189755MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118189755MS_i_5.tif" id="ImgLink-5" />
+<caption>T-xy diagram for n-hexane-steam system, minimum-boiling temperature azeotrope at 2.5 MPa.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>T-xy diagram for n-hexane-steam system, minimum-boiling temperature azeotrope at 2.5 MPa.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr7">Figure 6 demonstrates the collective dew point curves and azeotropic points of vapor mixtures of a number of n-alkane solvents with water at 1 MPa pressure. As shown in this figure, propane (C3) is an exception and does not form an azeotropic mixture with steam; hence, the minimum dew point temperature of its mixture with steam is equal to the saturation temperature of propane. As a consequence, all co-injected steam with this solvent will condense first, then C3 begins to condense.</anchoringText>
+<image-wrap id="102118189755MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118189755MS_i_6.tif" id="ImgLink-6" />
+<caption>Ty diagram for solvent-steam system at 1 MPa, minimum-boiling temperature azeotrope.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Ty diagram for solvent-steam system at 1 MPa, minimum-boiling temperature azeotrope.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr8">The phase behavior of multicomponent hydrocarbon mixture solvents such as commercially available diluents is more complex than the pure compounds and is not detailed in this paper, however in essence, same vapour-liquid phase equilibrium and condensation enthalpy behavior is observed when they are mixed with water in the vapor phase. In this case, the effective properties of the solvent mixture can be considered as superposition of individual pure compound behaviors. Figure 7 show the dew point curve and minimum boiling point (semi-azeotropic) behaviour of a typical commercial diluent and steam mixture.</anchoringText>
+<image-wrap id="102118189755MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118189755MS_i_7.tif" id="ImgLink-7" />
+<caption>Minimum boiling pint (semi-azeotropic) behavior of steam-multicomponent solvent (diluent).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Minimum boiling pint (semi-azeotropic) behavior of steam-multicomponent solvent (diluent).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr9">In this case, the effective properties of the solvent mixture can be considered as superposition of individual pure compound behaviors. Figure 7 show the dew point curve and minimum boiling point (semi-azeotropic) behaviour of a typical commercial diluent and steam mixture. Figure 8 presents the vaporization/condensation enthalpy of diluent and its mixture with steam at azeotropic condition. As it can be seen, this mixture behaves closely to hexane and heptane having the boiling range similar to these pure compounds.</anchoringText>
+<image-wrap id="102118189755MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118189755MS_i_8.tif" id="ImgLink-8" />
+<caption>Vaporization enthalpy of diluent and diluent-steam at minimum boiling point and 1 MPa.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Vaporization enthalpy of diluent and diluent-steam at minimum boiling point and 1 MPa.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr10">Figure 9 shows bitumen production rate and steam-to-oil ratio (SOR) performance of a SAGD and bitumen production rate of a Heated VAPEX process with single component solvent (n-C5) for validation and comparison purpose. As it can be seen, the simulation model predicts a typical SOR and rate performance for SAGD in Athabasca reservoir. The rate performance of Heated VAPEX is superior compared the SAGD production rate at the same operation pressure, as shown in Figure 9.</anchoringText>
+<image-wrap id="102118189755MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118189755MS_i_9.tif" id="ImgLink-9" />
+<caption>Comparison of production rate between SAGD and Heated VAPEX (nC7 solvent) processes at 1MPa operating pressure.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Comparison of production rate between SAGD and Heated VAPEX (nC7 solvent) processes at 1MPa operating pressure.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="10" data-type-order="11">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr11">Figure 10 illustrates the reservoir properties map for the Heated VAPEX simulation case with a single component solvent (n-C5) and Azeotropic Heated VAPEX at the same operating pressure. It is noted from the water saturation map that in Azeotropic Heated VAPEX, the co-injected steam at the azeotropic concentration, inhibited the vaporization of the initial in-situ water; whereas in the Heated VAPEX process, the in-situ water is completely vaporized driving the liquid water saturation to zero in the depleted chamber.</anchoringText>
+<image-wrap id="102118189755MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118189755MS_i_10.tif" id="ImgLink-10" />
+<caption>Comparison of reservoir properties map in Heated VAPEX and Azeotropic Heated VAPEX processes for nC5 and nC7 solvents. C5 H-VAPEX at P=1000 kPa C5 Azeotropic H-VAPEX at P=1000 kPa</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Comparison of reservoir properties map in Heated VAPEX and Azeotropic Heated VAPEX processes for nC5 and nC7 solvents. C5 H-VAPEX at P=1000 kPa C5 Azeotropic H-VAPEX at P=1000 kPa</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189755MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118189755MS_i_10a.tif" id="ImgLink-10a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text> C5 H-VAPEX at P=1000 kPa</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189755MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118189755MS_i_10b.tif" id="ImgLink-10b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>C5 Azeotropic H-VAPEX at P=1000 kPa</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="11" data-type-order="12">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr12">The co-injection of steam at azeotropic concentration in the Azeotropic Heated VAPEX results in the SolOR improvements compared to Heated VAPEX for both nC5 and nC7 solvents as shown in Figure 11. As it was described in the previous section, the azeotropic systems for heavier solvents have a higher energy content in the injected azeotropic fluid compared to lighter solvents and therefore result in a higher reduction in SolOR as is shown in Table 1 and Figure 11 which compares the nC5 and nC7 solvents performance.</anchoringText>
+<image-wrap id="102118189755MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118189755MS_i_11.tif" id="ImgLink-11" />
+<caption>Comparison of SolOR between Heated VAPEX and Azeotropic Heated VAPEX processes for n-C5 and nC7 solvents at 1 MPa operating pressure.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Comparison of SolOR between Heated VAPEX and Azeotropic Heated VAPEX processes for n-C5 and nC7 solvents at 1 MPa operating pressure.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="12" data-type-order="13">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr13">The steam co-injection at azeotropic concentration and the related phase equilibrium changes in the Azeotropic Heated VAPEX process result in the PBRSR improvements compared to Heated VAPEX as shown in Figure 12. In the Heated VAPEX conditions, the vaporized in-situ water in the depleted zone is replaced with hydrocarbon liquid phase which is mainly the condensed liquid solvent. Inhibiting the in-situ water vaporization in the Azeotropic Heated VAPEX results in reduction in solvent condensation in the depleted chamber which is needed to provide the required energy for water vaporization.</anchoringText>
+<image-wrap id="102118189755MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118189755MS_i_12.tif" id="ImgLink-12" />
+<caption>Comparison of produced bitumen-to-retained solvent ratio between Heated VAPEX and Azeotropic Heated VAPEX processes for n-C5 and nC7 solvents at 1 MPa operating pressure.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Comparison of produced bitumen-to-retained solvent ratio between Heated VAPEX and Azeotropic Heated VAPEX processes for n-C5 and nC7 solvents at 1 MPa operating pressure.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="13" data-type-order="14">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr14">This is due to the fact that the solvent retention in chamber is the combination of retained liquid and vapor solvent. The nC7 azeotropic vapor mixture has a lower azeotropic solvent concentration compared to nC5 azeotropic vapor mixture; hence, it has a lower vapor solvent storage in the chamber and a higher reduction in PBRSR. The bitumen recovery rates in the Azeotropic Heated VAPEX and Heated VAPEX process are generally similar as shown in recovery rate plots in Figure 13.</anchoringText>
+<image-wrap id="102118189755MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118189755MS_i_13.tif" id="ImgLink-13" />
+<caption>Comparison of bitumen recovery rate between Heated VAPEX and Azeotropic Heated VAPEX processes for n-C5 and nC7 solvents at 1 MPa operating pressure.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Comparison of bitumen recovery rate between Heated VAPEX and Azeotropic Heated VAPEX processes for n-C5 and nC7 solvents at 1 MPa operating pressure.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="16" figure-order="14" data-type-order="15">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr15">Similar phase equilibrium behaviours to pure components exists between the injected vapor and in-situ water in both HTMS-VAPEX (100% solvent) and AHTMS-VAPEX (azeotropic solvent-steam) processes. Figure 14 shows the reservoir properties map for HTMS-VAPEX and AHTMS-VAPEX process. As it is seen in the reservoir water saturation map, injection of 100% solvent in the HTMS-VAPEX results in in-situ water vaporization in the depleted chamber, moving the vaporized water and condensing it at semi-azeotropic condition on the vapor-bitumen interface.</anchoringText>
+<image-wrap id="102118189755MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118189755MS_i_14.tif" id="ImgLink-14" />
+<caption>Comparison of reservoir properties map in HTMS-VAPEX and AHTMS-VAPEX Processes. Diluent Solvent HTMS-VAPEX at 1000 kPa Diluent Solvent AHTMS-VAPEX at 1000 kPa</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Comparison of reservoir properties map in HTMS-VAPEX and AHTMS-VAPEX Processes. Diluent Solvent HTMS-VAPEX at 1000 kPa Diluent Solvent AHTMS-VAPEX at 1000 kPa</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189755MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118189755MS_i_14a.tif" id="ImgLink-14a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Diluent Solvent HTMS-VAPEX at 1000 kPa</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189755MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118189755MS_i_14b.tif" id="ImgLink-14b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Diluent Solvent AHTMS-VAPEX at 1000 kPa</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="15" data-type-order="16">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr16">The temperature and water content of the vapor phase for HTMS-VAPEX are shown in Figure 15 for the location points depicted as points 1-7 in the temperature map shown in Figure 14. As it is seen in Figure 15, the temperature decreases from the injection temperature to the interface temperature. Also, the water content in the vapor phase exists only near the vapor-bitumen interface where the co-condensation of solvent compounds and steam occurs.</anchoringText>
+<image-wrap id="102118189755MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118189755MS_i_15.tif" id="ImgLink-15" />
+<caption>Depleted chamber temperature and water vapor model fraction variation in HTMS-VAPEX with diluent solvent (points correspond to Figure 14, HTMS-VAPEX case).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Depleted chamber temperature and water vapor model fraction variation in HTMS-VAPEX with diluent solvent (points correspond to <link href="102118189755MS-Img_SPi-14">Figure 14</link>, HTMS-VAPEX case).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="16" data-type-order="17">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr17">The variation in the temperature and water mole fraction in the vapor phase for the points depicted in the temperature map of AHTMS-VAPEX in Figure 14 are shown in Figure 16. The vapor phase consistently contains a semi-azeotropic steam fraction (depending on the water-free local composition of the solvent compounds) and the temperature variation from injection point to vapor-bitumen interface is less than what is observed in HTMS-VAPEX case (Figure 15).</anchoringText>
+<image-wrap id="102118189755MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118189755MS_i_16.tif" id="ImgLink-16" />
+<caption>Depleted chamber temperature and water vapor model fraction variation in AHTMS-VAPEX with diluent solvent (points correspond to Figure 14, AHTMS-VAPEX case).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Depleted chamber temperature and water vapor model fraction variation in AHTMS-VAPEX with diluent solvent (points correspond to <link href="102118189755MS-Img_SPi-14">Figure 14</link>, AHTMS-VAPEX case).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="17" data-type-order="18">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr18">Similar improvements in key performance indicators of the AHTMS-VAPEX compared to HTMS-VAPEX is achieved with diluent-steam injection at semi-azeotropic condition. Figures 17, 18 and 19 show the bitumen recovery rate, enhancement effects in SolOR and PBRSR of AHTMS-VAPEX compared to HTMS-VAPEX process. As it is noted, the bitumen recovery rate is essentially the same in both processes. However, SolOR and PBRSR is improved significantly in AHTMS-VAPEX compared to HTMS-VAPEX due to semi-azeotropic solvent-steam injection.</anchoringText>
+<image-wrap id="102118189755MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118189755MS_i_17.tif" id="ImgLink-17" />
+<caption>Comparison of cumulative bitumen production for HTMS-VAPEX and AHTMS-VAPEX with diluent solvent injection at 1MPa operating pressure.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Comparison of cumulative bitumen production for HTMS-VAPEX and AHTMS-VAPEX with diluent solvent injection at 1MPa operating pressure.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="18" data-type-order="19">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr19">Similar improvements in key performance indicators of the AHTMS-VAPEX compared to HTMS-VAPEX is achieved with diluent-steam injection at semi-azeotropic condition. Figures 17, 18 and 19 show the bitumen recovery rate, enhancement effects in SolOR and PBRSR of AHTMS-VAPEX compared to HTMS-VAPEX process. As it is noted, the bitumen recovery rate is essentially the same in both processes. However, SolOR and PBRSR is improved significantly in AHTMS-VAPEX compared to HTMS-VAPEX due to semi-azeotropic solvent-steam injection.</anchoringText>
+<image-wrap id="102118189755MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118189755MS_i_18.tif" id="ImgLink-18" />
+<caption>Comparison of cumulative SolOR for HTMS-VAPEX and AHTMS-VAPEX with diluent solvent injection at 1MPa operating pressure.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Comparison of cumulative SolOR for HTMS-VAPEX and AHTMS-VAPEX with diluent solvent injection at 1MPa operating pressure.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="19" data-type-order="20">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr20">Similar improvements in key performance indicators of the AHTMS-VAPEX compared to HTMS-VAPEX is achieved with diluent-steam injection at semi-azeotropic condition. Figures 17, 18 and 19 show the bitumen recovery rate, enhancement effects in SolOR and PBRSR of AHTMS-VAPEX compared to HTMS-VAPEX process. As it is noted, the bitumen recovery rate is essentially the same in both processes. However, SolOR and PBRSR is improved significantly in AHTMS-VAPEX compared to HTMS-VAPEX due to semi-azeotropic solvent-steam injection.</anchoringText>
+<image-wrap id="102118189755MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118189755MS_i_19.tif" id="ImgLink-19" />
+<caption>Comparison of produced bitumen-to-retained solvent ratio (BPRSR) for HTMSVAPEX and AHTMS-VAPEX with diluent solvent injection at 1MPa operating pressure.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Comparison of produced bitumen-to-retained solvent ratio (BPRSR) for HTMSVAPEX and AHTMS-VAPEX with diluent solvent injection at 1MPa operating pressure.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

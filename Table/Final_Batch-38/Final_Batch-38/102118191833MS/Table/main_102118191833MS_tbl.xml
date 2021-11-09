@@ -1,0 +1,772 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191833MS.txt" extractionDate="2021-03-31T15:28:05Z">
+<doi>10.2118/191833-MS</doi>
+<pii>10.2118/191833-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="7" table-order="1" data-type-order="11">
+<table-wrap id="102118191833MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The main formulation can be seen in Table 1:</anchoringText>
+<label>Table 1</label>
+<caption>System Formulation</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>System Formulation</caption-text>
+</formatted-caption>
+<table id="102118191833MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="left">Product</th>
+<th valign="bottom" align="left">Concentration</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Gelling Agent</td>
+<td valign="bottom" align="left">25.00 to 35.00 ppt</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Hydration Buffer</td>
+<td valign="bottom" align="left">0.50 gpt</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Non-Emulsifier</td>
+<td valign="bottom" align="left">1.00 gpt</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Bactericide</td>
+<td valign="bottom" align="left">0.20 gpt</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Clay Stabilizer</td>
+<td valign="bottom" align="left">1.25 gpt</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Activation Buffer</td>
+<td valign="bottom" align="left">2.00 to 7.00 gpt</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">X-linker</td>
+<td valign="bottom" align="left">0.60 to 0.70 gpt</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Delayed X-linker</td>
+<td valign="bottom" align="left">1.50 to 3.00 gpt</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Temperature Stabilizer</td>
+<td valign="bottom" align="left">0.00 to 12.00 gpt</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">HT Encapsulated Breaker</td>
+<td valign="bottom" align="left">0.30 - 1.00 ppt</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="8" table-order="2" data-type-order="13">
+<table-wrap id="102118191833MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Before each fracture treatment, an injection test was performed to obtain an estimation of fluid leak-off (slickwater), and to identify any abnormal behavior (PDL, fracture height growth or height recession) and identify the ISIP value to help in geomechanics model calibration, Fig. 11 – Table 2.</anchoringText>
+<label>Table 2</label>
+<caption>Plot – Prefrac Injection Main Parameters – Slickwater fluid</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Plot – Prefrac Injection Main Parameters – Slickwater fluid</caption-text>
+</formatted-caption>
+<table id="102118191833MS-Tbl_SPi-2" frame="hsides">
+<tbody>
+<tr>
+<td valign="bottom" align="left">Breakdown Press [psi]</td>
+<td valign="bottom" align="left">NE</td>
+<td valign="bottom" align="left">Rate [bpm]</td>
+<td valign="bottom" align="left">30.0</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Initial Press [psi]</td>
+<td valign="bottom" align="left">6780</td>
+<td valign="bottom" align="left">Hyd Press [psi]</td>
+<td valign="bottom" align="left">6096</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Admission Press [psi]</td>
+<td valign="bottom" align="left">9616</td>
+<td valign="bottom" align="left">Fluid Fric [psi]</td>
+<td valign="bottom" align="left">980</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Min Press [psi]</td>
+<td valign="bottom" align="left">9616</td>
+<td valign="bottom" align="left">Total Fric [psi]</td>
+<td valign="bottom" align="left">1991</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Max Press [psi]</td>
+<td valign="bottom" align="left">9795</td>
+<td valign="bottom" align="left">Total NWB Fric [psi]</td>
+<td valign="bottom" align="left">1011</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Final Press [psi]</td>
+<td valign="bottom" align="left">9616</td>
+<td valign="bottom" align="left">F.G. [psi/f&#x003C;</td>
+<td valign="bottom" align="left">0.98</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">ISTP [psi]</td>
+<td valign="bottom" align="left">7625</td>
+<td valign="bottom" align="left">Injected Fluid Vol [ga&#x003C;</td>
+<td valign="bottom" align="left">4410</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="11" table-order="3" data-type-order="20">
+<table-wrap id="102118191833MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Following is an example of the fracture treatment pressure matching evaluation and a summary table for all the fracture stages executed on wells A and B of Lindero Atravesado Field, Fig. 15 – 16 – 17, Table 3.</anchoringText>
+<label>Table 3</label>
+<caption>Fracture parameter from pressure matching.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Fracture parameter from pressure matching.</caption-text>
+</formatted-caption>
+<table id="102118191833MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" align="center">STAGE#</th>
+<th colspan="4" valign="top" align="center">WELL A</th>
+<th colspan="4" valign="top" align="center">WELL B</th>
+</tr>
+<tr>
+<th valign="top" align="center">Xfli [m]</th>
+<th valign="top" align="center">Xfp [m]</th>
+<th valign="bottom" align="center">Avg W [in]</th>
+<th valign="top" align="center">Hli [in]</th>
+<th valign="top" align="center">Xfh [in]</th>
+<th valign="top" align="center">Xfp [m]</th>
+<th valign="top" align="center">W [in]</th>
+<th valign="top" align="center">Hh [m]</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1</td>
+<td align="center">160</td>
+<td align="center">151</td>
+<td align="center">0.05</td>
+<td align="center">75</td>
+<td align="center">144</td>
+<td align="center">139</td>
+<td align="center">0.1</td>
+<td align="center">39</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">216</td>
+<td align="center">172</td>
+<td align="center">0.046</td>
+<td align="center">125</td>
+<td align="center">103</td>
+<td align="center">96</td>
+<td valign="bottom" align="center">0.11</td>
+<td valign="bottom" align="center">86</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">178</td>
+<td valign="bottom" align="center">142</td>
+<td valign="bottom" align="center">0.045</td>
+<td valign="bottom" align="center">166</td>
+<td valign="bottom" align="center">70</td>
+<td valign="bottom" align="center">64</td>
+<td valign="bottom" align="center">0.11</td>
+<td valign="bottom" align="center">104</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">184</td>
+<td valign="bottom" align="center">166</td>
+<td align="center">0.067</td>
+<td valign="bottom" align="center">108</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center">202</td>
+<td align="center">183</td>
+<td align="center">0.071</td>
+<td align="center">58</td>
+<td align="center">172</td>
+<td align="center">150</td>
+<td align="center">0.11</td>
+<td align="center">112</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">6</td>
+<td valign="bottom" align="center">147</td>
+<td valign="bottom" align="center">121</td>
+<td valign="bottom" align="center">0.05</td>
+<td valign="bottom" align="center">99</td>
+<td valign="bottom" align="center">259</td>
+<td valign="bottom" align="center">209</td>
+<td valign="bottom" align="center">0.09</td>
+<td valign="bottom" align="center">79</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">7</td>
+<td valign="bottom" align="center">175</td>
+<td valign="bottom" align="center">128</td>
+<td valign="bottom" align="center">0.05</td>
+<td valign="bottom" align="center">87</td>
+<td valign="bottom" align="center">193</td>
+<td valign="bottom" align="center">144</td>
+<td valign="bottom" align="center">0.04</td>
+<td valign="bottom" align="center">160</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">8</td>
+<td align="center">240</td>
+<td align="center">177</td>
+<td valign="bottom" align="center">0.18</td>
+<td align="center">107</td>
+<td valign="bottom" align="center">161</td>
+<td align="center">144</td>
+<td align="center">0.05</td>
+<td valign="bottom" align="center">102</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">9</td>
+<td valign="bottom" align="center">186</td>
+<td valign="bottom" align="center">165</td>
+<td valign="bottom" align="center">0.15</td>
+<td valign="bottom" align="center">109</td>
+<td valign="bottom" align="center">193</td>
+<td valign="bottom" align="center">172</td>
+<td valign="bottom" align="center">0.07</td>
+<td valign="bottom" align="center">130</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">10</td>
+<td align="center">149</td>
+<td align="center">135</td>
+<td align="center">0.04</td>
+<td valign="bottom" align="center">112</td>
+<td align="center">229</td>
+<td valign="bottom" align="center">202</td>
+<td align="center">0.13</td>
+<td align="center">84</td>
+</tr>
+<tr>
+<td align="center">11</td>
+<td align="center">166</td>
+<td align="center">146</td>
+<td align="center">0.07</td>
+<td align="center">64</td>
+<td align="center">160</td>
+<td align="center">144</td>
+<td align="center">0.12</td>
+<td align="center">146</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="12" table-order="4" data-type-order="23">
+<table-wrap id="102118191833MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">A special quote refers to microseismic evaluation to define fracture geometry characterization. This valuable input allows the fracture engineer to better understand and fine-tune the fracture final evaluation. During this process, the fracture engineer takes an interactive, holistic approach to fracture stage evaluation, incorporating previous analyses, fluid performance, geomechanical calibration, pressure matching and finally honoring the acoustic geometry defined during the microseismic processing, Fig. 18 – 19; Table 4 – 5.</anchoringText>
+<label>Table 4</label>
+<caption>Acoustic Fracture Geometry for WELL A – Stage #4</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Acoustic Fracture Geometry for WELL A – Stage #4</caption-text>
+</formatted-caption>
+<table id="102118191833MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th bgcolor="#4CEAFF" valign="top" align="center">Stage</th>
+<th bgcolor="#4CEAFF" valign="top" align="center">Total fluid (gal)</th>
+<th bgcolor="#4CEAFF" valign="top" align="center">Total proppant (sx)</th>
+<th bgcolor="#4CEAFF" valign="top" align="center">rate (bpm)</th>
+<th bgcolor="#4CEAFF" valign="top" align="center">Average pressure (psi)</th>
+<th bgcolor="#4CEAFF" valign="bottom" align="center">ISIP Post­frac (psi)</th>
+<th bgcolor="#4CEAFF" valign="bottom" align="center">Total MS length (m)</th>
+<th bgcolor="#4CEAFF" valign="bottom" align="center">Total MS height (m)</th>
+<th bgcolor="#4CEAFF" valign="bottom" align="center">MS volume (million m3)</th>
+<th bgcolor="#4CEAFF" valign="top" align="center">Fracture azimuth (deg)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Etapa 4</td>
+<td align="center">123417</td>
+<td align="center">2211</td>
+<td align="center">34</td>
+<td align="center">8993</td>
+<td align="center">7790</td>
+<td align="center">360</td>
+<td align="center">98</td>
+<td align="center">0.8</td>
+<td align="center">99</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="13" table-order="5" data-type-order="24">
+<table-wrap id="102118191833MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">A special quote refers to microseismic evaluation to define fracture geometry characterization. This valuable input allows the fracture engineer to better understand and fine-tune the fracture final evaluation. During this process, the fracture engineer takes an interactive, holistic approach to fracture stage evaluation, incorporating previous analyses, fluid performance, geomechanical calibration, pressure matching and finally honoring the acoustic geometry defined during the microseismic processing, Fig. 18 – 19; Table 4 – 5.</anchoringText>
+<label>Table 5</label>
+<caption>Fracture Geometry comparison between Acoustic Processing and Facture Simulation</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Fracture Geometry comparison between Acoustic Processing and Facture Simulation</caption-text>
+</formatted-caption>
+<table id="102118191833MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" align="center">WELLA</th>
+<th colspan="2" valign="bottom" align="center">Acoustic Planar Geometry (Microseismic)</th>
+<th colspan="2" align="center">Hydraulic Geometry (Fracture Simulator)</th>
+<th colspan="4" align="center">Match Differences</th>
+</tr>
+<tr>
+<th align="center">STAGE #</th>
+<th valign="top" align="center">Frac Simulation Model</th>
+<th align="center">Xfa [m]</th>
+<th align="center">Ha |m|</th>
+<th align="center">Xfh [m]</th>
+<th align="center">Hh [m]</th>
+<th align="center">AXf</th>
+<th align="center">%</th>
+<th align="center">AH</th>
+<th align="center">%</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1</td>
+<td align="center">3D Conventional (Linear Elastic)</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">160</td>
+<td align="center">75</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td valign="bottom" align="center">3D Conventional (Linear Elastic)</td>
+<td align="center">218</td>
+<td align="center">98</td>
+<td align="center">216</td>
+<td align="center">125</td>
+<td align="center">2</td>
+<td align="center">0.9%</td>
+<td align="center">-27</td>
+<td align="center">-27.6%</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td valign="bottom" align="center">3D Conventional (Linear Elastic)</td>
+<td align="center">171</td>
+<td align="center">163</td>
+<td align="center">178</td>
+<td align="center">166</td>
+<td align="center">-7</td>
+<td align="center">-4.1%</td>
+<td align="center">-3</td>
+<td align="center">-1.8%</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td valign="bottom" align="center">3D Conventional (Linear Elastic)</td>
+<td align="center">180</td>
+<td align="center">98</td>
+<td align="center">184</td>
+<td align="center">108</td>
+<td align="center">-4</td>
+<td align="center">-2.2%</td>
+<td align="center">-10</td>
+<td align="center">-10.2%</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td valign="bottom" align="center">3D Conventional (Linear Elastic)</td>
+<td align="center">201</td>
+<td align="center">50</td>
+<td align="center">202</td>
+<td align="center">58</td>
+<td align="center">-1</td>
+<td align="center">-0.5%</td>
+<td align="center">-8</td>
+<td align="center">-16.0%</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td valign="bottom" align="center">3D Conventional (Linear Elastic)</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">147</td>
+<td align="center">99</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td valign="bottom" align="center">3D Conventional (Linear Elastic)</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">175</td>
+<td align="center">87</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td valign="bottom" align="center">3D Conventional (Linear Elastic)</td>
+<td align="center">245</td>
+<td align="center">185</td>
+<td align="center">240</td>
+<td align="center">107</td>
+<td align="center">5</td>
+<td align="center">2.0%</td>
+<td align="center">78</td>
+<td align="center">42.2%</td>
+</tr>
+<tr>
+<td align="center">9</td>
+<td valign="bottom" align="center">3D Conventional (Linear Elastic)</td>
+<td align="center">233</td>
+<td align="center">130</td>
+<td align="center">186</td>
+<td align="center">109</td>
+<td align="center">47</td>
+<td align="center">20.2%</td>
+<td align="center">21</td>
+<td align="center">16.2%</td>
+</tr>
+<tr>
+<td align="center">10</td>
+<td valign="bottom" align="center">3D Conventional (Linear Elastic)</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">149</td>
+<td align="center">112</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td align="center">11</td>
+<td align="center">3D Conventional (Linear Elastic)</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">166</td>
+<td align="center">64</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="13" table-order="6" data-type-order="25">
+<table-wrap id="102118191833MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6"> </anchoringText>
+<caption>
+</caption>
+<formatted-caption />
+<table id="102118191833MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="center" />
+<th colspan="2" valign="top" align="center">WELLA</th>
+<th colspan="2" valign="top" align="center">WELLB</th>
+</tr>
+<tr>
+<th colspan="2" valign="top" align="center">Multiple Perforations Intervals</th>
+<th colspan="2" valign="top" align="center">Multiple Perforations Intervals</th>
+</tr>
+<tr>
+<th valign="bottom" align="center">STAGE #</th>
+<th valign="bottom" align="center">Limited Entry</th>
+<th valign="bottom" align="center">Multi Fracture</th>
+<th valign="bottom" align="center">Limited Entry</th>
+<th valign="bottom" align="center">Multiple Fracture</th>
+</tr>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">General Iteration</th>
+<th valign="top" align="center">Treatments</th>
+<th valign="top" align="center">General Iteration</th>
+<th valign="top" align="center">Treatments</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center">1</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">X</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">X</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">2</td>
+<td valign="top" align="center">X</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">X</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">X</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">X</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">4</td>
+<td valign="bottom" align="center">X</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">5</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">X</td>
+<td valign="top" align="center">X</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">6</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">X</td>
+<td valign="top" align="center">X</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">7</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">X</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">X</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">8</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">X</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">X</td>
+</tr>
+<tr>
+<td valign="top" align="center">9</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">X</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">X</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">10</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">X</td>
+<td valign="top" align="center">X</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">11</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">X</td>
+<td valign="bottom" align="center">X</td>
+<td valign="top" align="center">
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="20" table-order="7" data-type-order="38">
+<table-wrap id="102118191833MS-tblwrp-7" content-type="structured">
+<anchoringText id="Ancr7">According to the production logging data, the production calculation was made assuming as active fracture treatments those with a contribution of more than 4% of total production, changing from eleven active fractures to seven on Well A, and from ten active fractures to six on well B, Fig. 31, Table 6.</anchoringText>
+<label>Table 6</label>
+<caption>Fracture dimensions.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Fracture dimensions.</caption-text>
+</formatted-caption>
+<table id="102118191833MS-Tbl_SPi-7" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="center" />
+<th rowspan="2" valign="bottom" align="center">MD Perforation center</th>
+<th colspan="2" valign="top" align="center">Fracture dimensions</th>
+<th rowspan="2" valign="bottom" align="center">Length</th>
+<th rowspan="2" valign="bottom" align="center">Height</th>
+</tr>
+<tr>
+<th align="center">Azimuth</th>
+<th valign="bottom" align="center">Maximun Width</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="8" valign="top" align="center">Well A</td>
+<td valign="bottom" align="center">(m)</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">(in)</td>
+<td valign="bottom" align="center">(m)</td>
+<td valign="bottom" align="center">(m)</td>
+</tr>
+<tr>
+<td valign="top" align="center">3868.3</td>
+<td valign="bottom" align="center">100</td>
+<td valign="top" align="center">0.07</td>
+<td valign="top" align="center">135</td>
+<td valign="top" align="center">53.3</td>
+</tr>
+<tr>
+<td align="center">3924.5</td>
+<td align="center">100</td>
+<td align="center">0.08</td>
+<td align="center">165</td>
+<td align="center">68.5</td>
+</tr>
+<tr>
+<td align="center">4199.5</td>
+<td valign="bottom" align="center">100</td>
+<td valign="bottom" align="center">0.08</td>
+<td valign="bottom" align="center">121</td>
+<td align="center">53.5</td>
+</tr>
+<tr>
+<td align="center">4239.5</td>
+<td align="center">100</td>
+<td align="center">0.12</td>
+<td align="center">183</td>
+<td align="center">37.0</td>
+</tr>
+<tr>
+<td align="center">4282.0</td>
+<td valign="bottom" align="center">100</td>
+<td valign="bottom" align="center">0.16</td>
+<td valign="bottom" align="center">166</td>
+<td align="center">39.5</td>
+</tr>
+<tr>
+<td align="center">4392.8</td>
+<td align="center">100</td>
+<td align="center">0.08</td>
+<td align="center">172</td>
+<td align="center">58.3</td>
+</tr>
+<tr>
+<td align="center">4437.3</td>
+<td valign="bottom" align="center">100</td>
+<td valign="bottom" align="center">0.11</td>
+<td align="center">151</td>
+<td align="center">34.8</td>
+</tr>
+<tr>
+<td rowspan="6" valign="top" align="center">Well B</td>
+<td align="center">4126.3</td>
+<td align="center">100</td>
+<td align="center">0.11</td>
+<td align="center">172</td>
+<td align="center">117.0</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">4287.0</td>
+<td valign="bottom" align="center">100</td>
+<td valign="bottom" align="center">0.05</td>
+<td valign="bottom" align="center">144</td>
+<td valign="bottom" align="center">54.5</td>
+</tr>
+<tr>
+<td align="center">4327.8</td>
+<td align="center">100</td>
+<td align="center">0.14</td>
+<td align="center">209</td>
+<td align="center">38.8</td>
+</tr>
+<tr>
+<td align="center">4371.0</td>
+<td valign="bottom" align="center">100</td>
+<td valign="bottom" align="center">0.16</td>
+<td align="center">150</td>
+<td align="center">44.3</td>
+</tr>
+<tr>
+<td valign="top" align="center">4492.0</td>
+<td valign="bottom" align="center">100</td>
+<td valign="top" align="center">0.14</td>
+<td valign="top" align="center">64</td>
+<td valign="top" align="center">71.9</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">4535.0</td>
+<td valign="bottom" align="center">100</td>
+<td valign="bottom" align="center">0.15</td>
+<td valign="bottom" align="center">96</td>
+<td valign="bottom" align="center">43.3</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

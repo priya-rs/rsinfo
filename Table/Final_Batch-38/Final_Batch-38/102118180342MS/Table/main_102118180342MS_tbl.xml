@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118180342MS.txt" extractionDate="2021-03-19T16:11:41Z">
+<doi>10.2118/180342-MS</doi>
+<pii>10.2118/180342-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="6">
+<table-wrap id="102118180342MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Fig. 5 shows the depth-based PDC bit torque in salt, along with the first hybrid run. All bit runs had a concentric reamer in the BHA, except Run-1. Because of the shearing action of the PDCs, the torque fluctuations are high, even when the reamer was closed. Tab. 1 indicates a high standard deviation or torque fluctuation for PDC bits. High torque fluctuations have the potential for initiating torsional oscillations which can cause the loss of drilling efficiency.</anchoringText>
+<label>Table 1</label>
+<caption>Mean and standard deviation of torque response of PDC and hybrid bit</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Mean and standard deviation of torque response of PDC and hybrid bit</caption-text>
+</formatted-caption>
+<table id="102118180342MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="center">Run No.</th>
+<th colspan="2" valign="top" align="center">Torque (ft-lb)</th>
+</tr>
+<tr>
+<th valign="top" align="center">Mean</th>
+<th valign="top" align="center">Standard Dev.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Run 1- PDC</td>
+<td valign="top" align="center">29,788.6</td>
+<td valign="top" align="center">3,989.5</td>
+</tr>
+<tr>
+<td valign="top" align="left">Run 2 - HYB</td>
+<td valign="top" align="center">31,453.3</td>
+<td valign="top" align="center">3,843.9</td>
+</tr>
+<tr>
+<td valign="top" align="left">Run 3 - PDC</td>
+<td valign="top" align="center">38,260.9</td>
+<td valign="top" align="center">10,915.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">Run 4 - PDC</td>
+<td valign="top" align="center">30,952.8</td>
+<td valign="top" align="center">5,484.8</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

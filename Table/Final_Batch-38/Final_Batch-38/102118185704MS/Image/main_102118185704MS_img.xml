@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185704MS.txt" extractionDate="2021-03-27T15:44:10Z">
+<doi>10.2118/185704-MS</doi>
+<pii>10.2118/185704-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr2">Figure 1 shows the relative location of the Milne Point unit and extent of the Ugnu reservoir. In the limited period of production, both the wells produced around 20%of sand cut with oil rates higher than theoretically calculated from the given horizontal sections. Further production was however hindered since significant technological and investment challenges did not allow the operators to maintain economic flow rates. As a result, the pilot facility is under a shutdown awaiting further development.</anchoringText>
+<image-wrap id="102118185704MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118185704MS_i_1.tif" id="ImgLink-1" />
+<caption>Location map of Milne Point unit and extent of Ugnu accumulation<sup>1</sup>,<sup>4</sup></caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Location map of Milne Point unit and extent of Ugnu accumulation<link href="BIB2"><sup>1</sup></link>,<link href="BIB3"><sup>4</sup></link></caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-1" type="bib">
+<bib id="BIB2">
+<label>1</label>
+<author>Joseph</author> Chmielowski. presentation given at <pubDate>2013</pubDate> <article-title>Pacific Section AAPG, SEG and SEPM Joint Technical Conference, Monterey, California </article-title>, <journal-title>April </journal-title> <first-page>19</first-page>&#x2013;<last-page>25</last-page>, 2013</bib>
+</linkTarget>
+<linkTarget id="link-1" type="bib">
+<bib id="BIB3">
+<label>4</label>
+<author><last-name>Dusseault</last-name><first-name>M. B.</first-name></author>, <author><last-name>Ma</last-name><first-name>Y.</first-name></author>, <author><last-name>Xu</last-name><first-name>B.</first-name></author>, <author><last-name>Liang</last-name><first-name>C. X.</first-name></author>, &amp; <author><last-name>Wu</last-name><first-name>G</first-name></author>. (<pubDate>2002</pubDate>, <article-title>January 1).  CHOPS in Jilin Province , China </article-title><i />. 79032-MS SPE Conference Paper.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr3">Ugnu reservoirs hold the most viscous oils among the other North Slope reserves. Well A produced oil with a live oil viscosity of 5800 cp. As shown in Figure 2, the native fluid properties were matched by fitting the model predicted fluid properties with the experimental data using Peng-Robinson8 equation of state. To reduce the simulation time and required system memory, the C7+ fractions were split into 200 pseudo components and then lumped into six hypothetical components of equivalent PVT properties.</anchoringText>
+<image-wrap id="102118185704MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118185704MS_i_2.tif" id="ImgLink-2" />
+<caption>Experimental and model oil and gas PVT properties plotted against pressure</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Experimental and model oil and gas PVT properties plotted against pressure</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr4">The vertical extent (k) of the grid section was fixed at 120 feet to accommodate the depths of the two wells (A and B) with 12 layers of 10 feet thickness each. Porosity of the entire grid section was set to 20.56 % as calculated from the density log value obtained from the well report of well A. Reservoir permeability was set to 2500 mD. Figure 3 shows the resulting grid view of reservoir section with the wells in place. The water saturation was varied for different layers using the water saturation log data.</anchoringText>
+<image-wrap id="102118185704MS-Img_SPi-3">
+<label>Figure 3</label>
+<imageLink type="mediaResource" href="102118185704MS_i_3.tif" id="ImgLink-3" />
+<caption>(a) Contour map of Ugnu M0T layer with wells well A and well B trajectories and superimposed grid (b) 3D reservoir section used in simulation (c) Water saturation variation in different reservoir layers</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>(a) Contour map of Ugnu M0T layer with wells well A and well B trajectories and superimposed grid (b) 3D reservoir section used in simulation (c) Water saturation variation in different reservoir layers</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185704MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118185704MS_i_3a.tif" id="ImgLink-3a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>(a) Contour map of Ugnu M0T layer with wells well A and well B trajectories and superimposed grid</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185704MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118185704MS_i_3b.tif" id="ImgLink-3b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>3D reservoir section used in simulation</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185704MS-Img_SPi-3c">
+<imageLink type="mediaResource" href="102118185704MS_i_3c.tif" id="ImgLink-3c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Water saturation variation in different reservoir layers</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr5"> </anchoringText>
+<image-wrap id="102118185704MS-Img_SPi-4">
+<label>Figure 4</label>
+<imageLink type="mediaResource" href="102118185704MS_i_4.tif" id="ImgLink-4" />
+<caption>(a) Wormhole pattern generation scheme; (b) Wormhole growth around the perforation within the refined grid system</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>(a) Wormhole pattern generation scheme; (b) Wormhole growth around the perforation within the refined grid system</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185704MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118185704MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>(a) Wormhole pattern generation scheme;</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185704MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118185704MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Wormhole growth around the perforation within the refined grid system</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr6">The refined grid blocks had the dimensions of 10' &#x00d7; 10' &#x00d7; 1'. A 39.41% change in porosity in the refined grid blocks that represented the wormhole channel, corresponded to 39.41 ft3 of sand removal from each block. As the wormhole channel propagates with the production, it was important to input the wormhole pattern in steps. Therefore, as shown in Figure 5, the sand production from the well was divided into 4 time periods. The extent of the wormhole channel growth was determined by the sand produced in the particular time period. More precisely, the number of grid blocks to be converted into a wormhole were equivalent to the amount of sand produced for the given time period.</anchoringText>
+<image-wrap id="102118185704MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118185704MS_i_5.tif" id="ImgLink-5" />
+<caption>Production history of well A. The roman numbering denotes the four wormhole generation periods.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Production history of well A. The roman numbering denotes the four wormhole generation periods.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr7"> </anchoringText>
+<image-wrap id="102118185704MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118185704MS_i_6.tif" id="ImgLink-6" />
+<caption>Oil-water and liquid-gas permeability curves used in the history match simulation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Oil-water and liquid-gas permeability curves used in the history match simulation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="7" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr8">To achieve the best history match, relative permeability, absolute permeability of wormhole channels and non-equilibrium reaction rate were further fine-tuned. The rate of reaction was set to 2.88E-7 moles/day/ft3. The absolute permeability of wormholes was increased to 3500 mD. Gas relative permeability was suppressed to reduce the gas production. Figure 7 shows a reasonable history match between the field production of oil, gas and water matched with the simulation results for well A.</anchoringText>
+<image-wrap id="102118185704MS-Img_SPi-7">
+<label>Figure 7</label>
+<imageLink type="mediaResource" href="102118185704MS_i_7.tif" id="ImgLink-7" />
+<caption>History match for gas, oil and water production from well A for the four time periods of wormhole growth</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>History match for gas, oil and water production from well A for the four time periods of wormhole growth</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185704MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118185704MS_i_7a.tif" id="ImgLink-7a" />
+</image-wrap>
+<image-wrap id="102118185704MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118185704MS_i_7b.tif" id="ImgLink-7b" />
+</image-wrap>
+<image-wrap id="102118185704MS-Img_SPi-7c">
+<imageLink type="mediaResource" href="102118185704MS_i_7c.tif" id="ImgLink-7c" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr9"> </anchoringText>
+<image-wrap id="102118185704MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118185704MS_i_8.tif" id="ImgLink-8" />
+<caption>Oil recovery during natural depletion of POST CHOPS reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Oil recovery during natural depletion of POST CHOPS reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr10">Water flooding is the conventional enhanced oil recovery (EOR) method employed in the North Slope and which is further aided by availability of low salinity water from Prince Creek aquifer, making water flooding an inexpensive and convenient option. Figure 9 depicts the plot of oil recovery factor versus time obtained upon flooding the reservoir with water through the injection well B. A 50 years of water flooding simulation resulted in a little more than 12% of heavy oil recovery.</anchoringText>
+<image-wrap id="102118185704MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118185704MS_i_9.tif" id="ImgLink-9" />
+<caption>Oil recovery after 50 years of water flood simulation on the POST CHOPS reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Oil recovery after 50 years of water flood simulation on the POST CHOPS reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr11">The effect of viscous fingering can be observed by analyzing the fractional flow of water inside the reservoir. Higher fractional flow of water indicated higher bypass of oil in the wormhole channels. Figure 10 depicts the reservoir with transparent grids at different time steps. It can be observed that the fractional flow (fw) of water near the wormhole zone around the perforations in well A is higher than the surrounding reservoir. The reservoir layers with higher water saturation experienced earlier breakthrough of injected water. Injection constraints of maximum reservoir pressure of 1700 psi and maximum injection rate of 5000 bbl/d were applied.</anchoringText>
+<image-wrap id="102118185704MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118185704MS_i_10.tif" id="ImgLink-10" />
+<caption>Fractional flow (fw) of water inside the reservoir at different time stages</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Fractional flow (fw) of water inside the reservoir at different time stages</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="11" data-type-order="12">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr12">A basic job design was considered to carry out the simulations for polymer selection that included a pre-flush with water for one year followed by injecting polymer for the next one year and subsequently followed by water flood to provide a drive to the polymer solution. A preflush of water conditions the reservoir for subsequent EOR. Since the water from Prince creek aquifer has very low salinity, a preflush with water from that source will prevent the salinity effects on the polymer solution. Well B was used as an injection well. Injection constraints of maximum reservoir pressure of 1700 psi and maximum injection rate of 5000 bbl/d were applied. Figure 11 illustrates a plot between the oil recovery factor versus percentage of pore volumes injected. It is interesting to note that to obtain a particular recovery value, higher pore volumes of water flood was required as compared to the polymer flood.</anchoringText>
+<image-wrap id="102118185704MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118185704MS_i_11.tif" id="ImgLink-11" />
+<caption>Oil recovery vs pore volume injected for different injection fluids</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Oil recovery vs pore volume injected for different injection fluids</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="12" data-type-order="13">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr13"> </anchoringText>
+<image-wrap id="102118185704MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118185704MS_i_12.tif" id="ImgLink-12" />
+<caption>Reservoir pore pressure for different concentrations of injected polymer solutions</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Reservoir pore pressure for different concentrations of injected polymer solutions</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="13" data-type-order="14">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr14">The effect of polymer injection on sweep efficiency can be observed by comparing the fractional flow of the injection fluid during water and polymer flooding at same pore volume of injection. Figure 13 compares the injection water fractional flow in one of the model layers. The viscous fingering effect was observed to be less severe in case of polymer injection as compared to water flooding.</anchoringText>
+<image-wrap id="102118185704MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118185704MS_i_13.tif" id="ImgLink-13" />
+<caption>Fractional flow of water in layer 9 of the reservoir model for water flooding and polymer flooding with 10,000 ppm polymer concentration</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Fractional flow of water in layer 9 of the reservoir model for water flooding and polymer flooding with 10,000 ppm polymer concentration</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="14" data-type-order="15">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr15"> </anchoringText>
+<image-wrap id="102118185704MS-Img_SPi-14">
+<label>Figure 14</label>
+<imageLink type="mediaResource" href="102118185704MS_i_14.tif" id="ImgLink-14" />
+<caption>(a) Oil recovery for different beginning times of polymer solution injection; (b) Oil recovery for different durations of polymer solution injection</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>(a) Oil recovery for different beginning times of polymer solution injection; (b) Oil recovery for different durations of polymer solution injection</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185704MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118185704MS_i_14a.tif" id="ImgLink-14a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Oil recovery for different beginning times of polymer solution injection</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185704MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118185704MS_i_14b.tif" id="ImgLink-14b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Oil recovery for different durations of polymer solution injection</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="15" data-type-order="16">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr16">Low oil recovery values in the polymer flooding simulations suggest that the spacing between the wells is insufficient for developing the reservoir. The horizontal legs of both the wells are placed approximately 1700 feet apart. An injection well with same trajectory as well A was added at the mid point of both wells. Polymer injection was again carried out with the optimized design and resulted in oil recovery of ~47%after producing from well A. Further investigation was not carried out with this configuration and can be considered for a future research scope. Figure 15 compares the oil recovey values for polymer flooding from the new injection well, polymer flooding from well B and water flooding from well B.</anchoringText>
+<image-wrap id="102118185704MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118185704MS_i_15.tif" id="ImgLink-15" />
+<caption>Oil recovery after polymer flooding from a new injection well, polymer flooding from well B and water flooding from well B</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Oil recovery after polymer flooding from a new injection well, polymer flooding from well B and water flooding from well B</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

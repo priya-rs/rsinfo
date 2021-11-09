@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118181431MS.txt" extractionDate="2021-03-20T10:43:59Z">
+<doi>10.2118/181431-MS</doi>
+<pii>10.2118/181431-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure composite="true" composite-count="2" pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr4">Flow control devices (FCDs) and isolation devices (packers) are commonly installed downhole to assist with improvement of steam conformance along the horizontal section in both SAGD and mobile heavy oil applications. A typical tubing-deployed FCD configuration in a horizontal steam injector is depicted in Fig.1 (a). However, the use of FCDs and packers does not necessarily assure acceptable steam conformance. Steam conformance and flow profiles in horizontal steam injectors can be affected by many factors which include: reservoir rock and fluid properties, well geometry, completion architecture, heat transfer mechanisms, flow regimes, and completion damages.</anchoringText>
+<image-wrap id="102118181431MS-Img_SPi-1">
+<label>Figure 1</label><imageLink type="mediaResource" href="102118181431MS_i_1.tif" id="ImgLink-1" />
+<caption>(a) Example tubing deployed fiber optic installation for Well “A”. Optical fibers are in ¼ inch diameter capillary tubing bundle clamped to the 3-1/2”tubing, (b) Map view of experimental horizontal steam injectors (“A” and “B”) with observation wells.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>(a) Example tubing deployed fiber optic installation for Well “A”. Optical fibers are in ¼ inch diameter capillary tubing bundle clamped to the 3-1/2”tubing, (b) Map view of experimental horizontal steam injectors (“A” and “B”) with observation wells.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-1a">
+<imageLink type="mediaResource" href="102118181431MS_i_1a.tif" id="ImgLink-1a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Example tubing deployed fiber optic installation for Well &#x201C;A&#x201D;. Optical fibers are in &#x00BC; inch diameter capillary tubing bundle clamped to the 3-1/2&#x201D;tubing</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-1b">
+<imageLink type="mediaResource" href="102118181431MS_i_1b.tif" id="ImgLink-1b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Map view of experimental horizontal steam injectors (&#x201C;A&#x201D; and &#x201C;B&#x201D;) with observation wells</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr5">Steam quality, rate, and pressure data was acquired continuously at surface during all injection operations and was synchronized with the DTS and DAS data acquisition. An example of the surface steam injection data acquisition is provided in Fig. 2. During the DTS and DAS data acquisition the injection rates and steam qualities were adjusted to create four steady state injection conditions. Typical steady state injection conditions are summarized in Table 1.</anchoringText>
+<image-wrap id="102118181431MS-Img_SPi-2">
+<label>Figure 2</label><imageLink type="mediaResource" href="102118181431MS_i_2.tif" id="ImgLink-2" />
+<caption>Typical surface steam injection data acquisition synchronized with DTS and DAS acquisition</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Typical surface steam injection data acquisition synchronized with DTS and DAS acquisition</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118181431MS_i_2a.tif" id="ImgLink-2a" />
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118181431MS_i_2b.tif" id="ImgLink-2b" />
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-2c">
+<imageLink type="mediaResource" href="102118181431MS_i_2c.tif" id="ImgLink-2c" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr6">An overview of the steam injection flow profiling methodology is provided in Fig. 3 as a flowchart. This six step method results in computing the injected steam flow profiles for each wellbore segment associated with a material balance region. The computational flow profiling algorithms are based on a multi-physics approach that can be applied to broad variety of flowing conditions, surveillance system configurations, well architectures, and conformance control designs as discussed in the previous section. While the examples in this paper are focused on tubing-deployed fiber optics, the methodology and algorithms can be applied to other deployment configurations such as liner or instrument tube fiber optics with minor modifications.</anchoringText>
+<image-wrap id="102118181431MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118181431MS_i_3.tif" id="ImgLink-3" />
+<caption>Flow profiling methodology overview</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Flow profiling methodology overview</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="7" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr7">Fig. 4 provides some examples of using DAS data to evaluate packer integrity and performance of FCDs in injector "B". Fig. 4(a) shows acoustic energy due to water boil off at ~1800 feet, the lowest point in this toe-high horizontal well. This confirms ongoing leakage at the packer that causes liquid drainage to the low point and ongoing boil off. Fig. 4(b) indicates slugging and non-critical flow in the nozzles at the FCD closest to the toe at a depth of ~2850 feet. Fig. 4(c) is in the same well after the top packer has been replaced and additional packers installed in the horizontal section. The top packer is indicating good seal integrity with no boil off effect at ~1800 feet and good sealing for the two additional packers installed in the injection interval.</anchoringText>
+<image-wrap id="102118181431MS-Img_SPi-4">
+<label>Figure 4</label><imageLink type="mediaResource" href="102118181431MS_i_4.tif" id="ImgLink-4" />
+<caption>Flow diagnostics in well “B” (a) DAS low frequency band boil-off in non-injection zone at the ~1800 feet at the heel, (b) DAS high frequency band FCD slugging and non-critical flow at ~2850 feet, (c) DAS full spectrum analysis after top packer replacement and additional packer installation to redistribute steam in non-heated segments.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Flow diagnostics in well “B” (a) DAS low frequency band boil-off in non-injection zone at the ~1800 feet at the heel, (b) DAS high frequency band FCD slugging and non-critical flow at ~2850 feet, (c) DAS full spectrum analysis after top packer replacement and additional packer installation to redistribute steam in non-heated segments.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118181431MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>DAS low frequency band boil-off in non-injection zone at the &#x007E;1800 feet at the heel</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118181431MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>DAS high frequency band FCD slugging and non-critical flow at &#x007E;2850 feet</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-4c">
+<imageLink type="mediaResource" href="102118181431MS_i_4c.tif" id="ImgLink-4c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>DAS full spectrum analysis after top packer replacement and additional packer installation to redistribute steam in non-heated segments</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr8">In this research, an FCD on 3-1/2 inch tubing was installed inside 7 inch casing in the HSITF. A capillary tubing bundle with DTS and DAS was clamped with a helical geometry to the 3-1/2 inch tubing in the annulus. This installation had identical geometries to the tubing and FCDs installed in the two experimental injectors. Fig. 5(a) shows a schematic of the HSITF and Fig. 5(b) depicts the test section of the HSITF with the fiber optic installation. A three-level, design of experiment (DOE) test matrix was executed to characterize DTS and DAS responses for steam flow behavior for common operating conditions. The DOE test matrix included testing at various steam qualities (e.g., 40%, 60% and 80%), different tubing pressures (e.g., 400, 500, and 600 psi), different steam flow rates ranging from 1000 to 1800 BSPD-CWE, and flow directions both cocurrent and counter-current in the annulus.</anchoringText>
+<image-wrap id="102118181431MS-Img_SPi-5">
+<label>Figure 5</label><imageLink type="mediaResource" href="102118181431MS_i_5.tif" id="ImgLink-5" />
+<caption>Steam injection test facility (a) the test flow loop schematic from Fram et al. (2009) (b) the test section with fiber optic installation on the tubing string. Green is the flow in the tubing and blue is the flow in the annulus</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Steam injection test facility (a) the test flow loop schematic from Fram et al. (2009) (b) the test section with fiber optic installation on the tubing string. Green is the flow in the tubing and blue is the flow in the annulus</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118181431MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>the test flow loop schematic from Fram et al. (2009)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118181431MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>the test section with fiber optic installation on the tubing string. Green is the flow in the tubing and blue is the flow in the annulus</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr9">While the HSITF results are useful for characterizing DTS and DAS responses, this procedural step is optional. The results of the HSITF steam flow characterization are used for flow diagnostic interpretation and pattern recognition of steam flow with DTS and DAS. The DOE flow characterization is very useful for distinguishing cocurrent and counter-current flow in horizontal steam injectors based on the underlying patterns of the DTS and DAS data as illustrated in Fig 6.</anchoringText>
+<image-wrap id="102118181431MS-Img_SPi-6">
+<label>Figure 6</label><imageLink type="mediaResource" href="102118181431MS_i_6.tif" id="ImgLink-6" />
+<caption>Horizontal Steam Injection Test Facility DTS and DAS DOE Results for: (a) cocurrent flow (b) counter-current flow</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Horizontal Steam Injection Test Facility DTS and DAS DOE Results for: (a) cocurrent flow (b) counter-current flow</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118181431MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>cocurrent flow</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118181431MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>counter-current flow</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr10">In this algorithm, mass balance, energy balance and dynamic heat transfer equations are solved for at each nodes in a wellbore. A mechanistic multiphase flow momentum balance is solved for each pipe segments. Fig. 7 is a schematic view of a wellbore configuration network with a thermal hydraulic grid model for steam flow through tubing, annulus, and formation nodes and the connection of nodes and pipes. A similar approach to Shirdel and Sepehnoori (2009) and Shirdel (2013) is used to develop the multiphase flow models. Additionally, critical and non-critical flow models are incorporated in momentum balance equation for FCDs nozzles as shown in Eq.1. FCDs flow model can be developed using computational fluid dynamics, generic orifice flow equations, or from experimental test results. For this work, experimental tests results from the HSITF are used for FCD performance and specific nozzle geometry.</anchoringText>
+<image-wrap id="102118181431MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118181431MS_i_7.tif" id="ImgLink-7" />
+<caption>Wellbore grid network structure</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Wellbore grid network structure</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr11">Assuming the warm-back or cool-down process is dominated by heat conduction, a numerical heat conduction model (cylindrical axisymmetric geometry) can estimate the rate of cooling or warming based on the initial temperature differential between the wellbore fluid and the surrounding rock temperature. The higher temperature differential during the cool-down period and the lower temperature differential during the warm-back period indicate less thermal mass storage in the rock and slower temperature change. Fig. 8 provides an example of cool-down and warm-back model results for various temperature differentials between the wellbore and surrounding reservoir.</anchoringText>
+<image-wrap id="102118181431MS-Img_SPi-8">
+<label>Figure 8</label><imageLink type="mediaResource" href="102118181431MS_i_8.tif" id="ImgLink-8" />
+<caption>Cool-down and warm-back transient numerical model as function of initial temperature differential between wellbore fluid and formation rock</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Cool-down and warm-back transient numerical model as function of initial temperature differential between wellbore fluid and formation rock</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118181431MS_i_8a.tif" id="ImgLink-8a" />
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118181431MS_i_8b.tif" id="ImgLink-8b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="14" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr12">Fig. 9 shows the baseline temperature profiles at 0, 5 and 6 days after installation of the fiber on the tubing of well "A". Before putting the well on injection, the quenching water warms back slowly due to the heat transfer from surrounding fluid and rock and reaches a stable temperature after 6 days. Fig. 9 shows that toe region is warmer than the rest of the well indicating that steam has been injected predominately to the toe.</anchoringText>
+<image-wrap id="102118181431MS-Img_SPi-9">
+<label>Figure 9</label><imageLink type="mediaResource" href="102118181431MS_i_9.tif" id="ImgLink-9" />
+<caption>(a) Temperature profiles during wellbore warm-back in well “A”, (b) pressure profile before steam injection in well “A”.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>(a) Temperature profiles during wellbore warm-back in well “A”, (b) pressure profile before steam injection in well “A”.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118181431MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Temperature profiles during wellbore warm-back in well &#x201C;A&#x201D;</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118181431MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>pressure profile before steam injection in well &#x201C;A&#x201D;</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="15" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr13">During steam injection start up, transient flow and heat transfer behavior can be observed in the DTS and DAS surveillance data. At the beginning of the injection, cold liquid flows in the surface lines initially and creates a fluid temperature differential effect as a result steam displacing cold water in the surface lines. Fig. 10(a) shows the temperature ramp-up at 5 different points above the packer and Fig. 10(b) shows the temperature ramp-up at 5 different points below the packer in the horizontal section during start up. The temperature ramp-up above the packer has a concave shape characteristic of conduction dominated heat transfer.</anchoringText>
+<image-wrap id="102118181431MS-Img_SPi-10">
+<label>Figure 10</label><imageLink type="mediaResource" href="102118181431MS_i_10.tif" id="ImgLink-10" />
+<caption>(a) Transient heating in the vertical and build section of well “A”, (b) Transient heating in the horizontal section of well “A”.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>(a) Transient heating in the vertical and build section of well “A”, (b) Transient heating in the horizontal section of well “A”.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118181431MS_i_10a.tif" id="ImgLink-10a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Transient heating in the vertical and build section of well &#x201C;A&#x201D;</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118181431MS_i_10b.tif" id="ImgLink-10b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Transient heating in the horizontal section of well &#x201C;A&#x201D;</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="11" data-type-order="13">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr14">This confirms again that more steam had been injected into the toe of well “A” because it maintains a higher relative temperature. A two dimensional visualization of the temperature data in Fig. 11 illustrates how the 7 inch by 9-5/8 inch annulus boils off water initially to a measured depth of 1800 feet MD and the water column in the annulus drops during injection start up.</anchoringText>
+<image-wrap id="102118181431MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118181431MS_i_11.tif" id="ImgLink-11" />
+<caption>Temperature plot indicating liquid boil off after ~4 hours of injection.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Temperature plot indicating liquid boil off after ~4 hours of injection.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="12" data-type-order="14">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr15">In Fig. 12 the tubing surface temperature is 50-60°F warmer than annulus due to high pressure steam inside the tubing.</anchoringText>
+<image-wrap id="102118181431MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118181431MS_i_12.tif" id="ImgLink-12" />
+<caption>History matching the model temperature calculation with temperature surveillance data.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>History matching the model temperature calculation with temperature surveillance data.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="15" pdf-page="17" figure-order="13" data-type-order="15">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr16">Fig. 13 shows the computed flow parameters pressure, temperature, rates, velocities, steam quality and enthalpy for both the tubing and annulus. Utilizing mechanistic flow regime models, stratified flow occurs in the 3-1/2 inch by 7 inch injector annulus. Due to helically wrapping the FOCTB around the tubing, the fiber can sense the annulus temperature in the liquid phase (due to high heat transfer in the liquid) and the tubing surface temperature in the vapor phase.</anchoringText>
+<image-wrap id="102118181431MS-Img_SPi-13">
+<label>Figure 13</label><imageLink type="mediaResource" href="102118181431MS_i_13.tif" id="ImgLink-13" />
+<caption>Coupled wellbore/reservoir flow variables in annulus and tubing.( Anls Pressure Profile, Anls Temperature Profile, Anis Quality Profile, Anis Velocity Profile, Anis Flow Profile, Anis Heat Profile, Anis Holdup Profile, Anis FlowRegime Profile, Reservoir Flow Influx Profile, Tubing Pressure Profile, Tubing Temperature Profile, Tubing Quality Profile, Tubing Gas Velocity Profile, Tubing Flow Profile, Tubing Heat Profile)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Coupled wellbore/reservoir flow variables in annulus and tubing.( Anls Pressure Profile, Anls Temperature Profile, Anis Quality Profile, Anis Velocity Profile, Anis Flow Profile, Anis Heat Profile, Anis Holdup Profile, Anis FlowRegime Profile, Reservoir Flow Influx Profile, Tubing Pressure Profile, Tubing Temperature Profile, Tubing Quality Profile, Tubing Gas Velocity Profile, Tubing Flow Profile, Tubing Heat Profile)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118181431MS_i_13a.tif" id="ImgLink-13a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Anls Pressure Profile</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118181431MS_i_13b.tif" id="ImgLink-13b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Anls Temperature Profile</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-13c">
+<imageLink type="mediaResource" href="102118181431MS_i_13c.tif" id="ImgLink-13c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Anis Quality Profile</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-13d">
+<imageLink type="mediaResource" href="102118181431MS_i_13d.tif" id="ImgLink-13d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>Anis Velocity Profile</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-13e">
+<imageLink type="mediaResource" href="102118181431MS_i_13e.tif" id="ImgLink-13e" />
+<figure-specific-caption>
+<caption-order>e</caption-order>
+<caption-text>Anis Flow Profile</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-13f">
+<imageLink type="mediaResource" href="102118181431MS_i_13f.tif" id="ImgLink-13f" />
+<figure-specific-caption>
+<caption-order>f</caption-order>
+<caption-text>Anis Heat Profile</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-13g">
+<imageLink type="mediaResource" href="102118181431MS_i_13g.tif" id="ImgLink-13g" />
+<figure-specific-caption>
+<caption-order>g</caption-order>
+<caption-text>Anis Holdup Profile</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-13h">
+<imageLink type="mediaResource" href="102118181431MS_i_13h.tif" id="ImgLink-13h" />
+<figure-specific-caption>
+<caption-order>h</caption-order>
+<caption-text>Anis FlowRegime Profile</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-13i">
+<imageLink type="mediaResource" href="102118181431MS_i_13i.tif" id="ImgLink-13i" />
+<figure-specific-caption>
+<caption-order>i</caption-order>
+<caption-text>Reservoir Flow Influx Profile</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-13j">
+<imageLink type="mediaResource" href="102118181431MS_i_13j.tif" id="ImgLink-13j" />
+<figure-specific-caption>
+<caption-order>j</caption-order>
+<caption-text>Tubing Pressure Profile</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-13k">
+<imageLink type="mediaResource" href="102118181431MS_i_13k.tif" id="ImgLink-13k" />
+<figure-specific-caption>
+<caption-order>k</caption-order>
+<caption-text>Tubing Temperature Profile</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-13l">
+<imageLink type="mediaResource" href="102118181431MS_i_13l.tif" id="ImgLink-13l" />
+<figure-specific-caption>
+<caption-order>l</caption-order>
+<caption-text>Tubing Quality Profile</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-13m">
+<imageLink type="mediaResource" href="102118181431MS_i_13m.tif" id="ImgLink-13m" />
+<figure-specific-caption>
+<caption-order>m</caption-order>
+<caption-text>Tubing Gas Velocity Profile</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-13n">
+<imageLink type="mediaResource" href="102118181431MS_i_13n.tif" id="ImgLink-13n" />
+<figure-specific-caption>
+<caption-order>n</caption-order>
+<caption-text>Tubing Flow Profile</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-13o">
+<imageLink type="mediaResource" href="102118181431MS_i_13o.tif" id="ImgLink-13o" />
+<figure-specific-caption>
+<caption-order>o</caption-order>
+<caption-text>Tubing Heat Profile</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="6" pdf-page="18" figure-order="14" data-type-order="16">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr17">Well "A" has been shut down on several occasions during injection while DTS data was acquired. In Fig. 14(a) a semi-log plot of early transient shut-in temperature data at several points along the wellbore from heel to the toe are depicted. The temperature data in region (X) has been convectively affected with rapid fluid movement once the injection was stopped. Region (Y) is a conduction dominated period when the wellbore fluid cools-down slowly due to heat exchange with the surrounding formation.</anchoringText>
+<image-wrap id="102118181431MS-Img_SPi-14">
+<label>Figure 14</label><imageLink type="mediaResource" href="102118181431MS_i_14.tif" id="ImgLink-14" />
+<caption>(a) Early transient shut-in temperature data, (b)-(f) model temperature cool-down comparison with temperature surveillance data in wellbore segments 1 through 5 respectively.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text></caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118181431MS_i_14a.tif" id="ImgLink-14a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Early transient shut-in temperature data</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118181431MS_i_14b.tif" id="ImgLink-14b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>model temperature cool-down comparison with temperature surveillance data in wellbore segments 1 through 5 respectively</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-14c">
+<imageLink type="mediaResource" href="102118181431MS_i_14c.tif" id="ImgLink-14c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>model temperature cool-down comparison with temperature surveillance data in wellbore segments 1 through 5 respectively</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-14d">
+<imageLink type="mediaResource" href="102118181431MS_i_14d.tif" id="ImgLink-14d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>model temperature cool-down comparison with temperature surveillance data in wellbore segments 1 through 5 respectively</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-14e">
+<imageLink type="mediaResource" href="102118181431MS_i_14e.tif" id="ImgLink-14e" />
+<figure-specific-caption>
+<caption-order>e</caption-order>
+<caption-text>model temperature cool-down comparison with temperature surveillance data in wellbore segments 1 through 5 respectively</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-14f">
+<imageLink type="mediaResource" href="102118181431MS_i_14f.tif" id="ImgLink-14f" />
+<figure-specific-caption>
+<caption-order>f</caption-order>
+<caption-text>model temperature cool-down comparison with temperature surveillance data in wellbore segments 1 through 5 respectively</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="19" figure-order="15" data-type-order="17">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr18">In Fig. 15(a) the shut-in temperature profiles in the lateral section of well "A" after ~10 days are provided. In Fig. 15(b) the temperature decline rates for five wellbore segments are provided. Convective fluid movement in the wellbore is assumed to diminish after a few days and then the temperature declines linearly due to conduction. The inverse of the temperature decline rate is an indication of the thermal mass around the wellbore. Using the slope of the temperature decline rate in late transient period, the steam injection flow profile along the wellbore can be estimated.</anchoringText>
+<image-wrap id="102118181431MS-Img_SPi-15">
+<label>Figure 15</label><imageLink type="mediaResource" href="102118181431MS_i_15.tif" id="ImgLink-15" />
+<caption>(a) Late transient temperature profiles for 10 days of shutin, (b) calculating rate of cool-down at various locations along the well.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>(a) Late transient temperature profiles for 10 days of shutin, (b) calculating rate of cool-down at various locations along the well.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-15a">
+<imageLink type="mediaResource" href="102118181431MS_i_15a.tif" id="ImgLink-15a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Late transient temperature profiles for 10 days of shutin</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-15b">
+<imageLink type="mediaResource" href="102118181431MS_i_15b.tif" id="ImgLink-15b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>calculating rate of cool-down at various locations along the well</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="20" figure-order="16" data-type-order="18">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr19">Steam flow releases acoustic energy through different components of the completion architecture (i.e. pipe, nozzles, slots in the slotted liner). In Fig. 16 a spectrogram analysis of the acoustic surveillance data in the lateral section (2000 – 2880 ft) for 2 minute time windows is provided. Eight different frequency bands are summarized from 0.3 Hz up to 3 kHz. As can be seen in Fig. 16, acoustic energy with a wide frequency range and high amplitudes are generated at the discharge point for the first three FCDs. The FCD frequency is most distinctly observed in higher frequencies (band 8th) at ~3 kHz. Plotting the PSD of band eight shows that the last FCD near the toe has dissimilar performance to the first three FCDs.</anchoringText>
+<image-wrap id="102118181431MS-Img_SPi-16">
+<label>Figure 16</label><imageLink type="mediaResource" href="102118181431MS_i_16.tif" id="ImgLink-16" />
+<caption>(a) Well “A” DAS spectrogram plot for 8 frequency bands color map in dB, (b) PSD plot for band 8th (c) temperature profile at well injection rate 1400 BSPD and steam quality 63%</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>(a) Well “A” DAS spectrogram plot for 8 frequency bands color map in dB, (b) PSD plot for band 8th (c) temperature profile at well injection rate 1400 BSPD and steam quality 63%</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-16a">
+<imageLink type="mediaResource" href="102118181431MS_i_16a.tif" id="ImgLink-16a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Well &#x201C;A&#x201D; DAS spectrogram plot for 8 frequency bands color map in dB</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-16b">
+<imageLink type="mediaResource" href="102118181431MS_i_16b.tif" id="ImgLink-16b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>PSD plot for band 8th</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-16c">
+<imageLink type="mediaResource" href="102118181431MS_i_16c.tif" id="ImgLink-16c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>temperature profile at well injection rate 1400 BSPD and steam quality 63%</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="20" figure-order="17" data-type-order="19">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr20">Similar analysis for well "B" is shown in Fig. 17. In well "B" the majority of acoustic energy occurs in the heel region, indicating steam is injected more to the heel than toe region. The acoustic energy in band 3 also indicates that acoustic energy propagates preferentially upstream of the FCDs and toward the heel. In contrast to well "A", a sudden temperature drop around the FCDs does not occur in well "B", which indicates more liquid presence in this well and counter-current flow to heel direction.</anchoringText>
+<image-wrap id="102118181431MS-Img_SPi-17">
+<label>Figure 17</label><imageLink type="mediaResource" href="102118181431MS_i_17.tif" id="ImgLink-17" />
+<caption>(a) Well “B” DAS spectrogram plot for 8 frequency bands color map in dB, (b) PSD plot for band 8th (c) temperature profile at well injection rate 1100 BSPD, and steam quality 66%</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>(a) Well “B” DAS spectrogram plot for 8 frequency bands color map in dB, (b) PSD plot for band 8th (c) temperature profile at well injection rate 1100 BSPD, and steam quality 66%</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-17a">
+<imageLink type="mediaResource" href="102118181431MS_i_17a.tif" id="ImgLink-17a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Well &#x201C;B&#x201D; DAS spectrogram plot for 8 frequency bands color map in dB</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-17b">
+<imageLink type="mediaResource" href="102118181431MS_i_17b.tif" id="ImgLink-17b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>PSD plot for band 8th</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-17c">
+<imageLink type="mediaResource" href="102118181431MS_i_17c.tif" id="ImgLink-17c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>temperature profile at well injection rate 1100 BSPD, and steam quality 66%</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="22" figure-order="18" data-type-order="20">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr21">Fig. 18 illustrates induced slug tracking on DTS and DAS waterfall plots simultaneously. Perturbations in steam generation operations result in slugs propagating down-hole. In Fig. 18(a) the surface injection rate, quality, and pressure data indicate slugging of all three parameters. In Fig. 18(b) and (c) the slugs can be seen propagating in the annulus from the exit points of the nozzles in FCD2, FCD3 and FCD4.</anchoringText>
+<image-wrap id="102118181431MS-Img_SPi-18">
+<label>Figure 18</label><imageLink type="mediaResource" href="102118181431MS_i_18.tif" id="ImgLink-18" />
+<caption>(a) Steam surface injection data during induced slug period, (b) DTS waterfall plot (c) DAS waterfall plot in 2nd frequency band.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>(a) Steam surface injection data during induced slug period, (b) DTS waterfall plot (c) DAS waterfall plot in 2nd frequency band.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-18a">
+<imageLink type="mediaResource" href="102118181431MS_i_18a.tif" id="ImgLink-18a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Steam surface injection data during induced slug period</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-18b">
+<imageLink type="mediaResource" href="102118181431MS_i_18b.tif" id="ImgLink-18b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>DTS waterfall plot</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-18c">
+<imageLink type="mediaResource" href="102118181431MS_i_18c.tif" id="ImgLink-18c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>DAS waterfall plot in 2nd frequency band</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="23" figure-order="19" data-type-order="21">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr22">Fig. 19(a) and (b) show the up-going, down-going speed of sound and bulk fluid velocity calculation from the Doppler shift algorithm. The generated speed of sound is several orders of magnitude larger than water or steam speed of sound velocities and is very close to the speed of sound in metal (i.e. steel tubing). Even though clear up-going and down-going speed of sound was identified, this algorithm did not provide reasonable velocities for a steam injection flow profile. The calculated bulk velocity does yield an acceptable result near the wellhead. In Fig. 19(b) the red circle is the bulk fluid velocity in the tubing at the surface calculated from the injection rate, pressure and steam quality, which is in good agreement with the calculated velocity from the Doppler shift algorithm.</anchoringText>
+<image-wrap id="102118181431MS-Img_SPi-19">
+<label>Figure 19</label><imageLink type="mediaResource" href="102118181431MS_i_19.tif" id="ImgLink-19" />
+<caption>(a) Down-going and up-going speed of sound (b) bulk fluid velocity calculation from Doppler shift algorithm. Red lines are the locations of FCDs, green line is the location of packer. The red circle is the reference injection velocity calculated at the wellhead.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>(a) Down-going and up-going speed of sound (b) bulk fluid velocity calculation from Doppler shift algorithm. Red lines are the locations of FCDs, green line is the location of packer. The red circle is the reference injection velocity calculated at the wellhead.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-19a">
+<imageLink type="mediaResource" href="102118181431MS_i_19a.tif" id="ImgLink-19a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Down-going and up-going speed of sound</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-19b">
+<imageLink type="mediaResource" href="102118181431MS_i_19b.tif" id="ImgLink-19b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>bulk fluid velocity calculation from Doppler shift algorithm</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="23" figure-order="20" data-type-order="22">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr23">Fig.20 (a)-(c) depicts the reservoir temperature and steam saturation from a history matched reservoir simulation model and a 2D Kriging of temperature observation wells (TOW) data for the two experimental steam injectors. There is a good agreement between the reservoir simulation model and the TOW data. There have been only minor adjustments to the simulation model to obtain an acceptable history match, which honors the detailed geology, saturations, and pressures encountered when the experimental injectors and TOWs were drilled. In well "A", the steam chest has preferentially developed toward the toe, while in well "B" the steam chest is more developed in the heel region.</anchoringText>
+<image-wrap id="102118181431MS-Img_SPi-20">
+<label>Figure 20</label><imageLink type="mediaResource" href="102118181431MS_i_20.tif" id="ImgLink-20" />
+<caption>(a) History matched simulation model results for reservoir temperature (b) history matched simulation model results for reservoir steam saturation profile (c) 2D kriging map of temperature observation wells (TOWs) data</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>(a) History matched simulation model results for reservoir temperature (b) history matched simulation model results for reservoir steam saturation profile (c) 2D kriging map of temperature observation wells (TOWs) data</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-20a">
+<imageLink type="mediaResource" href="102118181431MS_i_20a.tif" id="ImgLink-20a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>History matched simulation model results for reservoir temperature</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-20b">
+<imageLink type="mediaResource" href="102118181431MS_i_20b.tif" id="ImgLink-20b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>history matched simulation model results for reservoir steam saturation profile</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181431MS-Img_SPi-20c">
+<imageLink type="mediaResource" href="102118181431MS_i_20c.tif" id="ImgLink-20c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>2D kriging map of temperature observation wells (TOWs) data</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

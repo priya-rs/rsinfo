@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118183198MS.txt" extractionDate="2021-03-27T10:19:18Z">
+<doi>10.2118/183198-MS</doi>
+<pii>10.2118/183198-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">To support the development of the UAE’s oil and gas reserves, enhance production capacity toward a goal of 3.5 million barrels per day, and reduce gas imports for the country as a whole, ADMA-OPCO recently engaged in significant exploration and appraisal activity. Several oil and gas assets, identified decades ago but not yet developed, underwent detailed evaluation (Fig. 1). These targets include marginal fields and deeper, tighter reservoirs, which present many significant challenges.</anchoringText>
+<image-wrap id="102118183198MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118183198MS_i_1.tif" id="ImgLink-1" />
+<caption>UAE developed and undeveloped oil and gas fields (US Energy Information Administration, October 2015).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>UAE developed and undeveloped oil and gas fields (US Energy Information Administration, October 2015).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">Although a large number of formations in the offshore UAE are hydrocarbon-bearing (Fig. 2), their development faces three major challenges: reservoirs exhibit significant vertical and lateral heterogeneity in petrophysical properties and reservoire fluids, which makes properties estimation from nearby analogs challenging; hydrocarbon fluids are associated with significant amounts of corrosive gases (H2S and CO2), which impacts both test design and choice of applicable procedures; and numerous fields and formations are being evaluated concurrently, which places great demands on engineering management of operations planning, execution, and interpretation.</anchoringText>
+<image-wrap id="102118183198MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118183198MS_i_2.tif" id="ImgLink-2" />
+<caption>UAE stratigraphic column (Pollastro 2003).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>UAE stratigraphic column (<link href="BIB1">Pollastro 2003</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-11" type="bib">
+<bib id="BIB1">
+<label>Pollastro, 2003</label>
+<author>
+<first-name>R. M.</first-name>
+<last-name>Pollastro</last-name>
+</author>, <pubDate>2003</pubDate>. <article-title>Total Petroleum Systems of the Paleozoic and Jurassic, Greater Ghawar Uplift and Adjoining Provinces of Central Saudi Arabia and Northern Arabian-Persian Gulf</article-title>, <journal-title>
+<i>USGS Bulletin</i>
+</journal-title> 2202-H, Vol. <volume>1</volume>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">The selected wireless telemetry system uses the DST string as a medium for acoustic signal transmission between downhole modems connected to gauges or test tools and a surface node wired to a data acquisition system. The signal can be transmitted across a distance of up to 2,000 ft, but repeaters are typically placed every 1,000 ft to ensure redundancy and continuity of data transmission. Key downhole communication nodes are part of the deployed tools, whereas repeaters are clamped to the DST string during run-in-hole operations. A typical string is shown on Fig. 3.</anchoringText>
+<image-wrap id="102118183198MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118183198MS_i_3.tif" id="ImgLink-3" />
+<caption>Typical wireless-enabled DST string showing surface and subsea setup (a), tubing (b), and bottomhole assembly (c).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Typical wireless-enabled DST string showing surface and subsea setup (a), tubing (b), and bottomhole assembly (c).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183198MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118183198MS_i_3a.tif" id="ImgLink-3a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Typical wireless-enabled DST string showing surface and subsea setup</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183198MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118183198MS_i_3b.tif" id="ImgLink-3b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>tubing</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183198MS-Img_SPi-3c">
+<imageLink type="mediaResource" href="102118183198MS_i_3c.tif" id="ImgLink-3c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>bottomhole assembly</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">During tests performed with SRO, a real-time data transmission system was deployed, sending data from the wellsite to a secure server, from which it could be visualized and downloaded by experts in town, either via a web-based system or using dedicated viewers (Fig. 4).</anchoringText>
+<image-wrap id="102118183198MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118183198MS_i_4.tif" id="ImgLink-4" />
+<caption>Remote data visualization dashboard.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Remote data visualization dashboard.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">A more important validation could only be performed at the end of the test (when memory gauges had been retrieved at surface and their data recovered) by comparing memory readings to those transmitted at surface. This confirmed that the data available at surface was not altered by the telemetry system and remained within the resolution of transmission (0.001 psi) throughout the test, as shown on Fig. 5.</anchoringText>
+<image-wrap id="102118183198MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118183198MS_i_5.tif" id="ImgLink-5" />
+<caption>Comparison of surface readout data (SRO) with memory data (Well A, Test #1).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Comparison of surface readout data (SRO) with memory data (Well A, Test #1).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">This enables the acquisition of data comparable in interpretability between memory data and that available while operations are ongoing with the wireless telemetry system. Fig. 6 shows a comparison of the log-log plot of pressure and the pressure derivative between memory data acquired at 1 Hz and data available for interpretation at the well site and in the offices in town during operations.</anchoringText>
+<image-wrap id="102118183198MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118183198MS_i_6.tif" id="ImgLink-6" />
+<caption>Comparison of pressure and derivative between surface readout and memory data (Well A, Test #2).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Comparison of pressure and derivative between surface readout and memory data (Well A, Test #2).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">The second step, when applicable and if not performed before running the DST string in hole is to perforate the target interval(s) and establish communication with the formation. The pressure response can be taken as a strong indicator of valve closure and opening, creation of static underbalance, reception of pressure pulse used to trigger the firing head, or confirmation of firing itself. This sequence is illustratedin Fig. 7.</anchoringText>
+<image-wrap id="102118183198MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118183198MS_i_7.tif" id="ImgLink-7" />
+<caption>Review of firing sequence via SRO (Well A, Test #1).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Review of firing sequence via SRO (Well A, Test #1).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">In addition, temperature data is also very useful to identify when injected fluids pumped at cooler temperature from surface are passing the gauge and arriving at the formation to be stimulated. An example is presented in Fig. 8. This example clearly illustrates the drop in injection pressure as the acid reacts with the formation and eases inflow during bullheading operations, demonstrating the success of stimulation operations.</anchoringText>
+<image-wrap id="102118183198MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118183198MS_i_8.tif" id="ImgLink-8" />
+<caption>Review of stimulation operations (Well B, Test #4).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Review of stimulation operations (Well B, Test #4).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">The pressure response as well as the log-log plot of pressure drop and derivative during the buildupise presented on Fig. 9. The buildup was clean and easy to interpret, even considering the uncertainty in input flow rates. The response showed that the primary reason for the minimal flow rates was the tightness of the formation, with only a moderate skin factor.</anchoringText>
+<image-wrap id="102118183198MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118183198MS_i_9.tif" id="ImgLink-9" />
+<caption>Prestimulation flow sequence (a) and log-log response (b) (Well A, Test #1).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Prestimulation flow sequence (a) and log-log response (b) (Well A, Test #1).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183198MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118183198MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Prestimulation flow sequence</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183198MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118183198MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>log-log response</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">The lift model was built from the actual DST string design, used the quick-look analysis result to obtain an estimate of well and formation properties, and thus estimated rates ahead of time. Furthermore, the well performance model could be tuned from the availability of downhole as well as surface data, leading to relevant prediction performances (Fig. 10).</anchoringText>
+<image-wrap id="102118183198MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118183198MS_i_10.tif" id="ImgLink-10" />
+<caption>Nodal analysis model built from early data during the test (Well A, Test #2).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Nodal analysis model built from early data during the test (Well A, Test #2).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

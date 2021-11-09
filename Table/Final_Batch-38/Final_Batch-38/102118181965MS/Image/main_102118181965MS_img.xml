@@ -1,0 +1,561 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118181965MS.txt" extractionDate="2021-03-22T14:39:34Z">
+<doi>10.2118/181965-MS</doi>
+<pii>10.2118/181965-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">Using the finite-difference method of one of the most common computational simulators (Eclipse Schlumberger), a case of entering a low-permeable reservoir (Kper&#x003C;1 mD) by a horizontal well, which penetrated two superconductive vertical intervals (Kper&#x003E;&#x003E;100 mD) spreading deep down the stratum to the distance significantly exceeding the borehole diameter (Wf&#x003C;Rwell, Xf&#x003E;&#x003E;Rwell) was analyzed on a fine screen. Actually, the case of penetration of two subvertical conductive macrofractures is simulated (figure 1).</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-1">
+<label>Figure 1</label>
+<imageLink type="mediaResource" href="102118181965MS_i_1.tif" id="ImgLink-1" />
+<caption>Model of HW in a Low-Permeable Reservoir. Colour graduation - pressure in bars. White lines - cell contacts</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Model of HW in a Low-Permeable Reservoir. Colour graduation - pressure in bars. White lines - cell contacts</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">Several modeling sessions with varying half the length of the fractures and the effective length of the horizontal hole were carried out. Based on the results, even in the case of filtration at the maximum HW length for the experiment (750 m) and the minimum size of fractures (5 m), the share of the latter in the total well stream exceeds 50% all the same (Figure 2). Flowrate distribution along the hole length is shown in Figure 3.</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-2">
+<label>Figure 3.2</label>
+<imageLink type="mediaResource" href="102118181965MS_i_2.tif" id="ImgLink-2" />
+<caption>Dependence Diagrams of the Fracture Share in the Total Well Flowrate with Various Correlation of Computational Model Parameters. A) Dependence of the share of inflow from fractures to the horizontal hole with the fixed length (500 m) at various half-lengths of fractures. B) Dependence of the share of fractures with the fixed half-length (10 m) in the total volume inflow at various lengths of the horizontal section of the borehole</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3.2</caption-order>
+<caption-text>Dependence Diagrams of the Fracture Share in the Total Well Flowrate with Various Correlation of Computational Model Parameters. A) Dependence of the share of inflow from fractures to the horizontal hole with the fixed length (500 m) at various half-lengths of fractures. B) Dependence of the share of fractures with the fixed half-length (10 m) in the total volume inflow at various lengths of the horizontal section of the borehole</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181965MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118181965MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Dependence of the share of inflow from fractures to the horizontal hole
+with the fixed length (500 m) at various half-lengths of fractures</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181965MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118181965MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Dependence of the share of fractures with the fixed half-length (10 m) in the total volume inflow at various lengths of the horizontal section of the borehole</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Several modeling sessions with varying half the length of the fractures and the effective length of the horizontal hole were carried out. Based on the results, even in the case of filtration at the maximum HW length for the experiment (750 m) and the minimum size of fractures (5 m), the share of the latter in the total well stream exceeds 50% all the same (Figure 2). Flowrate distribution along the hole length is shown in Figure 3.</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-3">
+<label>Figure 3.3</label>
+<imageLink type="mediaResource" href="102118181965MS_i_3.tif" id="ImgLink-3" />
+<caption>Graph of Distribution of Specific Flowrate across the Horizontal Section of the Borehole for a Hole 500 Meter Long and Fractures with Half-Length of 50 Meters Peaks correspond to fracture position in the computational model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3.3</caption-order>
+<caption-text>Graph of Distribution of Specific Flowrate across the Horizontal Section of the Borehole for a Hole 500 Meter Long and Fractures with Half-Length of 50 Meters Peaks correspond to fracture position in the computational model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">The main site of the above mentioned field (hereinafter referred to as NGKM-1) is a massive carbonate deposit (Figure 4) lithologically sealed and represented by a wide range of carbonate rocks, non-uniform as to lithology and reservoir porosity and permeability.</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-4">
+<label>Figure 4</label>
+<imageLink type="mediaResource" href="102118181965MS_i_4.tif" id="ImgLink-4" />
+<caption>Geological Column NGKM-1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Geological Column NGKM-1</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">Additional specific features are availability of two types of fluid contacts (GOC, WOC), hydrogen sulphide content in the product, as well as abundance of faults throughout the occurrence area (Figure 5) and heavy compartmentalization of the reservoir. The latter fact played an important role in determination of the process solution for the field drilling using horizontal (subhorizontal) wells to ensure full involvement of all veins (Figure 6).</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-5">
+<label>Figure 5</label>
+<imageLink type="mediaResource" href="102118181965MS_i_5.tif" id="ImgLink-5" />
+<caption>Reservoir Pressure Map Tile of Stratum P1art of NGKM-1. Red lines indicate the largest faults</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Reservoir Pressure Map Tile of Stratum P1art of NGKM-1. Red lines indicate the largest faults</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">Additional specific features are availability of two types of fluid contacts (GOC, WOC), hydrogen sulphide content in the product, as well as abundance of faults throughout the occurrence area (Figure 5) and heavy compartmentalization of the reservoir. The latter fact played an important role in determination of the process solution for the field drilling using horizontal (subhorizontal) wells to ensure full involvement of all veins (Figure 6).</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-6">
+<label>Figure 6</label>
+<imageLink type="mediaResource" href="102118181965MS_i_6.tif" id="ImgLink-6" />
+<caption>Illustration of a Typical Hole Path at NGKM-1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Illustration of a Typical Hole Path at NGKM-1</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">Well stock is also covered by a wide range of studies including such advanced survey methods as formation microimagers, apart from the standard well logging set and a large amount of core data (Figure 7). It shall be noted that the surveys using formation microimagers were only carried out in pilot horizontal boreholes with the view to determine the fracture propagation azimuth at a separate field site to adjust the direction of certain horizontal holes. It impeded well logging and FMI data correlation.</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-7">
+<label>Figure 7</label>
+<imageLink type="mediaResource" href="102118181965MS_i_7.tif" id="ImgLink-7" />
+<caption>Image Sweep Based on Logging Data for One of the Wells at NGKM-1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Image Sweep Based on Logging Data for One of the Wells at NGKM-1</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">However, despite thorough refinement of the survey programme, involving experts of the subsoil user, contactor and R&amp;D center, the study results were not satisfactory (Figures 8-9).</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-8">
+<label>Figure 8</label>
+<imageLink type="mediaResource" href="102118181965MS_i_8.tif" id="ImgLink-8" />
+<caption>Results of Combination of Initial Data (Dots) and Model Curves (Lines) for the Pressure Buildup Curve Cycle. The top of the graphs is a bottom-hole pressure change curve (atm.), the bottom – liquid rate curves</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Results of Combination of Initial Data (Dots) and Model Curves (Lines) for the Pressure Buildup Curve Cycle. The top of the graphs is a bottom-hole pressure change curve (atm.), the bottom – liquid rate curves</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">However, despite thorough refinement of the survey programme, involving experts of the subsoil user, contactor and R&amp;D center, the study results were not satisfactory (Figures 8-9).</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-9">
+<label>Figure 9</label>
+<imageLink type="mediaResource" href="102118181965MS_i_9.tif" id="ImgLink-9" />
+<caption>Log-Log Graph of the Pressure Buildup Curve Cycle</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Log-Log Graph of the Pressure Buildup Curve Cycle</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">As the result, the impact produced by the afterflow coefficient was significantly reduced, which fact enabled tracing of flow regime formation at the wells, starting from the first minute of shutdown (Figures 10-11).</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-10">
+<label>Figure 10</label>
+<imageLink type="mediaResource" href="102118181965MS_i_10.tif" id="ImgLink-10" />
+<caption>Graph of Log-Log Analysis of Pressure Activity at Well **58 at NGKM-1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Graph of Log-Log Analysis of Pressure Activity at Well **58 at NGKM-1</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">As the result, the impact produced by the afterflow coefficient was significantly reduced, which fact enabled tracing of flow regime formation at the wells, starting from the first minute of shutdown (Figures 10-11).</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-11">
+<label>Figure 11</label>
+<imageLink type="mediaResource" href="102118181965MS_i_11.tif" id="ImgLink-11" />
+<caption>Correlation of Log-Log Graphs for the Double Porosity Model (Orange Curves) and the Actual Output for Well **58 at NGKM-1 (Green Curves)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Correlation of Log-Log Graphs for the Double Porosity Model (Orange Curves) and the Actual Output for Well **58 at NGKM-1 (Green Curves)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">The results of the survey programme implementation at more than 20 wells demonstrated, that the pressure derivative in horizontal boreholes (Figure 11) may be interpreted using three main hydrodynamically similar models (Figure 12).</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-12">
+<label>Figure 12</label>
+<imageLink type="mediaResource" href="102118181965MS_i_12.tif" id="ImgLink-12" />
+<caption>Log-Log Derivative Behavior for Well **33-1G at NGKM-1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Log-Log Derivative Behavior for Well **33-1G at NGKM-1</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">According to Fig. 13, the satisfactory combination of model and actual derivatives can be obtained using filtration models, absolutely different in terms of the well design.</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-13">
+<label>Figure 13</label>
+<imageLink type="mediaResource" href="102118181965MS_i_13.tif" id="ImgLink-13" />
+<caption>Results of Combination of Actual and Model Data for Various Filtration Models</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Results of Combination of Actual and Model Data for Various Filtration Models</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr14">This fact is due to phase segregation in the horizontal hole section at low flowrate (Figure 14).</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-14">
+<label>Figure 3.14</label>
+<imageLink type="mediaResource" href="102118181965MS_i_14.tif" id="ImgLink-14" />
+<caption>Phase Segregation in the Horizontal Hole Section at Various Flow Rates and Inclination Values according to Schlumberger</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3.14</caption-order>
+<caption-text>Phase Segregation in the Horizontal Hole Section at Various Flow Rates and Inclination Values according to Schlumberger</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="15" data-type-order="15">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr15">At the first stage of studies, wells located at considerable distance from one another were selected in the areas of interest at the field (Figure 15). Well selection was based on subsurface uncertainty and process capability of work performance.</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-15">
+<label>Figure 15</label>
+<imageLink type="mediaResource" href="102118181965MS_i_15.tif" id="ImgLink-15" />
+<caption>NGKM-1 Map Tile by the Coherence Attribute The paths of holes from the first well logging group are highlighted in red</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>NGKM-1 Map Tile by the Coherence Attribute The paths of holes from the first well logging group are highlighted in red</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="16" data-type-order="16">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr16">In all wells, where logging was carried out, the predicted performance of the main field geophysical control methods was observed. Primarily, there were registered characteristic changes in grainsize analysis methods and barometry methods in accordance with the borehole path, i.e. display of high- or low-density fluid accumulation (dielectric permeability, conductivity) in the upper and lower intervals of the path, respectively. Temperature logs demonstrated remarkable local negative anomalies, which confirmed previously stated hypotheses of impact produced by local inflows on the well performance (Figures 16-21).</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-16">
+<label>Figure 16</label>
+<imageLink type="mediaResource" href="102118181965MS_i_16.tif" id="ImgLink-16" />
+<caption>Example of a Composite Log for Completed Well Logging</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Example of a Composite Log for Completed Well Logging</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="17" data-type-order="17">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr17">In all wells, where logging was carried out, the predicted performance of the main field geophysical control methods was observed. Primarily, there were registered characteristic changes in grainsize analysis methods and barometry methods in accordance with the borehole path, i.e. display of high- or low-density fluid accumulation (dielectric permeability, conductivity) in the upper and lower intervals of the path, respectively. Temperature logs demonstrated remarkable local negative anomalies, which confirmed previously stated hypotheses of impact produced by local inflows on the well performance (Figures 16-21).</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-17">
+<label>Figure 17</label>
+<imageLink type="mediaResource" href="102118181965MS_i_17.tif" id="ImgLink-17" />
+<caption>Example of a Composite Log for Completed Well Logging</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Example of a Composite Log for Completed Well Logging</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="18" data-type-order="18">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr18">In all wells, where logging was carried out, the predicted performance of the main field geophysical control methods was observed. Primarily, there were registered characteristic changes in grainsize analysis methods and barometry methods in accordance with the borehole path, i.e. display of high- or low-density fluid accumulation (dielectric permeability, conductivity) in the upper and lower intervals of the path, respectively. Temperature logs demonstrated remarkable local negative anomalies, which confirmed previously stated hypotheses of impact produced by local inflows on the well performance (Figures 16-21).</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-18">
+<label>Figure 18</label>
+<imageLink type="mediaResource" href="102118181965MS_i_18.tif" id="ImgLink-18" />
+<caption>Example of a Composite Log for Completed Well Logging</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Example of a Composite Log for Completed Well Logging</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="19" data-type-order="19">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr19">In all wells, where logging was carried out, the predicted performance of the main field geophysical control methods was observed. Primarily, there were registered characteristic changes in grainsize analysis methods and barometry methods in accordance with the borehole path, i.e. display of high- or low-density fluid accumulation (dielectric permeability, conductivity) in the upper and lower intervals of the path, respectively. Temperature logs demonstrated remarkable local negative anomalies, which confirmed previously stated hypotheses of impact produced by local inflows on the well performance (Figures 16-21).</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-19">
+<label>Figure 19</label>
+<imageLink type="mediaResource" href="102118181965MS_i_19.tif" id="ImgLink-19" />
+<caption>Example of a Composite Log for Completed Well Logging</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Example of a Composite Log for Completed Well Logging</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="20" data-type-order="20">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr20">In all wells, where logging was carried out, the predicted performance of the main field geophysical control methods was observed. Primarily, there were registered characteristic changes in grainsize analysis methods and barometry methods in accordance with the borehole path, i.e. display of high- or low-density fluid accumulation (dielectric permeability, conductivity) in the upper and lower intervals of the path, respectively. Temperature logs demonstrated remarkable local negative anomalies, which confirmed previously stated hypotheses of impact produced by local inflows on the well performance (Figures 16-21).</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-20">
+<label>Figure 20</label>
+<imageLink type="mediaResource" href="102118181965MS_i_20.tif" id="ImgLink-20" />
+<caption>Example of a Composite Log for Completed Well Logging with Distributed Water-Cut Logging</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Example of a Composite Log for Completed Well Logging with Distributed Water-Cut Logging</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="21" data-type-order="21">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr21">In all wells, where logging was carried out, the predicted performance of the main field geophysical control methods was observed. Primarily, there were registered characteristic changes in grainsize analysis methods and barometry methods in accordance with the borehole path, i.e. display of high- or low-density fluid accumulation (dielectric permeability, conductivity) in the upper and lower intervals of the path, respectively. Temperature logs demonstrated remarkable local negative anomalies, which confirmed previously stated hypotheses of impact produced by local inflows on the well performance (Figures 16-21).</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-21">
+<label>Figure 21</label>
+<imageLink type="mediaResource" href="102118181965MS_i_21.tif" id="ImgLink-21" />
+<caption>Example of a Composite Log for Completed Well Logging with Distributed Water-Cut Logging</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>21</caption-order>
+<caption-text>Example of a Composite Log for Completed Well Logging with Distributed Water-Cut Logging</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="20" figure-order="22" data-type-order="22">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr22">Survey carried out in one of the wells, using an imported hardware system (FSI Schlumberger), enabled confirmation of the informative value of domestic analogues regarding high-quality determination of inflow intervals in the current geotechnical conditions (Figure 22).</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-22">
+<label>Figure 22</label>
+<imageLink type="mediaResource" href="102118181965MS_i_22.tif" id="ImgLink-22" />
+<caption>Correlation of composite logs obtained based on the data from imported (left) and domestic (right) hardware</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>22</caption-order>
+<caption-text>Correlation of composite logs obtained based on the data from imported (left) and domestic (right) hardware</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181965MS-Img_SPi-22a">
+<imageLink type="mediaResource" href="102118181965MS_i_22a.tif" id="ImgLink-22a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>imported</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181965MS-Img_SPi-22b">
+<imageLink type="mediaResource" href="102118181965MS_i_22b.tif" id="ImgLink-22b" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>hardware</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="23" data-type-order="23">
+<link href="link-23" type="image" />
+<appendix>
+<linkTarget id="link-23" type="image">
+<anchoringText id="Ancr23">The undeniable advantage of an imported hardware system is availability of a flow meter distributed across the cross-section (Figure 23), which enables determination of the fluid flow rate in various parts of the borehole and assessment of stratification of such fluid in composition by using additional optical sensors. This enables more detailed identification of fluid ingress intervals, as well as quantitative assessment of inflow in some interval.</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-23">
+<label>Figure 23</label>
+<imageLink type="mediaResource" href="102118181965MS_i_23.tif" id="ImgLink-23" />
+<caption>Schematic Layout of the Flowmeter Distributed across the Cross-Section in the Flow Skan Imager (Schlumberger)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>23</caption-order>
+<caption-text>Schematic Layout of the Flowmeter Distributed across the Cross-Section in the Flow Skan Imager (Schlumberger)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="22" figure-order="24" data-type-order="24">
+<link href="link-24" type="image" />
+<appendix>
+<linkTarget id="link-24" type="image">
+<anchoringText id="Ancr24">This method in combination with highly precise temperature logging enables detailing inflow intervals with the best vertical resolution (to dozens of centimeters) and determination of the inflow nature. This method is based on noise sensing in an operating well, and the frequency-amplitude characteristic of noise could indicate the environment of fluid filtration. Applying various mathematical filters to the noise spectrum in the well, the flow intervals can be directly divided by the reservoir matrix (0.3-1 kHz) and by fractures (15-30 kHz) (Figures 24-25).</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-24">
+<label>Figure 24</label>
+<imageLink type="mediaResource" href="102118181965MS_i_24.tif" id="ImgLink-24" />
+<caption>Typical Behavior of the Frequency-Amplitude Spectrum during Well Logging Using the Method of Spectral Noise Logging</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>24</caption-order>
+<caption-text>Typical Behavior of the Frequency-Amplitude Spectrum during Well Logging Using the Method of Spectral Noise Logging</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="23" figure-order="25" data-type-order="25">
+<link href="link-25" type="image" />
+<appendix>
+<linkTarget id="link-25" type="image">
+<anchoringText id="Ancr25">This method in combination with highly precise temperature logging enables detailing inflow intervals with the best vertical resolution (to dozens of centimeters) and determination of the inflow nature. This method is based on noise sensing in an operating well, and the frequency-amplitude characteristic of noise could indicate the environment of fluid filtration. Applying various mathematical filters to the noise spectrum in the well, the flow intervals can be directly divided by the reservoir matrix (0.3-1 kHz) and by fractures (15-30 kHz) (Figures 24-25).</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-25">
+<label>Figure 25</label>
+<imageLink type="mediaResource" href="102118181965MS_i_25.tif" id="ImgLink-25" />
+<caption>Composite Log Based on Well Logging Results Using High-Frequency Temperature Logging and Spectral Noise Logging of Well *3-3G at NGKM-1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>25</caption-order>
+<caption-text>Composite Log Based on Well Logging Results Using High-Frequency Temperature Logging and Spectral Noise Logging of Well *3-3G at NGKM-1</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="24" figure-order="26" data-type-order="26">
+<link href="link-26" type="image" />
+<appendix>
+<linkTarget id="link-26" type="image">
+<anchoringText id="Ancr26">According to the analysis data, previously determined tectonic dislocations and inflow intervals determined in the course of well logging partially coincide (Figures 26-28).</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-26">
+<label>Figure 26</label>
+<imageLink type="mediaResource" href="102118181965MS_i_26.tif" id="ImgLink-26" />
+<caption>Map Tile by the Coherence Attribute with Indicated Borehole Paths (Black Lines) and General Fault Direction (Red Lines). Black areas on the map – zones of determined seismic anisotropy</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>26</caption-order>
+<caption-text>Map Tile by the Coherence Attribute with Indicated Borehole Paths (Black Lines) and General Fault Direction (Red Lines). Black areas on the map – zones of determined seismic anisotropy</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="25" figure-order="27" data-type-order="27">
+<link href="link-27" type="image" />
+<appendix>
+<linkTarget id="link-27" type="image">
+<anchoringText id="Ancr27">According to the analysis data, previously determined tectonic dislocations and inflow intervals determined in the course of well logging partially coincide (Figures 26-28).</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-27">
+<label>Figure 27</label>
+<imageLink type="mediaResource" href="102118181965MS_i_27.tif" id="ImgLink-27" />
+<caption>Borehole Path of Well **15G on a Schematic Geological Section Based on Correlation of Well Log Interpretation Data on Neighboring Wells, Using the Seismic Survey Data. Gas-saturated intervals are highlighted in yellow, oilsaturated intervals - in red, water-saturated intervals - in blue. Dashed line – the fault localized by seismic attributes. Green squares – inflow intervals determined by well logging. The lower interval is determined by indirect indicators</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>27</caption-order>
+<caption-text>Borehole Path of Well **15G on a Schematic Geological Section Based on Correlation of Well Log Interpretation Data on Neighboring Wells, Using the Seismic Survey Data. Gas-saturated intervals are highlighted in yellow, oilsaturated intervals - in red, water-saturated intervals - in blue. Dashed line – the fault localized by seismic attributes. Green squares – inflow intervals determined by well logging. The lower interval is determined by indirect indicators</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="26" figure-order="28" data-type-order="28">
+<link href="link-28" type="image" />
+<appendix>
+<linkTarget id="link-28" type="image">
+<anchoringText id="Ancr28">According to the analysis data, previously determined tectonic dislocations and inflow intervals determined in the course of well logging partially coincide (Figures 26-28).</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-28">
+<label>Figure 28</label>
+<imageLink type="mediaResource" href="102118181965MS_i_28.tif" id="ImgLink-28" />
+<caption>Composite Log Based on Results of Well Logging at Well **15G. Intervals of intensive inflow of gas-oil mixture are put in green squares. The lower interval has no express temperature anomaly, but can be determined by indirect indicators, using the grain-size analysis methods</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>28</caption-order>
+<caption-text>Composite Log Based on Results of Well Logging at Well **15G. Intervals of intensive inflow of gas-oil mixture are put in green squares. The lower interval has no express temperature anomaly, but can be determined by indirect indicators, using the grain-size analysis methods</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="27" figure-order="29" data-type-order="29">
+<link href="link-29" type="image" />
+<appendix>
+<linkTarget id="link-29" type="image">
+<anchoringText id="Ancr29">Nevertheless, despite impossibility of thorough study of nature of fractured inflow intervals, the author managed to update the well stream model for wells studied using the proposed set of studies. The algorithm of surveys is set forth in Fig. 29.</anchoringText>
+<image-wrap id="102118181965MS-Img_SPi-29">
+<label>Figure 29</label>
+<imageLink type="mediaResource" href="102118181965MS_i_29.tif" id="ImgLink-29" />
+<caption>Algorithm of Updating the Well Stream Model for a Horizontal Well with an Open Hole, Based on the Results of Integration of Various-Scale Studies</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>29</caption-order>
+<caption-text>Algorithm of Updating the Well Stream Model for a Horizontal Well with an Open Hole, Based on the Results of Integration of Various-Scale Studies</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

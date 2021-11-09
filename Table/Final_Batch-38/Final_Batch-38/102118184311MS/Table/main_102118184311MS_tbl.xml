@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118184311MS.txt" extractionDate="2021-03-25T10:25:54Z">
+<doi>10.2118/184311-MS</doi>
+<pii>10.2118/184311-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="5">
+<table-wrap id="102118184311MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The maximum injection capacity of the Duke FPSO is 301,700bwpd. There are currently no plans to upgrade this in the near future. The interest of this study is to optimally allocate the available 301,700 bwpd of injection water to the reservoirs so as to improve the recovery while maintaining the reservoir pressures above their respective saturation pressures and delaying water breakthrough and water cut evolution. Tables 1 and 2 below show the water injection allocation for each case.</anchoringText>
+<label>Table 1</label>
+<caption>Water Injection Allocation *Increased *-Reduced Injection, and *-Modified Split compared to base case)</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Water Injection Allocation *Increased *-Reduced Injection, and *-Modified Split compared to base case)</caption-text>
+</formatted-caption>
+<table id="102118184311MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th colspan="7" valign="bottom" align="center">Water Injection Allocation, kbwpd</th>
+</tr>
+<tr>
+<th valign="bottom" align="center">Reservoir</th>
+<th valign="bottom" align="center">Base Case</th>
+<th valign="bottom" align="center">Case I</th>
+<th valign="bottom" align="center">Case II</th>
+<th valign="bottom" align="center">Case III</th>
+<th valign="bottom" align="center">Case IV</th>
+<th valign="bottom" align="center">Case V</th>
+<th valign="bottom" align="center">Case VI</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center">P-Upper</td>
+<td valign="bottom" align="center">140.2</td>
+<td valign="bottom" align="center">150.2</td>
+<td valign="bottom" align="center">140.2</td>
+<td valign="bottom" align="center">150.2</td>
+<td valign="bottom" align="center">160.2</td>
+<td valign="bottom" align="center">140.2</td>
+<td valign="bottom" align="center">160.2</td>
+</tr>
+<tr>
+<td valign="top" align="center">Q-Lower</td>
+<td valign="top" align="center">12.3</td>
+<td valign="top" align="center">12.3</td>
+<td valign="top" align="center">12.3</td>
+<td valign="top" align="center">22.3</td>
+<td valign="top" align="center">12.3</td>
+<td valign="top" align="center">12.3</td>
+<td valign="top" align="center">12.3</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">ST</td>
+<td valign="bottom" align="center">87.5</td>
+<td valign="bottom" align="center">87.5</td>
+<td valign="bottom" align="center">97.5</td>
+<td valign="bottom" align="center">77.5</td>
+<td valign="bottom" align="center">77.5</td>
+<td valign="bottom" align="center">87.5</td>
+<td valign="bottom" align="center">77.5</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">U</td>
+<td valign="bottom" align="center">61.7</td>
+<td valign="bottom" align="center">51.7</td>
+<td valign="bottom" align="center">51.7</td>
+<td valign="bottom" align="center">51.7</td>
+<td valign="bottom" align="center">51.7</td>
+<td valign="bottom" align="center">61.7</td>
+<td valign="bottom" align="center">51.7</td>
+</tr>
+<tr>
+<td valign="top" align="center">Total</td>
+<td valign="top" align="center">301.7</td>
+<td valign="top" align="center">301.7</td>
+<td valign="top" align="center">301.7</td>
+<td valign="top" align="center">301.7</td>
+<td valign="top" align="center">301.7</td>
+<td valign="top" align="center">301.7</td>
+<td valign="top" align="center">301.7</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="5" table-order="2" data-type-order="6">
+<table-wrap id="102118184311MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The maximum injection capacity of the Duke FPSO is 301,700bwpd. There are currently no plans to upgrade this in the near future. The interest of this study is to optimally allocate the available 301,700 bwpd of injection water to the reservoirs so as to improve the recovery while maintaining the reservoir pressures above their respective saturation pressures and delaying water breakthrough and water cut evolution. Tables 1 and 2 below show the water injection allocation for each case.</anchoringText>
+<label>Table 2</label>
+<caption>P-Upper Water Injection Allocation Breakdown</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>P-Upper Water Injection Allocation Breakdown</caption-text>
+</formatted-caption>
+<table id="102118184311MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th colspan="8" valign="top" align="center">P-Upper Water Injection Allocation Breakdown, kbwpd</th>
+</tr>
+<tr>
+<th valign="top" align="center">Tanks</th>
+<th valign="top" align="center">Base Case</th>
+<th valign="top" align="center">Case I</th>
+<th valign="top" align="center">Case II</th>
+<th valign="top" align="center">Case III</th>
+<th valign="top" align="center">Case IV</th>
+<th valign="top" align="center">Case V</th>
+<th valign="top" align="center">Case VI</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">P-North</td>
+<td valign="top" align="center">70.2</td>
+<td valign="top" align="center">80.0</td>
+<td valign="top" align="center">80.2</td>
+<td valign="top" align="center">80.2</td>
+<td valign="top" align="center">90.2</td>
+<td valign="top" align="center">90.2</td>
+<td valign="top" align="center">90.2</td>
+</tr>
+<tr>
+<td valign="top" align="left">P-South</td>
+<td valign="top" align="center">70.0</td>
+<td valign="top" align="center">70.0</td>
+<td valign="top" align="center">70.0</td>
+<td valign="top" align="center">70.0</td>
+<td valign="top" align="center">70.0</td>
+<td valign="top" align="center">50.0</td>
+<td valign="top" align="center">70.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">P-Upper Total</td>
+<td valign="top" align="center">140.2</td>
+<td valign="top" align="center">150.2</td>
+<td valign="top" align="center">140.2</td>
+<td valign="top" align="center">150.2</td>
+<td valign="top" align="center">160.2</td>
+<td valign="top" align="center">140.2</td>
+<td valign="top" align="center">160.2</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="6" table-order="3" data-type-order="8">
+<table-wrap id="102118184311MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3"> </anchoringText>
+<label>Table 3</label>
+<caption>Assumed Economic Parameters</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Assumed Economic Parameters</caption-text>
+</formatted-caption>
+<table id="102118184311MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" align="center">Assumed Economic Parameters</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" bgcolor="#D3DFEE">Crude Price, $/bbl</td>
+<td align="center" bgcolor="#D3DFEE">30</td>
+</tr>
+<tr>
+<td align="center">Interest Rate</td>
+<td align="center">15%</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#D3DFEE">Inflation Rate</td>
+<td align="center" bgcolor="#D3DFEE">7%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="6" table-order="4" data-type-order="9">
+<table-wrap id="102118184311MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4"> </anchoringText>
+<label>Table 4</label>
+<caption>Impact of Injection Water Allocation on Cumulative Production (*-sum of the P-Upper tanks)</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Impact of Injection Water Allocation on Cumulative Production (*-sum of the P-Upper tanks)</caption-text>
+</formatted-caption>
+<table id="102118184311MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th colspan="8" valign="bottom" align="center" bgcolor="#8DB4E3">Estimated Ultimate Recovery, EUR, MMSTB</th>
+</tr>
+<tr>
+<th valign="top" align="center" bgcolor="#B6DDE8">Tanks</th>
+<th valign="top" align="center" bgcolor="#B6DDE8">Base Case</th>
+<th valign="top" align="center" bgcolor="#FCD5B4">Case I</th>
+<th valign="top" align="center" bgcolor="#D7E4BC">Case II</th>
+<th valign="top" align="center" bgcolor="#B8CCE4">Case III</th>
+<th valign="top" align="center" bgcolor="#00B0F0">Case IV</th>
+<th valign="top" align="center" bgcolor="#B6DDE8">Case V</th>
+<th valign="top" align="center" bgcolor="#B6DDE8">Case VI</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DBEEF3">P-North</td>
+<td valign="bottom" align="center">25.1</td>
+<td valign="bottom" align="center" bgcolor="#FCD5B4">25.5</td>
+<td valign="bottom" align="center" bgcolor="#D7E4BC">27.1</td>
+<td valign="bottom" align="center" bgcolor="#B8CCE4">26.0</td>
+<td valign="bottom" align="center" bgcolor="#00B0F0">28.7</td>
+<td valign="bottom" align="center" bgcolor="#FDE9D9">25.9</td>
+<td valign="bottom" align="center" bgcolor="#92D050">23.4</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DBEEF3">P-Cen. West</td>
+<td valign="bottom" align="center">33.4</td>
+<td valign="bottom" align="center" bgcolor="#FCD5B4">36.8</td>
+<td valign="bottom" align="center" bgcolor="#D7E4BC">36.5</td>
+<td valign="bottom" align="center" bgcolor="#B8CCE4">38.7</td>
+<td valign="bottom" align="center" bgcolor="#00B0F0">32.0</td>
+<td valign="bottom" align="center" bgcolor="#FDE9D9">36.3</td>
+<td valign="bottom" align="center" bgcolor="#92D050">35.0</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DBEEF3">P-Cen. East</td>
+<td valign="bottom" align="center">25.7</td>
+<td valign="bottom" align="center" bgcolor="#FCD5B4">24.6</td>
+<td valign="bottom" align="center" bgcolor="#D7E4BC">27.6</td>
+<td valign="bottom" align="center" bgcolor="#B8CCE4">25.6</td>
+<td valign="bottom" align="center" bgcolor="#00B0F0">25.1</td>
+<td valign="bottom" align="center" bgcolor="#FDE9D9">26.5</td>
+<td valign="bottom" align="center" bgcolor="#92D050">27.9</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DBEEF3">P-South</td>
+<td valign="bottom" align="center">57.7</td>
+<td valign="bottom" align="center" bgcolor="#FCD5B4">56.2</td>
+<td valign="bottom" align="center" bgcolor="#D7E4BC">59.0</td>
+<td valign="bottom" align="center" bgcolor="#B8CCE4">56.7</td>
+<td valign="bottom" align="center" bgcolor="#00B0F0">57.7</td>
+<td valign="bottom" align="center" bgcolor="#FDE9D9">57.7</td>
+<td valign="bottom" align="center" bgcolor="#92D050">57.7</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#F2DDDC">P-Upper*</td>
+<td valign="bottom" align="center" bgcolor="#F2DDDC">141.9</td>
+<td valign="bottom" align="center" bgcolor="#F2DDDC">143.1</td>
+<td valign="bottom" align="center" bgcolor="#F2DDDC">150.2</td>
+<td valign="bottom" align="center" bgcolor="#F2DDDC">147.0</td>
+<td valign="bottom" align="center" bgcolor="#F2DDDC">143.6</td>
+<td valign="bottom" align="center" bgcolor="#F2DDDC">146.4</td>
+<td valign="bottom" align="center" bgcolor="#F2DDDC">144.1</td>
+</tr>
+<tr>
+<td valign="top" align="center" bgcolor="#DBEEF3">Q-Lower</td>
+<td valign="top" align="center">17.5</td>
+<td valign="top" align="center" bgcolor="#FCD5B4">12.4</td>
+<td valign="top" align="center" bgcolor="#D7E4BC">18.5</td>
+<td valign="bottom" align="center" bgcolor="#B8CCE4">21.0</td>
+<td valign="top" align="center" bgcolor="#00B0F0">13.9</td>
+<td valign="top" align="center" bgcolor="#FDE9D9">17.8</td>
+<td valign="bottom" align="center" bgcolor="#92D050">16.0</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#DBEEF3">Res. R</td>
+<td align="center">116.3</td>
+<td align="center" bgcolor="#FCD5B4">116.2</td>
+<td align="center" bgcolor="#D7E4BC">114.8</td>
+<td align="center" bgcolor="#B8CCE4">112.9</td>
+<td align="center" bgcolor="#00B0F0">112.2</td>
+<td align="center" bgcolor="#FDE9D9">118.1</td>
+<td align="center" bgcolor="#92D050">115.6</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#DBEEF3">Res. ST</td>
+<td align="center">82.1</td>
+<td align="center" bgcolor="#FCD5B4">80.7</td>
+<td align="center" bgcolor="#D7E4BC">81.8</td>
+<td align="center" bgcolor="#B8CCE4">82.9</td>
+<td align="center" bgcolor="#00B0F0">81.8</td>
+<td align="center" bgcolor="#FDE9D9">82.5</td>
+<td align="center" bgcolor="#92D050">81.3</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DBEEF3">Res. U</td>
+<td valign="bottom" align="center">83.9</td>
+<td valign="bottom" align="center" bgcolor="#FCD5B4">82.0</td>
+<td valign="bottom" align="center" bgcolor="#D7E4BC">85.2</td>
+<td valign="bottom" align="center" bgcolor="#B8CCE4">86.3</td>
+<td valign="bottom" align="center" bgcolor="#00B0F0">83.9</td>
+<td valign="bottom" align="center" bgcolor="#FDE9D9">84.5</td>
+<td valign="bottom" align="center" bgcolor="#92D050">81.8</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DBEEF3">EUR, MMSTB</td>
+<td valign="bottom" align="center">441.7</td>
+<td valign="bottom" align="center" bgcolor="#FCD5B4">434.4</td>
+<td valign="bottom" align="center" bgcolor="#D7E4BC">450.5</td>
+<td valign="bottom" align="center" bgcolor="#B8CCE4">450.1</td>
+<td valign="bottom" align="center" bgcolor="#00B0F0">435.4</td>
+<td valign="bottom" align="center" bgcolor="#FDE9D9">449.3</td>
+<td valign="bottom" align="center" bgcolor="#92D050">438.8</td>
+</tr>
+<tr>
+<td valign="top" align="center" bgcolor="#FFC000">PV@2013, B$</td>
+<td valign="top" align="center" bgcolor="#FFC000">2.943</td>
+<td valign="top" align="center" bgcolor="#FFC000">2.994</td>
+<td valign="top" align="center" bgcolor="#FFC000">2.985</td>
+<td valign="top" align="center" bgcolor="#FFC000">3.037</td>
+<td valign="top" align="center" bgcolor="#FFC000">2.889</td>
+<td valign="top" align="center" bgcolor="#FFC000">2.966</td>
+<td valign="top" align="center" bgcolor="#FFC000">2.980</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

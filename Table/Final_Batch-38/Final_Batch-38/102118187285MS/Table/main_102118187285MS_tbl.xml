@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187285MS.txt" extractionDate="2021-03-26T15:47:08Z">
+<doi>10.2118/187285-MS</doi>
+<pii>10.2118/187285-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="13" table-order="1" data-type-order="7">
+<table-wrap id="102118187285MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">To validate the well testing model proposed in this paper, an MFHW is numerically simulated by use of KAPPA’s Saphir software (Essca 2011) to compare the numerical result with the analytical one. The model proposed in this paper is simplified to conform to the numerical well-testing model, and the parameters are given in Table 1. The horizontal well is assumed to be uniformly intercepted by five vertical hydraulic fractures with same properties (e.g. half-length, width, height, flux, infinite conductivity).</anchoringText>
+<label>Table 1</label>
+<caption>Input parameters for the simulated and semianalytical cases.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Input parameters for the simulated and semianalytical cases.</caption-text>
+</formatted-caption>
+<table id="102118187285MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="left">Parameters</th>
+<th valign="bottom" align="left">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Permeability (md)</td>
+<td valign="bottom" align="left">k<sub>H</sub>=1.0; k<sub>V</sub>=0.1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Porosity (%)</td>
+<td valign="bottom" align="left">10</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Initial oil saturation (%)</td>
+<td valign="bottom" align="left">100</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Formation thickness (m)</td>
+<td valign="bottom" align="left">20</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Compressibility (MPa<sup>-1</sup>)</td>
+<td align="left">1.6×10<sup>-3</sup>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Initial reservoir pressure (MPa)</td>
+<td align="left">18</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Well length (m)</td>
+<td align="left">900</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Wellbore diameter (m)</td>
+<td align="left">0.062</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Production rate (m<sup>3</sup>/d)</td>
+<td align="left">20</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Number of hydraulic fractures</td>
+<td valign="bottom" align="left">5</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Fracture spacing (m)</td>
+<td valign="bottom" align="left">225</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Fracture conductivity (m<sup>3</sup>)</td>
+<td align="left">Infinite</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Individual fracture half-length (m)</td>
+<td align="left">60</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Skin factor</td>
+<td align="left">0</td>
+</tr>
+<tr>
+<td align="left">Oil viscosity (mPa·s)</td>
+<td align="left">1.0</td>
+</tr>
+<tr>
+<td align="left">Oil volume factor (m<sup>3</sup>/m<sup>3</sup>)</td>
+<td align="left">1.0</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="14" table-order="2" data-type-order="10">
+<table-wrap id="102118187285MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">To analyze pressure-transient behavior and flow regimes of an MFHW, we develop the type curve of an MFHW intercepted by multiple nonuniformly distributed and asymmetric fractures with different conductivity and production contribution, as shown in Figure 8. The input parameters are shown in Table 2 and Figure 8.</anchoringText>
+<label>Table 2</label>
+<caption>Some basic parameters for obtaining the type curve of an MFHW.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Some basic parameters for obtaining the type curve of an MFHW.</caption-text>
+</formatted-caption>
+<table id="102118187285MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Parameters</th>
+<th valign="top" align="left">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Formation thickness (m)</td>
+<td valign="top" align="left">20</td>
+</tr>
+<tr>
+<td valign="top" align="left">Porosity (%)</td>
+<td valign="top" align="left">10</td>
+</tr>
+<tr>
+<td valign="top" align="left">Permeability (md)</td>
+<td valign="top" align="left">k<sub>H</sub>=1.0;k<sub>V</sub>=0.1</td>
+</tr>
+<tr>
+<td valign="top" align="left">Well length (m)</td>
+<td valign="top" align="left">1200</td>
+</tr>
+<tr>
+<td valign="top" align="left">Number of hydraulic fractures</td>
+<td valign="top" align="left">5</td>
+</tr>
+<tr>
+<td valign="top" align="left">Dimensionless wellbore-storage coefficient</td>
+<td valign="top" align="left">0.00002</td>
+</tr>
+<tr>
+<td valign="top" align="left">Skin factor</td>
+<td valign="top" align="left">1</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="19" table-order="3" data-type-order="16">
+<table-wrap id="102118187285MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Well testing interpretation of well #A. Fundamental parameters are listed in Table 3.</anchoringText>
+<label>Table 3</label>
+<caption>Fundamental parameters for well #A.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Fundamental parameters for well #A.</caption-text>
+</formatted-caption>
+<table id="102118187285MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Parameters</th>
+<th valign="top" align="left">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Formation thickness (m)</td>
+<td valign="top" align="left">20.5</td>
+</tr>
+<tr>
+<td valign="top" align="left">Porosity (%)</td>
+<td valign="top" align="left">10.6</td>
+</tr>
+<tr>
+<td valign="top" align="left">Total compressibility (MPa<sup>-1</sup>)</td>
+<td valign="top" align="left">1.6×10<sup>-3</sup>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Well length (m)</td>
+<td valign="top" align="left">920</td>
+</tr>
+<tr>
+<td valign="top" align="left">Number of hydraulic fractures</td>
+<td valign="top" align="left">12</td>
+</tr>
+<tr>
+<td valign="top" align="left">Wellbore diameter (m)</td>
+<td valign="top" align="left">0.062</td>
+</tr>
+<tr>
+<td valign="top" align="left">Fluid viscosity (mPa·s)</td>
+<td valign="top" align="left">1.09</td>
+</tr>
+<tr>
+<td valign="top" align="left">Volume factor (m<sup>3</sup>/m<sup>3</sup>)</td>
+<td valign="top" align="left">1.35</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="20" table-order="4" data-type-order="18">
+<table-wrap id="102118187285MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">The field-test type curve matches well with that obtained by the well testing model in this paper except for early regime. The production contribution of each fracture is unequal and concluded in Table 4. The first combined segment contributes more than 40% of total production, followed by the second combined parts (29%) and the fifth combined parts (12%); while other three combined segments contribute no more than 6% to total production rates respectively.</anchoringText>
+<label>Table 4</label>
+<caption>Well testing interpretation results of well #A.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Well testing interpretation results of well #A.</caption-text>
+</formatted-caption>
+<table id="102118187285MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">No. of combined segments</th>
+<th align="center">No. of perforation</th>
+<th valign="bottom" align="center">Production rates of each segment (m<sup>3</sup>/d)</th>
+<th valign="bottom" align="center">Ratio of contribution (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td rowspan="2" align="center">6.71</td>
+<td rowspan="2" align="center">44.6</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<u>2</u>
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">2</td>
+<td valign="bottom" align="center">3</td>
+<td rowspan="2" align="center">4.35</td>
+<td rowspan="2" align="center">29</td>
+</tr>
+<tr>
+<td align="center">
+<u>4</u>
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">3</td>
+<td valign="bottom" align="center">5</td>
+<td rowspan="2" align="center">0.90</td>
+<td rowspan="2" align="center">6</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<u>6</u>
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">4</td>
+<td valign="bottom" align="center">7</td>
+<td rowspan="2" align="center">0.48</td>
+<td rowspan="2" align="center">3.2</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<u>8</u>
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">5</td>
+<td valign="bottom" align="center">9</td>
+<td rowspan="2" align="center">1.80</td>
+<td rowspan="2" align="center">12</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<u>10</u>
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">6</td>
+<td valign="bottom" align="center">11</td>
+<td rowspan="2" align="center">0.78</td>
+<td rowspan="2" align="center">5.2</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<u>12</u>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="center">Total</td>
+<td align="center">15.02</td>
+<td align="center">100.0</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="22" table-order="5" data-type-order="21">
+<table-wrap id="102118187285MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">PLT was conducted to measure downhole flow profile. Results are shown in Figure 16. The phenomenon of nonuniform production is obvious, and well #B only produces water. Specific information can be found in Table 5. It is worth noting that the last four perforations were combined together to obtain a total rate during the process PLT test.</anchoringText>
+<label>Table 5</label>
+<caption>PLT results of well #A.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>PLT results of well #A.</caption-text>
+</formatted-caption>
+<table id="102118187285MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th align="center">No. of perforation</th>
+<th valign="bottom" align="center">Water production (m<sup>3</sup>/d)</th>
+<th align="center">Oil production (m<sup>3</sup>/d)</th>
+<th valign="bottom" align="center">Total production (m<sup>3</sup>/d)</th>
+<th align="center">Water-cut (%)</th>
+<th valign="bottom" align="center">Ratio of contribution (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">1</td>
+<td align="center">2.64</td>
+<td align="center">0.00</td>
+<td align="center">2.64</td>
+<td align="center">100.00</td>
+<td align="center">16.21</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">2</td>
+<td align="center">5.44</td>
+<td align="center">0.00</td>
+<td align="center">5.44</td>
+<td align="center">100.00</td>
+<td align="center">33.39</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">3</td>
+<td align="center">2.49</td>
+<td align="center">0.00</td>
+<td align="center">2.49</td>
+<td align="center">100.00</td>
+<td align="center">15.29</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">4</td>
+<td align="center">1.57</td>
+<td align="center">0.00</td>
+<td align="center">1.57</td>
+<td align="center">100.00</td>
+<td align="center">9.64</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">5</td>
+<td align="center">0.74</td>
+<td align="center">0.00</td>
+<td align="center">0.74</td>
+<td align="center">100.00</td>
+<td align="center">4.54</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">6</td>
+<td align="center">0.41</td>
+<td align="center">0.00</td>
+<td align="center">0.41</td>
+<td align="center">100.00</td>
+<td align="center">2.52</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">7</td>
+<td align="center">0.39</td>
+<td align="center">0.00</td>
+<td align="center">0.39</td>
+<td align="center">100.00</td>
+<td align="center">2.39</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">8</td>
+<td align="center">0.00</td>
+<td align="center">0.00</td>
+<td align="center">0.00</td>
+<td align="center">100.00</td>
+<td align="center">0.00</td>
+</tr>
+<tr>
+<td align="center">9-12</td>
+<td align="center">2.61</td>
+<td align="center">0.00</td>
+<td align="center">2.61</td>
+<td align="center">100.00</td>
+<td align="center">16.02</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Total</td>
+<td align="center">16.29</td>
+<td align="center">0.00</td>
+<td align="center">16.29</td>
+<td align="center">100.00</td>
+<td align="center">100.00</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="22" table-order="6" data-type-order="22">
+<table-wrap id="102118187285MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6">Finally, we compare the results from the well testing and ERT method with those from PLT to validate the reliability of the method proposed in this paper. The total flow rates are not the same because production profile test is earlier than pressure test for about one month. First, we calculate the contribution ratio of each combined segment for two kinds of results according to the data from Table 4 and Table 5 to keep the same standard, shown in Table 6. The results in the pink region have the same trends with those in the blue region, which demonstrates the accuracy of the well testing method in this paper.</anchoringText>
+<label>Table 6</label>
+<caption>Comparison of production distribution between well testing interpretation and PLT results of well #A.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Comparison of production distribution between well testing interpretation and PLT results of well #A.</caption-text>
+</formatted-caption>
+<table id="102118187285MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">No. of combined segments</th>
+<th align="center">No. of perforation</th>
+<th valign="bottom" align="center">Production rates of each segment (m<sup>3</sup>/d)</th>
+<th valign="bottom" align="center">Ratio of contribution (%)</th>
+<th valign="bottom" align="center">Production rates from PLT(m<sup>3</sup>/d)</th>
+<th align="center">Ratio of contribution (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2" align="center">1</td>
+<td align="center">1</td>
+<td rowspan="2" align="center">6.71</td>
+<td rowspan="2" align="center">44.6</td>
+<td rowspan="2" align="center">8.08</td>
+<td rowspan="2" align="center">49.60</td>
+</tr>
+<tr>
+<td align="center">
+<u>2</u>
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">2</td>
+<td valign="bottom" align="center">3</td>
+<td rowspan="2" align="center">4.35</td>
+<td rowspan="2" align="center">29</td>
+<td rowspan="2" align="center">4.06</td>
+<td rowspan="2" align="center">24.93</td>
+</tr>
+<tr>
+<td align="center">
+<u>4</u>
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">3</td>
+<td valign="bottom" align="center">5</td>
+<td rowspan="2" align="center">0.90</td>
+<td rowspan="2" align="center">6</td>
+<td rowspan="2" align="center">1.15</td>
+<td rowspan="2" align="center">7.06</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<u>6</u>
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">4</td>
+<td valign="bottom" align="center">7</td>
+<td rowspan="2" align="center">0.48</td>
+<td rowspan="2" align="center">3.2</td>
+<td rowspan="2" align="center">0.39</td>
+<td rowspan="2" align="center">2.39</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<u>8</u>
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">5</td>
+<td valign="bottom" align="center">9</td>
+<td rowspan="2" align="center">1.80</td>
+<td rowspan="2" valign="bottom" align="center">17.2</td>
+<td rowspan="2" valign="bottom" align="center">2.61</td>
+<td rowspan="2" valign="bottom" align="center">16.02</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<u>10</u>
+</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">6</td>
+<td valign="bottom" align="center">11</td>
+<td rowspan="2" align="center">0.78</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<u>12</u>
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Total</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">15.02</td>
+<td valign="bottom" align="center">100.0</td>
+<td valign="bottom" align="center">16.29</td>
+<td valign="bottom" align="center">100.0</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="23" table-order="7" data-type-order="24">
+<table-wrap id="102118187285MS-tblwrp-7" content-type="structured">
+<anchoringText id="Ancr7">Well testing interpretation of well #B. The fundamental parameters are concluded in Table 7.</anchoringText>
+<label>Table 7</label>
+<caption>Fundamental parameters for well #B.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Fundamental parameters for well #B.</caption-text>
+</formatted-caption>
+<table id="102118187285MS-Tbl_SPi-7" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="left">Parameters</th>
+<th valign="bottom" align="left">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Formation thickness (m)</td>
+<td valign="bottom" align="left">21</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Porosity (%)</td>
+<td valign="bottom" align="left">11.2</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Total compressibility (MPa<sup>-1</sup>)</td>
+<td align="left">1.26×10<sup>-3</sup>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Well length (m)</td>
+<td align="left">820</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Number of hydraulic fractures</td>
+<td valign="bottom" align="left">9</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Wellbore diameter (m)</td>
+<td align="left">0.062</td>
+</tr>
+<tr>
+<td valign="top" align="left">Fluid viscosity (mPa·s)</td>
+<td valign="top" align="left">1.93</td>
+</tr>
+<tr>
+<td align="left">volume factor (m<sup>3</sup>/m<sup>3</sup>)</td>
+<td align="left">1.26</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="24" table-order="8" data-type-order="26">
+<table-wrap id="102118187285MS-tblwrp-8" content-type="structured">
+<anchoringText id="Ancr8">Feld test data match well with the well testing model in this paper except for transitional flow regime and the late period of linearflow regime. Interpretation results of #B and reservoir properties are shown in Table 8. The second and third segments contribute more than 75% so that a nearly horizontal line occurs on the pressure-derivative curve with the value between 0.02 and 0.03, which verifies the former conclusion that the value of the horizontal line is not equal to 0.5/N* when the fractures, located at the heel of horizontal wellbore, produce much less than those at middle locations.</anchoringText>
+<label>Table 8</label>
+<caption>Well testing interpretation results of well #B and reservoir properties around #B.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Well testing interpretation results of well #B and reservoir properties around #B.</caption-text>
+</formatted-caption>
+<table id="102118187285MS-Tbl_SPi-8" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">No. of combined segments</th>
+<th align="center">No. of Perforation</th>
+<th valign="bottom" align="center">Production of each segment (m<sup>3</sup>/d)</th>
+<th align="center">Ratio of contribution (%)</th>
+<th align="center">Porosity (%)</th>
+<th align="center">Permeability (md)</th>
+<th align="center">Oil saturation (%)</th>
+<th align="center">Reservoir property</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4" align="center">1</td>
+<td valign="bottom" align="center">
+<u>1</u>
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td align="center">10.32</td>
+<td align="center">0.17</td>
+<td align="center">61.50</td>
+<td valign="bottom" align="center">Good</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td align="center">1.6</td>
+<td valign="top" align="center">14.3</td>
+<td valign="bottom" align="center">10.43</td>
+<td valign="bottom" align="center">0.19</td>
+<td valign="bottom" align="center">62.76</td>
+<td valign="bottom" align="center">Good</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">2</td>
+<td align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">6.79</td>
+<td valign="bottom" align="center">0.06</td>
+<td align="center">57.70</td>
+<td valign="bottom" align="center">Dry</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td align="center">8.30</td>
+<td align="center">0.09</td>
+<td align="center">59.02</td>
+<td valign="bottom" align="center">Good</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">2</td>
+<td valign="bottom" align="center">
+<u>3</u>
+</td>
+<td rowspan="2" align="center">5.7</td>
+<td rowspan="2" align="center">50.9</td>
+<td valign="bottom" align="center">8.02</td>
+<td valign="bottom" align="center">0.08</td>
+<td valign="bottom" align="center">57.07</td>
+<td valign="bottom" align="center">Good</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">9.53</td>
+<td align="center">0.14</td>
+<td align="center">61.37</td>
+<td valign="bottom" align="center">Good</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">3</td>
+<td valign="bottom" align="center">
+<u>5</u>
+</td>
+<td rowspan="2" align="center">2.9</td>
+<td rowspan="2" align="center">25.8</td>
+<td valign="bottom" align="center">11.17</td>
+<td valign="bottom" align="center">0.23</td>
+<td valign="bottom" align="center">64.90</td>
+<td valign="bottom" align="center">Good</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">6</td>
+<td valign="bottom" align="center">10.60</td>
+<td valign="bottom" align="center">0.22</td>
+<td valign="bottom" align="center">66.49</td>
+<td valign="bottom" align="center">Good</td>
+</tr>
+<tr>
+<td rowspan="3" align="center">4</td>
+<td align="center">
+<u>7</u>
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td align="center">7.03</td>
+<td valign="bottom" align="center">0.06</td>
+<td align="center">61.43</td>
+<td valign="bottom" align="center">Poor</td>
+</tr>
+<tr>
+<td align="center">
+<u>8</u>
+</td>
+<td align="center">1.0</td>
+<td valign="bottom" align="center">9</td>
+<td align="center">11.08</td>
+<td align="center">0.24</td>
+<td align="center">68.95</td>
+<td valign="bottom" align="center">Good</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">9</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td align="center">8.04</td>
+<td align="center">0.08</td>
+<td align="center">59.69</td>
+<td valign="bottom" align="center">Poor</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="center">Total</td>
+<td align="center">11.2</td>
+<td align="center">100</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

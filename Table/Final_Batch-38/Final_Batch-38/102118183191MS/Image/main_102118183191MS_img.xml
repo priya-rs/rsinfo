@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118183191MS.txt" extractionDate="2021-03-27T09:57:09Z">
+<doi>10.2118/183191-MS</doi>
+<pii>10.2118/183191-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="6" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">We illustrate our approach for CO2 flooding using a 2D heterogeneous cross section (Fig. 1). The cross section (200 × 1 × 180 grid) has a fixed porosity of 0.10 and spatially heterogeneous permeability. A producer and an injector with 45 ICVs each have been completed on either sides of the cross section. The large number of ICVs, though off from a practical scenario, is simply used to demonstrate the stability of the workflow under large number of constraints.</anchoringText>
+<image-wrap id="102118183191MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118183191MS_i_1.tif" id="ImgLink-1" />
+<caption>2D cross-section: Permeability distribution and well location</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>2D cross-section: Permeability distribution and well location</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">The base case considers reactive control where production/injection ICV rate equals to 150 RB/D. The production ICVs are shut when their GOR exceeds 100 Mscf/STB. The combined effects of heterogeneity, viscous fingering and gravity segregation lead to preferential CO2 movement towards the top production ICVs in the base case (Fig. 2a). This results in early CO2 breakthrough and reduced sweep efficiency.</anchoringText>
+<image-wrap id="102118183191MS-Img_SPi-2">
+<label>Figure 2</label>
+<imageLink type="mediaResource" href="102118183191MS_i_2.tif" id="ImgLink-2" />
+<caption>(a) Gas saturation after 2 years of CO2 injection for the base case. (b) Corresponding time-of-flight map for the base case</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>(a) Gas saturation after 2 years of CO2 injection for the base case. (b) Corresponding time-of-flight map for the base case</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183191MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118183191MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Gas saturation after 2 years of CO2 injection for the base case</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183191MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118183191MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Corresponding time-of-flight map for the base case</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Figure 3 shows the gas saturation maps at four different times for base case, sweep efficiency maximization (norm weight–0) and acceleration (norm weight–1000). For norm weight of 0, the injection rate is sufficiently low so that the resulting sweep is dominated by the effects of gravitational segregation, thereby creating gravity tongue. The transition zone between oil and gas is relatively thin compared to reservoir thickness as mentioned by Fayers and Muggeridge (1990).</anchoringText>
+<image-wrap id="102118183191MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118183191MS_i_3.tif" id="ImgLink-3" />
+<caption>Gas saturation maps for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–1000) at four different times</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Gas saturation maps for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–1000) at four different times</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">This increases VGR as shown in Fig. 4 and, suppresses the gravity tongue. The VGR has been calculated using geometric mean of permeability for the heterogeneous cross section. Because of low displacement rate, optimization corresponding to norm weight of 0 results in low VGR.</anchoringText>
+<image-wrap id="102118183191MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118183191MS_i_4.tif" id="ImgLink-4" />
+<caption>VGR for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–1000) at different times</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>VGR for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–1000) at different times</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">The cumulative voidage production for ICV-1 of the producer is shown in Fig. 5a for base case, sweep efficiency maximization (norm weight–0) and acceleration (norm weight–1000). ICV-1 gets shut when its GOR exceeds 100 Mscf/STB during base case and sweep efficiency maximization. Increasing the norm weight reduces gravity segregation, thus allowing ICV-1 to produce for a longer duration without CO2 breakthrough. Fig. 5b shows cumulative voidage production for ICV-45 of the producer for respective cases.</anchoringText>
+<image-wrap id="102118183191MS-Img_SPi-5">
+<label>Figure 5</label>
+<imageLink type="mediaResource" href="102118183191MS_i_5.tif" id="ImgLink-5" />
+<caption>(a) Cumulative voidage production for ICV-1 (PROD1) for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–1000). (b) Cumulative voidage production for ICV-45 (PROD1) for respective cases</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>(a) Cumulative voidage production for ICV-1 (PROD1) for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–1000). (b) Cumulative voidage production for ICV-45 (PROD1) for respective cases</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183191MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118183191MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Cumulative voidage production for ICV-1 (PROD1) for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–1000)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183191MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118183191MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Cumulative voidage production for ICV-45 (PROD1) for respective cases</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">Figure 6a shows that the cumulative voidage injection for ICV-1 of injector for sweep efficiency maximization (norm weight–0) is less than that for base case. The cumulative voidage injection for ICV-45 of injector for respective cases is shown in Fig. 6b. ICV-45 gets shut when its injection FBHP exceeds 6000 psia during base case and acceleration. In order to divert CO2 towards lower ICVs, the injection rate from lower ICVs approaches the maximum limit for maximizing sweep efficiency.</anchoringText>
+<image-wrap id="102118183191MS-Img_SPi-6">
+<label>Figure 6</label>
+<imageLink type="mediaResource" href="102118183191MS_i_6.tif" id="ImgLink-6" />
+<caption>(a) Cumulative voidage injection for ICV-1 (INJ1) for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–1000). (b) Cumulative voidage injection for ICV-45 (INJ1) for respective cases</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>(a) Cumulative voidage injection for ICV-1 (INJ1) for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–1000). (b) Cumulative voidage injection for ICV-45 (INJ1) for respective cases</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183191MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118183191MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Cumulative voidage injection for ICV-1 (INJ1) for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–1000)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183191MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118183191MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Cumulative voidage injection for ICV-45 (INJ1) for respective cases</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">The effect of rate optimization on field GOR is in accordance to the ICV performance discussed earlier. The optimal rates corresponding to sweep efficiency maximization (norm weight–0) result in delayed CO2 breakthrough (Fig. 7a). However, the injection and production rates increase during acceleration (norm weight–1000), resulting in early CO2 breakthrough and more CO2 recycling (Fig. 7b).</anchoringText>
+<image-wrap id="102118183191MS-Img_SPi-7">
+<label>Figure 7</label>
+<imageLink type="mediaResource" href="102118183191MS_i_7.tif" id="ImgLink-7" />
+<caption>(a) Field GOR for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–1000). (b) Cumulative field gas production for respective cases</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>(a) Field GOR for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–1000). (b) Cumulative field gas production for respective cases</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183191MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118183191MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Field GOR for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–1000)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183191MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118183191MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Cumulative field gas production for respective cases</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">The increase in oil recovery with maximizing sweep efficiency (norm weight–0) is shown in Fig. 8a. It should be noted that cumulative CO2 injected for maximizing sweep efficiency is significantly less compared to that for base case (Fig. 8b). Acceleration (norm weight–10, 100 and 1000) results in increase in oil recovery owing to improved VGR caused by higher CO2 injection rates.</anchoringText>
+<image-wrap id="102118183191MS-Img_SPi-8">
+<label>Figure 8</label>
+<imageLink type="mediaResource" href="102118183191MS_i_8.tif" id="ImgLink-8" />
+<caption>(a) Oil recovery (w.r.t OOIP) after 20 years of CO2 flood for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–10, 100 and 1000). (b) Cumulative gas injection for respective cases</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>(a) Oil recovery (w.r.t OOIP) after 20 years of CO2 flood for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–10, 100 and 1000). (b) Cumulative gas injection for respective cases</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183191MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118183191MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Oil recovery (w.r.t OOIP) after 20 years of CO2 flood for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–10, 100 and 1000)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183191MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118183191MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Cumulative gas injection for respective cases</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">Figure 9 illustrates the injection efficiency for various norm weights. The optimal rates corresponding to norm weight of 0 increase injection efficiency significantly over base case. The results clearly demonstrate the trade-off between improving recovery by accelerating production and improving injection efficiency by reducing CO2 recycling.</anchoringText>
+<image-wrap id="102118183191MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118183191MS_i_9.tif" id="ImgLink-9" />
+<caption>Injection efficiency for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–10, 100 and 1000)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Injection efficiency for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–10, 100 and 1000)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">The model has been set up to mimic properties of a North Sea Brent-type field. An ensemble of 104 realizations was generated based on well logs and reservoir properties extracted from a high-resolution geologic model. The corase-scale simulation model consists of 60000 grid cells with 9 layers. The model has 20 vertical producers and 10 peripheral injectors as shown in Fig. 10.</anchoringText>
+<image-wrap id="102118183191MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118183191MS_i_10.tif" id="ImgLink-10" />
+<caption>Permeability distribution and well location for Brugge field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Permeability distribution and well location for Brugge field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">The three different levels of constraints used during optimization are shown in Fig. 11. The model has 53 production ICVs and 30 injection ICVs in total.</anchoringText>
+<image-wrap id="102118183191MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118183191MS_i_11.tif" id="ImgLink-11" />
+<caption>Hierarchical production and facility related constraints considered for rate optimization</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Hierarchical production and facility related constraints considered for rate optimization</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">The base case considers reactive control where producers/injectors are operated at their maximum capacity subject to constraints mentioned earlier. The producers are shut as their water-cut exceeds 90% or GOR exceeds 100 Mscf/STB. The second row in Fig. 12 shows the residual oil saturation for layer 1, 4 and 8 at the end of 30 years of field production.</anchoringText>
+<image-wrap id="102118183191MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118183191MS_i_12.tif" id="ImgLink-12" />
+<caption>Oil saturation after 20 years of CO2 flood for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–10000)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Oil saturation after 20 years of CO2 flood for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–10000)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="12" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">Figure 13a shows the increasing trend of ‘incremental oil recovery’ with rate optimization for norm weights of 0 and 10000. The recovery shown in the figure corresponds to production during later 20 years w.r.t. OIIP. It should be noted that cumulative CO2 injected for sweep efficiency maximization (norm weight–0) is less compared to that for the base case (Fig. 13b). Acceleration (norm weight–10000) results in increase in oil recovery owing to improved VGR caused by higher CO2 injection rates.</anchoringText>
+<image-wrap id="102118183191MS-Img_SPi-13">
+<label>Figure 13</label>
+<imageLink type="mediaResource" href="102118183191MS_i_13.tif" id="ImgLink-13" />
+<caption>(a) Incremental oil recovery (w.r.t OOIP) for 20 years of CO2 flood for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–10000). (b) Cumulative gas injection for respective cases</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>(a) Incremental oil recovery (w.r.t OOIP) for 20 years of CO2 flood for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–10000). (b) Cumulative gas injection for respective cases</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183191MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118183191MS_i_13a.tif" id="ImgLink-13a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Incremental oil recovery (w.r.t OOIP) for 20 years of CO2 flood for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–10000)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183191MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118183191MS_i_13b.tif" id="ImgLink-13b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Cumulative gas injection for respective cases</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr14">The increase in injection efficiency with sweep efficiency maximization, as shown in Fig. 14, demonstrates the practical viability of our approach. Production acceleration, however, results in higher recovery at the expense of injection efficiency.</anchoringText>
+<image-wrap id="102118183191MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118183191MS_i_14.tif" id="ImgLink-14" />
+<caption>Injection efficiency for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–10000)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Injection efficiency for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–10000)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="15" data-type-order="15">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr15">The realization from the previous case for single realization optimization was considered as reference realization. We considered 10 history matched realizations (including reference realization) of the model for rate optimization. The optimization was carried out using the formulation discussed earlier, under risk neutral conditions (r–0). Figure 15 shows the permeability in the top layer for each of those 10 realizations to illustrate the spread in property distribution amongst the realizations.</anchoringText>
+<image-wrap id="102118183191MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118183191MS_i_15.tif" id="ImgLink-15" />
+<caption>Permeability (layer 1) for 10 history matched realizations used in stochastic optimization</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Permeability (layer 1) for 10 history matched realizations used in stochastic optimization</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="16" data-type-order="16">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr16">A blind realization, which was not included in the ensemble for optimization, was used to test the response to rates obtained from the optimization process. To illustrate the robustness of our approach, we also applied to the same blind realization the optimal rates obtained from the single realization optimization, which was discussed in the previous section. The perameability (top layer) for the blind realizarion used to test the optimization approach is shown in Fig. 16.</anchoringText>
+<image-wrap id="102118183191MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118183191MS_i_16.tif" id="ImgLink-16" />
+<caption>Permeability (layer 1) for blind realization</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Permeability (layer 1) for blind realization</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="17" data-type-order="17">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr17">Figure 17 compares the field GOR and oil recovery response of the blind realization under following two scenarios:</anchoringText>
+<image-wrap id="102118183191MS-Img_SPi-17">
+<label>Figure 17</label>
+<imageLink type="mediaResource" href="102118183191MS_i_17.tif" id="ImgLink-17" />
+<caption>(a) Field GOR for blind realization for base case rates, and optimized rates obtained from sweep efficicency maximization (norm weight–0) from single realization (SR) and multiple realizations (MR) scenarios (b) Incremental oil recovery (w.r.t OOIP) for 20 years of CO2 flood for respective cases</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>(a) Field GOR for blind realization for base case rates, and optimized rates obtained from sweep efficicency maximization (norm weight–0) from single realization (SR) and multiple realizations (MR) scenarios (b) Incremental oil recovery (w.r.t OOIP) for 20 years of CO2 flood for respective cases</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183191MS-Img_SPi-17a">
+<imageLink type="mediaResource" href="102118183191MS_i_17a.tif" id="ImgLink-17a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Field GOR for blind realization for base case rates, and optimized rates obtained from sweep efficicency maximization (norm weight–0) from single realization (SR) and multiple realizations (MR) scenarios</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183191MS-Img_SPi-17b">
+<imageLink type="mediaResource" href="102118183191MS_i_17b.tif" id="ImgLink-17b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Incremental oil recovery (w.r.t OOIP) for 20 years of CO2 flood for respective cases</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="18" data-type-order="18">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr18">We used norm weight of 0 for both the scenarios. Fig. 18 shows that the optimal rates corresponding to scenario 2 resulted in higher oil recovery and higher injection efficiency over scenario 1. The results clearly demonstrate the ability of our approach to address geologic uncertainty during field-scale flood optimization.</anchoringText>
+<image-wrap id="102118183191MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118183191MS_i_18.tif" id="ImgLink-18" />
+<caption>Injection efficiency for blind realization for base case rates, and optimized rates obtained from sweep efficicency maximization (norm weight–0) from single realization (SR) and multiple realizations (MR) scenarios</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Injection efficiency for blind realization for base case rates, and optimized rates obtained from sweep efficicency maximization (norm weight–0) from single realization (SR) and multiple realizations (MR) scenarios</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="14" figure-order="19" data-type-order="19">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr19">The base case considers alternate injection of water and CO2 for 4 months and 2 months respectively under reactive control described earlier. This results in WAG ratio (volume water/volume CO2 at reservoir condition) of 2:1 during each cycle (Fig. 19a). The optimal production/injection rates for maximizing sweep efficiency were obtained using norm weight of 0. The average WAG ratio for 20 years of production for sweep efficiency maximization is close to that for the base case. However, as shown in Fig. 19b, the WAG ratio for each cycle varies from 1.2 RB/RB to 3.9 RB/RB.</anchoringText>
+<image-wrap id="102118183191MS-Img_SPi-19">
+<label>Figure 19</label>
+<imageLink type="mediaResource" href="102118183191MS_i_19.tif" id="ImgLink-19" />
+<caption>(a) Average WAG ratio for 20 years of WAG flood for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–10000). (b) WAG ratio for 6 months cycle for respective cases</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>(a) Average WAG ratio for 20 years of WAG flood for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–10000). (b) WAG ratio for 6 months cycle for respective cases</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183191MS-Img_SPi-19a">
+<imageLink type="mediaResource" href="102118183191MS_i_19a.tif" id="ImgLink-19a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Average WAG ratio for 20 years of WAG flood for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–10000)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183191MS-Img_SPi-19b">
+<imageLink type="mediaResource" href="102118183191MS_i_19b.tif" id="ImgLink-19b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>WAG ratio for 6 months cycle for respective cases</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="15" figure-order="20" data-type-order="20">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr20">The effects of rate optimization on field water cut and GOR are shown in Figs. 20a and 20b. The optimal rates for maximizing sweep efficiency result in delayed CO2 breakthrough and reduced water and CO2 recycling. However, the production/injection rates increase with acceleration resulting in higher field water cut and GOR.</anchoringText>
+<image-wrap id="102118183191MS-Img_SPi-20">
+<label>Figure 20</label>
+<imageLink type="mediaResource" href="102118183191MS_i_20.tif" id="ImgLink-20" />
+<caption>(a) Field water cut during WAG flood for base case, sweep efficicency maximization (norm weight–0) and production acceleration (norm weight–10000). (b) Field GOR for respective cases</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>(a) Field water cut during WAG flood for base case, sweep efficicency maximization (norm weight–0) and production acceleration (norm weight–10000). (b) Field GOR for respective cases</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183191MS-Img_SPi-20a">
+<imageLink type="mediaResource" href="102118183191MS_i_20a.tif" id="ImgLink-20a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Field water cut during WAG flood for base case, sweep efficicency maximization (norm weight–0) and production acceleration (norm weight–10000)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183191MS-Img_SPi-20b">
+<imageLink type="mediaResource" href="102118183191MS_i_20b.tif" id="ImgLink-20b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Field GOR for respective cases</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="21" data-type-order="21">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr21">Figure 21 shows the increasing trend of ‘incremental oil recovery’ with rate optimization for norm weights of 0 and 10000. It should be noted that cumulative water and CO2 injected for maximizing sweep efficiency is less compared to that for the base case (Figs. 22a and 22b).</anchoringText>
+<image-wrap id="102118183191MS-Img_SPi-21">
+<label>Figure 21 </label>
+<imageLink type="mediaResource" href="102118183191MS_i_21.tif" id="ImgLink-21" />
+<caption>Incremental oil recovery (w.r.t OOIP) for 20 years of WAG flood for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–10000)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>21</caption-order>
+<caption-text>Incremental oil recovery (w.r.t OOIP) for 20 years of WAG flood for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–10000)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="15" figure-order="22" data-type-order="22">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr22">Figure 21 shows the increasing trend of ‘incremental oil recovery’ with rate optimization for norm weights of 0 and 10000. It should be noted that cumulative water and CO2 injected for maximizing sweep efficiency is less compared to that for the base case (Figs. 22a and 22b).</anchoringText>
+<image-wrap id="102118183191MS-Img_SPi-22">
+<label>Figure 22</label>
+<imageLink type="mediaResource" href="102118183191MS_i_22.tif" id="ImgLink-22" />
+<caption>(a) Cumulative water injected during WAG flood for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–10000). (b) Cumulative gas injection for respective cases</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>22</caption-order>
+<caption-text>(a) Cumulative water injected during WAG flood for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–10000). (b) Cumulative gas injection for respective cases</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183191MS-Img_SPi-22a">
+<imageLink type="mediaResource" href="102118183191MS_i_22a.tif" id="ImgLink-22a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Cumulative water injected during WAG flood for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–10000)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183191MS-Img_SPi-22b">
+<imageLink type="mediaResource" href="102118183191MS_i_22b.tif" id="ImgLink-22b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Cumulative gas injection for respective cases</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="23" data-type-order="23">
+<link href="link-23" type="image" />
+<appendix>
+<linkTarget id="link-23" type="image">
+<anchoringText id="Ancr23">Acceleration results in increase in oil recovery owing to improved VGR caused by higher water and CO2 injection rates. Finally, from Fig. 23 we can see that sweep efficiency maximization improves injection efficiency, which further decreases with increase in norm weight.</anchoringText>
+<image-wrap id="102118183191MS-Img_SPi-23">
+<label>Figure 23 </label>
+<imageLink type="mediaResource" href="102118183191MS_i_23.tif" id="ImgLink-23" />
+<caption>Injection efficiency during WAG flood for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–10000)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>23</caption-order>
+<caption-text>Injection efficiency during WAG flood for base case, sweep efficiency maximization (norm weight–0) and production acceleration (norm weight–10000)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

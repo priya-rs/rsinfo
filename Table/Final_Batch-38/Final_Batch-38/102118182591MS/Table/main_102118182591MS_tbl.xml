@@ -1,0 +1,2609 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118182591MS.txt" extractionDate="2021-03-23T16:46:22Z">
+<doi>10.2118/182591-MS</doi>
+<pii>10.2118/182591-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="2">
+<table-wrap id="102118182591MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Barreto and Schiozer (2015) propose a methodology to optimize ICV placement design with fewer simulations than other traditional mathematical methods, using indicators to evaluate reservoir performance and guide the strategy construction. It adopts three types of rules (eliminatory, classificatory and design) to evaluate the field, well and well-monitoring regions (WMR). Table 1 shows the eliminatory rules to evaluate the potential of a region to implement an ICV.</anchoringText>
+<label>Table 1</label>
+<caption>Eliminatory indicators, criteria and rules (after Barreto and Schiozer 2015 )</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Eliminatory indicators, criteria and rules (after <link href="BIB3">Barreto and Schiozer 2015</link> )</caption-text>
+</formatted-caption>
+<table id="102118182591MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Indicator</th>
+<th valign="top" align="center">Description of criteria and rule</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">I<sub>1</sub> – Ratio between investment necessary to implement one ICV and field NPV. <br />
+<math>
+ <mrow>
+  <mfrac>
+   <mrow>
+    <msub>
+     <mrow>
+      <mtext>&#x00A0;Investiment&#x00A0;</mtext></mrow>
+     <mrow>
+      <mo stretchy='false'>[</mo><mtext>CV</mtext></mrow>
+    </msub>
+    </mrow>
+   <mrow>
+    <msub>
+     <mrow>
+      <mtext>NPV</mtext></mrow>
+     <mrow>
+      <mtext>Field&#x00A0;</mtext></mrow>
+    </msub>
+    </mrow>
+  </mfrac>
+  </mrow>
+</math>
+</td>
+<td valign="top" align="left">C1 - Value that indicates if the well NPV, before valve implementation, may pay the cost of one ICV <br /> Rule: if the indicator is higher than criterion C1, the valve may be too expensive to be applied</td>
+</tr>
+<tr>
+<td valign="top" align="center">I<sub>2</sub> – Proportional variation of the cash flow (CF), considering consecutive times.<br />
+<math>
+ <mrow>
+  <mfrac>
+   <mrow>
+    <msup>
+     <mrow>
+      <mtext>CFL</mtext></mrow>
+     <mtext>k</mtext>
+    </msup>
+    <mo>&#x2212;</mo><msup>
+     <mrow>
+      <mtext>CFL</mtext></mrow>
+     <mrow>
+      <mtext>k</mtext><mo>&#x2212;</mo><mn>1</mn></mrow>
+    </msup>
+    </mrow>
+   <mrow>
+    <msup>
+     <mrow>
+      <mtext>CFL</mtext></mrow>
+     <mrow>
+      <mtext>k</mtext><mo>&#x2212;</mo><mn>1</mn></mrow>
+    </msup>
+    </mrow>
+  </mfrac>
+  </mrow>
+</math>
+</td>
+<td valign="top" align="left">C2 - Negative value that indicates if the field, well and well-region cash flow decreases over time, suggesting a valve operation <br /> Rule: if I2&#x003C;C2, a valve operation may be feasible</td>
+</tr>
+<tr>
+<td valign="top" align="center">I<sub>3</sub> – Proportional variation of water cut value (WCT). <br />
+<math>
+ <mrow>
+  <mfrac>
+   <mrow>
+    <msup>
+     <mrow>
+      <mtext>WCT</mtext></mrow>
+     <mtext>k</mtext>
+    </msup>
+    <mo>&#x2212;</mo><mi>W</mi><mi>C</mi><msup>
+     <mi>T</mi>
+     <mrow>
+      <mtext>k</mtext><mo>&#x2212;</mo><mn>1</mn></mrow>
+    </msup>
+    </mrow>
+   <mrow>
+    <msup>
+     <mrow>
+      <mtext>WCT</mtext></mrow>
+     <mrow>
+      <mtext>k</mtext><mo>&#x2212;</mo><mn>1</mn></mrow>
+    </msup>
+    </mrow>
+  </mfrac>
+  </mrow>
+</math>
+</td>
+<td valign="top" align="left">C3 - Positive value that indicates if the field, well and well-region water cut variation increases over time, suggesting a valve operation <br /> Rule: if I3&#x003E;C3, a valve operation may be feasible</td>
+</tr>
+<tr>
+<td valign="top" align="center">I<sub>4</sub> – Mean squared error of the series values of WCT in all WMR of a specific well j. <br />
+<math>
+ <mrow>
+  <mfrac>
+   <mrow>
+    <mstyle displaystyle='true'>
+     <munderover>
+      <mo>&#x2211;</mo>
+      <mrow>
+       <mi>r</mi><mo>=</mo><mn>1</mn></mrow>
+      <mrow>
+       <msup>
+        <mi>R</mi>
+        <mi>j</mi>
+       </msup>
+       </mrow>
+     </munderover>
+     <mrow>
+      <msup>
+       <mrow>
+        <mrow><mo>(</mo>
+         <mrow>
+          <msup>
+           <mrow>
+            <mtext>WCT</mtext></mrow>
+           <mrow>
+            <mtext>rk</mtext></mrow>
+          </msup>
+          <mo>&#x2212;</mo><mover accent='true'>
+           <mrow>
+            <mi>W</mi><mi>C</mi><msup>
+             <mi>T</mi>
+             <mtext>k</mtext>
+            </msup>
+            </mrow>
+           <mo stretchy='true'>&#x00AF;</mo>
+          </mover>
+          </mrow>
+        <mo>)</mo></mrow></mrow>
+       <mn>2</mn>
+      </msup>
+      </mrow>
+    </mstyle></mrow>
+   <mrow>
+    <msup>
+     <mtext>R</mtext>
+     <mi>j</mi>
+    </msup>
+    </mrow>
+  </mfrac>
+  </mrow>
+</math>
+</td>
+<td valign="top" align="left">C4 - Value that indicates if the distribution of water cut is regularly distributed along the well. If it is not regular, it indicates that a valve may be put in the well region with the highest water cut value <br /> Rule: If I4 is higher than C4, a valve operation may be feasible</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-15" type="bib">
+<bib id="BIB3">
+<label>Barreto et al., 2015</label>
+<last-name>Barreto</last-name>, <author>
+<first-name>C. E. A. G.</first-name>
+<last-name>Barreto</last-name>
+</author> and <last-name>Schiozer</last-name>, <author>
+<first-name>D. J.</first-name>
+<last-name>Schiozer</last-name>
+</author>
+<pubDate>2015</pubDate>. <article-title>Optimal placement design of inflow control valve using a dynamic optimization process based on technical and economic indicators </article-title>,
+<journal-title>Journal of Petroleum Science and Engineering </journal-title>
+, <volume>125</volume>, pp. <pages>
+<first-page>117</first-page>
+<last-page>127</last-page>
+</pages>.</bib>
+</linkTarget>
+</appendix>
+</docTable>
+<docTable pdf-page="" table-order="2" data-type-order="5">
+<table-wrap id="102118182591MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Figure 3 presents a complementary diagram to aid the explanation of Module 5, which generates the possible strategies for a given time. It evaluates WMRS potentiality and creates combinations between those that show potential for each model individually. Table 2 exhibits the logic equations required to appraise field, wells and WMRS potential to install ICV.</anchoringText>
+<label>Table 2</label>
+<caption>Indicators and Potential evaluation</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Indicators and Potential evaluation</caption-text>
+</formatted-caption>
+<table id="102118182591MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Indicators Evaluation</th>
+<th align="center">Result</th>
+<th align="center">Potential Evaluation</th>
+<th align="center">Logic Equation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">
+<i>IE</i>
+<sub>1</sub>
+<i>
+<sup>x</sup>
+</i>
+</td>
+<td valign="top" align="center">
+<math>
+ <mrow>
+  <mrow><mo>{</mo> <mrow>
+   <mtable columnalign='left'>
+    <mtr columnalign='left'>
+     <mtd columnalign='left'>
+      <mrow>
+       <mn>1</mn><mtext>&#x00A0;if&#x00A0;</mtext><msubsup>
+        <mi>I</mi>
+        <mn>1</mn>
+        <mi>x</mi>
+       </msubsup>
+       <mo>&#x2264;</mo><msubsup>
+        <mi>C</mi>
+        <mn>1</mn>
+        <mi>x</mi>
+       </msubsup>
+       </mrow>
+     </mtd>
+    </mtr>
+    <mtr columnalign='left'>
+     <mtd columnalign='left'>
+      <mrow>
+       <mn>0</mn><mtext>&#x00A0;if&#x00A0;</mtext><msubsup>
+        <mi>I</mi>
+        <mn>1</mn>
+        <mi>x</mi>
+       </msubsup>
+       <mo>&#x003E;</mo><msubsup>
+        <mi>C</mi>
+        <mn>1</mn>
+        <mi>x</mi>
+       </msubsup>
+       </mrow>
+     </mtd>
+    </mtr>
+    
+   </mtable></mrow> </mrow></mrow>
+</math>
+</td>
+<td valign="top" align="center">Overall Field Potential <i>PE<sub>Overall</sub>
+</i>
+</td>
+<td valign="top" align="center">
+<i>IE<sub>1</sub>
+<sup>field</sup>
+</i>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<i>IE</i>
+<sub>2</sub>
+<i>
+<sup>x</sup>
+</i>
+</td>
+<td valign="top" align="center">
+<math>
+ <mrow>
+  <mrow><mo>{</mo> <mrow>
+   <mtable columnalign='left'>
+    <mtr columnalign='left'>
+     <mtd columnalign='left'>
+      <mrow>
+       <mn>1</mn><mtext>&#x00A0;if&#x00A0;</mtext><msubsup>
+        <mi>I</mi>
+        <mn>2</mn>
+        <mi>x</mi>
+       </msubsup>
+       <mo>&#x003C;</mo><msubsup>
+        <mi>C</mi>
+        <mn>2</mn>
+        <mi>x</mi>
+       </msubsup>
+       </mrow>
+     </mtd>
+    </mtr>
+    <mtr columnalign='left'>
+     <mtd columnalign='left'>
+      <mrow>
+       <mn>0</mn><mtext>&#x00A0;if&#x00A0;</mtext><msubsup>
+        <mi>I</mi>
+        <mn>2</mn>
+        <mi>x</mi>
+       </msubsup>
+       <mo>&#x2265;</mo><msubsup>
+        <mi>C</mi>
+        <mn>2</mn>
+        <mi>x</mi>
+       </msubsup>
+       </mrow>
+     </mtd>
+    </mtr>
+    </mtable></mrow> </mrow></mrow>
+</math>
+</td>
+<td valign="top" align="center">Field Potential <i>PE<sub>Field</sub>
+</i>
+</td>
+<td valign="top" align="center">
+<i>IE</i>
+<sub>2</sub>
+<i>
+<sup>Field</sup>
+</i>Λ <i>IE</i>
+<sub>2</sub>
+<i>
+<sup>Field</sup>
+</i>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<i>IE</i>
+<sub>3</sub>
+<i>
+<sup>x</sup>
+</i>
+</td>
+<td valign="top" align="center">
+<math>
+ <mrow>
+  <mrow><mo>{</mo> <mrow>
+   <mtable columnalign='left'>
+    <mtr columnalign='left'>
+     <mtd columnalign='left'>
+      <mrow>
+       <mn>1</mn><mtext>&#x00A0;if&#x00A0;</mtext><msubsup>
+        <mi>I</mi>
+        <mn>3</mn>
+        <mi>x</mi>
+       </msubsup>
+       <mo>&#x003E;</mo><msubsup>
+        <mi>C</mi>
+        <mn>3</mn>
+        <mi>x</mi>
+       </msubsup>
+       </mrow>
+     </mtd>
+    </mtr>
+    <mtr columnalign='left'>
+     <mtd columnalign='left'>
+      <mrow>
+       <mn>0</mn><mtext>&#x00A0;if&#x00A0;</mtext><msubsup>
+        <mi>I</mi>
+        <mn>3</mn>
+        <mi>x</mi>
+       </msubsup>
+       <mo>&#x2264;</mo><msubsup>
+        <mi>C</mi>
+        <mn>4</mn>
+        <mi>x</mi>
+       </msubsup>
+       </mrow>
+     </mtd>
+    </mtr>
+    
+   </mtable></mrow> </mrow></mrow>
+</math>
+</td>
+<td valign="top" align="center">Well Potential <i>PE<sub>Well</sub>
+</i>
+</td>
+<td valign="top" align="center">
+<i>PE<sub>Field</sub>
+</i>Λ <i>IE</i>
+<sub>2</sub>
+<i>
+<sup>Well</sup>
+</i>Λ <i>IE</i>
+<sub>3</sub>
+<i>
+<sup>Well</sup>
+</i>Λ <i>IE</i>
+<sub>4</sub>
+<i>
+<sup>Well</sup>
+</i>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<i>AI<sub>4</sub>
+<sup>x</sup>
+</i>
+</td>
+<td valign="top" align="center">
+<math>
+ <mrow>
+  <mrow><mo>{</mo> <mrow>
+   <mtable columnalign='left'>
+    <mtr columnalign='left'>
+     <mtd columnalign='left'>
+      <mrow>
+       <mn>1</mn><mtext>&#x00A0;if&#x00A0;</mtext><msubsup>
+        <mi>I</mi>
+        <mn>4</mn>
+        <mi>x</mi>
+       </msubsup>
+       <mo>&#x003E;</mo><msubsup>
+        <mi>C</mi>
+        <mn>4</mn>
+        <mi>x</mi>
+       </msubsup>
+       </mrow>
+     </mtd>
+    </mtr>
+    <mtr columnalign='left'>
+     <mtd columnalign='left'>
+      <mrow>
+       <mn>0</mn><mtext>&#x00A0;if&#x00A0;</mtext><msubsup>
+        <mi>I</mi>
+        <mn>4</mn>
+        <mi>x</mi>
+       </msubsup>
+       <mo>&#x2264;</mo><msubsup>
+        <mi>C</mi>
+        <mn>4</mn>
+        <mi>x</mi>
+       </msubsup>
+       </mrow>
+     </mtd>
+    </mtr>
+   </mtable></mrow> </mrow></mrow>
+</math>
+</td>
+<td valign="top" align="center">WMRS Potential <i>PE<sub>WMRS</sub>
+</i>
+</td>
+<td valign="top" align="center">
+<i>PE<sub>po</sub>
+</i>
+<sub>ç<i>o</i>
+</sub>
+<i>
+</i>Λ <i>IE</i>
+<sub>2</sub>
+<i>
+<sup>WMRS</sup>
+</i>Λ <i>IE</i>
+<sub>3</sub>
+<i>
+<sup>WMRS</sup>
+</i>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="" table-order="3" data-type-order="7">
+<table-wrap id="102118182591MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Table 3 presents the restrictions and investment for each considered platform. On the second evaluation, we keep the position of the ICV set in the first evaluation and optimize controls for the new scenario, repeating the application with only the defined WCR enabled on the WMRS arrangement matrix of Module 4. We also carefully optimize the same WCR tested in each application described above with a reactive control to compare with that proposed.</anchoringText>
+<label>Table 3</label>
+<caption>Capacities and investment of each platform</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Capacities and investment of each platform</caption-text>
+</formatted-caption>
+<table id="102118182591MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th rowspan="3" align="center">Platform</th>
+<th colspan="4" valign="top" align="center">Capacities (m<sup>3</sup>/day)</th>
+<th rowspan="3" align="center">Investment (USD millions)</th>
+</tr>
+<tr>
+<th colspan="3" valign="top" align="center">Production</th>
+<th valign="top" align="center">Injection</th>
+</tr>
+<tr>
+<th valign="top" align="center">Liquid</th>
+<th valign="top" align="center">Oil</th>
+<th valign="top" align="center">Water</th>
+<th valign="top" align="center">Water</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">P1</td>
+<td valign="top" align="center">20150</td>
+<td valign="top" align="center">20150</td>
+<td valign="top" align="center">9765</td>
+<td valign="top" align="center">28210</td>
+<td valign="top" align="center">869.1</td>
+</tr>
+<tr>
+<td valign="top" align="center">P2</td>
+<td valign="top" align="center">20150</td>
+<td valign="top" align="center">20150</td>
+<td valign="top" align="center">7672.5</td>
+<td valign="top" align="center">28210</td>
+<td valign="top" align="center">862.5</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="" table-order="4" data-type-order="8">
+<table-wrap id="102118182591MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">This study employs the most likely economic scenario specified by Gaspar et al. (2015). The investments in ICV are, per well, USD 1.00 million for the first valve and USD 0.30 million for each additional valve. In addition, we use the same criterion values proposed by Barreto and Schiozer (2015) presented in Table 4, to evaluate the field, well and WMR potential to install ICV.</anchoringText>
+<label>Table 4</label>
+<caption>Criterion values for field, well and WMR potential evaluation (after Barreto and Schiozer 2015 )</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Criterion values for field, well and WMR potential evaluation (after <link href="BIB4">Barreto and Schiozer 2015</link> )</caption-text>
+</formatted-caption>
+<table id="102118182591MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Criterion</th>
+<th valign="top" align="center">Scale</th>
+<th valign="top" align="center">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">C1</td>
+<td valign="top" align="center">Field</td>
+<td valign="top" align="center">0.025</td>
+</tr>
+<tr>
+<td rowspan="3" align="center">C2</td>
+<td valign="top" align="center">Field</td>
+<td valign="top" align="center">-0.025</td>
+</tr>
+<tr>
+<td valign="top" align="center">Well</td>
+<td valign="top" align="center">-0.050</td>
+</tr>
+<tr>
+<td valign="top" align="center">WMR</td>
+<td valign="top" align="center">-0.100</td>
+</tr>
+<tr>
+<td rowspan="3" align="center">C3</td>
+<td valign="top" align="center">Field</td>
+<td valign="top" align="center">0.100</td>
+</tr>
+<tr>
+<td valign="top" align="center">Well</td>
+<td valign="top" align="center">0.050</td>
+</tr>
+<tr>
+<td valign="top" align="center">WMR</td>
+<td valign="top" align="center">0.025</td>
+</tr>
+<tr>
+<td valign="top" align="center">C4</td>
+<td valign="top" align="center">WMR</td>
+<td valign="top" align="center">0.100</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-15" type="bib">
+<bib id="BIB4">
+<label>Barreto et al., 2015</label>
+<last-name>Barreto</last-name>, <author>
+<first-name>C. E. A. G.</first-name>
+<last-name>Barreto</last-name>
+</author> and <last-name>Schiozer</last-name>, <author>
+<first-name>D. J.</first-name>
+<last-name>Schiozer</last-name>
+</author>
+<pubDate>2015</pubDate>. <article-title>Optimal placement design of inflow control valve using a dynamic optimization process based on technical and economic indicators </article-title>,<journal-title>Journal of Petroleum Science and Engineering </journal-title>
+, <volume>125</volume>, pp. <pages>
+<first-page>117</first-page>
+<last-page>127</last-page>
+</pages>.</bib>
+</linkTarget>
+</appendix>
+</docTable>
+<docTable pdf-page="" table-order="5" data-type-order="9">
+<table-wrap id="102118182591MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">Table 5 presents the results of k-means clustering from Module 4 to partition the WMR of each well in three clusters. Sometimes, the k-means groups non-neighboring regions in the same cluster, for example PROD006 and PROD023A, so after clustering, the module disconnects those regions and organizes the WMRS as shown in Table 6. Most wells stay within the maximum number of allowed sections, but both PROD006 and PROD023A exceed this. During optimization, Module 8 limits the number of WCR for those wells.</anchoringText>
+<label>Table 5</label>
+<caption>Results of k-means clustering on each producer well to divide WMR into 3 clusters</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Results of k-means clustering on each producer well to divide WMR into 3 clusters</caption-text>
+</formatted-caption>
+<table id="102118182591MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th colspan="18" valign="bottom" align="center">k-Means Clustering Results</th>
+</tr>
+<tr>
+<th rowspan="2" align="center">WELL</th>
+<th rowspan="2" align="center">Type</th>
+<th colspan="16" valign="top" align="center">WMR</th>
+</tr>
+<tr>
+<th valign="bottom" align="center">1</th>
+<th valign="bottom" align="center">2</th>
+<th valign="top" align="center">3</th>
+<th valign="top" align="center">4</th>
+<th valign="top" align="center">5</th>
+<th valign="bottom" align="center">6</th>
+<th valign="top" align="center">7</th>
+<th valign="bottom" align="center">8</th>
+<th valign="top" align="center">9</th>
+<th valign="bottom" align="center">10</th>
+<th valign="bottom" align="center">11</th>
+<th valign="bottom" align="center">12</th>
+<th valign="top" align="center">13</th>
+<th valign="top" align="center">14</th>
+<th valign="top" align="center">15</th>
+<th valign="bottom" align="center">16</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">
+<b>PROD006</b>
+</td>
+<td rowspan="2" align="center">Vertical</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">1</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">3</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">3</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">3</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>PROD007</b>
+</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">3</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+</tr>
+<tr>
+<td align="center">
+<b>PROD005</b>
+</td>
+<td rowspan="10" align="center">Horizontal</td>
+<td align="center">3</td>
+<td align="center">3</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">2</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>PROD009</b>
+</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">3</td>
+<td valign="bottom" align="center">1</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>PROD010</b>
+</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">3</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td align="center">
+<b>PROD012</b>
+</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td align="center">3</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>PROD014</b>
+</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>PROD021</b>
+</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>PROD023A</b>
+</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">2</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>PROD024A</b>
+</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>PROD025A</b>
+</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">1</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td align="center">
+<b>PROD026</b>
+</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td align="center">3</td>
+<td align="center">3</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="" table-order="6" data-type-order="10">
+<table-wrap id="102118182591MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6">Table 5 presents the results of k-means clustering from Module 4 to partition the WMR of each well in three clusters. Sometimes, the k-means groups non-neighboring regions in the same cluster, for example PROD006 and PROD023A, so after clustering, the module disconnects those regions and organizes the WMRS as shown in Table 6. Most wells stay within the maximum number of allowed sections, but both PROD006 and PROD023A exceed this. During optimization, Module 8 limits the number of WCR for those wells.</anchoringText>
+<label>Table 6</label>
+<caption>WMRS obtained after splitting clusters with non-neighboring WMR</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>6</caption-order>
+<caption-text>WMRS obtained after splitting clusters with non-neighboring WMR</caption-text>
+</formatted-caption>
+<table id="102118182591MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th colspan="18" valign="bottom" align="center">WMRS Arrangement</th>
+</tr>
+<tr>
+<th rowspan="2" align="center">WELL</th>
+<th rowspan="2" align="center">Type</th>
+<th colspan="16" valign="top" align="center">WMR</th>
+</tr>
+<tr>
+<th valign="bottom" align="center">1</th>
+<th valign="bottom" align="center">2</th>
+<th valign="top" align="center">3</th>
+<th valign="top" align="center">4</th>
+<th valign="top" align="center">5</th>
+<th valign="bottom" align="center">6</th>
+<th valign="top" align="center">7</th>
+<th valign="bottom" align="center">8</th>
+<th valign="top" align="center">9</th>
+<th valign="bottom" align="center">10</th>
+<th valign="bottom" align="center">11</th>
+<th valign="bottom" align="center">12</th>
+<th valign="top" align="center">13</th>
+<th valign="top" align="center">14</th>
+<th valign="top" align="center">15</th>
+<th valign="bottom" align="center">16</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">
+<b>PROD006</b>
+</td>
+<td rowspan="2" align="center">Vertical</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">2</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">4</td>
+<td valign="top" align="center">4</td>
+<td valign="top" align="center">5</td>
+<td valign="top" align="center">5</td>
+<td valign="bottom" align="center">6</td>
+<td valign="bottom" align="center">6</td>
+<td valign="bottom" align="center">6</td>
+<td valign="bottom" align="center">6</td>
+<td valign="top" align="center">7</td>
+<td valign="top" align="center">7</td>
+</tr>
+<tr>
+<td align="center">
+<b>PROD007</b>
+</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td align="center">3</td>
+<td align="center">3</td>
+<td align="center">3</td>
+<td align="center">3</td>
+<td align="center">3</td>
+<td align="center">3</td>
+<td align="center">3</td>
+</tr>
+<tr>
+<td align="center">
+<b>PROD005</b>
+</td>
+<td rowspan="10" align="center">Horizontal</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td align="center">3</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td align="center">
+<b>PROD009</b>
+</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td align="center">3</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>PROD010</b>
+</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">2</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td align="center">
+<b>PROD012</b>
+</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td align="center">3</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>PROD014</b>
+</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">3</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>PROD021</b>
+</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>PROD023A</b>
+</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">4</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>PROD024A</b>
+</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">3</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td align="center">
+<b>PROD025A</b>
+</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td align="center">3</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>PROD026</b>
+</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">2</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="" table-order="7" data-type-order="11">
+<table-wrap id="102118182591MS-tblwrp-7" content-type="structured">
+<anchoringText id="Ancr7">Table 7 displays the number of possibilities and simulations created annually while the algorithm runs. It only lists years that have at least one possibility. Different combinations of WMRS, that have potential to close, result in the potential strategies (possibilities) of each time. In the early years, the amount of possibilities is small, or nonexistent, because of low water production.</anchoringText>
+<label>Table 7</label>
+<caption>Number of possibilities created for the RM for each optimization time</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Number of possibilities created for the RM for each optimization time</caption-text>
+</formatted-caption>
+<table id="102118182591MS-Tbl_SPi-7" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" align="center">Year</th>
+<th colspan="2" valign="top" align="center">E9-P1</th>
+</tr>
+<tr>
+<th valign="top" align="center">Number of possibilities</th>
+<th valign="top" align="center">Number of simulations</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">8</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">9</td>
+</tr>
+<tr>
+<td valign="top" align="center">9</td>
+<td valign="top" align="center">2</td>
+<td valign="top" align="center">18</td>
+</tr>
+<tr>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">9</td>
+<td valign="top" align="center">81</td>
+</tr>
+<tr>
+<td valign="top" align="center">11</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">9</td>
+</tr>
+<tr>
+<td valign="top" align="center">12</td>
+<td valign="top" align="center">4</td>
+<td valign="top" align="center">36</td>
+</tr>
+<tr>
+<td valign="top" align="center">13</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">90</td>
+</tr>
+<tr>
+<td valign="top" align="center">14</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">90</td>
+</tr>
+<tr>
+<td valign="top" align="center">15</td>
+<td valign="top" align="center">5</td>
+<td valign="top" align="center">45</td>
+</tr>
+<tr>
+<td valign="top" align="center">16</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">27</td>
+</tr>
+<tr>
+<td valign="top" align="center">17</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">9</td>
+</tr>
+<tr>
+<td valign="top" align="center">18</td>
+<td valign="top" align="center">18</td>
+<td valign="top" align="center">162</td>
+</tr>
+<tr>
+<td valign="top" align="center">19</td>
+<td valign="top" align="center">7</td>
+<td valign="top" align="center">63</td>
+</tr>
+<tr>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">9</td>
+</tr>
+<tr>
+<td valign="top" align="center">21</td>
+<td valign="top" align="center">2</td>
+<td valign="top" align="center">18</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>Total:</b>
+</td>
+<td valign="top" align="center">74</td>
+<td valign="top" align="center">666</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="" table-order="8" data-type-order="12">
+<table-wrap id="102118182591MS-tblwrp-8" content-type="structured">
+<anchoringText id="Ancr8">The optimization achieves the best result with 666 simulations. Table 8 illustrates the location of a single valve established in well PROD007. ICV closes in the fourteenth year of production on proactive control.</anchoringText>
+<label>Table 8</label>
+<caption>WCR location on PROD007</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>8</caption-order>
+<caption-text>WCR location on PROD007</caption-text>
+</formatted-caption>
+<table id="102118182591MS-Tbl_SPi-8" frame="hsides">
+<thead>
+<tr>
+<th colspan="17" valign="top" align="center">PROD007</th>
+</tr>
+<tr>
+<th valign="top" align="center">WMR</th>
+<th valign="top" align="center">1</th>
+<th valign="top" align="center">2</th>
+<th valign="top" align="center">3</th>
+<th valign="top" align="center">4</th>
+<th valign="top" align="center">5</th>
+<th valign="top" align="center">6</th>
+<th valign="top" align="center">7</th>
+<th valign="top" align="center">8</th>
+<th valign="top" align="center">9</th>
+<th valign="top" align="center">10</th>
+<th valign="top" align="center">11</th>
+<th valign="top" align="center">12</th>
+<th valign="top" align="center">13</th>
+<th valign="top" align="center">14</th>
+<th valign="top" align="center">15</th>
+<th valign="top" align="center">16</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">
+<b>WMRS</b>
+</td>
+<td colspan="2" valign="top" align="center">1</td>
+<td colspan="7" valign="top" align="center">2</td>
+<td colspan="7" valign="top" align="center">3</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>WCR</b>
+</td>
+<td colspan="9" valign="top" align="center">NO WCR</td>
+<td colspan="7" valign="top" align="center">
+<b>WCR1</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="" table-order="9" data-type-order="14">
+<table-wrap id="102118182591MS-tblwrp-9" content-type="structured">
+<anchoringText id="Ancr9">Table 9 presents the average impact of the control of the ICV of PROD007 on all RM compared to the conventional strategy E9 (E9-P1-CW). It shows that EMV increases by USD 1.8 million with the proactive control (E9-P1-IWP) that on average water production decreases and oil production increases. The EMV variation is very small compared to the field EMV and it would not justify the inclusion of IW optimization in the CLFD. However, this example of application shows the impact and interaction of the valve with other wells in a complex case evaluation.</anchoringText>
+<label>Table 9</label>
+<caption>EMV results of E9-P1 with CW and IW (proactive and reactive) strategies</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>9</caption-order>
+<caption-text>EMV results of E9-P1 with CW and IW (proactive and reactive) strategies</caption-text>
+</formatted-caption>
+<table id="102118182591MS-Tbl_SPi-9" frame="hsides">
+<thead>
+<tr>
+<th rowspan="3" align="center">Well type and IW control</th>
+<th colspan="7" valign="top" align="center">E9-P1</th>
+</tr>
+<tr>
+<th valign="top" align="center">EMV</th>
+<th colspan="2" valign="top" align="center">ΔEMV</th>
+<th valign="top" align="center">Np</th>
+<th valign="top" align="center">ΔNp</th>
+<th valign="top" align="center">Wp</th>
+<th valign="top" align="center">ΔWp</th>
+</tr>
+<tr>
+<th valign="top" align="center">USD billions</th>
+<th valign="top" align="center">USD millions</th>
+<th align="center">%</th>
+<th colspan="4" align="center">m<sup>3</sup> millions</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">CW</td>
+<td valign="top" align="center">1.6731</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">60.27</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">40.55</td>
+<td valign="top" align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Proactive</td>
+<td valign="top" align="center">1.6750</td>
+<td valign="top" align="center">1.8</td>
+<td valign="top" align="center">0.11</td>
+<td valign="top" align="center">60.29</td>
+<td valign="top" align="center">0.03</td>
+<td valign="top" align="center">39.83</td>
+<td valign="top" align="center">-0.72</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Reactive</td>
+<td valign="top" align="center">1.6754</td>
+<td valign="top" align="center">2.3</td>
+<td valign="top" align="center">0.13</td>
+<td valign="top" align="center">60.29</td>
+<td valign="top" align="center">0.02</td>
+<td valign="top" align="center">39.79</td>
+<td valign="top" align="center">-0.76</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="" table-order="10" data-type-order="15">
+<table-wrap id="102118182591MS-tblwrp-10" content-type="structured">
+<anchoringText id="Ancr10">Table 10 details the production data for all RM. The output data come from the time with the highest NPV for each RM. Proactive control reduces NPV only for RM9. Increased oil production in RM1, despite higher water production, led to increased NPV. RM9 also showed increased oil and water production but this failed to cover the valve investment in proactive control.</anchoringText>
+<label>Table 10</label>
+<caption>RM production results of E9-P1 with CW and IW (proactive and reactive) strategies</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>10</caption-order>
+<caption-text>RM production results of E9-P1 with CW and IW (proactive and reactive) strategies</caption-text>
+</formatted-caption>
+<table id="102118182591MS-Tbl_SPi-10" frame="hsides">
+<thead>
+<tr>
+<th rowspan="3" align="center">RM</th>
+<th rowspan="3" align="center">P<sub>rm</sub>
+</th>
+<th rowspan="3" align="center">Well type and IW control</th>
+<th rowspan="3" align="center">NPV (USD billions)</th>
+<th colspan="6" valign="top" align="center">E9-P1</th>
+</tr>
+<tr>
+<th colspan="2" valign="top" align="center">ΔNPV</th>
+<th valign="top" align="center">Np</th>
+<th valign="top" align="center">ΔNp</th>
+<th valign="top" align="center">Wp</th>
+<th valign="top" align="center">ΔWp</th>
+</tr>
+<tr>
+<th align="center">USD millions</th>
+<th align="center">%</th>
+<th colspan="4" align="center">m<sup>3</sup> millions</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3" align="center">RM1</td>
+<td rowspan="3" align="center">8%</td>
+<td valign="bottom" align="center">CW</td>
+<td valign="bottom" align="center">1.7601</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td valign="bottom" align="center">61.94</td>
+<td align="center">-</td>
+<td valign="bottom" align="center">35.92</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Proactive</td>
+<td valign="top" align="center">1.7604</td>
+<td valign="top" align="center">0.4</td>
+<td valign="bottom" align="center">0.02</td>
+<td valign="top" align="center">62.15</td>
+<td valign="bottom" align="center">0.21</td>
+<td valign="top" align="center">38.58</td>
+<td valign="top" align="center">2.67</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Reactive</td>
+<td valign="top" align="center">1.7605</td>
+<td valign="top" align="center">0.5</td>
+<td valign="top" align="center">0.03</td>
+<td valign="top" align="center">62.15</td>
+<td valign="bottom" align="center">0.21</td>
+<td valign="top" align="center">38.46</td>
+<td valign="top" align="center">2.55</td>
+</tr>
+<tr>
+<td rowspan="3" align="center">RM2</td>
+<td rowspan="3" align="center">12%</td>
+<td valign="bottom" align="center">CW</td>
+<td valign="bottom" align="center">1.6992</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td valign="bottom" align="center">60.79</td>
+<td align="center">-</td>
+<td valign="bottom" align="center">47.83</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Proactive</td>
+<td valign="top" align="center">1.6999</td>
+<td valign="top" align="center">0.7</td>
+<td valign="top" align="center">0.04</td>
+<td valign="top" align="center">60.77</td>
+<td valign="top" align="center">-0.02</td>
+<td valign="top" align="center">47.18</td>
+<td valign="top" align="center">-0.65</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Reactive</td>
+<td valign="top" align="center">1.7006</td>
+<td valign="top" align="center">1.4</td>
+<td valign="bottom" align="center">0.08</td>
+<td valign="top" align="center">60.77</td>
+<td valign="bottom" align="center">-0.02</td>
+<td valign="top" align="center">47.11</td>
+<td valign="top" align="center">-0.73</td>
+</tr>
+<tr>
+<td rowspan="3" align="center">RM3</td>
+<td rowspan="3" align="center">11%</td>
+<td valign="bottom" align="center">CW</td>
+<td valign="bottom" align="center">0.8644</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td valign="bottom" align="center">45.18</td>
+<td align="center">-</td>
+<td valign="bottom" align="center">31.00</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Proactive</td>
+<td valign="top" align="center">0.8644</td>
+<td valign="bottom" align="center">0.0</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">45.18</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">31.00</td>
+<td valign="bottom" align="center">0.00</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Reactive</td>
+<td valign="top" align="center">0.8644</td>
+<td valign="bottom" align="center">0.0</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">45.18</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">31.00</td>
+<td valign="bottom" align="center">0.00</td>
+</tr>
+<tr>
+<td rowspan="3" align="center">RM4</td>
+<td rowspan="3" align="center">14%</td>
+<td align="center">CW</td>
+<td align="center">2.1334</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">66.96</td>
+<td align="center">-</td>
+<td align="center">55.78</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Proactive</td>
+<td valign="top" align="center">2.1341</td>
+<td valign="top" align="center">0.7</td>
+<td valign="top" align="center">0.03</td>
+<td valign="top" align="center">67.05</td>
+<td valign="top" align="center">0.09</td>
+<td valign="top" align="center">55.44</td>
+<td valign="top" align="center">-0.34</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Reactive</td>
+<td valign="top" align="center">2.1362</td>
+<td valign="top" align="center">2.9</td>
+<td valign="top" align="center">0.13</td>
+<td valign="top" align="center">67.09</td>
+<td valign="top" align="center">0.13</td>
+<td valign="top" align="center">55.72</td>
+<td valign="top" align="center">-0.06</td>
+</tr>
+<tr>
+<td rowspan="3" align="center">RM5</td>
+<td rowspan="3" align="center">17%</td>
+<td align="center">CW</td>
+<td align="center">1.5445</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td valign="bottom" align="center">60.60</td>
+<td align="center">-</td>
+<td align="center">42.33</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">IW/Proactive</td>
+<td valign="bottom" align="center">1.5514</td>
+<td valign="bottom" align="center">6.9</td>
+<td valign="bottom" align="center">0.45</td>
+<td valign="bottom" align="center">60.49</td>
+<td valign="bottom" align="center">-0.11</td>
+<td valign="bottom" align="center">37.71</td>
+<td valign="bottom" align="center">-4.62</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Reactive</td>
+<td valign="top" align="center">1.5508</td>
+<td valign="top" align="center">6.3</td>
+<td valign="top" align="center">0.41</td>
+<td valign="top" align="center">60.44</td>
+<td valign="top" align="center">-0.16</td>
+<td valign="top" align="center">37.26</td>
+<td valign="top" align="center">-5.07</td>
+</tr>
+<tr>
+<td rowspan="3" align="center">RM6</td>
+<td rowspan="3" align="center">13%</td>
+<td align="center">CW</td>
+<td align="center">1.3495</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">53.53</td>
+<td align="center">-</td>
+<td align="center">21.90</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Proactive</td>
+<td valign="top" align="center">1.3495</td>
+<td valign="bottom" align="center">0.0</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">53.53</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">21.90</td>
+<td valign="bottom" align="center">0.00</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Reactive</td>
+<td valign="top" align="center">1.3495</td>
+<td valign="bottom" align="center">0.0</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">53.53</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">21.90</td>
+<td valign="bottom" align="center">0.00</td>
+</tr>
+<tr>
+<td rowspan="3" align="center">RM7</td>
+<td rowspan="3" align="center">3%</td>
+<td valign="bottom" align="center">CW</td>
+<td valign="bottom" align="center">0.7623</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td valign="bottom" align="center">44.18</td>
+<td align="center">-</td>
+<td valign="bottom" align="center">12.65</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Proactive</td>
+<td valign="top" align="center">0.7623</td>
+<td valign="bottom" align="center">0.0</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">44.18</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">12.65</td>
+<td valign="bottom" align="center">0.00</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Reactive</td>
+<td valign="top" align="center">0.7623</td>
+<td valign="bottom" align="center">0.0</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">44.18</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">12.65</td>
+<td valign="bottom" align="center">0.00</td>
+</tr>
+<tr>
+<td rowspan="3" align="center">RM8</td>
+<td rowspan="3" align="center">14%</td>
+<td align="center">CW</td>
+<td valign="bottom" align="center">1.6881</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">61.58</td>
+<td align="center">-</td>
+<td align="center">47.54</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Proactive</td>
+<td valign="top" align="center">1.6914</td>
+<td valign="top" align="center">3.3</td>
+<td valign="bottom" align="center">0.20</td>
+<td valign="top" align="center">61.65</td>
+<td valign="top" align="center">0.07</td>
+<td valign="top" align="center">47.34</td>
+<td valign="bottom" align="center">-0.20</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Reactive</td>
+<td valign="top" align="center">1.6920</td>
+<td valign="top" align="center">3.9</td>
+<td valign="top" align="center">0.23</td>
+<td valign="top" align="center">61.65</td>
+<td valign="top" align="center">0.07</td>
+<td valign="top" align="center">47.33</td>
+<td valign="top" align="center">-0.22</td>
+</tr>
+<tr>
+<td rowspan="3" align="center">RM9</td>
+<td rowspan="3" align="center">8%</td>
+<td valign="bottom" align="center">CW</td>
+<td valign="bottom" align="center">2.9681</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td valign="bottom" align="center">80.83</td>
+<td align="center">-</td>
+<td valign="bottom" align="center">45.46</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Proactive</td>
+<td valign="top" align="center">2.9678</td>
+<td valign="top" align="center">-0.3</td>
+<td valign="bottom" align="center">-0.01</td>
+<td valign="top" align="center">80.94</td>
+<td valign="bottom" align="center">0.11</td>
+<td valign="top" align="center">45.52</td>
+<td valign="bottom" align="center">0.06</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Reactive</td>
+<td valign="top" align="center">2.9684</td>
+<td valign="top" align="center">0.3</td>
+<td valign="bottom" align="center">0.01</td>
+<td valign="top" align="center">80.92</td>
+<td valign="top" align="center">0.09</td>
+<td valign="top" align="center">45.73</td>
+<td valign="top" align="center">0.27</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="" table-order="11" data-type-order="19">
+<table-wrap id="102118182591MS-tblwrp-11" content-type="structured">
+<anchoringText id="Ancr11">The latter has an EMV USD 4.2 million higher than the former. We can see in Table 11 that the water restriction does not affect oil and water production of RM 1, 3, 6 or 7, so the NPV increases for those models due to the reduction of platform investment by USD 6 million. For the other RM (2, 4, 5, 8 and 9), the smaller platform restricts water and consequently oil production, but with different effects in NPV. When the platform restricts the production, the simulator distributes the production, prioritizing each well according to rank.</anchoringText>
+<label>Table 11</label>
+<caption>RM production results of E9-P1 and E9-P2 with CW strategy</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>11</caption-order>
+<caption-text>RM production results of E9-P1 and E9-P2 with CW strategy</caption-text>
+</formatted-caption>
+<table id="102118182591MS-Tbl_SPi-11" frame="hsides">
+<thead>
+<tr>
+<th rowspan="3" align="center">RM</th>
+<th colspan="3" valign="top" align="center">E9-P1-CW</th>
+<th colspan="3" valign="top" align="center">E9-P2-CW</th>
+<th colspan="3" valign="top" align="center">Variation</th>
+</tr>
+<tr>
+<th rowspan="2" align="center">NPV<sup>1 </sup>(USD billions)</th>
+<th valign="top" align="center">Np<sup>1</sup>
+</th>
+<th valign="top" align="center">Wp<sup>1</sup>
+</th>
+<th rowspan="2" align="center">NPV<sup>2</sup> (USD, billions)</th>
+<th align="center">Np<sup>2</sup>
+</th>
+<th align="center">Wp<sup>2</sup>
+</th>
+<th rowspan="2" align="center">ΔNPV<sup>2-1</sup>(USD, millions)</th>
+<th align="center">ΔNp<sup>2-1</sup>
+</th>
+<th align="center">ΔWp<sup>2-1</sup>
+</th>
+</tr>
+<tr>
+<th colspan="2" valign="bottom" align="center">(m<sup>3</sup> millions)</th>
+<th colspan="2" valign="bottom" align="center">(m<sup>3</sup> millions)</th>
+<th colspan="2" valign="bottom" align="center">(m<sup>3</sup> millions)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">RM1</td>
+<td valign="top" align="center">1.7601</td>
+<td valign="top" align="center">61.94</td>
+<td valign="top" align="center">35.92</td>
+<td valign="top" align="center">1.7661</td>
+<td valign="top" align="center">61.94</td>
+<td valign="top" align="center">35.92</td>
+<td valign="bottom" align="center">6</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="bottom" align="center">0.00</td>
+</tr>
+<tr>
+<td valign="top" align="center">RM2</td>
+<td valign="top" align="center">1.6992</td>
+<td valign="top" align="center">60.79</td>
+<td valign="top" align="center">47.83</td>
+<td valign="top" align="center">1.7074</td>
+<td valign="bottom" align="center">60.68</td>
+<td valign="top" align="center">44.88</td>
+<td valign="bottom" align="center">8</td>
+<td valign="bottom" align="center">-0.11</td>
+<td valign="top" align="center">-2.95</td>
+</tr>
+<tr>
+<td valign="top" align="center">RM3</td>
+<td valign="top" align="center">0.8644</td>
+<td valign="top" align="center">45.18</td>
+<td valign="top" align="center">31.00</td>
+<td valign="top" align="center">0.8703</td>
+<td valign="top" align="center">45.18</td>
+<td valign="top" align="center">31.00</td>
+<td valign="bottom" align="center">6</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="bottom" align="center">0.00</td>
+</tr>
+<tr>
+<td valign="top" align="center">RM4</td>
+<td valign="top" align="center">2.1334</td>
+<td valign="top" align="center">66.96</td>
+<td valign="top" align="center">55.78</td>
+<td valign="top" align="center">2.1287</td>
+<td valign="bottom" align="center">66.00</td>
+<td valign="top" align="center">45.49</td>
+<td valign="top" align="center">-5</td>
+<td valign="top" align="center">-0.96</td>
+<td valign="top" align="center">-10.29</td>
+</tr>
+<tr>
+<td valign="top" align="center">RM5</td>
+<td valign="top" align="center">1.5445</td>
+<td valign="bottom" align="center">60.60</td>
+<td valign="top" align="center">42.33</td>
+<td valign="top" align="center">1.5503</td>
+<td valign="top" align="center">60.57</td>
+<td valign="top" align="center">41.95</td>
+<td valign="bottom" align="center">6</td>
+<td valign="top" align="center">-0.03</td>
+<td valign="top" align="center">-0.38</td>
+</tr>
+<tr>
+<td valign="top" align="center">RM6</td>
+<td valign="top" align="center">1.3495</td>
+<td valign="top" align="center">53.53</td>
+<td valign="top" align="center">21.90</td>
+<td valign="top" align="center">1.3555</td>
+<td valign="top" align="center">53.53</td>
+<td valign="top" align="center">21.90</td>
+<td valign="bottom" align="center">6</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="bottom" align="center">0.00</td>
+</tr>
+<tr>
+<td valign="top" align="center">RM7</td>
+<td valign="top" align="center">0.7623</td>
+<td valign="top" align="center">44 18</td>
+<td valign="top" align="center">12.65</td>
+<td valign="top" align="center">0.7682</td>
+<td valign="top" align="center">44.18</td>
+<td valign="top" align="center">12.65</td>
+<td valign="bottom" align="center">6</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="bottom" align="center">0.00</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">RM8</td>
+<td valign="bottom" align="center">1.6881</td>
+<td valign="bottom" align="center">61.58</td>
+<td valign="bottom" align="center">47.54</td>
+<td valign="bottom" align="center">1.6933</td>
+<td valign="bottom" align="center">61.32</td>
+<td valign="bottom" align="center">44 42</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">-0.26</td>
+<td valign="bottom" align="center">-3.12</td>
+</tr>
+<tr>
+<td valign="top" align="center">RM9</td>
+<td valign="top" align="center">2.9681</td>
+<td valign="top" align="center">80.83</td>
+<td valign="top" align="center">45.46</td>
+<td valign="top" align="center">2.9687</td>
+<td valign="bottom" align="center">80.28</td>
+<td valign="top" align="center">40.07</td>
+<td valign="bottom" align="center">1</td>
+<td valign="top" align="center">-0.55</td>
+<td valign="top" align="center">-5.39</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="" table-order="12" data-type-order="21">
+<table-wrap id="102118182591MS-tblwrp-12" content-type="structured">
+<anchoringText id="Ancr12">We use E9-P2-CW as the reference for the second intelligent well analysis because it had the best EMV of all developed strategies. Table 12 shows an increase in EMV by 2.4 million with proactive control and 2.5 million with reactive control. The ICV closes in the fourteenth year of production in E9-P2-IWP and the optimized WCUT limit is 85% for E9-P2-IWR. Note in Figure 10 that, as in the first analysis, the inclusion of WCR1 also increases well production life.</anchoringText>
+<label>Table 12</label>
+<caption>EMV results of E9-P2 with CW and IW (proactive and reactive) strategies</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>12</caption-order>
+<caption-text>EMV results of E9-P2 with CW and IW (proactive and reactive) strategies</caption-text>
+</formatted-caption>
+<table id="102118182591MS-Tbl_SPi-12" frame="hsides">
+<thead>
+<tr>
+<th rowspan="3" align="center">Well type and IW control</th>
+<th colspan="7" align="center">E9-P2</th>
+</tr>
+<tr>
+<th valign="bottom" align="center">EMV</th>
+<th colspan="2" valign="bottom" align="center">ΔEMV</th>
+<th valign="bottom" align="center">Np</th>
+<th valign="bottom" align="center">ΔNp</th>
+<th valign="bottom" align="center">Wp</th>
+<th valign="bottom" align="center">ΔWp</th>
+</tr>
+<tr>
+<th align="center">USD billions</th>
+<th align="center">USD millions</th>
+<th align="center">%</th>
+<th colspan="4" align="center">m<sup>3</sup> millions</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">CW</td>
+<td align="center">1.6773</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">60.03</td>
+<td align="center">-</td>
+<td align="center">37.82</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Proactive</td>
+<td valign="top" align="center">1.6797</td>
+<td valign="top" align="center">2.4</td>
+<td valign="top" align="center">0.14</td>
+<td valign="bottom" align="center">60.10</td>
+<td valign="top" align="center">0.07</td>
+<td valign="top" align="center">37.47</td>
+<td valign="top" align="center">-0.35</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Reactive</td>
+<td valign="top" align="center">1.6798</td>
+<td valign="top" align="center">2.5</td>
+<td valign="top" align="center">0.15</td>
+<td valign="top" align="center">60.09</td>
+<td valign="bottom" align="center">0.06</td>
+<td valign="top" align="center">37.38</td>
+<td valign="top" align="center">-0.44</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="" table-order="13" data-type-order="23">
+<table-wrap id="102118182591MS-tblwrp-13" content-type="structured">
+<anchoringText id="Ancr13">Table 13 lists the production data for all RM. In RM1, higher recovery rates mean increased NPV but water production also increased. Figure 11 shows that the ICV closure helps to reduce water rate of PROD007, but they continue to rise, and near the twentieth year, they get closer to the same value of the conventional strategy. However, different to the behavior of E9-P2-CW, in E9-P2-ICP and E9-P2-IWR it postpones the closure of PROD007.</anchoringText>
+<label>Table 13</label>
+<caption>RM production results of E9-P2 with CW and IW (proactive and reactive) strategies</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>13</caption-order>
+<caption-text>RM production results of E9-P2 with CW and IW (proactive and reactive) strategies</caption-text>
+</formatted-caption>
+<table id="102118182591MS-Tbl_SPi-13" frame="hsides">
+<thead>
+<tr>
+<th rowspan="3" align="center">RM</th>
+<th rowspan="3" align="center">P<sub>rm</sub>
+</th>
+<th rowspan="3" align="center">Well type and IW control</th>
+<th rowspan="3" align="center">NPV (USD billions)</th>
+<th colspan="6" valign="top" align="center">E9-P2</th>
+</tr>
+<tr>
+<th colspan="2" valign="top" align="center">ΔNPV</th>
+<th valign="top" align="center">Np</th>
+<th valign="top" align="center">ΔNp</th>
+<th valign="top" align="center">Wp</th>
+<th valign="top" align="center">ΔWP</th>
+</tr>
+<tr>
+<th align="center">USD millions</th>
+<th align="center">%</th>
+<th colspan="4" align="center">m<sup>3</sup> millions</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3" align="center">RM1</td>
+<td rowspan="3" align="center">8%</td>
+<td valign="bottom" align="center">CW</td>
+<td valign="bottom" align="center">1.7661</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td valign="bottom" align="center">61.94</td>
+<td align="center">-</td>
+<td valign="bottom" align="center">35.92</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Proactive</td>
+<td valign="top" align="center">1.7665</td>
+<td valign="top" align="center">0.4</td>
+<td valign="bottom" align="center">0.02</td>
+<td valign="top" align="center">62.14</td>
+<td valign="bottom" align="center">0.20</td>
+<td valign="top" align="center">38.34</td>
+<td valign="top" align="center">2.43</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Reactive</td>
+<td valign="top" align="center">1.7664</td>
+<td valign="top" align="center">0.3</td>
+<td valign="bottom" align="center">0.02</td>
+<td valign="top" align="center">62.15</td>
+<td valign="bottom" align="center">0.21</td>
+<td valign="top" align="center">38.61</td>
+<td valign="top" align="center">2.69</td>
+</tr>
+<tr>
+<td rowspan="3" align="center">RM2</td>
+<td rowspan="3" align="center">12%</td>
+<td align="center">CW</td>
+<td align="center">1.7074</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td valign="bottom" align="center">60.68</td>
+<td align="center">-</td>
+<td align="center">44.88</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Proactive</td>
+<td valign="top" align="center">1.7078</td>
+<td valign="top" align="center">0.4</td>
+<td valign="bottom" align="center">0.02</td>
+<td valign="bottom" align="center">60.66</td>
+<td valign="bottom" align="center">-0.02</td>
+<td valign="top" align="center">44.28</td>
+<td valign="bottom" align="center">-0.60</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Reactive</td>
+<td valign="top" align="center">1.7087</td>
+<td valign="top" align="center">1.3</td>
+<td valign="bottom" align="center">0.08</td>
+<td valign="bottom" align="center">60.66</td>
+<td valign="bottom" align="center">-0.02</td>
+<td valign="top" align="center">44.16</td>
+<td valign="top" align="center">-0.73</td>
+</tr>
+<tr>
+<td rowspan="3" align="center">RM3</td>
+<td rowspan="3" align="center">11%</td>
+<td align="center">CW</td>
+<td align="center">0.8703</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">45.18</td>
+<td align="center">-</td>
+<td align="center">31.00</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Proactive</td>
+<td valign="top" align="center">0.8703</td>
+<td valign="bottom" align="center">0.0</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">45.18</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">31.00</td>
+<td valign="bottom" align="center">0.00</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Reactive</td>
+<td valign="top" align="center">0.8703</td>
+<td valign="bottom" align="center">0.0</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">45.18</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">31.00</td>
+<td valign="bottom" align="center">0.00</td>
+</tr>
+<tr>
+<td rowspan="3" align="center">RM4</td>
+<td rowspan="3" align="center">14%</td>
+<td align="center">CW</td>
+<td align="center">2.1287</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td valign="bottom" align="center">66.00</td>
+<td align="center">-</td>
+<td align="center">45.49</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Proactive</td>
+<td valign="top" align="center">2.1320</td>
+<td valign="top" align="center">3.3</td>
+<td valign="bottom" align="center">0.16</td>
+<td valign="bottom" align="center">66.16</td>
+<td valign="bottom" align="center">0.16</td>
+<td valign="top" align="center">45.42</td>
+<td valign="top" align="center">-0.07</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Reactive</td>
+<td valign="top" align="center">2.1331</td>
+<td valign="top" align="center">4.4</td>
+<td valign="bottom" align="center">0.21</td>
+<td valign="top" align="center">66.17</td>
+<td valign="bottom" align="center">0.18</td>
+<td valign="top" align="center">45.56</td>
+<td valign="top" align="center">0.07</td>
+</tr>
+<tr>
+<td rowspan="3" align="center">RM5</td>
+<td rowspan="3" align="center">17%</td>
+<td valign="bottom" align="center">CW</td>
+<td valign="bottom" align="center">1.5503</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td valign="bottom" align="center">60.57</td>
+<td align="center">-</td>
+<td valign="bottom" align="center">41.95</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">IW/Proactive</td>
+<td valign="bottom" align="center">1.5574</td>
+<td valign="bottom" align="center">7.2</td>
+<td valign="bottom" align="center">0.46</td>
+<td valign="bottom" align="center">60.49</td>
+<td valign="bottom" align="center">-0.08</td>
+<td valign="bottom" align="center">37.71</td>
+<td valign="bottom" align="center">-4.24</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">IW/Reactive</td>
+<td valign="bottom" align="center">1.5560</td>
+<td valign="bottom" align="center">5.8</td>
+<td valign="bottom" align="center">0.37</td>
+<td valign="bottom" align="center">60.41</td>
+<td valign="bottom" align="center">-0.16</td>
+<td valign="bottom" align="center">37.00</td>
+<td valign="bottom" align="center">-4.95</td>
+</tr>
+<tr>
+<td rowspan="3" align="center">RM6</td>
+<td rowspan="3" align="center">13%</td>
+<td align="center">CW</td>
+<td align="center">1.3555</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">53.53</td>
+<td align="center">-</td>
+<td align="center">21.90</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Proactive</td>
+<td valign="top" align="center">1.3555</td>
+<td valign="bottom" align="center">0.0</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">53.53</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">21.90</td>
+<td valign="bottom" align="center">0.00</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Reactive</td>
+<td valign="top" align="center">1.3555</td>
+<td valign="bottom" align="center">0.0</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">53.53</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">21.90</td>
+<td valign="bottom" align="center">0.00</td>
+</tr>
+<tr>
+<td rowspan="3" align="center">RM7</td>
+<td rowspan="3" align="center">3%</td>
+<td align="center">CW</td>
+<td align="center">0.7682</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td align="center">44.18</td>
+<td align="center">-</td>
+<td align="center">12.65</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Proactive</td>
+<td valign="top" align="center">0.7682</td>
+<td valign="bottom" align="center">0.0</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">44.18</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">12.65</td>
+<td valign="bottom" align="center">0.00</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Reactive</td>
+<td valign="top" align="center">0.7682</td>
+<td valign="bottom" align="center">0.0</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">44.18</td>
+<td valign="bottom" align="center">0.00</td>
+<td valign="top" align="center">12.65</td>
+<td valign="bottom" align="center">0.00</td>
+</tr>
+<tr>
+<td rowspan="3" align="center">RM8</td>
+<td rowspan="3" align="center">14%</td>
+<td valign="bottom" align="center">CW</td>
+<td valign="bottom" align="center">1.6933</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td valign="bottom" align="center">61.32</td>
+<td align="center">-</td>
+<td valign="bottom" align="center">44.42</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Proactive</td>
+<td valign="top" align="center">1.6980</td>
+<td valign="top" align="center">4.8</td>
+<td valign="bottom" align="center">0.28</td>
+<td valign="bottom" align="center">61.61</td>
+<td valign="top" align="center">0.29</td>
+<td valign="top" align="center">46.33</td>
+<td valign="top" align="center">1.91</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Reactive</td>
+<td valign="top" align="center">1.6986</td>
+<td valign="top" align="center">5.3</td>
+<td valign="top" align="center">0.31</td>
+<td valign="bottom" align="center">61.60</td>
+<td valign="bottom" align="center">0.28</td>
+<td valign="top" align="center">46.26</td>
+<td valign="top" align="center">1.83</td>
+</tr>
+<tr>
+<td rowspan="3" align="center">RM9</td>
+<td rowspan="3" align="center">8%</td>
+<td align="center">CW</td>
+<td align="center">2.9687</td>
+<td align="center">-</td>
+<td align="center">-</td>
+<td valign="bottom" align="center">80.28</td>
+<td align="center">-</td>
+<td align="center">40.07</td>
+<td align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Proactive</td>
+<td valign="top" align="center">2.9683</td>
+<td valign="top" align="center">-0.4</td>
+<td valign="bottom" align="center">-0.01</td>
+<td valign="top" align="center">80.35</td>
+<td valign="top" align="center">0.07</td>
+<td valign="top" align="center">39.95</td>
+<td valign="bottom" align="center">-0.12</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Reactive</td>
+<td valign="top" align="center">2.9690</td>
+<td valign="top" align="center">0.3</td>
+<td valign="bottom" align="center">0.01</td>
+<td valign="top" align="center">80.34</td>
+<td valign="bottom" align="center">0.06</td>
+<td valign="top" align="center">40.08</td>
+<td valign="bottom" align="center">0.01</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="" table-order="14" data-type-order="26">
+<table-wrap id="102118182591MS-tblwrp-14" content-type="structured">
+<anchoringText id="Ancr14">Table 14 shows the EMV of E9-P1 and E9-P2 considering equal probabilities for the RM and using the NPV from Table 10 and Table 13 to analyze the impact of the RM probabilities. The variation in EMV is between 25% and 30% lower than the results presented in Table 9 and Table 12, but the use of IW still generates gains.</anchoringText>
+<label>Table 14</label>
+<caption>EMV results of E9-P1/P2 with CW and IW strategies considering equal probabilities for the RM</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>14</caption-order>
+<caption-text>EMV results of E9-P1/P2 with CW and IW strategies considering equal probabilities for the RM</caption-text>
+</formatted-caption>
+<table id="102118182591MS-Tbl_SPi-14" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" align="center">Reference</th>
+<th rowspan="2" valign="top" align="center">Well type and IW control</th>
+<th valign="top" align="center">EMV</th>
+<th colspan="2" valign="top" align="center">ΔEMV</th>
+<th valign="top" align="center">Np</th>
+<th valign="top" align="center">ΔNp</th>
+<th valign="top" align="center">Wp</th>
+<th valign="top" align="center">ΔWp</th>
+</tr>
+<tr>
+<th align="center">USD billions</th>
+<th valign="top" align="center">USD millions</th>
+<th align="center">%</th>
+<th colspan="4" align="center">m3 millions</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3" align="center">
+<b>E9-P1</b>
+</td>
+<td valign="top" align="center">CW</td>
+<td valign="top" align="center">1.6411</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">59.51</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">37.82</td>
+<td valign="top" align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Proactive</td>
+<td valign="top" align="center">1.6424</td>
+<td valign="top" align="center">1.3</td>
+<td valign="top" align="center">0.08</td>
+<td valign="top" align="center">59.55</td>
+<td valign="top" align="center">0.04</td>
+<td valign="top" align="center">37.48</td>
+<td valign="top" align="center">-0.34</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Reactive</td>
+<td valign="top" align="center">1.6427</td>
+<td valign="top" align="center">1.7</td>
+<td valign="top" align="center">0.10</td>
+<td valign="top" align="center">59.55</td>
+<td valign="top" align="center">0.04</td>
+<td valign="top" align="center">37.46</td>
+<td valign="top" align="center">-0.36</td>
+</tr>
+<tr>
+<td rowspan="3" align="center">
+<b>E9-P2</b>
+</td>
+<td valign="top" align="center">CW</td>
+<td valign="top" align="center">1.6454</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">59.30</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">35.36</td>
+<td valign="top" align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Proactive</td>
+<td valign="top" align="center">1.6471</td>
+<td valign="top" align="center">1.7</td>
+<td valign="top" align="center">0.10</td>
+<td valign="top" align="center">59.37</td>
+<td valign="top" align="center">0.07</td>
+<td valign="top" align="center">35.29</td>
+<td valign="top" align="center">-0.08</td>
+</tr>
+<tr>
+<td valign="top" align="center">IW/Reactive</td>
+<td valign="top" align="center">1.6473</td>
+<td valign="top" align="center">1.9</td>
+<td valign="top" align="center">0.12</td>
+<td valign="top" align="center">59.36</td>
+<td valign="top" align="center">0.06</td>
+<td valign="top" align="center">35.25</td>
+<td valign="top" align="center">-0.12</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

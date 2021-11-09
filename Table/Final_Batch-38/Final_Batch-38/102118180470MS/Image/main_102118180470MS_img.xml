@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118180470MS.txt" extractionDate="2021-03-22T19:04:53Z">
+<doi>10.2118/180470-MS</doi>
+<pii>10.2118/180470-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr7">This western region of the Ivishak is known as the Eileen West End (EWE) and Northwest Eileen (NWE) (see Figs. 1 &amp; 2). [MJB1]Four well pads were constructed to access this area of the field, along with a shared production line system to carry produced fluids back to Prudhoe’s Gathering Center 2 (GC2), one of Prudhoe’s seven large collection and separation facilities. The well pads are W-pad, Z-pad, V-pad, and L-pad. Collectively they are known as the “West End,” and the shared production line is called the EWE LDF (large diameter flowline) (see Fig. 3).</anchoringText>
+<image-wrap id="102118180470MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118180470MS_i_1.tif" id="ImgLink-1" />
+<caption>Prudhoe Bay and EWE location</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Prudhoe Bay and EWE location</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr8">This western region of the Ivishak is known as the Eileen West End (EWE) and Northwest Eileen (NWE) (see Figs. 1 &amp; 2). [MJB1]Four well pads were constructed to access this area of the field, along with a shared production line system to carry produced fluids back to Prudhoe’s Gathering Center 2 (GC2), one of Prudhoe’s seven large collection and separation facilities. The well pads are W-pad, Z-pad, V-pad, and L-pad. Collectively they are known as the “West End,” and the shared production line is called the EWE LDF (large diameter flowline) (see Fig. 3).</anchoringText>
+<image-wrap id="102118180470MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118180470MS_i_2.tif" id="ImgLink-2" />
+<caption>Prudhoe subsurface extent, with EWE area of the field at left</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Prudhoe subsurface extent, with EWE area of the field at left</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr9">This western region of the Ivishak is known as the Eileen West End (EWE) and Northwest Eileen (NWE) (see Figs. 1 &amp; 2). [MJB1]Four well pads were constructed to access this area of the field, along with a shared production line system to carry produced fluids back to Prudhoe’s Gathering Center 2 (GC2), one of Prudhoe’s seven large collection and separation facilities. The well pads are W-pad, Z-pad, V-pad, and L-pad. Collectively they are known as the “West End,” and the shared production line is called the EWE LDF (large diameter flowline) (see Fig. 3).</anchoringText>
+<image-wrap id="102118180470MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118180470MS_i_3.tif" id="ImgLink-3" />
+<caption>EWE Large Diameter Flowline and “tributary” flowlines of West End</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>EWE Large Diameter Flowline and “tributary” flowlines of West End</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr10">In addition to the mixture velocity limitation of the EWE line, the well stock faces a second constraint due to supply pressure problems experienced from a shared and very long gas lift supply line. From GC2, this line stretches a total of 81,000 ft (15 miles) out to L-pad (see Fig. 4), supplying lift gas to the three other West End pads along the way. Additionally, the line’s diameter reduces along its length, beginning at just over 10-in internal diameter (ID) and ending at just under 8-in ID.</anchoringText>
+<image-wrap id="102118180470MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118180470MS_i_4.tif" id="ImgLink-4" />
+<caption>West End gas lift supply line</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>West End gas lift supply line</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr11">The segments are connected to represent the actual pipeline configuration of the field. It is not necessary from a mathematical solution perspective to have the end model look exactly as the field looks from a bird’s eye point of view, but it has been found it is much more intuitive to work with and understand a model if it has the overall general shape and arrangement as the actual surface network. This is especially true if the system to be modelled is a large one. Nodes are placed to connect the segments together and to act as computation points for the program when it solves for pressures and flow rates. Nodes are also placed at the most upstream points, where individual wells feed into the surface system (see Figs 5, 6, 7, 8, and 9).</anchoringText>
+<image-wrap id="102118180470MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118180470MS_i_5.tif" id="ImgLink-5" />
+<caption>Production Model layout, West End</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Production Model layout, West End</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr12">The segments are connected to represent the actual pipeline configuration of the field. It is not necessary from a mathematical solution perspective to have the end model look exactly as the field looks from a bird’s eye point of view, but it has been found it is much more intuitive to work with and understand a model if it has the overall general shape and arrangement as the actual surface network. This is especially true if the system to be modelled is a large one. Nodes are placed to connect the segments together and to act as computation points for the program when it solves for pressures and flow rates. Nodes are also placed at the most upstream points, where individual wells feed into the surface system (see Figs 5, 6, 7, 8, and 9).</anchoringText>
+<image-wrap id="102118180470MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118180470MS_i_6.tif" id="ImgLink-6" />
+<caption>Production Model layout, W-pad</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Production Model layout, W-pad</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr13">The segments are connected to represent the actual pipeline configuration of the field. It is not necessary from a mathematical solution perspective to have the end model look exactly as the field looks from a bird’s eye point of view, but it has been found it is much more intuitive to work with and understand a model if it has the overall general shape and arrangement as the actual surface network. This is especially true if the system to be modelled is a large one. Nodes are placed to connect the segments together and to act as computation points for the program when it solves for pressures and flow rates. Nodes are also placed at the most upstream points, where individual wells feed into the surface system (see Figs 5, 6, 7, 8, and 9).</anchoringText>
+<image-wrap id="102118180470MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118180470MS_i_7.tif" id="ImgLink-7" />
+<caption>Production Model layout, Z-pad</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Production Model layout, Z-pad</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr14">The segments are connected to represent the actual pipeline configuration of the field. It is not necessary from a mathematical solution perspective to have the end model look exactly as the field looks from a bird’s eye point of view, but it has been found it is much more intuitive to work with and understand a model if it has the overall general shape and arrangement as the actual surface network. This is especially true if the system to be modelled is a large one. Nodes are placed to connect the segments together and to act as computation points for the program when it solves for pressures and flow rates. Nodes are also placed at the most upstream points, where individual wells feed into the surface system (see Figs 5, 6, 7, 8, and 9).</anchoringText>
+<image-wrap id="102118180470MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118180470MS_i_8.tif" id="ImgLink-8" />
+<caption>Production Model layout, V-pad</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Production Model layout, V-pad</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr15">The segments are connected to represent the actual pipeline configuration of the field. It is not necessary from a mathematical solution perspective to have the end model look exactly as the field looks from a bird’s eye point of view, but it has been found it is much more intuitive to work with and understand a model if it has the overall general shape and arrangement as the actual surface network. This is especially true if the system to be modelled is a large one. Nodes are placed to connect the segments together and to act as computation points for the program when it solves for pressures and flow rates. Nodes are also placed at the most upstream points, where individual wells feed into the surface system (see Figs 5, 6, 7, 8, and 9).</anchoringText>
+<image-wrap id="102118180470MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118180470MS_i_9.tif" id="ImgLink-9" />
+<caption>Production Model layout, L-pad</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Production Model layout, L-pad</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr16">Once the dedicated gas lift system model was complete (see Figs 10, 11, 12, 13, and 14)itwas incorporated into and synchronised with the production model so that the calculated casing pressures from the modelled gas lift injection system would be passed to the wells in the modelled production system. It was imperative to ensure the wells could respond appropriately to these casing pressures. Gas lift valve depths were introduced into each individual nodal analysis well model, and a casing pressure variable was included with the other VLP variables of WHP, gas lift rate, WC, and GOR.</anchoringText>
+<image-wrap id="102118180470MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118180470MS_i_10.tif" id="ImgLink-10" />
+<caption>Gas lift Injection Model layout, West End</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Gas lift Injection Model layout, West End</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr17">Once the dedicated gas lift system model was complete (see Figs 10, 11, 12, 13, and 14)itwas incorporated into and synchronised with the production model so that the calculated casing pressures from the modelled gas lift injection system would be passed to the wells in the modelled production system. It was imperative to ensure the wells could respond appropriately to these casing pressures. Gas lift valve depths were introduced into each individual nodal analysis well model, and a casing pressure variable was included with the other VLP variables of WHP, gas lift rate, WC, and GOR.</anchoringText>
+<image-wrap id="102118180470MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118180470MS_i_11.tif" id="ImgLink-11" />
+<caption>Gas lift Injection Model layout, W-pad</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Gas lift Injection Model layout, W-pad</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr18">Once the dedicated gas lift system model was complete (see Figs 10, 11, 12, 13, and 14)itwas incorporated into and synchronised with the production model so that the calculated casing pressures from the modelled gas lift injection system would be passed to the wells in the modelled production system. It was imperative to ensure the wells could respond appropriately to these casing pressures. Gas lift valve depths were introduced into each individual nodal analysis well model, and a casing pressure variable was included with the other VLP variables of WHP, gas lift rate, WC, and GOR.</anchoringText>
+<image-wrap id="102118180470MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118180470MS_i_12.tif" id="ImgLink-12" />
+<caption>Gas lift Injection Model Layout, Z-pad</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Gas lift Injection Model Layout, Z-pad</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr19">Once the dedicated gas lift system model was complete (see Figs 10, 11, 12, 13, and 14)itwas incorporated into and synchronised with the production model so that the calculated casing pressures from the modelled gas lift injection system would be passed to the wells in the modelled production system. It was imperative to ensure the wells could respond appropriately to these casing pressures. Gas lift valve depths were introduced into each individual nodal analysis well model, and a casing pressure variable was included with the other VLP variables of WHP, gas lift rate, WC, and GOR.</anchoringText>
+<image-wrap id="102118180470MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118180470MS_i_13.tif" id="ImgLink-13" />
+<caption>Gas lift Injection Model layout, V-pad</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Gas lift Injection Model layout, V-pad</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr20">Once the dedicated gas lift system model was complete (see Figs 10, 11, 12, 13, and 14)itwas incorporated into and synchronised with the production model so that the calculated casing pressures from the modelled gas lift injection system would be passed to the wells in the modelled production system. It was imperative to ensure the wells could respond appropriately to these casing pressures. Gas lift valve depths were introduced into each individual nodal analysis well model, and a casing pressure variable was included with the other VLP variables of WHP, gas lift rate, WC, and GOR.</anchoringText>
+<image-wrap id="102118180470MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118180470MS_i_14.tif" id="ImgLink-14" />
+<caption>Gas lift Injection Model layout, L-pad</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Gas lift Injection Model layout, L-pad</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

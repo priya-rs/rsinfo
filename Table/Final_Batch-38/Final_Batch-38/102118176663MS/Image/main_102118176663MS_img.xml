@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118176663MS.txt" extractionDate="2021-03-20T16:10:32Z">
+<doi>10.2118/176663-MS</doi>
+<pii>10.2118/176663-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">R. Trebs oil field is located by the Barents Sea (Figure 1). A. Titov oil field, another major discovery, is located nearby to the south-east. Both assets are considered greenfields at an early stage of development. The main oil reservoirs are quite deep (about 4000 m), confined to the Lower Devonian and Upper Silurian carbonates (D1op+S2gr). The initial reservoir pressure is approximately 43 MPa and the reservoir temperature is about 90°C.</anchoringText>
+<image-wrap id="102118176663MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118176663MS_i_1.tif" id="ImgLink-1" />
+<caption>Location map of R. Trebs and A. Titov oil fields</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Location map of R. Trebs and A. Titov oil fields</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">The joint modeling of the gathering and processing facilities for both of the fields resulted in the process flow diagram as shown in Figure 2.</anchoringText>
+<image-wrap id="102118176663MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118176663MS_i_2.tif" id="ImgLink-2" />
+<caption>Principal process flow diagram for SWAG on R. Trebs oil field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Principal process flow diagram for SWAG on R. Trebs oil field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">The following computational scheme was developed for integrated modeling of R. Trebs oil field development project with implementation of SWAG, as shown in Figure 3.</anchoringText>
+<image-wrap id="102118176663MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118176663MS_i_3.tif" id="ImgLink-3" />
+<caption>Principle computational scheme for integrated model of R. Trebs oil field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Principle computational scheme for integrated model of R. Trebs oil field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">To account for all these factors the simulated area of the reservoir is broken down into individual blocks (Figure 4). Each block is characterized by its own parameters: reserves, porosity, oil saturation, aquifer properties etc. Each block has its own set of mass balance equations and it is simulated separately.</anchoringText>
+<image-wrap id="102118176663MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118176663MS_i_4.tif" id="ImgLink-4" />
+<caption>Tentative simulation blocks of R. Trebs oil field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Tentative simulation blocks of R. Trebs oil field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">It is anticipated that when gas is used as one of the displacement agents the rate of produced water will decrease and the displacement efficiency will change. Figure 5 illustrates how displacement efficiency changes with different timing of SWAG after implementing water flooding. This is the result of one of the dynamic flow simulations run for a sector of the field. Abrupt changes in water-cut (jumps of the curves) are associated with shutting-in of select highly watered wells. The timing of the water flood notably affects the water-cut and the recovery factor (RF).</anchoringText>
+<image-wrap id="102118176663MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118176663MS_i_5.tif" id="ImgLink-5" />
+<caption>Displacement efficiency from sector dynamic flow simulations</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Displacement efficiency from sector dynamic flow simulations</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">When the water flood is replaced by SWAG the displacement efficiency changes (Figure 6). For a certain period of time water-cut stops growing (based on simulation results it may even go down in some cases), then it starts to increase again.</anchoringText>
+<image-wrap id="102118176663MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118176663MS_i_6.tif" id="ImgLink-6" />
+<caption>Displacement efficiency (effective) (green line) from “extreme” displacement efficiencies (blue line is for water flood, red line is for SWAG)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Displacement efficiency (effective) (green line) from “extreme” displacement efficiencies (blue line is for water flood, red line is for SWAG)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">The characteristic behavior of the conversion factor based on the results of dynamic simulations is shown in Figure 7.</anchoringText>
+<image-wrap id="102118176663MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118176663MS_i_7.tif" id="ImgLink-7" />
+<caption>Characteristic behavior of conversion factor for effective displacement efficiency</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Characteristic behavior of conversion factor for effective displacement efficiency</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">Another effect which was considered in the description of displacement efficiency under SWAG is the impact of the gas ratio in the injection fluid. In this case two auxiliary displacement curves are used – effective displacement which is used in the current performance of SWAG and corresponds to the base value for gas ratio in the flow, displacement under water flood subject to the current value of the recovery factor (Figure 8).</anchoringText>
+<image-wrap id="102118176663MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118176663MS_i_8.tif" id="ImgLink-8" />
+<caption>Changes in displacement efficiency with changes in gas ratio in injection fluid</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Changes in displacement efficiency with changes in gas ratio in injection fluid</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">In the case of wells the boundary condition imposed by the reservoir is its pressure Pr. The bottom-hole pressure of the well PBH is estimated from the production (or injection) flow rate and well productivity (or injectivity) (Figure 9). Another boundary condition at the surface is the pressure in the field pipelines Pline – either in the gathering network or in the injection lines for pressure maintenance. The well flow rate at the wellhead pressure equal to line pressure determines the well potential.</anchoringText>
+<image-wrap id="102118176663MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118176663MS_i_9.tif" id="ImgLink-9" />
+<caption>Schematic diagram with external and boundary conditions for producers and injectors under SWAG</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Schematic diagram with external and boundary conditions for producers and injectors under SWAG</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">The separators figuratively knock out oil, gas and water as individual phases (Figure 10). For the calculations of phase-to-phase equilibrium the compositional PVT-model is used based on the three-parameter equation of state (Peng, Robinson, 1976; Peneloux et al., 1982). To do this a computational module was developed with the help of the Michelsen algorithm (Michelsen, 1999; Whitson, Michelsen, 1989).</anchoringText>
+<image-wrap id="102118176663MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118176663MS_i_10.tif" id="ImgLink-10" />
+<caption>Diagram showing separation of flows at the computational element of the separator</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Diagram showing separation of flows at the computational element of the separator</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">It should be noted that the displacement of the oil from the reservoirs of R. Trebs oil field under SWAG will be implemented in near-miscible conditions or complete miscibility. Figure 11 shows an example of a ternary diagram for one of the development targets/reservoirs.</anchoringText>
+<image-wrap id="102118176663MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118176663MS_i_11.tif" id="ImgLink-11" />
+<caption>Ternary diagram for one of the reservoirs, R. Trebs oil field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Ternary diagram for one of the reservoirs, R. Trebs oil field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">The injected gas is the supercritical region as shown in Figure 12 thus the term gas for this fluid is not really valid. In the integrated model the term hydrocarbon phase (HCP) is used.</anchoringText>
+<image-wrap id="102118176663MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118176663MS_i_12.tif" id="ImgLink-12" />
+<caption>Conditions at the well-head of the injectors and in the reservoir relative to the type phase envelopes of the reservoir oil (black), associated petroleum gas (blue) and hydrocarbon phase (red)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Conditions at the well-head of the injectors and in the reservoir relative to the type phase envelopes of the reservoir oil (black), associated petroleum gas (blue) and hydrocarbon phase (red)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="23" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">Figure 13 shows the estimated oil production profile for R. Trebs field. It is obvious from the diagram that SWAG is more efficient than water flooding. Apart from increasing the oil recovery factor SWAG also enhances or stimulates the oil production as seen from the lower water-cut (Figure 14). Significantly less volume of water is injected in SWAG with the same voidage replacement ratio as in water flood. The injected gas reduces the water mobility.</anchoringText>
+<image-wrap id="102118176663MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118176663MS_i_13.tif" id="ImgLink-13" />
+<caption>Estimated oil production profiles for R. Trebs oil field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Estimated oil production profiles for R. Trebs oil field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="23" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr14">Figure 13 shows the estimated oil production profile for R. Trebs field. It is obvious from the diagram that SWAG is more efficient than water flooding. Apart from increasing the oil recovery factor SWAG also enhances or stimulates the oil production as seen from the lower water-cut (Figure 14). Significantly less volume of water is injected in SWAG with the same voidage replacement ratio as in water flood. The injected gas reduces the water mobility.</anchoringText>
+<image-wrap id="102118176663MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118176663MS_i_14.tif" id="ImgLink-14" />
+<caption>Estimated water-cut profile for R. Trebs oil field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Estimated water-cut profile for R. Trebs oil field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="24" figure-order="15" data-type-order="15">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr15">The GOR under SWAG may be times higher than the gas content of the reservoir oil – up to 700 m3/m3 (Figure 15). This increase is explained by the return gas coming to the producing wells. The changes in GOR values depend on the oil production and gas injection rates. During field development the ratio of oil in the produced fluid decreases due to water-cut whereas the rate of the injected gas (considering the return gas too) decreases at a slower rate.</anchoringText>
+<image-wrap id="102118176663MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118176663MS_i_15.tif" id="ImgLink-15" />
+<caption>Estimated GOR profile for R. Trebs oil field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Estimated GOR profile for R. Trebs oil field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="24" figure-order="16" data-type-order="16">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr16">The gas-to-liquid ratio (GLR) shows how much gas and how much liquid is produced (Figure 16). At the first stage GLR increases which is explained by growing gas production (Figure 17). The increase in the gas production is essentially explained by its accumulation in the system due to the closed or recycled gas flow. However after reaching the maximum (about 320 m3/m3) it starts falling – it is related first of all to the increased gas content which is trapped in-situ after displacing oil.</anchoringText>
+<image-wrap id="102118176663MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118176663MS_i_16.tif" id="ImgLink-16" />
+<caption>Estimated GLR profile for R. Trebs oil field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Estimated GLR profile for R. Trebs oil field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="25" figure-order="17" data-type-order="17">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr17">The gas-to-liquid ratio (GLR) shows how much gas and how much liquid is produced (Figure 16). At the first stage GLR increases which is explained by growing gas production (Figure 17). The increase in the gas production is essentially explained by its accumulation in the system due to the closed or recycled gas flow. However after reaching the maximum (about 320 m3/m3) it starts falling – it is related first of all to the increased gas content which is trapped in-situ after displacing oil.</anchoringText>
+<image-wrap id="102118176663MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118176663MS_i_17.tif" id="ImgLink-17" />
+<caption>Estimated gas profiles in the system</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Estimated gas profiles in the system</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

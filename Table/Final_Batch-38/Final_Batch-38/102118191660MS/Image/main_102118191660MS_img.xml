@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191660MS.txt" extractionDate="2021-03-30T14:58:04Z">
+<doi>10.2118/191660-MS</doi>
+<pii>10.2118/191660-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="5" figure-order="1" data-type-order="2">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr10">For this study, the grid faults and OWC are assumed to be known; however, there is no historical data available. To generate required properties for the model, 50 realizations (with facies regenerated randomly) were created. As can be seen from Fig. 1 and 2, porosity, permeability, NTG, Swi and fluid transmissibility have high uncertainty.</anchoringText>
+<image-wrap id="102118191660MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118191660MS_i_1.tif" id="ImgLink-1" />
+<caption>up-scaled permeability (Top Section)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>up-scaled permeability (Top Section)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr11">For this study, the grid faults and OWC are assumed to be known; however, there is no historical data available. To generate required properties for the model, 50 realizations (with facies regenerated randomly) were created. As can be seen from Fig. 1 and 2, porosity, permeability, NTG, Swi and fluid transmissibility have high uncertainty.</anchoringText>
+<image-wrap id="102118191660MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118191660MS_i_2.tif" id="ImgLink-2" />
+<caption>up-scaled permeability (Bottom of the reservoir)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>up-scaled permeability (Bottom of the reservoir)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="3" data-type-order="8">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr12">Fig. 3 shows the procedure for the process applied to Olympus case 1. The SOI map will be used to optimize the field with respect to the reference well locations, where the following three cases in particular will be of focus – case 1 (pessimistic), case 9 (intermediate) and case 49 (optimistic). (Appendix A-C)</anchoringText>
+<image-wrap id="102118191660MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118191660MS_i_3.tif" id="ImgLink-3" />
+<caption>SOI – Olympus Case 1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>SOI – Olympus Case 1</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="10" figure-order="4" data-type-order="9">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr13">As can be seen in Fig. 4, the SOI maps give an understanding of multiple flow capacities and reservoir heterogeneities during the process of identifying the sweet spots. While designing the completion type under high reservoir uncertainties as in this case, it is imperative to factor in barriers between zone as well as channelized reservoirs (north to south. In these cases, vertical wells reduce the probability of good reservoir sweep as compared to deviated wells. Fig. 5 shows optimized location of the new wells – PROD 6, 7, 9 and 10 – where them being deviated in nature maximizes reservoir sweep and allows production from multiple zones separated by barriers.</anchoringText>
+<image-wrap id="102118191660MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118191660MS_i_4.tif" id="ImgLink-4" />
+<caption>SOI for 3 selected cases out of the 50 realizations</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>SOI for 3 selected cases out of the 50 realizations</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191660MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118191660MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>A</caption-order>
+<caption-text>Case 1</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191660MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118191660MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>B</caption-order>
+<caption-text>Case 9</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191660MS-Img_SPi-4c">
+<imageLink type="mediaResource" href="102118191660MS_i_4c.tif" id="ImgLink-4c" />
+<figure-specific-caption>
+<caption-order>C</caption-order>
+<caption-text>Case 49</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="5" data-type-order="10">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr14">As can be seen in Fig. 4, the SOI maps give an understanding of multiple flow capacities and reservoir heterogeneities during the process of identifying the sweet spots. While designing the completion type under high reservoir uncertainties as in this case, it is imperative to factor in barriers between zone as well as channelized reservoirs (north to south. In these cases, vertical wells reduce the probability of good reservoir sweep as compared to deviated wells. Fig. 5 shows optimized location of the new wells – PROD 6, 7, 9 and 10 – where them being deviated in nature maximizes reservoir sweep and allows production from multiple zones separated by barriers.</anchoringText>
+<image-wrap id="102118191660MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118191660MS_i_5.tif" id="ImgLink-5" />
+<caption>Optimized well locations</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Optimized well locations</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="11" figure-order="6" data-type-order="11">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr15">Post initial manual optimization of well placement and completion type, the waterflooding strategy must be optimized. From well profiles of INJ-1, 5 and 6 it can be deduced that their ineffective performance can be attributed to them being not placed in the reservoir and hence must be relocated as shown in Fig. 6 to satisfy the three earlier selected cases to account for uncertainties with fault transmissibility. Additionally, the need for an additional injection well to provide pressure support for PROD 7 and 10 was identified through SOI maps, for which INJ-7 was designed. To improve performance, the newly designed injection wells were perforated at net zones rather than at overall pay thickness as seen in existing reference injectors.</anchoringText>
+<image-wrap id="102118191660MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118191660MS_i_6.tif" id="ImgLink-6" />
+<caption>Manual optimization for FDP – SOI maps for 3 selected cases at end of optimization period</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Manual optimization for FDP – SOI maps for 3 selected cases at end of optimization period</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191660MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118191660MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>A</caption-order>
+<caption-text>Case 1</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191660MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118191660MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>B</caption-order>
+<caption-text>Case 9</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191660MS-Img_SPi-6c">
+<imageLink type="mediaResource" href="102118191660MS_i_6c.tif" id="ImgLink-6c" />
+<figure-specific-caption>
+<caption-order>C</caption-order>
+<caption-text>Case 49</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="7" data-type-order="13">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr16">Final optimization results show a 98% improvement in NPV, indicating enhanced reservoir sweep and depletion (Fig 7). Considering the high geological uncertainties and simplified cases for optimization, an average recovery factor (RF) of 0.242 indicates strong optimization performance. The manual FDP method depends greatly on the experience and subject matter expertise of an engineer to get best improvements in every step of the iterative trial and error process to satisfy the objective function.</anchoringText>
+<image-wrap id="102118191660MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118191660MS_i_7.tif" id="ImgLink-7" />
+<caption>Optimized results for cumulative oil produced</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Optimized results for cumulative oil produced</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="8" data-type-order="14">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr17"> </anchoringText>
+<image-wrap id="102118191660MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118191660MS_i_8.tif" id="ImgLink-8" />
+<caption>Optimization regions of each injection wells</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Optimization regions of each injection wells</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="9" data-type-order="15">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr18">Artificial Neural Networks (ANN) and a hybrid method involving kriging and ES were the automatic optimization methods used. Initial values were entered manually to begin the optimization. Heterogeneity of facies within the model can be seen from the normalized net permeability map in Fig. 9 including the near well optimization regions. It also shows the optimization done by ANN to place new wells in high flow capacity zones compared to original injectors. For Case 1, where INJ-5 and 6 are outside the reservoir, it could not optimize their placement.</anchoringText>
+<image-wrap id="102118191660MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118191660MS_i_9.tif" id="ImgLink-9" />
+<caption>Net permeability map (normalized)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Net permeability map (normalized)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="10" data-type-order="16">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr19">In the upper zone, INJ-6 was resulting in excessive water injection. To address this the hybrid approach moved INJ-1 to shale in the upper zone. Even with only 12 features, or CV's, to be interpolated in the ANN and hybrid approach, these methods required many iterations to reach convergence. Unlike well control optimization, for well placement optimization by ANN, as shown in Fig. 10, that it identified many instances of local optima before converging to a global optimum. This could be due to the high degree of heterogeneity with the reservoir model. For the hybrid approach, as shown in Fig. 11, post a certain amount of simulation runs there was not much of an improvement in proxy quality of kriging. Table 7 shows the improvement in NPV by both methods.</anchoringText>
+<image-wrap id="102118191660MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118191660MS_i_10.tif" id="ImgLink-10" />
+<caption>ANN performance for injection well placement</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>ANN performance for injection well placement</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="11" data-type-order="17">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr20">In the upper zone, INJ-6 was resulting in excessive water injection. To address this the hybrid approach moved INJ-1 to shale in the upper zone. Even with only 12 features, or CV's, to be interpolated in the ANN and hybrid approach, these methods required many iterations to reach convergence. Unlike well control optimization, for well placement optimization by ANN, as shown in Fig. 10, that it identified many instances of local optima before converging to a global optimum. This could be due to the high degree of heterogeneity with the reservoir model. For the hybrid approach, as shown in Fig. 11, post a certain amount of simulation runs there was not much of an improvement in proxy quality of kriging. Table 7 shows the improvement in NPV by both methods.</anchoringText>
+<image-wrap id="102118191660MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118191660MS_i_11.tif" id="ImgLink-11" />
+<caption>Hybrid approach (kriging + ES) results and best value</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Hybrid approach (kriging + ES) results and best value</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="15" figure-order="12" data-type-order="19">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr21">Not all of the oil reserves were depleted, as indicated by the final SOI maps (Fig. 12), which is a result of the study's objective of improving NPV rather than oil recovery. The low recovery factor (RF) of the field can be attributed to a few factors: a lack of natural drive mechanisms (aquifer, gas gap, solution gas), uncertainties in geological parameters (intensified by the model's complexity sources), and the heterogeneity of the model itself. That being said, although oil recovery was not the focus, the avg. recovery factor was increased from 18 % to 25 % (Table 8). As a final result, the NPV increased from $496.7 million to $1154.4 million due to a reduction of almost 50% in average water production from the well, despite using the same amount of injected water.</anchoringText>
+<image-wrap id="102118191660MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118191660MS_i_12.tif" id="ImgLink-12" />
+<caption>SOI maps for final optimized strategy at end of optimization period (2036)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>SOI maps for final optimized strategy at end of optimization period (2036)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191660MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118191660MS_i_12a.tif" id="ImgLink-12a" />
+<figure-specific-caption>
+<caption-order>A</caption-order>
+<caption-text>Case 1</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191660MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118191660MS_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-order>B</caption-order>
+<caption-text>Case 9</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191660MS-Img_SPi-12c">
+<imageLink type="mediaResource" href="102118191660MS_i_12c.tif" id="ImgLink-12c" />
+<figure-specific-caption>
+<caption-order>C</caption-order>
+<caption-text>Case 49</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="23" figure-order="13" data-type-order="21">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr22">Fig. 3 shows the procedure for the process applied to Olympus case 1. The SOI map will be used to optimize the field with respect to the reference well locations, where the following three cases in particular will be of focus – case 1 (pessimistic), case 9 (intermediate) and case 49 (optimistic). (Appendix A-C)</anchoringText>
+<image-wrap id="102118191660MS-Img_SPi-13">
+<label>Appendix A </label>
+<imageLink type="mediaResource" href="102118191660MS_i_13.tif" id="ImgLink-13" />
+<caption>Cum. oil prod. of all 50 realizations (pessimistic, intermediate and optimistic)</caption>
+<formatted-caption>
+<caption-label>Appendix</caption-label>
+<caption-order>A</caption-order>
+<caption-text>Cum. oil prod. of all 50 realizations (pessimistic, intermediate and optimistic)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="23" figure-order="14" data-type-order="22">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr23">Fig. 3 shows the procedure for the process applied to Olympus case 1. The SOI map will be used to optimize the field with respect to the reference well locations, where the following three cases in particular will be of focus – case 1 (pessimistic), case 9 (intermediate) and case 49 (optimistic). (Appendix A-C)</anchoringText>
+<image-wrap id="102118191660MS-Img_SPi-14">
+<label>Appendix B </label>
+<imageLink type="mediaResource" href="102118191660MS_i_14.tif" id="ImgLink-14" />
+<caption>Cum. water prod. of all realizations (pessimistic, intermediate and optimistic)</caption>
+<formatted-caption>
+<caption-label>Appendix</caption-label>
+<caption-order>B</caption-order>
+<caption-text>Cum. water prod. of all realizations (pessimistic, intermediate and optimistic)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="24" figure-order="15" data-type-order="23">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr24">Fig. 3 shows the procedure for the process applied to Olympus case 1. The SOI map will be used to optimize the field with respect to the reference well locations, where the following three cases in particular will be of focus – case 1 (pessimistic), case 9 (intermediate) and case 49 (optimistic). (Appendix A-C)</anchoringText>
+<image-wrap id="102118191660MS-Img_SPi-15">
+<label>Appendix C </label>
+<imageLink type="mediaResource" href="102118191660MS_i_15.tif" id="ImgLink-15" />
+<caption>STOIIP of all realizations</caption>
+<formatted-caption>
+<caption-label>Appendix</caption-label>
+<caption-order>C</caption-order>
+<caption-text>STOIIP of all realizations</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191060MS.txt" extractionDate="2021-03-27T19:49:09Z">
+<doi>10.2118/191060-MS</doi>
+<pii>10.2118/191060-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="4" table-order="1" data-type-order="4">
+<table-wrap id="102118191060MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The South China YQ basin is one of the three major offshore HTHP regions in the world (shown in Fig.2). The basin is located at the intersection of the Eurasian, Pacific and India – Australia plates and has a complex geological structure. The bottomhole temperature (BHT) is 249°C and the BHP is 142MPa (pore pressure gradient is 2.4MPa/100m). Consequently, the basin is typical ultra-HTHP. The comparison of three major global offshore HTHP is shown in Table 1 and Fig.3.</anchoringText>
+<label>Table 1</label>
+<caption>Comparison of three major global offshore HTHP</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Comparison of three major global offshore HTHP</caption-text>
+</formatted-caption>
+<table id="102118191060MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Region</th>
+<th valign="top" align="center">Well depth(m)</th>
+<th valign="top" align="center">Bottom-hole temperature (°C )</th>
+<th valign="top" align="center">Mud weight ( g/cm<sup>3</sup>)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Mexico Bay in America</td>
+<td valign="top" align="center">4500</td>
+<td valign="top" align="center">204.4</td>
+<td valign="top" align="center">2.13</td>
+</tr>
+<tr>
+<td valign="top" align="center">Xieerwate of North Sea in England</td>
+<td valign="top" align="center">5334</td>
+<td valign="top" align="center">198.9</td>
+<td valign="top" align="center">2.27</td>
+</tr>
+<tr>
+<td valign="top" align="center">YQ Basin in South China Sea</td>
+<td valign="top" align="center">5638</td>
+<td valign="top" align="center">249</td>
+<td valign="top" align="center">2.38</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="8" table-order="2" data-type-order="6">
+<table-wrap id="102118191060MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The third part is the plans of three cases: downhole accidents, equipment failures and termination conditions of MPD [32-34]. The third part includes three steps: make the emergency measures against downhole accidents by well control matrix (shown in Table 2); make the emergency measures against the failure of equipment such as RCD; determine the MPD termination conditions such as drilling big cracks.</anchoringText>
+<label>Table 2</label>
+<caption>MPD operational well control matrix</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>MPD operational well control matrix</caption-text>
+</formatted-caption>
+
+<table id="102118191060MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" rowspan="2" align="center">
+Operational well control matrix
+</th>
+<th colspan="4" align="center">SBP Indicator</th>
+</tr>
+<tr>
+<th align="center">Drilling At planned SBP (≤l00psi)</th>
+<th align="center">Connection with SBP At planned connection SBP (≤600psi)</th>
+<th valign="bottom" align="center">&#x003E;Planned SBP&#x003C;Operational limit (&#x003E;600psi&amp;&#x003C;800psi)</th>
+<th valign="bottom" align="center">SBP&#x003E;Operational highest limit (approaching 900psi)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+</tr>
+<tr>
+<td rowspan="3" valign="bottom" align="left">Kick indicator. Pit gain. Trip lank gain. EKDS</td>
+<td align="left">No kick</td>
+<td bgcolor="#00FF01" align="left">Continue drilling</td>
+<td bgcolor="#00FF01" align="left">Continue connection</td>
+<td bgcolor="#FFFF00" align="left">Increase pump rate and MW to reduce SBP to planned or contingency levels</td>
+<td valign="top" bgcolor="#FE0002" align="left">Stop operation Space out tooljoint Shut in well oil rig BOP and evaluate next action Line up to control well through the rig Choke</td>
+</tr>
+<tr>
+<td valign="top" align="left">Kick &#x003C;0.3nT (1.9bbls)</td>
+<td valign="top" bgcolor="#FFFF00" align="left">Stop drilling Allow MFC to increase SBP to Flowin =FIowout. stop the kick and add safety margin Space out tooljoint Keep circulation at drilling rate Circulation kick out through MFCS chokemainfold Evaluate SBP</td>
+<td valign="top" bgcolor="#FFFF00" align="left">Stop connection Allow MFC to increase SBP to Flowin =FIowout, stop the kick and add safety margin Stab FOSV Connect the top drive Space out tooljoint Keep circulation with MPD pump Circulation kick out through MFCS chokemainfold Evaluate SBP</td>
+<td valign="top" bgcolor="#FFFF00" align="left">Increase pump rate and MW to reduce SBP to planned or contingency levels</td>
+<td valign="top" bgcolor="#FE0002" align="left">Stop operation Space out tooljoint Stop mailt pumps circulation Shut in BOP Line up to control well through the rig choke</td>
+</tr>
+<tr>
+<td align="left">Kick &#x003E;0.3m<sup>3</sup> (1.9bbls)</td>
+<td valign="bottom" bgcolor="#FE0002" align="left">Stop drilling Space out tooljoint Stop pumps circulation Shut in BOP Line up to control well through the rig choke</td>
+<td valign="bottom" bgcolor="#FE0002" align="left">Stop connection Space out looljoint Slop main pumps circulation Shut in BOP Line up to control well through the rig choke</td>
+<td valign="bottom" bgcolor="#FE0002" align="left">Stop operation Space oul tooljoint Stop main pumps circulation Shut in BOP Line up to control well through the rig</td>
+<td valign="bottom" bgcolor="#FE0002" align="left">Stop operation Space out looljoint Stop main pumps circulation Shut in BOP Line up to control Well through the rig</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118178355MS.txt" extractionDate="2021-03-19T17:17:04Z">
+<doi>10.2118/178355-MS</doi>
+<pii>10.2118/178355-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="4" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">However, for our present application (reservoir screening and making a case for analogy), we consider a simplification to a 2-layer formation. We focus on the most permeable layer, while upscaling all other layers into a single layer, with aggregated properties. Therefore, for this hypothetical 2-layer reservoir (Fig. 1), we simplify Eq. 4 as follows.</anchoringText>
+<image-wrap id="102118178355MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118178355MS_i_1.tif" id="ImgLink-1" />
+<caption>Simplification of Stiles’ permeability model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Simplification of Stiles’ permeability model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">Fig. 2 is a schematic of the model, assuming a 4-compartment reservoir. Each compartment was developed by a well pair made up of injector and producer, with the well-spacing being the same for all compartments. Through the transmissibility factor (Tb), there was provision for fluid flow between adjacent compartments. Tb ranged from 0 to 1, reflecting fully closed and fully open boundaries, respectively. Depending on the case of interest, the compartments were developed incrementally while ensuring that each developed compartment has a single injector-producer pair (Fig. 3)</anchoringText>
+<image-wrap id="102118178355MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118178355MS_i_2.tif" id="ImgLink-2" />
+<caption>Conceptual model of compartmentalisation and development ( ●= producer, ○ = water injector)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Conceptual model of compartmentalisation and development ( ●= producer, ○ = water injector)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Fig. 2 is a schematic of the model, assuming a 4-compartment reservoir. Each compartment was developed by a well pair made up of injector and producer, with the well-spacing being the same for all compartments. Through the transmissibility factor (Tb), there was provision for fluid flow between adjacent compartments. Tb ranged from 0 to 1, reflecting fully closed and fully open boundaries, respectively. Depending on the case of interest, the compartments were developed incrementally while ensuring that each developed compartment has a single injector-producer pair (Fig. 3)</anchoringText>
+<image-wrap id="102118178355MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118178355MS_i_3.tif" id="ImgLink-3" />
+<caption>Compartmentalisation and incremental development (●= producer, ○ = water injector)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Compartmentalisation and incremental development (●= producer, ○ = water injector)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">Development efficiency By developing the reservoir compartments incrementally (Fig. 4), and plotting the ultimate-recovery (UR) against the developed fraction of the total compartments, we observe that UR is controlled by the developed fraction of the total STOIIP (compartments). Given that only the number of developed compartments was varied, the changes in UR are attributed to Edev.</anchoringText>
+<image-wrap id="102118178355MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118178355MS_i_4.tif" id="ImgLink-4" />
+<caption>Flood pattern for different development efficiencies (<i>T<sub>b</sub>
+</i> = 0.75) <i>E<sub>dev </sub>=</i>  ,0.75, 1.0</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Flood pattern for different development efficiencies (T<sub>b</sub> = 0.75) </caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118178355MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118178355MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text><i>E<sub>dev </sub>=</i> 0.25</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178355MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118178355MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text><i>E<sub>dev </sub>=</i> 0.50</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178355MS-Img_SPi-4c">
+<imageLink type="mediaResource" href="102118178355MS_i_4c.tif" id="ImgLink-4c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text><i>E<sub>dev </sub>=</i> 0.75</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178355MS-Img_SPi-4d">
+<imageLink type="mediaResource" href="102118178355MS_i_4d.tif" id="ImgLink-4d" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text><i>E<sub>dev </sub>=</i> 1.0</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">To facilitate the computation and applicability of the new analogue parameter (Eq. 15), a spreadsheet program has been developed, with all the relevant expressions coded. As displayed on Fig. 5, the input data to be provided by the user are (i) pore-scale variables such as saturations and relative permeabilities (Eqs. 1 and 2); (ii) fluid properties; (iii) vertical-heterogeneity variables such as permeability and thickness contrasts (Eq. 5); (iv) development variables such as developed STOIIP/compartments (Eq. 7);(v) reservoir-connectivity variable i.e. transmissibility-factor (Eq. 8); and (vi) if relevant, depletion-drive variables Pi and Pb (Eq. 11).</anchoringText>
+<image-wrap id="102118178355MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118178355MS_i_5.tif" id="ImgLink-5" />
+<caption>User interface for the computation of aggregate parameter</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>User interface for the computation of aggregate parameter</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">Three distinct facies types have been identified from core and log data (Fig. 6), with log correlations indicating varied spatial distributions across the reservoirs. For vertical distribution of permeabilities, hence the estimation of permeability contrasts among the layers, we have employed the facies-dependent porosity-permeability transforms derived from core and log-derived layer porosities and thicknesses.</anchoringText>
+<image-wrap id="102118178355MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118178355MS_i_6.tif" id="ImgLink-6" />
+<caption>Example gamma-ray logs for the 5 reservoirs</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Example gamma-ray logs for the 5 reservoirs</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">Stratigraphic and structural barriers inferred from seismic and static-pressure data as well as inferences from pressure-transient (and interference) tests and distribution of STOIIP have had major influence on the number and placement of wells in the various reservoirs (Fig. 7). With four identifiable compartments, reservoir-A is the most compartmentalised. However, as illustrated on Fig. 7, only three of the four compartments have been developed, suggesting that some fraction of its potential recovery might have been regretted by virtue of the current development scope.</anchoringText>
+<image-wrap id="102118178355MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118178355MS_i_7.tif" id="ImgLink-7" />
+<caption>Amplitude-on-structure maps for reservoirs A and D</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Amplitude-on-structure maps for reservoirs A and D</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118178355MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118178355MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Reservoir-A</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178355MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118178355MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Reservoir-B</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">As a check on the robustness of the proposed aggregate parameter for establishing analogy, we performed detailed 3-dimensional dynamic simulations of the reservoir models. Fig. 8 depicts the results of the aggregate parameter and the recovery factor for the various reservoirs, as estimated from analogue computations and reservoir simulations, respectively. Based on the principle of analogy, which suggests that the estimated resource volume has a reasonable certainty of upward revision in the future (Harrell et al., 2004; Ross, 2001), reservoir-A appears to be the best analogue candidate among the five reservoirs, while reservoir-B is unlikely to be a suitable analogue for any of the other reservoirs considered in this work. By the same logic, reservoir-E is a potential analogue (in terms of recovery) for reservoirs B and D.</anchoringText>
+<image-wrap id="102118178355MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118178355MS_i_8.tif" id="ImgLink-8" />
+<caption>Comparison of performances from simulation and proposed analogue parameter (relative scale)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Comparison of performances from simulation and proposed analogue parameter (relative scale)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">Although neither the reservoir connectivity nor the layer permeability contrasts are great, the relatively impressive performance of reservoir-E is attributed to the contribution of depletion drive, as production from this reservoir was maintained for the first 26 months by a combination of rock-fluid expansion and very weak aquifer support (Fig. 9). Specifically, its initial pressure buffer (i.e. Pi - Pb) was about 450 psi, and was the only reservoir with significant depressurisation (down to the bubble-point) prior to the commencement of injection. In other words, its waterflood performance has been augmented by the blowdown of some 450-psi before injection start-up.</anchoringText>
+<image-wrap id="102118178355MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118178355MS_i_9.tif" id="ImgLink-9" />
+<caption>Pressure-history of Reservoir-E, showing first 26 months dominated by depletion-drive down to bubble-point pressure</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Pressure-history of Reservoir-E, showing first 26 months dominated by depletion-drive down to bubble-point pressure</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

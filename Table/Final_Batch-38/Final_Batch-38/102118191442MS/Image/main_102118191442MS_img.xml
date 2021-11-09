@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191442MS.txt" extractionDate="2021-03-29T19:22:23Z">
+<doi>10.2118/191442-MS</doi>
+<pii>10.2118/191442-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">By definition, a heat map is a 2D representation of data in a format of varying colors. In our study, we use the density of any object related to a hydraulic fracture in a color scale mapped over a 2D canvas. A hydraulic fracture object could be any discrete mapping of properties such as hydraulic fracture permeability, proppant distribution, or the hydraulic fracture footprint itself. The heat map of a property along the wellbore is created by summing the property values with reference to the wellbore in the I, J, or K direction (Fig. 1).</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_1.tif" id="ImgLink-1" />
+<caption>Hydraulic fracture properties along the wellbore are combined in a representation to create a heat map in either I, J, or K direction.s</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Hydraulic fracture properties along the wellbore are combined in a representation to create a heat map in either I, J, or K direction.s</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">Fig. 2 shows the Permian basin outline and the area for the study presented in this paper has been located primarily in the Regan County of the Midland basin targeting the Wolfcamp formation benches.</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_2.tif" id="ImgLink-2" />
+<caption>Permian basin setting [source: www.britannica.com and Laredo Petroleum].</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Permian basin setting [source: www.britannica.com and Laredo Petroleum].</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Well completion practices in Reagan County alone have varied. Comparing the reported completion data from IHS, when we looked at the amount of proppant pumped per gallon of fracturing fluid, the range of variation for operators landing their wellbore in the Wolfcamp ranges from 0.8 lbm/gal to 1.2 lbm/gal (Fig. 3), and the amount of proppant pumped per perforated interval ranges from 1,000 lbm/ft to 2,000 lbm/ft. This suggests that the subsurface heterogeneity in the county has driven the operators to choose different treatment designs depending on where they operate.</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_3.tif" id="ImgLink-3" />
+<caption>Proppant and fluid volume differ in the same county (Reagan) and same formation (Wolfcamp) as operators chose to design treatments from their experience in the heterogenous unconventional plays (Source: IHS Enerdeq)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Proppant and fluid volume differ in the same county (Reagan) and same formation (Wolfcamp) as operators chose to design treatments from their experience in the heterogenous unconventional plays (Source: IHS Enerdeq)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">Fig. 4 depicts the overall workflow for the well completion optimization developed during this study. The process starts with building the geocellular model, which comprises a description of the reservoir properties, geomechanical properties, and natural fracture network model. To build a robust geocellular model, geology and geophysical information derived from seismic data is incorporated apart from the well logs and their interpretation. Dipole sonic logs acquired from pilot wellbores are used to create the geomechanical property distribution in the model.</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_4.tif" id="ImgLink-4" />
+<caption>Streamlined workflow for creating actionable decisions for well completion optimization.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Streamlined workflow for creating actionable decisions for well completion optimization.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">The natural fracture model was built for the area of interest derived from horizontal wellbore image logs and the seismic ant-tracking method (Miller 2013). The general workflow to create the natural fracture model from the image log and use it in the hydraulic fracture modeling is shown in Fig. 5.</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_5.tif" id="ImgLink-5" />
+<caption>Workflow to generate and refine the natural fracture model.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Workflow to generate and refine the natural fracture model.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">Image logs from numerous wells around the region including vertical and horizontal wellbore image logs were evaluated to populate the natural fracture density in the model (Fig. 6) and use that further for the hydraulic fracture modeling.</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_6.tif" id="ImgLink-6" />
+<caption>Discrete natural fracture sets; larger features are derived from seismic data interpretation and smaller sets are derived from the image log interpretations and correlation to property attributes.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Discrete natural fracture sets; larger features are derived from seismic data interpretation and smaller sets are derived from the image log interpretations and correlation to property attributes.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">Because hydraulic fractures interact mechanically with natural fractures present in the unconventional reservoirs, the geometry created looks significantly different from the conventional notion of bi-winged planar fracture geometry. It is thought that as the hydraulic fracture interacts with the natural fracture, there are possibly three options for propagation (Fig. 7): cross the natural fracture, dilate the natural fracture and propagate in the direction of the natural fracture, or dilate and then cross the fracture.</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_7.tif" id="ImgLink-7" />
+<caption>Hydraulic fracture propagation and interaction with natural fracture.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Hydraulic fracture propagation and interaction with natural fracture.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">An example for the hydraulic fracture geometry in our study is shown in Fig. 8. It can be seen that, depending on the natural fracture intensity, the hydraulic fractures are longer at instances of sparse distributed fracture network (DFN) and shorter at instances of dense DFN. Microseismic data acquired on numerous instances across various wells stimulated in the region also confirm the heterogeneity of the reservoir and hydraulic fracture growth because the stage-by-stage microseismic events show variation in their footprint as an independent confirmation.</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_8.tif" id="ImgLink-8" />
+<caption>Hydraulic fracture footprint varies as DFN intensity changes.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Hydraulic fracture footprint varies as DFN intensity changes.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">As part of the workflow, a quick production data analysis through the planar and simple model is ascertained to create a better understanding of reservoir properties and effective fracture geometries. When the geological model is ready, a bi-winged planar fracture is used to represent hydraulic fractures as an initial estimate. As shown in Fig. 9, the red cells represent higher-conductivity fractures (occupied by larger proppants), purple cells represent lower-conductivity fractures (occupied by smaller proppants), and green cells represent unpropped microfractures.</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_9.tif" id="ImgLink-9" />
+<caption>A bi-wing plane system representing hydraulic fractures in a producing well.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>A bi-wing plane system representing hydraulic fractures in a producing well.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">As shown in Fig. 10, the complex hydraulic fracture pattern and the proppant distributions (red representing 40/70 proppants and purple 100-mesh proppants) are more complex. Similar to the bi-wing system modeling, microfractures (green cells in Fig. 10) are added to the system to better represent the complex fracture system. Permeability multipliers are used to modify the permeability values inside these hydraulic fractures during the history matching process. A calibrated model can then be used to perform history matching (Fig. 11). and predict future production performance or to carry out completion sensitivity analyses</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_10.tif" id="ImgLink-10" />
+<caption>A complex fracture model representing hydraulic fractures in a producing wellbore.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>A complex fracture model representing hydraulic fractures in a producing wellbore.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="10" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">As shown in Fig. 10, the complex hydraulic fracture pattern and the proppant distributions (red representing 40/70 proppants and purple 100-mesh proppants) are more complex. Similar to the bi-wing system modeling, microfractures (green cells in Fig. 10) are added to the system to better represent the complex fracture system. Permeability multipliers are used to modify the permeability values inside these hydraulic fractures during the history matching process. A calibrated model can then be used to perform history matching (Fig. 11). and predict future production performance or to carry out completion sensitivity analyses</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-11">
+<label>Figure 11</label>
+<imageLink type="mediaResource" href="102118191442MS_i_11.tif" id="ImgLink-11" />
+<caption>A production history match using numerical simulation. Well#1 Bottom hole pressure Well#1 Gas-oil ratio Well#1 Oil production cumulative Well#1 Water cut</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>A production history match using numerical simulation. Well#1 Bottom hole pressure Well#1 Gas-oil ratio Well#1 Oil production cumulative Well#1 Water cut</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191442MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118191442MS_i_11a.tif" id="ImgLink-11a" />
+<figure-specific-caption>
+<caption-text>Well#1 Bottom hole pressure</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191442MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118191442MS_i_11b.tif" id="ImgLink-11b" />
+<figure-specific-caption>
+<caption-text>Well#1 Gas-oil ratio</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191442MS-Img_SPi-11c">
+<imageLink type="mediaResource" href="102118191442MS_i_11c.tif" id="ImgLink-11c" />
+<figure-specific-caption>
+<caption-text>Well#1 Oil production cumulative</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191442MS-Img_SPi-11d">
+<imageLink type="mediaResource" href="102118191442MS_i_11d.tif" id="ImgLink-11d" />
+<figure-specific-caption>
+<caption-text>Well#1 Water cut</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">The upper Wolfcamp horizontal well in this study was treated in 46 stages, 54-ft cluster spacing at three and five clusters per stage, and slickwater treatment with 1,800 lbm/ft proppant volume design. Diagnostic tools such as microseismic heat maps were used as a calibration tool for the complex fracture model. As discussed earlier, the heat map is a 2D representation of any grid property by summing the property values with reference to the wellbore in the I, J, or K direction. Fig. 12 shows similar hydraulic fracture geometry between the calibrated model heat map and the microseismic heat map.</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_12.tif" id="ImgLink-12" />
+<caption>Calibrated model complex fracture heat map versus microseismic heat map (red, highest density of hydraulic fractures; blue, lowest density of hydraulic fractures).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Calibrated model complex fracture heat map versus microseismic heat map (red, highest density of hydraulic fractures; blue, lowest density of hydraulic fractures).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">The big question most operators are faced with is how much proppant is optimum and when do we begin to see diminishing return in the amount of proppant volume pumped per well. Sensitivities were run on only proppant volume, with every other completion parameter remaining the same. Fig. 13 shows the modeling results in the form of hydraulic and propped fracture heat maps from a range of 4,800 to 1,200 lbm/ft. The heat maps give an easy yet concise representation of the fracture geometry. It shows that the hydraulic and propped fracture geometry increases with increasing pounds per foot.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-13">
+<label>Figure 13</label>
+<imageLink type="mediaResource" href="102118191442MS_i_13.tif" id="ImgLink-13" />
+<caption>Decreasing proppant per lateral foot with hydraulic (top) and propped (bottom) heat maps ranging from 4,800 lbm/ft to 1,200 lbm/ft (ppf, pound-mass per foot).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Decreasing proppant per lateral foot with hydraulic (top) and propped (bottom) heat maps ranging from 4,800 lbm/ft to 1,200 lbm/ft (ppf, pound-mass per foot).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191442MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118191442MS_i_13a.tif" id="ImgLink-13a" />
+<figure-specific-caption>
+<caption-order>top</caption-order>
+<caption-text>Decreasing proppant per lateral foot with hydraulic</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191442MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118191442MS_i_13b.tif" id="ImgLink-13b" />
+<figure-specific-caption>
+<caption-order>bottom</caption-order>
+<caption-text>and propped</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr14">Most operators are faced with questions such as what is the optimum cluster spacing, how tight can we go and when do we begin to see diminishing return in tighter cluster spacing. Sensitivities were run on cluster spacing while maintaining 1800 pound-mass of proppant per lateral foot and five clusters per stage. This translates to more stages and less proppant per cluster with tighter cluster spacing as shown in Fig. 14. The figure also shows the modeling results in the form of hydraulic and propped fracture heat maps from a range of 108ft to 15ft cluster spacing.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-14">
+<label>Figure 14</label>
+<imageLink type="mediaResource" href="102118191442MS_i_14.tif" id="ImgLink-14" />
+<caption>Decreasing cluster spacing with hydraulic (top) and propped (bottom) heat maps ranging from 108ft to 15ft cluster spacing.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Decreasing cluster spacing with hydraulic (top) and propped (bottom) heat maps ranging from 108ft to 15ft cluster spacing.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191442MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118191442MS_i_14a.tif" id="ImgLink-14a" />
+<figure-specific-caption>
+<caption-order>top</caption-order>
+<caption-text>Decreasing cluster spacing with hydraulic</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191442MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118191442MS_i_14b.tif" id="ImgLink-14b" />
+<figure-specific-caption>
+<caption-order>bottom</caption-order>
+<caption-text>and propped</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="14" figure-order="15" data-type-order="15">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr15">Fig. 15 shows the modeling results in the form of hydraulic and propped fracture heat maps for 15ft and 30ft cluster spacing at 1,800, 2,400, and 3,000 lbm/ft in comparison to 1800 lbm/ft and 54ft cluster spacing. Hydraulic and propped fracture geometry heat maps show smaller fracture geometry footprint, maximized near wellbore contact and increased complexity with tighter cluster spacing at the same pounds per foot.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-15">
+<label>Figure 15</label>
+<imageLink type="mediaResource" href="102118191442MS_i_15.tif" id="ImgLink-15" />
+<caption>Decreasing cluster spacing with hydraulic (top) and propped (bottom) heat maps ranging from 108-ft to 15-ft cluster spacing at 1,800, 2,400, and 3,000 lbm/ft.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Decreasing cluster spacing with hydraulic (top) and propped (bottom) heat maps ranging from 108-ft to 15-ft cluster spacing at 1,800, 2,400, and 3,000 lbm/ft.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191442MS-Img_SPi-15a">
+<imageLink type="mediaResource" href="102118191442MS_i_15a.tif" id="ImgLink-15a" />
+<figure-specific-caption>
+<caption-order>top</caption-order>
+<caption-text>Decreasing cluster spacing with hydraulic</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191442MS-Img_SPi-15b">
+<imageLink type="mediaResource" href="102118191442MS_i_15b.tif" id="ImgLink-15b" />
+<figure-specific-caption>
+<caption-order>bottom</caption-order>
+<caption-text>and propped</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="16" data-type-order="16">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr16">Fig. 16 shows a comparison of hydraulic fracture geometry heat maps from the modeling sensitivity results at 1,800 lbm/ft at different cluster spacing of 54, 30, and 15 ft. Both heat maps agree and show similar trend with smaller fracture geometry footprint, maximized near-wellbore contact, and increased complexity with tighter cluster spacing at the same pound-mass per foot.</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_16.tif" id="ImgLink-16" />
+<caption>Cluster spacing sensitivity heat map (red, highest density of hydraulic fractures; blue, lowest density of hydraulic fractures) at 54-, 30-, and 15-ft cluster spacing at 1,800 lbm/ft.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Cluster spacing sensitivity heat map (red, highest density of hydraulic fractures; blue, lowest density of hydraulic fractures) at 54-, 30-, and 15-ft cluster spacing at 1,800 lbm/ft.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="15" figure-order="17" data-type-order="17">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr17">This translates to more stages and less proppant per stage with lesser number of holes, as shown in Fig. 17. Hydraulic and propped fracture geometry heat maps show smaller fracture geometry footprint and maximized near-wellbore contact with fewer clusters. It is important to note that the modeling assumes all of the clusters are open and are being stimulated whereas in actual treatment, some of the clusters may not accept fluid due to stress and breakdown pressure heterogeneity along the wellbore.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-17">
+<label>Figure 17</label>
+<imageLink type="mediaResource" href="102118191442MS_i_17.tif" id="ImgLink-17" />
+<caption>Decreasing number of clusters per stage with hydraulic (top) and propped (bottom) heat maps ranging from six to two clusters.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Decreasing number of clusters per stage with hydraulic (top) and propped (bottom) heat maps ranging from six to two clusters.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191442MS-Img_SPi-17a">
+<imageLink type="mediaResource" href="102118191442MS_i_17a.tif" id="ImgLink-17a" />
+<figure-specific-caption>
+<caption-order>top</caption-order>
+<caption-text>Decreasing number of clusters per stage with hydraulic</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191442MS-Img_SPi-17b">
+<imageLink type="mediaResource" href="102118191442MS_i_17b.tif" id="ImgLink-17b" />
+<figure-specific-caption>
+<caption-order>bottom</caption-order>
+<caption-text>and propped</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="15" figure-order="18" data-type-order="18">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr18">Sensitivities were run comparing only slickwater and hybrid fluid, which consists of slickwater and crosslinked gel, at different proppant per lateral foot and cluster spacing. The major difference between the slickwater and hybrid treatment is the total fluid volume pumped; slickwater treatments, because of the low viscosity, require more fluid due to a conservative proppant concentration to pump the same proppant volume. Fig. 18 shows the heat maps for slickwater and hybrid treatments at different proppant per lateral foot and cluster spacing. The results show a larger fracture geometry footprint with slickwater treatments compared to hybrid treatment with the same proppant per lateral foot and cluster spacing.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-18">
+<label>Figure 18</label>
+<imageLink type="mediaResource" href="102118191442MS_i_18.tif" id="ImgLink-18" />
+<caption>Hydraulic (top) and propped (bottom) heat maps for slickwater and hybrid fluid at different pounds per foot and cluster spacing.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Hydraulic (top) and propped (bottom) heat maps for slickwater and hybrid fluid at different pounds per foot and cluster spacing.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191442MS-Img_SPi-18a">
+<imageLink type="mediaResource" href="102118191442MS_i_18a.tif" id="ImgLink-18a" />
+<figure-specific-caption>
+<caption-order>top</caption-order>
+<caption-text>Hydraulic</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191442MS-Img_SPi-18b">
+<imageLink type="mediaResource" href="102118191442MS_i_18b.tif" id="ImgLink-18b" />
+<figure-specific-caption>
+<caption-order>botom</caption-order>
+<caption-text>and propped</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="19" data-type-order="19">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr19">Production forecasting using a history matched and calibrated model was performed on all the completion design sensitivities using numerical analysis to quantify the production performance and determine the main production drivers. Fig. 19 shows the relative oil production performance compared to the base case of 1,800 lbm/ft at 54-ft cluster spacing and five clusters per stage. Increase in oil production was found to be mainly driven by increasing pounds per lateral foot and decreasing cluster spacing.</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_19.tif" id="ImgLink-19" />
+<caption>Relative oil production performance for all completion design sensitivities compared to the base case of 1,800 lbm/ft, 54-ft cluster spacing, and five clusters/stage.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Relative oil production performance for all completion design sensitivities compared to the base case of 1,800 lbm/ft, 54-ft cluster spacing, and five clusters/stage.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="20" data-type-order="20">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr20">Cases below present the fracturing simulation results using hydraulic fracture count heat map and propped fracture count heat map for 440 ft, 660 ft and 880 ft horizontal well spacing in the Upper Wolfcamp. In the presented work, all the wells were completed with 30 feet cluster spacing, and 5 clusters per stage. Slickwater pump treatment schedule is applied, using average amount proppant of 1800 lbs/ft and fluid volume of 2300 gal/ft. As seen in Fig. 20 to Fig. 22, for different well spacing design, different fracture signatures are observed.</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-20">
+<label>Figure 20 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_20.tif" id="ImgLink-20" />
+<caption>440-ft well spacing fracture heat map for slickwater design.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>440-ft well spacing fracture heat map for slickwater design.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="21" data-type-order="21">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr21">Cases below present the fracturing simulation results using hydraulic fracture count heat map and propped fracture count heat map for 440 ft, 660 ft and 880 ft horizontal well spacing in the Upper Wolfcamp. In the presented work, all the wells were completed with 30 feet cluster spacing, and 5 clusters per stage. Slickwater pump treatment schedule is applied, using average amount proppant of 1800 lbs/ft and fluid volume of 2300 gal/ft. As seen in Fig. 20 to Fig. 22, for different well spacing design, different fracture signatures are observed.</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-21">
+<label>Figure 21 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_21.tif" id="ImgLink-21" />
+<caption>660-ft well spacing fracture heat map for slickwater design.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>21</caption-order>
+<caption-text>660-ft well spacing fracture heat map for slickwater design.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="22" data-type-order="22">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr22">Cases below present the fracturing simulation results using hydraulic fracture count heat map and propped fracture count heat map for 440 ft, 660 ft and 880 ft horizontal well spacing in the Upper Wolfcamp. In the presented work, all the wells were completed with 30 feet cluster spacing, and 5 clusters per stage. Slickwater pump treatment schedule is applied, using average amount proppant of 1800 lbs/ft and fluid volume of 2300 gal/ft. As seen in Fig. 20 to Fig. 22, for different well spacing design, different fracture signatures are observed.</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-22">
+<label>Figure 22 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_22.tif" id="ImgLink-22" />
+<caption>880-ft well spacing fracture heat map for slickwater design.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>22</caption-order>
+<caption-text>880-ft well spacing fracture heat map for slickwater design.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="23" data-type-order="23">
+<link href="link-23" type="image" />
+<appendix>
+<linkTarget id="link-23" type="image">
+<anchoringText id="Ancr23">From above heat map results (Figs. 23 to 25), a similar trend was observed for 440-ft, 660-ft, and 880-ft well spacing as seen earlier using the slickwater design. Strong fracture interference and overlapping were observed at tighter well spacing. Also, the understimulated reservoir area was identified for 880-ft well spacing, making 660-ft well spacing as the better option. Apart from this, the difference in overall geometry created by a hybrid design and a slickwater design is also contrasting. Fracture geometry and complexity are greatly reduced from slickwater design to hybrid design as the fluid viscosity increase and total fluid volume had reduced</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-23">
+<label>Figure 23 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_23.tif" id="ImgLink-23" />
+<caption>440-ft well spacing fracture heat map for hybrid design.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>23</caption-order>
+<caption-text>440-ft well spacing fracture heat map for hybrid design.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="24" data-type-order="24">
+<link href="link-24" type="image" />
+<appendix>
+<linkTarget id="link-24" type="image">
+<anchoringText id="Ancr24">From above heat map results (Figs. 23 to 25), a similar trend was observed for 440-ft, 660-ft, and 880-ft well spacing as seen earlier using the slickwater design. Strong fracture interference and overlapping were observed at tighter well spacing. Also, the understimulated reservoir area was identified for 880-ft well spacing, making 660-ft well spacing as the better option. Apart from this, the difference in overall geometry created by a hybrid design and a slickwater design is also contrasting. Fracture geometry and complexity are greatly reduced from slickwater design to hybrid design as the fluid viscosity increase and total fluid volume had reduced</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-24">
+<label>Figure 24 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_24.tif" id="ImgLink-24" />
+<caption>660-ft well spacing fracture heat map for hybrid design.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>24</caption-order>
+<caption-text>660-ft well spacing fracture heat map for hybrid design.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="25" data-type-order="25">
+<link href="link-25" type="image" />
+<appendix>
+<linkTarget id="link-25" type="image">
+<anchoringText id="Ancr25">From above heat map results (Figs. 23 to 25), a similar trend was observed for 440-ft, 660-ft, and 880-ft well spacing as seen earlier using the slickwater design. Strong fracture interference and overlapping were observed at tighter well spacing. Also, the understimulated reservoir area was identified for 880-ft well spacing, making 660-ft well spacing as the better option. Apart from this, the difference in overall geometry created by a hybrid design and a slickwater design is also contrasting. Fracture geometry and complexity are greatly reduced from slickwater design to hybrid design as the fluid viscosity increase and total fluid volume had reduced</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-25">
+<label>Figure 25 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_25.tif" id="ImgLink-25" />
+<caption>880-ft well spacing fracture heat map for hybrid design.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>25</caption-order>
+<caption-text>880-ft well spacing fracture heat map for hybrid design.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="26" data-type-order="26">
+<link href="link-26" type="image" />
+<appendix>
+<linkTarget id="link-26" type="image">
+<anchoringText id="Ancr26">Because stacked wells have become more popular in the Wolfcamp stacked pay area in recent years, the chevron pattern scenario was also studied at 440-ft, 660-ft, and 880-ft well spacings using slickwater design. Figs. 26 to 28 present the corresponding fracture heat map results. The upper wells are located in the upper Wolfcamp area and lower wells are located in the middle Wolfcamp area.</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-26">
+<label>Figure 26 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_26.tif" id="ImgLink-26" />
+<caption>440-ft spacing stacked well fracture heat map for slickwater design. West side wells (left), center wells (middle, and east side wells (right).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>26</caption-order>
+<caption-text>440-ft spacing stacked well fracture heat map for slickwater design. West side wells (left), center wells (middle, and east side wells (right).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="20" figure-order="27" data-type-order="27">
+<link href="link-27" type="image" />
+<appendix>
+<linkTarget id="link-27" type="image">
+<anchoringText id="Ancr27">Because stacked wells have become more popular in the Wolfcamp stacked pay area in recent years, the chevron pattern scenario was also studied at 440-ft, 660-ft, and 880-ft well spacings using slickwater design. Figs. 26 to 28 present the corresponding fracture heat map results. The upper wells are located in the upper Wolfcamp area and lower wells are located in the middle Wolfcamp area.</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-27">
+<label>Figure 27 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_27.tif" id="ImgLink-27" />
+<caption>660-ft spacing stacked well fracture heat map for slickwater design. West side wells (left), center wells (middle), and east side wells (right).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>27</caption-order>
+<caption-text>660-ft spacing stacked well fracture heat map for slickwater design. West side wells (left), center wells (middle), and east side wells (right).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="20" figure-order="28" data-type-order="28">
+<link href="link-28" type="image" />
+<appendix>
+<linkTarget id="link-28" type="image">
+<anchoringText id="Ancr28">Because stacked wells have become more popular in the Wolfcamp stacked pay area in recent years, the chevron pattern scenario was also studied at 440-ft, 660-ft, and 880-ft well spacings using slickwater design. Figs. 26 to 28 present the corresponding fracture heat map results. The upper wells are located in the upper Wolfcamp area and lower wells are located in the middle Wolfcamp area.</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-28">
+<label>Figure 28 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_28.tif" id="ImgLink-28" />
+<caption>880-ft spacing stacked well fracture heat map for slickwater design. West side wells (left), center wells (middle), and east side wells (right).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>28</caption-order>
+<caption-text>880-ft spacing stacked well fracture heat map for slickwater design. West side wells (left), center wells (middle), and east side wells (right).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="29" data-type-order="29">
+<link href="link-29" type="image" />
+<appendix>
+<linkTarget id="link-29" type="image">
+<anchoringText id="Ancr29">Whereas the sequential fracture stimulation operation allows a fracturing stage to be impacted via the previous stages on the same well, the zipper pattern has additional stress shadow from the offset well as the fractures are stimulated on multiple wells (Fig. 29). The heat map for the fracture geometries in sequential fracture simulation and a zipper sequence is shown in Fig. 30 and Fig. 31, respectively.</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-29">
+<label>Figure 29 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_29.tif" id="ImgLink-29" />
+<caption>Sequential fracturing sequence (fracturing well 1 toe-to-heel and then fracturing well 2), versus zipper fracturing sequence (fracturing well 1 stage and then fracturing well 2 stage and returning to well 1 and so on) (Qiu et al. 2015).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>29</caption-order>
+<caption-text>Sequential fracturing sequence (fracturing well 1 toe-to-heel and then fracturing well 2), versus zipper fracturing sequence (fracturing well 1 stage and then fracturing well 2 stage and returning to well 1 and so on) (<link href="BIB1">Qiu et al. 2015</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-35" type="bib">
+<bib id="BIB1">
+<label>Qiu et al. 2015</label>
+<author>
+<first-name>F.</first-name>
+<last-name>Qiu</last-name>
+</author>, <author><first-name>M. M.</first-name><last-name>Porcu</last-name></author>, <author><first-name>J.</first-name><last-name>Xu</last-name></author>, <author><first-name>R.</first-name><last-name>Malpani</last-name></author>, <author><first-name>P.</first-name><last-name>Pankaj</last-name></author>, &amp; <author><first-name>T. L.</first-name><last-name>Pope</last-name></author> <pubDate>(2015, October 20)</pubDate>. <article-title>Simulation Study of Zipper Fracturing Using an Unconventional Fracture Model. Society of Petroleum Engineers </article-title>. doi: 10.2118/175980-MS</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="30" data-type-order="30">
+<link href="link-30" type="image" />
+<appendix>
+<linkTarget id="link-30" type="image">
+<anchoringText id="Ancr30">Whereas the sequential fracture stimulation operation allows a fracturing stage to be impacted via the previous stages on the same well, the zipper pattern has additional stress shadow from the offset well as the fractures are stimulated on multiple wells (Fig. 29). The heat map for the fracture geometries in sequential fracture simulation and a zipper sequence is shown in Fig. 30 and Fig. 31, respectively.</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-30">
+<label>Figure 30 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_30.tif" id="ImgLink-30" />
+<caption>Heat map for hydraulic fracture geometries with a sequential fracture stimulation.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>30</caption-order>
+<caption-text>Heat map for hydraulic fracture geometries with a sequential fracture stimulation.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="31" data-type-order="31">
+<link href="link-31" type="image" />
+<appendix>
+<linkTarget id="link-31" type="image">
+<anchoringText id="Ancr31">Whereas the sequential fracture stimulation operation allows a fracturing stage to be impacted via the previous stages on the same well, the zipper pattern has additional stress shadow from the offset well as the fractures are stimulated on multiple wells (Fig. 29). The heat map for the fracture geometries in sequential fracture simulation and a zipper sequence is shown in Fig. 30 and Fig. 31, respectively.</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-31">
+<label>Figure 31 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_31.tif" id="ImgLink-31" />
+<caption>Heat map for hydraulic fracture geometries with a Zipper fracture stimulation.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>31</caption-order>
+<caption-text>Heat map for hydraulic fracture geometries with a Zipper fracture stimulation.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="23" figure-order="32" data-type-order="32">
+<link href="link-32" type="image" />
+<appendix>
+<linkTarget id="link-32" type="image">
+<anchoringText id="Ancr32">Decrease cluster spacing with cluster spacing of 30 ft instead of the historic practice of 54 ft. This allowed a greater number of wells to be drilled in the spacing unit since the wells had shown greater near-wellbore density of hydraulic fractures. More wells per section allowed the operator to achieve 50% additional net asset value (NAV) at a tighter cluster spacing based on tests that were done (Fig. 32).</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-32">
+<label>Figure 32 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_32.tif" id="ImgLink-32" />
+<caption>Improved NAV through drilling more wells per spacing unit by reducing the cluster spacing and increasing near wellbore fracture density.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>32</caption-order>
+<caption-text>Improved NAV through drilling more wells per spacing unit by reducing the cluster spacing and increasing near wellbore fracture density.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="23" figure-order="33" data-type-order="33">
+<link href="link-33" type="image" />
+<appendix>
+<linkTarget id="link-33" type="image">
+<anchoringText id="Ancr33">Increase proppant loading from historical 1,100 lbm/ft design to 2,400 lbm/ft had created improved well performance. Multiple tests conducted in the Wolfcamp wells had shown consistent improvement over conventional type curve well performance. On an average, approximately 42% incremental productivity was achieved over the period of 1 year through the means of improving the treatment design proppant volume (Fig. 33).</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-33">
+<label>Figure 33 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_33.tif" id="ImgLink-33" />
+<caption>2,400 lbm/ft field tests confirm improved well performance.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>33</caption-order>
+<caption-text>2,400 lbm/ft field tests confirm improved well performance.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="24" figure-order="34" data-type-order="34">
+<link href="link-34" type="image" />
+<appendix>
+<linkTarget id="link-34" type="image">
+<anchoringText id="Ancr34">This enabled shortening the time from concept to field implementation and enabled continual optimization of completions designs over the last few years. An independent measurement such as microseismic data and its intensity heat map reveals that increasing the proppant loading and decreasing the cluster spacing makes the hydraulic fracture footprint denser as well as more effective near the wellbore (Fig. 34). This further allows improving recovery per wellbore and at the same time allows placing more wells per pad.</anchoringText>
+<image-wrap id="102118191442MS-Img_SPi-34">
+<label>Figure 34 </label>
+<imageLink type="mediaResource" href="102118191442MS_i_34.tif" id="ImgLink-34" />
+<caption>Concentrated fracture density around wellbore by increasing sand volume and decreasing the cluster spacing.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>34</caption-order>
+<caption-text>Concentrated fracture density around wellbore by increasing sand volume and decreasing the cluster spacing.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

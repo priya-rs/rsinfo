@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118181352MS.txt" extractionDate="2021-03-23T18:12:30Z">
+<doi>10.2118/181352-MS</doi>
+<pii>10.2118/181352-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="4" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">The Johan Sverdrup field, discovered by Lundin Petroleum in 2010, is currently classified as the fifth largest oil discovery on the Norwegian continental shelf. The field, outlined in Figure 1, is located 140 km offshore on the western coast of Norway and covers an area of approximately 200 square kilometers. The reservoir section within the Intra-Draupne Formation Sandstone is relatively homogeneous with Darcy to multi-Darcysand, and the thickness is between 40-70 meters in the central parts of the field.</anchoringText>
+<image-wrap id="102118181352MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118181352MS_i_1.tif" id="ImgLink-1" />
+<caption>Outline of the Johan Sverdrup field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Outline of the Johan Sverdrup field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">Figure 2 shows a general overview of the process. Previous studies showed that the kh was the main uncertainty parameter affecting the DST responses. Hence, the isochore thickness and reservoir permeability are included with uncertainty in order to obtain updated values. Other input parameters such as oil-watercontact, relative permeability, fault transmissibilities etc. are fixed throughout this study.</anchoringText>
+<image-wrap id="102118181352MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118181352MS_i_2.tif" id="ImgLink-2" />
+<caption>Overview of the integrated reservoir modelling workflow established on the Johan Sverdrup field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Overview of the integrated reservoir modelling workflow established on the Johan Sverdrup field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="6" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">The residual field account for uncertainty in the seismic interpretation, it is modeled as a Gaussian random field with a spherical covariance function. The variogram range of the residual field varies according to a normal distribution, with a mean range of 2000 m, and a standard deviation of 1000 m, sampled values below 200 m is set to 200 m. Four random realizations of the residual surface are displayed in Figure 3.</anchoringText>
+<image-wrap id="102118181352MS-Img_SPi-3">
+<label>Figure 3</label>
+<imageLink type="mediaResource" href="102118181352MS_i_3.tif" id="ImgLink-3" />
+<caption>Four realizations showing the generated residual surfaces for the isochore thickness. Red areas indicate increased isochore thickness and blue indicates reduced thickness</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Four realizations showing the generated residual surfaces for the isochore thickness. Red areas indicate increased isochore thickness and blue indicates reduced thickness</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118181352MS_i_3a.tif" id="ImgLink-3a" />
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118181352MS_i_3b.tif" id="ImgLink-3b" />
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-3c">
+<imageLink type="mediaResource" href="102118181352MS_i_3c.tif" id="ImgLink-3c" />
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-3d">
+<imageLink type="mediaResource" href="102118181352MS_i_3d.tif" id="ImgLink-3d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">As a mean to bypass this challenge, while still accounting for structural changes in the model during the data assimilation process, we pad the grid by adding 20 extra meters to h0, below the base of the Intra-Draupne Formation (20 additional layers). Then we activate/deactivate cells in this padded grid as the isochore thickness is changing (by setting the porosity to zero for cells in the padded grid) as illustrated in Figure 4. All four scenariosevaluated include the structural uncertainty.</anchoringText>
+<image-wrap id="102118181352MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118181352MS_i_4.tif" id="ImgLink-4" />
+<caption>Handling structural uncertainty in the model by padding the existing grid (green cells), then activating or deactivating grid cells (orange cells) in the simulation model according to changes in the isochore thickness (red line). Yellow color illustrate the sand filled cells, while gray cells indicate shale</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Handling structural uncertainty in the model by padding the existing grid (green cells), then activating or deactivating grid cells (orange cells) in the simulation model according to changes in the isochore thickness (red line). Yellow color illustrate the sand filled cells, while gray cells indicate shale</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">Scenario 1: Constant horizontal permeability away from the wells, established using interpolation of permeability values obtained from the analytical PTA, shown in Figure 5.</anchoringText>
+<image-wrap id="102118181352MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118181352MS_i_5.tif" id="ImgLink-5" />
+<caption>Permeability trend map used in modelling Scenario 1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Permeability trend map used in modelling Scenario 1</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="8" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">We model the spatial variability similarly as the isochores (where the vertical variogram direction varies according to a normal distribution, with a mean range of 5 m, and a standard deviation of 3 m, where sampled values below 1 m are set to 1 m). Four realizations of the generated permeability fields are shown in Figure 6.</anchoringText>
+<image-wrap id="102118181352MS-Img_SPi-6">
+<label>Figure 6</label>
+<imageLink type="mediaResource" href="102118181352MS_i_6.tif" id="ImgLink-6" />
+<caption>Four realizations showing permeability in one horizontal layer of the model for Scenario 2</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Four realizations showing permeability in one horizontal layer of the model for Scenario 2</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118181352MS_i_6a.tif" id="ImgLink-6a" />
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118181352MS_i_6b.tif" id="ImgLink-6b" />
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-6c">
+<imageLink type="mediaResource" href="102118181352MS_i_6c.tif" id="ImgLink-6c" />
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-6d">
+<imageLink type="mediaResource" href="102118181352MS_i_6d.tif" id="ImgLink-6d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="9" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">The standard deviation is 10 Darcy for both rock-types. Again, we use a spherical covariance function adding uncertainty in the range parameter as described in Scenario 2. Figure 7 displays two realizations showing the facies and permeability for one horizontal layer of the model.</anchoringText>
+<image-wrap id="102118181352MS-Img_SPi-7">
+<label>Figure 7</label>
+<imageLink type="mediaResource" href="102118181352MS_i_7.tif" id="ImgLink-7" />
+<caption>Two realizations showing the facies and corresponding permeability in one layer of the model for Scenario 3</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Two realizations showing the facies and corresponding permeability in one layer of the model for Scenario 3</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118181352MS_i_7a.tif" id="ImgLink-7a" />
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118181352MS_i_7b.tif" id="ImgLink-7b" />
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-7c">
+<imageLink type="mediaResource" href="102118181352MS_i_7c.tif" id="ImgLink-7c" />
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-7d">
+<imageLink type="mediaResource" href="102118181352MS_i_7d.tif" id="ImgLink-7d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">Scenario 4: We apply the same approach as scenario 3, where we replace the mean of the Gaussian latent parameter with the background trend parameter shown in Figure 8. The trend parameter was manually constructed to improve the fit of the DST data. The probability of rock type 2 is increased close to 16/3-8 S and 16/3-5, while keeping a preference for rock-type 1 around 16/2-6 T2 and 16/3-4. Further, we model the permeability conditioned to the rock types as in scenario 3.</anchoringText>
+<image-wrap id="102118181352MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118181352MS_i_8.tif" id="ImgLink-8" />
+<caption>Mean of the Gaussian latent parameter used in Scenario 4. Red areas indicate an increased <i>a priori </i>probability of rock type 2, while blue areas indicate an increased probability of rock type 1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Mean of the Gaussian latent parameter used in Scenario 4. Red areas indicate an increased a priori probability of rock type 2, while blue areas indicate an increased probability of rock type 1</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="10" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9"> </anchoringText>
+<image-wrap id="102118181352MS-Img_SPi-9">
+<label>Figure 9</label>
+<imageLink type="mediaResource" href="102118181352MS_i_9.tif" id="ImgLink-9" />
+<caption>Two realizations showing the facies and corresponding permeability in one layer of the model for Scenario 4</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Two realizations showing the facies and corresponding permeability in one layer of the model for Scenario 4</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118181352MS_i_9a.tif" id="ImgLink-9a" />
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118181352MS_i_9b.tif" id="ImgLink-9b" />
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-9c">
+<imageLink type="mediaResource" href="102118181352MS_i_9c.tif" id="ImgLink-9c" />
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-9d">
+<imageLink type="mediaResource" href="102118181352MS_i_9d.tif" id="ImgLink-9d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">Figure 10 and Figure 11 display the simulated and observed pressure derivative response for the 200 models before and after conditioning to the observed data using an ensemble smoother. Please note that because of the high permeability and downhole shut-in, the early time unit slope during wellbore storage is finished within one second of the buildup and is therefore not visible in the observed pressure data with a sampling rate of one second. In the conditioning, we assume a log-linear increase in the tolerance from 0.01 log-cycles to 0.05 log-cycles for the duration of the buildup period.</anchoringText>
+<image-wrap id="102118181352MS-Img_SPi-10">
+<label>Figure 10</label>
+<imageLink type="mediaResource" href="102118181352MS_i_10.tif" id="ImgLink-10" />
+<caption>Pressure derivative response for wells 16/2-6T2 (left) and 16/3-5 (right) before and after conditioning using an ensemble-based approach. Blue lines represent calculated pressure derivatives from the models, while black circles represent the observed pressure derivatives</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Pressure derivative response for wells 16/2-6T2 (left) and 16/3-5 (right) before and after conditioning using an ensemble-based approach. Blue lines represent calculated pressure derivatives from the models, while black circles represent the observed pressure derivatives</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118181352MS_i_10a.tif" id="ImgLink-10a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>Pressure derivative response for wells 16/2-6T2</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118181352MS_i_10b.tif" id="ImgLink-10b" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>16/3-5</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="12" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">Figure 10 and Figure 11 display the simulated and observed pressure derivative response for the 200 models before and after conditioning to the observed data using an ensemble smoother. Please note that because of the high permeability and downhole shut-in, the early time unit slope during wellbore storage is finished within one second of the buildup and is therefore not visible in the observed pressure data with a sampling rate of one second. In the conditioning, we assume a log-linear increase in the tolerance from 0.01 log-cycles to 0.05 log-cycles for the duration of the buildup period.</anchoringText>
+<image-wrap id="102118181352MS-Img_SPi-11">
+<label>Figure 11</label>
+<imageLink type="mediaResource" href="102118181352MS_i_11.tif" id="ImgLink-11" />
+<caption>Pressure derivative response for wells 16/3-8S (left) and 16/3-4 (right) before and after conditioning using an ensemble-based approach. Blue lines represent calculated pressure derivatives from the models, while black circles represent the observed pressure derivatives</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Pressure derivative response for wells 16/3-8S (left) and 16/3-4 (right) before and after conditioning using an ensemble-based approach. Blue lines represent calculated pressure derivatives from the models, while black circles represent the observed pressure derivatives</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118181352MS_i_11a.tif" id="ImgLink-11a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>16/3-8S</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118181352MS_i_11b.tif" id="ImgLink-11b" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>16/3-4</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">Figure 12 illustrates the estimated median of the difference between the generated sand thickness, h, and the best guess surface, h0 for all members in the initial and updated ensemble consisting of 200 models each. As seen from this figure, the thickness in the initial ensemble of models is unbiased with respect to h, while for the updated ensemble, we observe clear spatial trends where both the thickness is increasing and decreasing.</anchoringText>
+<image-wrap id="102118181352MS-Img_SPi-12">
+<label>Figure 12</label>
+<imageLink type="mediaResource" href="102118181352MS_i_12.tif" id="ImgLink-12" />
+<caption>Median of the difference in sand thickness (200 model realizations vs. initial best guess thickness surface, <i>h</i>0) for the initial (unconditioned to DST data) 200 ensemble members (top) and updated (conditioned to DST data) 200 ensemble members (bottom). Red/blue color indicates and increase/decrease in the sand thickness. We outline the area defining the Avaldsnes High region by the magenta colored polygon</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Median of the difference in sand thickness (200 model realizations vs. initial best guess thickness surface, h0) for the initial (unconditioned to DST data) 200 ensemble members (top) and updated (conditioned to DST data) 200 ensemble members (bottom). Red/blue color indicates and increase/decrease in the sand thickness. We outline the area defining the Avaldsnes High region by the magenta colored polygon</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118181352MS_i_12a.tif" id="ImgLink-12a" />
+<figure-specific-caption>
+<caption-order>top</caption-order>
+<caption-text>initial (unconditioned to DST data)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118181352MS_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-order>bottom</caption-order>
+<caption-text>updated (conditioned to DST data) 200 ensemble members</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="14" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">Figure 13 further illustrates the effect of the DST data conditioning on the structural uncertainty. In particular, we notice that the P10 estimate for the thickness in the area between wells 16/3-8S and 16/3-5 approaches h0, implying that a certain thickness is required on the central part of the Avaldsnes High region to match the DST data in these two wells. Similarly, we need to reduce the potential upside (P90 estimate) for the thickness in the area northeast of well 16/3-4 to match the DST data.</anchoringText>
+<image-wrap id="102118181352MS-Img_SPi-13">
+<label>Figure 13</label>
+<imageLink type="mediaResource" href="102118181352MS_i_13.tif" id="ImgLink-13" />
+<caption>Estimated P10 (left) and P90 (right) of the difference in sand thickness (model realization vs. initial best guess thickness surface, <i>h</i>0) for the initial (unconditioned to DST data) ensemble members (top) and updated (conditioned to DST data) ensemble members (bottom). Red/blue color indicates and increase/decrease in the sand thickness</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Estimated P10 (left) and P90 (right) of the difference in sand thickness (model realization vs. initial best guess thickness surface, h0) for the initial (unconditioned to DST data) ensemble members (top) and updated (conditioned to DST data) ensemble members (bottom). Red/blue color indicates and increase/decrease in the sand thickness</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118181352MS_i_13a.tif" id="ImgLink-13a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>P10</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118181352MS_i_13b.tif" id="ImgLink-13b" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>P90</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-13c">
+<imageLink type="mediaResource" href="102118181352MS_i_13c.tif" id="ImgLink-13c" />
+<figure-specific-caption>
+<caption-order>top</caption-order>
+<caption-text>initial (unconditioned to DST data) ensemble members</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-13d">
+<imageLink type="mediaResource" href="102118181352MS_i_13d.tif" id="ImgLink-13d" />
+<figure-specific-caption>
+<caption-order>bottom</caption-order>
+<caption-text>updated (conditioned to DST data) ensemble members</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="15" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr14">Figure 14 and Figure 15 display the median and P10/P90 estimates for the permeability in one selected layer of the grid before and after conditioning to DST data. We notice the general trend of increased permeability in the area between wells 16/3-8S and 16/3-5, where the median permeability estimate increases from 50 Darcy to 60-80 Darcy and the P10 estimate is between 50 and 60 Darcy in large continuous areas.</anchoringText>
+<image-wrap id="102118181352MS-Img_SPi-14">
+<label>Figure 14</label>
+<imageLink type="mediaResource" href="102118181352MS_i_14.tif" id="ImgLink-14" />
+<caption>Estimated median permeability in one selected layer of the grid for the members before (top) and after (bottom) conditioning to DST data in the four wells on the Avaldsnes High area</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Estimated median permeability in one selected layer of the grid for the members before (top) and after (bottom) conditioning to DST data in the four wells on the Avaldsnes High area</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118181352MS_i_14a.tif" id="ImgLink-14a" />
+<figure-specific-caption>
+<caption-order>top</caption-order>
+<caption-text>before</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118181352MS_i_14b.tif" id="ImgLink-14b" />
+<figure-specific-caption>
+<caption-order>bottom</caption-order>
+<caption-text>after</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="16" figure-order="15" data-type-order="15">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr15">Figure 14 and Figure 15 display the median and P10/P90 estimates for the permeability in one selected layer of the grid before and after conditioning to DST data. We notice the general trend of increased permeability in the area between wells 16/3-8S and 16/3-5, where the median permeability estimate increases from 50 Darcy to 60-80 Darcy and the P10 estimate is between 50 and 60 Darcy in large continuous areas.</anchoringText>
+<image-wrap id="102118181352MS-Img_SPi-15">
+<label>Figure 15</label>
+<imageLink type="mediaResource" href="102118181352MS_i_15.tif" id="ImgLink-15" />
+<caption>Estimated P10 (left) and P90 (right) permeability in one selected layer of the grid for the members before (top) and after (bottom) conditioning to DST data in the four wells on the Avaldsnes High</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Estimated P10 (left) and P90 (right) permeability in one selected layer of the grid for the members before (top) and after (bottom) conditioning to DST data in the four wells on the Avaldsnes High</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-15a">
+<imageLink type="mediaResource" href="102118181352MS_i_15a.tif" id="ImgLink-15a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>P10</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-15b">
+<imageLink type="mediaResource" href="102118181352MS_i_15b.tif" id="ImgLink-15b" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>P90</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-15c">
+<imageLink type="mediaResource" href="102118181352MS_i_15c.tif" id="ImgLink-15c" />
+<figure-specific-caption>
+<caption-order>top</caption-order>
+<caption-text>grid for the members before</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181352MS-Img_SPi-15d">
+<imageLink type="mediaResource" href="102118181352MS_i_15d.tif" id="ImgLink-15d" />
+<figure-specific-caption>
+<caption-order>bottom</caption-order>
+<caption-text>after</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="16" data-type-order="16">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr16">Analyzing the bulk and in-place volumes before and after conditioning to the DST data (Figure 16) we see that the low case (P10) volumes are lifted 20 %, while the high case (P90) volumes are lifted 5 %. This effect is not surprising considering the effects seen in the estimated statistics for the thickness of Intra Draupne Sandstone shown in Figure 12 and Figure 13.</anchoringText>
+<image-wrap id="102118181352MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118181352MS_i_16.tif" id="ImgLink-16" />
+<caption>Relative difference in the estimated bulk and in place volumes before and after conditioning to DST data</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Relative difference in the estimated bulk and in place volumes before and after conditioning to DST data</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

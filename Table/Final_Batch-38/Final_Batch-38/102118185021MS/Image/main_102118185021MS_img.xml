@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185021MS.txt" extractionDate="2021-03-26T10:28:05Z">
+<doi>10.2118/185021-MS</doi>
+<pii>10.2118/185021-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr6">The location of Fertile Section 36, which was analyzed and modeled in this paper, is illustrated in Fig. 1. Current production/injection data for the area of interest was gathered from the public domain and from RROI. The geology of the Bakken/Three Forks formation in the area was also evaluated. Fig. 2 shows the type log used to describe the formation. The Bakken shale sits at approximately 1075 mTVD and provides the cap to the reservoir package. Below the Bakken shale is the Bakken silt, which is a tighter, and higher water saturation (Sw) rock, while the Three Forks below is a higher permeability siltstone with a lower Sw.</anchoringText>
+<image-wrap id="102118185021MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118185021MS_i_1.tif" id="ImgLink-1" />
+<caption>Fertile Section 36 location</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Fertile Section 36 location</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr7">The location of Fertile Section 36, which was analyzed and modeled in this paper, is illustrated in Fig. 1. Current production/injection data for the area of interest was gathered from the public domain and from RROI. The geology of the Bakken/Three Forks formation in the area was also evaluated. Fig. 2 shows the type log used to describe the formation. The Bakken shale sits at approximately 1075 mTVD and provides the cap to the reservoir package. Below the Bakken shale is the Bakken silt, which is a tighter, and higher water saturation (Sw) rock, while the Three Forks below is a higher permeability siltstone with a lower Sw.</anchoringText>
+<image-wrap id="102118185021MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118185021MS_i_2.tif" id="ImgLink-2" />
+<caption>Type log</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Type log</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr8">To analyze the overall production and injection trends of the section, bubble plots were created, as shown in Fig. 3. Cumulative oil produced is represented by green, cumulative water produced by dark blue and cumulative water injected by light blue. No gas production data was available. The size of the bubble is relative to one another and to the cumulative volumes produced. Well 191/01-36 is the biggest water producer with very similar oil production volumes. This well was later converted to an injector. Local variance in water production can happen due to a variety of reasons, and is addressed in the modeling work discussion.</anchoringText>
+<image-wrap id="102118185021MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118185021MS_i_3.tif" id="ImgLink-3" />
+<caption>Fertile Section 36 Production/Injection Bubble Plot, Cumulative Oil Production, Cumulative Water Production, Cumulative Water Injection</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Fertile Section 36 Production/Injection Bubble Plot, Cumulative Oil Production, Cumulative Water Production, Cumulative Water Injection</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185021MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118185021MS_i_3a.tif" id="ImgLink-3a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Cumulative Oil Production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185021MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118185021MS_i_3b.tif" id="ImgLink-3b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Cumulative Water Production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185021MS-Img_SPi-3c">
+<imageLink type="mediaResource" href="102118185021MS_i_3c.tif" id="ImgLink-3c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Cumulative Water Injection</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="4" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr9">Group composite plots of production and injection for the area of interest are shown in Fig. 4. The watercut of the primary vertical well was between 30% and 40%, while the horizontal wells observed a watercut of 60% to 70% prior to water injection. Horizontal well, 191/04-36, produced prior and post-hydraulic fracture stimulation, as shown in Fig. 5. Before the well was hydraulically fractured, a watercut of 30% to 40% was observed. After the treatment, the horizontal well produced in the range of a 60% to 70%watercut. It is believed that the increase in watercut was due to fracing into the overlying higher SW Bakken silts. When modeling this section, the Bakken silt layer needed to be addressed, as modeling without any inflow from that layer resulted in the static reservoir pressure being lower than the field measured pressure.</anchoringText>
+<image-wrap id="102118185021MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118185021MS_i_4.tif" id="ImgLink-4" />
+<caption>Fertile Section 36 Composite Plot</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Fertile Section 36 Composite Plot</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185021MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118185021MS_i_4a.tif" id="ImgLink-4a" />
+</image-wrap>
+<image-wrap id="102118185021MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118185021MS_i_4b.tif" id="ImgLink-4b" />
+</image-wrap>
+<image-wrap id="102118185021MS-Img_SPi-4c">
+<imageLink type="mediaResource" href="102118185021MS_i_4c.tif" id="ImgLink-4c" />
+</image-wrap>
+<image-wrap id="102118185021MS-Img_SPi-4d">
+<imageLink type="mediaResource" href="102118185021MS_i_4d.tif" id="ImgLink-4d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr10">Group composite plots of production and injection for the area of interest are shown in Fig. 4. The watercut of the primary vertical well was between 30% and 40%, while the horizontal wells observed a watercut of 60% to 70% prior to water injection. Horizontal well, 191/04-36, produced prior and post-hydraulic fracture stimulation, as shown in Fig. 5. Before the well was hydraulically fractured, a watercut of 30% to 40% was observed. After the treatment, the horizontal well produced in the range of a 60% to 70%watercut. It is believed that the increase in watercut was due to fracing into the overlying higher SW Bakken silts. When modeling this section, the Bakken silt layer needed to be addressed, as modeling without any inflow from that layer resulted in the static reservoir pressure being lower than the field measured pressure.</anchoringText>
+<image-wrap id="102118185021MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118185021MS_i_5.tif" id="ImgLink-5" />
+<caption>Well 191/04-36 Watercut</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Well 191/04-36 Watercut</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr11">Individual well production was analyzed in a multi-well plot as shown in Fig. 6. The first few weeks of higher liquid and water production was partially attributed to fracture fluid being flowed back. The primary drive for this reservoir is solution gas; therefore, over time, both oil and water production declined. It is critical to note that water rates are decreasing with time. Also, as stated earlier, a degree of water influx was needed to explain higher reservoir pressure and increasing watercuts. The silt zones are less permeable than the Three Forks and therefore provide relatively weak water support compared to a classic strong water drive system.</anchoringText>
+<image-wrap id="102118185021MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118185021MS_i_6.tif" id="ImgLink-6" />
+<caption>Individual Well Water Rate Production</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Individual Well Water Rate Production</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr12">Injection analysis provides further clues on what is happening in the reservoir. Hall plots for the three injectors in the section were created by Red River and quality checked by Baker Hughes. As seen in Fig. 7, no obvious outliers were observed. In the last two years, all injectors have seen a gradual decrease and flattening in their water injection rates as initial fill up has occurred and reservoir pressure has increased to an established maximum allowable injection pressure. As injection rates have plateaued, the VRR has been maintained at 1.0 or higher as seen in Fig. 8.</anchoringText>
+<image-wrap id="102118185021MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118185021MS_i_7.tif" id="ImgLink-7" />
+<caption>Injector Hall Plots</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Injector Hall Plots</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr13">Injection analysis provides further clues on what is happening in the reservoir. Hall plots for the three injectors in the section were created by Red River and quality checked by Baker Hughes. As seen in Fig. 7, no obvious outliers were observed. In the last two years, all injectors have seen a gradual decrease and flattening in their water injection rates as initial fill up has occurred and reservoir pressure has increased to an established maximum allowable injection pressure. As injection rates have plateaued, the VRR has been maintained at 1.0 or higher as seen in Fig. 8.</anchoringText>
+<image-wrap id="102118185021MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118185021MS_i_8.tif" id="ImgLink-8" />
+<caption>Fertile Section 36 VRR</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Fertile Section 36 VRR</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr14">There are a number of units in the Bakken formation with implemented waterflood schemes to the north of Section 36 that can be used as analogue considerations. Although variations in reservoir characteristics exist between these analogue projects, they are suitable to compare performance trends. Table 1 and Fig. 9 provide details on reservoir properties of the analogue units and the section of interest.</anchoringText>
+<image-wrap id="102118185021MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118185021MS_i_9.tif" id="ImgLink-9" />
+<caption>Analogue Pool locations</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Analogue Pool locations</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="11">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr15">The y-axis demonstrates the oil being produced (represented as recovery factor of the OOIP) and the x-axis represents the amount of water injected into the reservoir. The slope of the line representes the waterflood's efficiency. This plot can thus be used to compare the relative efficiency of waterfloods in analogous pools. Fig. 10 shows the resulting RF versus HCPVI graph of Section 36 in comparison to a few analogue projects. Section 36 is an immature flood as compared to the Tundra waterfloods, but it does however display a similar trending slope or waterflood efficiency as the Tundra units.</anchoringText>
+<image-wrap id="102118185021MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118185021MS_i_10.tif" id="ImgLink-10" />
+<caption>Analogues RF vs. HCPVI</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Analogues RF vs. HCPVI</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="11" data-type-order="12">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr16"> </anchoringText>
+<image-wrap id="102118185021MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118185021MS_i_11.tif" id="ImgLink-11" />
+<caption>Analogue log WOR vs. RF</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Analogue log WOR vs. RF</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="12" data-type-order="13">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr17">In Fig. 12 all of the waterfloods see a trend that curves to the left into negative net water injected/MPV. This trend represents the time period before injection begins where the project is under primary production and therefore the net water injected term becomes negative. More water has been produced from the formation under primary recovery relative to the movable pore space if the plot trends farther left. As seen from Fig. 12, Fertile Section 36 had more primary water production than the analogue units due to production contributions from the higher water saturations in the Bakken silts that are not present in the analogue units.</anchoringText>
+<image-wrap id="102118185021MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118185021MS_i_12.tif" id="ImgLink-12" />
+<caption>Analogues Conformance Plot</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Analogues Conformance Plot</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="13" data-type-order="14">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr18">A simulation model was built to model the waterflood efficiency in this pool. The Section 36 box model consisted of 20 meter × 20 meter gridblocks and 15 one meter thick layers: layers 1-2 represented the Bakken Cap, layers 3-5 represented the Bakken silt and layers 6-13 represented the Three Forks as seen in Fig. 13.</anchoringText>
+<image-wrap id="102118185021MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118185021MS_i_13.tif" id="ImgLink-13" />
+<caption>Simulation Layer Distribution</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Simulation Layer Distribution</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="14" data-type-order="17">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr19">To initialize the model with the appropriate amount of mobile water, capillary pressure curves were used. By introducing a capillary pressure curve, the initial water saturation of each formation was initialized. However, there is no capillary pressure lab test data available for either formation. This meant that assumptions had to be made on the curvature of the capillary pressure trend as well as the absolute values of the capillary pressure forces as seen in Fig. 14. The curves are history matched to an average water saturation of 50% in the Bakken silt and 40% in the Three Forks. A free water level of 595 m or 30 m below the grid was assumed for this simulation.</anchoringText>
+<image-wrap id="102118185021MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118185021MS_i_14.tif" id="ImgLink-14" />
+<caption>Capillary Pressure Curves</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Capillary Pressure Curves</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="15" data-type-order="19">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr20">A water layer was introduced into the Bakken silt to account for the increased water production after hydraulic fracturing. As mentioned before, well 191/04-36 had production from an openhole completion (pre-fracture) between December 2005 and June 2008. Fig. 15 shows that oil was more mobile than water during this period. After post-hydraulic fracture, water volumes were more movable and more easily produced, indicating the hydraulic fractures must have acessed water that was not accessible before the fracture process. Observations from core suggest that tighter facies within the complex stratified Bakken silts could account for this water. The water layer was initialized with a very strong capillary pressure curve</anchoringText>
+<image-wrap id="102118185021MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118185021MS_i_15.tif" id="ImgLink-15" />
+<caption>Oil and Water Production Rates for Well 191/04-36</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Oil and Water Production Rates for Well 191/04-36</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="16" data-type-order="20">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr21"> </anchoringText>
+<image-wrap id="102118185021MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118185021MS_i_16.tif" id="ImgLink-16" />
+<caption>Water Saturation Cross Section with Water Layer</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Water Saturation Cross Section with Water Layer</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="17" data-type-order="21">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr22">This was not achievable in the model without the pressure support provided through water volume in the silts. The reservoir pressure as compared to the pressures of the infills after the fracture can be seen in Fig. 17. The permeability in the layer was determined by the amount of water influx that was required to history match the water production. Wells 191/08-36, 191/09-36 and 192/09-36 required more water and the permeability was adjusted accordingly; see Fig. 18.</anchoringText>
+<image-wrap id="102118185021MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118185021MS_i_17.tif" id="ImgLink-17" />
+<caption>Reservoir Pressure with Water Layer</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Reservoir Pressure with Water Layer</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="18" data-type-order="22">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr23">This was not achievable in the model without the pressure support provided through water volume in the silts. The reservoir pressure as compared to the pressures of the infills after the fracture can be seen in Fig. 17. The permeability in the layer was determined by the amount of water influx that was required to history match the water production. Wells 191/08-36, 191/09-36 and 192/09-36 required more water and the permeability was adjusted accordingly; see Fig. 18.</anchoringText>
+<image-wrap id="102118185021MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118185021MS_i_18.tif" id="ImgLink-18" />
+<caption>Water Layer: Permeability</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Water Layer: Permeability</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="19" data-type-order="23">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr24">Fig. 19 displays the history match on watercut. After the hydraulic fractures were applied and the water from the silt was accessed, the watercut rose from 30% to approximately 70%.</anchoringText>
+<image-wrap id="102118185021MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118185021MS_i_19.tif" id="ImgLink-19" />
+<caption>Field Watercut</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Field Watercut</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="20" data-type-order="25">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr25">A comparison of all the forecast cases can be found in Figs. 20 through Figs. 22. The figures display the oil rate and cumulative oil production as well as a comparison of RF versus HCPVI.</anchoringText>
+<image-wrap id="102118185021MS-Img_SPi-20">
+<label>Figure 20 </label>
+<imageLink type="mediaResource" href="102118185021MS_i_20.tif" id="ImgLink-20" />
+<caption>Forecast Comparison - Cumulative Oil Production</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Forecast Comparison - Cumulative Oil Production</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="21" data-type-order="26">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr26">A comparison of all the forecast cases can be found in Figs. 20 through Figs. 22. The figures display the oil rate and cumulative oil production as well as a comparison of RF versus HCPVI.</anchoringText>
+<image-wrap id="102118185021MS-Img_SPi-21">
+<label>Figure 21 </label>
+<imageLink type="mediaResource" href="102118185021MS_i_21.tif" id="ImgLink-21" />
+<caption>Forecast Comparison - Oil Rate</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>21</caption-order>
+<caption-text>Forecast Comparison - Oil Rate</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="22" data-type-order="27">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr27">A comparison of all the forecast cases can be found in Figs. 20 through Figs. 22. The figures display the oil rate and cumulative oil production as well as a comparison of RF versus HCPVI.</anchoringText>
+<image-wrap id="102118185021MS-Img_SPi-22">
+<label>Figure 22 </label>
+<imageLink type="mediaResource" href="102118185021MS_i_22.tif" id="ImgLink-22" />
+<caption>Forecast Comparison - RF vs. HCPVI</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>22</caption-order>
+<caption-text>Forecast Comparison - RF vs. HCPVI</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

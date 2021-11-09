@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189070MS.txt" extractionDate="2021-03-29T11:21:59Z">
+<doi>10.2118/189070-MS</doi>
+<pii>10.2118/189070-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="10" table-order="1" data-type-order="6">
+<table-wrap id="102118189070MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Fisher Bank Basin and mid Graben as the main areas of challenge. While it is often suggested that adjusting Eaton exponents to higher values will yield a match between log-based estimates and the observed overpressure in areas of suspected multiple overpressure mechanisms, however, the geological validity of changing the Eaton exponent in the context of pore pressure prediction and understanding the causes of overpressure is still diffuse. Thus, as subsequently shown in Figure 5, the results of changing the Eaton exponent to fit local observations indicate that improved fits could always be achieved, but a wide range of Eaton exponents that exceed 4.0 in many cases are required in the Central North Sea (see Table 1).</anchoringText>
+<label>Table 1</label>
+<caption>Range of values of Eaton exponents used to fit log-based estimates to measured overpressure in sub-Chalk reservoir</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Range of values of Eaton exponents used to fit log-based estimates to measured overpressure in sub-Chalk reservoir</caption-text>
+</formatted-caption>
+<table id="102118189070MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">
+<a id="bookmark0">
+</a>Well Names</th>
+<th valign="top" align="left">Location in the Graben</th>
+<th valign="top" align="center">sub-Chalk Reservoir OP</th>
+<th valign="top" align="center">Eaton Exponent</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">
+<b>21/17- 3</b>
+</td>
+<td valign="top" align="left">West Central Shelf</td>
+<td valign="top" align="center">2076</td>
+<td valign="top" align="center">2.5</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>21/19-2</b>
+</td>
+<td valign="top" align="left">West Central Shelf</td>
+<td valign="top" align="center">2568</td>
+<td valign="top" align="center">2.5</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>21/25- 2</b>
+</td>
+<td valign="top" align="left">West Central Shelf</td>
+<td valign="top" align="center">2188</td>
+<td valign="top" align="center">2.5</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>29/7- 1</b>
+</td>
+<td valign="top" align="left">West Central Shelf</td>
+<td valign="top" align="center">3414</td>
+<td valign="top" align="center">2.5</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>30/12b- 2</b>
+</td>
+<td valign="top" align="left">West Central Shelf</td>
+<td valign="top" align="center">1009</td>
+<td valign="top" align="center">2.5</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>21/20a-1</b>
+</td>
+<td valign="top" align="left">Northern West Central Graben</td>
+<td valign="top" align="center">6721</td>
+<td valign="top" align="center">4.5</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>22/21- 4</b>
+</td>
+<td valign="top" align="left">Northern West Central Graben</td>
+<td valign="top" align="center">6353</td>
+<td valign="top" align="center">6</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>22/21- 7</b>
+</td>
+<td valign="top" align="left">Northern West Central Graben</td>
+<td valign="top" align="center">6804</td>
+<td valign="top" align="center">7</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>22/27a- 1</b>
+</td>
+<td valign="top" align="left">Northern West Central Graben</td>
+<td valign="top" align="center">6661</td>
+<td valign="top" align="center">4.2</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>29/4a- 2</b>
+</td>
+<td valign="top" align="left">Southern West Central Graben</td>
+<td valign="top" align="center">6381</td>
+<td valign="top" align="center">4</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>29/5a- 1</b>
+</td>
+<td valign="top" align="left">Southern West Central Graben</td>
+<td valign="top" align="center">6097</td>
+<td valign="top" align="center">6.8</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>29/5a-3</b>
+</td>
+<td valign="top" align="left">Southern West Central Graben</td>
+<td valign="top" align="center">6743</td>
+<td valign="top" align="center">4</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>29/9c- 4</b>
+</td>
+<td valign="top" align="left">Southern West Central Graben</td>
+<td valign="top" align="center">6066</td>
+<td valign="top" align="center">6.5</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>29/10- 2</b>
+</td>
+<td valign="top" align="left">Southern West Central Graben</td>
+<td valign="top" align="center">5719</td>
+<td valign="top" align="center">4.4</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>22/2- 2</b>
+</td>
+<td valign="top" align="left">Fisher Bank basin</td>
+<td valign="top" align="center">7965</td>
+<td valign="top" align="center">7</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>22/28a- 1</b>
+</td>
+<td valign="top" align="left">Mid Graben</td>
+<td valign="top" align="center">7634</td>
+<td valign="top" align="center">5.5</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>22/30a- 1</b>
+</td>
+<td valign="top" align="left">Mid Graben</td>
+<td valign="top" align="center">7637</td>
+<td valign="top" align="center">6.8</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>29/5b- 4</b>
+</td>
+<td valign="top" align="left">Mid Graben</td>
+<td valign="top" align="center">7883</td>
+<td valign="top" align="center">4.6</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187534MS.txt" extractionDate="2021-03-26T19:38:21Z">
+<doi>10.2118/187534-MS</doi>
+<pii>10.2118/187534-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr5">The case study presented in this paper describes a reservoir simulation study in the Powder River Basin with varying fluid regimes across the field (Figure 1). This particular field has three different fluid systems driven by differences in basement heat flow: black oil, volatile oil, and gas condensate. Two different reservoir simulation studies within the same field will be described in this paper. The first reservoir simulation study was developed on an unbounded well in an area of the field interpreted as black oil.</anchoringText>
+<image-wrap id="102118187534MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118187534MS_i_1.tif" id="ImgLink-1" />
+<caption>Field map showing changes in gas-oil ratio and location of study wells and PVT samples.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Field map showing changes in gas-oil ratio and location of study wells and PVT samples.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="4" figure-order="2" data-type-order="6">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr6">MFrac models showed a frac half length (xf) of 586’ to 635’ and a fracture conductivity of 900nD extending to 460ft. (see Figure 2)</anchoringText>
+<image-wrap id="102118187534MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118187534MS_i_2.tif" id="ImgLink-2" />
+<caption>Hydraulic Fracture model showing predicted fracture half-length and conductivity</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Hydraulic Fracture model showing predicted fracture half-length and conductivity</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187534MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118187534MS_i_2a.tif" id="ImgLink-2a" />
+</image-wrap>
+<image-wrap id="102118187534MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118187534MS_i_2b.tif" id="ImgLink-2b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="7">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr7">Stratigraphy was tied to horizons from 3D seismic tied to well logs and steering files from horizontal wells. Petrophysical properties (Vclay, porosity, saturations, permeability) were interpolated between pilot wells using seismic attributes as a secondary input. After areas were selected for reservoir simulation, a subgrid was extracted from the regional model and exported to the reservoir simulation software. Figure 3 shows a portion of the geomodel in the area of Wells 1B, 2B, 3B.</anchoringText>
+<image-wrap id="102118187534MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118187534MS_i_3.tif" id="ImgLink-3" />
+<caption>Cross sectional view of 3D geologic model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Cross sectional view of 3D geologic model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="8">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr8">A black oil reservoir simulation study using CMG-IMEX was performed on an unbounded well in the central portion of the field with sensitivities defined for several parameters such as fluid phase, hydraulic fracture dimensions, fracture permeability in the non-fractured zone (NFZ), and relative permeability curves. Figure 4 shows a 3D representation of the model</anchoringText>
+<image-wrap id="102118187534MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118187534MS_i_4.tif" id="ImgLink-4" />
+<caption>3D Reservoir Simulation Model A</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>3D Reservoir Simulation Model A</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="5" data-type-order="9">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr9">The model needed permeability enhancement in the non-fractured zone (NFZ) for it to be able to run and achieve acceptable results. (Figure 5)</anchoringText>
+<image-wrap id="102118187534MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118187534MS_i_5.tif" id="ImgLink-5" />
+<caption>FRAC PERM &amp; NFZ PERM</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>FRAC PERM &amp; NFZ PERM</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="7" figure-order="6" data-type-order="10">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr10">NFZ PERM was enhanced using a multiplier factor of no less than 10 in the grid blocks in between fractures to allow the fluid to move to the fractures in the grids hydraulically stimulated and produce fluids. (Figure 6)</anchoringText>
+<image-wrap id="102118187534MS-Img_SPi-6">
+<imageLink type="mediaResource" href="102118187534MS_i_6.tif" id="ImgLink-6" />
+</image-wrap>
+<image-wrap id="102118187534MS-Img_SPi-6-6">
+<imageLink type="mediaResource" href="102118187534MS_i_6-1.tif" id="ImgLink-6-1" />
+</image-wrap>
+<image-wrap id="102118187534MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118187534MS_i_6a.tif" id="ImgLink-6a" />
+</image-wrap>
+<image-wrap id="102118187534MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118187534MS_i_6b.tif" id="ImgLink-6b" />
+</image-wrap>
+<image-wrap id="102118187534MS-Img_SPi-6c">
+<imageLink type="mediaResource" href="102118187534MS_i_6c.tif" id="ImgLink-6c" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="8" figure-order="7" data-type-order="11">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr11">An acceptable history match example is shown in Figure 7.</anchoringText>
+<image-wrap id="102118187534MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118187534MS_i_7.tif" id="ImgLink-7" />
+<caption>History match example for Reservoir Simulation A</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>History match example for Reservoir Simulation A</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187534MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118187534MS_i_7a.tif" id="ImgLink-7a" />
+</image-wrap>
+<image-wrap id="102118187534MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118187534MS_i_7b.tif" id="ImgLink-7b" />
+</image-wrap>
+<image-wrap id="102118187534MS-Img_SPi-7c">
+<imageLink type="mediaResource" href="102118187534MS_i_7c.tif" id="ImgLink-7c" />
+</image-wrap>
+<image-wrap id="102118187534MS-Img_SPi-7d">
+<imageLink type="mediaResource" href="102118187534MS_i_7d.tif" id="ImgLink-7d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="8" data-type-order="12">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr12">A compositional reservoir simulation study using CMG-GEM was completed for three wells in the southern portion of the field initially defined as gas condensate (Figure 8 shows a 3D representation of the simulation study). After performing sensitivity evaluations on completion design, petrophysics parameters, and relative permeability curves in addition to developing a PVT characterization for a gas well nearby, models for this study could not achieve acceptable history match results (Figure 9 shows the P-T diagram developed).</anchoringText>
+<image-wrap id="102118187534MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118187534MS_i_8.tif" id="ImgLink-8" />
+<caption>3D Reservoir Simulation Model B</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>3D Reservoir Simulation Model B</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="9" data-type-order="13">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr13">A compositional reservoir simulation study using CMG-GEM was completed for three wells in the southern portion of the field initially defined as gas condensate (Figure 8 shows a 3D representation of the simulation study). After performing sensitivity evaluations on completion design, petrophysics parameters, and relative permeability curves in addition to developing a PVT characterization for a gas well nearby, models for this study could not achieve acceptable history match results (Figure 9 shows the P-T diagram developed).</anchoringText>
+<image-wrap id="102118187534MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118187534MS_i_9.tif" id="ImgLink-9" />
+<caption>P-T Diagram – Gas Condensate</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>P-T Diagram – Gas Condensate</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="10" data-type-order="14">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr14">A new PVT characterization assuming volatile oil regime was determined (Figure 10) to achieve an acceptable history match.</anchoringText>
+<image-wrap id="102118187534MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118187534MS_i_10.tif" id="ImgLink-10" />
+<caption>P-T Diagram – Volatile Oil</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>P-T Diagram – Volatile Oil</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="11" data-type-order="15">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr15">History match could not be achieved using gas condensate PVT (Figure 11).</anchoringText>
+<image-wrap id="102118187534MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118187534MS_i_11.tif" id="ImgLink-11" />
+<caption>History match examples for Reservoir Simulation B – Difficult to match both pressure and oil volumes when fluid window defined as gas condensate Pressure matched - Oil Rate not matched, Oil Rate matched - Pressure not matched</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>History match examples for Reservoir Simulation B – Difficult to match both pressure and oil volumes when fluid window defined as gas condensate Pressure matched - Oil Rate not matched, Oil Rate matched - Pressure not matched</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187534MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118187534MS_i_11a.tif" id="ImgLink-11a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Pressure matched - Oil Rate not matched</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187534MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118187534MS_i_11b.tif" id="ImgLink-11b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Oil Rate matched - Pressure not matched</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="11" figure-order="12" data-type-order="16">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr16">History match results improved after using new PVT for volatile oil regime (Figure 12).</anchoringText>
+<image-wrap id="102118187534MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118187534MS_i_12.tif" id="ImgLink-12" />
+<caption>History match example for Reservoir Simulation B– Improved match when defining fluid window to be volatile oil</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>History match example for Reservoir Simulation B– Improved match when defining fluid window to be volatile oil</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187534MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118187534MS_i_12a.tif" id="ImgLink-12a" />
+</image-wrap>
+<image-wrap id="102118187534MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118187534MS_i_12b.tif" id="ImgLink-12b" />
+</image-wrap>
+<image-wrap id="102118187534MS-Img_SPi-12c">
+<imageLink type="mediaResource" href="102118187534MS_i_12c.tif" id="ImgLink-12c" />
+</image-wrap>
+<image-wrap id="102118187534MS-Img_SPi-12d">
+<imageLink type="mediaResource" href="102118187534MS_i_12d.tif" id="ImgLink-12d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

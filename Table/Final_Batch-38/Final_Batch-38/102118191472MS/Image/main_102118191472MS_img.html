@@ -1,0 +1,547 @@
+﻿<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8" ></head><div>
+<div><b>Meta Informations:</b><p>SPE_Society_of_Petroleum_Engineers</p><p>DOI: 10.2118/191472-MS<br>PII: 10.2118/191472-MS<br></p></div>
+<div>
+<div composite="true" composite-count="3" pdf-page="4" figure-order="1" data-type-order="1">
+<a href="#link-1"> </a>
+<div>
+<p id="Ancr5">For this work, the full-field model was converted to a compositional model using the Equation of State (EOS) model provided by the operator. A sector model subsuming the pilot location was generated from the calibrated full-field model as shown in Fig. 1(a). In this step, we retain the native vertical and areal grid resolutions in the pilot model, as well as the calibrated pore volume multipliers obtained from the full-field history matching (Olalotiti-Lawal et al., 2017).</p><div id="link-1">
+
+<div id="102118185713MS-Img_SPi-1"><figure>
+
+<img id="ImgLink-1" src="102118191472MS_i_1.tif" alt="102118191472MS_i_1" ><br>
+<figcaption><b>Figure 1</b> (a) Pilot model (right) initialization from the full-field high-resolution geologic model (left). (b) Top view of pilot model showing locations of producers, injector and observation wells O1 and O2. Pilot model consists of a single inverted 5 spot flood pattern with an injector in the center. Boundary fluxes (represented by black arrows) are mapped directly from the full-field model. (c) Fluid phase envelopes comparison at virgin reservoir condition and current state.</figcaption>
+<p>Figure 1 (a) Pilot model (right) initialization from the full-field high-resolution geologic model (left). (b) Top view of pilot model showing locations of producers, injector and observation wells O1 and O2. Pilot model consists of a single inverted 5 spot flood pattern with an injector in the center. Boundary fluxes (represented by black arrows) are mapped directly from the full-field model. (c) Fluid phase envelopes comparison at virgin reservoir condition and current state.</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-1a"><figure>
+<img id="ImgLink-1a" src="102118191472MS_i_1a.tif" alt="102118191472MS_i_1a" ><br>
+<p>a Pilot model (right) initialization from the full-field high-resolution geologic model (left).</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-1b"><figure>
+<img id="ImgLink-1b" src="102118191472MS_i_1b.tif" alt="102118191472MS_i_1b" ><br>
+<p>b Top view of pilot model showing locations of producers, injector and observation wells O1 and O2. Pilot model consists of a single inverted 5 spot flood pattern with an injector in the center. Boundary fluxes (represented by black arrows) are mapped directly from the full-field model.</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-1c"><figure>
+<img id="ImgLink-1c" src="102118191472MS_i_1c.tif" alt="102118191472MS_i_1c" ><br>
+<p>c Fluid phase envelopes comparison at virgin reservoir condition and current state.</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="5" figure-order="2" data-type-order="2">
+<a href="#link-2"> </a>
+<div>
+<p id="Ancr6">We follow a two-step hierarchical approach for the calibration of the pilot model (Yin et al., 2011) as described in the general workflow schematic in Fig. 2. In the first step, we focus on a global update of spatial distribution of the model permeability field and the relative permeability functions. We apply the Grid Connectivity Transform (GCT) which enables spatial updates of the permeability field using a small set of basis functions (Bhark et al., 2011). In the second step, we fine-tune the pilot model permeability field by matching CO2 arrival times at the producers using the streamline-based Generalized Travel Time Inversion (GTTI) algorithm (Cheng et al., 2005; Cheng et al., 2004; He et al., 2002).</p><div id="link-2">
+
+<div id="102118191472MS-Img_SPi-2"><figure>
+
+<img id="ImgLink-2" src="102118191472MS_i_2.tif" alt="102118191472MS_i_2" ><br>
+<figcaption><b>Figure 2 </b> Hierarchical pilot model calibration workflow, starting with a global model calibration and followed by a streamline-based local model update</figcaption>
+<p>Figure 2 Hierarchical pilot model calibration workflow, starting with a global model calibration and followed by a streamline-based local model update</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="6" figure-order="3" data-type-order="3">
+<a href="#link-3"> </a>
+<div>
+<p id="Ancr7">We first integrate the multiphase production and pressure data in the pilot model by updating the three-phase relative permeability functions and absolute permeability distribution. For model permeability field updates, a set of orthogonal basis functions Φi obtained by an eigen-decompostion of the grid connectivity Laplacian is utilized. A few of these basis functions are shown in Fig. 3.</p><div id="link-3">
+
+<div id="102118191472MS-Img_SPi-3"><figure>
+
+<img id="ImgLink-3" src="102118191472MS_i_3.tif" alt="102118191472MS_i_3" ><br>
+<figcaption><b>Figure 3 </b> Basis functions obtained from Grid Connectivity-based Transform (GCT) reparameterization method. Basis functions are generated based on an informed prior permeability model</figcaption>
+<p>Figure 3 Basis functions obtained from Grid Connectivity-based Transform (GCT) reparameterization method. Basis functions are generated based on an informed prior permeability model</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="2" pdf-page="9" figure-order="4" data-type-order="5">
+<a href="#link-4"> </a>
+<div>
+<p id="Ancr8">A plot of the data misfit reduction obtained from GA in the global model calibration step is shown in Fig. 4(a). Although, the 'best' model is selected as the one with the least data misfit at the end of the 20 generations, we also provide a boxplot of the normalized distribution of the parameters in the 80 members of the population in the last generation in Fig. 4(b). Water endpoint relative permeability krwE turned out to have the most reduction in the spread with clear bias toward the maximum value (close to 1.0).</p><div id="link-4">
+
+<div id="102118185713MS-Img_SPi-4"><figure>
+
+<img id="ImgLink-4" src="102118191472MS_i_4.tif" alt="102118191472MS_i_4" ><br>
+<figcaption><b>Figure 4</b> Global update results showing (a) data misfit reduction with generation and (b) normalized distribution of updated parameters</figcaption>
+<p>Figure 4 Global update results showing (a) data misfit reduction with generation and (b) normalized distribution of updated parameters</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-4a"><figure>
+<img id="ImgLink-4a" src="102118191472MS_i_4a.tif" alt="102118191472MS_i_4a" ><br>
+<p>a data misfit reduction with generation and</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-4b"><figure>
+<img id="ImgLink-4b" src="102118191472MS_i_4b.tif" alt="102118191472MS_i_4b" ><br>
+<p>b normalized distribution of updated parameters</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="9" figure-order="5" data-type-order="6">
+<a href="#link-5"> </a>
+<div>
+<p id="Ancr9">The results show a close agreement with the initial relative permeability function, which was obtained from the full-field model calibration (Olalotiti-Lawal et al., 2017). In fact, looking at the comparison of the relative permeability functions between initial and updated model in Figs. 5(a) and (b), it turns out that the oil-water relative permeability functions are retained from the full-field model, while the gas-oil functions are modified. It can be recalled that the field data integrated into the full-field model was predominantly based on a two-phase oil-water system. This justifies the preservation of the oil-water relative permeability function.</p><div id="link-5">
+
+<div id="102118191472MS-Img_SPi-5"><figure>
+
+<img id="ImgLink-5" src="102118191472MS_i_5.tif" alt="102118191472MS_i_5" ><br>
+<figcaption><b>Figure 5 </b> Comparison of initial and updated three-phase relative permeability functions for the pilot model</figcaption>
+<p>Figure 5 Comparison of initial and updated three-phase relative permeability functions for the pilot model</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="4" pdf-page="10" figure-order="6" data-type-order="7">
+<a href="#link-6"> </a>
+<div>
+<p id="Ancr10">Production matches obtained from the pilot model calibration are summarized in Figs. 6 - 9. The initial model response, the model response after the global update and after the local update are compared with the observed data in each of these plots. The results show improved matches for all 4 wells in terms of production GOR, oil rate, water cut and CO2 mole fraction. The data shows insignificant CO2 was observed at PRD1 which, as a consequence results in less oil production.</p><div id="link-6">
+
+<div id="102118191472MS-Img_SPi-6"><figure>
+
+<img id="ImgLink-6" src="102118191472MS_i_6.tif" alt="102118191472MS_i_6" ><br>
+<figcaption><b>Figure 6 </b> Comparison of Gas production Rates (GPR) at each stage of the model calibration (plot-scale suppressed per operator request). PRD1 PRD2 PRD3 PRD4</figcaption>
+<p>Figure 6 Comparison of Gas production Rates (GPR) at each stage of the model calibration (plot-scale suppressed per operator request). PRD1 PRD2 PRD3 PRD4</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-6a"><figure>
+<img id="ImgLink-6a" src="102118191472MS_i_6a.tif" alt="102118191472MS_i_6a" ><br>
+<p>PRD1</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-6b"><figure>
+<img id="ImgLink-6b" src="102118191472MS_i_6b.tif" alt="102118191472MS_i_6b" ><br>
+<p>PRD2</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-6c"><figure>
+<img id="ImgLink-6c" src="102118191472MS_i_6c.tif" alt="102118191472MS_i_6c" ><br>
+<p>PRD3</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-6d"><figure>
+<img id="ImgLink-6d" src="102118191472MS_i_6d.tif" alt="102118191472MS_i_6d" ><br>
+<p>PRD4</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="4" pdf-page="11" figure-order="7" data-type-order="8">
+<a href="#link-7"> </a>
+<div>
+<p id="Ancr11">Production matches obtained from the pilot model calibration are summarized in Figs. 6 - 9. The initial model response, the model response after the global update and after the local update are compared with the observed data in each of these plots. The results show improved matches for all 4 wells in terms of production GOR, oil rate, water cut and CO2 mole fraction. The data shows insignificant CO2 was observed at PRD1 which, as a consequence results in less oil production.</p><div id="link-7">
+
+<div id="102118185713MS-Img_SPi-7"><figure>
+
+<img id="ImgLink-7" src="102118191472MS_i_7.tif" alt="102118191472MS_i_7" ><br>
+<figcaption><b>Figure 7</b> Comparison of Oil production Rates (OPR) at each stage of the model calibration (plot-scale suppressed per operator request). PRD1 PRD2 PRD3 PRD4</figcaption>
+<p>Figure 7 Comparison of Oil production Rates (OPR) at each stage of the model calibration (plot-scale suppressed per operator request). PRD1 PRD2 PRD3 PRD4</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-7a"><figure>
+<img id="ImgLink-7a" src="102118191472MS_i_7a.tif" alt="102118191472MS_i_7a" ><br>
+<p>PRD1</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-7b"><figure>
+<img id="ImgLink-7b" src="102118191472MS_i_7b.tif" alt="102118191472MS_i_7b" ><br>
+<p>PRD2</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-7c"><figure>
+<img id="ImgLink-7c" src="102118191472MS_i_7c.tif" alt="102118191472MS_i_7c" ><br>
+<p>PRD3</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-7d"><figure>
+<img id="ImgLink-7d" src="102118191472MS_i_7d.tif" alt="102118191472MS_i_7d" ><br>
+<p>PRD4</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="4" pdf-page="11" figure-order="8" data-type-order="9">
+<a href="#link-8"> </a>
+<div>
+<p id="Ancr12">Production matches obtained from the pilot model calibration are summarized in Figs. 6 - 9. The initial model response, the model response after the global update and after the local update are compared with the observed data in each of these plots. The results show improved matches for all 4 wells in terms of production GOR, oil rate, water cut and CO2 mole fraction. The data shows insignificant CO2 was observed at PRD1 which, as a consequence results in less oil production.</p><div id="link-8">
+
+<div id="102118185713MS-Img_SPi-8"><figure>
+
+<img id="ImgLink-8" src="102118191472MS_i_8.tif" alt="102118191472MS_i_8" ><br>
+<figcaption><b>Figure 8</b> Comparison of production Water Cut (WCT) at each stage of the model calibration (plot-scale suppressed per operator request). PRD1 PRD2 PRD3 PRD4</figcaption>
+<p>Figure 8 Comparison of production Water Cut (WCT) at each stage of the model calibration (plot-scale suppressed per operator request). PRD1 PRD2 PRD3 PRD4</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-8a"><figure>
+<img id="ImgLink-8a" src="102118191472MS_i_8a.tif" alt="102118191472MS_i_8a" ><br>
+<p>PRD1</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-8b"><figure>
+<img id="ImgLink-8b" src="102118191472MS_i_8b.tif" alt="102118191472MS_i_8b" ><br>
+<p>PRD2</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-8c"><figure>
+<img id="ImgLink-8c" src="102118191472MS_i_8c.tif" alt="102118191472MS_i_8c" ><br>
+<p>PRD3</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-8d"><figure>
+<img id="ImgLink-8d" src="102118191472MS_i_8d.tif" alt="102118191472MS_i_8d" ><br>
+<p>PRD4</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="4" pdf-page="12" figure-order="9" data-type-order="10">
+<a href="#link-9"> </a>
+<div>
+<p id="Ancr13">Production matches obtained from the pilot model calibration are summarized in Figs. 6 - 9. The initial model response, the model response after the global update and after the local update are compared with the observed data in each of these plots. The results show improved matches for all 4 wells in terms of production GOR, oil rate, water cut and CO2 mole fraction. The data shows insignificant CO2 was observed at PRD1 which, as a consequence results in less oil production.</p><div id="link-9">
+
+<div id="102118185713MS-Img_SPi-9"><figure>
+
+<img id="ImgLink-9" src="102118191472MS_i_9.tif" alt="102118191472MS_i_9" ><br>
+<figcaption><b>Figure 9</b> Comparison of production CO2 mole fraction (ZMF_CO2) at each stage of the model calibration (plot-scale suppressed per operator request). PRD1 PRD2 PRD3 PRD4</figcaption>
+<p>Figure 9 Comparison of production CO2 mole fraction (ZMF_CO2) at each stage of the model calibration (plot-scale suppressed per operator request). PRD1 PRD2 PRD3 PRD4</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-9a"><figure>
+<img id="ImgLink-9a" src="102118191472MS_i_9a.tif" alt="102118191472MS_i_9a" ><br>
+<p>PRD1</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-9b"><figure>
+<img id="ImgLink-9b" src="102118191472MS_i_9b.tif" alt="102118191472MS_i_9b" ><br>
+<p>PRD2</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-9c"><figure>
+<img id="ImgLink-9c" src="102118191472MS_i_9c.tif" alt="102118191472MS_i_9c" ><br>
+<p>PRD3</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-9d"><figure>
+<img id="ImgLink-9d" src="102118191472MS_i_9d.tif" alt="102118191472MS_i_9d" ><br>
+<p>PRD4</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="12" figure-order="10" data-type-order="11">
+<a href="#link-10"> </a>
+<div>
+<p id="Ancr14">In resolving data misifits, our model calibration workflow places emphasis on preserving geolgic features in the updated model to enhance its predictive utility. This can be visually observed in Fig. 10 which compares the initial and updated permeability fields. Also, the plot of required permeability changes for both global and local update steps are provided in Fig. 11. As expected, more changes in the permeability field were necessary in the global step, compared to the local step which involves fine-tuning the updated model from the global step. The permeability distributions for the initial and updated models are compared in Fig. 12.</p><div id="link-10">
+
+<div id="102118191472MS-Img_SPi-10"><figure>
+
+<img id="ImgLink-10" src="102118191472MS_i_10.tif" alt="102118191472MS_i_10" ><br>
+<figcaption><b>Figure 10 </b> Visual comparison of permeability fields (full and cross-sections) of the initial model (left), updated model based on GCT-GA scheme and updated model from streamline-based local update.</figcaption>
+<p>Figure 10 Visual comparison of permeability fields (full and cross-sections) of the initial model (left), updated model based on GCT-GA scheme and updated model from streamline-based local update.</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="13" figure-order="11" data-type-order="12">
+<a href="#link-11"> </a>
+<div>
+<p id="Ancr15">In resolving data misifits, our model calibration workflow places emphasis on preserving geolgic features in the updated model to enhance its predictive utility. This can be visually observed in Fig. 10 which compares the initial and updated permeability fields. Also, the plot of required permeability changes for both global and local update steps are provided in Fig. 11. As expected, more changes in the permeability field were necessary in the global step, compared to the local step which involves fine-tuning the updated model from the global step. The permeability distributions for the initial and updated models are compared in Fig. 12.</p><div id="link-11">
+
+<div id="102118191472MS-Img_SPi-11"><figure>
+
+<img id="ImgLink-11" src="102118191472MS_i_11.tif" alt="102118191472MS_i_11" ><br>
+<figcaption><b>Figure 11 </b> Visual comparison of permeability field changes (full and crosssections) required by the GCT-GA update and the streamline-based local update.</figcaption>
+<p>Figure 11 Visual comparison of permeability field changes (full and crosssections) required by the GCT-GA update and the streamline-based local update.</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="2" pdf-page="13" figure-order="12" data-type-order="13">
+<a href="#link-12"> </a>
+<div>
+<p id="Ancr16">In resolving data misifits, our model calibration workflow places emphasis on preserving geolgic features in the updated model to enhance its predictive utility. This can be visually observed in Fig. 10 which compares the initial and updated permeability fields. Also, the plot of required permeability changes for both global and local update steps are provided in Fig. 11. As expected, more changes in the permeability field were necessary in the global step, compared to the local step which involves fine-tuning the updated model from the global step. The permeability distributions for the initial and updated models are compared in Fig. 12.</p><div id="link-12">
+
+<div id="102118185713MS-Img_SPi-12"><figure>
+
+<img id="ImgLink-12" src="102118191472MS_i_12.tif" alt="102118191472MS_i_12" ><br>
+<figcaption><b>Figure 12</b> Comparison of permeability field distribution between (a) initial and model based on the GCT-GA global update and (b) initial model model based on streamline-based local update</figcaption>
+<p>Figure 12 Comparison of permeability field distribution between (a) initial and model based on the GCT-GA global update and (b) initial model model based on streamline-based local update</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-12a"><figure>
+<img id="ImgLink-12a" src="102118191472MS_i_12a.tif" alt="102118191472MS_i_12a" ><br>
+<p>a initial and model based on the GCT-GA global update and</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-12b"><figure>
+<img id="ImgLink-12b" src="102118191472MS_i_12b.tif" alt="102118191472MS_i_12b" ><br>
+<p>b initial model model based on streamline-based local update</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="14" figure-order="13" data-type-order="14">
+<a href="#link-13"> </a>
+<div>
+<p id="Ancr17">It is expected that a significant portion of injected CO2 is trapped in the subsurface and the proportion recovered provides an indication of the quality of sweep in the subsurface (Melzer, 2012). A field-wide comparison of CO2 recovery between the initial and updated models is shown in Fig. 13. An early CO2 breakthrough is obtained from the initial model response and hence, CO2 recovery is overestimated.</p><div id="link-13">
+
+<div id="102118191472MS-Img_SPi-13"><figure>
+
+<img id="ImgLink-13" src="102118191472MS_i_13.tif" alt="102118191472MS_i_13" ><br>
+<figcaption><b>Figure 13 </b> CO2 recovery fraction comparison between observed data and initial and calibrated model responses. The true CO2 recovery fraction is better represented by the calibrated model (plot-scale suppressed per operator request).</figcaption>
+<p>Figure 13 CO2 recovery fraction comparison between observed data and initial and calibrated model responses. The true CO2 recovery fraction is better represented by the calibrated model (plot-scale suppressed per operator request).</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="2" pdf-page="15" figure-order="14" data-type-order="15">
+<a href="#link-14"> </a>
+<div>
+<p id="Ancr18">Next we compared the model response with gas saturation logs at two separate observation wells. The locations of the observation wells O1 and O2 relative to the other wells in the pilot pattern are shown in Figs. 14(a) and (b). In each of these figures, the observed data is compared with the gas saturation profiles at the wells. The wireline measurements serve as proxy for reservoir saturation logs (sigma responses) so that time variations in the in the measurements at specific zones down the observation well indicate gas invasion through that zone. Looking at Fig. 14(a), CO2 is expected to flow into Zone 2 of the reservoir at the location of O1 according to the observed data.</p><div id="link-14">
+
+<div id="102118185713MS-Img_SPi-14"><figure>
+
+<img id="ImgLink-14" src="102118191472MS_i_14.tif" alt="102118191472MS_i_14" ><br>
+<figcaption><b>Figure 14</b> Reservoir saturation logs (sigma responses) comparison between observed data, initial model response and calibrated model response at observations wells (a) O1 and (b) O2. Calibrated model showed better reproduction of the observed trend of CO2 plume migration</figcaption>
+<p>Figure 14 Reservoir saturation logs (sigma responses) comparison between observed data, initial model response and calibrated model response at observations wells (a) O1 and (b) O2. Calibrated model showed better reproduction of the observed trend of CO2 plume migration</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-14a"><figure>
+<img id="ImgLink-14a" src="102118191472MS_i_14a.tif" alt="102118191472MS_i_14a" ><br>
+<p>a O1 and</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-14b"><figure>
+<img id="ImgLink-14b" src="102118191472MS_i_14b.tif" alt="102118191472MS_i_14b" ><br>
+<p>b O2. Calibrated model showed better reproduction of the observed trend of CO2 plume migration</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="2" pdf-page="16" figure-order="15" data-type-order="16">
+<a href="#link-15"> </a>
+<div>
+<p id="Ancr19">In Figs. 15 (a) and (b), visual comparisons of the CO2 plume between the initial and updated models at the beginning and the end of CO2 injection are provided. In all the plots presented, the plume shape was obtained at a threshold value of 0.3 CO2 model fraction. The preferential flow of CO2 towards PRD4 earlier discussed can be visually confirmed in Figs. 15 (a). As discussed in previous sub-sections, the CO2 fingering in the initial model resulted in earlier CO2 breakthrough and hence, unfavorable CO2 sweep compared to the updated model response. Also at the end of CO2 injection, as shown in Figs. 15 (b), CO2 never flowed towards PRD3 due to the poor hydraulic connectivity with INJ in the initial model.</p><div id="link-15">
+
+<div id="102118185713MS-Img_SPi-15"><figure>
+
+<img id="ImgLink-15" src="102118191472MS_i_15.tif" alt="102118191472MS_i_15" ><br>
+<figcaption><b>Figure 15</b> Visual comparison of CO2 plume migration between initial and calibrated models. The visualization is provided in three forms: cross-sectional view of CO2 mole fraction contour (left), 0.3 level threshold of CO2 mole fraction in 3D (middle) and top view (right).</figcaption>
+<p>Figure 15 Visual comparison of CO2 plume migration between initial and calibrated models. The visualization is provided in three forms: cross-sectional view of CO2 mole fraction contour (left), 0.3 level threshold of CO2 mole fraction in 3D (middle) and top view (right).</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-15a"><figure>
+<img id="ImgLink-15a" src="102118191472MS_i_15a.tif" alt="102118191472MS_i_15a" ><br>
+</figure></div>
+<div id="102118191472MS-Img_SPi-15b"><figure>
+<img id="ImgLink-15b" src="102118191472MS_i_15b.tif" alt="102118191472MS_i_15b" ><br>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="2" pdf-page="17" figure-order="16" data-type-order="17">
+<a href="#link-16"> </a>
+<div>
+<p id="Ancr20">The Lorentz curve shown in Fig. 16(a) shows a plot of the flow capacity F as a function of the storage capacity Φ. The 45-degree line typically mimics a piston-like displacement and the geometric area enclosed by this line and the Lorentz curve gives the Lorentz coefficient LC. Large values of LC indicate higher flow heterogeneity and therefore, less tracer sweep efficiency. A reduction of LC from 0.75 in the initial model to 0.64 in the updated model, with a corresponding 20% increase in tracer sweep efficiency (Fig. 16(b)) was deduced at from the analyses. The updated model shows much better flow connectivity compared to the initial model.</p><div id="link-16">
+
+<div id="102118185713MS-Img_SPi-16"><figure>
+
+<img id="ImgLink-16" src="102118191472MS_i_16.tif" alt="102118191472MS_i_16" ><br>
+<figcaption><b>Figure 16</b> onnectivity comparison between initial and updated models using (a) Lorentz coefficient and (b) tracer sweep efficiency. Both analyses reveal that hydraulic connectivity is underestimated in the initial model</figcaption>
+<p>Figure 16 Model connectivity comparison between initial and updated models using (a) Lorentz coefficient and (b) tracer sweep efficiency. Both analyses reveal that hydraulic connectivity is underestimated in the initial model</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-16a"><figure>
+<img id="ImgLink-16a" src="102118191472MS_i_16a.tif" alt="102118191472MS_i_16a" ><br>
+<p>a Lorentz coefficient and</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-16b"><figure>
+<img id="ImgLink-16b" src="102118191472MS_i_16b.tif" alt="102118191472MS_i_16b" ><br>
+<p>b tracer sweep efficiency</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="18" figure-order="17" data-type-order="18">
+<a href="#link-17"> </a>
+<div>
+<p id="Ancr21">A CO2 WAG sensitivity and optimization study was conducted using the calibrated model. We apply a combination of Design of Experiments (DoE) based surrogate models to exhaustively search the parameter space that describe a region of feasibility of the problem. The workflow schematic is presented in Fig. 17.</p><div id="link-17">
+
+<div id="102118191472MS-Img_SPi-17"><figure>
+
+<img id="ImgLink-17" src="102118191472MS_i_17.tif" alt="102118191472MS_i_17" ><br>
+<figcaption><b>Figure 17 </b> CO<sub>2</sub> WAG sensitivity and optimization workflow</figcaption>
+<p>Figure 17 CO<sub>2</sub> WAG sensitivity and optimization workflow</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="2" pdf-page="20" figure-order="18" data-type-order="20">
+<a href="#link-18"> </a>
+<div>
+<p id="Ancr22">Tornado charts of the parameter sensitivities on the two objective functions considered are presented in Fig. 18. As expected, CO2PVI shows a positive trend with OilRF but an opposite trend with CO2UF. Higher values of CO2PVI causes more mobilization of residual oil. Going by the definition in Eq. 20, higher OilRF in turn, causes the desired reduction in CO2UF. From Fig. 18, calculated sensitivities for WAGRATIO appear to disagree with common field observations.</p><div id="link-18">
+
+<div id="102118185713MS-Img_SPi-18"><figure>
+
+<img id="ImgLink-18" src="102118191472MS_i_18.tif" alt="102118191472MS_i_18" ><br>
+<figcaption><b>Figure 18</b> Tornado charts form CO<sub>2</sub> WAG sensitivity studies based on (a) oil recovery factor and (b) CO<sub>2</sub> Utilization Factor (UF)</figcaption>
+<p>Figure 18 Tornado charts form CO<sub>2</sub> WAG sensitivity studies based on (a) oil recovery factor and (b) CO<sub>2</sub> Utilization Factor (UF)</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-18a"><figure>
+<img id="ImgLink-18a" src="102118191472MS_i_18a.tif" alt="102118191472MS_i_18a" ><br>
+<p>a oil recovery factor and</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-18b"><figure>
+<img id="ImgLink-18b" src="102118191472MS_i_18b.tif" alt="102118191472MS_i_18b" ><br>
+<p>b CO<sub>2</sub> Utilization Factor (UF)</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="4" pdf-page="21" figure-order="19" data-type-order="21">
+<a href="#link-19"> </a>
+<div>
+<p id="Ancr23">In the construction of the proxy models, all the 4 dimensionless parameters were included. First 100 parameter combinations were generated using a Latin-Hypercube sampling in the parameter space. These parameter sets were evaluated using a commercial compositional finite difference simulator to calculate the OilRF and CO2UF objective functions. Plots of these objective functions with respect to time and HCPVI are provided in Figs. 19. To generate a surrogate model, a kriged response surface was then computed independently for the two objective functions.</p><div id="link-19">
+
+<div id="102118185713MS-Img_SPi-19"><figure>
+
+<img id="ImgLink-19" src="102118191472MS_i_19.tif" alt="102118191472MS_i_19" ><br>
+<figcaption><b>Figure 19</b> Training model responses for oil recovery (top row) and CO2 UF (bottom row). Plots are provided in dimensionless time (left row) and physical time (right column) (plot-scale suppressed per operator request).</figcaption>
+<p>Figure 19 Training model responses for oil recovery (top row) and CO2 UF (bottom row). Plots are provided in dimensionless time (left row) and physical time (right column) (plot-scale suppressed per operator request).</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-19a"><figure>
+<img id="ImgLink-19a" src="102118191472MS_i_19a.tif" alt="102118191472MS_i_19a" ><br>
+<p>top row Training model responses for oil recovery</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-19b"><figure>
+<img id="ImgLink-19b" src="102118191472MS_i_19b.tif" alt="102118191472MS_i_19b" ><br>
+<p>bottom row and CO2 UF (bottom row).</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-19c"><figure>
+<img id="ImgLink-19c" src="102118191472MS_i_19c.tif" alt="102118191472MS_i_19c" ><br>
+<p>left row Plots are provided in dimensionless time</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-19d"><figure>
+<img id="ImgLink-19d" src="102118191472MS_i_19d.tif" alt="102118191472MS_i_19d" ><br>
+<p>right row and physical time</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="21" figure-order="20" data-type-order="22">
+<a href="#link-20"> </a>
+<div>
+<p id="Ancr24">We considered four types of correlation functions including linear, exponential, Gaussian and cubic functions in the construction of the proxy models (Lophaven et al., 2002). These proxy models were validated with 50 blind parameter combinations sampled within the bounds of the parameter space. These results of the proxy model validation are presented in Fig. 20. These figures show crossplots of numerical simulation responses versus proxy model predictions of both OilRF and CO2UF for all correlations functions. Clearly, the constructed proxy models shows good agreement with numerical simulation results for the blind parameter combinations. The proxy model based on the linear correlation function resulted in the best fit and therefore, was chosen for the CO2 WAG optimization.</p><div id="link-20">
+
+<div id="102118191472MS-Img_SPi-20"><figure>
+
+<img id="ImgLink-20" src="102118191472MS_i_20.tif" alt="102118191472MS_i_20" ><br>
+<figcaption><b>Figure 20 </b> Validation of proxy models created with four different correlation functions (plot-scale suppressed per operator request).</figcaption>
+<p>Figure 20 Validation of proxy models created with four different correlation functions (plot-scale suppressed per operator request).</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="22" figure-order="21" data-type-order="23">
+<a href="#link-21"> </a>
+<div>
+<p id="Ancr25">A scatter plot of 20,000 sampled parameter combinations evaluated using the proxy model is presented in the objective function space in Fig. 21. Based on the preference of the operator, we select an optimal, intermediate and poor designs that correspond to 90, 50, and 10 percentiles of two objectives as shown in the figure. The design parameters for these three solutions are provided in Tables 3.</p><div id="link-21">
+
+<div id="102118191472MS-Img_SPi-21"><figure>
+
+<img id="ImgLink-21" src="102118191472MS_i_21.tif" alt="102118191472MS_i_21" ><br>
+<figcaption><b>Figure 21 </b> Objective space showing 20,000 model response scatters generated from the proxy model (plot-scale suppressed per operator request).</figcaption>
+<p>Figure 21 Objective space showing 20,000 model response scatters generated from the proxy model (plot-scale suppressed per operator request).</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="3" pdf-page="23" figure-order="22" data-type-order="26">
+<a href="#link-22"> </a>
+<div>
+<p id="Ancr26">The schedules obtained for the three selected solutions were repeated for another two years for a total duration of 4 years for the CO2 WAG operations. The results obtained are shown in Table 4. We also provide the injection and production rate profile comparisons for the three cases in Fig. 22 and a visualization of the CO2 sweep in the three cases in Fig. 23. Clearly, these figures show good agreement with the numerical results. As shown in the figures, better CO2 sweep was achieved in the optimal case compared to other cases.</p><div id="link-22">
+
+<div id="102118185713MS-Img_SPi-22"><figure>
+
+<img id="ImgLink-22" src="102118191472MS_i_22.tif" alt="102118191472MS_i_22" ><br>
+<figcaption><b>Figure 22</b> Comparison of optimal and sub-optimal model responses in terms of oil production (top), cumulative CO<sub>2</sub> produced and injected (middle) and CO<sub>2</sub> injection rate (bottom) (plot-scale suppressed per operator request).</figcaption>
+<p>Figure 22 Comparison of optimal and sub-optimal model responses in terms of oil production (top), cumulative CO<sub>2</sub> produced and injected (middle) and CO<sub>2</sub> injection rate (bottom) (plot-scale suppressed per operator request).</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-22a"><figure>
+<img id="ImgLink-22a" src="102118191472MS_i_22a.tif" alt="102118191472MS_i_22a" ><br>
+<p>top Comparison of optimal and sub-optimal model responses in terms of oil production</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-22b"><figure>
+<img id="ImgLink-22b" src="102118191472MS_i_22b.tif" alt="102118191472MS_i_22b" ><br>
+<p>middel cumulative CO<sub>2</sub> produced and injected</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-22c"><figure>
+<img id="ImgLink-22c" src="102118191472MS_i_22c.tif" alt="102118191472MS_i_22c" ><br>
+<p>bottom and CO<sub>2</sub> injection rate</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="2" pdf-page="23" figure-order="23" data-type-order="27">
+<a href="#link-23"> </a>
+<div>
+<p id="Ancr27">The schedules obtained for the three selected solutions were repeated for another two years for a total duration of 4 years for the CO2 WAG operations. The results obtained are shown in Table 4. We also provide the injection and production rate profile comparisons for the three cases in Fig. 22 and a visualization of the CO2 sweep in the three cases in Fig. 23. Clearly, these figures show good agreement with the numerical results. As shown in the figures, better CO2 sweep was achieved in the optimal case compared to other cases.</p><div id="link-23">
+
+<div id="102118185713MS-Img_SPi-23"><figure>
+
+<img id="ImgLink-23" src="102118191472MS_i_23.tif" alt="102118191472MS_i_23" ><br>
+<figcaption><b>Figure 23</b> Visual comparison of CO2 sweep between optimal and suboptimal models with oil saturation (top) and CO<sub>2</sub> mole fraction (bottom)</figcaption>
+<p>Figure 23 Visual comparison of CO2 sweep between optimal and suboptimal models with oil saturation (top) and CO<sub>2</sub> mole fraction (bottom)</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-23a"><figure>
+<img id="ImgLink-23a" src="102118191472MS_i_23a.tif" alt="102118191472MS_i_23a" ><br>
+<p>top Visual comparison of CO2 sweep between optimal and suboptimal models with oil saturation</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-23b"><figure>
+<img id="ImgLink-23b" src="102118191472MS_i_23b.tif" alt="102118191472MS_i_23b" ><br>
+<p>bottom and CO<sub>2</sub> mole fraction</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="24" figure-order="24" data-type-order="28">
+<a href="#link-24"> </a>
+<div>
+<p id="Ancr28">Finally we examine the value of the model calibration on field recovery estimation. Here we seek to estimate the comparative CO2 EOR performance between an uncalibrated reservoir model and a calibrated one. For this task, we conducted numerical simulations using optimized schedules based on the initial and updated pilot models. From the plot of OilRF as a function of time is provided in Fig. 24, it can be noticed that production forecasts from the initial model significantly underestimates the CO2 EOR performance in the field. Although not shown, cumulative injection volumes and well BHPs were kept consistent between the two scenarios. We provide an intuitive visualization comparing the CO2 sweep between the initial and updated models in Fig. 25.</p><div id="link-24">
+
+<div id="102118191472MS-Img_SPi-24"><figure>
+
+<img id="ImgLink-24" src="102118191472MS_i_24.tif" alt="102118191472MS_i_24" ><br>
+<figcaption><b>Figure 24 </b> Comparison of cumulative oil production responses from initial and updated (calibrated) models. This clearly show the value of calibrating the model for better estimation of recovery potential (plot-scale suppressed per operator request).</figcaption>
+<p>Figure 24 Comparison of cumulative oil production responses from initial and updated (calibrated) models. This clearly show the value of calibrating the model for better estimation of recovery potential (plot-scale suppressed per operator request).</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="2" pdf-page="25" figure-order="25" data-type-order="29">
+<a href="#link-25"> </a>
+<div>
+<p id="Ancr29">Finally we examine the value of the model calibration on field recovery estimation. Here we seek to estimate the comparative CO2 EOR performance between an uncalibrated reservoir model and a calibrated one. For this task, we conducted numerical simulations using optimized schedules based on the initial and updated pilot models. From the plot of OilRF as a function of time is provided in Fig. 24, it can be noticed that production forecasts from the initial model significantly underestimates the CO2 EOR performance in the field. Although not shown, cumulative injection volumes and well BHPs were kept consistent between the two scenarios. We provide an intuitive visualization comparing the CO2 sweep between the initial and updated models in Fig. 25.</p><div id="link-25">
+
+<div id="102118185713MS-Img_SPi-25"><figure>
+
+<img id="ImgLink-25" src="102118191472MS_i_25.tif" alt="102118191472MS_i_25" ><br>
+<figcaption><b>Figure 25</b> A comparison of CO2 sweep between the initial and updated models at the end of (a) 2 years of operations and (b) 4 years of operations, using optimal operational parameters. CO2 mole fraction is provided in cross-sectional view (left) and at 0.3 threshold (right)</figcaption>
+<p>Figure 25 A comparison of CO2 sweep between the initial and updated models at the end of (a) 2 years of operations and (b) 4 years of operations, using optimal operational parameters. CO2 mole fraction is provided in cross-sectional view (left) and at 0.3 threshold (right)</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-25a"><figure>
+<img id="ImgLink-25a" src="102118191472MS_i_25a.tif" alt="102118191472MS_i_25a" ><br>
+<p>a 2 years of operations and</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-25b"><figure>
+<img id="ImgLink-25b" src="102118191472MS_i_25b.tif" alt="102118191472MS_i_25b" ><br>
+<p>b 4 years of operations, using optimal operational parameters. CO2 mole fraction is provided in cross-sectional view (left) and at 0.3 threshold (right)</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="3" pdf-page="30" figure-order="26" data-type-order="30">
+<a href="#link-26"> </a>
+<div>
+<p id="Ancr30">The objective functions were evaluated using the E300 module of the ECLIPSE reservoir simulator (Schlumberger, 2014). For sensitivity studies the pilot boundary conditions were approximated by mimicking a constant pressure boundary. Pore volumes of the boundary cells were increase hundred folds to simulate this effect. As shown in Figs. A-1(a)-(c), this approximation resulted in reasonable consistency with the case where the historical boundary fluxes mapped from the full field model were imposed.</p><div id="link-26">
+
+<div id="102118191472MS-Img_SPi-26"><figure>
+
+<img id="ImgLink-26" src="102118191472MS_i_26.tif" alt="102118191472MS_i_26" ><br>
+<figcaption><b>Figure A-1</b> A comparison of flow simulation reponses between full-field model and pilot models based on flux and constant pressure boundaries, showing (a) Oil production rates, (b) Water cut and (c) Gas-oil ratio profiles</figcaption>
+<p>Figure A-1 comparison of flow simulation reponses between full-field model and pilot models based on flux and constant pressure boundaries, showing (a) Oil production rates, (b) Water cut and (c) Gas-oil ratio profiles</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-26a"><figure>
+<img id="ImgLink-26a" src="102118191472MS_i_26a.tif" alt="102118191472MS_i_26a" ><br>
+<p>a Oil production rates,</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-26b"><figure>
+<img id="ImgLink-26b" src="102118191472MS_i_26b.tif" alt="102118191472MS_i_26b" ><br>
+<p>b Water cut and</p>
+</figure></div>
+<div id="102118191472MS-Img_SPi-26c"><figure>
+<img id="ImgLink-26c" src="102118191472MS_i_26c.tif" alt="102118191472MS_i_26c" ><br>
+<p>c Gas-oil ratio profiles</p>
+</figure></div>
+</div>
+</div>
+</div>
+</div>
+</div></html>

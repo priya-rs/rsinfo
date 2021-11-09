@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185751MS.txt" extractionDate="2021-03-26T11:45:29Z">
+<doi>10.2118/185751-MS</doi>
+<pii>10.2118/185751-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure composite="true" composite-count="4" pdf-page="4" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr2">Performance Summary of Active Wells (Figure 1): Maps and trends of oil, gas, and water production; well vintage and grouping analyses, by layer and block. These analytics provide a quick, automated framing analysis of reservoir trends.</anchoringText>
+<image-wrap id="102118185751MS-Img_SPi-1">
+<label>Figure 1</label>
+<imageLink type="mediaResource" href="102118185751MS_i_1.tif" id="ImgLink-1" />
+<caption>Automated well grouping analysis. Average Oil Production Rate Active Well Count Oil EUR vs Time, LocationType Basic Decline, Operation and New Wells (Analysis at January 2013)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Automated well grouping analysis. Average Oil Production Rate Active Well Count Oil EUR vs Time, LocationType Basic Decline, Operation and New Wells (Analysis at January 2013)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-1a">
+<imageLink type="mediaResource" href="102118185751MS_i_1a.tif" id="ImgLink-1a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Average Oil Production Rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-1b">
+<imageLink type="mediaResource" href="102118185751MS_i_1b.tif" id="ImgLink-1b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Active Well Count</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-1c">
+<imageLink type="mediaResource" href="102118185751MS_i_1c.tif" id="ImgLink-1c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Oil EUR vs Time, LocationType</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-1d">
+<imageLink type="mediaResource" href="102118185751MS_i_1d.tif" id="ImgLink-1d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>Basic Decline, Operation and New Wells (Analysis at January 2013)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr3">Offline Well Analysis (Figure 2): Special emphasis is given to wells currently offline, which often present the quickest and easiest opportunities to raise production. The cause of each well’s shutin is characterized based on trends in water cut (WCUT), gas/oil ratio (GOR), and pressure (e.g. a rapid increase in WCUT is flagged as a well watering-out). These analytics will lead to specific opportunities to restore production from offline wells.</anchoringText>
+<image-wrap id="102118185751MS-Img_SPi-2">
+<label>Figure 2</label>
+<imageLink type="mediaResource" href="102118185751MS_i_2.tif" id="ImgLink-2" />
+<caption>Offline well analysis. Oil Rate Before Shut-in [STB/D] Water Cut Before Shut-in [%] Wells Shut-In and Probable Cause</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Offline well analysis. Oil Rate Before Shut-in [STB/D] Water Cut Before Shut-in [%] Wells Shut-In and Probable Cause</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118185751MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Oil Rate Before Shut-in [STB/D]</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118185751MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Water Cut Before Shut-in [%]</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-2c">
+<imageLink type="mediaResource" href="102118185751MS_i_2c.tif" id="ImgLink-2c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Wells Shut-In and Probable Cause</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr4">Decline Curve Analysis (Figure 3): The accuracy of automated decline curve analysis is improved through automated event detection, wherein trend breakpoints are detected mathematically (Castineira et al., 2014). These breakpoints may correspond to specific well events such as a choke change or workover; a field event, such as a change in backpressure; or a downhole event, such as a change in flow regime or drive mechanism. Any of these causes will necessitate a discreet decline curve fit, which is necessary for both future forecasting of each well, and for development of type curves to be applied for that well type or lift mechanism. Remaining reserves are estimated by well, and trends in EUR and PDP are identified by layer and block.</anchoringText>
+<image-wrap id="102118185751MS-Img_SPi-3">
+<label>Figure 3</label>
+<imageLink type="mediaResource" href="102118185751MS_i_3.tif" id="ImgLink-3" />
+<caption>Automated decline curve analysis using event detection. Event Detection Annual Decline Rate (30-Sep-2015) Well Remaining Oil Vs. Cum Oil</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Automated decline curve analysis using event detection. Event Detection Annual Decline Rate (30-Sep-2015) Well Remaining Oil Vs. Cum Oil</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118185751MS_i_3a.tif" id="ImgLink-3a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Event Detection</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118185751MS_i_3b.tif" id="ImgLink-3b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Annual Decline Rate (30-Sep-2015)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-3c">
+<imageLink type="mediaResource" href="102118185751MS_i_3c.tif" id="ImgLink-3c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Well Remaining Oil Vs. Cum Oil</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr5">Reservoir Contact Analysis (Figure 4): Analytics and statistics describing reservoir contact are performed for all wells over time, by zone, accounting for well type and lift mechanism. This analysis combines data from the completions, formation tops, and production/injection databases to automatically characterize the completion contact on a layer basis. Metrics such as contact intensity (ft/MMstb), defined as cumulative length of contact in a layer divided by its oil in place, allow missed opportunities to be identified for future targeting.</anchoringText>
+<image-wrap id="102118185751MS-Img_SPi-4">
+<label>Figure 4</label>
+<imageLink type="mediaResource" href="102118185751MS_i_4.tif" id="ImgLink-4" />
+<caption>Completion contact by zone. Active Wells Contact by Interval (Km) Completed Contact by Interval, Active Wells Contact vs Rock Quality for Active Wells</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Completion contact by zone. Active Wells Contact by Interval (Km) Completed Contact by Interval, Active Wells Contact vs Rock Quality for Active Wells</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118185751MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Active Wells Contact by Interval (Km)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118185751MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Completed Contact by Interval, Active Wells</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-4c">
+<imageLink type="mediaResource" href="102118185751MS_i_4c.tif" id="ImgLink-4c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Contact vs Rock Quality for Active Wells</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="5" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr6">Flow Unit Allocation (Figure 5): The flow unit allocation module estimates the production and injection for each formation, in each well, at each month, allowing a granular perspective in performance by formation and by well, which is used in many other modules of this methodology. All relevant data sets that are available are incorporated, using the workflow described below for every well, over the field’s entire history:</anchoringText>
+<image-wrap id="102118185751MS-Img_SPi-5">
+<label>Figure 5</label>
+<imageLink type="mediaResource" href="102118185751MS_i_5.tif" id="ImgLink-5" />
+<caption>Flow unit allocation for production from commingled wells. Production Allocation by Interval Contact Production Allocation by Interval Contact Production Cums, Zone4 (MBOE)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Flow unit allocation for production from commingled wells. Production Allocation by Interval Contact Production Allocation by Interval Contact Production Cums, Zone4 (MBOE)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118185751MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Production Allocation by Interval Contact</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118185751MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Production Allocation by Interval Contact</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-5c">
+<imageLink type="mediaResource" href="102118185751MS_i_5c.tif" id="ImgLink-5c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Production Cums, Zone4 (MBOE)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="6" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr7">Stochastic Material Balance (Figure 6):): Based on the possible range of each input, a single and multi-tank material balance (Matringe et al., 2015) history match is performed stochastically, providing a range of likely outcomes and forecasts. Instantaneous and cumulative drive indices are described for each layer and block, with associated scenarios of oil in place and aquifer strength.</anchoringText>
+<image-wrap id="102118185751MS-Img_SPi-6">
+<label>Figure 6</label>
+<imageLink type="mediaResource" href="102118185751MS_i_6.tif" id="ImgLink-6" />
+<caption>Stochastic material balance history matching.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Stochastic material balance history matching.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118185751MS_i_6a.tif" id="ImgLink-6a" />
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118185751MS_i_6b.tif" id="ImgLink-6b" />
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-6c">
+<imageLink type="mediaResource" href="102118185751MS_i_6c.tif" id="ImgLink-6c" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr8">Fractional Flow Analysis and Heterogeneity Index (Figure 7): The oil, gas, and water fractional flow for all wells is provided over time, with estimated source of water breakthrough provided when available. This is based on each well’s monthly production, PVT curves, and estimated reservoir pressure at each timestep. Wells are then grouped into quadrants according to the heterogeneity index (Reese, 1996), with specific wellbore solutions for the wells in each quadrant:</anchoringText>
+<image-wrap id="102118185751MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118185751MS_i_7.tif" id="ImgLink-7" />
+<caption>Oil-water heterogeneity index.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Oil-water heterogeneity index.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr9">Sweep Efficiency Estimation (Figure 8): Areal sweep, vertical sweep, and displacement efficiency are quantified using analytical correlations. Total sweep efficiency is estimated as a function of pore volumes of water injected, or pore volumes swept through aquifer influx.</anchoringText>
+<image-wrap id="102118185751MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118185751MS_i_8.tif" id="ImgLink-8" />
+<caption>Sweep efficiency modeling.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Sweep efficiency modeling.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr10">This tool relies on a customized implementation of dynamic time warping (Sakoe and Chiba, 1978), which was originally developed to find the optimal time alignment between two time series. The algorithm was customized to take as input vetted formation top picks (i.e. manually validated/picked by a geologist) in a few key wells called pivot wells. The algorithm then proceeds to correlate these vetted interpretations from the pivot wells to their corresponding dependent wells (Figure 9). Pivot wells are critical to this tool because they provide key control data points that can assist the algorithm in areas of significant geological change due to faulting, stratigraphic pinchouts, or lateral changes in facies.</anchoringText>
+<image-wrap id="102118185751MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118185751MS_i_9.tif" id="ImgLink-9" />
+<caption>Machine-assisted stratigraphic correlation using pivot wells, with resulting correlations show on sample GR logs.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Machine-assisted stratigraphic correlation using pivot wells, with resulting correlations show on sample GR logs.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr11">Given the corrected logs provided by the petrophysicist, and the validated/corrected stratigraphic correlation discussed above, a semi-automated workflow using Petrel™ enables the streamlined construction of a 2.5D geological model (Figure 10). These workflows allow the incorporation of hard data points from logs as well as generic depositional trends specific to each zone (e.g. major fluvial/channel orientations) to quickly create fit-for-purpose models and maps. Despite the fact that 2.5D models have lower vertical resolution (i.e. one vertical cell per stratigraphic zone) compared to conventional 3D models, they capture the same lateral trends for any given zone and have the added benefit of being relatively easy to maintain and quality check.</anchoringText>
+<image-wrap id="102118185751MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118185751MS_i_10.tif" id="ImgLink-10" />
+<caption>2.5D geological model.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>2.5D geological model.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr12">First, a missed net pay log is created in every well using an algorithm that incorporates the most recent completion data together with a net pay log reflecting various petrophysical cutoffs (e.g. porosity, permeability, water saturation, etc.). The algorithm correlates perforation intervals to vertical net pay blocks so as to identify missed pay intervals that are not in communication (disconnected) from existing perforations due to vertical flow barriers (Figure 11).</anchoringText>
+<image-wrap id="102118185751MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118185751MS_i_11.tif" id="ImgLink-11" />
+<caption>Identification of missed net pay (MNP), showing perforation location, total net pay (NP), and perfed net pay (PNP).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Identification of missed net pay (MNP), showing perforation location, total net pay (NP), and perfed net pay (PNP).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr13">Matrix-dominated systems: The algorithm estimates a drainage radius for every well/zone by relating the completed hydrocarbon pore volume thickness (HCPVT: estimated from the logs) to the allocated EUR in the completed zone. The algorithm also calculates a drainage index (DI) for every completed zone, which is defined as the ratio of the completed HCPVT to the original HCPVT. In other words, small DIs reflect areas where only thin sand layers have been accessed/drained and therefore have more oil remaining in either overlying or underlying sand packages. Figure 12 shows examples of zone-specific drainage index grids that combine information from both the drainage radius and drainage index.</anchoringText>
+<image-wrap id="102118185751MS-Img_SPi-12">
+<label>Figure 12</label>
+<imageLink type="mediaResource" href="102118185751MS_i_12.tif" id="ImgLink-12" />
+<caption>Drainage analysis map examples for matrix-dominated systems, with drainage area bubbles colored by drainage index (DI) overlaying hydrocarbon pore volume thickness (HCPVT) contours.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Drainage analysis map examples for matrix-dominated systems, with drainage area bubbles colored by drainage index (DI) overlaying hydrocarbon pore volume thickness (HCPVT) contours.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118185751MS_i_12a.tif" id="ImgLink-12a" />
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118185751MS_i_12b.tif" id="ImgLink-12b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="12" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr14">The training set used to train the model consists of past completion intervals, and the training attributes are derived/calculated specifically over these intervals. For instance, a permeability training attribute is averaged from log values extracted specifically from the completion interval. Figure 13 shows an example model’s performance during training, validation, and testing phases. Once the model is trained, the testing dataset is collected by deriving the testing attributes specifically over the target missed net pay intervals. Table 1 shows various training attributes together with their corresponding testing attributes. While neural networks can incorporate relationships between several types of attributes, their reliability greatly depends on the size of the training dataset.</anchoringText>
+<image-wrap id="102118185751MS-Img_SPi-13">
+<label>Figure 13</label>
+<imageLink type="mediaResource" href="102118185751MS_i_13.tif" id="ImgLink-13" />
+<caption>Artificial neural network training, validation, and testing phases.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Artificial neural network training, validation, and testing phases.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118185751MS_i_13a.tif" id="ImgLink-13a" />
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118185751MS_i_13b.tif" id="ImgLink-13b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="14" data-type-order="15">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr15">For every opportunity, the analog well set is defined as the set of wells producing from the opportunity’s target zone, and located within the spatial neighborhood (i.e. within radius R or part of N closest points), and within the temporal neighborhood (i.e. started producing within the last M years). Note that the neighborhood parameters R, N, and M are user-defined. A P10 and P90 IP/EUR is extracted from the analog well set. The P50 is calculated by interpolating the IPs/EURs of the analog wells based on weights that reflect their spatial and temporal proximity. To calculate confidence, the predicted IP/EUR from the previous step is compared to the P10, P50, and P90 IP/EUR of the analog well set as shown in Figure 14.</anchoringText>
+<image-wrap id="102118185751MS-Img_SPi-14">
+<label>Figure 14</label>
+<imageLink type="mediaResource" href="102118185751MS_i_14.tif" id="ImgLink-14" />
+<caption>Confidence level estimation, with the green star representing an opportunity location and values (in white) showing IPs from offset wells producing in the same zone.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Confidence level estimation, with the green star representing an opportunity location and values (in white) showing IPs from offset wells producing in the same zone.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118185751MS_i_14a.tif" id="ImgLink-14a" />
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118185751MS_i_14b.tif" id="ImgLink-14b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="15" data-type-order="16">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr16">An economic model is prepared for all producing wells in the field, quantifying the profitability of each well at current commodity prices. This process is depicted is Figure 15, which plots the monthly income (revenue minus OPEX) of each well on the left axis, and the breakeven oil price for each well on the right axis. According to this analysis, 13 wells currently producing may have been uneconomic at the price of $43/barrel. These wells have been recommended for testing and possible shut-in or cycling, and were added to the list of available wells in the production uplift and water shut-off categories. The average water cut of these wells is 97%.</anchoringText>
+<image-wrap id="102118185751MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118185751MS_i_15.tif" id="ImgLink-15" />
+<caption>Operating income and breakeven oil price for all producing wells.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Operating income and breakeven oil price for all producing wells.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="16" data-type-order="17">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr17">Fifty-one active wells and thirteen inactive wells were identified with opportunities to raise production through wellbore rejuvenation, usually through optimization of artificial lift or improved stimulation practices. A summary of these results is shown in Figure 16, while the specific opportunities in one example well are summarized in Figure 17.</anchoringText>
+<image-wrap id="102118185751MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118185751MS_i_16.tif" id="ImgLink-16" />
+<caption>Summary of production uplift opportunities identified.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Summary of production uplift opportunities identified.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="17" data-type-order="18">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr18">Fifty-one active wells and thirteen inactive wells were identified with opportunities to raise production through wellbore rejuvenation, usually through optimization of artificial lift or improved stimulation practices. A summary of these results is shown in Figure 16, while the specific opportunities in one example well are summarized in Figure 17.</anchoringText>
+<image-wrap id="102118185751MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118185751MS_i_17.tif" id="ImgLink-17" />
+<caption>Example well identified for lift upgrade and possible stimulation.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Example well identified for lift upgrade and possible stimulation.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="18" data-type-order="19">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr19">Thirty-six opportunities for recompletion targeting missed net pay were high-graded, with results summarized in Figure 18, and example results from one example well summarized in Figure 19. These 36 opportunities were determined during the vetting process to be high confidence and recommended for immediate implementation, although some of the opportunities required a breakeven oil price higher than $43/barrel.</anchoringText>
+<image-wrap id="102118185751MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118185751MS_i_18.tif" id="ImgLink-18" />
+<caption>Recompletion opportunities targeting pay behind pipe.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Recompletion opportunities targeting pay behind pipe.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="6" pdf-page="18" figure-order="19" data-type-order="20">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr20">Thirty-six opportunities for recompletion targeting missed net pay were high-graded, with results summarized in Figure 18, and example results from one example well summarized in Figure 19. These 36 opportunities were determined during the vetting process to be high confidence and recommended for immediate implementation, although some of the opportunities required a breakeven oil price higher than $43/barrel.</anchoringText>
+<image-wrap id="102118185751MS-Img_SPi-19">
+<label>Figure 19</label>
+<imageLink type="mediaResource" href="102118185751MS_i_19.tif" id="ImgLink-19" />
+<caption>Example recompletion opportunity targeting pay behind pipe. Opportunity Summary Wellbore Diagram OOIP Map with Drained Areas Structure Map Offset Zone Production Structural Cross Section with Offset Zone Producers</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Example recompletion opportunity targeting pay behind pipe. Opportunity Summary Wellbore Diagram OOIP Map with Drained Areas Structure Map Offset Zone Production Structural Cross Section with Offset Zone Producers</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-19a">
+<imageLink type="mediaResource" href="102118185751MS_i_19a.tif" id="ImgLink-19a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Opportunity Summary</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-19b">
+<imageLink type="mediaResource" href="102118185751MS_i_19b.tif" id="ImgLink-19b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Wellbore Diagram</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-19c">
+<imageLink type="mediaResource" href="102118185751MS_i_19c.tif" id="ImgLink-19c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>OOIP Map with Drained Areas</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-19d">
+<imageLink type="mediaResource" href="102118185751MS_i_19d.tif" id="ImgLink-19d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>Structure Map</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-19e">
+<imageLink type="mediaResource" href="102118185751MS_i_19e.tif" id="ImgLink-19e" />
+<figure-specific-caption>
+<caption-order>e</caption-order>
+<caption-text>Offset Zone Production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-19f">
+<imageLink type="mediaResource" href="102118185751MS_i_19f.tif" id="ImgLink-19f" />
+<figure-specific-caption>
+<caption-order>f</caption-order>
+<caption-text>Structural Cross Section with Offset Zone Producers</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="20" data-type-order="21">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr21">Opportunities to optimize the current waterflood were identified, relying on recompletion of existing injectors to target new zones, or conversion of offline wells to injection targeting new areas. An example recommendation for injector conversion is shown in Figure 20.</anchoringText>
+<image-wrap id="102118185751MS-Img_SPi-20">
+<label>Figure 20 </label>
+<imageLink type="mediaResource" href="102118185751MS_i_20.tif" id="ImgLink-20" />
+<caption>Injector conversion recommendation.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Injector conversion recommendation.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="5" pdf-page="19" figure-order="21" data-type-order="22">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr22">Ten new drill locations were identified as infills or step-outs targeting areas and zones indicated as unswept according to ROIP mapping (see Figure 21), using a methodology closely related to the missed-netpay technique described in the Methodology section. These locations were high-graded as having high confidence, although many were found to require a breakeven oil price above $43/barrel.</anchoringText>
+<image-wrap id="102118185751MS-Img_SPi-21">
+<label>Figure 21</label>
+<imageLink type="mediaResource" href="102118185751MS_i_21.tif" id="ImgLink-21" />
+<caption>New drill infill location identified based on geological and ROIP mapping. Opportunity Summary Primary Target Zone OOIP Map with Drained Areas Structure Map with Offset Zone Production Offset Zone Production Structural Cross Section with Offset Zone Producers</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>21</caption-order>
+<caption-text>New drill infill location identified based on geological and ROIP mapping. Opportunity Summary Primary Target Zone OOIP Map with Drained Areas Structure Map with Offset Zone Production Offset Zone Production Structural Cross Section with Offset Zone Producers</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-21a">
+<imageLink type="mediaResource" href="102118185751MS_i_21a.tif" id="ImgLink-21a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Opportunity Summary</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-21b">
+<imageLink type="mediaResource" href="102118185751MS_i_21b.tif" id="ImgLink-21b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Primary Target Zone OOIP Map with Drained Areas</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-21c">
+<imageLink type="mediaResource" href="102118185751MS_i_21c.tif" id="ImgLink-21c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Structure Map with Offset Zone Production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-21d">
+<imageLink type="mediaResource" href="102118185751MS_i_21d.tif" id="ImgLink-21d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>Offset Zone Production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185751MS-Img_SPi-21e">
+<imageLink type="mediaResource" href="102118185751MS_i_21e.tif" id="ImgLink-21e" />
+<figure-specific-caption>
+<caption-order>e</caption-order>
+<caption-text>Structural Cross Section with Offset Zone Producers</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

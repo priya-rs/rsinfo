@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118176983MS.txt" extractionDate="2021-03-22T11:59:17Z">
+<doi>10.2118/176983-MS</doi>
+<pii>10.2118/176983-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="5" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr5">Figure 1 illustrates the solution of qD for PSS model under constant BHP with different ω and λ values and reD = 50, without skin factor or wellbore storage. The plot clearly demonstrates flow in fracture, transition period, and combined flow. The interporosity model requires more time to deplete the reservoir compared with a homogeneous case (ω = 1). Interporosity mass transfer coefficient λ dominates the flow at later period, while, for early time, tD and ω are in the control. The value of λ will not affect production rate for the homogeneous model.</anchoringText>
+<image-wrap id="102118176983MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118176983MS_i_1.tif" id="ImgLink-1" />
+<caption>Dimensionless rate solution of PSS given by applying inverse Laplace transform (r<sub>eD</sub> = 50, skin factor = 0 and wellbore storage = 0)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Dimensionless rate solution of PSS given by applying inverse Laplace transform (r<sub>eD</sub> = 50, skin factor = 0 and wellbore storage = 0)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr6">Figure 2 shows the dimensionless rate vs. dimensionless time for transient slab model. Production from fracture system in early time has the same behavior as the PSS case; however, there is no constant production period at later time. This difference can be used as a quick determination of whether PSS or transient model is applicable.</anchoringText>
+<image-wrap id="102118176983MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118176983MS_i_2.tif" id="ImgLink-2" />
+<caption>Dimensionless rate solution of slab model for transient flow given by applying inverse Laplace transform (r<sub>eD</sub> = 50, skin factor = 0 and wellbore storage = 0)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Dimensionless rate solution of slab model for transient flow given by applying inverse Laplace transform (r<sub>eD</sub> = 50, skin factor = 0 and wellbore storage = 0)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr7">Figure 3 is the dimensionless rate solution obtained using transient sphere model. The production declines are much slower than the slab model although they have the same parameter values. For different sets of ω and λ, the production rate varies obviously at beginning and then converges together at later period. λ influences the production in early time instead of later period.</anchoringText>
+<image-wrap id="102118176983MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118176983MS_i_3.tif" id="ImgLink-3" />
+<caption>Dimensionless rate solution of sphere model for transient flow given by inverse Laplace transform (r<sub>eD</sub> = 50, skin factor = 0 and wellbore storage = 0)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Dimensionless rate solution of sphere model for transient flow given by inverse Laplace transform (r<sub>eD</sub> = 50, skin factor = 0 and wellbore storage = 0)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr8">Figure 4 shows the effect of reD on dimensionless production rate for transient slab model with a constant ω and λ. It is obvious that with larger reD, more time is needed to deplete reservoir and production rate will be higher. This is consistent with field observation that high SRV yields high flow rate.</anchoringText>
+<image-wrap id="102118176983MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118176983MS_i_4.tif" id="ImgLink-4" />
+<caption>Effect of r<sub>eD</sub> in transient slab model (ω = 0.001, λ = 1E-05, skin factor = 0 and wellbore storage = 0)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Effect of r<sub>eD</sub> in transient slab model (ω = 0.001, λ = 1E-05, skin factor = 0 and wellbore storage = 0)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr9">Study of well testing has revealed that the characteristic pressure derivative dip in PSS model is not often observed in field data (Figure 5), which means transient interporosity model is more applicable to tight formation than PSS model (Ozkan 2012). For the same reason, this paper will focus on transient model application in production rate-time data.</anchoringText>
+<image-wrap id="102118176983MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118176983MS_i_5.tif" id="ImgLink-5" />
+<caption>Schematic pressure and derivative pressure plot for pseudosteady-state model and transient model. Transient model is more appropriate in unconventional formations (ω = 0.001, λ = 1E-09, skin factor = 0 and wellbore storage = 10)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Schematic pressure and derivative pressure plot for pseudosteady-state model and transient model. Transient model is more appropriate in unconventional formations (ω = 0.001, λ = 1E-09, skin factor = 0 and wellbore storage = 10)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr10">A synthetic dual-porosity model was set up to validate above algorithm and the main input data is summarized in Table 1. Different grid size and different matrix permeability, as shown in Table 2, were utilized in order to simulate transient state and PSS respectively. A vertical well was producing at a constant flowing BHP located in the center of the reservoir. The diagram of this synthetic example is shown in Figure 6. For well constraints, we used a minimum BHP of 3500 psi, which was above the bubble point pressure in the model so that oil was the only mobile phase in the reservoir.</anchoringText>
+<image-wrap id="102118176983MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118176983MS_i_6.tif" id="ImgLink-6" />
+<caption>Square reservoir domain with a producer located in the center</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Square reservoir domain with a producer located in the center</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr11">The matrix pressure at the boundary of the reservoir is then investigated for each case to solidify this statement. As illustrated, the pressure in Figure 7 declines with time, while, pressure is in a linear relationship with time in Figure 8. Therefore, the proposed transient model and PSS model will be applied in attempt to match the production decline curves correspondingly. Considering the grid shape, the slab model will be applied rather than the sphere model.</anchoringText>
+<image-wrap id="102118176983MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118176983MS_i_7.tif" id="ImgLink-7" />
+<caption>Matrix pressure at the boundary of reservoir obtained from numerical simulation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Matrix pressure at the boundary of reservoir obtained from numerical simulation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr12">The matrix pressure at the boundary of the reservoir is then investigated for each case to solidify this statement. As illustrated, the pressure in Figure 7 declines with time, while, pressure is in a linear relationship with time in Figure 8. Therefore, the proposed transient model and PSS model will be applied in attempt to match the production decline curves correspondingly. Considering the grid shape, the slab model will be applied rather than the sphere model.</anchoringText>
+<image-wrap id="102118176983MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118176983MS_i_8.tif" id="ImgLink-8" />
+<caption>Matrix pressure at the boundary of reservoir obtained from numerical simulation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Matrix pressure at the boundary of reservoir obtained from numerical simulation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr13">Figure 9 presents the production rate-time from numerical simulations on a log-log plot. In both simulations, the oil production rate declines rapidly at first. However, for one case, the production stabilizes at a constant rate over a long time and then starts to decline again while the other one keeps declining. This suggests that transient state and PSS are observed in the two simulations. The matrix pressure at the boundary of the reservoir is then investigated for each case to solidify this statement.</anchoringText>
+<image-wrap id="102118176983MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118176983MS_i_9.tif" id="ImgLink-9" />
+<caption>Simulation output production rate-time data matched by the proposed models under transient state and PSS correspondingly</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Simulation output production rate-time data matched by the proposed models under transient state and PSS correspondingly</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr14">We used the developed algorithm on Mississippian Lime formation to estimate the formation properties and then use the estimated values in the forward mode to predict its production performance by assuming a constant flowing BHP. Mississippian Lime is a unique major unconventional production formation located in Northern Oklahoma and Southern Kansas (Figure 10). The porosity ranges from 4% - 12% and permeability is typically of the order of 0.01-0.1 md (Grieser and Pinkerton 2013). For each well, about 10 to 15 stages are hydraulic fractured along the horizontal section as shown in Figure 11. The oil from the Mississippian lime has a density of 45°API.</anchoringText>
+<image-wrap id="102118176983MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118176983MS_i_10.tif" id="ImgLink-10" />
+<caption>Map of Mississippian Lime formation (OGFJ, 2012)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Map of Mississippian Lime formation (<link href="BIB1">OGFJ, 2012</link>)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-15" type="bib">
+<bib id="BIB1">
+<label>OGFJ</label>
+Oil &amp; Gas Finance Journal. <pubDate>2012</pubDate>. <article-title>Horizontal Drilling Boosts Production in Mississippi Lime</article-title>. 1 August 2012, http://www.ogfj.com/articles/print/volume-9/issue-8/features/horizontal-drilling-boosts.html (accessed 06 August 2015).</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="11" data-type-order="13">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr15">We used the developed algorithm on Mississippian Lime formation to estimate the formation properties and then use the estimated values in the forward mode to predict its production performance by assuming a constant flowing BHP. Mississippian Lime is a unique major unconventional production formation located in Northern Oklahoma and Southern Kansas (Figure 10). The porosity ranges from 4% - 12% and permeability is typically of the order of 0.01-0.1 md (Grieser and Pinkerton 2013). For each well, about 10 to 15 stages are hydraulic fractured along the horizontal section as shown in Figure 11. The oil from the Mississippian lime has a density of 45°API.</anchoringText>
+<image-wrap id="102118176983MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118176983MS_i_11.tif" id="ImgLink-11" />
+<caption>Schematic profile of a typical multi-stage fractured horizontal well in Mississippian Lime formation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Schematic profile of a typical multi-stage fractured horizontal well in Mississippian Lime formation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="12" data-type-order="14">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr16">The production rate-time data shows a high initial production rate and it is followed by a steep decline (Figure 12 and Figure 13). Observing field production decline and comparing it with the type curves, the transient slab model is selected in these two wells to match the production data following the above procedure. Wellbore storage and skin factor are assumed as 0 as well.</anchoringText>
+<image-wrap id="102118176983MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118176983MS_i_12.tif" id="ImgLink-12" />
+<caption>Field production data of the Well A under transient flow state</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Field production data of the Well A under transient flow state</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="13" data-type-order="15">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr17">The production rate-time data shows a high initial production rate and it is followed by a steep decline (Figure 12 and Figure 13). Observing field production decline and comparing it with the type curves, the transient slab model is selected in these two wells to match the production data following the above procedure. Wellbore storage and skin factor are assumed as 0 as well.</anchoringText>
+<image-wrap id="102118176983MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118176983MS_i_13.tif" id="ImgLink-13" />
+<caption>Field production data of the Well B under transient flow state</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Field production data of the Well B under transient flow state</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="14" data-type-order="18">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr18">Table 4 lists the values of the parameters in each method that matched the 300 days production. The parameters used in the proposed interporosity model are the same as shown in Table 3.Figure 14 shows, apparently, the proposed model provides more reliable forecast in long time production. As discussed before, none of the selected curve-fitting techniques capture and utilizes the real petrophysical properties. As the result, they may predict very different EURs or production rates and they are insufficient in longer time.</anchoringText>
+<image-wrap id="102118176983MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118176983MS_i_14.tif" id="ImgLink-14" />
+<caption>Production forecast comparison based on first 300 days production using different methods</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Production forecast comparison based on first 300 days production using different methods</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

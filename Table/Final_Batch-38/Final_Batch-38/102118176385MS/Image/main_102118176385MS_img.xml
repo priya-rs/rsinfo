@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118176385MS.txt" extractionDate="2021-03-15T16:21:31Z">
+<doi>10.2118/176385-MS</doi>
+<pii>10.2118/176385-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr3"> </anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_1.tif" id="ImgLink-1" />
+<caption>Typical Scheme of Well Equipped with ICD</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Typical Scheme of Well Equipped with ICD</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr4"> </anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_2.tif" id="ImgLink-2" />
+<caption>Standard Injector vs ICD Injector (Raffn, A.G et al. 2007)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Standard Injector vs ICD Injector (Raffn, A.G et al. 2007)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr5">There are different ICD types offered in the industry today that use either friction or restriction as their mechanism for creating pressure drop. The two most commonly used ICDs are the channel type and the nozzle/orifice type, as shown in Figure 3.</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_3.tif" id="ImgLink-3" />
+<caption>ICD Types (Youngs et al. 2009)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>ICD Types (Youngs et al. 2009)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr6">The field is compartmentalized by a number of N-S faults and a secondary alignment of NE-SW faults, which cross cut and often offset the main N-S faults. The larger scale faults downthrow to the east and subdivide the field into four main areas (see Figure 4): the West Flank North, West Flank South, Frontal Central, and Frontal South Panel, with limited to no communication between panels. Field compartmentalisation by sub-seismic faults is supposed to be part of the reason for poor sweep efficiency across the field.</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_4.tif" id="ImgLink-4" />
+<caption>Dunbar Field Panelling</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Dunbar Field Panelling</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr7">The multi segment well model breaks the well into a series of continuous sections referred to as segments (Figure 5). Each segment has zero, one, or more connections with the reservoir grid blocks. For each segment there are four equations (assuming a three phase black oil simulation): three material balance equations and a pressure drop equation. The pressure drop equation includes hydrostatic, acceleration and friction effects. The equations are solved to obtain the pressure, flow rate, and fluid composition in each segment (Youngs et al. 2009).</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_5.tif" id="ImgLink-5" />
+<caption>Multi Segment Well Model (Schlumberger 2012)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Multi Segment Well Model (Schlumberger 2012)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr8">ICD completion modelling in this study is performed using the "Well Completion Design" module in Petrel RE ® in which an Inflow valve option which can be added to the well model. With this inflow valve we could connect the annular flow and tubing flow (see Figure 6). Modification of the parameters of the inflow valve (e.g.: inner and outer diameter) can be done in setting properties.</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_6.tif" id="ImgLink-6" />
+<caption>Annular Flow Scheme in Multi Segment Well Model (Addiego-Guevara 2008)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Annular Flow Scheme in Multi Segment Well Model (Addiego-Guevara 2008)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr9"> </anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_7.tif" id="ImgLink-7" />
+<caption>Well with ICD re-presentation in PETREL RE ®, With and Without Upscaling</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Well with ICD re-presentation in PETREL RE ®, With and Without Upscaling</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr10">Upscaling Method. To be as consistent as possible with the full design, up-scaling has to be done respecting ICD characteristics (same number of nozzles and same diameter), and reservoir characteristics (the flow in front of same ICD must be homogeneous). Figure 8 shows a design with 6 ICDs within a same zone (left) and the multi segmented well design in ECLIPSE ® (right) with only one segment (red one) to represent the 6 ICDs.</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_8.tif" id="ImgLink-8" />
+<caption>ICD Upscaling Concept</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>ICD Upscaling Concept</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr11">Some sensitivity runs were then performed to test the performance of each flow control device. The sensitivities consist in the tubing pressure loss (VLP-Vertical Lift Performance) correlation sensitivity, different production scenario sensitivity, and a test with higher injection rate. Finally some runs to test the impact of geological uncertainties were simulated. General methodology used in this study is summarized in the above workflow (see Figure 9).</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_9.tif" id="ImgLink-9" />
+<caption>Study Methodology</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Study Methodology</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr12">It is therefore necessary to test the nested action using user defined keyword to have a more progressive choking when the water cut limit is violated in the later time of the well production. However, due to limited time of the project, and the long running time (10 to 20 hours), the simple closed loop as explained in Figure 10 is used. Detailed matrix table explaining the control being used in this simulation can be seen in Table 1: Some runs were simulated to test different strategy in applying smart completion. Different combination of ICD/ICV application in producer alone, injector alone, and both producer and injector together were simulated.</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_10.tif" id="ImgLink-10" />
+<caption>Closed Loop Control Strategy in producer well</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Closed Loop Control Strategy in producer well</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="11" data-type-order="12">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr13">Smart Completion Application in WF16 (Producer). ICDs or ICVs are best implemented on the wells with heterogeneity problems. Simulation result in the base case shows that there is differential pressure depletion zone along WF16 trajectory (see Figure 11).</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_11.tif" id="ImgLink-11" />
+<caption>Water Saturation Increment and Pressure Depletion along Well WF16</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Water Saturation Increment and Pressure Depletion along Well WF16</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="12" data-type-order="13">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr14">Smart Completion Application in WF17 (Injector). Smart completion can also be applied to an injector well. The objective is to obtain a uniform injection profile and ultimately to improve sweep efficiency, thus improving the field recovery. A simulation with tracer injection in the base case, shows that there is a non-uniform progression of waterfront, from injector (WF17) to producers. Injection rate is higher in the high permeability area (Figure 12).</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_12.tif" id="ImgLink-12" />
+<caption>Tracer view from Injector (WF17) to Producer (WF16)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Tracer view from Injector (WF17) to Producer (WF16)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="13" data-type-order="14">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr15">Pressure Loss Correlation Sensitivity. Two pressure loss correlations are compared in this study: PETEX 4, a built-in correlation by Petroleum Expert, and Mukherjee-Brill correlation. A VLP curve comparison, between Mukherjee-Brill, Hagerdon-Brown (Default ECLIPSE ®), and PETEX 4, can be seen in Figure 13. Mukherjee-Brill correlation has higher pressure drop in the tubing to produce the same liquid rate.</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_13.tif" id="ImgLink-13" />
+<caption>VLP Comparison</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>VLP Comparison</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="14" data-type-order="15">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr16">More pressure support is observed in the high permeability area, in the crestal area of the panel. A snapshot showing pressure difference between the ‘higher injection rate’ and the base case, can be seen on Figure 14.</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_14.tif" id="ImgLink-14" />
+<caption>Pressure Difference of Higher Injection Case and Base Case (10 to -10 Bar) vs Time</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Pressure Difference of Higher Injection Case and Base Case (10 to -10 Bar) vs Time</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="15" data-type-order="16">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr17">ICD and ICV Application in Producer. The application of ICD and ICV in the producer shows a more evenly distributed inflow contribution. In the base case, it can be seen on the simulated production profile along well trajectory (Figure 15), that the biggest contribution comes from the heel section.</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_15.tif" id="ImgLink-15" />
+<caption>Production Profile Along Wellbore, Base Case, and Smart Completion Case (year 2017)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Production Profile Along Wellbore, Base Case, and Smart Completion Case (year 2017)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="16" data-type-order="17">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr18">ICV has the benefit of selectively choking the problematic zone over production time. ICV application leads to 2% higher well recovery than ICD application (see Figure 16). In addition to oil recovery improvement, ICD and ICV also managed to have a more uniform depletion along the well trajectory. It can be seen in pressure depletion snapshot from the simulation (Figure 17) that ICD and ICV have less depletion than the base case over time.</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_16.tif" id="ImgLink-16" />
+<caption>Smart Completion Gain in Percentage</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Smart Completion Gain in Percentage</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="17" data-type-order="18">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr19">ICV has the benefit of selectively choking the problematic zone over production time. ICV application leads to 2% higher well recovery than ICD application (see Figure 16). In addition to oil recovery improvement, ICD and ICV also managed to have a more uniform depletion along the well trajectory. It can be seen in pressure depletion snapshot from the simulation (Figure 17) that ICD and ICV have less depletion than the base case over time.</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_17.tif" id="ImgLink-17" />
+<caption>Pressure Depletion by Time</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Pressure Depletion by Time</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="18" data-type-order="19">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr20">Water Cut Constraint in ICV Control Strategy Sensitivity. An intelligent workover is triggered when the downhole measured water cut is violating its constraint value and the most offending zone is choked accordingly. A simple algorithm is implemented for each well segment (see Figure 18).</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_18.tif" id="ImgLink-18" />
+<caption>Workflow in the ICV and the corresponding well watercut profile</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Workflow in the ICV and the corresponding well watercut profile</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="19" data-type-order="20">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr21">However at later times (see Figure 14, year 2025) there is some more pressure support observed in the heel of the well, which is connected to the main area. Thus improves the well recovery. A tornado chart showing the injection rate sensitivity result can be seen in Figure 19.</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_19.tif" id="ImgLink-19" />
+<caption>Pressure loss correlation (<b>Figure 19.a</b>) &amp; injection rate sensitivity (Figure 19.b) on different smart completion type</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Pressure loss correlation (<link href="102118176385MS-Img_SPi-19">Figure 19</link>.a) &amp; injection rate sensitivity (<link href="102118176385MS-Img_SPi-19">Figure 19</link>.b) on different smart completion type</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="20" data-type-order="21">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr22">From the tornado chart (Figure 19.a), it can be seen that the ‘PETEX 4-ICV with 50% water cut’ case gives better recovery than the ‘PETEX 4-ICV 70% water cut’ case while in the Mukherjee-Brill correlation case, the ‘ICV with 50% water cut’ case gives less gain than the ‘ICV with 70% water cut’ case. This is because PETEX 4 has less tubing pressure losses hence production can be better sustained. With the Mukherjee-Brill correlation, the tubing pressure losses are higher, hence in its ‘50% water cut’ case, with the same choking condition, the well could not sustain production at the same THP. The simulator could not find the working point in the VLP table given, and the well shuts. This is also due to the fact that at higher GOR, the VLP curves are flipped (see Figure 20).</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-20">
+<label>Figure 20 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_20.tif" id="ImgLink-20" />
+<caption>VLP Curves in Different GOR</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>VLP Curves in Different GOR</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="21" data-type-order="22">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr23">Sensitivity run with higher injection was carried out using Mukherjee-Brill correlation (the chosen VLP correlation for the base case). It can be seen in Figure 19.b that ‘ICV with 50% water cut’ gives the highest recovery. This is due to the higher depletion during early time in the heel section (see Figure 21, year 2022) which made this section release more gas, reducing the column weight, thus the well could sustain stable production. After some time, the effect of increasing injection rate reached the heel section of WF16 (see Figure 21, year 2024), the 50% water cut limit resulting in choking the water and allowing more oil to be produced.</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-21">
+<label>Figure 21 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_21.tif" id="ImgLink-21" />
+<caption>Pressure difference of ‘more injection’ and ‘base case’ in WF16 with ICV 50% Water Cut case</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>21</caption-order>
+<caption-text>Pressure difference of ‘more injection’ and ‘base case’ in WF16 with ICV 50% Water Cut case</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="22" data-type-order="23">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr24">ICD and ICV Application in Injector. ICD and ICV in the injector well improve the field recovery by 0.2 MMBOE. Nevertheless, while the field recovery is similar to the base case, ICD and ICV application helps improving the lower permeability region recovery by 11 %. From the difference of tracer concentration between the base case and ICD/ICV case (Figure 22), it can be seen that ICD/ICV helps improving injection in the low permeability region.</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-22">
+<label>Figure 22 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_22.tif" id="ImgLink-22" />
+<caption>Permeability and tracer concentration difference in WF17 (Base case – ICD case)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>22</caption-order>
+<caption-text>Permeability and tracer concentration difference in WF17 (Base case – ICD case)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="23" data-type-order="24">
+<link href="link-23" type="image" />
+<appendix>
+<linkTarget id="link-23" type="image">
+<anchoringText id="Ancr25">Detailed gain of each simulation case is summarized in the tornado chart (see Figure 23). For each sensitivity case, a new reference case without ICD/ICV was also simulated. Therefore the tornado chart is only showing the ICD/ICV effect (compared to the new reference case for each sensitivity case).</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-23">
+<label>Figure 23 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_23.tif" id="ImgLink-23" />
+<caption>Sensitivity of smart completion application in injector</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>23</caption-order>
+<caption-text>Sensitivity of smart completion application in injector</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="20" figure-order="24" data-type-order="26">
+<link href="link-24" type="image" />
+<appendix>
+<linkTarget id="link-24" type="image">
+<anchoringText id="Ancr26">The tornado chart (see Figure 24.a) shows that with the same ICD/ICV valve size, multiplying the permeability of the heel by 10 gives detrimental result in the ICD case. This is due to higher contribution from the heel section resulting in lower contribution from the toe section. In the cases where toe permeability is set at 70 mD and in the case where the heel is closed, ICD/ICV lead to similar gains than in the reference case. This proves that in the case where more heterogeneity is encountered, ICD/ICV could help optimizing the recovery.</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-24">
+<label>Figure 24 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_24.tif" id="ImgLink-24" />
+<caption>Uncertainty Sensitivity Results</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>24</caption-order>
+<caption-text>Uncertainty Sensitivity Results</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="25" data-type-order="27">
+<link href="link-25" type="image" />
+<appendix>
+<linkTarget id="link-25" type="image">
+<anchoringText id="Ancr27">On WF17 (see tornado chart, Figure 24.b), more gain is observed in the reduced permeability case. This is due to in the high permeability sensitivity case, the pressure is better maintained only in the high permeability region, above paleo-OWC. While in reduced permeability case, the field has equally same pressure support effect, not only in high permeability region. (see Figure 25).</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-25">
+<label>Figure 25 </label>
+<imageLink type="mediaResource" href="102118176385MS_i_25.tif" id="ImgLink-25" />
+<caption>Pressure difference of ‘more permeability sensitivity in WF17’ and ‘base’ case</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>25</caption-order>
+<caption-text>Pressure difference of ‘more permeability sensitivity in WF17’ and ‘base’ case</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="24" figure-order="26" data-type-order="28">
+<link href="link-26" type="image" />
+<appendix>
+<linkTarget id="link-26" type="image">
+<anchoringText id="Ancr28">A plot showing the comparison between 3 pressure loss correlations (Hagerdon-Brown, Mukherjee-Brill, Petroleum Expert 4) is shown in Figure A-1. It can be seen from this figure, that the Mukherjee-Brill correlation -similar to the Hagerdon-Brown correlation- predicts higher pressure loss in the tubing than the Petroleum Expert 4 correlation.</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-26">
+<label>Figure A</label>
+<imageLink type="mediaResource" href="102118176385MS_i_26.tif" id="ImgLink-26" />
+<caption>1 Tubing pressure loss correlations comparison</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>A</caption-order>
+<caption-text>1 Tubing pressure loss correlations comparison</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="25" figure-order="27" data-type-order="29">
+<link href="link-27" type="image" />
+<appendix>
+<linkTarget id="link-27" type="image">
+<anchoringText id="Ancr29"> </anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-27">
+<label>Figure B</label>
+<imageLink type="mediaResource" href="102118176385MS_i_27.tif" id="ImgLink-27" />
+<caption>1 Pressure drop in segment 2 (Heel)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>B</caption-order>
+<caption-text>1 Pressure drop in segment 2 (Heel)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="25" figure-order="28" data-type-order="30">
+<link href="link-28" type="image" />
+<appendix>
+<linkTarget id="link-28" type="image">
+<anchoringText id="Ancr30"> </anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-28">
+<label>Figure B</label>
+<imageLink type="mediaResource" href="102118176385MS_i_28.tif" id="ImgLink-28" />
+<caption>2 Pressure drop in the other segments</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>B</caption-order>
+<caption-text>2 Pressure drop in the other segments</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="26" figure-order="29" data-type-order="31">
+<link href="link-29" type="image" />
+<appendix>
+<linkTarget id="link-29" type="image">
+<anchoringText id="Ancr31"> </anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-29">
+<label>Figure C</label>
+<imageLink type="mediaResource" href="102118176385MS_i_29.tif" id="ImgLink-29" />
+<caption>1 Permeability of well WF16 and WF17</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>C</caption-order>
+<caption-text>1 Permeability of well WF16 and WF17</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="27" figure-order="30" data-type-order="32">
+<link href="link-30" type="image" />
+<appendix>
+<linkTarget id="link-30" type="image">
+<anchoringText id="Ancr32"> </anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-30">
+<label>Figure D</label>
+<imageLink type="mediaResource" href="102118176385MS_i_30.tif" id="ImgLink-30" />
+<caption>1 Cumulative (in MMBOE) Difference in Percentage (Upscaled ICDs – Refined ICDs Case)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>D</caption-order>
+<caption-text>1 Cumulative (in MMBOE) Difference in Percentage (Upscaled ICDs – Refined ICDs Case)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="28" figure-order="31" data-type-order="33">
+<link href="link-31" type="image" />
+<appendix>
+<linkTarget id="link-31" type="image">
+<anchoringText id="Ancr33">The main consideration to decide the zoning in the wellbore is based on the prediction of the ability to flow for each zone. The flow in front of the same ICD segment must be homogeneous. A good indication to estimate the productivity is based on permeability contrast and saturation value. It’s wise to separate the high and low oil saturation area into different zones, to avoid cross flow within the same zone. It can be seen in Figure E-1, the different zoning in 8 ICDs case and 4 ICDs case.</anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-31">
+<label>Figure E</label>
+<imageLink type="mediaResource" href="102118176385MS_i_31.tif" id="ImgLink-31" />
+<caption>1 ICD with 8 Zoning vs 4 Zoning</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>E</caption-order>
+<caption-text>1 ICD with 8 Zoning vs 4 Zoning</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="29" figure-order="32" data-type-order="34">
+<link href="link-32" type="image" />
+<appendix>
+<linkTarget id="link-32" type="image">
+<anchoringText id="Ancr34"> </anchoringText>
+<image-wrap id="102118176385MS-Img_SPi-32">
+<label>Figure F</label>
+<imageLink type="mediaResource" href="102118176385MS_i_32.tif" id="ImgLink-32" />
+<caption>1 Pressure and Oil cumulative of selective zone management strategy</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>F</caption-order>
+<caption-text>1 Pressure and Oil cumulative of selective zone management strategy</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118182597MS.txt" extractionDate="2021-03-23T09:51:12Z">
+<doi>10.2118/182597-MS</doi>
+<pii>10.2118/182597-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="6" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr3">There are 9 injectors and 20 producers in the model with all but one injection well being vertical. A commercial compositional simulator (CMG, 2015) was used for the reservoir simulations. Nine pseudo-components were used to describe the system: N2, CO2, C1, C2, C3, C4, C5, C6-C7, and C8+. Figure 1 is an illustration of the horizontal permeability field with the locations of the injection and production wells marked.</anchoringText>
+<image-wrap id="102118182597MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118182597MS_i_1.tif" id="ImgLink-1" />
+<caption>Horizontal permeability (in mD) of the second layer of the model. The white circles indicate injection wells and the black circles indicate production wells. Note that the well path for production well #13 is deviated through the layer.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Horizontal permeability (in mD) of the second layer of the model. The white circles indicate injection wells and the black circles indicate production wells. Note that the well path for production well #13 is deviated through the layer.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr4">The maximum number of WAG cycles is set to 15 because of the operator suggested strategy of 30 day water injection and 90 day CO2 injection phases. The time control method is allowed to eliminate a number of half cycles, but was not allowed to add cycles. All of the optimization parameters are kept the same (including the initial seed) and the producer BHPs are optimized during the process as well in all three cases. The results, as summarized in Table 1 and Figure 2, illustrate that the use of both rate and time controls for the injectors results in a higher objective function value by 13% when compared to rate control only. Contributing to the higher objective function (NPV), more oil is produced and less CO2 and water are injected when time controls were used.</anchoringText>
+<image-wrap id="102118182597MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118182597MS_i_2.tif" id="ImgLink-2" />
+<caption>NPV evolution over 20 iterations of the optimization process of the operator (refernce) strategy and three optimized strategies for different control options.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>NPV evolution over 20 iterations of the optimization process of the operator (refernce) strategy and three optimized strategies for different control options.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr5">Although the injection rate of CO2 is increased substantially at the beginning of the optimization run with rate control only, as shown in Figure 3, the case with rate and time controls is more effectively able to recover oil, reduce the amount of CO2 produced and reduce the amount of injected CO2. This is due to the higher degree of controllability obtained through the addition of switching time as a control option. Figure 3 to Figure 5 show that the optimized injection wells for this field undergo different types of strategies that ignore traditional WAG constraints (e.g. a fixed WAG ratio) in order to achieve an optimal NPV.</anchoringText>
+<image-wrap id="102118182597MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118182597MS_i_3.tif" id="ImgLink-3" />
+<caption>Optimal injector controls for water injection (blue shades)and gas injection (yellow to red) for the rate control experiment.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Optimal injector controls for water injection (blue shades)and gas injection (yellow to red) for the rate control experiment.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr6">Although the injection rate of CO2 is increased substantially at the beginning of the optimization run with rate control only, as shown in Figure 3, the case with rate and time controls is more effectively able to recover oil, reduce the amount of CO2 produced and reduce the amount of injected CO2. This is due to the higher degree of controllability obtained through the addition of switching time as a control option. Figure 3 to Figure 5 show that the optimized injection wells for this field undergo different types of strategies that ignore traditional WAG constraints (e.g. a fixed WAG ratio) in order to achieve an optimal NPV.</anchoringText>
+<image-wrap id="102118182597MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118182597MS_i_4.tif" id="ImgLink-4" />
+<caption>Optimal injector controls for water injection (blue shades) and gas injection (yellow to red) for the time control experiment.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Optimal injector controls for water injection (blue shades) and gas injection (yellow to red) for the time control experiment.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr7">Although the injection rate of CO2 is increased substantially at the beginning of the optimization run with rate control only, as shown in Figure 3, the case with rate and time controls is more effectively able to recover oil, reduce the amount of CO2 produced and reduce the amount of injected CO2. This is due to the higher degree of controllability obtained through the addition of switching time as a control option. Figure 3 to Figure 5 show that the optimized injection wells for this field undergo different types of strategies that ignore traditional WAG constraints (e.g. a fixed WAG ratio) in order to achieve an optimal NPV.</anchoringText>
+<image-wrap id="102118182597MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118182597MS_i_5.tif" id="ImgLink-5" />
+<caption>Optimal injector controls for water injection (blue shades) and gas injection (yellow to red) for the rate and time injection control experiment.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Optimal injector controls for water injection (blue shades) and gas injection (yellow to red) for the rate and time injection control experiment.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr8">It should be noted that the time-and-rate strategy has not fully converged to a solution at the end of 20 iterations and it is possible that the optimal strategy could have had fewer WAG cycles as some of the water injection cycles are very short (less than 15 days). The solution for this case may take longer to converge as there are more controls to consider and some of them are conflicting (cycle length and injection rates are essentially coupled). The production BHP solutions were very similar or all three cases (onle slight deviations). Figure 6 is the producer BHPs for the rate and time injection control case.</anchoringText>
+<image-wrap id="102118182597MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118182597MS_i_6.tif" id="ImgLink-6" />
+<caption>Optimal production BHP control strategies for the rate and time injection control experiment. The other experiments had very similar BHP solutions.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Optimal production BHP control strategies for the rate and time injection control experiment. The other experiments had very similar BHP solutions.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr9">Figure 7 shows snapshots of oil saturation for both the reference case and the optimized rate-and-time case. It can be seen increased oil saturations appear after 1 year which can be attributed to oil swelling caused by achieving miscible conditions in a shorter amount of time for the injection rates-and-time optimization case than with the base case strategy. At the end of the life-cycle period (1800 days) the amount of remaining oil is also much less for the optimized case in comparison with the base case proposed by the operator.</anchoringText>
+<image-wrap id="102118182597MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118182597MS_i_7.tif" id="ImgLink-7" />
+<caption>Oil saturation at different times during the life cycle period for the optimized rates-and-time case and the operator base case strategy.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Oil saturation at different times during the life cycle period for the optimized rates-and-time case and the operator base case strategy.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr10">n this experiment the geological uncertainty in the field is captured by 20 different model realizations of permeability and porosity. A sample of three realizations from this ensemble can be seen in Figure 8. The robust optimization is performed with the same input parameters as the deterministic case, the only difference being that 20 geological models are considered instead of 1, and the optimization algorithm now aims to maximize the expected (average) NPV over these 20 realizations. Both rate and slug length controls are used for the injectors. The results from the robust optimization are presented in Figure 9 to Figure 11.</anchoringText>
+<image-wrap id="102118182597MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118182597MS_i_8.tif" id="ImgLink-8" />
+<caption>Three permeability realizations out of 20 used for robust optimization, the colour bar indicates permeability in mD. The white circles indicate injection wells and the black circles indicate production wells. Note that the well path for production well #13 is deviated through the layer.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Three permeability realizations out of 20 used for robust optimization, the colour bar indicates permeability in mD. The white circles indicate injection wells and the black circles indicate production wells. Note that the well path for production well #13 is deviated through the layer.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr11">n this experiment the geological uncertainty in the field is captured by 20 different model realizations of permeability and porosity. A sample of three realizations from this ensemble can be seen in Figure 8. The robust optimization is performed with the same input parameters as the deterministic case, the only difference being that 20 geological models are considered instead of 1, and the optimization algorithm now aims to maximize the expected (average) NPV over these 20 realizations. Both rate and slug length controls are used for the injectors. The results from the robust optimization are presented in Figure 9 to Figure 11.</anchoringText>
+<image-wrap id="102118182597MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118182597MS_i_9.tif" id="ImgLink-9" />
+<caption>Optimized injection strategies for the robust case.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Optimized injection strategies for the robust case.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="10" data-type-order="11">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr12">n this experiment the geological uncertainty in the field is captured by 20 different model realizations of permeability and porosity. A sample of three realizations from this ensemble can be seen in Figure 8. The robust optimization is performed with the same input parameters as the deterministic case, the only difference being that 20 geological models are considered instead of 1, and the optimization algorithm now aims to maximize the expected (average) NPV over these 20 realizations. Both rate and slug length controls are used for the injectors. The results from the robust optimization are presented in Figure 9 to Figure 11.</anchoringText>
+<image-wrap id="102118182597MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118182597MS_i_10.tif" id="ImgLink-10" />
+<caption>Optimized producer BHP strategies for the robust case.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Optimized producer BHP strategies for the robust case.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="11" data-type-order="12">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr13">n this experiment the geological uncertainty in the field is captured by 20 different model realizations of permeability and porosity. A sample of three realizations from this ensemble can be seen in Figure 8. The robust optimization is performed with the same input parameters as the deterministic case, the only difference being that 20 geological models are considered instead of 1, and the optimization algorithm now aims to maximize the expected (average) NPV over these 20 realizations. Both rate and slug length controls are used for the injectors. The results from the robust optimization are presented in Figure 9 to Figure 11.</anchoringText>
+<image-wrap id="102118182597MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118182597MS_i_11.tif" id="ImgLink-11" />
+<caption>Iteration process for the robust optimization experiment. The 20 solid colored lines each represent the NPV evaluated for one model realization. The blue dahsed line indicates the expected (average) value.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Iteration process for the robust optimization experiment. The 20 solid colored lines each represent the NPV evaluated for one model realization. The blue dahsed line indicates the expected (average) value.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="12" data-type-order="13">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr14">A deterministic optimization was performed on one of the ensemble members (realization 19) in order to determine the amount of deviation from the robust optimization experiment. Figure 12 and Figures 13 to Figure 14 show a significant deviation in both the objective function value and the optimal control strategy relative to the original deterministic model realization, and again stresses the importance of correctly representing geological uncertainty.</anchoringText>
+<image-wrap id="102118182597MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118182597MS_i_12.tif" id="ImgLink-12" />
+<caption>Iteration process for a deterministic optimization experiment using only realization 19 from the ensemble.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Iteration process for a deterministic optimization experiment using only realization 19 from the ensemble.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="13" data-type-order="14">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr15">A deterministic optimization was performed on one of the ensemble members (realization 19) in order to determine the amount of deviation from the robust optimization experiment. Figure 12 and Figures 13 to Figure 14 show a significant deviation in both the objective function value and the optimal control strategy relative to the original deterministic model realization, and again stresses the importance of correctly representing geological uncertainty.</anchoringText>
+<image-wrap id="102118182597MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118182597MS_i_13.tif" id="ImgLink-13" />
+<caption>Optimized injection strategies for the deterministic case based on realization 19.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Optimized injection strategies for the deterministic case based on realization 19.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="14" data-type-order="15">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr16">A deterministic optimization was performed on one of the ensemble members (realization 19) in order to determine the amount of deviation from the robust optimization experiment. Figure 12 and Figures 13 to Figure 14 show a significant deviation in both the objective function value and the optimal control strategy relative to the original deterministic model realization, and again stresses the importance of correctly representing geological uncertainty.</anchoringText>
+<image-wrap id="102118182597MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118182597MS_i_14.tif" id="ImgLink-14" />
+<caption>Optimized producer BHP strategies for the deterministic case based on realization 19.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Optimized producer BHP strategies for the deterministic case based on realization 19.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="15" data-type-order="17">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr17">The same geological model is used as in the deterministic experiments and both rate and time controls are optimized. The results of adding a value for CO2 storage can be seen in Table 2 where the NPV is increased by 35% over the original deterministic injection rate-and-time case and a total CO2 storage of 754000 tonnes is achieved, which is an increase of 246% over the original deterministic case. Figure 15 and Figure 16 show that the optimal strategy has changed in comparison to the deterministic case in Figure 5. As expected, significantly more CO2 is injected throughout the considered period.</anchoringText>
+<image-wrap id="102118182597MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118182597MS_i_15.tif" id="ImgLink-15" />
+<caption>Optimized injection strategies for the deterministic case with CO<sub>2</sub> storage credits added to the objective function.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Optimized injection strategies for the deterministic case with CO<sub>2</sub> storage credits added to the objective function.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="16" data-type-order="18">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr18">The same geological model is used as in the deterministic experiments and both rate and time controls are optimized. The results of adding a value for CO2 storage can be seen in Table 2 where the NPV is increased by 35% over the original deterministic injection rate-and-time case and a total CO2 storage of 754000 tonnes is achieved, which is an increase of 246% over the original deterministic case. Figure 15 and Figure 16 show that the optimal strategy has changed in comparison to the deterministic case in Figure 5. As expected, significantly more CO2 is injected throughout the considered period.</anchoringText>
+<image-wrap id="102118182597MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118182597MS_i_16.tif" id="ImgLink-16" />
+<caption>Optimized producer BHP strategies for the deterministic case with CO<sub>2</sub> storage credits added to the objective function.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Optimized producer BHP strategies for the deterministic case with CO<sub>2</sub> storage credits added to the objective function.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="17" data-type-order="19">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr19">A total CO2 supply limitation is investigated to see if a lower available supply would limit the total CO2 injected (any purchased CO2 could still be recycled). The total fresh supply was reduced by 20% relative to the previous experiment. The influence on the recovery and the injected volumes is shown in Figure 17,Figure 18 and Table 2. The results suggest that a 20% limitation of fresh CO2 availability has a relatively small impact on the optimized strategy and the resulting NPV.</anchoringText>
+<image-wrap id="102118182597MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118182597MS_i_17.tif" id="ImgLink-17" />
+<caption>Optimized injection strategies for the deterministic case including a 20% reduction in the maximum volume of CO<sub>2</sub> that can be purchased.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Optimized injection strategies for the deterministic case including a 20% reduction in the maximum volume of CO<sub>2</sub> that can be purchased.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="18" data-type-order="20">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr20">A total CO2 supply limitation is investigated to see if a lower available supply would limit the total CO2 injected (any purchased CO2 could still be recycled). The total fresh supply was reduced by 20% relative to the previous experiment. The influence on the recovery and the injected volumes is shown in Figure 17,Figure 18 and Table 2. The results suggest that a 20% limitation of fresh CO2 availability has a relatively small impact on the optimized strategy and the resulting NPV.</anchoringText>
+<image-wrap id="102118182597MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118182597MS_i_18.tif" id="ImgLink-18" />
+<caption>Optimized producer BHP strategies for the deterministic case including a 20% reduction in the maximum volume of CO<sub>2</sub> that can be purchased.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Optimized producer BHP strategies for the deterministic case including a 20% reduction in the maximum volume of CO<sub>2</sub> that can be purchased.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

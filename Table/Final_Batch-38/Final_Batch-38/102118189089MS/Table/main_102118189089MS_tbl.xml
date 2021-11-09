@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189089MS.txt" extractionDate="2021-03-29T15:53:35Z">
+<doi>10.2118/189089-MS</doi>
+<pii>10.2118/189089-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="13" table-order="1" data-type-order="17">
+<table-wrap id="102118189089MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Figs. 8 – 15 display the depth structure maps and the CGS results for this class of reservoirs, while a comparison of the corresponding GOC's from petrophysical logs and CGS are compared in Table 1. In the three examples, the CGS results are in good agreement with the hard data from petrophysical logs.</anchoringText>
+<label>Table 1</label>
+<caption>Summary of results for class-I reservoirs</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Summary of results for class-I reservoirs</caption-text>
+</formatted-caption>
+<table id="102118189089MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="left">
+<a id="bookmark0">
+</a>
+<a id="bookmark1">
+</a>Reservoir</th>
+<th rowspan="2" valign="top" align="left">Reservoir crest (ftss)</th>
+<th colspan="2" valign="top" align="center">GOC (ftss)</th>
+<th rowspan="2" valign="top" align="left">Deviation (ft)</th>
+<th rowspan="2" valign="top" align="left">Remark</th>
+</tr>
+<tr>
+<th valign="top" align="left">Log</th>
+<th valign="top" align="left">CGS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">A</td>
+<td valign="top" align="left">6515</td>
+<td valign="top" align="left">6564</td>
+<td valign="top" align="left">6566</td>
+<td valign="top" align="left">2</td>
+<td valign="top" align="left">Saturated reservoir. Excellent agreement in GOC results</td>
+</tr>
+<tr>
+<td valign="top" align="left">B</td>
+<td valign="top" align="left">6765</td>
+<td valign="top" align="left">6827</td>
+<td valign="top" align="left">6836</td>
+<td valign="top" align="left">9</td>
+<td valign="top" align="left">Saturated reservoir. Satisfactory agreement in GOC results</td>
+</tr>
+<tr>
+<td valign="top" align="left">C</td>
+<td valign="top" align="left">8650</td>
+<td valign="top" align="left">8666</td>
+<td valign="top" align="left">8665</td>
+<td valign="top" align="left">1</td>
+<td valign="top" align="left">Saturated reservoir. Excellent agreement in GOC results</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="17" table-order="2" data-type-order="24">
+<table-wrap id="102118189089MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Figs. 16 – 21 show the depth structure maps and the CGS results for these class-II reservoirs, while Table 2 compares the corresponding log and CGS results. It is interesting to note the excellent agreement between logs and CGS, despite being independent sources.</anchoringText>
+<label>Table 2</label>
+<caption>Summary of results for class-II reservoirs</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Summary of results for class-II reservoirs</caption-text>
+</formatted-caption>
+<table id="102118189089MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="left">Reservoir</th>
+<th rowspan="2" valign="top" align="left">Reservoir crest (ftss)</th>
+<th colspan="2" valign="top" align="center">GOC (ftss)</th>
+<th rowspan="2" valign="top" align="left">Deviation (ft)</th>
+<th rowspan="2" valign="top" align="left">Remark</th>
+</tr>
+<tr>
+<th valign="top" align="left">Log</th>
+<th valign="top" align="left">CGS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">D</td>
+<td valign="top" align="left">5000</td>
+<td valign="top" align="left">None</td>
+<td valign="top" align="left">4314</td>
+<td valign="top" align="left">Shallower than crest</td>
+<td valign="top" align="left">Undersaturated reservoir. Excellent (qualitative) agreement</td>
+</tr>
+<tr>
+<td valign="top" align="left">E</td>
+<td valign="top" align="left">6800</td>
+<td valign="top" align="left">"</td>
+<td valign="top" align="left">4728</td>
+<td valign="top" align="left">"</td>
+<td valign="top" align="left">"</td>
+</tr>
+<tr>
+<td valign="top" align="left">F</td>
+<td valign="top" align="left">9060</td>
+<td valign="top" align="left">"</td>
+<td valign="top" align="left">8990</td>
+<td valign="top" align="left">"</td>
+<td valign="top" align="left">"</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="17" table-order="3" data-type-order="25">
+<table-wrap id="102118189089MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Although sensitivity tests were performed for all the six reservoirs, space constraints informed limiting the presentation of results to just the class-I reservoirs (Table 3). For realism, the sensitivities are limited to the typical range of uncertainties associated with the respective variables. Within the parameter space examined herein, it is found that geothermal gradient has the largest impact on CGS results.</anchoringText>
+<label>Table 3</label>
+<caption>Sensitivity of GOC from CGS to some input uncertainties</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Sensitivity of GOC from CGS to some input uncertainties</caption-text>
+</formatted-caption>
+<table id="102118189089MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Reservoir</th>
+<th valign="top" align="left">Realisation</th>
+<th valign="top" align="left">Sample quality</th>
+<th valign="top" align="left">Sampling depth</th>
+<th valign="top" align="left">Initial pressure</th>
+<th valign="top" align="left">Geothermal gradient</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="2" valign="top" align="center">Sensitivity range</td>
+<td valign="top" align="left">±5% C7+</td>
+<td valign="top" align="left">±1% depth</td>
+<td valign="top" align="left">±1% pressure</td>
+<td valign="top" align="left">±5% gradient</td>
+</tr>
+<tr>
+<td rowspan="3" valign="top" align="left">A</td>
+<td valign="top" align="left">Low case (ftss)</td>
+<td valign="top" align="center">6550</td>
+<td valign="top" align="center">6561</td>
+<td valign="top" align="center">6545</td>
+<td valign="top" align="center">6535</td>
+</tr>
+<tr>
+<td valign="top" align="left">Base case (ftss)</td>
+<td colspan="4" valign="top" align="center">6566</td>
+</tr>
+<tr>
+<td valign="top" align="left">High case (ftss)</td>
+<td valign="top" align="center">6568</td>
+<td valign="top" align="center">6578</td>
+<td valign="top" align="center">6575</td>
+<td valign="top" align="center">6580</td>
+</tr>
+<tr>
+<td rowspan="3" valign="top" align="left">B</td>
+<td valign="top" align="left">Low case (ftss)</td>
+<td valign="top" align="center">6812</td>
+<td valign="top" align="center">6828</td>
+<td valign="top" align="center">6811</td>
+<td valign="top" align="center">6805</td>
+</tr>
+<tr>
+<td valign="top" align="left">Base case (ftss)</td>
+<td colspan="4" valign="top" align="center">6836</td>
+</tr>
+<tr>
+<td valign="top" align="left">High case (ftss)</td>
+<td valign="top" align="center">6843</td>
+<td valign="top" align="center">6839</td>
+<td valign="top" align="center">6857</td>
+<td valign="top" align="center">6860</td>
+</tr>
+<tr>
+<td rowspan="3" valign="top" align="left">C</td>
+<td valign="top" align="left">Low case (ftss)</td>
+<td valign="top" align="center">8660</td>
+<td valign="top" align="center">8659</td>
+<td valign="top" align="center">8605</td>
+<td valign="top" align="center">8595</td>
+</tr>
+<tr>
+<td valign="top" align="left">Base case (ftss)</td>
+<td colspan="4" valign="top" align="center">8665</td>
+</tr>
+<tr>
+<td valign="top" align="left">High case (ftss)</td>
+<td valign="top" align="center">8676</td>
+<td valign="top" align="center">8678</td>
+<td valign="top" align="center">8690</td>
+<td valign="top" align="center">8705</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

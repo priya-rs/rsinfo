@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191535MS.txt" extractionDate="2021-03-30T09:31:14Z">
+<doi>10.2118/191535-MS</doi>
+<pii>10.2118/191535-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">The Golfo San Jorge (GSJ) mature basin is located in southern Argentina, in the central part of Patagonia (Fig. 1). It represents about 50% of Argentina's daily oil production and holds two-thirds of its oil reserves (Palacios 2017). The GSJ basin was discovered in 1907 and was the first developed oil basin in the country. It spreads over an approximate area of 200,000 km2 onshore and offshore, from which 70,000 km2 are considered to include potentially productive reservoirs.</anchoringText>
+<image-wrap id="102118191535MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118191535MS_i_1.tif" id="ImgLink-1" />
+<caption>Golfo San Jorge basin location, including main fields studied in this paper.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Golfo San Jorge basin location, including main fields studied in this paper.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">Structural features subdivide the basin into three areas known as Faja Plegada (folded belt) to the west and Flanco Norte (north flank) and Flanco Sur (south flank) to the east. In this contribution, we will focus on the south flank fields and reservoirs, located in the Santa Cruz province. Fig. 2 shows the generalized stratigraphic column for the basin, with the commonly used names for the formations in the area involved in this study. The main producing zones are in the Chubut group: Bajo Barreal, Castillo, and Pozo D-129 formations (Hechem and Strelkov 2002).</anchoringText>
+<image-wrap id="102118191535MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118191535MS_i_2.tif" id="ImgLink-2" />
+<caption>South flank and folded belt stratigraphy.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>South flank and folded belt stratigraphy.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Fig. 3 shows a comparison of the spectroscopy results for OH and CH for the main elements related to minerals for the same well logged with the large PNL tool, first in OH and a few days later in CH. After the corrections for casing and cement were applied, the elemental concentrations have a very good match, with some exceptions, such as the higher cased Ca in the interval X030–X060 m that is related to a washout filled with cement, clearly identified by the caliper in the first track.</anchoringText>
+<image-wrap id="102118191535MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118191535MS_i_3.tif" id="ImgLink-3" />
+<caption>OH and CH spectroscopy comparison with the large PNL tool.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>OH and CH spectroscopy comparison with the large PNL tool.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">Fig. 4 compares data from the slim and large PNL devices both logged in CH in the same well. The large tool was logged in 2016, and the slim tool was logged in 2017, almost a year later for comparison and validation of the processing scheme and results. The slim tool is equipped with smaller detectors, and we noticed that some elements that are more difficult to measure in the capture spectra, such as Al and Na, were too statistical (noisy). The solution adopted was to redistribute these elements in the initial spectral stripping and emulate them with a multilinear regression using the other elements and sigma. The regressions were developed using OH and CH high-quality data from the large PNL tool.</anchoringText>
+<image-wrap id="102118191535MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118191535MS_i_4.tif" id="ImgLink-4" />
+<caption>Comparison of slim and large PNL tools, both logged in CH (large 2016, slim 2017).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Comparison of slim and large PNL tools, both logged in CH (large 2016, slim 2017).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="12" pdf-page="9" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">For each new field where these evaluation techniques were applied, the consistency of the data was tested comparing the elemental concentrations from different wells using the large and slim PNL devices in OH and CH, if both data were available. The panels in Fig. 5 show histograms of Si, Fe, S, Ca, Mg, Ti, Al, K, Na, Gd, (total) C, and TOC across the same formations in three wells located in the same field. Well X and well Y were logged using the large device, and well Z was logged with the slim tool; the data were acquired in CH in all cases.</anchoringText>
+<image-wrap id="102118191535MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118191535MS_i_5.tif" id="ImgLink-5" />
+<caption>Main elements and TOC comparison, three CH wells (well X and well Y logged with the large PNL, well Z logged with the slim PNL). The Al and Na were emulated in the slim tool. Si Fe S Ca Mg Ti Al K Na Gd C TOC</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Main elements and TOC comparison, three CH wells (well X and well Y logged with the large PNL, well Z logged with the slim PNL). The Al and Na were emulated in the slim tool. Si Fe S Ca Mg Ti Al K Na Gd C TOC</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191535MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118191535MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-text>Si</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191535MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118191535MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-text>Fe</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191535MS-Img_SPi-5c">
+<imageLink type="mediaResource" href="102118191535MS_i_5c.tif" id="ImgLink-5c" />
+<figure-specific-caption>
+<caption-text>S</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191535MS-Img_SPi-5d">
+<imageLink type="mediaResource" href="102118191535MS_i_5d.tif" id="ImgLink-5d" />
+<figure-specific-caption>
+<caption-text>Ca</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191535MS-Img_SPi-5e">
+<imageLink type="mediaResource" href="102118191535MS_i_5e.tif" id="ImgLink-5e" />
+<figure-specific-caption>
+<caption-text>Mg</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191535MS-Img_SPi-5f">
+<imageLink type="mediaResource" href="102118191535MS_i_5f.tif" id="ImgLink-5f" />
+<figure-specific-caption>
+<caption-text>Ti</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191535MS-Img_SPi-5g">
+<imageLink type="mediaResource" href="102118191535MS_i_5g.tif" id="ImgLink-5g" />
+<figure-specific-caption>
+<caption-text>Al</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191535MS-Img_SPi-5h">
+<imageLink type="mediaResource" href="102118191535MS_i_5h.tif" id="ImgLink-5h" />
+<figure-specific-caption>
+<caption-text>K</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191535MS-Img_SPi-5i">
+<imageLink type="mediaResource" href="102118191535MS_i_5i.tif" id="ImgLink-5i" />
+<figure-specific-caption>
+<caption-text>Na</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191535MS-Img_SPi-5j">
+<imageLink type="mediaResource" href="102118191535MS_i_5j.tif" id="ImgLink-5j" />
+<figure-specific-caption>
+<caption-text>Gd</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191535MS-Img_SPi-5k">
+<imageLink type="mediaResource" href="102118191535MS_i_5k.tif" id="ImgLink-5k" />
+<figure-specific-caption>
+<caption-text>C</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191535MS-Img_SPi-5l">
+<imageLink type="mediaResource" href="102118191535MS_i_5l.tif" id="ImgLink-5l" />
+<figure-specific-caption>
+<caption-text>TOC</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">For the OH operations, several logs were acquired, including triple-combo, sonic, and NMR. Fig. 6 shows a combined plot with basic OH and CH data, including the following tracks:</anchoringText>
+<image-wrap id="102118191535MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118191535MS_i_6.tif" id="ImgLink-6" />
+<caption>Well A, upper Bajo Barreal formation, showing filtrate dissipation after casing: TOC CH &#x003E; TOC OH.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Well A, upper Bajo Barreal formation, showing filtrate dissipation after casing: TOC CH &#x003E; TOC OH.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">Fig. 7 shows a deeper interval in the same well, in the lower Bajo Barreal and Sección Tobácea formations. In this interval, notice that the SP has much smaller deflections, probably because there is less contrast between the mud filtrate and formation water. Here we observe three well-defined sands, all correlating to mud gas shows:</anchoringText>
+<image-wrap id="102118191535MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118191535MS_i_7.tif" id="ImgLink-7" />
+<caption>Well A, lower Bajo Barreal and Sección Tobácea formations.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Well A, lower Bajo Barreal and Sección Tobácea formations.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2"  pdf-page="13" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">An interesting fact in this well was that although the well was controlled, we found a segregated oil emulsion above a certain depth, which can be seen on the left-hand side of Fig. 8, where the inelastic carbon yield from the near detector (IYNC) increases, and the borehole fluid density (MWFD) decreases. Also, the fluid segregation is evident from the C/O quadrilateral plot on the right-hand side of Fig. 8, giving an apparent 40% oil holdup indication. The borehole carbon had to be removed before proceeding with the analysis and interpretation.</anchoringText>
+<image-wrap id="102118191535MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118191535MS_i_8.tif" id="ImgLink-8" />
+<caption>Well B, segregated oil emulsion inside the borehole.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Well B, segregated oil emulsion inside the borehole.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191535MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118191535MS_i_8a.tif" id="ImgLink-8a" />
+</image-wrap>
+<image-wrap id="102118191535MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118191535MS_i_8b.tif" id="ImgLink-8b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">This well could not be logged in OH, and at the time the well was completed in 2015, a simple sigma log was recorded for correlation purposes. Tracks 1 and 2 in Fig. 9 show the pseudo-SP and pseudo-resistivity logs produced at that time, which are basically rescaled versions of the sigma curve. Based on these pseudo-logs, the perforation intervals shown in the well sketch track were selected; these were essentially all the intervals where the pseudo Rt goes above a given cutoff.</anchoringText>
+<image-wrap id="102118191535MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118191535MS_i_9.tif" id="ImgLink-9" />
+<caption>Well B, pseudo logs versus multiple independent formation properties from slim CH PNL log; oil layers in upper Bajo Barreal formation.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Well B, pseudo logs versus multiple independent formation properties from slim CH PNL log; oil layers in upper Bajo Barreal formation.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">In the last case study, we discuss three wells located in a field in the southern flank of the basin. The first two wells (well C and well D) were drilled in 2016, but could not be logged in OH due to operational complications. The large PNL device was logged in both cases behind 5.5-in. casing. For well C, one pass at 500 ft/hr was acquired, and a compensated neutron tool was run in combination. Fig. 10 shows a "quick look" plot across the Bajo Barreal formation.</anchoringText>
+<image-wrap id="102118191535MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118191535MS_i_10.tif" id="ImgLink-10" />
+<caption>Well C, Bajo Barreal formation, CH large PNL, neutron porosity from the compensated neutron tool, and mud log.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Well C, Bajo Barreal formation, CH large PNL, neutron porosity from the compensated neutron tool, and mud log.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">A similar plot is shown for well D in Fig. 11 for the deeper Castillo formation this time. In this, the neutron porosity was acquired with a legacy slim PNL tool, a thermal decay porosity (neutron-gamma porosity). Once again, there was good correlation between the mud shows and TOC, and the selected interval at X038–X044 m produced 300 B/D oil and gas, flowing naturally with the reservoir energy. Notice that below X050 m, there are several intervals with similar sigma reading, apparent high pseudo Rt, but with much less or no TOC and modest or no gas shows. This confirms that the pseudo logs, or any type of analysis based only on a basic sigma log, can be used for correlation purposes, but cannot determine conclusively productive intervals.</anchoringText>
+<image-wrap id="102118191535MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118191535MS_i_11.tif" id="ImgLink-11" />
+<caption>Well D, Castillo formation, CH large PNL, thermal decay neutron porosity, and mud log.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Well D, Castillo formation, CH large PNL, thermal decay neutron porosity, and mud log.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">Fig. 12 displays a repeatability analysis for some curves. Tracks 1 to 4 show the GSH curves for each pass (green and pink) and the stacked average (black). Notice the good repeatability, excellent for sigma and TPHI. Tracks 5 and 6 show the raw inelastic yield of carbon in the far detector (IYFC) and the C/O ratio also in the far detector (FCOR).</anchoringText>
+<image-wrap id="102118191535MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118191535MS_i_12.tif" id="ImgLink-12" />
+<caption>Well E, slim PNL tool repeatability analysis.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Well E, slim PNL tool repeatability analysis.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">Fig. 13 shows a composite display similar to the second case study, but now some OH logs are available for comparison. As anticipated, there is a good correlation between sigma and OH resistivity. In this case, several intervals with oil potential are identified, but there is one layer located at X087–X090 m with indications of light hydrocarbon, perhaps gas (low TPHI, FNXS, SIGM, and lower TOC). The crossover FNXS-TPHI is only qualitative because the scales had been arbitrarily selected to emulate an OH density-neutron track display, but helps to flag possible gas zones.</anchoringText>
+<image-wrap id="102118191535MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118191535MS_i_13.tif" id="ImgLink-13" />
+<caption>Well E, slim PNL, lower Bajo Barreal formation.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Well E, slim PNL, lower Bajo Barreal formation.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr14">The left panel in Fig. 14 shows producing intervals in a section of the field that were determined by correlations from the static geological model. These intervals are consistent with the high-TOC zones shown in the right-hand side panel and the perforation intervals previously selected from the static model correlations, shown in the GR and SP track.</anchoringText>
+<image-wrap id="102118191535MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118191535MS_i_14.tif" id="ImgLink-14" />
+<caption>Well E, producing intervals correlated to log data.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Well E, producing intervals correlated to log data.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="20" figure-order="15" data-type-order="15">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr15">Fig. 15 corresponds to the upper Bajo Barreal interval with a zone with possible bypassed oil. The Y055–Y070 m interval with high TOC indicates good potential. The sand just above, at Y040–Y047 m, shows low TOC right in the middle of layer, a possible indication that this sand has been swept already in the higher-permeability middle section. These inferences are not obvious from the resistivity log alone. The higher-resistivity sands below Y090 m are in zones with little or no TOC, and most likely wet with fresh water. Fig. 16 shows a correlation panel (based on resistivity and SP) for three wells, including well F.</anchoringText>
+<image-wrap id="102118191535MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118191535MS_i_15.tif" id="ImgLink-15" />
+<caption>Well E, slim PNL, upper Bajo Barreal formation.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Well E, slim PNL, upper Bajo Barreal formation.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="20" figure-order="16" data-type-order="16">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr16">Fig. 15 corresponds to the upper Bajo Barreal interval with a zone with possible bypassed oil. The Y055–Y070 m interval with high TOC indicates good potential. The sand just above, at Y040–Y047 m, shows low TOC right in the middle of layer, a possible indication that this sand has been swept already in the higher-permeability middle section. These inferences are not obvious from the resistivity log alone. The higher-resistivity sands below Y090 m are in zones with little or no TOC, and most likely wet with fresh water. Fig. 16 shows a correlation panel (based on resistivity and SP) for three wells, including well F.</anchoringText>
+<image-wrap id="102118191535MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118191535MS_i_16.tif" id="ImgLink-16" />
+<caption>Well E, upper Bajo Barreal zone correlated to other wells.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Well E, upper Bajo Barreal zone correlated to other wells.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

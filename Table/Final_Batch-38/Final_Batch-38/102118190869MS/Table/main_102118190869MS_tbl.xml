@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190869MS.txt" extractionDate="2021-03-29T11:11:35Z">
+<doi>10.2118/190869-MS</doi>
+<pii>10.2118/190869-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="3" table-order="1" data-type-order="1">
+<table-wrap id="102118190869MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Synthetic reservoir brine (brine A, see Table 1) was made from analytical grade chemicals and distilled water. A commercially available nonionic surfactant (Huntsman International LLC, CAS no. 68551-12-2) was selected based on recent surfactant screening (Nguyen et al. 2015; Jian et al. 2016). The waxy solid surfactant was used as received, and mixed with brine A to obtain a 1 wt% surfactant concentration.</anchoringText>
+<label>Table 1</label>
+<caption>Fluid properties.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Fluid properties.</caption-text>
+</formatted-caption>
+<table id="102118190869MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Fluid</th>
+<th valign="bottom" align="center">Composition</th>
+<th valign="top" align="center">Density [g/cm3]</th>
+<th valign="top" align="center">Viscosity [mPas]</th>
+<th valign="bottom" align="center">Condition</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td id="tfn-1" colspan="5" align="left">
+<sup>a</sup>) (<link href="BIB1">Lemmon et al. 2018)</link>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">27.1 g/L NaCl 2.76 g/L MgCl<sub>2</sub>-6H<sub>2</sub>O</td>
+<td align="center">1.025</td>
+<td align="center">1.08</td>
+<td align="center">20°C/0.1 MPa</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Brine A</td>
+<td valign="bottom" align="center">5.82 g/LCaCl<sub>2</sub>-2H<sub>2</sub>O</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">0.46 g/L KCI</td>
+<td align="center">1.009</td>
+<td align="center">0.51</td>
+<td align="center">40°C/0.1 MPa</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">0.843</td>
+<td valign="bottom" align="center">0.0788</td>
+<td valign="bottom" align="center">20°C / 9.0 MPa (liquid)</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<link href="tfn-1">
+<sup>a</sup>
+</link>CO<sub>2</sub>
+</td>
+<td valign="top" align="center">&#x003E;99.999% CO<sub>2</sub>
+</td>
+<td valign="top" align="center">0.814</td>
+<td valign="top" align="center">0.0735</td>
+<td valign="top" align="center">40°C /17.5 MPa (supercritical)</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">0.685</td>
+<td valign="top" align="center">0.055</td>
+<td valign="top" align="center">60°C /17.9 MPa (supercritical)</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<link href="tfn-1">
+<sup>a</sup>
+</link>Decane</td>
+<td valign="top" align="center">C<sub>10</sub>H<sub>22</sub>
+</td>
+<td valign="top" align="center">0.715</td>
+<td valign="top" align="center">0.663</td>
+<td valign="top" align="center">60°C/17.9 MPa</td>
+</tr>
+<tr>
+<td align="center">Surfactant solution</td>
+<td align="center">1 wt% surfactant in brine A</td>
+<td align="center">1.027</td>
+<td align="center">-</td>
+<td align="center">-</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-13" type="bib">
+<bib id="BIB1">
+<label>Lemmon et al., 2018</label>
+<author>
+<first-name>E. W.</first-name>
+<last-name>Lemmon</last-name>
+</author>, <author>
+<first-name>M. O.</first-name>
+<last-name>McLinden</last-name>
+</author>, <author>
+<first-name>D. G.</first-name>
+<last-name>Friend</last-name>
+</author>. <pubDate>2018</pubDate>. <article-title>Thermophysical Properties of Fluid Systems </article-title>. In <i>in NIST Chemistry WebBook, NIST Standard Reference Database Number 69</i>, Eds. P.J. Linstrom and W.G. Mallard, National Institute of Standards and Technology, Gaithersburg MD, <pages>
+<first-page>20899</first-page>
+</pages>
+</bib>
+</linkTarget>
+</appendix>
+</docTable>
+<docTable pdf-page="3" table-order="2" data-type-order="3">
+<table-wrap id="102118190869MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Two-dimensional (2D) micromodels gain insight into pore-level displacement mechanisms that control multiphase fluid flow at core-scale (Gauteplass et al. 2015; Fredriksen et al. 2016). Etched silicon-wafer micromodels connected to a microfluidic flow rig with a high-resolution camera microscope enabled direct pore-scale visualization of fluid saturations, fluid flow interactions and displacement processes during CO2-foam flow. The micromodels inherit the essential characteristics of a porous media (Table 2), and a detailed description of the manufacturing process can be found elsewhere (Hornbrook et al. 1991; Buchgraber et al. 2012). Fluid distribution ports are located in each corner and channels (termed “fractures”) connects the ports horizontally opposite each other (see Figure 1).</anchoringText>
+<label>Table 2</label>
+<caption>Micromodel properties.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Micromodel properties.</caption-text>
+</formatted-caption>
+<table id="102118190869MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Micromodel</th>
+<th valign="top" align="center">Length</th>
+<th valign="top" align="center">Width</th>
+<th valign="top" align="center">Coordination</th>
+<th valign="top" align="center">Porosity</th>
+<th valign="top" align="center">Permeability</th>
+<th valign="top" align="center">Grain</th>
+</tr>
+<tr>
+<th valign="top" align="center">ID</th>
+<th valign="top" align="center">[cm]</th>
+<th valign="top" align="center">[cm]</th>
+<th valign="top" align="center">number</th>
+<th valign="top" align="center">[%]</th>
+<th valign="top" align="center">[mD]</th>
+<th valign="top" align="center">size [&#x03BC;m]</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">HP_1</td>
+<td align="center">2.76</td>
+<td align="center">2.16</td>
+<td align="center">1-6</td>
+<td align="center">~60</td>
+<td align="center">2.9</td>
+<td align="center">10-400</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="4" table-order="3" data-type-order="5">
+<table-wrap id="102118190869MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">CO2-foam scans were performed on an outcrop carbonate core plug and a cleaned reservoir core plug (see Table 3) from the field pilot area of the East Seminole (ES) carbonate field in west Texas (Alcorn et al. 2016; Sharma et al. 2017). The reservoir core plug was drilled horizontally (parallel to bedding) from a borehole core from an offset producer in the pilot well pattern (see Figure 2). The core plug was cleaned for 72 hours in a Dean Stark apparatus with a 1:1 solution (by volume) of toluene and methanol, extracting any residual fluids.</anchoringText>
+<label>Table 3</label>
+<caption>Core plug properties.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Core plug properties.</caption-text>
+</formatted-caption>
+<table id="102118190869MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Core ID</th>
+<th valign="bottom" align="center">Length [cm]</th>
+<th valign="bottom" align="center">Diameter [cm]</th>
+<th valign="bottom" align="center">Pore Volume [ml]</th>
+<th valign="bottom" align="center">Porosity (%]</th>
+<th valign="bottom" align="center">Permeability [mD]</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Reservoir</td>
+<td valign="top" align="center">5.7</td>
+<td valign="top" align="center">5.0</td>
+<td valign="top" align="center">15.2</td>
+<td valign="top" align="center">13.8</td>
+<td valign="bottom" align="center">22.1</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Outcrop</td>
+<td valign="bottom" align="center">7.5</td>
+<td valign="bottom" align="center">5.0</td>
+<td valign="bottom" align="center">35.3</td>
+<td valign="bottom" align="center">24.2</td>
+<td valign="bottom" align="center">20.5</td>
+</tr>
+<tr>
+<td valign="top" align="center">EOR 1 fg=0.8</td>
+<td valign="top" align="center">24.9</td>
+<td valign="top" align="center">4.8</td>
+<td valign="bottom" align="center">111.6</td>
+<td valign="top" align="center">24.5</td>
+<td valign="top" align="center">13.9</td>
+</tr>
+<tr>
+<td valign="top" align="center">EOR 2 fg=0.7</td>
+<td valign="top" align="center">24.4</td>
+<td valign="top" align="center">5.0</td>
+<td valign="top" align="center">105.7</td>
+<td valign="top" align="center">22 3</td>
+<td valign="top" align="center">15.5</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="13" table-order="4" data-type-order="15">
+<table-wrap id="102118190869MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">A co-injection of surfactant solution and CO2 was performed for 2.0 PV at a superficial velocity of 1 ft/day (~25 mL/h) as a tertiary EOR process (see Figure 11). Incremental oil recovery (%-points increase) was equal for the two foam floods (see Table 4), whereas significantly higher CO2-foam apparent viscosity was observed for gas fraction 0.70.</anchoringText>
+<label>Table 4</label>
+<caption>Experimental parameters for tertiary EOR at fg=0.70 and fg=0.80. Apparent viscosity is calculated from the average pressure gradient for the last 0.1 PV for the respective injection sequence (WF or co-injection) and the volume element exchange (VEE) is calculated as the ratio of volume element CO<sub>2</sub> stored to volume element oil recovered, at experimental conditions.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Experimental parameters for tertiary EOR at fg=0.70 and fg=0.80. Apparent viscosity is calculated from the average pressure gradient for the last 0.1 PV for the respective injection sequence (WF or co-injection) and the volume element exchange (VEE) is calculated as the ratio of volume element CO<sub>2</sub> stored to volume element oil recovered, at experimental conditions.</caption-text>
+</formatted-caption>
+<table id="102118190869MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Experiment ID</th>
+<th valign="bottom" align="center">R<sub>f.WF</sub> [% OOIP]</th>
+<th valign="bottom" align="center">R<sub>f.final</sub> [% OOIP]</th>
+<th valign="bottom" align="center">CO<sub>2</sub> stored [% PV]</th>
+<th valign="bottom" align="center">App.visc. WF [mPas]</th>
+<th valign="bottom" align="center">App.visc.foam [mPas]</th>
+<th valign="bottom" align="center">App.visc. increase</th>
+<th valign="bottom" align="center">VEE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center">f<sub>g</sub>=0.7</td>
+<td valign="bottom" align="center">31.2</td>
+<td valign="bottom" align="center">63.9</td>
+<td valign="bottom" align="center">63.2</td>
+<td valign="bottom" align="center">4.5</td>
+<td valign="bottom" align="center">39.1</td>
+<td valign="bottom" align="center">768 %</td>
+<td valign="bottom" align="center">3.1</td>
+</tr>
+<tr>
+<td valign="top" align="center">f<sub>g</sub>=0.8</td>
+<td valign="top" align="center">42.6</td>
+<td valign="top" align="center">75.2</td>
+<td valign="top" align="center">42.2</td>
+<td valign="top" align="center">2.5</td>
+<td valign="top" align="center">2.9</td>
+<td valign="top" align="center">14%</td>
+<td valign="top" align="center">1.9</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

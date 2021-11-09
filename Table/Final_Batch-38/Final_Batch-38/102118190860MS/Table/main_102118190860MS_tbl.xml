@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190860MS.txt" extractionDate="2021-03-27T19:54:19Z">
+<doi>10.2118/190860-MS</doi>
+<pii>10.2118/190860-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="30" table-order="1" data-type-order="39">
+<table-wrap id="102118190860MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Well shut-in simulations were performed using the wellbore hydraulic models following the 5-year production conditions. A well restart scenario was also included to see if any well trajectory would lead to a restart failure. Fig. 38 shows the liquid holdup distribution in the wellbore after shutting down the wells for 1 day. It shows there are liquid slugs in the lateral sections of the toe-down, hold-toe-down, and oscillating trajectories. These liquid slugs will arrive at the surface separator and will be a challenge to handle after the well is restarted. Table 1 shows the total liquid volume in the wellbore after 1 day of shutting in.</anchoringText>
+<label>Table 1</label>
+<caption>Total liquid volume in the wellbore after shut-in.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Total liquid volume in the wellbore after shut-in.</caption-text>
+</formatted-caption>
+<table id="102118190860MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Trajectory</th>
+<th valign="top" align="center">Total Liquid Volume (bbl)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Hold-Toe Down</td>
+<td valign="top" align="center">158.4</td>
+</tr>
+<tr>
+<td valign="top" align="center">Hold-Toe Up</td>
+<td valign="top" align="center">3.6</td>
+</tr>
+<tr>
+<td valign="top" align="center">Horizontal</td>
+<td valign="top" align="center">4.6</td>
+</tr>
+<tr>
+<td valign="top" align="center">Oscillating</td>
+<td valign="top" align="center">55.7</td>
+</tr>
+<tr>
+<td valign="top" align="center">Toe Down</td>
+<td valign="top" align="center">196.0</td>
+</tr>
+<tr>
+<td valign="top" align="center">Toe Up</td>
+<td valign="top" align="center">3.6</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

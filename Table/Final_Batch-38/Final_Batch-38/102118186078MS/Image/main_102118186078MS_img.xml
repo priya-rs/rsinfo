@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118186078MS.txt" extractionDate="2021-03-31T11:33:56Z">
+<doi>10.2118/186078-MS</doi>
+<pii>10.2118/186078-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr5">The field was discovered in 1969 with discovery from Well 1-A and followed by subsequent 15+ appraisal wells. The reservoir has been on early production scheme (EPS), followed by a phased development strategy to develop the field (Figure 1).</anchoringText>
+<image-wrap id="102118186078MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118186078MS_i_1.tif" id="ImgLink-1" />
+<caption>Depth structure contour, key wells location, and Phased development strategy</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Depth structure contour, key wells location, and Phased development strategy</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr6">The static related uncertainty is mainly resulted from the measurement error and lack of information between the wells. The main uncertainty parameters and their respective ranges were identified, selected, and analyzed using Experimental Design to generate a tornado plot which enables the selection of the most influential parameters on the objective function. The main static uncertainties identified from data analysis and interpretations are listed in the Table 1. The applied workflow to capture full spectrum of the static uncertainty is depicted in Figure 2.</anchoringText>
+<image-wrap id="102118186078MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118186078MS_i_2.tif" id="ImgLink-2" />
+<caption>Workflow used to capture full spectrum of the static uncertainty</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Workflow used to capture full spectrum of the static uncertainty</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr7">There is a large variety of contact observations. Uncertainty in the fluid contacts was established through a cross-disciplinary team effort. The input comprises log-observations, pressure data, and sampling or tested interval. The most likely values of the distributions were estimated using pressure data and oil-water gradients intersection. The shallowest tested oil was expected as low case, and the deepest oil gradient point which is equivalent to the spill point as the optimistic case (Figure 3).</anchoringText>
+<image-wrap id="102118186078MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118186078MS_i_3.tif" id="ImgLink-3" />
+<caption>Free water level definition as indicated from MDT and sampling result</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Free water level definition as indicated from MDT and sampling result</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr8">Kriging is used as the gridding algorithm with flexibility of incorporating anisotropy if deemed necessary. The final product will be error envelope map that is zero at well location and gradually increases away from the well. In addition, the error increases towards the flank and towards the area with no well control point (Figure 4).</anchoringText>
+<image-wrap id="102118186078MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118186078MS_i_4.tif" id="ImgLink-4" />
+<caption>Workflow for Structural Depth Uncertainty</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Workflow for Structural Depth Uncertainty</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr9">Saturation height model with utilization of core and logs data was used to provide an accurate water saturation distribution at well scale as well as at reservoir model scale. In order to solve this issue then MICP (mercury injected capillary pressure) - based saturation height functions (modified Leverett J-function) were created for each of the identified RRTs. Sw from log, well production testing data in reservoir interval is used to validate the water saturation of reservoir model. The low case and high cases functions were generated in way that capturing the MICP dataset (Figure 5).</anchoringText>
+<image-wrap id="102118186078MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118186078MS_i_5.tif" id="ImgLink-5" />
+<caption>SHF uncertainty as indicated from MICP dataset</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>SHF uncertainty as indicated from MICP dataset</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr10">Oil formation volume factor (Bo) uncertainty varies from 1.25 to 1.8 and it changes both laterally and vertically across the field. In addition, it could also be observed that at the same depth the Bo deviation is in the range of +/- 10%. The deviation seen from the dataset was then applied in the uncertainty modelling (Figure 6).</anchoringText>
+<image-wrap id="102118186078MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118186078MS_i_6.tif" id="ImgLink-6" />
+<caption>Formation volume factor distribution and deviation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Formation volume factor distribution and deviation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr11">Porosity modeling was generated using effective porosity log and utilized Sequential Gaussian Simulation (SGS) algorithm conditioned to the paleo-depth trend. Multi realizations were conducted by change the seed number and varied the horizontal variogram by +/− 1000 meter and varied the vertical variogram by+/− 3 feet (Figure 7).</anchoringText>
+<image-wrap id="102118186078MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118186078MS_i_7.tif" id="ImgLink-7" />
+<caption>Base case porosity variogram and multi realizations</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Base case porosity variogram and multi realizations</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr12">The estimated Oil Initially in Place (STOOIP) is ZZZ MMSTB (P50), with P90 and P10 values ranging between 75% and 130% of P50. The resulting volumetric ranges and impact of each uncertainty variables are shown in the Figure 8 below.</anchoringText>
+<image-wrap id="102118186078MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118186078MS_i_8.tif" id="ImgLink-8" />
+<caption>Tornado Chart (left) and Probabilistic STOIIP from Static Model (right)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Tornado Chart (left) and Probabilistic STOIIP from Static Model (right)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118186078MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118186078MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>Tornado Chart</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118186078MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118186078MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>Probabilistic STOIIP from Static Model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr13">A tornado chart (Figure 9) was created to evaluate the impact of each parameter on the Recovery Factor. This was achieved using the 2P Base Case dynamic model, which was simulated with the Phase I and II development scenarios (developed producing and developed non-producing category).</anchoringText>
+<image-wrap id="102118186078MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118186078MS_i_9.tif" id="ImgLink-9" />
+<caption>Dynamic uncertainties evaluation from Dynamic Model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Dynamic uncertainties evaluation from Dynamic Model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr14">The base case model history-match was checked against the choice of parameters defining the Low and High sensitivity cases. The match data available included: Well by well oil rates, water cuts, GOR, WHP, flowing and static Pressure, MDT profiles, Well saturation profiles derived from open or cased hole logs. The following plots show oil, GOR and %Wcut for the base history matched case, and for the High and Low cases. The parameters defining the Low and High cases are therefore deemed acceptable (Figure 10).</anchoringText>
+<image-wrap id="102118186078MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118186078MS_i_10.tif" id="ImgLink-10" />
+<caption>GOR and %Wcut Base Case (Most Likely) history-match results vs. Low and High case sensitivities</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>GOR and %Wcut Base Case (Most Likely) history-match results vs. Low and High case sensitivities</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118186078MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118186078MS_i_10a.tif" id="ImgLink-10a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>GOR</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118186078MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118186078MS_i_10b.tif" id="ImgLink-10b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>WCUT</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="11" data-type-order="13">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr15">The following Figure 11 illustrates the prediction sensitivities obtained with the Low, Base and High case models.</anchoringText>
+<image-wrap id="102118186078MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118186078MS_i_11.tif" id="ImgLink-11" />
+<caption>NFA- (Phase I/II) + Phase III Development + Phase IV</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>NFA- (Phase I/II) + Phase III Development + Phase IV</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

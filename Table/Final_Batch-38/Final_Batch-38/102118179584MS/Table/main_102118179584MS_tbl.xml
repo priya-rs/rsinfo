@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118179584MS.txt" extractionDate="2021-03-22T16:39:35Z">
+<doi>10.2118/179584-MS</doi>
+<pii>10.2118/179584-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="3" table-order="1" data-type-order="1">
+<table-wrap id="102118179584MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Three different types of foaming agents were chosen through preliminary screening, which included nonionic, anionic and anionic-nonionic surfactants. They were investigated using various assessment methods at different concentrations. A Spinning Drop Interface Tension meter TX-500C (CNG Company, USA) and a foam meter device (FOAMSCAN, TECLIS Instruments Company, France) were used in the experiments. The experimental results are described in Table 1.</anchoringText>
+<label>Table 1</label>
+<caption>Performance of the foaming agents tested in the experiments</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Performance of the foaming agents tested in the experiments</caption-text>
+</formatted-caption>
+<table id="102118179584MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Foaming Agents</th>
+<th valign="top" align="center">Concentration/wt%</th>
+<th valign="top" align="center">IFT/mN/m</th>
+<th valign="top" align="center">Foam half-life/s</th>
+<th valign="top" align="center">Discharge half-life/s</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">FS-1(a nonionic surfactant)</td>
+<td valign="top" align="center">0.1</td>
+<td valign="top" align="center">1.7896</td>
+<td valign="top" align="center">586</td>
+<td valign="top" align="center">336</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="center">0.3</td>
+<td valign="top" align="center">0.9563</td>
+<td valign="top" align="center">895</td>
+<td valign="top" align="center">389</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="center">0.5</td>
+<td valign="top" align="center">0.9836</td>
+<td valign="top" align="center">1229</td>
+<td valign="top" align="center">412</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="center">0.8</td>
+<td valign="top" align="center">0.8197</td>
+<td valign="top" align="center">1295</td>
+<td valign="top" align="center">435</td>
+</tr>
+<tr>
+<td valign="top" align="left">FS-2 (an anionic surfactant)</td>
+<td valign="top" align="center">0.1</td>
+<td valign="top" align="center">0.7582</td>
+<td valign="top" align="center">2539</td>
+<td valign="top" align="center">307</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="center">0.3</td>
+<td valign="top" align="center">0.4712</td>
+<td valign="top" align="center">3686</td>
+<td valign="top" align="center">365</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="center">0.5</td>
+<td valign="top" align="center">0.3343</td>
+<td valign="top" align="center">3969</td>
+<td valign="top" align="center">389</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="center">0.8</td>
+<td valign="top" align="center">0.3277</td>
+<td valign="top" align="center">4028</td>
+<td valign="top" align="center">394</td>
+</tr>
+<tr>
+<td valign="top" align="left">FS-3 (an anionic-nonionic surfactant)</td>
+<td valign="top" align="center">0.1</td>
+<td valign="top" align="center">0.709</td>
+<td valign="top" align="center">2743</td>
+<td valign="top" align="center">336</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="center">0.3</td>
+<td valign="top" align="center">0.403</td>
+<td valign="top" align="center">3903</td>
+<td valign="top" align="center">446</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="center">0.5</td>
+<td valign="top" align="center">0.3101</td>
+<td valign="top" align="center">4187</td>
+<td valign="top" align="center">511</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="center">0.8</td>
+<td valign="top" align="center">0.3029</td>
+<td valign="top" align="center">4262</td>
+<td valign="top" align="center">524</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="4" table-order="2" data-type-order="3">
+<table-wrap id="102118179584MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">A sandpack flooding set-up was used in the experiments as shown in Figure 1. To evaluate the blocking capacity of foams, only formation water (salinity of 15,000 -30,000 mg/L) was saturated in the sandpack tubes. Pressure drops across the sandpack were measured during water and foam injection for FR against water flooding. The detailed experimental conditions applied in the sandpack flooding are shown in Table 2.</anchoringText>
+<label>Table 2</label>
+<caption>Experimental conditions of sandpack flooding</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Experimental conditions of sandpack flooding</caption-text>
+</formatted-caption>
+<table id="102118179584MS-Tbl_SPi-2" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="left">Temperature</td>
+<td valign="top" align="center">65 °C</td>
+</tr>
+<tr>
+<td valign="top" align="left">Sandpack tube permeability</td>
+<td valign="top" align="center">2 <i>μ</i>
+<sup>2</sup> (D)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Concentration of foaming agent</td>
+<td valign="top" align="center">0.25%, 0.5%, 0.75% and 1.0%</td>
+</tr>
+<tr>
+<td valign="top" align="left">Gas/liquid ratio</td>
+<td valign="top" align="center">1:1</td>
+</tr>
+<tr>
+<td valign="top" align="left">Injecting rate</td>
+<td valign="top" align="center">3 mL/min</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil viscosity (at 65 °C)</td>
+<td valign="top" align="center">700 mPa.s</td>
+</tr>
+<tr>
+<td valign="top" align="left">Back pressure</td>
+<td valign="top" align="center">2.0 MPa</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="4" table-order="3" data-type-order="4">
+<table-wrap id="102118179584MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Table 3 illustrates the measured and calculated resistance factors when different concentrations of the Enhanced-V foam agent were tested in the sandpack flooding. It can be observed that the foam’s blockage capability increases with the concentration of the foam agent, and the optimized concentration was determined as 0.5% in consideration of economic benefits.</anchoringText>
+<label>Table 3</label>
+<caption>Measured resistance factors in foam flooding testing</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Measured resistance factors in foam flooding testing</caption-text>
+</formatted-caption>
+<table id="102118179584MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Concentration of Enhanced-V/wt%</th>
+<th valign="top" align="center">Resistance factor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">0.25</td>
+<td valign="top" align="center">17.1</td>
+</tr>
+<tr>
+<td valign="top" align="center">0.5</td>
+<td valign="top" align="center">24.2</td>
+</tr>
+<tr>
+<td valign="top" align="center">0.75</td>
+<td valign="top" align="center">24.3</td>
+</tr>
+<tr>
+<td valign="top" align="center">1.0</td>
+<td valign="top" align="center">24.6</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="5" table-order="4" data-type-order="5">
+<table-wrap id="102118179584MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">In the sandpack flooding experiments, sandpack models with similar porosity and permeability of the targeted reservoir were used. The sandpack tube was first saturated with formation water, and then crude oil was injected to displace water for oil saturation until no water was produced. The experimental conditions are described in Table 4.</anchoringText>
+<label>Table 4</label>
+<caption>Experimental conditions of the single sandpack flooding experiments</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Experimental conditions of the single sandpack flooding experiments</caption-text>
+</formatted-caption>
+<table id="102118179584MS-Tbl_SPi-4" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="left">Temperature</td>
+<td valign="top" align="center">65 °C</td>
+</tr>
+<tr>
+<td valign="top" align="left">Sandpack tube permeability</td>
+<td valign="top" align="center">2 <i>μ</i>
+<sup>2</sup> (D)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil saturation</td>
+<td valign="top" align="center">89%</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil viscosity (at 65°C)</td>
+<td valign="top" align="center">700 mPa.s</td>
+</tr>
+<tr>
+<td valign="top" align="left">Concentration of foaming agent</td>
+<td valign="top" align="center">0.5%</td>
+</tr>
+<tr>
+<td valign="top" align="left">Gas/liquid ratio</td>
+<td valign="top" align="center">1:1</td>
+</tr>
+<tr>
+<td valign="top" align="left">Injecting rate</td>
+<td valign="top" align="center">3 mL/min</td>
+</tr>
+<tr>
+<td valign="top" align="left">Back pressure</td>
+<td valign="top" align="center">2.0 MPa</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="5" data-type-order="9">
+<table-wrap id="102118179584MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">The schematic diagram of the three parallel tubes (sandpack) model is shown in Figure 4, which was used to simulate the effect of reservoir heterogeneity on water and foam flooding. The three tubes were packed with different sands and connected in parallel to simulate the interlayer heterogeneity of the real reservoir. The conformance control capability of foams can be tested in the experiments, and the experimental conditions is described in Table 5.</anchoringText>
+<label>Table 5</label>
+<caption>Experimental conditions for foam flooding applied in the parallel tubes</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Experimental conditions for foam flooding applied in the parallel tubes</caption-text>
+</formatted-caption>
+<table id="102118179584MS-Tbl_SPi-5" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="left">Temperature</td>
+<td valign="top" align="center">65 °C</td>
+</tr>
+<tr>
+<td valign="top" align="left">Sandpack tubes permeability</td>
+<td valign="top" align="center">0.5, 2 and 10 <i>μ</i>m<sup>2</sup> (D)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil saturation</td>
+<td valign="top" align="center">89%</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil viscosity (at 65°C)</td>
+<td valign="top" align="center">700 mPa.s</td>
+</tr>
+<tr>
+<td valign="top" align="left">Concentration of foaming agent</td>
+<td valign="top" align="center">0.5%</td>
+</tr>
+<tr>
+<td valign="top" align="left">Gas/liquid ratio</td>
+<td valign="top" align="center">1:1</td>
+</tr>
+<tr>
+<td valign="top" align="left">Injecting rate</td>
+<td valign="top" align="center">9 mL/min</td>
+</tr>
+<tr>
+<td valign="top" align="left">Back pressure</td>
+<td valign="top" align="center">2.0 MPa</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="6" data-type-order="10">
+<table-wrap id="102118179584MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6">The foams generated using the anionic-nonionic foam agent (FS-3) with and without polymer enhancement were tested and compared in the experiments. The experimental schemes using water alternating foam slugs (WAF) are described in Table 6.</anchoringText>
+<label>Table 6</label>
+<caption>The experimental schemes for foam flooding in the parallel tubes model</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>6</caption-order>
+<caption-text>The experimental schemes for foam flooding in the parallel tubes model</caption-text>
+</formatted-caption>
+<table id="102118179584MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Test No.</th>
+<th valign="top" align="center">Testing scheme</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">1</td>
+<td valign="top" align="left">3PV water + 1PVFS-3 foam +3PV water + 1PVFS-3 foam + 3PV water + 1PVFS-3 foam</td>
+</tr>
+<tr>
+<td valign="top" align="center">2</td>
+<td valign="top" align="left">3PV water + 1PV Enhanced- V foam + 3PV water + 1PV Enhanced- V foam + 3PV water + 1PV Enhanced-V foam</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="9" table-order="7" data-type-order="14">
+<table-wrap id="102118179584MS-tblwrp-7" content-type="structured">
+<anchoringText id="Ancr7">A high gas/liquid ratio cannot form a stable foam, and a low one may fail to generate sufficient foams. An optimized gas/liquid ratio for a specified foam agent and gas system needs to be determined via foam flooding experiments. The Enhanced-V foam system was tested using the three sandpack tubes with different gas/liquid ratios. The experimental schemes are shown in Table 7.</anchoringText>
+<label>Table 7</label>
+<caption>Experimental schemes used for gas/liquid ratio testing</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Experimental schemes used for gas/liquid ratio testing</caption-text>
+</formatted-caption>
+<table id="102118179584MS-Tbl_SPi-7" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Test NO</th>
+<th valign="top" align="center">Scheme</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">1</td>
+<td valign="top" align="left">3PV water + 3PV Enhanced-V(gas/liquid ratio 1:2)+ 3PV water</td>
+</tr>
+<tr>
+<td valign="top" align="center">2</td>
+<td valign="top" align="left">3PV water + 3PV Enhanced-V ( gas/liquid ratio 1:1)+ 3PV water</td>
+</tr>
+<tr>
+<td valign="top" align="center">3</td>
+<td valign="top" align="left">3PV water + 3PV Enhanced-V ( gas/liquid ratio 2:1)+ 3PV water</td>
+</tr>
+<tr>
+<td valign="top" align="center">4</td>
+<td valign="top" align="left">3PV water + 3PV Enhanced-V ( gas/liquid ratio 3:1)+ 3PV water</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="12" table-order="8" data-type-order="19">
+<table-wrap id="102118179584MS-tblwrp-8" content-type="structured">
+<anchoringText id="Ancr8">The average concentration of the foaming agents (enhanced with polymer) was around 0.6% and the average gas/liquid ratio used was of 1:1. The performance of typical production wells in terms of water cut is shown in Table 8. The reduction of water cut for single wells ranged from 2.4% to 10.2% after foam injection, which indicated that the injection of nitrogen foam can effectively block the high permeability zones and has a positive effect on reducing water coning.</anchoringText>
+<label>Table 8</label>
+<caption>Water cut of typical producers before and after foam injection during pilot testing</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Water cut of typical producers before and after foam injection during pilot testing</caption-text>
+</formatted-caption>
+<table id="102118179584MS-Tbl_SPi-8" frame="hsides">
+<thead>
+<tr>
+<th colspan="3" valign="top" align="center" />
+<th valign="top" align="center">Before foam injection</th>
+<th valign="top" align="center">After foam injection</th>
+</tr>
+<tr>
+<th colspan="2" valign="top" align="center">Foam injection wells F17 and F26</th>
+<th valign="top" align="center">Production wells</th>
+<th valign="top" align="center">Water cut/%</th>
+<th valign="top" align="center">Water cut/%</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Injection mode</td>
+<td valign="top" align="center">FAW (17 foam slugs)</td>
+<td valign="top" align="center">F16</td>
+<td valign="top" align="center">37.8</td>
+<td valign="top" align="center">35.4</td>
+</tr>
+<tr>
+<td valign="top" align="left">Foaming agent concentration</td>
+<td valign="top" align="center">0.6%</td>
+<td valign="top" align="center">F23</td>
+<td valign="top" align="center">80</td>
+<td valign="top" align="center">74.6</td>
+</tr>
+<tr>
+<td valign="top" align="left">Gas/liquid ratio</td>
+<td valign="top" align="center">1: 1</td>
+<td valign="top" align="center">F25</td>
+<td valign="top" align="center">88</td>
+<td valign="top" align="center">79.3</td>
+</tr>
+<tr>
+<td valign="top" align="left">Injected nitrogen/Nm<sup>3</sup>
+</td>
+<td valign="top" align="center">3.16 × 10<sup>6</sup>
+</td>
+<td valign="top" align="center">F31</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">79.8</td>
+</tr>
+<tr>
+<td valign="top" align="left">Injected foam agent/t</td>
+<td valign="top" align="center">285</td>
+<td valign="top" align="center">F18</td>
+<td valign="top" align="center">88</td>
+<td valign="top" align="center">84.4</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="12" table-order="9" data-type-order="20">
+<table-wrap id="102118179584MS-tblwrp-9" content-type="structured">
+<anchoringText id="Ancr9">It has been observed that, after foam application, the injection pressure was effectively increased and nearly all producers had a good response on oil production, of which each production well (F18, F23, F25, F31 and F32) produced over 2500 m3 incremental oil (as shown in Table 9), and nearly 30000 m3 of incremental oil was produced in the pilot region in total.</anchoringText>
+<label>Table 9</label>
+<caption>Incremental oil data of some producers</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Incremental oil data of some producers</caption-text>
+</formatted-caption>
+<table id="102118179584MS-Tbl_SPi-9" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" valign="top" align="center">Oil production rate before foam injection</th>
+<th rowspan="2" valign="top" align="center">Oil production rate after foam injection m<sup>3</sup>/d</th>
+<th rowspan="2" valign="top" align="center">Incremental oil in total/m<sup>3</sup>
+</th>
+</tr>
+<tr>
+<th valign="top" align="center">Wells</th>
+<th valign="top" align="center">m<sup>3</sup>/d</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">F18</td>
+<td valign="top" align="center">12</td>
+<td valign="top" align="center">19.7</td>
+<td valign="top" align="center">2529</td>
+</tr>
+<tr>
+<td valign="top" align="left">F23</td>
+<td valign="top" align="center">29</td>
+<td valign="top" align="center">38.8</td>
+<td valign="top" align="center">3097</td>
+</tr>
+<tr>
+<td valign="top" align="left">F25</td>
+<td valign="top" align="center">15</td>
+<td valign="top" align="center">25.2</td>
+<td valign="top" align="center">2725</td>
+</tr>
+<tr>
+<td valign="top" align="left">F31</td>
+<td valign="top" align="center">9</td>
+<td valign="top" align="center">24</td>
+<td valign="top" align="center">2507</td>
+</tr>
+<tr>
+<td valign="top" align="left">F32</td>
+<td valign="top" align="center">99</td>
+<td valign="top" align="center">127.7</td>
+<td valign="top" align="center">2759</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

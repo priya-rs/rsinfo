@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118186078MS.txt" extractionDate="2021-03-31T11:33:56Z">
+<doi>10.2118/186078-MS</doi>
+<pii>10.2118/186078-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="4" table-order="1" data-type-order="3">
+<table-wrap id="102118186078MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The static related uncertainty is mainly resulted from the measurement error and lack of information between the wells. The main uncertainty parameters and their respective ranges were identified, selected, and analyzed using Experimental Design to generate a tornado plot which enables the selection of the most influential parameters on the objective function. The main static uncertainties identified from data analysis and interpretations are listed in the Table 1. The applied workflow to capture full spectrum of the static uncertainty is depicted in Figure 2.</anchoringText>
+<label>Table 1</label>
+<caption>Base case parameters and ranges for static uncertainties</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Base case parameters and ranges for static uncertainties</caption-text>
+</formatted-caption>
+<table id="102118186078MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th align="center">Uncertainty</th>
+<th align="center">Low case</th>
+<th align="center">Base case</th>
+<th align="center">High Case</th>
+<th align="center">Remarks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">
+<b>FWL</b>
+</td>
+<td align="center">xx450’ ss</td>
+<td align="center">
+<b>xx485’ ss</b>
+</td>
+<td align="center">xx508’ ss</td>
+<td align="left">Based on logs observation, MDT &amp; Prod. Test</td>
+</tr>
+<tr>
+<td align="center">
+<b>Structure</b>
+</td>
+<td align="center">Seismic uncertainty envelope. Zero at well, 55 ft on flank</td>
+<td align="center">
+<b>Base Case</b>
+</td>
+<td align="center">Seismic uncertainty envelope. Zero at well, +55 ft on flank</td>
+<td align="left">Based on seismic velocity uncertainty and horizon simulation</td>
+</tr>
+<tr>
+<td align="center">
+<b>SHF</b>
+</td>
+<td align="center">Min f(x)</td>
+<td align="center">
+<b>Base f(x)</b>
+</td>
+<td align="center">Max f(x)</td>
+<td align="left">SHF-Rock binning</td>
+</tr>
+<tr>
+<td align="center">
+<b>FVF</b>
+</td>
+<td align="center">BC * 1.11</td>
+<td align="center">
+<b>1.25 – 1.80 varied along depth</b>
+</td>
+<td align="center">BC * 0.89</td>
+<td align="left">Based on available PVT results. 0.89 and 1.11 are the deviation seen from data points</td>
+</tr>
+<tr>
+<td align="center">
+<b>Porosity (seed, var. range)</b>
+</td>
+<td align="center">BC – 1000 m</td>
+<td align="center">
+<b>Base Case</b>
+</td>
+<td align="center">BC + 1000 m</td>
+<td align="left">Sensitivity on variogram analysis</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="10" table-order="2" data-type-order="10">
+<table-wrap id="102118186078MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The main dynamic uncertainties identified from data analysis and interpretations are listed in the Table 2 below.</anchoringText>
+<label>Table 2</label>
+<caption>Base case parameters and ranges for dynamic uncertainties</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Base case parameters and ranges for dynamic uncertainties</caption-text>
+</formatted-caption>
+<table id="102118186078MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Uncertain Parameter</th>
+<th valign="top" align="center">Low case</th>
+<th valign="top" align="center">Base case</th>
+<th valign="top" align="center">High Case</th>
+<th valign="top" align="center">Remarks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">
+<b>Relative permeability</b>
+</td>
+<td valign="top" align="left">Corey exponent changed Now/Nw 3.6/1.5 Sorw 0.4</td>
+<td valign="top" align="left">
+<b>3 sets of relative permeability tables based on Rock typing Now/Nw 2.8/2.25 Sorw 0.2</b>
+</td>
+<td valign="top" align="left">Corey exponent changed Now/Nw 2.0/3.0 Sorw 0.3</td>
+<td valign="top" align="left">Base case Nw &amp; No increased/decreased for low and high case based on Gate-5 uncertainties and results</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Dense layer communication</b>
+</td>
+<td valign="top" align="left">No communication across dense layer</td>
+<td valign="top" align="left">
+<b>Very low communication across dense layer</b>
+</td>
+<td valign="top" align="left">Full communicating</td>
+<td valign="top" align="left">Dense layer communication between BII porous and BIII Upper. Sensitivities compatible with the history match of the Base case</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Kv/Kh</b>
+</td>
+<td valign="top" align="left">1</td>
+<td valign="top" align="left">
+<b>0.85</b>
+</td>
+<td valign="top" align="left">0.5</td>
+<td valign="top" align="left">High vertical transmissibility’s has positive impact in recovering higher volumes compare to the base case. The variation has been within the available SCAL data</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="12" table-order="3" data-type-order="14">
+<table-wrap id="102118186078MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">The prediction profiles obtained with the simulation model had to be extrapolated to 2150 prior to defining economic cutoffs (for reserves category). The Recovery Factors obtained in the different development scenarios (running the Base Case model with the Low, Base and High parameters assumptions) are given in the following Table 3.</anchoringText>
+<label>Table 3</label>
+<caption>Recovery factors obtained with the Low, Base, High sensitivities on Base case model</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Recovery factors obtained with the Low, Base, High sensitivities on Base case model</caption-text>
+</formatted-caption>
+<table id="102118186078MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Development Case</th>
+<th valign="top" align="center">Low</th>
+<th valign="top" align="center">Base</th>
+<th valign="top" align="center">High</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">
+<b>Phase I/II (NFA)</b>
+</td>
+<td valign="top" align="center">9%</td>
+<td valign="top" align="center">10%</td>
+<td valign="top" align="center">13%</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Phase III</b>
+</td>
+<td valign="top" align="center">33%</td>
+<td valign="top" align="center">39%</td>
+<td valign="top" align="center">46%</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Phase IV</b>
+</td>
+<td valign="top" align="center">35%</td>
+<td valign="top" align="center">42%</td>
+<td valign="top" align="center">50%</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Phase V</b>
+</td>
+<td valign="top" align="center">44%</td>
+<td valign="top" align="center">52%</td>
+<td valign="top" align="center">61%</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Phase VI</b>
+</td>
+<td valign="top" align="center">54%</td>
+<td valign="top" align="center">64%</td>
+<td valign="top" align="center">75%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="13" table-order="4" data-type-order="15">
+<table-wrap id="102118186078MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">The long term field development plan and the estimated recovery factor from reservoir simulation are summarized in Table 4 below.</anchoringText>
+<label>Table 4</label>
+<caption>The long term field development plan and the estimated recovery factor</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>The long term field development plan and the estimated recovery factor</caption-text>
+</formatted-caption>
+<table id="102118186078MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" align="center">Category</th>
+<th rowspan="2" align="center">Project</th>
+<th colspan="3" align="center">Cumulative Recovery Factor</th>
+<th rowspan="2" align="center">Remarks</th>
+</tr>
+<tr>
+<th align="center">Low case (1P)</th>
+<th align="center">Base Case (2P)</th>
+<th align="center">High Case (3P)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3" align="center">
+<b>Reserves (Developed)</b>
+</td>
+<td align="center">Phase I/II (NFA)</td>
+<td align="center">14%</td>
+<td align="center">
+<b>14%</b>
+</td>
+<td align="center">13%</td>
+<td align="center">Existing wells are on production</td>
+</tr>
+<tr>
+<td align="center">Phase III</td>
+<td align="center">42%</td>
+<td align="center">
+<b>43%</b>
+</td>
+<td align="center">42%</td>
+<td align="center">Almost 100 wells had been drilled and waiting to be commissioned</td>
+</tr>
+<tr>
+<td align="center">Phase IV</td>
+<td align="center">45%</td>
+<td align="center">
+<b>46%</b>
+</td>
+<td align="center">45%</td>
+<td align="center">All wells drilled and waiting to be tie-in</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">
+<b>Resources (Contingent)</b>
+</td>
+<td align="center">Phase V</td>
+<td align="center">55%</td>
+<td align="center">
+<b>56%</b>
+</td>
+<td align="center">55%</td>
+<td align="center">–</td>
+</tr>
+<tr>
+<td align="center">Phase VI</td>
+<td align="center">67%</td>
+<td align="center">
+<b>69%</b>
+</td>
+<td align="center">67%</td>
+<td align="center">–</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

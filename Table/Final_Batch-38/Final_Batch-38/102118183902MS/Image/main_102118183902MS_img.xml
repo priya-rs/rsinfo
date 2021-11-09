@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118183902MS.txt" extractionDate="2021-03-25T10:39:13Z">
+<doi>10.2118/183902-MS</doi>
+<pii>10.2118/183902-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr4">In multiple reservoir full-field models, the pressure response in the inter-reservoir regions of the aquifer can be important to correctly model the influence of production operations in nearby areas. Figure 1 illustrates a reservoir model with reservoir region in the middle, boundary aquifer surrounding the reservoir and bottom aquifer beneath the reservoir. While coarsening, grids are typically in these field-scale models, the percentage of aquifer cells can be significant, especially for large field models involving multiple reservoirs.</anchoringText>
+<image-wrap id="102118183902MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118183902MS_i_1.tif" id="ImgLink-1" />
+<caption>A 3D view of a simulation model indicating a hydrocarbon reservoir region surrounded by a peripheral aquifer region.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>A 3D view of a simulation model indicating a hydrocarbon reservoir region surrounded by a peripheral aquifer region.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="7" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr5">We use a test case to illustrate how the parallelization scheme works. Figure 2a illustrates the areal view of the simulation model, where the hydrocarbon region is located in the center and surrounded by a peripheral aquifer. The model size is 1.8 million (105*160*111) with uniform grid of 250 m with all the cells being active.</anchoringText>
+<image-wrap id="102118183902MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118183902MS_i_2.tif" id="ImgLink-2" />
+<caption>Load and memory balance for the fine-grid case: (a) Areal view of the simulation model; (b) 100 MPI partitions flagged by different colors.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Load and memory balance for the fine-grid case: (a) Areal view of the simulation model; (b) 100 MPI partitions flagged by different colors.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118183902MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Areal view of the simulation model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118183902MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>100 MPI partitions flagged by different colors</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr6">The MPI partitions for the accelerated aquifer model are illustrated in Fig. 3a the hydrocarbon region is inside the black oval. Clearly the area size of the MPI partitions in the aquifer region is much larger than that in the hydrocarbon region. As all of the grid cells are active for this test case, the area size of the MPI partition indicates the memory requirement for the subdomains. The top five subdomains with most memory requirements are labeled with numbers in this figure. Figure 3b shows the nodal assignment of subdomains where the same color indicates subdomains belonging to the same node.</anchoringText>
+<image-wrap id="102118183902MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118183902MS_i_3.tif" id="ImgLink-3" />
+<caption>Load and memory balance for the aquifer accelerated case: (a) 100 MPI partitions flagged by different colors, the top five subdomains with largest memory requirement are tagged by number in sequence; (b) Subdomains allocated to the five compute nodes are flagged with different colors.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Load and memory balance for the aquifer accelerated case: (a) 100 MPI partitions flagged by different colors, the top five subdomains with largest memory requirement are tagged by number in sequence; (b) Subdomains allocated to the five compute nodes are flagged with different colors.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118183902MS_i_3a.tif" id="ImgLink-3a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>100 MPI partitions flagged by different colors, the top five subdomains with largest memory requirement are tagged by number in sequence</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118183902MS_i_3b.tif" id="ImgLink-3b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>Subdomains allocated to the five compute nodes are flagged with different colors</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr7">The first test case is a 76 million grid cell (150*600*847) three-phase black oil reservoir model with 18.4 million active cells. The model has 377 wells. The simulation run was for a 65-year period of history matches. The reservoir model has around 55% of the active cells being aquifer cells as shown in Fig. 4a. A picture of the reservoir model permeability field is shown in Fig. 4b, which is highly heterogeneous.</anchoringText>
+<image-wrap id="102118183902MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118183902MS_i_4.tif" id="ImgLink-4" />
+<caption>Test case 1: (a) Areal view of the simulation model indicating reservoir and aquifer regions; (b) A layer permeability map</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Test case 1: (a) Areal view of the simulation model indicating reservoir and aquifer regions; (b) A layer permeability map</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118183902MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Areal view of the simulation model indicating reservoir and aquifer regions</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118183902MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>A layer permeability map</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr8">The reservoir model has multiple productive horizons as indicated in Fig. 5. In the snapshot, there are three hydrocarbon-bearing horizons separated by two impermeable barriers.</anchoringText>
+<image-wrap id="102118183902MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118183902MS_i_5.tif" id="ImgLink-5" />
+<caption>A cross-sectional view of the simulation model, where the blue indicate barriers</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>A cross-sectional view of the simulation model, where the blue indicate barriers</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr9">There is a small bottom aquifer for this stack reservoir model, therefore we apply the aquifer acceleration method only to the peripheral aquifer region. After the vertical coarsening of the simulation model, the number of active cells was reduced from 18.4 million cells to 8.21 million cells. Figure 6a shows a cross section of the grid cell status, where green are active cells, blue are inactive cells because porosity was below dead-cell threshold, and red are VE aquifer cells.</anchoringText>
+<image-wrap id="102118183902MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118183902MS_i_6.tif" id="ImgLink-6" />
+<caption>A cross-section view of the reservoir model: (a) Cell status for where green are the active grids, blue are inactive cells and red are aquifer VE inactive cells, and (b) Pressure field.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>A cross-section view of the reservoir model: (a) Cell status for where green are the active grids, blue are inactive cells and red are aquifer VE inactive cells, and (b) Pressure field.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118183902MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Cell status for where green are the active grids, blue are inactive cells and red are aquifer VE inactive cells</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118183902MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>Pressure field</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="11" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr10">Table 1 shows the comparison for the simulation run time and speedup factor using 25 nodes (500 cores) where the run time was reduced significantly for the MTL-MG method with boundary coarsening. Figure 7 compares pressure, oil and gas production, and water cuts. The boundary MTL-MG method essentially overlays the results of the original fine-grid model but at the fraction of the computational cost.</anchoringText>
+<image-wrap id="102118183902MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118183902MS_i_7.tif" id="ImgLink-7" />
+<caption>Test case 1: Comparison of simulation results between the aquifer acceleration method method and the original fine-grid base case.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Test case 1: Comparison of simulation results between the aquifer acceleration method method and the original fine-grid base case.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118183902MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Average Pressure</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118183902MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Oil Production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-7c">
+<imageLink type="mediaResource" href="102118183902MS_i_7c.tif" id="ImgLink-7c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Water Cut</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-7d">
+<imageLink type="mediaResource" href="102118183902MS_i_7d.tif" id="ImgLink-7d" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Gas Production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr11">The second test case is a 50 million grid cell (214*590*396) three-phase black oil reservoir model with more than 100 faults and 44 million active cells. The model has 2,037 wells and seven equilibrium regions with two oil-water contacts are tilted surfaces. We run the model for 65-year period of history. Over 50% of the active cells are aquifer cells, Fig. 8a. The permeability is highly heterogeneous as illustrated in Fig. 8b.</anchoringText>
+<image-wrap id="102118183902MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118183902MS_i_8.tif" id="ImgLink-8" />
+<caption>Test case 2: (a) Areal view of the simulation model showing reservoir and aquifer regions; (b) A layer permeability field.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Test case 2: (a) Areal view of the simulation model showing reservoir and aquifer regions; (b) A layer permeability field.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118183902MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Areal view of the simulation model showing reservoir and aquifer regions</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118183902MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>A layer permeability field</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="12" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr12">The number of active cells reduced to 23.7 million after applying the vertical coarsening to the peripheral aquifer and 17 million active cells for both peripheral and bottom aquifer coarsening. Table 2 compares the simulation run time and speedup factor using 50 nodes (1,000 cores). Figure 9 shows the results comparison of the average pressure, production rates, and water cuts. The results shows a nearly perfect match of the MTL-MG method with the original base case.</anchoringText>
+<image-wrap id="102118183902MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118183902MS_i_9.tif" id="ImgLink-9" />
+<caption>Test case 2: Comparison of simulation results between the aquifer acceleration method and the original fine-grid base case.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Test case 2: Comparison of simulation results between the aquifer acceleration method and the original fine-grid base case.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118183902MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Average Pressure</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118183902MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Oil Production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-9c">
+<imageLink type="mediaResource" href="102118183902MS_i_9c.tif" id="ImgLink-9c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Water Cut</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-9d">
+<imageLink type="mediaResource" href="102118183902MS_i_9d.tif" id="ImgLink-9d" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Gas Production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="12" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr13">The third test case is a 6.2 million grid-cell (199*1188*26) DPDP three-phase nine component compositional reservoir model. There are 5.94 million active cells, consisting of 0.19 million active fracture cells and 5.75 million active matrix cells. The model has 557 horizontal wells. We run the model for 8 years of history match. Approximately 46% of the active cells are aquifer cells. There is a large gas cap as illustrated in Fig. 10a and Fig. 10b shows the reservoir surrounded by peripheral aquifers of the same layer as Fig. 10a.</anchoringText>
+<image-wrap id="102118183902MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118183902MS_i_10.tif" id="ImgLink-10" />
+<caption>Test case 3: (a) A layer gas saturation; (b) A layer oil saturation; and (c) A layer permeability field.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Test case 3: (a) A layer gas saturation; (b) A layer oil saturation; and (c) A layer permeability field.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118183902MS_i_10a.tif" id="ImgLink-10a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>A layer gas saturation</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118183902MS_i_10b.tif" id="ImgLink-10b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>A layer oil saturation</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-10c">
+<imageLink type="mediaResource" href="102118183902MS_i_10c.tif" id="ImgLink-10c" />
+<figure-specific-caption>
+<caption-order>(c)</caption-order>
+<caption-text>A layer permeability field</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="13" figure-order="11" data-type-order="14">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr14">The number of active cells was reduced to 4.75 million after applying vertical coarsening to the peripheral aquifer and to 3.68 million active cells after applying the coarsening to the bottom aquifer. Table 3 shows the runtime and speedup factor comparisons between the base fine-grid run and accelerated aquifer run using 40 compute nodes (800 cores). Figure 11 shows the results comparing of average pressure, production rates, and water cuts of aquifer acceleration methods against the fine-grid base case. Again nearly identical results were achieved with a 40% saving in computational cost.</anchoringText>
+<image-wrap id="102118183902MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118183902MS_i_11.tif" id="ImgLink-11" />
+<caption>Test case 3: Comparison of simulation results between the aquifer acceleration method and the original fine-grid base case.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Test case 3: Comparison of simulation results between the aquifer acceleration method and the original fine-grid base case.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118183902MS_i_11a.tif" id="ImgLink-11a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Average Pressure</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118183902MS_i_11b.tif" id="ImgLink-11b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Oil Production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-11c">
+<imageLink type="mediaResource" href="102118183902MS_i_11c.tif" id="ImgLink-11c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Water Cut</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183902MS-Img_SPi-11d">
+<imageLink type="mediaResource" href="102118183902MS_i_11d.tif" id="ImgLink-11d" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Gas Production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

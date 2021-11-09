@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118179161MS.txt" extractionDate="2021-03-18T16:05:06Z">
+<doi>10.2118/179161-MS</doi>
+<pii>10.2118/179161-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">Once the stimulation treatment is completed, and injection stops, a temperature log can be run across the treated formations in multiple passes, and the temperature decay profile will provide an indication of which zones received fluid (Fig. 1). While temperature surveys provide a reliable and low cost estimate of which formations took fluid, and perhaps the fracture height (in a vertical well), they do not directly indicate which perforations received proppant, nor the propped height of the fracture treatment. Proppant detection tracers can accomplish some of this, and will be discussed later in the paper.</anchoringText>
+<image-wrap id="102118179161MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118179161MS_i_1.tif" id="ImgLink-1" />
+<caption>Example of standard temperature log response [adapted from <link href="BIB1">Agnew 1966</link> ]. Taken from “Hydraulic Fracturing”, M.B. Smith and C.T. Montgomery, CRC Press, 2015, p 478.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Example of standard temperature log response [adapted from <link href="BIB1">Agnew 1966</link> ]. Taken from “Hydraulic Fracturing”, M.B. Smith and C.T. Montgomery, CRC Press, 2015, p 478.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-19" type="bib">
+<bib id="BIB1">
+<label>Agnew, 1966</label>
+<author>
+<first-name>B.</first-name>
+<last-name>Agnew</last-name>
+</author>
+<pubDate>1966</pubDate>. <article-title>Evaluation of Fracture Treatments With Temperature Surveys. Journal of Petroleum Technology (18): 892–898 </article-title>. SPE-1287.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">The primary diagnostic methods used to identify the shape and extent of the SRV are microseismic and tiltmeter mapping. In these methods, microseismic sensors or tiltmeters are generally located in an array on the surface or in an adjacent observationwell during the hydraulic fracture treatment. The small microseisms or deformations in the earth are recorded and then used as an indirect measurement of where fracture fluids and slurry have been placed in the subsurface [Mayerhofer 2008]. Typical analyses yield a mapshowing the extent of the SRV (Fig. 2).</anchoringText>
+<image-wrap id="102118179161MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118179161MS_i_2.tif" id="ImgLink-2" />
+<caption>Stimulated Reservoir Volume as estimated using microseismic mapping, which is then used to build and calibrate a fracture propagation and/or reservoir model [<link href="BIB2">Mayerhofer 2008</link> ].</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Stimulated Reservoir Volume as estimated using microseismic mapping, which is then used to build and calibrate a fracture propagation and/or reservoir model [<link href="BIB2">Mayerhofer 2008</link> ].</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-20" type="bib">
+<bib id="BIB2">
+<label>Mayerhofer and Lolon, 2008</label>
+<author>
+<first-name>M. J.</first-name>
+<last-name>Mayerhofer</last-name>
+</author>, <author>
+<first-name>E. P.</first-name>
+<last-name>Lolon</last-name>
+</author>, et al. <pubDate>2008</pubDate>. <article-title>What is Stimulated Reservoir Volume (SRV)? Paper SPE 119890 presented at the SPE Shale Gas Production Conference, Fort Worth, TX </article-title>, 16–18 November.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">After the fracturing operations are complete, the well is then surveyed using a spectral gamma ray log which can be interpreted to identify the isotopes in the near well-bore (Fig. 3). Advantages of this technique include its relatively low cost and multiple isotopes. The primary disadvantage is the necessity to handle radioactive materials (both during the fracture treatment as well as after proppant flowback), as well as the need to log the well within two months of the fracture treatment due to the short half-life isotopes. Another proppant tracing method currently available places very small amounts of a high thermal neutron capture cross-section tracer (HTNCC) into ceramic proppant grains during manufacture [Smith 2011]</anchoringText>
+<image-wrap id="102118179161MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118179161MS_i_3.tif" id="ImgLink-3" />
+<caption>R/A Tracer Log Survey in a 13 stage horizontal with 3 perf clusters per stage. Coloration corresponds to three different isotopes [<link href="BIB3">Bartuska 2012</link> ].</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>R/A Tracer Log Survey in a 13 stage horizontal with 3 perf clusters per stage. Coloration corresponds to three different isotopes [<link href="BIB3">Bartuska 2012</link> ].</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-21" type="bib">
+<bib id="BIB3">
+<label>Bartuska and Pechiney, 2012</label>
+<author>
+<first-name>J. E.</first-name>
+<last-name>Bartuska</last-name>
+</author>, <author>
+<first-name>J. J.</first-name>
+<last-name>Pechiney</last-name>
+</author>, et al, <pubDate>2012</pubDate>. <article-title>Optimizing Completion Designs for Horizontal Shale Gas Wells Using Completions Diagnostics. Paper SPE 155759 presented at the SPE Americas Unconventional Resources Conference, Pittsburgh, PA </article-title>, 5–7 June.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">These tracers can be placed in either every grain for treatments that employ 100% ceramic proppant, or in the case of treatments that employ sand or other non-ceramic proppant, ceramic grains containing higher concentrations of the HTNCC can be mixed in and replace a small portion (5%) of the designed proppant. In both cases, a pre- and post-frac neutron log is run across the zones of interest, and the change in neutron response yields an estimate of proppant location (Fig. 4). The primary advantage of this method is that the tracer is not radioactive, and no special handling is required. In addition, the tracer is an integral part of the proppant grains, so the well can be logged at any time in the future.</anchoringText>
+<image-wrap id="102118179161MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118179161MS_i_4.tif" id="ImgLink-4" />
+<caption>Example survey showing the location of proppant containing HTNCC tracers [<link href="BIB4">Duenckel 2011</link> ].</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Example survey showing the location of proppant containing HTNCC tracers [<link href="BIB4">Duenckel 2011</link> ].</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-22" type="bib">
+<bib id="BIB4">
+<label>Duenckel and Smith, 2011</label>
+<author>
+<first-name>R. J.</first-name>
+<last-name>Duenckel</last-name>
+</author>, <author>
+<first-name>H. D.</first-name>
+<last-name>Smith</last-name>
+</author>, et al. <pubDate>2011</pubDate>. <article-title>Field Application of a New Proppant Detection Methodology. Paper SPE 146744 presented at the SPE Annual Technical Conference and Exhibition, Denver, CO </article-title>, 30 October - 2 November.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">The final coating consisted of a proprietary initial coating which promoted the adhesion of the outer conductive layer to the substrate (Fig. 5). Several tests were performed on the prototype detectable proppant to ensure high electrical conductivity, particularly at downhole pressures, temperatures and pH. In addition, fracture fluid stability tests were performed with lab-created samples of the detectable proppant in order to verify that the proppant was compatible with typical borate-crosslinked guar gel fluid systems. This test was then repeated with samples of the final manufactured proppant in the actual fracture fluid scheduled to be used in the field test.</anchoringText>
+<image-wrap id="102118179161MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118179161MS_i_5.tif" id="ImgLink-5" />
+<caption>20/40 detectible proppant developed for initial field test, consisting of an electrically conductive coating on low density ceramic proppant [courtesy CARBO Ceramics].</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>20/40 detectible proppant developed for initial field test, consisting of an electrically conductive coating on low density ceramic proppant [courtesy CARBO Ceramics].</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">The list was narrowed down to three active leases and members of the experiment team participated in field trips to visit the candidate sites, for the purpose of visually evaluating the suitability of the sites and to identify any issues with surface access and potential noise sources that may not be adequately represented on the maps. Fig. 6 shows an example of favorable surface topography around one of the candidate wells, while Fig. 7 shows an example of a location with active noise sources in its vicinity.</anchoringText>
+<image-wrap id="102118179161MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118179161MS_i_6.tif" id="ImgLink-6" />
+<caption>Favorable surface topography around a candidate wellste.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Favorable surface topography around a candidate wellste.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">The list was narrowed down to three active leases and members of the experiment team participated in field trips to visit the candidate sites, for the purpose of visually evaluating the suitability of the sites and to identify any issues with surface access and potential noise sources that may not be adequately represented on the maps. Fig. 6 shows an example of favorable surface topography around one of the candidate wells, while Fig. 7 shows an example of a location with active noise sources in its vicinity.</anchoringText>
+<image-wrap id="102118179161MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118179161MS_i_7.tif" id="ImgLink-7" />
+<caption>Example of active noise sources: an active saltwater disposal site with multiple electrical transmission lines and saltwater transfer lines.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Example of active noise sources: an active saltwater disposal site with multiple electrical transmission lines and saltwater transfer lines.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">In addition, the well was planned to be hydraulically fracture stimulated using 16 plug-and-perf stages, with 200,000 lbm detectable proppant to be pumped in the final stage closest to the heel of the wellbore. It was hoped that placing the detectable proppant into the final fracture stage would allow for the current source tool to be placed as close as possible to perforations without special tractoring operations. Fig. 8 shows the actual positioning of the current source injection point relative to the perforation interval for Stage 16.</anchoringText>
+<image-wrap id="102118179161MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118179161MS_i_8.tif" id="ImgLink-8" />
+<caption>Candidate well vertical profile showing proposed perforation interval and current source injection point.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Candidate well vertical profile showing proposed perforation interval and current source injection point.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">The bow springs of a centralizer would flatten against the casing under compression, creating a significant contact area with the casing. Spring steel is fairly durable and is expected to withstand multiple trips into and out of the wellbore. Furthermore, modeling suggested that when coupled with weight bars attached below the centralizer, placement of the tool through the curved section to at least the 60-degree inclination point should be possible using gravity alone (no tractoring or pumping down). The centralizer was modified by the e-line company such that the center conductor of the e-line cable would be soldered to the bow springs with multiple redundant wraps to assure electrical continuity and durability (Fig. 9).</anchoringText>
+<image-wrap id="102118179161MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118179161MS_i_9.tif" id="ImgLink-9" />
+<caption>A standard bowspring centralizer was modified to be used as the downhole current injection point tool.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>A standard bowspring centralizer was modified to be used as the downhole current injection point tool.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">Based on a balance of availability, cost and forward modeling, a total of 20 receiver stations were designed. In addition to measuring e-field signals, there was also interest by the design team in capturing magnetic field (b-field) signals, since a signal response in the b- field was predicted to be higher by one of the models. Thus, two of the twenty stations also incorporated horizontal magnetic coil sensors (also oriented orthogonally) to capture b-field response (Fig. 10).</anchoringText>
+<image-wrap id="102118179161MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118179161MS_i_10.tif" id="ImgLink-10" />
+<caption>Sensor array design at experiment site. Yellow squares indicate e-field dipole receiver stations, red squares indicate a combination of e-field dipole pairs and a pair of b-field mag coil sensors. Black dots are the location of negative return electrode locations (grounding points) and green dots are offset wells (both active and inactive). Purple lines indicate section boundaries and the blue line is a simple line segment connecting the surface well coordinates with the total depth coordinates. Black “rings” represent 0.5 km contour radii from the wellhead. [Map Source: Google, Offset Well Location Source: Texas RRC]</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Sensor array design at experiment site. Yellow squares indicate e-field dipole receiver stations, red squares indicate a combination of e-field dipole pairs and a pair of b-field mag coil sensors. Black dots are the location of negative return electrode locations (grounding points) and green dots are offset wells (both active and inactive). Purple lines indicate section boundaries and the blue line is a simple line segment connecting the surface well coordinates with the total depth coordinates. Black “rings” represent 0.5 km contour radii from the wellhead. [Map Source: Google, Offset Well Location Source: Texas RRC]</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">The final determination of each of these issues entailed balancing the technical merits with the associated time (and cost). Since the proposed far-field proppant detection technique involves the use of a differencing technique, a minimum of one measurement before and one measurement after the conductive proppant is placed is necessary. Other issues considered were the timing of these two measurements that would yield minimal disruption to the fracturing operations, as well as what noise would be associated with each measurement. This eventually led to the final recommendation of four separate measurements shown in Fig. 11 and described below.</anchoringText>
+<image-wrap id="102118179161MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118179161MS_i_11.tif" id="ImgLink-11" />
+<caption>Proposed measurement sequence and timeline.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Proposed measurement sequence and timeline.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">The primary hazards identified pertained to the energizing of transmission and return cables connected to the source and return electrodes (particularly with planned electrical output of 10–20 amps at 600 volts). Areas with increased risks at the wellsite were identified, and mitigations for these risks such as engineered protection and controls were outlined and placed in a formal procedure for the experiment. Fig. 12 shows the actual layout of the test well pad with all of the participating companies onsite.</anchoringText>
+<image-wrap id="102118179161MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118179161MS_i_12.tif" id="ImgLink-12" />
+<caption>Wellsite with geophysical transmitter and control equipment (1), EM-detectable proppant storage silo (2), fracturing fleet (3), test well (4), and e-line current source deployment unit (5).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Wellsite with geophysical transmitter and control equipment (1), EM-detectable proppant storage silo (2), fracturing fleet (3), test well (4), and e-line current source deployment unit (5).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">Besides electrical shock potential, there were also concerns about heat development on the cable drum of the e-line unit with the transmission of upwards of 3,500 watts of energy through multiple wraps of cable reeled on the drum. Modeling suggested that the cable/drum would not exceed the upper limit temperature allowed for the armor shield on the cable, which was rated to 500° F. However, extra precautions such as using real-time drum temperature monitoring and recording (Fig. 13), and limiting maximum allowable temperature to 325° F as a safety factor, were added to the existing experimental procedures.</anchoringText>
+<image-wrap id="102118179161MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118179161MS_i_13.tif" id="ImgLink-13" />
+<caption>E-line unit drum with temperature sensors installed prior to beginning the Measurement ‘A’ transmit cycles.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>E-line unit drum with temperature sensors installed prior to beginning the Measurement ‘A’ transmit cycles.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="17" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr14">Finally, it was important to insure the specialty proppant for this test be stored and retained on location such that it was used only for the correct stimulation treatment stage. To accomplish this, one of the proppant storage silos was designated by the pumping company to be dedicated only for the detectable proppant. Once the proppant was transferred into the silo from bulk transport trailers, the silo was disconnected from its energy source, pneumatic transfer caps were sealed, and clearly visible markings were placed on the unit to prevent the unit from being used at any point other than the designated stage for which the proppant was intended (Fig. 14).</anchoringText>
+<image-wrap id="102118179161MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118179161MS_i_14.tif" id="ImgLink-14" />
+<caption>Transfer of proppant from bulk transport trailers to a designated silo (left), and silo unit flagged with tape, transfer caps sealed, and power source disconnected from circuit breaker box of unit storing the detectable proppant (right).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Transfer of proppant from bulk transport trailers to a designated silo (left), and silo unit flagged with tape, transfer caps sealed, and power source disconnected from circuit breaker box of unit storing the detectable proppant (right).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179161MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118179161MS_i_14a.tif" id="ImgLink-14a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Transfer of proppant from bulk transport trailers to a designated silo</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179161MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118179161MS_i_14b.tif" id="ImgLink-14b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Silo unit flagged with tape, transfer caps sealed, and power source disconnected from circuit breaker box of unit storing the detectable proppant</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="18" figure-order="15" data-type-order="15">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr15">During Measurement A, the drum temperature never exceeded 107 degrees Fahrenheit, even after two hours of current transmission. In fact, the temperatures observed during all four measurement periods never increased more than 10° F above ambient (Fig. 15). Additionally, volt meters set up at the wellhead and e-line unit truck body measured very low stray voltages at the surface, on the order of 100 to 300 millivolts, indicating that, as expected, the amount of voltage returning to the surface through the casing was extremely low with most of the electrical energy dissipating into the earth.</anchoringText>
+<image-wrap id="102118179161MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118179161MS_i_15.tif" id="ImgLink-15" />
+<caption>Recorded drum temperatures during the transmission of Measurements A and B. Note the warmup is more a function of ambient temperature than the current transmission.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Recorded drum temperatures during the transmission of Measurements A and B. Note the warmup is more a function of ambient temperature than the current transmission.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179161MS-Img_SPi-15a">
+<imageLink type="mediaResource" href="102118179161MS_i_15a.tif" id="ImgLink-15a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Measurement A</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179161MS-Img_SPi-15b">
+<imageLink type="mediaResource" href="102118179161MS_i_15b.tif" id="ImgLink-15b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Measurement B</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="16" data-type-order="16">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr16">Measurement A provided several positive results and observations. A cursory look at the signals being received by the receiver arrays indicated an electric field signal was being carried to surface, and the waveform was remarkably similar to the input transmission (Fig. 16). Technicians were pleased that these were accomplished with ~14 amps of transmitted current. In addition, while the EM signals were extremely small, they matched the forward modeling expectations quite well. This led to confirmation that the proppant detection methodology using electromagnetic sensing was sound.</anchoringText>
+<image-wrap id="102118179161MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118179161MS_i_16.tif" id="ImgLink-16" />
+<caption>Raw response from Receiver #1, showing the well-developed waveform response.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Raw response from Receiver #1, showing the well-developed waveform response.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="20" figure-order="17" data-type-order="17">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr17">The final step was to remove the noise, difference the data and then invert the data to then be visualized. To date, 100% of the stations have not fully processed. However, using a basic smoothing filter of the data from each of the receivers, several preliminary inversions have been performed. Most of the preliminary analysis and inversion work has been done on the “C minus B” differenced data, which represents the two measurements taken immediately before and after the stage placing the detectable proppant. This inversion has shown some promising results (Fig. 17).</anchoringText>
+<image-wrap id="102118179161MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118179161MS_i_17.tif" id="ImgLink-17" />
+<caption>Visualizations of the preliminary inverted dataset using the differenced data from the C minus B data and 25 meter grid blocks. The first panel (a) shows the location of the perforations and the current source. The next three panels show the “outside” of the highest intensity EM response for the proppant. The (b) panel is a “westerly” view along the horizontal lateral, while the (c) shows a northwest view down the lateral and finally the (d) panel shows a southeast view up the lateral. The (c) and (d) views show what appears to be a feature indicating lack of proppant signal, suggesting a “gap” in detectible proppant near the first or uppermost perf cluster.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Visualizations of the preliminary inverted dataset using the differenced data from the C minus B data and 25 meter grid blocks. The first panel (a) shows the location of the perforations and the current source. The next three panels show the “outside” of the highest intensity EM response for the proppant. The (b) panel is a “westerly” view along the horizontal lateral, while the (c) shows a northwest view down the lateral and finally the (d) panel shows a southeast view up the lateral. The (c) and (d) views show what appears to be a feature indicating lack of proppant signal, suggesting a “gap” in detectible proppant near the first or uppermost perf cluster.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179161MS-Img_SPi-17a">
+<imageLink type="mediaResource" href="102118179161MS_i_17a.tif" id="ImgLink-17a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>The first panel (a) shows the location of the perforations and the current source. The next three panels show the “outside” of the highest intensity EM response for the proppant</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179161MS-Img_SPi-17b">
+<imageLink type="mediaResource" href="102118179161MS_i_17b.tif" id="ImgLink-17b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>The (b) panel is a “westerly” view along the horizontal lateral</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179161MS-Img_SPi-17c">
+<imageLink type="mediaResource" href="102118179161MS_i_17c.tif" id="ImgLink-17c" />
+<figure-specific-caption>
+<caption-order>(c)</caption-order>
+<caption-text>The (c) shows a northwest view down the lateral</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179161MS-Img_SPi-17d">
+<imageLink type="mediaResource" href="102118179161MS_i_17d.tif" id="ImgLink-17d" />
+<figure-specific-caption>
+<caption-order>(d)</caption-order>
+<caption-text>The (d) panel shows a southeast view up the lateral</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="21" figure-order="18" data-type-order="18">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr18">The visualization also presented what appeared to be a “gap” in the proppant in the southwest quadrant of the PRV, or the area located near the first (uphole) perf cluster. The external portion of this feature is apparent in Figs. 17c and 17d. The visualization tool developed can also create customizable cut-aways of the PRV (Fig. 18). Cut-away views along the lateral show the positioning of the perf clusters in relation to maximum proppant height. It appears that the largest downward growth (of detectable proppant) occurred in the first two perf clusters, while the maximum upward growth occurred in the last two perf clusters. In addition, one can clearly see the aforementioned “gap” in proppant when viewing the Figs. 18b and 18d.</anchoringText>
+<image-wrap id="102118179161MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118179161MS_i_18.tif" id="ImgLink-18" />
+<caption>Additional views of the preliminary differencing of the C minus B data. In this case, crosssectional cut-aways are illustrated in both the “east-west” [(a) and (b)] and “north-south” [(c) and (d)] directions. The (a) and (b) views cut at the wellbore, and show the four perf clusters. The (c) view is a lateral cut at the last perf cluster, while the (d) view shows the first perf cluster. Views (b) and (d) more clearly illustrate the “gap” in proppant detected near the first perf cluster.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Additional views of the preliminary differencing of the C minus B data. In this case, crosssectional cut-aways are illustrated in both the “east-west” [(a) and (b)] and “north-south” [(c) and (d)] directions. The (a) and (b) views cut at the wellbore, and show the four perf clusters. The (c) view is a lateral cut at the last perf cluster, while the (d) view shows the first perf cluster. Views (b) and (d) more clearly illustrate the “gap” in proppant detected near the first perf cluster.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179161MS-Img_SPi-18a">
+<imageLink type="mediaResource" href="102118179161MS_i_18a.tif" id="ImgLink-18a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179161MS-Img_SPi-18b">
+<imageLink type="mediaResource" href="102118179161MS_i_18b.tif" id="ImgLink-18b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179161MS-Img_SPi-18c">
+<imageLink type="mediaResource" href="102118179161MS_i_18c.tif" id="ImgLink-18c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>(c)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179161MS-Img_SPi-18d">
+<imageLink type="mediaResource" href="102118179161MS_i_18d.tif" id="ImgLink-18d" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>(d)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

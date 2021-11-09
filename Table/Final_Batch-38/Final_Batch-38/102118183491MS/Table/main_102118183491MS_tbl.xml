@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118183491MS.txt" extractionDate="2021-03-23T12:09:42Z">
+<doi>10.2118/183491-MS</doi>
+<pii>10.2118/183491-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="5">
+<table-wrap id="102118183491MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The well was logged after 72 hour's shut-in to acquire stabilized temperature. The tools were run in Long String under three conditions: Shut-in (both strings), injecting in the Short String only, and Transient (time-elapsed under shut in) conditions. A summary is shown in the Table below and in Fig.4. HPT was logged while RIH at 16.0 ft./min and the SNL was logged during POOH with stations every 3 feet.</anchoringText>
+<label>Table 1</label>
+<caption>Survey Runs and flow regimes</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Survey Runs and flow regimes</caption-text>
+</formatted-caption>
+<table id="102118183491MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="center">Run</th>
+<th rowspan="2" valign="top" align="center">Tool string</th>
+<th colspan="2" valign="top" align="center">Operating conditions</th>
+<th rowspan="2" valign="top" align="center">Surveyed string LS/SS</th>
+<th colspan="2" rowspan="2" valign="top" align="center">Surveyed interval ft</th>
+</tr>
+<tr>
+<th valign="top" align="center">LS</th>
+<th valign="top" align="center">SS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">HPT-SNL</td>
+<td valign="top" align="center">Shut-in</td>
+<td valign="top" align="center">Shut-in</td>
+<td valign="top" align="center">LS</td>
+<td valign="top" align="center">XX,509.0</td>
+<td valign="top" align="center">XX,703.5</td>
+</tr>
+<tr>
+<td valign="top" align="center">2</td>
+<td valign="top" align="center">HPT-SNL</td>
+<td valign="top" align="center">Shut-in</td>
+<td valign="top" align="center">Injection</td>
+<td valign="top" align="center">LS</td>
+<td valign="top" align="center">XX,650.5</td>
+<td valign="top" align="center">XX,716.0</td>
+</tr>
+<tr>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">HPT-SNL</td>
+<td valign="top" align="center">Shut-in</td>
+<td valign="top" align="center">Shut-in</td>
+<td valign="top" align="center">LS</td>
+<td valign="top" align="center">XX,650.5</td>
+<td valign="top" align="center">XX,716.0</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="9" table-order="2" data-type-order="10">
+<table-wrap id="102118183491MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2"> </anchoringText>
+<caption>Sequence of Events</caption>
+<formatted-caption />
+<table id="102118183491MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" bgcolor="#203E6C">Date</th>
+<th valign="top" align="center" bgcolor="#203E6C">Time</th>
+<th valign="top" align="center" bgcolor="#203E6C">Start of interval, ft</th>
+<th valign="top" align="center" bgcolor="#203E6C">End of Interval, ft</th>
+<th valign="top" align="center" bgcolor="#203E6C">Logging speed, ft/min</th>
+<th valign="top" align="center" bgcolor="#203E6C">Events</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="10" align="center">
+<b>25-Mar-16</b>
+</td>
+<td valign="top" align="center">
+</td>
+<td colspan="4" valign="top" align="center" bgcolor="#BFBFBF">HPT-SNL Shut-In Survey (Run#1)</td>
+</tr>
+<tr>
+<td align="center">16:00</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td align="left">Rig up</td>
+</tr>
+<tr>
+<td valign="top" align="center">17:06</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="left">Pressure Test</td>
+</tr>
+<tr>
+<td valign="top" align="center">17:30</td>
+<td align="center">0</td>
+<td valign="top" align="center">XX700</td>
+<td align="center">100</td>
+<td valign="top" align="left">Open the well, start RIH (WHP= 1400 psi)</td>
+</tr>
+<tr>
+<td valign="top" align="center">19:13</td>
+<td valign="top" align="center">XX700</td>
+<td valign="top" align="center">XX650</td>
+<td valign="bottom" align="center">100</td>
+<td valign="top" align="left">Pull up to xx650 ft</td>
+</tr>
+<tr>
+<td valign="top" align="center">19:14</td>
+<td valign="top" align="center">XX650</td>
+<td valign="top" align="center">XX650</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="left">Stopped @ xx650 ft. Record 6 minutes station</td>
+</tr>
+<tr>
+<td valign="top" align="center">19:30</td>
+<td valign="top" align="center">XX650</td>
+<td valign="top" align="center">XX740</td>
+<td valign="top" align="center">17</td>
+<td valign="top" align="left">Record down pass @ 17 ft/min</td>
+</tr>
+<tr>
+<td valign="top" align="center">20:48</td>
+<td valign="top" align="center">XX740</td>
+<td valign="top" align="center">XX650</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="left">Start recording SNL</td>
+</tr>
+<tr>
+<td valign="top" align="center">03:13</td>
+<td valign="top" align="center">XX650</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">100</td>
+<td valign="top" align="left">POOH to surface</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">05:00</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="left">At surface</td>
+</tr>
+<tr>
+<td rowspan="5" align="center">
+<b>26-Mar-16</b>
+</td>
+<td valign="bottom" align="center">
+</td>
+<td colspan="4" valign="bottom" align="center" bgcolor="#BFBFBF">HPT-SNL Short String Survey (Run#2)</td>
+</tr>
+<tr>
+<td valign="top" align="center">20:35</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="left">Rig up</td>
+</tr>
+<tr>
+<td valign="top" align="center">21:45</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="left">Pressure Test</td>
+</tr>
+<tr>
+<td align="center">22:10</td>
+<td valign="bottom" align="center">0</td>
+<td align="center">XX700</td>
+<td valign="bottom" align="center">100</td>
+<td align="left">Open the well, start RIH (WHP= 1300 psi)</td>
+</tr>
+<tr>
+<td valign="top" align="center">11:55</td>
+<td valign="top" align="center">XX700</td>
+<td valign="top" align="center">XX700</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="left">Stopped @ xx700 ft</td>
+</tr>
+<tr>
+<td rowspan="19" align="center">
+<b>27-Mar-16</b>
+</td>
+<td valign="bottom" align="center">12:35</td>
+<td valign="bottom" align="center">XX700</td>
+<td valign="bottom" align="center">XX650</td>
+<td valign="bottom" align="center">100</td>
+<td valign="bottom" align="left">Pull up to xx650 ft and record 10 minutes station</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">12:45</td>
+<td valign="bottom" align="center">XX650</td>
+<td valign="bottom" align="center">XX740</td>
+<td valign="bottom" align="center">17</td>
+<td valign="bottom" align="left">Record down pass @ 17 ft/min</td>
+</tr>
+<tr>
+<td valign="top" align="center">02:05</td>
+<td valign="top" align="center">XX740</td>
+<td valign="top" align="center">XX650</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="left">Start recording SNL</td>
+</tr>
+<tr>
+<td valign="top" align="center">08:03</td>
+<td valign="top" align="center">XX650</td>
+<td valign="top" align="center">XX650</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="left">Shut-in short string for transient passes and record station#1 (30 minutes)</td>
+</tr>
+<tr>
+<td valign="top" align="center">08:40</td>
+<td valign="top" align="center">XX650</td>
+<td valign="top" align="center">XX740</td>
+<td valign="top" align="center">17</td>
+<td valign="top" align="left">Record down transient pass#1 @ 17 ft/min</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">09:43</td>
+<td valign="bottom" align="center">XX740</td>
+<td valign="bottom" align="center">XX740</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="left">Stop @ xx740 ft for 5 minutes</td>
+</tr>
+<tr>
+<td valign="top" align="center">09:48</td>
+<td valign="top" align="center">XX740</td>
+<td valign="top" align="center">XX650</td>
+<td valign="bottom" align="center">100</td>
+<td valign="top" align="left">POOH to xx650 ft</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">10:00</td>
+<td valign="bottom" align="center">XX650</td>
+<td valign="bottom" align="center">XX650</td>
+<td align="center">-</td>
+<td valign="bottom" align="left">Record station#2 (30 minutes)</td>
+</tr>
+<tr>
+<td valign="top" align="center">10:30</td>
+<td valign="top" align="center">XX650</td>
+<td valign="top" align="center">XX740</td>
+<td valign="top" align="center">17</td>
+<td valign="top" align="left">Record down transient pass#2 @ 17 ft/min</td>
+</tr>
+<tr>
+<td valign="top" align="center">11:32</td>
+<td valign="top" align="center">XX740</td>
+<td valign="top" align="center">XX740</td>
+<td valign="top" align="center">-</td>
+<td valign="bottom" align="left">Stop @ xx740 ft for 5 minutes</td>
+</tr>
+<tr>
+<td valign="top" align="center">11:36</td>
+<td valign="top" align="center">XX740</td>
+<td valign="top" align="center">XX650</td>
+<td valign="bottom" align="center">100</td>
+<td valign="top" align="left">POOH to xx650 ft</td>
+</tr>
+<tr>
+<td valign="top" align="center">11:46</td>
+<td valign="top" align="center">XX650</td>
+<td valign="top" align="center">XX650</td>
+<td valign="top" align="center">-</td>
+<td valign="bottom" align="left">Record station#3 (1 hour)</td>
+</tr>
+<tr>
+<td valign="top" align="center">12:46</td>
+<td valign="top" align="center">XX650</td>
+<td valign="top" align="center">XX740</td>
+<td valign="top" align="center">17</td>
+<td valign="top" align="left">Record down transient pass#3 @ 17 ft/min</td>
+</tr>
+<tr>
+<td valign="top" align="center">13:48</td>
+<td valign="top" align="center">XX740</td>
+<td valign="top" align="center">XX740</td>
+<td valign="top" align="center">-</td>
+<td valign="bottom" align="left">Stop @ xx740 ft for 5 minutes</td>
+</tr>
+<tr>
+<td valign="top" align="center">13:53</td>
+<td valign="top" align="center">XX740</td>
+<td valign="top" align="center">XX650</td>
+<td valign="bottom" align="center">100</td>
+<td valign="top" align="left">POOH to xx650 ft</td>
+</tr>
+<tr>
+<td valign="top" align="center">14:03</td>
+<td valign="top" align="center">XX650</td>
+<td valign="top" align="center">XX650</td>
+<td valign="top" align="center">-</td>
+<td valign="bottom" align="left">Record station#4 (1 hour)</td>
+</tr>
+<tr>
+<td valign="top" align="center">15:03</td>
+<td valign="top" align="center">XX650</td>
+<td valign="top" align="center">XX740</td>
+<td valign="top" align="center">17</td>
+<td valign="top" align="left">Record down transient pass#4 @ 17 ft/min</td>
+</tr>
+<tr>
+<td align="center">16;12</td>
+<td align="center">XX740</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">100</td>
+<td align="left">POOH to surface</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">17:30</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="left">At surface</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187471MS.txt" extractionDate="2021-03-26T18:23:07Z">
+<doi>10.2118/187471-MS</doi>
+<pii>10.2118/187471-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">Other applications such as well performance or flow assurance simulators might use black-oil or lumped Equation-of-State (EOS) models. Thus, PVT consistency becomes an issue whenever an IAM model is developed. To overcome this challenge, the IAM platform must be able to handle consistently complex petroleum streams, described with different fluid models (black-oil, lumped EOS or detailed EOS), see Fig. 1.</anchoringText>
+<image-wrap id="102118187471MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118187471MS_i_1.tif" id="ImgLink-1" />
+<caption>Challenges of fluid modeling consistency across a petroleum production system (after Astutik <i>et al. </i>(2017)).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Challenges of fluid modeling consistency across a petroleum production system (after <link href="BIB1">Astutik et al. (2017))</link>.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-16" type="bib">
+<bib id="BIB1">
+<label>Astutik et al., 2017</label>
+<author>
+<first-name>W.</first-name>
+<last-name>Astutik</last-name>
+</author>, <author>
+<first-name>A.</first-name>
+<last-name>Hoffmann</last-name>
+</author>, <author>
+<first-name>F.</first-name>
+<last-name>Rasmussen</last-name>
+</author>, and <author>
+<first-name>C.</first-name>
+<last-name>Whitson</last-name>
+</author>
+<article-title>H., <i>Optimal Management of Topside Diluent Injection for a Heavy Oil Field</i>
+</article-title>, SPE-183802-MS, <pubDate>2017</pubDate>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="5" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">Figures 2 (a) and (b) show the typical workflow of IAM optimization. The optimization process is called “black-box” optimization. The non-linear solver is calling the integrated model (the black-box) multiple times. After each execution of the integrated model, the objective function and the constraints are evaluated and fed back to the solver. At each solver iteration, partial derivatives in respect of each variables may be required and estimated (when not analytically available) using finite differences, see Fig. 2 (c).</anchoringText>
+<image-wrap id="102118187471MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118187471MS_i_2.tif" id="ImgLink-2" />
+<caption>IAM optimization. Black-box optimization workflow., Model-base optimization routine (after Stanko <i>et al. </i>(2015)), Typical convergence for a black-box optimization problem., Convergence towards the global maximum with two different starting points (after Juell <i>et al.</i> (2009)).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>IAM optimization. Black-box optimization workflow., Model-base optimization routine (after <link href="BIB2">Stanko et al. (2015)</link>), Typical convergence for a black-box optimization problem., Convergence towards the global maximum with two different starting points (after <link href="BIB3">Juell et al. (2009))</link>.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187471MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118187471MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Black-box optimization workflow</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187471MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118187471MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>Model-base optimization routine (after Stanko et al. (2015))</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187471MS-Img_SPi-2c">
+<imageLink type="mediaResource" href="102118187471MS_i_2c.tif" id="ImgLink-2c" />
+<figure-specific-caption>
+<caption-order>(c)</caption-order>
+<caption-text>Typical convergence for a black-box optimization problem</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187471MS-Img_SPi-2d">
+<imageLink type="mediaResource" href="102118187471MS_i_2d.tif" id="ImgLink-2d" />
+<figure-specific-caption>
+<caption-order>(d)</caption-order>
+<caption-text>Convergence towards the global maximum with two different starting points (after Juell et al. (2009))</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-17" type="bib">
+<bib id="BIB2">
+<label>Stanko et al., 2015</label>
+<author>
+<first-name>M. E.</first-name>
+<last-name>Stanko</last-name>
+</author>, <author>
+<first-name>M.</first-name>
+<last-name>Asuaje</last-name>
+</author>, <author>
+<first-name>C.</first-name>
+<last-name>Diaz</last-name>
+</author>, <author>
+<first-name>M.</first-name>
+<last-name>Guillmain</last-name>
+</author>, <author>
+<first-name>M.</first-name>
+<last-name>Borregales</last-name>
+</author>, <author>
+<first-name>D.</first-name>
+<last-name>Gonzalez</last-name>
+</author>, <author>
+<first-name>M.</first-name>
+<last-name>Golan</last-name>
+</author>, <article-title>Model-Based Production mOptimization of the Rubiales Field, Colombia </article-title>, SPE-174843-MS, <pubDate>2015</pubDate>.</bib>
+</linkTarget>
+<linkTarget id="link-18" type="bib">
+<bib id="BIB3">
+<label>Juell et al., 2009</label>
+<author>
+<first-name>A.</first-name>
+<last-name>Juell</last-name>
+</author>, <author>
+<first-name>C. H.</first-name>
+<last-name>Whitson</last-name>
+</author>, <author>
+<first-name>M.</first-name>
+<last-name>Hoda</last-name>
+</author>
+<article-title>F., <i>Model-Based Integration and Optimization – Gas Cycling benchmark</i>
+</article-title>, SPE-121252, <pubDate>2009</pubDate>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">It consists of two reservoirs (L for light and H for heavy) with respective API gravities of 14 and 12 API degrees, and oil viscosities at reservoir conditions of 70 cp and 500 cp. The field includes some 60 production wells with Electrical Submersible Pump (ESP) for the artificial lift. The processing facility consists of a 2-stage separation train followed by a coalescer aimed to separate water from oil. Diluent is planned to be injected (1) in each individual well at the ESP and (2) in the surface processing facility prior to the second stage separator, see Fig. 3.</anchoringText>
+<image-wrap id="102118187471MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118187471MS_i_3.tif" id="ImgLink-3" />
+<caption>Diluent injection system (after Hoffmann <i>et al. </i>(2016)). Diluent injection points., Downhole diluent injection system.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Diluent injection system (after <link href="BIB4">Hoffmann et al. (2016))</link>. Diluent injection points., Downhole diluent injection system.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187471MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118187471MS_i_3a.tif" id="ImgLink-3a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Diluent injection points</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187471MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118187471MS_i_3b.tif" id="ImgLink-3b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>Downhole diluent injection system</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-19" type="bib">
+<bib id="BIB4">
+<label>Hoffmann et al., 2016</label>
+<author>
+<first-name>A.</first-name>
+<last-name>Hoffmann</last-name>
+</author>, <author>
+<first-name>W.</first-name>
+<last-name>Astutik</last-name>
+</author>, <author>
+<first-name>F.</first-name>
+<last-name>Rasmussen</last-name>
+</author>, and <author>
+<first-name>C.</first-name>
+<last-name>Whitson</last-name>
+</author>
+<article-title>H., <i>Diluent Injection Optimization for a Heavy Oil Field</i>
+</article-title>, SPE-184119-MS, <pubDate>2016</pubDate>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">Hoffmann et al. (2016) and Astutik et al. (2017) propose an integrated optimization solution that integrates (1) the two reservoir simulation models (one for each reservoir), (2) the well performance models, and (3) the surface process model, see Fig. 4. The black-oil rates from the reservoir simulator are fed to the individual well models for downhole diluent injection optimization and to the process simulation for topside diluent injection optimization.</anchoringText>
+<image-wrap id="102118187471MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118187471MS_i_4.tif" id="ImgLink-4" />
+<caption>Integrated asset model built within <i>Pipe-It </i>(after Astutik <i>et al. </i>(2017)).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Integrated asset model built within Pipe-It (after <link href="BIB5">Astutik et al. (2017))</link>.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-20" type="bib">
+<bib id="BIB5">
+<label>Astutik et al., 2017</label>
+<author>
+<first-name>W.</first-name>
+<last-name>Astutik</last-name>
+</author>, <author>
+<first-name>A.</first-name>
+<last-name>Hoffmann</last-name>
+</author>, <author>
+<first-name>F.</first-name>
+<last-name>Rasmussen</last-name>
+</author>, and <author>
+<first-name>C.</first-name>
+<last-name>Whitson</last-name>
+</author>
+<article-title>H., <i>Optimal Management of Topside Diluent Injection for a Heavy Oil Field</i>
+</article-title>, SPE-183802-MS, <pubDate>2017</pubDate>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="8" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">The integrated model is used to forecast optimal downhole (by well) and topside diluent requirements over time and foresee eventual bottlenecks in the surface infrastructure design. Results are shown in Fig. 5. The solution enables the additional recovery of 3 million std m3 (+ 6 % compared to the base case) while minimizing the need of downhole diluent injection. Topside diluent injection optimization contributes to lower OPEX by minimizing the quantity of diluent required topside.</anchoringText>
+<image-wrap id="102118187471MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118187471MS_i_5.tif" id="ImgLink-5" />
+<caption>Results extracted from the integrated model (after Hoffmann <i>et al. </i>(2016) and Astutik <i>et al. </i>(2017)) Incremental reservoir oil production obtained by downhole diluent injection., Quantity of diluent injected., Optimized topside diluent injection., Viscosity at 40°C of the final crude.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Results extracted from the integrated model (after <link href="BIB6">Hoffmann et al. (2016)</link> and <link href="BIB7">Astutik et al. (2017))</link> Incremental reservoir oil production obtained by downhole diluent injection., Quantity of diluent injected., Optimized topside diluent injection., Viscosity at 40°C of the final crude.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187471MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118187471MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Incremental reservoir oil production obtained by downhole diluent injection</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187471MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118187471MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Quantity of diluent injected</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187471MS-Img_SPi-5c">
+<imageLink type="mediaResource" href="102118187471MS_i_5c.tif" id="ImgLink-5c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Optimized topside diluent injection</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187471MS-Img_SPi-5d">
+<imageLink type="mediaResource" href="102118187471MS_i_5d.tif" id="ImgLink-5d" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Viscosity at 40°C of the final crude</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-21" type="bib">
+<bib id="BIB6">
+<label>Hoffmann et al., 2016</label>
+<author>
+<first-name>A.</first-name>
+<last-name>Hoffmann</last-name>
+</author>, <author>
+<first-name>W.</first-name>
+<last-name>Astutik</last-name>
+</author>, <author>
+<first-name>F.</first-name>
+<last-name>Rasmussen</last-name>
+</author>, and <author>
+<first-name>C.</first-name>
+<last-name>Whitson</last-name>
+</author>
+<article-title>H., <i>Diluent Injection Optimization for a Heavy Oil Field</i>
+</article-title>, SPE-184119-MS, <pubDate>2016</pubDate>.</bib>
+</linkTarget>
+<linkTarget id="link-22" type="bib">
+<bib id="BIB7">
+<label>Astutik et al., 2017</label>
+<author>
+<first-name>W.</first-name>
+<last-name>Astutik</last-name>
+</author>, <author>
+<first-name>A.</first-name>
+<last-name>Hoffmann</last-name>
+</author>, <author>
+<first-name>F.</first-name>
+<last-name>Rasmussen</last-name>
+</author>, and <author>
+<first-name>C.</first-name>
+<last-name>Whitson</last-name>
+</author>
+<article-title>H., <i>Optimal Management of Topside Diluent Injection for a Heavy Oil Field</i>
+</article-title>, SPE-183802-MS, <pubDate>2017</pubDate>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">The detailed and consistent PVT modeling across the production system enables to run very complex sensitivity analyses on the type of diluent, see Fig. 6. These studies can lead to more-informed decisions and ultimately lower OPEX and therefore higher revenues.</anchoringText>
+<image-wrap id="102118187471MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118187471MS_i_6.tif" id="ImgLink-6" />
+<caption>Potential savings by injecting a lighter diluent (after Astutik <i>et al. </i>(2017)). Cumulative topside diluent demand., Diluent loss.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Potential savings by injecting a lighter diluent (after <link href="BIB8">Astutik et al. (2017))</link>. Cumulative topside diluent demand., Diluent loss.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187471MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118187471MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Cumulative topside diluent demand</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187471MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118187471MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Diluent loss</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-23" type="bib">
+<bib id="BIB8">
+<label>Astutik et al., 2017</label>
+<author>
+<first-name>W.</first-name>
+<last-name>Astutik</last-name>
+</author>, <author>
+<first-name>A.</first-name>
+<last-name>Hoffmann</last-name>
+</author>, <author>
+<first-name>F.</first-name>
+<last-name>Rasmussen</last-name>
+</author>, and <author>
+<first-name>C.</first-name>
+<last-name>Whitson</last-name>
+</author>
+<article-title>H., <i>Optimal Management of Topside Diluent Injection for a Heavy Oil Field</i>
+</article-title>, SPE-183802-MS, <pubDate>2017</pubDate>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">The studied asset is located in South America and consists of seven fields including gas condensate, near-critical oil and volatile oil reservoirs. Each reservoir fluid is characterized with its own EOS model. A total of 85 production wells are connected to 5 processing facilities, see Fig. 7.</anchoringText>
+<image-wrap id="102118187471MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118187471MS_i_7.tif" id="ImgLink-7" />
+<caption>Sketch of the production system.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Sketch of the production system.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">The molar rates coming from different wells are then aggregated together and fed to the process simulation model. Each processing facility is modelled within Pipe-It using a multi-stage separation model and simplified model for units involving energy balance (e.g. distillation tower), see Fig. 8. Process (p, T) conditions are given as user input for each separation vessel.</anchoringText>
+<image-wrap id="102118187471MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118187471MS_i_8.tif" id="ImgLink-8" />
+<caption>Processing facility A modelled within <i>Pipe-It</i>.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Processing facility A modelled within Pipe-It.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">The well molar rates are then processed individually using the pseudo K-values as a proxy model for the process and volumetric contributions of individual wells can be calculated. The reason for using the pseudo K-values instead a full EOS process simulation when processing individual well lies in the influence of the feed stream composition on the process efficiency. The pseudo K-values capture that effect with a satisfying degree of accuracy. Figure 9 summarizes the proposed workflow.</anchoringText>
+<image-wrap id="102118187471MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118187471MS_i_9.tif" id="ImgLink-9" />
+<caption>Proposed compositional production allocation workflow. Input data are shown in a red.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Proposed compositional production allocation workflow. Input data are shown in a red.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">The difference between simulated and fiscal rates reaches 20 % when using traditional back-allocation methods. When using a full compositional approach, the discrepancy drops to 2 % for oil and 3-4 % for gas, see Fig. 10. This significant improvement lies in the very detailed fluid description and stream management. Molecules are tracked from the well to the sales point and back-allocation is performed on a compositional basis rather than a volumetric basis.</anchoringText>
+<image-wrap id="102118187471MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118187471MS_i_10.tif" id="ImgLink-10" />
+<caption>Comparison between model-based rates and fiscal rates for facility C. Oil rate., Gas rate.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Comparison between model-based rates and fiscal rates for facility C. Oil rate., Gas rate.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187471MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118187471MS_i_10a.tif" id="ImgLink-10a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Oil rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187471MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118187471MS_i_10b.tif" id="ImgLink-10b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Gas rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">The South Natuna Sea Block B (SNSBB) PSC, shown in Fig. 11, contains numerous oil and gas fields from various sub-basins in greater West Natuna. In the Western area of SNSBB, also referred to as the “dry gas” area, several fields are already on stream and other fields are in various stages of development. The gas is collected and compressed for export at the Hang Tuah facility. The gas produced from these “dry gas” fields is very lean and requires minimal processing prior to export.</anchoringText>
+<image-wrap id="102118187471MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118187471MS_i_11.tif" id="ImgLink-11" />
+<caption>Location of the South Natuna Sea Block B (SNSSB) PSC (after Suryanto <i>et al. </i>(2003)).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Location of the South Natuna Sea Block B (SNSSB) PSC (after <link href="BIB9">Suryanto et al. (2003))</link>.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-24" type="bib">
+<bib id="BIB9">
+<label>Suryanto et al., 2003</label>
+<author>
+<first-name>H.</first-name>
+<last-name>Suryanto</last-name>
+</author>, <author>
+<first-name>J. D.</first-name>
+<last-name>Ekstrand</last-name>
+</author>, <author>
+<first-name>C. H.</first-name>
+<last-name>Whitson</last-name>
+</author>, <author>
+<first-name>K.</first-name>
+<last-name>Uleberg</last-name>
+</author>, <author>
+<first-name>M. F.</first-name>
+<last-name>Hoda</last-name>
+</author>, <article-title>Implementation of Stream Management at South Natuna Sea Block B, Indonesia </article-title>, IPA03-E-068, <pubDate>2003</pubDate>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12"> </anchoringText>
+<image-wrap id="102118187471MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118187471MS_i_12.tif" id="ImgLink-12" />
+<caption>A schematic example of the integrated model with streams management (after Suryanto <i>et al. </i>(2003)).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>A schematic example of the integrated model with streams management (after <link href="BIB10">Suryanto et al. (2003))</link>.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-25" type="bib">
+<bib id="BIB10">
+<label>Suryanto et al., 2003</label>
+<author>
+<first-name>H.</first-name>
+<last-name>Suryanto</last-name>
+</author>, <author>
+<first-name>J. D.</first-name>
+<last-name>Ekstrand</last-name>
+</author>, <author>
+<first-name>C. H.</first-name>
+<last-name>Whitson</last-name>
+</author>, <author>
+<first-name>K.</first-name>
+<last-name>Uleberg</last-name>
+</author>, <author>
+<first-name>M. F.</first-name>
+<last-name>Hoda</last-name>
+</author>, <article-title>Implementation of Stream Management at South Natuna Sea Block B, Indonesia </article-title>, IPA03-E-068, <pubDate>2003</pubDate>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="14" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">Detailed process simulation requires a consistent aggregate molar rate profile for proper equipment sizing and efficient process design. These detailed streams can be provided using the integrated model, see Fig. 13.</anchoringText>
+<image-wrap id="102118187471MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118187471MS_i_13.tif" id="ImgLink-13" />
+<caption>Stream profile for oil and gas streams entering the process facility on the FPSO. (after <link href="BIB12">Suryanto (2003)</link>). Oil streams., Gas streams.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Stream profile for oil and gas streams entering the process facility on the FPSO. (after <link href="BIB11">Suryanto (2003))</link>. Oil streams., Gas streams.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187471MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118187471MS_i_13a.tif" id="ImgLink-13a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Oil streams</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187471MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118187471MS_i_13b.tif" id="ImgLink-13b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Gas streams</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-26" type="bib">
+<bib id="BIB11">
+<label>Suryanto et al., 2003</label>
+<author>
+<first-name>H.</first-name>
+<last-name>Suryanto</last-name>
+</author>, <author>
+<first-name>J. D.</first-name>
+<last-name>Ekstrand</last-name>
+</author>, <author>
+<first-name>C. H.</first-name>
+<last-name>Whitson</last-name>
+</author>, <author>
+<first-name>K.</first-name>
+<last-name>Uleberg</last-name>
+</author>, <author>
+<first-name>M. F.</first-name>
+<last-name>Hoda</last-name>
+</author>, <article-title>Implementation of Stream Management at South Natuna Sea Block B, Indonesia </article-title>, IPA03-E-068, <pubDate>2003</pubDate>.</bib>
+</linkTarget>
+<linkTarget id="link-24" type="bib">
+<bib id="BIB12">
+<label>Suryanto et al., 2003</label>
+<author>
+<first-name>H.</first-name>
+<last-name>Suryanto</last-name>
+</author>, <author>
+<first-name>J. D.</first-name>
+<last-name>Ekstrand</last-name>
+</author>, <author>
+<first-name>C. H.</first-name>
+<last-name>Whitson</last-name>
+</author>, <author>
+<first-name>K.</first-name>
+<last-name>Uleberg</last-name>
+</author>, <author>
+<first-name>M. F.</first-name>
+<last-name>Hoda</last-name>
+</author>, <article-title>Implementation of Stream Management at South Natuna Sea Block B, Indonesia </article-title>, IPA03-E-068, <pubDate>2003</pubDate>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr14">In this project, the focus was to maintain a desired API of sales oil for the entire forecast period while conserving the potential from high grade reservoirs. The optimization yielded a production strategy where the target rate of low grade reservoirs with high potential was increased and the target rate of high grade reservoirs with medium potential was reduced. This resulted in a substantial increase in plateau duration for the entire field as shown in Figure 15.</anchoringText>
+<image-wrap id="102118187471MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118187471MS_i_14.tif" id="ImgLink-14" />
+<caption>Implementation of blending optimization within <i>Pipe-It</i>.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Implementation of blending optimization within Pipe-It.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="15" figure-order="15" data-type-order="15">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr15">With an automated and accurate integrated system covering the entire value chain from the reservoir to the surface, a host of development strategies can be studied. In this project, the focus was to maintain a desired API of sales oil for the entire forecast period while conserving the potential from high grade reservoirs. The optimization yielded a production strategy where the target rate of low grade reservoirs with high potential was increased and the target rate of high grade reservoirs with medium potential was reduced. This resulted in a substantial increase in plateau duration for the entire field as shown in Figure 15.</anchoringText>
+<image-wrap id="102118187471MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118187471MS_i_15.tif" id="ImgLink-15" />
+<caption>Comparison of the sales oil rate and API gravity before and after blending optimization. API vs time, Sales oil rate vs time</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Comparison of the sales oil rate and API gravity before and after blending optimization. API vs time, Sales oil rate vs time</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187471MS-Img_SPi-15a">
+<imageLink type="mediaResource" href="102118187471MS_i_15a.tif" id="ImgLink-15a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>API vs time</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187471MS-Img_SPi-15b">
+<imageLink type="mediaResource" href="102118187471MS_i_15b.tif" id="ImgLink-15b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Sales oil rate vs time</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185079MS.txt" extractionDate="2021-03-29T12:37:11Z">
+<doi>10.2118/185079-MS</doi>
+<pii>10.2118/185079-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="4" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr6">The fluids distribution in the Eagle Ford shale is exactly the opposite of what occurs in conventional reservoirs (Figure 1), where the fluids distribution is governed by gravity/density segregation. In the Eagle Ford the distribution is “upside-down”. Ramirez and Aguilera (2016) have shown that fluids in shale reservoirs have remained with approximately the same original distribution (i.e. approximately the same dry gas-condensate contact and approximately the same condensate-oil contact) over geologic time.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_1.tif" id="ImgLink-1" />
+<caption>Map showing the maturation windows of the Eagle Ford (adapted from Fan et al., 2011).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Map showing the maturation windows of the Eagle Ford (adapted from <link href="BIB1">Fan et al., 2011</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-47" type="bib">
+<bib id="BIB1">
+<label>Fan et al., 2011</label>
+<author>
+<first-name>L.</first-name>
+<last-name>Fan</last-name>
+</author>, <author>
+<first-name>R. B.</first-name>
+<last-name>Martin</last-name>
+</author>, and <author>
+<first-name>J. W.</first-name>
+<last-name>Thompson</last-name>
+</author>
+<pubDate>2011</pubDate>. <article-title>An Integrated Approach for Understanding Oil and Gas Reserves Potential in Eagle Ford Shale Formation. Presented at the Canadian Unconventional Resources Conference, Calgary, Alberta, Canada, 15-17 November </article-title>. <journal-title>SPE </journal-title>
+<volume>148751</volume>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr7">The conceptual model used in this study was proposed by Fragoso et al. (2015). This model is holistic and shows how the production of liquids can be increased under favorable conditions with the use of gas injection. The addition of heavier ends to the injection stream increases even more the recovery of liquids. The basic idea is explained with the use of the schematic presented in Figure 2, which includes all the fluids considered in this investigation.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_2.tif" id="ImgLink-2" />
+<caption>Conceptual model for gas injection in shale oil (O) and condensate (C) containers (not to scale). Thick red arrows show gas injection (essentially dry gas) produced from bottom of the structure (container G). Thin red dashed lines show injection in O and C of gas stripped from C (Fragoso et al. 2015).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Conceptual model for gas injection in shale oil (O) and condensate (C) containers (not to scale). Thick red arrows show gas injection (essentially dry gas) produced from bottom of the structure (container G). Thin red dashed lines show injection in O and C of gas stripped from C (<link href="BIB2">Fragoso et al. 2015</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-48" type="bib">
+<bib id="BIB2">
+<author>
+<first-name>A.</first-name>
+<last-name>Fragoso</last-name>
+</author>, <author><first-name>Y.</first-name><last-name>Wang</last-name></author>, <author><first-name>G.</first-name><last-name>Jing</last-name></author> and <author><first-name>R.</first-name><last-name>Aguilera</last-name></author> <article-title>2015. Improving Recovery of Liquids from Shales through Gas Recycling and Dry Gas Injection. SPE presented at the 177278 SPE Latin American and Caribbean Petroleum Engineering Conference held in Quito </article-title>, <journal-title>Ecuador </journal-title>, <pages><first-page>18</first-page><last-page>20</last-page></pages> <pubDate>November 2015</pubDate>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr8">To represent the previously presented conceptual model, a compositional simulation model is built in GEM of the Computer Modeling Group (CMG). As the sweet spots in the Eagle Ford are known to be naturally fractured, a dual permeability approach is selected. The grid consists of three boxes that represent containers (O), (C) and (G) as shown in Figure 3.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_3.tif" id="ImgLink-3" />
+<caption>Reservoir simulation model for gas (red), condensate (green) and oil (blue) containers. Gas is injected in the shale oil and condensate containers, which correspond to letters O and C in Figure 2. There is no vertical communication between containers. Depths and lateral displacement between containers are not to scale.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Reservoir simulation model for gas (red), condensate (green) and oil (blue) containers. Gas is injected in the shale oil and condensate containers, which correspond to letters O and C in <link href="102118185079MS-Img_SPi-2">Figure 2</link>. There is no vertical communication between containers. Depths and lateral displacement between containers are not to scale.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="7" figure-order="4" data-type-order="6">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr9">The Eagle Ford is divided into two intervals. The upper region, where an oil maturation window is present, is calcite rich. The lower region, where a gas maturation window is present, is rich in organic material. Data for the calcite rich region is used to build the relative permeability curves for the oil container. Data for the organic rich region is used to build the curves for the condensate and dry gas containers. Figure 4 presents the relative permeability curves.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_4.tif" id="ImgLink-4" />
+<caption>Relative permeability curves for the calcite rich zone (top graph), organic rich zone (middle) and fractures (bottom).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Relative permeability curves for the calcite rich zone (top graph), organic rich zone (middle) and fractures (bottom).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185079MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118185079MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>(top graph)</caption-order>
+<caption-text>Relative permeability curves for the calcite rich zone</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185079MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118185079MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>(middle)</caption-order>
+<caption-text>organic rich zone</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185079MS-Img_SPi-4c">
+<imageLink type="mediaResource" href="102118185079MS_i_4c.tif" id="ImgLink-4c" />
+<figure-specific-caption>
+<caption-order>(bottom)</caption-order>
+<caption-text>fractures</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="5" data-type-order="9">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr10">Figure 5 presents oil rates from the horizontal well and average reservoir pressures in the oil container for the base case. The initial oil rate is 1000 bbl/day. This rate is maintained during the first two months and then starts to drop drastically. After five years, the oil rate is 16 bbl/day, and after 20 years it is only 3 bbl/day. This fast depletion is usually observed in shale reservoirs and illustrates the necessity of implementing techniques to boost oil production and improve recoveries. The initial reservoir pressure in the oil container is 4000 psi, and it drops to 2015 psi after 20 years of primary production. Figure 6 is a plot of oil recovery vs time for the base case. It shows that most of the oil in place remains in the reservoir container after 20 years of primary production. For this case, oil recovery is only 6.9%.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_5.tif" id="ImgLink-5" />
+<caption>Oil production rate and average reservoir pressure in the oil container for the base case.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Oil production rate and average reservoir pressure in the oil container for the base case.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="6" data-type-order="10">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr11">Figure 5 presents oil rates from the horizontal well and average reservoir pressures in the oil container for the base case. The initial oil rate is 1000 bbl/day. This rate is maintained during the first two months and then starts to drop drastically. After five years, the oil rate is 16 bbl/day, and after 20 years it is only 3 bbl/day. This fast depletion is usually observed in shale reservoirs and illustrates the necessity of implementing techniques to boost oil production and improve recoveries. The initial reservoir pressure in the oil container is 4000 psi, and it drops to 2015 psi after 20 years of primary production. Figure 6 is a plot of oil recovery vs time for the base case. It shows that most of the oil in place remains in the reservoir container after 20 years of primary production. For this case, oil recovery is only 6.9%.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_6.tif" id="ImgLink-6" />
+<caption>Oil recovery factor in the oil container for the base case.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Oil recovery factor in the oil container for the base case.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="7" data-type-order="11">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr12">Oil production from the condensate container also declines very fast during the early years of primary production as shown in Figure 7. On the other hand, although reservoir pressure decreases strongly during primary production, the reduction is more gradual in the condensate container as compared with the oil container. Figure 8 shows that oil recoveries are also very low in the condensate container. These low recoveries are not only due to the very low matrix permeabilities, but also to the formation of condensate banking around the wellbore as the pressure falls below the dew point.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_7.tif" id="ImgLink-7" />
+<caption>Oil production rate and average reservoir pressure in the condensate container for the base case.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Oil production rate and average reservoir pressure in the condensate container for the base case.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="8" data-type-order="12">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr13">Oil production from the condensate container also declines very fast during the early years of primary production as shown in Figure 7. On the other hand, although reservoir pressure decreases strongly during primary production, the reduction is more gradual in the condensate container as compared with the oil container. Figure 8 shows that oil recoveries are also very low in the condensate container. These low recoveries are not only due to the very low matrix permeabilities, but also to the formation of condensate banking around the wellbore as the pressure falls below the dew point.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_8.tif" id="ImgLink-8" />
+<caption>Oil recovery factor in the condensate container for the base case.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Oil recovery factor in the condensate container for the base case.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="9" data-type-order="13">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr14">The low oil recoveries from the oil container can be increased by means of continuous dry gas injection. Figure 9 illustrates the dramatic improvement in oil recovery. Recovery after 20 years goes from 6.9% by primary production to 20.6% by continuous gas injection.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_9.tif" id="ImgLink-9" />
+<caption>Oil recovery factor in the oil container by continuous gas injection starting after five years of production.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Oil recovery factor in the oil container by continuous gas injection starting after five years of production.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="10" data-type-order="14">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr15">This improved oil recovery is the result of both, an increase in reservoir pressure and the presence of molecular diffusion, which allows fluid flow from the fractures to the ultra-tight matrix as well as fluid flow within the matrix due to differences in concentration. Results are also presented as oil recoveries vs injected pore volumes at reservoir conditions as shown in Figure 10. After 15 years of gas injection, 1.45 pore volumes of gas at reservoir conditions have been injected.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_10.tif" id="ImgLink-10" />
+<caption>Oil recovery factor in the oil container by continuous gas injection vs pore volumes injected.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Oil recovery factor in the oil container by continuous gas injection vs pore volumes injected.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="11" data-type-order="15">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr16">Oil rate in the oil container decreases from 1000 to 16.25 bbl/day after 5 years of primary production. Upon initiation of gas injection, the oil rate grows gradually until it reaches a maximum of 215 bbl/day. Then it decreases gradually and eventually stabilizes at approximately 70 bbl/day (Figure 11). Gas injection restores the reservoir pressure, which is significantly reduced during primary recovery. Gas injection rate remains constant at 5.2 MMscf/day during the continuous injection.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_11.tif" id="ImgLink-11" />
+<caption>Oil production rate, gas injection rate and average reservoir pressure in the oil container for the continuous gas injection case.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Oil production rate, gas injection rate and average reservoir pressure in the oil container for the continuous gas injection case.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="12" data-type-order="16">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr17">Figure 12 presents the results. The higher recoveries are obtained when injection starts at the beginning of production. Thus, the aforementioned rule of thumb for conventional reservoirs does not apply in the case of shales. Maybe the bubble point pressure is too low compared to the initial reservoir pressure, but most likely the rule is not valid in fractured shale reservoirs due to the different mechanisms active when oil is displaced by gas in these types of reservoirs.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_12.tif" id="ImgLink-12" />
+<caption>Different starting times for continuous gas injection in the oil container.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Different starting times for continuous gas injection in the oil container.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="13" data-type-order="17">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr18">As previously discussed during the description of the simulation model, the presence of molecular diffusion as a transport mechanism is considered throughout this study. In order to investigate the effect of this phenomenon, further simulations are run where molecular diffusion is ignored. From the results presented in Figure 13, it is concluded that molecular diffusion plays a fundamental role in the performance of a continuous dry gas injection project in a fractured reservoir.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_13.tif" id="ImgLink-13" />
+<caption>Oil recovery factor in the oil container by continuous gas injection when molecular diffusion is not considered.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Oil recovery factor in the oil container by continuous gas injection when molecular diffusion is not considered.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="14" data-type-order="18">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr19">This paper simulation results show that, in the presence of molecular diffusion, liquid recoveries in the condensate container can be increased from 6.1% by primary production to 14.7% by continuous gas injection (Figure 14). After 15 years of continuous gas injection, 1.3 pore volumes of gas at reservoir conditions are injected (Figure 15).</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_14.tif" id="ImgLink-14" />
+<caption>Oil recovery factor in the condensate container by continuous gas injection starting after five years of production.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Oil recovery factor in the condensate container by continuous gas injection starting after five years of production.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="15" data-type-order="19">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr20">This paper simulation results show that, in the presence of molecular diffusion, liquid recoveries in the condensate container can be increased from 6.1% by primary production to 14.7% by continuous gas injection (Figure 14). After 15 years of continuous gas injection, 1.3 pore volumes of gas at reservoir conditions are injected (Figure 15).</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_15.tif" id="ImgLink-15" />
+<caption>Oil recovery factor in the condensate container by continuous gas injection vs pore volumes injected.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Oil recovery factor in the condensate container by continuous gas injection vs pore volumes injected.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="16" data-type-order="20">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr21">Figure 16 illustrates how the oil rate and the average reservoir pressure increase by implementing a continuous gas injection project in the condensate container. The initial rise in the oil rate once the gas injection starts is not as abrupt as in the oil container. Gas injection rate is very high (up to close to 20MMscf/day) during the first months of continuous injection in the condensate container. Then, it drops drastically and stabilizes at approximately 5.5 MMscf/day.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_16.tif" id="ImgLink-16" />
+<caption>Oil production rate, gas injection rate and average reservoir pressure in the condensate container for the continuous gas injection case.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Oil production rate, gas injection rate and average reservoir pressure in the condensate container for the continuous gas injection case.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="17" data-type-order="21">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr22">Different times when the injection could be started are also analyzed in the condensate container. The starting times are the same used for the oil container. As in that case, results show that the highest recoveries from the condensate container are obtained when injection starts at the beginning of production, as shown in Figure 17.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_17.tif" id="ImgLink-17" />
+<caption>Different starting times for continuous gas injection in the condensate container</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Different starting times for continuous gas injection in the condensate container</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="18" data-type-order="22">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr23">The effect of molecular diffusion in the performance of a continuous dry gas injection project in the condensate container is displayed in Figure 18. As in the oil container, diffusion is fundamental when using continuous dry gas injection to increase liquid recoveries from the condensate container. If diffusion is not considered, gas injection “kills” the liquid production from the reservoir and actually the recovery by gas injection is smaller than the primary recovery.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_18.tif" id="ImgLink-18" />
+<caption>Oil recovery factor in the condensate container by continuous gas injection when molecular diffusion is not considered.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Oil recovery factor in the condensate container by continuous gas injection when molecular diffusion is not considered.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="19" data-type-order="23">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr24">Oil recoveries from the oil container can be also increased by means of huff and puff dry gas injection. The results are much better than those obtained by continuous gas injection. Oil recovery after 20 years is 28.9%, which is four times the primary recovery (Figure 19); this is outstanding. The best performance of the huff and puff gas injection can be explained by considering gas flow from the injection to the production wells through natural fractures.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_19.tif" id="ImgLink-19" />
+<caption>Oil recovery factor in the oil container by huff and puff gas injection starting after five years of production.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Oil recovery factor in the oil container by huff and puff gas injection starting after five years of production.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="20" data-type-order="24">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr25">The best performance of the huff and puff gas injection can be explained by considering gas flow from the injection to the production wells through natural fractures. In huff and puff, as injection and production operations are carried out in the same well, gas can penetrate the matrix more efficiently. In the continuous injection, the gas moves through fractures without allowing enough time for soaking and penetrating the matrix. Figure 20 presents oil recoveries vs. pore volumes injected at reservoir conditions. After 15 years of gas injection, one pore volume of gas at reservoir conditions has been injected.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-20">
+<label>Figure 20 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_20.tif" id="ImgLink-20" />
+<caption>Oil recovery factor in the oil container by huff and puff gas injection vs pore volumes injected.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Oil recovery factor in the oil container by huff and puff gas injection vs pore volumes injected.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="21" data-type-order="25">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr26">The effect of huff and puff gas injection/production cycles on oil rate and reservoir pressure is very effective as shown in Figure 21. During the first cycles, the oil rate is restored to its initial value. Then, the oil rate gradually declines as the cycles go on, until stabilizing at about 80 bbl/day. The incremental oil recovery by huff and puff becomes smaller as subsequent cycles go on.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-21">
+<label>Figure 21 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_21.tif" id="ImgLink-21" />
+<caption>Oil production rate and average reservoir pressure in the oil container for the huff and puff gas injection case.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>21</caption-order>
+<caption-text>Oil production rate and average reservoir pressure in the oil container for the huff and puff gas injection case.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="22" data-type-order="26">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr27">This may be improved by using longer huff periods over time once the huff and puff effectiveness starts to decrease. This is demonstrated in Figure 22 where after 9.4 years of production (4.4 years huff and puff injection, or 8 cycles of 100-day injection and 100-day production), the cycles are modified to 200 days of injection and 100 days of production. By implementing this modification, the injected gas can travel further into the reservoir, thus contacting new oil during the late life of the process and improving recoveries significantly.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-22">
+<label>Figure 22 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_22.tif" id="ImgLink-22" />
+<caption>Oil recovery factor in the oil container by huff and puff gas injection. Longer huff periods of 200 days are implemented after 8 cycles of 100-day huff. Puff is 100-day thought-out.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>22</caption-order>
+<caption-text>Oil recovery factor in the oil container by huff and puff gas injection. Longer huff periods of 200 days are implemented after 8 cycles of 100-day huff. Puff is 100-day thought-out.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="23" data-type-order="27">
+<link href="link-23" type="image" />
+<appendix>
+<linkTarget id="link-23" type="image">
+<anchoringText id="Ancr28">In this simulation, gas injection rates during the huff periods, is always equal to 5.2 MMscf/day. During the puff periods the injection rate is, of course, equal to zero (Figure 23). The highest recovery (after 20 years of production) by huff and puff injection in the oil container is obtained when injection starts after 17 months of primary production. Starting huff and puff gas injection at that time also produces high early recoveries (Figure 24).</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-23">
+<label>Figure 23 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_23.tif" id="ImgLink-23" />
+<caption>Gas injection rate in the oil container for the huff and puff gas injection case.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>23</caption-order>
+<caption-text>Gas injection rate in the oil container for the huff and puff gas injection case.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="24" data-type-order="28">
+<link href="link-24" type="image" />
+<appendix>
+<linkTarget id="link-24" type="image">
+<anchoringText id="Ancr29">In this simulation, gas injection rates during the huff periods, is always equal to 5.2 MMscf/day. During the puff periods the injection rate is, of course, equal to zero (Figure 23). The highest recovery (after 20 years of production) by huff and puff injection in the oil container is obtained when injection starts after 17 months of primary production. Starting huff and puff gas injection at that time also produces high early recoveries (Figure 24).</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-24">
+<label>Figure 24 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_24.tif" id="ImgLink-24" />
+<caption>Different starting times for huff and puff gas injection in the oil container.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>24</caption-order>
+<caption-text>Different starting times for huff and puff gas injection in the oil container.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="25" data-type-order="29">
+<link href="link-25" type="image" />
+<appendix>
+<linkTarget id="link-25" type="image">
+<anchoringText id="Ancr30">Previously, it has been demonstrated that the mass transfer by molecular diffusion is crucial when continuous gas injection is used to increase liquid recoveries in the oil and condensate containers. Conversely, the performance of a huff and puff injection is barely affected by the absence of molecular diffusion as shown in Figure 25. As only one well is used for injection and production, the gas remains in the reservoir at high pressure during the injection part of the cycle, instead of flowing from one well to another through natural fractures. Therefore, even if there is no molecular diffusion, injected gas is given enough time to penetrate the matrix.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-25">
+<label>Figure 25 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_25.tif" id="ImgLink-25" />
+<caption>Oil recovery factor in the oil container by huff and puff gas injection when molecular diffusion is not considered.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>25</caption-order>
+<caption-text>Oil recovery factor in the oil container by huff and puff gas injection when molecular diffusion is not considered.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="26" data-type-order="30">
+<link href="link-26" type="image" />
+<appendix>
+<linkTarget id="link-26" type="image">
+<anchoringText id="Ancr31">Figure 26 compares oil recoveries from the condensate container by primary recovery, continuous, and huff and puff gas injection. The graph shows that the increment in oil recovery obtained by huff and puff gas injection is higher than the incremental recovery obtained by continuous gas injection. The oil recoveries by huff and puff vs the pore volumes of gas injected are shown in Figure 27. Oil rates and average reservoir pressures are presented in Figure 28.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-26">
+<label>Figure 26 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_26.tif" id="ImgLink-26" />
+<caption>Oil recovery factor in the condensate container by huff and puff gas injection starting after five years of production.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>26</caption-order>
+<caption-text>Oil recovery factor in the condensate container by huff and puff gas injection starting after five years of production.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="20" figure-order="27" data-type-order="31">
+<link href="link-27" type="image" />
+<appendix>
+<linkTarget id="link-27" type="image">
+<anchoringText id="Ancr32">Figure 26 compares oil recoveries from the condensate container by primary recovery, continuous, and huff and puff gas injection. The graph shows that the increment in oil recovery obtained by huff and puff gas injection is higher than the incremental recovery obtained by continuous gas injection. The oil recoveries by huff and puff vs the pore volumes of gas injected are shown in Figure 27. Oil rates and average reservoir pressures are presented in Figure 28.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-27">
+<label>Figure 27 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_27.tif" id="ImgLink-27" />
+<caption>Oil recovery factor in the condensate container by huff and puff gas injection vs pore volumes injected.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>27</caption-order>
+<caption-text>Oil recovery factor in the condensate container by huff and puff gas injection vs pore volumes injected.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="20" figure-order="28" data-type-order="32">
+<link href="link-28" type="image" />
+<appendix>
+<linkTarget id="link-28" type="image">
+<anchoringText id="Ancr33">Figure 26 compares oil recoveries from the condensate container by primary recovery, continuous, and huff and puff gas injection. The graph shows that the increment in oil recovery obtained by huff and puff gas injection is higher than the incremental recovery obtained by continuous gas injection. The oil recoveries by huff and puff vs the pore volumes of gas injected are shown in Figure 27. Oil rates and average reservoir pressures are presented in Figure 28.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-28">
+<label>Figure 28 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_28.tif" id="ImgLink-28" />
+<caption>Oil production rate and average reservoir pressure in the condensate container for the huff and puff gas injection case.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>28</caption-order>
+<caption-text>Oil production rate and average reservoir pressure in the condensate container for the huff and puff gas injection case.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="29" data-type-order="33">
+<link href="link-29" type="image" />
+<appendix>
+<linkTarget id="link-29" type="image">
+<anchoringText id="Ancr34">Gas injection rates are high in the condensate container for the huff and puff injection. During the first two cycles, it remains constant at 19.5 MMscf/day. In subsequent cycles, the initial gas injection rate is 19.5 MMscf/day, but then it starts dropping (Figure 29). As in the oil container, the best time (among the times considered here) to start the huff and puff gas injection in the condensate container is after 17 months of primary production (Figure 30).</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-29">
+<label>Figure 29 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_29.tif" id="ImgLink-29" />
+<caption>Gas injection rate in the condensate container for the huff and puff gas injection case.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>29</caption-order>
+<caption-text>Gas injection rate in the condensate container for the huff and puff gas injection case.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="30" data-type-order="34">
+<link href="link-30" type="image" />
+<appendix>
+<linkTarget id="link-30" type="image">
+<anchoringText id="Ancr35">Gas injection rates are high in the condensate container for the huff and puff injection. During the first two cycles, it remains constant at 19.5 MMscf/day. In subsequent cycles, the initial gas injection rate is 19.5 MMscf/day, but then it starts dropping (Figure 29). As in the oil container, the best time (among the times considered here) to start the huff and puff gas injection in the condensate container is after 17 months of primary production (Figure 30).</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-30">
+<label>Figure 30 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_30.tif" id="ImgLink-30" />
+<caption>Different starting times for huff and puff gas injection in the condensate container. Molecular diffusion is considered in these cases.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>30</caption-order>
+<caption-text>Different starting times for huff and puff gas injection in the condensate container. Molecular diffusion is considered in these cases.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="22" figure-order="31" data-type-order="35">
+<link href="link-31" type="image" />
+<appendix>
+<linkTarget id="link-31" type="image">
+<anchoringText id="Ancr36">A very important observation: In contrast to the continuous gas injection, the huff and puff gas injection performance is not affected by the absence of molecular diffusion. In fact, oil recovery after 20 years of production when molecular diffusion is not considered, is slightly above 17% as shown in Figure 31. This is essentially the recovery obtained by considering molecular diffusion (Figure 30).</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-31">
+<label>Figure 31 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_31.tif" id="ImgLink-31" />
+<caption>Oil recovery factor in the condensate container by huff and puff gas injection when molecular diffusion is not considered. Note that recovery is essentially the same as in Figure 30 where molecular diffusion is considered.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>31</caption-order>
+<caption-text>Oil recovery factor in the condensate container by huff and puff gas injection when molecular diffusion is not considered. Note that recovery is essentially the same as in <link href="102118185079MS-Img_SPi-30">Figure 30</link> where molecular diffusion is considered.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="23" figure-order="32" data-type-order="37">
+<link href="link-32" type="image" />
+<appendix>
+<linkTarget id="link-32" type="image">
+<anchoringText id="Ancr37">Figure 32, presents NPV results for continuous gas injection in the oil container. If a pre-existing well is converted to gas injector, the economic results are satisfactory for an oil price of 50 USD/barrel. On the other hand, if drilling a new injection well is required, in spite of the incremental oil recovery showed in Figure 9, the economics are deficient, and continuing with primary production may be a better option. A higher oil price (for example, 80 USD/barrel) would be needed as shown in Figure 32. NPV results for continuous gas injection in the condensate container are shown in Figure 33. The conclusions are the same as in the case of the oil container. Using a pre-existing well is the only possible way to make continuous gas injection profitable for an oil price of 50 USD/barrel.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-32">
+<label>Figure 32 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_32.tif" id="ImgLink-32" />
+<caption>NPV calculations for continuous gas injection in the oil container.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>32</caption-order>
+<caption-text>NPV calculations for continuous gas injection in the oil container.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="24" figure-order="33" data-type-order="38">
+<link href="link-33" type="image" />
+<appendix>
+<linkTarget id="link-33" type="image">
+<anchoringText id="Ancr38">Figure 32, presents NPV results for continuous gas injection in the oil container. If a pre-existing well is converted to gas injector, the economic results are satisfactory for an oil price of 50 USD/barrel. On the other hand, if drilling a new injection well is required, in spite of the incremental oil recovery showed in Figure 9, the economics are deficient, and continuing with primary production may be a better option. A higher oil price (for example, 80 USD/barrel) would be needed as shown in Figure 32. NPV results for continuous gas injection in the condensate container are shown in Figure 33. The conclusions are the same as in the case of the oil container. Using a pre-existing well is the only possible way to make continuous gas injection profitable for an oil price of 50 USD/barrel.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-33">
+<label>Figure 33 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_33.tif" id="ImgLink-33" />
+<caption>NPV calculations for continuous gas injection in the condensate container.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>33</caption-order>
+<caption-text>NPV calculations for continuous gas injection in the condensate container.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="24" figure-order="34" data-type-order="39">
+<link href="link-34" type="image" />
+<appendix>
+<linkTarget id="link-34" type="image">
+<anchoringText id="Ancr39">The huff and puff gas injection only requires one well. In addition to the higher oil recoveries that can be obtained, especially in the oil container, and the fact that the huff and puff recovery is not diffusion-dependent, the need of only one well is one of key advantages over the continuous gas injection. Figure 34, shows the outstanding economic results that can be obtained by means of huff and puff gas injection in the oil container. After 20 years, the NPV is almost USD 11 million when considering an oil price of 50 USD/bbl.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-34">
+<label>Figure 34 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_34.tif" id="ImgLink-34" />
+<caption>NPV calculations for huff and puff gas injection in the oil container.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>34</caption-order>
+<caption-text>NPV calculations for huff and puff gas injection in the oil container.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="25" figure-order="35" data-type-order="40">
+<link href="link-35" type="image" />
+<appendix>
+<linkTarget id="link-35" type="image">
+<anchoringText id="Ancr40">This is approximately the same NPV obtained by continuous gas injection at an oil price of 80 USD/bbl. Even for an oil price of 35 USD/bbl, the huff and puff injection in the oil container can be economic. Results of NPV calculations for huff and puff injection in the condensate container are presented in Figure 35. The plot allows one to conclude that economic results are better for huff and puff injection as compared with continuous gas injection in the condensate container. However, the difference is not as significant as in the oil container.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-35">
+<label>Figure 35 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_35.tif" id="ImgLink-35" />
+<caption>NPV calculations for huff and puff gas injection in the condensate container.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>35</caption-order>
+<caption-text>NPV calculations for huff and puff gas injection in the condensate container.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="26" figure-order="36" data-type-order="41">
+<link href="link-36" type="image" />
+<appendix>
+<linkTarget id="link-36" type="image">
+<anchoringText id="Ancr41">The surface process is based on a methodology proposed by Bartolomeu et al. (2014) and is presented in Figure 36. The fluids produced from both, the oil and the condensate containers are first separated into oil and gas. After the separation, the gas goes through two processing stages. In the first stage, the CO2 is removed from the gas stream. In the second stage, natural gas liquids (NGL) are extracted from the stream and the remaining dry gas is reinjected into the condensate container (and if needed, part of the dry gas could be reinjected into the oil container).</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-36">
+<label>Figure 36 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_36.tif" id="ImgLink-36" />
+<caption>Surface process flow diagram (modified from Bartolomeu et. al, 2014).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>36</caption-order>
+<caption-text>Surface process flow diagram (modified from Bartolomeu et. al, 2014).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="26" figure-order="37" data-type-order="42">
+<link href="link-37" type="image" />
+<appendix>
+<linkTarget id="link-37" type="image">
+<anchoringText id="Ancr42">Figure 37 presents oil recoveries for the case of continuous gas injection in the oil container. Recovery goes from 3.3% by primary recovery to 22.5% by continuous gas injection. The incremental recovery is 19%, which is higher than the one obtained when the reservoir was simulated in GEM without considering the integrated production modelling (13.7%). This can be explained by analyzing the BHPs in both models (Figure 38). In the GEM model the BHP is constant throughout the whole simulation (except for the first three months). This value is equal to the minimum BHP set as constraint in GEM. In the coupled model (GEM + FORGAS), the BHP is affected by the production system and is always higher than the minimum BHP constraint. In addition, during continuous gas injection, the BHP increases significantly which allows to reach larger reservoir pressures.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-37">
+<label>Figure 37 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_37.tif" id="ImgLink-37" />
+<caption>Oil recovery factor in the oil container by continuous gas injection.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>37</caption-order>
+<caption-text>Oil recovery factor in the oil container by continuous gas injection.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="27" figure-order="38" data-type-order="43">
+<link href="link-38" type="image" />
+<appendix>
+<linkTarget id="link-38" type="image">
+<anchoringText id="Ancr43">Figure 37 presents oil recoveries for the case of continuous gas injection in the oil container. Recovery goes from 3.3% by primary recovery to 22.5% by continuous gas injection. The incremental recovery is 19%, which is higher than the one obtained when the reservoir was simulated in GEM without considering the integrated production modelling (13.7%). This can be explained by analyzing the BHPs in both models (Figure 38). In the GEM model the BHP is constant throughout the whole simulation (except for the first three months). This value is equal to the minimum BHP set as constraint in GEM. In the coupled model (GEM + FORGAS), the BHP is affected by the production system and is always higher than the minimum BHP constraint. In addition, during continuous gas injection, the BHP increases significantly which allows to reach larger reservoir pressures.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-38">
+<label>Figure 38 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_38.tif" id="ImgLink-38" />
+<caption>BHP and reservoir pressure in the oil container for the GEM and the integrated models.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>38</caption-order>
+<caption-text>BHP and reservoir pressure in the oil container for the GEM and the integrated models.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="27" figure-order="39" data-type-order="44">
+<link href="link-39" type="image" />
+<appendix>
+<linkTarget id="link-39" type="image">
+<anchoringText id="Ancr44">Oil recoveries in the condensate container by continuous gas injection are shown in Figure 39. The situation is similar to that observed in the oil container. Although the incremental oil recovery after 20 years of simulated production is somewhat larger for the GEM model compared to the integrated model, it can be seen from the plots that in the GEM model alone (Figure 14), the curve is concave downwards, while in the integrated model (Figure 39), the curve is almost a straight line. This means that in future years, the recovery increment would be higher in the integrated model. The BHP explanation presented above for the oil container (Figure 38) also applies for BHPs in the condensate container (see Figure 40).</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-39">
+<label>Figure 39 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_39.tif" id="ImgLink-39" />
+<caption>Oil recovery factor in the condensate container by continuous gas injection.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>39</caption-order>
+<caption-text>Oil recovery factor in the condensate container by continuous gas injection.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="28" figure-order="40" data-type-order="45">
+<link href="link-40" type="image" />
+<appendix>
+<linkTarget id="link-40" type="image">
+<anchoringText id="Ancr45">Oil recoveries in the condensate container by continuous gas injection are shown in Figure 39. The situation is similar to that observed in the oil container. Although the incremental oil recovery after 20 years of simulated production is somewhat larger for the GEM model compared to the integrated model, it can be seen from the plots that in the GEM model alone (Figure 14), the curve is concave downwards, while in the integrated model (Figure 39), the curve is almost a straight line. This means that in future years, the recovery increment would be higher in the integrated model. The BHP explanation presented above for the oil container (Figure 38) also applies for BHPs in the condensate container (see Figure 40).</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-40">
+<label>Figure 40 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_40.tif" id="ImgLink-40" />
+<caption>BHP and reservoir pressure in the condensate container for the GEM and the integrated models.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>40</caption-order>
+<caption-text>BHP and reservoir pressure in the condensate container for the GEM and the integrated models.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="28" figure-order="41" data-type-order="46">
+<link href="link-41" type="image" />
+<appendix>
+<linkTarget id="link-41" type="image">
+<anchoringText id="Ancr46">Figure 41 presents oil recoveries from the oil container by huff and puff gas injection. The high BHPs caused by backpressures from the surface facilities affects negatively the gas huff and puff gas injection during the first few years. This is concluded by making a comparison with recoveries from the GEM model (Figure 19). However, the increase in recoveries is more “stable” in the integrated model (recovery increases very slowly in the GEM model after six years of injection), which may deliver better results in the long term.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-41">
+<label>Figure 41 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_41.tif" id="ImgLink-41" />
+<caption>Oil recovery factor in the oil container by huff and puff gas injection.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>41</caption-order>
+<caption-text>Oil recovery factor in the oil container by huff and puff gas injection.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="29" figure-order="42" data-type-order="47">
+<link href="link-42" type="image" />
+<appendix>
+<linkTarget id="link-42" type="image">
+<anchoringText id="Ancr47">The facilities back pressures have a strong negative effect on the huff and puff gas injection performance in the condensate container (Figure 42). Previously, a significant improvement in oil recovery was obtained by huff and puff gas injection in the condensate container (Figure 26) using the GEM model, where the BHP declined freely during the puff periods to the minimum value defined as a constraint.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-42">
+<label>Figure 42 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_42.tif" id="ImgLink-42" />
+<caption>Oil recovery factor in the condensate container by huff and puff gas injection.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>42</caption-order>
+<caption-text>Oil recovery factor in the condensate container by huff and puff gas injection.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="29" figure-order="43" data-type-order="48">
+<link href="link-43" type="image" />
+<appendix>
+<linkTarget id="link-43" type="image">
+<anchoringText id="Ancr48">Installation of a compressor close to the wellhead in the condensate container does barely affect oil recoveries from the oil container as shown in Figure 43. This is significant from a practical point of view. On the other hand, Figure 44 shows that the inclusion of a compressor near the well producing from the condensate container helps to increase liquids recoveries by huff and puff gas injection. The BHPs are lower in this case, allowing thus to produce at higher rates during the puff periods.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-43">
+<label>Figure 43 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_43.tif" id="ImgLink-43" />
+<caption>Oil recovery factor from the oil container by huff and puff gas injection for the case where a compressor is installed close to the wellhead in the condensate container.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>43</caption-order>
+<caption-text>Oil recovery factor from the oil container by huff and puff gas injection for the case where a compressor is installed close to the wellhead in the condensate container.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="30" figure-order="44" data-type-order="49">
+<link href="link-44" type="image" />
+<appendix>
+<linkTarget id="link-44" type="image">
+<anchoringText id="Ancr49">Installation of a compressor close to the wellhead in the condensate container does barely affect oil recoveries from the oil container as shown in Figure 43. This is significant from a practical point of view. On the other hand, Figure 44 shows that the inclusion of a compressor near the well producing from the condensate container helps to increase liquids recoveries by huff and puff gas injection. The BHPs are lower in this case, allowing thus to produce at higher rates during the puff periods.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-44">
+<label>Figure 44 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_44.tif" id="ImgLink-44" />
+<caption>Oil recovery factor from the condensate container by huff and puff gas injection for the case where a compressor is installed close to the wellhead in the condensate container.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>44</caption-order>
+<caption-text>Oil recovery factor from the condensate container by huff and puff gas injection for the case where a compressor is installed close to the wellhead in the condensate container.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="30" figure-order="45" data-type-order="50">
+<link href="link-45" type="image" />
+<appendix>
+<linkTarget id="link-45" type="image">
+<anchoringText id="Ancr50">Another situation of practical importance is the case where a subsurface pump generates low BHPs in the producing well of the oil container. In this case, the subsurface pump helps to increase the recoveries obtained during the first years of the project, which in practice is desirable. Results are presented in Figure 45.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-45">
+<label>Figure 45 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_45.tif" id="ImgLink-45" />
+<caption>Oil recovery factor in the oil container by huff and puff gas injection for the case where the subsurface pump generates low BHPs.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>45</caption-order>
+<caption-text>Oil recovery factor in the oil container by huff and puff gas injection for the case where the subsurface pump generates low BHPs.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="31" figure-order="46" data-type-order="51">
+<link href="link-46" type="image" />
+<appendix>
+<linkTarget id="link-46" type="image">
+<anchoringText id="Ancr51">A pump that generates low BHPs may also be used to solve the problem originated by backpressures in the condensate container (in a real case, this pump must have the capacity to handle high GORs). Results are similar to those obtained by installing a compressor close to the wellhead, as shown in Figure 46.</anchoringText>
+<image-wrap id="102118185079MS-Img_SPi-46">
+<label>Figure 46 </label>
+<imageLink type="mediaResource" href="102118185079MS_i_46.tif" id="ImgLink-46" />
+<caption>Oil recovery factor in the condensate container by huff and puff gas injection for the case where the subsurface pump generates low BHPs.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>46</caption-order>
+<caption-text>Oil recovery factor in the condensate container by huff and puff gas injection for the case where the subsurface pump generates low BHPs.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189707MS.txt" extractionDate="2021-03-26T19:45:41Z">
+<doi>10.2118/189707-MS</doi>
+<pii>10.2118/189707-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr3"> </anchoringText>
+<image-wrap id="102118189707MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118189707MS_i_1.tif" id="ImgLink-1" />
+<caption>Map of the Marcellus Shale Core Fairway.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Map of the Marcellus Shale Core Fairway.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr4">The well was landed in the Lower Marcellus with some significant footage spent in the Cherry Valley Limestone also. Three faults are noted in the well geosteering diagram displayed in Fig. 2. The bottom hole assembly used to drill the 4,000-foot lateral section included an 8 ½ inches polycrystalline diamond bit, a bent sub, and a positive displacement mud motor. Each of the mentioned items can affect the calculated MSE values and are important to denote before the analysis begins.</anchoringText>
+<image-wrap id="102118189707MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118189707MS_i_2.tif" id="ImgLink-2" />
+<caption>Geosteering from the Clearfield Marcellus well noting which formations in which the well landed and the location of possible faults.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Geosteering from the Clearfield Marcellus well noting which formations in which the well landed and the location of possible faults.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr5">The calculations were performed by hand for this analysis, though the process could be improved through additional automation and application of artificial intelligence algorithms. The resulting MSE values have been plotted on the wellbore in Fig. 3. The variations in MSE immediately show heterogeneity through what geosteering would define as a homogeneous section. These variations in rock strength could be detrimental if a geometric completion design is applied throughout the lateral without proper consideration.</anchoringText>
+<image-wrap id="102118189707MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118189707MS_i_3.tif" id="ImgLink-3" />
+<caption>Calculated MSE values displayed across the horizontal well</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Calculated MSE values displayed across the horizontal well</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr6">Initial comparisons of the MSE calculations to the sonic derived UCS show a relative correlation across the entire lateral. Plotting the values beside each other, as seen in Fig. 4, immediately indicates possible issues at several depths concerning the MSE calculation. From 8,000 to 8,200 feet there is an obvious conflict between the drilling information and the logging suite. The trend of both datasets is similar, yet the depths of the UCS seem to be compressed when compared to the MSE calculation in this interval.</anchoringText>
+<image-wrap id="102118189707MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118189707MS_i_4.tif" id="ImgLink-4" />
+<caption>A comparison of UCS to MSE through the horizontal portion of a Marcellus well.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>A comparison of UCS to MSE through the horizontal portion of a Marcellus well.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr7">The vendor providing the logging services also provided a deliverable that suggested perforation intervals and grouping to achieve an engineered completion. Figs. 5a, 5b, and 5c show the placement of the engineered perforations over both the UCS and MSE curves for several stages. It is necessary to note that the vendor's technique for targeting particular perforations may not have included UCS.</anchoringText>
+<image-wrap id="102118189707MS-Img_SPi-5">
+<label>Figure 5a </label>
+<imageLink type="mediaResource" href="102118189707MS_i_5.tif" id="ImgLink-5" />
+<caption>A comparison of UCS and MSE for stage 9.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5a</caption-order>
+<caption-text>A comparison of UCS and MSE for stage 9.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr8">The vendor providing the logging services also provided a deliverable that suggested perforation intervals and grouping to achieve an engineered completion. Figs. 5a, 5b, and 5c show the placement of the engineered perforations over both the UCS and MSE curves for several stages. It is necessary to note that the vendor's technique for targeting particular perforations may not have included UCS.</anchoringText>
+<image-wrap id="102118189707MS-Img_SPi-6">
+<label>Figure 5b </label>
+<imageLink type="mediaResource" href="102118189707MS_i_6.tif" id="ImgLink-6" />
+<caption>A comparison of UCS and MSE for stage 11.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5b</caption-order>
+<caption-text>A comparison of UCS and MSE for stage 11.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr9">The vendor providing the logging services also provided a deliverable that suggested perforation intervals and grouping to achieve an engineered completion. Figs. 5a, 5b, and 5c show the placement of the engineered perforations over both the UCS and MSE curves for several stages. It is necessary to note that the vendor's technique for targeting particular perforations may not have included UCS.</anchoringText>
+<image-wrap id="102118189707MS-Img_SPi-7">
+<label>Figure 5c </label>
+<imageLink type="mediaResource" href="102118189707MS_i_7.tif" id="ImgLink-7" />
+<caption>A comparison of UCS and MSE for stage 13.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5c</caption-order>
+<caption-text>A comparison of UCS and MSE for stage 13.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr10"> </anchoringText>
+<image-wrap id="102118189707MS-Img_SPi-8">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118189707MS_i_8.tif" id="ImgLink-8" />
+<caption>Horizontal Marcellus wells utilized to study the effects of contributing clusters.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Horizontal Marcellus wells utilized to study the effects of contributing clusters.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr11">An example of the binning and contributing clusters is shown in Fig. 7. The coloring of the cells represents the MSE values, while the numbers within the cells represent the top measured depth of the perforation cluster. The scale used to bin MSE values is shown on the right of Fig. 7. As an example, stage 7 has a contributing cluster calculation of three due to clusters 4, 5, and 6 sharing the lowest MSE values within that zone. Alternatively, stage 11 has only one cluster (cluster 3) in the lowest MSE bin, but with the above assumption on feasibility and perforation friction, stage 11 is given a contributing cluster count of two.</anchoringText>
+<image-wrap id="102118189707MS-Img_SPi-9">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118189707MS_i_9.tif" id="ImgLink-9" />
+<caption>A contributing cluster analysis for an individual well.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>A contributing cluster analysis for an individual well.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="11">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr12">Results for each of the wells are available in table 2. A plot showing the relationship of contributing clusters to the one-year cumulative gas production is also shown in Fig. 8. A linear trend starts to develop between the well productivity and the estimated number of contributing clusters. An outlier to the trend is the Broadwater 1MH. The author believes that well spacing may have a greater influence on well productivity within the first year.</anchoringText>
+<image-wrap id="102118189707MS-Img_SPi-10">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118189707MS_i_10.tif" id="ImgLink-10" />
+<caption>A trend between estimated contributing clusters and the first year of gas production</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>A trend between estimated contributing clusters and the first year of gas production</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

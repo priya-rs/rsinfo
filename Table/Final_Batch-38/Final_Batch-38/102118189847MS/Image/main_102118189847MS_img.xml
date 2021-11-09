@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189847MS.txt" extractionDate="2021-03-30T10:54:09Z">
+<doi>10.2118/189847-MS</doi>
+<pii>10.2118/189847-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">This project began with the intention to expand the limits of an eight-well project spacing test in Niobrara A, B, and C benches to determine optimum well spacing while applying NWB and far-field diagnostic tools to evaluate performance. Fig. 1 shows an extensive survey of the available monitoring tools and their application, which would be compiled collaboratively by the service provider and operator, based on the project. This matrix approach to defining the applicability of a number of NWB and far-field diagnostic tools was used to help prioritize the best tools for evaluation.</anchoringText>
+<image-wrap id="102118189847MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118189847MS_i_1.tif" id="ImgLink-1" />
+<caption>Typical NWB and far-field sensors and their utility (after Walser and Ranjan 2016). This is a generalized table, the applicability of the diagnostic tools may vary from formation to formation, and in varied applications. This would be built for a specific project in further detail in the design of experiment stage</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Typical NWB and far-field sensors and their utility (after <link href="BIB1">Walser and Ranjan 2016</link>). This is a generalized table, the applicability of the diagnostic tools may vary from formation to formation, and in varied applications. This would be built for a specific project in further detail in the design of experiment stage</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-21" type="bib">
+<bib id="BIB1">
+<label>Walser and Ranjan, 2016</label>
+<author>
+<first-name>D.</first-name>
+<last-name>Walser</last-name>
+</author> and <author>
+<first-name>P.</first-name>
+<last-name>Ranjan</last-name>
+</author>
+<pubDate>2016</pubDate>. <article-title>Minimizing Cost of the Learning Curve for NOCs in Unconventional Delineation and Development. Presented at the Abu Dhabi International Petroleum Exhibition &amp; Conference</article-title>, Abu Dhabi, UAE, 7–10 November. SPE-183063-MS. https://doi.org/10.2118/183063-MS.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">The treatment well order (Fig. 2) was decided with the objective of maximizing learnings. 1942 well was treated first. Next, Wells 1943 and 1947 were “zipper” fractured to measure the effect of interference on the farthest wells and between the A and C benches. Wells 1941 and 1948 were then zipper fractured to measure interference between the B and C benches. Well 1944 had the microseismic monitoring (MSM) downhole array and was treated last.</anchoringText>
+<image-wrap id="102118189847MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118189847MS_i_2.tif" id="ImgLink-2" />
+<caption>Well layout, target bench, and order of treatment information for the Horsetail 30F well pad.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Well layout, target bench, and order of treatment information for the Horsetail 30F well pad.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">For the purposes of this paper, monitoring primary well treatment and cross-well observations are primarily discussed. Well 1942 was completed using 37 stages with plug-n-perf methodology. Figs. 3 and 4 show examples of real-time DTS and DAS data. Stages 1 through 16 were treated with cross-linked fluid, and Stages 17 through 37 were treated with a slickwater system.</anchoringText>
+<image-wrap id="102118189847MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118189847MS_i_3.tif" id="ImgLink-3" />
+<caption>Example of real-time DTS information during a stage for Clusters 19, 20, and 21. This stage shows fairly good distribution of fluid amongst the three clusters on a qualitative analysis.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Example of real-time DTS information during a stage for Clusters 19, 20, and 21. This stage shows fairly good distribution of fluid amongst the three clusters on a qualitative analysis.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4"> </anchoringText>
+<image-wrap id="102118189847MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118189847MS_i_4.tif" id="ImgLink-4" />
+<caption>Same stage as in Fig. 3: DAS real-time information is displayed, where higher acoustic intensity is observed at the toe and heel cluster and relatively lower at the middle cluster.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Same stage as in <link href="102118189847MS-Img_SPi-3">Fig. 3</link>: DAS real-time information is displayed, where higher acoustic intensity is observed at the toe and heel cluster and relatively lower at the middle cluster.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">This information was then input through a thermo-hydraulic module to obtain quantified fluid distribution across the entire lateral (Kalia et al. 2014). The stages were completed using two different fluid systems. This information allowed the operating company to compare the performance of the systems (Figs. 5 and 6). Fiber-optics cable was terminated near the Stage 4 depth; hence, the data for results exists from Stages 5 through 37. Stages 17 through 21 also employed NWB diverter material as an experiment to evaluate the effect of diverters with fiber optics.</anchoringText>
+<image-wrap id="102118189847MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118189847MS_i_5.tif" id="ImgLink-5" />
+<caption>Quantitative distribution of fluid per cluster of the well. The designed volume per cluster is calculated by assuming equal distribution of the stage volume within the clusters of that stage. It is also worth noting that 48% of time, the heel cluster took the most fluid during the stages.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Quantitative distribution of fluid per cluster of the well. The designed volume per cluster is calculated by assuming equal distribution of the stage volume within the clusters of that stage. It is also worth noting that 48% of time, the heel cluster took the most fluid during the stages.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="6" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">This information was then input through a thermo-hydraulic module to obtain quantified fluid distribution across the entire lateral (Kalia et al. 2014). The stages were completed using two different fluid systems. This information allowed the operating company to compare the performance of the systems (Figs. 5 and 6). Fiber-optics cable was terminated near the Stage 4 depth; hence, the data for results exists from Stages 5 through 37. Stages 17 through 21 also employed NWB diverter material as an experiment to evaluate the effect of diverters with fiber optics.</anchoringText>
+<image-wrap id="102118189847MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118189847MS_i_6.tif" id="ImgLink-6" />
+<caption>(Top) 47% of all clusters were within 20% variance of the design volume, and 30% of clusters took less and 23% took more than 20% of the designed volume; (bottom left) slickwater stages; (bottom right) crosslink stages. No significant variation is observed with the fluid design on distribution within clusters.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>(Top) 47% of all clusters were within 20% variance of the design volume, and 30% of clusters took less and 23% took more than 20% of the designed volume; (bottom left) slickwater stages; (bottom right) crosslink stages. No significant variation is observed with the fluid design on distribution within clusters.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189847MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118189847MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>top</caption-order>
+<caption-text>47% of all clusters were within 20% variance of the design volume, and 30% of clusters took less and 23% took more than 20% of the designed volume</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189847MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118189847MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>bottom left</caption-order>
+<caption-text>slickwater stages</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189847MS-Img_SPi-6c">
+<imageLink type="mediaResource" href="102118189847MS_i_6c.tif" id="ImgLink-6c" />
+<figure-specific-caption>
+<caption-order>bottom right</caption-order>
+<caption-text>crosslink stages</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="7" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">Further, the diverter stages could be divided into pre- and post-diverter stages to understand the fluid distribution change. In Fig. 7, the top chart shows “prediverter” flow allocation and the lower chart shows “post-diverter” flow allocation among the three clusters. To better understand the distribution pre- and post-diverter drops with DTS, quantitative profiling is necessary because qualitative temperatures can be misleading as a result of NWB cooling and short warmback, when rates might be lowered to drop the diverters. At the time of completion and execution of the project (2014-2015), DTS was being used to quantify the volumetric contributions. Since then, rapid advancements have taken place in DAS and currently DAS is used as the primary quantified diagnostics for fluid and proppant.</anchoringText>
+<image-wrap id="102118189847MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118189847MS_i_7.tif" id="ImgLink-7" />
+<caption>The upper chart shows the initial fluid distribution when a stage was begun and the lower chart altered distribution post-diverter drop. To understand the fluid distribution change pre- and post-diverter, it is necessary to perform quantitative modeling, as qualitative observations can be misleading because of warmback or NWB cooling.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>The upper chart shows the initial fluid distribution when a stage was begun and the lower chart altered distribution post-diverter drop. To understand the fluid distribution change pre- and post-diverter, it is necessary to perform quantitative modeling, as qualitative observations can be misleading because of warmback or NWB cooling.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189847MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118189847MS_i_7a.tif" id="ImgLink-7a" />
+</image-wrap>
+<image-wrap id="102118189847MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118189847MS_i_7b.tif" id="ImgLink-7b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">Fig. 8 shows an example of cross-well interference analysis using fiber optics.</anchoringText>
+<image-wrap id="102118189847MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118189847MS_i_8.tif" id="ImgLink-8" />
+<caption>Example of cross-well analysis.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Example of cross-well analysis.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">Fig. 9 shows results of fracture height from downhole tiltmeters for four wells that were in range of microdeformation detection. The comparatively shorter fracture heights recorded in Wells 1945 and 1946 vs. those noted in Wells 1947 and 1948 could be related to the stimulation sequence, as Wells 1945 and 1946 were stimulated last. These data could also be used to improve the interpretation of microseismic data for the project. Microseismic height interpretations for stages outside of the viewing distance of the hybrid array could be calibrated by the hybrid array stages.</anchoringText>
+<image-wrap id="102118189847MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118189847MS_i_9.tif" id="ImgLink-9" />
+<caption>Fracture heights from downhole microdeformation analyses.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Fracture heights from downhole microdeformation analyses.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">Fig. 10 shows the fracture azimuth for each stage of Well 1943, which was zipper-fractured along with Well 1947. These results demonstrate the change in primary azimuth resulting from stress orientations and fracture order. On the west side, Well 1942 (not shown in Fig. 10) was fractured before performing this zipper fracturing treatment. The observation of the greater longitudinal fractures mostly near the heel of this well was a result of the alteration in the stress field downhole.</anchoringText>
+<image-wrap id="102118189847MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118189847MS_i_10.tif" id="ImgLink-10" />
+<caption>Azimuthal result of surface microdeformation processing of Well 1943, which shows how the fracture azimuth changes from the toe to the heel along the lateral in a zipper fracturing treatment. In this image, fracture length is arbitrary.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Azimuthal result of surface microdeformation processing of Well 1943, which shows how the fracture azimuth changes from the toe to the heel along the lateral in a zipper fracturing treatment. In this image, fracture length is arbitrary.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">Surface and downhole microdeformation results measured the direct deformation caused by hydraulic fluid placement and the relationship between well proximity and changes in the stress field (Figs. 11 and 12).</anchoringText>
+<image-wrap id="102118189847MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118189847MS_i_11.tif" id="ImgLink-11" />
+<caption>SRC results of an individual treatment stage with microseismic events during the treatment overlaid. This analysis was performed on all stages. As can be observed from this stage result, on certain stages, the deformation shifted away from the wellbore resulting from induced stress fields.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>SRC results of an individual treatment stage with microseismic events during the treatment overlaid. This analysis was performed on all stages. As can be observed from this stage result, on certain stages, the deformation shifted away from the wellbore resulting from induced stress fields.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">Surface and downhole microdeformation results measured the direct deformation caused by hydraulic fluid placement and the relationship between well proximity and changes in the stress field (Figs. 11 and 12).</anchoringText>
+<image-wrap id="102118189847MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118189847MS_i_12.tif" id="ImgLink-12" />
+<caption>An example of surface tilt analysis for entire treatment. Fractures are asymmetrical in some stages, while the overall azimuth remains the same along the lateral. The reservoir area is colored based on rock displacement.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>An example of surface tilt analysis for entire treatment. Fractures are asymmetrical in some stages, while the overall azimuth remains the same along the lateral. The reservoir area is colored based on rock displacement.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">Microseismic mapping of the treatments wells was performed using two downhole arrays (Fig. 13). One array was deployed laterally in Well 1944. This array was repositioned to maintain proximity to each treatment stage. The second array was deployed vertically along with the downhole microdeformation tiltmeters in this hybrid array. This provided colocation of events and greater height accuracy in event locations for the project overall.</anchoringText>
+<image-wrap id="102118189847MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118189847MS_i_13.tif" id="ImgLink-13" />
+<caption>Dual-array microseismic setup.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Dual-array microseismic setup.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr14">To build a calibrated fracture model, direct measurements are required to constrain it. This project comprised a diverse arrangement of diagnostic and sensor information (Figs. 14 through 20), which provided the opportunity to constrain a fracture model along several different parameters and determine whether the model could match what was able to be measured.</anchoringText>
+<image-wrap id="102118189847MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118189847MS_i_14.tif" id="ImgLink-14" />
+<caption>Map view of 3D fracture model showing effects of stress azimuth and stress shadowing on fracture asymmetry.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Map view of 3D fracture model showing effects of stress azimuth and stress shadowing on fracture asymmetry.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="15" data-type-order="15">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr15">To build a calibrated fracture model, direct measurements are required to constrain it. This project comprised a diverse arrangement of diagnostic and sensor information (Figs. 14 through 20), which provided the opportunity to constrain a fracture model along several different parameters and determine whether the model could match what was able to be measured.</anchoringText>
+<image-wrap id="102118189847MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118189847MS_i_15.tif" id="ImgLink-15" />
+<caption>Side view of 3D fracture model showing variability in fracture height growth along the lateral.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Side view of 3D fracture model showing variability in fracture height growth along the lateral.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="16" data-type-order="16">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr16">To build a calibrated fracture model, direct measurements are required to constrain it. This project comprised a diverse arrangement of diagnostic and sensor information (Figs. 14 through 20), which provided the opportunity to constrain a fracture model along several different parameters and determine whether the model could match what was able to be measured.</anchoringText>
+<image-wrap id="102118189847MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118189847MS_i_16.tif" id="ImgLink-16" />
+<caption>3D fracture model grid showing structure along the horizontal wellbore’s path.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>3D fracture model grid showing structure along the horizontal wellbore’s path.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="17" data-type-order="17">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr17">To build a calibrated fracture model, direct measurements are required to constrain it. This project comprised a diverse arrangement of diagnostic and sensor information (Figs. 14 through 20), which provided the opportunity to constrain a fracture model along several different parameters and determine whether the model could match what was able to be measured.</anchoringText>
+<image-wrap id="102118189847MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118189847MS_i_17.tif" id="ImgLink-17" />
+<caption>Example pressure history match from Stage 5 of the reference well.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Example pressure history match from Stage 5 of the reference well.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="18" data-type-order="18">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr18">To build a calibrated fracture model, direct measurements are required to constrain it. This project comprised a diverse arrangement of diagnostic and sensor information (Figs. 14 through 20), which provided the opportunity to constrain a fracture model along several different parameters and determine whether the model could match what was able to be measured.</anchoringText>
+<image-wrap id="102118189847MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118189847MS_i_18.tif" id="ImgLink-18" />
+<caption>3D fracture geometry output from calibrated model.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>3D fracture geometry output from calibrated model.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="19" data-type-order="19">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr19">To build a calibrated fracture model, direct measurements are required to constrain it. This project comprised a diverse arrangement of diagnostic and sensor information (Figs. 14 through 20), which provided the opportunity to constrain a fracture model along several different parameters and determine whether the model could match what was able to be measured.</anchoringText>
+<image-wrap id="102118189847MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118189847MS_i_19.tif" id="ImgLink-19" />
+<caption>3D fracture geometry output from calibrated model showing the relationship to microseismic data. View along the transverse fracture face Map view</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>3D fracture geometry output from calibrated model showing the relationship to microseismic data. View along the transverse fracture face Map view</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189847MS-Img_SPi-19a">
+<imageLink type="mediaResource" href="102118189847MS_i_19a.tif" id="ImgLink-19a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>View along the transverse fracture face</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189847MS-Img_SPi-19b">
+<imageLink type="mediaResource" href="102118189847MS_i_19b.tif" id="ImgLink-19b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Map view</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="20" data-type-order="20">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr20">To build a calibrated fracture model, direct measurements are required to constrain it. This project comprised a diverse arrangement of diagnostic and sensor information (Figs. 14 through 20), which provided the opportunity to constrain a fracture model along several different parameters and determine whether the model could match what was able to be measured.</anchoringText>
+<image-wrap id="102118189847MS-Img_SPi-20">
+<label>Figure 20 </label>
+<imageLink type="mediaResource" href="102118189847MS_i_20.tif" id="ImgLink-20" />
+<caption>Overlay of predicted fracture asymmetry to measured asymmetry from surface microdeformation.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Overlay of predicted fracture asymmetry to measured asymmetry from surface microdeformation.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

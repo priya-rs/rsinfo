@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187855MS.txt" extractionDate="2021-03-25T12:26:22Z">
+<doi>10.2118/187855-MS</doi>
+<pii>10.2118/187855-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr3">To model the condensate recovery improvement methods, a development element (sector model) was selected in which the average parameters corresponded to the parameters of a full-scale reservoir model (Figure 1).</anchoringText>
+<image-wrap id="102118187855MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118187855MS_i_1.tif" id="ImgLink-1" />
+<caption>Study target – Аch5<sub>2</sub>-<sub>3</sub> reservoir and the development element, chosen for modeling</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Study target – Аch5<link href="BIB1">
+<sub>2</sub>
+</link>-<link href="BIB2">
+<sub>3</sub>
+</link> reservoir and the development element, chosen for modeling</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-13" type="bib">
+<bib id="BIB1">
+<label>Kolbikov, 2010</label>
+<author>
+<first-name>S.V.</first-name>
+<last-name>Kolbikov</last-name>
+</author>
+<article-title>Kondensatootdacha nizkopronitsaemyh kollektorov [Condensate recovery in low permeable reservoirs] // SPE-136380</article-title>. <pubDate>2010</pubDate> (in Russian).</bib>
+</linkTarget>
+<linkTarget id="link-14" type="bib">
+<bib id="BIB2">
+<label>Ter-Sarkisov, 1999</label>
+<author>
+<first-name>R.M.</first-name>
+<last-name>Ter-Sarkisov</last-name>
+</author>
+<article-title>Razrabotka mestorozhdeniy prirodnyh gazov [Development of the natural gas fields] // M.: Nedra</article-title>, <pubDate>1999</pubDate>, p. <pages>
+<first-page>237</first-page>
+</pages> (in Russian).</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr4"> </anchoringText>
+<image-wrap id="102118187855MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118187855MS_i_2.tif" id="ImgLink-2" />
+<caption>Simulation of the base case of the full scale development of the Ah5</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Simulation of the base case of the full scale development of the Ah5</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187855MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118187855MS_i_2a.tif" id="ImgLink-2a" />
+</image-wrap>
+<image-wrap id="102118187855MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118187855MS_i_2b.tif" id="ImgLink-2b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr5">Partial cycling will be implemented first (50% of the produced gas volume) with the subsequent transition to full cycling. The “dry” gas injection starts in 2018, that is, at the time of plateau gas production. After 22 years of injection, the injection wells are converted to production, and further development is carried out in depletion. Options 2A, 2B, 2B differ by the ratio of producers and injectors. The estimated production profile is shown in Figure 3.</anchoringText>
+<image-wrap id="102118187855MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118187855MS_i_3.tif" id="ImgLink-3" />
+<caption>Forecast dynamis of hydrocarbon production on options with re-injection of “dry” gas (cycling)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Forecast dynamis of hydrocarbon production on options with re-injection of “dry” gas (cycling)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187855MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118187855MS_i_3a.tif" id="ImgLink-3a" />
+</image-wrap>
+<image-wrap id="102118187855MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118187855MS_i_3b.tif" id="ImgLink-3b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr6">The technology for implementing option 2 is rather complex (Figures 4, 5). First of all, this is due to compressors used for gas re-injection. They should be placed directly on the well sites, since the injection pressure of 500-600 bar will significantly complicate the gas supply directly from the GTU - this will require the construction of metal-intensive pipelines with very thick walls. Therefore, option 2 assumes that the re-injected gas is supplied through separate pipes from the GTU with a pressure of c. 50 bar. Then it is compressed in six stages (Figure 5).</anchoringText>
+<image-wrap id="102118187855MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118187855MS_i_4.tif" id="ImgLink-4" />
+<caption>Scheme of arrangement in case with re-injection of “dry” gas (cycling)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Scheme of arrangement in case with re-injection of “dry” gas (cycling)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr7">The technology for implementing option 2 is rather complex (Figures 4, 5). First of all, this is due to compressors used for gas re-injection. They should be placed directly on the well sites, since the injection pressure of 500-600 bar will significantly complicate the gas supply directly from the GTU - this will require the construction of metal-intensive pipelines with very thick walls. Therefore, option 2 assumes that the re-injected gas is supplied through separate pipes from the GTU with a pressure of c. 50 bar. Then it is compressed in six stages (Figure 5).</anchoringText>
+<image-wrap id="102118187855MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118187855MS_i_5.tif" id="ImgLink-5" />
+<caption>Scheme of gas compression in case with re-injection of “dry” gas (cycling)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Scheme of gas compression in case with re-injection of “dry” gas (cycling)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187855MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118187855MS_i_5a.tif" id="ImgLink-5a" />
+</image-wrap>
+<image-wrap id="102118187855MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118187855MS_i_5b.tif" id="ImgLink-5b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr8">They should be placed directly on the well sites, since the injection pressure of 500-600 bar will significantly complicate the gas supply directly from the GTU - this will require the construction of metal-intensive pipelines with very thick walls. Therefore, option 2 assumes that the re-injected gas is supplied through separate pipes from the GTU with a pressure of c. 50 bar. Then it is compressed in six stages (Figure 5). Note that currently available industrial centrifugal compressors allow gas to be compressed to 700 bar (Figures 6, 7).</anchoringText>
+<image-wrap id="102118187855MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118187855MS_i_6.tif" id="ImgLink-6" />
+<caption>Current line of compressors of one of the manufacures. A red line circled a set of compressors for a single cluster pad (see Figure5)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Current line of compressors of one of the manufacures. A red line circled a set of compressors for a single cluster pad (see <link href="102118187855MS-Img_SPi-5">Figure5</link>)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr9">They should be placed directly on the well sites, since the injection pressure of 500-600 bar will significantly complicate the gas supply directly from the GTU - this will require the construction of metal-intensive pipelines with very thick walls. Therefore, option 2 assumes that the re-injected gas is supplied through separate pipes from the GTU with a pressure of c. 50 bar. Then it is compressed in six stages (Figure 5). Note that currently available industrial centrifugal compressors allow gas to be compressed to 700 bar (Figures 6, 7).</anchoringText>
+<image-wrap id="102118187855MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118187855MS_i_7.tif" id="ImgLink-7" />
+<caption>The effective centrifugal compressor with an outlet pressure fo about 500 bar</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>The effective centrifugal compressor with an outlet pressure fo about 500 bar</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr10">Summarizing the results, a number of points can be highlighted. From the point of view of HC recovery, an average 40-45% increase in the condensate recovery ratio was obtained. The largest increase in condensate production was obtained at a 1:2 injector/producer ratio, but in all types of cycling, the condensate recovery losses will be about 7-8%. In spite of the additional volumes of condensate production, all the cycling options are inferior to the depletion option by economic indicators. The results of the feasibility study and a brief description of the options are shown in Figure 8 and in Table 1.</anchoringText>
+<image-wrap id="102118187855MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118187855MS_i_8.tif" id="ImgLink-8" />
+<caption>Economical assessment of cases with re-injection of “dry” gas (cycling)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Economical assessment of cases with re-injection of “dry” gas (cycling)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr11">In addition to the fundamental difference in the type of agent for maintaining reservoir pressure, the nitrogen injection options differ from cycling options by the absence of the final depletion stage. In this case, nitrogen is injected until the very end of field development. The estimated production profile is shown in Figure 9. From the point of view of condensate recovery, the best of the presented options was the scenario with a ratio 1:2 injector/producer ratio.</anchoringText>
+<image-wrap id="102118187855MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118187855MS_i_9.tif" id="ImgLink-9" />
+<caption>Forecast dynamics of hydrocarbon production in nitrogen injection options</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Forecast dynamics of hydrocarbon production in nitrogen injection options</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187855MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118187855MS_i_9a.tif" id="ImgLink-9a" />
+</image-wrap>
+<image-wrap id="102118187855MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118187855MS_i_9b.tif" id="ImgLink-9b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="10" data-type-order="11">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr12">Implementation of nitrogen injection technology requires higher capital investments than the cycling options. In addition to the existing equipment and planned under the current development option (depletion), the surface facilities should include the equipment for generating and injecting nitrogen into the formation (Figure 10). The simplest and most affordable way of generating nitrogen is to get it from the air during its separation into components due to countercurrent mass and heat exchange between vapor and liquid.</anchoringText>
+<image-wrap id="102118187855MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118187855MS_i_10.tif" id="ImgLink-10" />
+<caption>Scheme of arrangement with nitrogen injection</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Scheme of arrangement with nitrogen injection</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="11" data-type-order="12">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr13">This process (rectification) is based on the difference in the boiling points of the components that make up the air. The rectification is carried out in tower rectification columns equipped with contact devices (trays or packing) which are the rectification columns in which multiple contacts are made between the flows of vapor and liquid phases. In the world, the technology of pumping nitrogen into the reservoir is realized in the Gulf of Mexico. The existing N2 generation plant serves offshore fields (Figure 11).</anchoringText>
+<image-wrap id="102118187855MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118187855MS_i_11.tif" id="ImgLink-11" />
+<caption>One of the existing plants for the production of nitrogen capacity of 35 MSm<sup>3</sup>/day (Pemex)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>One of the existing plants for the production of nitrogen capacity of 35 MSm<sup>3</sup>/day (Pemex)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="12" data-type-order="14">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr14">The results of technical and economic calculations are shown in Figure 12 and in Table 2. The relative increase in condensate recovery factor is about 50%. In addition, in the options with injection of nitrogen and the ratio of injection to production wells equal to 1/2 and 1/3, an increase of 0.5 and 0.4% of the values of gas recovery factors is observed.</anchoringText>
+<image-wrap id="102118187855MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118187855MS_i_12.tif" id="ImgLink-12" />
+<caption>Economical assessment of cases with nitrogen injection</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Economical assessment of cases with nitrogen injection</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118182141MS.txt" extractionDate="2021-03-24T20:29:52Z">
+<doi>10.2118/182141-MS</doi>
+<pii>10.2118/182141-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="6" table-order="1" data-type-order="8">
+<table-wrap id="102118182141MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">High compressibility is typical for fractured rocks. Its value exceeds the values for sandstones and "traditional" carbonates significantly [3]. Therefore, change of reservoir properties in time is especially typical for these rocks. In our case different values of rock compressibility were set for the porous and fracture parts of the reservoir separately (Table 1).</anchoringText>
+<label>Table 1</label>
+<caption>Comparison of hydrodynamic field model parameters</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Comparison of hydrodynamic field model parameters</caption-text>
+</formatted-caption>
+<table id="102118182141MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Parameters</th>
+<th valign="top" align="center">UoM</th>
+<th valign="top" align="center">Traditional model</th>
+<th valign="top" align="center">Double porosity model</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Matrix porosity</td>
+<td rowspan="2" valign="top" align="center">unit fracture</td>
+<td rowspan="2" valign="top" align="center">0.08</td>
+<td valign="top" align="center">0.08</td>
+</tr>
+<tr>
+<td valign="top" align="left">Fracture porosity</td>
+<td valign="top" align="center">0.01</td>
+</tr>
+<tr>
+<td valign="top" align="left">Permeability</td>
+<td valign="top" align="center">μm<sup>2</sup>
+</td>
+<td valign="top" align="center">0.002</td>
+<td valign="top" align="center">0.123</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" align="left">Oil saturation: matrix fractures</td>
+<td rowspan="2" valign="top" align="center">unit fraction</td>
+<td rowspan="2" valign="top" align="center">0.91</td>
+<td valign="top" align="center">0.745</td>
+</tr>
+<tr>
+<td valign="top" align="center">0.900</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" align="left">Compressibility: matrix fractures</td>
+<td rowspan="2" valign="top" align="center">1/MPa×10<sup>−4</sup>
+</td>
+<td rowspan="2" valign="top" align="center">1.13</td>
+<td valign="top" align="center">1.13</td>
+</tr>
+<tr>
+<td valign="top" align="center">600</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

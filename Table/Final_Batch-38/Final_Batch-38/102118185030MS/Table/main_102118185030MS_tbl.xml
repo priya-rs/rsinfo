@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185030MS.txt" extractionDate="2021-03-27T10:58:31Z">
+<doi>10.2118/185030-MS</doi>
+<pii>10.2118/185030-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="4">
+<table-wrap id="102118185030MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Conventional PVT analysis was conducted by a commercial lab on twelve surface separator oil and gas samples. Recombination of fluids at reservoir temperature (156.2 ºF) yields a final gas-oil ratio of 810 scf/stb. Subsequently, a series of constant composition expansion (CCE), differential liberation (DL) separator tests were conducted on the recombined fluid to determine oil saturation pressure, oil formation volume factor, oil density, and oil and gas viscosity as a function of pressure. Table 1 provides a summary of important parameters for the fluids used in the simulation models.</anchoringText>
+<label>TABLE 1</label>
+<caption>AVERAGE FLUID PROPERTIES DETERMINED FROM VIEWFIELD BAKKEN SAMPLES, (TEMPERATURE = 156.2 ºF)</caption>
+<formatted-caption>
+<caption-label>TABLE</caption-label>
+<caption-order>1</caption-order>
+<caption-text>AVERAGE FLUID PROPERTIES DETERMINED FROM VIEWFIELD BAKKEN SAMPLES, (TEMPERATURE = 156.2 ºF)</caption-text>
+</formatted-caption>
+<table id="102118185030MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Property</th>
+<th valign="top" align="left">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Oil bubble point pressure (Pb), psia</td>
+<td valign="top" align="left">1,480</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil solution gas-oil ratio @ Pb, scf/stb</td>
+<td valign="top" align="left">810</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil viscosity @ Pb, cp</td>
+<td valign="top" align="left">0.33</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil formation volume factor @ Pb, bbl/stb</td>
+<td valign="top" align="left">1.46</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil API</td>
+<td valign="top" align="left">42.5</td>
+</tr>
+<tr>
+<td valign="top" align="left">Gas avg. Z factor</td>
+<td valign="top" align="left">0.85</td>
+</tr>
+<tr>
+<td valign="top" align="left">Gas avg. viscosity, cp</td>
+<td valign="top" align="left">0.01</td>
+</tr>
+<tr>
+<td valign="top" align="left">Water viscosity, cp</td>
+<td valign="top" align="left">0.54</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="6" table-order="2" data-type-order="6">
+<table-wrap id="102118185030MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Table 2 provides a summary of vertical layer properties in the generated geomodel in which the horizontal heterogeneity was ignored. Fig. 5 displays a vertical cross section of the geo-model for porosity and water saturation values. Table 3 contains a summary of the overall properties of the entire section model.</anchoringText>
+<label>TABLE 2</label>
+<caption>CALCULATED PROPERTIES FOR INDIVIDUAL LAYERS OF THE RESERVOIR MODEL</caption>
+<formatted-caption>
+<caption-label>TABLE</caption-label>
+<caption-order>2</caption-order>
+<caption-text>CALCULATED PROPERTIES FOR INDIVIDUAL LAYERS OF THE RESERVOIR MODEL</caption-text>
+</formatted-caption>
+<table id="102118185030MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Model Layer</th>
+<th valign="top" align="center">Porosity (fraction)</th>
+<th valign="top" align="center">Permeability (mD)</th>
+<th valign="top" align="center">S<sub>
+<sub>W</sub>
+</sub> (fraction)</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td id="tfn-1" colspan="4" align="left">
+<i>* Layers 1 &amp; 2 are representative of the Lodgepole aquifer with arbitrary initial water saturation of 1.0</i>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td valign="top" align="center">
+<i>1*</i>
+</td>
+<td valign="top" align="center">
+<i>0.120</i>
+</td>
+<td valign="top" align="center">
+<i>0.082</i>
+</td>
+<td valign="top" align="center">
+<i>1.0</i>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<i>2*</i>
+</td>
+<td valign="top" align="center">
+<i>0.120</i>
+</td>
+<td valign="top" align="center">
+<i>0.082</i>
+</td>
+<td valign="top" align="center">
+<i>1.0</i>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">0.120</td>
+<td valign="top" align="center">0.082</td>
+<td valign="top" align="center">0.382</td>
+</tr>
+<tr>
+<td valign="top" align="center">4</td>
+<td valign="top" align="center">0.117</td>
+<td valign="top" align="center">0.071</td>
+<td valign="top" align="center">0.393</td>
+</tr>
+<tr>
+<td valign="top" align="center">5</td>
+<td valign="top" align="center">0.113</td>
+<td valign="top" align="center">0.051</td>
+<td valign="top" align="center">0.409</td>
+</tr>
+<tr>
+<td valign="top" align="center">6</td>
+<td valign="top" align="center">0.109</td>
+<td valign="top" align="center">0.030</td>
+<td valign="top" align="center">0.432</td>
+</tr>
+<tr>
+<td valign="top" align="center">7</td>
+<td valign="top" align="center">0.105</td>
+<td valign="top" align="center">0.008</td>
+<td valign="top" align="center">0.464</td>
+</tr>
+<tr>
+<td valign="top" align="center">8</td>
+<td valign="top" align="center">0.100</td>
+<td valign="top" align="center">0.007</td>
+<td valign="top" align="center">0.508</td>
+</tr>
+<tr>
+<td valign="top" align="center">9</td>
+<td valign="top" align="center">0.095</td>
+<td valign="top" align="center">0.011</td>
+<td valign="top" align="center">0.568</td>
+</tr>
+<tr>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">0.090</td>
+<td valign="top" align="center">0.008</td>
+<td valign="top" align="center">0.647</td>
+</tr>
+<tr>
+<td valign="top" align="center">11</td>
+<td valign="top" align="center">0.085</td>
+<td valign="top" align="center">0.005</td>
+<td valign="top" align="center">0.752</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="6" table-order="3" data-type-order="7">
+<table-wrap id="102118185030MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Table 2 provides a summary of vertical layer properties in the generated geomodel in which the horizontal heterogeneity was ignored. Fig. 5 displays a vertical cross section of the geo-model for porosity and water saturation values. Table 3 contains a summary of the overall properties of the entire section model.</anchoringText>
+<label>TABLE 3</label>
+<caption>OVERALL PROPERTIES OF THE SECTION MODEL CONSIDERED IN THIS STUDY.</caption>
+<formatted-caption>
+<caption-label>TABLE</caption-label>
+<caption-order>3</caption-order>
+<caption-text>OVERALL PROPERTIES OF THE SECTION MODEL CONSIDERED IN THIS STUDY.</caption-text>
+</formatted-caption>
+<table id="102118185030MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th align="left">Property</th>
+<th align="left">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Length, ft</td>
+<td valign="bottom" align="left">5249.3</td>
+</tr>
+<tr>
+<td align="left">Width, ft</td>
+<td align="left">5249.3</td>
+</tr>
+<tr>
+<td align="left">Net-pay. ft</td>
+<td align="left">~28</td>
+</tr>
+<tr>
+<td align="left">Kv/Kh ratio, fraction</td>
+<td align="left">0.2</td>
+</tr>
+<tr>
+<td align="left">Avg. porosity, fraction</td>
+<td align="left">0.10</td>
+</tr>
+<tr>
+<td valign="top" align="left">Avg. Hz permeability. mD</td>
+<td valign="top" align="left">0.031</td>
+</tr>
+<tr>
+<td valign="top" align="left">Avg. initial Sw. fraction</td>
+<td valign="top" align="left">0.51</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Avg. initial So. fraction</td>
+<td valign="bottom" align="left">0.49</td>
+</tr>
+<tr>
+<td align="left">Initial pressure, psi</td>
+<td align="left">2.590</td>
+</tr>
+<tr>
+<td valign="top" align="left">Nx×Ny×Nz</td>
+<td valign="top" align="left">110×110×9</td>
+</tr>
+<tr>
+<td valign="top" align="left">Dx×Dy×Nz. ft×ft×ft</td>
+<td valign="top" align="left">65×65×~3.1</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

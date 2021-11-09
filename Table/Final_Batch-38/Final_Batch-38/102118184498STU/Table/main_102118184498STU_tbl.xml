@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118184498STU.txt" extractionDate="2021-03-23T18:33:36Z">
+<doi>10.2118/184498-STU</doi>
+<pii>10.2118/184498-STU</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="8" table-order="1" data-type-order="8">
+<table-wrap id="102118184498STU-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">In the wells with more than two unique tracers (2N and 6N), flowback fractions were calculated. In both 2N and 6N, the toe ends were responsible for half or more of the tracer mass that returned to the surface, indicating that these stages are more capable than other stages for producing or returning water (Table 1). The higher production may be explained by the fact that the toe ends of all the drilled laterals in the study section lie on the antithetic side of the fault, which is more naturally fractured, and natural faults and fractures enhanced the flowback of water.</anchoringText>
+<label>Table 1</label>
+<caption>CFT Flowback Fraction from Specified Intervals</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>CFT Flowback Fraction from Specified Intervals</caption-text>
+</formatted-caption>
+<table id="102118184498STU-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th align="center">Well</th>
+<th align="center">Tracer</th>
+<th align="center">Stage</th>
+<th align="center">Flowback Fraction (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4" valign="top" align="center">2N</td>
+<td valign="top" align="center">CFT 2000</td>
+<td valign="top" align="center">Heel</td>
+<td valign="top" align="center">13</td>
+</tr>
+<tr>
+<td align="center">CFT 1900</td>
+<td align="center">Mid-Heel</td>
+<td align="center">4</td>
+</tr>
+<tr>
+<td align="center">CFT 1400</td>
+<td align="center">Mid-Toe</td>
+<td align="center">11</td>
+</tr>
+<tr>
+<td align="center">CFT 1600</td>
+<td align="center">Toe</td>
+<td align="center">72</td>
+</tr>
+<tr>
+<td rowspan="4" valign="top" align="center">6N</td>
+<td valign="top" align="center">CFT 2400</td>
+<td valign="top" align="center">Heel</td>
+<td valign="top" align="center">31</td>
+</tr>
+<tr>
+<td align="center">CFT 2200</td>
+<td align="center">Mid-Heel</td>
+<td align="center">9</td>
+</tr>
+<tr>
+<td valign="top" align="center">CFT 1500</td>
+<td valign="top" align="center">Mid-Toe</td>
+<td valign="top" align="center">8</td>
+</tr>
+<tr>
+<td align="center">CFT 2100</td>
+<td align="center">Toe</td>
+<td align="center">52</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="11" table-order="2" data-type-order="12">
+<table-wrap id="102118184498STU-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Based on the model, the effected flowing fracture [half] lengths for 2N and 6N vary from 30 to 45 feet, while proppant cutoff lengths are on the order of thousands of feet (Table 2 and Table 3). Rate transient analysis (RTA) and microseismic data from the study area estimated fracture half-length to be between 200 and 400 ft, respectively (RCP 2015). While these half-length values may reflect the flowing fracture length, in reality, the effective length is significantly less. Therefore, using half-length values from microseismic and RTA may significantly overestimate volume contributing to production. However, they provide valuable information to estimate flowing, propped, and hydraulic length.</anchoringText>
+<label>Table 2</label>
+<caption>Fracture Types and Lengths for 2N</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Fracture Types and Lengths for 2N</caption-text>
+</formatted-caption>
+<table id="102118184498STU-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th align="center">Type</th>
+<th align="center">EFFL (ft)</th>
+<th align="center">Propant Cutoff (ft)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Gel</td>
+<td valign="top" align="center">37.7</td>
+<td valign="top" align="center">420</td>
+</tr>
+<tr>
+<td align="center">SW - C Chalk</td>
+<td align="center">38.9</td>
+<td align="center">2040</td>
+</tr>
+<tr>
+<td align="center">Graben - Toe - A</td>
+<td align="center">38.7</td>
+<td align="center">2220</td>
+</tr>
+<tr>
+<td align="center">Graben - Toe - B</td>
+<td align="center">41.4</td>
+<td align="center">2340</td>
+</tr>
+<tr>
+<td align="center">Graben - Toe - C</td>
+<td align="center">45.1</td>
+<td align="center">2140</td>
+</tr>
+<tr>
+<td align="center">Graben - Heel - A</td>
+<td align="center">44.9</td>
+<td align="center">2180</td>
+</tr>
+<tr>
+<td align="center">Graben - Heel - B</td>
+<td align="center">38.7</td>
+<td align="center">2240</td>
+</tr>
+<tr>
+<td align="center">SW - B Marl</td>
+<td align="center">40.0</td>
+<td align="center">2300</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="12" table-order="3" data-type-order="13">
+<table-wrap id="102118184498STU-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Based on the model, the effected flowing fracture [half] lengths for 2N and 6N vary from 30 to 45 feet, while proppant cutoff lengths are on the order of thousands of feet (Table 2 and Table 3). Rate transient analysis (RTA) and microseismic data from the study area estimated fracture half-length to be between 200 and 400 ft, respectively (RCP 2015). While these half-length values may reflect the flowing fracture length, in reality, the effective length is significantly less. Therefore, using half-length values from microseismic and RTA may significantly overestimate volume contributing to production. However, they provide valuable information to estimate flowing, propped, and hydraulic length.</anchoringText>
+<label>Table 3</label>
+<caption>Fracture Types and Lengths for 6N</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Fracture Types and Lengths for 6N</caption-text>
+</formatted-caption>
+<table id="102118184498STU-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th align="center">Type</th>
+<th align="center">EFFL (ft)</th>
+<th align="center">Proppant Cutoff (ft)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Gel</td>
+<td valign="top" align="center">37.6</td>
+<td valign="top" align="center">180</td>
+</tr>
+<tr>
+<td align="center">SW - C Chalk</td>
+<td align="center">35.9</td>
+<td align="center">1260</td>
+</tr>
+<tr>
+<td align="center">Graben - Toe - A</td>
+<td align="center">38.2</td>
+<td align="center">1320</td>
+</tr>
+<tr>
+<td align="center">Graben - Heel - A</td>
+<td align="center">38.3</td>
+<td align="center">1340</td>
+</tr>
+<tr>
+<td align="center">Graben - Heel - B</td>
+<td align="center">35.3</td>
+<td align="center">1040</td>
+</tr>
+<tr>
+<td align="center">Graben - Heel - C</td>
+<td align="center">38.0</td>
+<td align="center">1260</td>
+</tr>
+<tr>
+<td align="center">SW - C Marl</td>
+<td align="center">34.2</td>
+<td align="center">1420</td>
+</tr>
+<tr>
+<td align="center">SW - D Chalk</td>
+<td align="center">31.5</td>
+<td align="center">1320</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="13" table-order="4" data-type-order="15">
+<table-wrap id="102118184498STU-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">Using the calculated EFFL from the model, interval efficiency can be calculated based on the number of fractures that were originally pumped in each interval (toe, mid-toe, mid-heel, heel). The actual results for 2N and 6N are summarized in Table 4. 2N has an overall flow efficiency of 57% and 6N has an overall flow efficiency of 62%.</anchoringText>
+<label>Table 4</label>
+<caption>Calculated Fracture Efficiency</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Calculated Fracture Efficiency</caption-text>
+</formatted-caption>
+<table id="102118184498STU-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th align="center">Well</th>
+<th align="center">Location</th>
+<th align="center">Avg EFFL (ft)</th>
+<th align="center">OFT Fraction (%)</th>
+<th align="center">Efficiency (%)</th>
+<th align="center">Flow Efficiency (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">Toe</td>
+<td valign="top" align="center">38.5</td>
+<td valign="top" align="center">39.9</td>
+<td valign="top" align="center">48.7</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td align="center">2N</td>
+<td align="center">Mid</td>
+<td align="center">40.8</td>
+<td align="center">23.6</td>
+<td align="center">99.9</td>
+<td align="center">57.0</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td align="center">Heel</td>
+<td align="center">39.8</td>
+<td align="center">36.5</td>
+<td align="center">52.8</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td align="center">Toe</td>
+<td align="center">36.3</td>
+<td align="center">58.3</td>
+<td align="center">82.0</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">Mid-Toe</td>
+<td valign="bottom" align="center">36.1</td>
+<td valign="bottom" align="center">14.4</td>
+<td valign="bottom" align="center">95.1</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">6N</td>
+<td align="center">Mid-Heel</td>
+<td align="center">37.2</td>
+<td align="center">15.6</td>
+<td align="center">100.0</td>
+<td align="center">62.1</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td align="center">Heel</td>
+<td align="center">33.1</td>
+<td align="center">11.7</td>
+<td align="center">21.1</td>
+<td valign="top" align="center">
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

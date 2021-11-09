@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118179171MS.txt" extractionDate="2021-03-22T17:40:14Z">
+<doi>10.2118/179171-MS</doi>
+<pii>10.2118/179171-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure composite="true" composite-count="2" pdf-page="4" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr10">This paper builds on previous work done by Griffin and others (2013). A database consisting of completion and production parameters was assembled from the NDIC and Frac Focus websites and from internal completion documentation. The area of interest for this study was confined to the Central Basin, also known as the “Rough Rider” area, within Townships 148-159N and Ranges 97-105W (Figure 1). The bubbles represent 180-day cumulative oil per foot of completed lateral (180-day cumulative oil/ft), and contours in the background represent water cut.</anchoringText>
+<image-wrap id="102118179171MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118179171MS_i_1.tif" id="ImgLink-1" />
+<caption>Area of interest in this study was confined to Townships 148-159N and Ranges 97-105W. Middle Bakken wells are shown in red (left) and Three Forks wells are in blue (right). Contours in the background represent stabilized water cut between 90 and 180 producing days.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Area of interest in this study was confined to Townships 148-159N and Ranges 97-105W. Middle Bakken wells are shown in red (left) and Three Forks wells are in blue (right). Contours in the background represent stabilized water cut between 90 and 180 producing days.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-1a">
+<imageLink type="mediaResource" href="102118179171MS_i_1a.tif" id="ImgLink-1a" />
+<figure-specific-caption>
+<caption-order>(left)</caption-order>
+<caption-text>Middle Bakken wells are shown in red</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-1b">
+<imageLink type="mediaResource" href="102118179171MS_i_1b.tif" id="ImgLink-1b" />
+<figure-specific-caption>
+<caption-order>(right)</caption-order>
+<caption-text> Three Forks wells are in blue</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr11">Figure 2 shows the histogram plots of ft/stage (stage spacing), cemented (“0” represents uncemented laterals and “1” represents cemented laterals), number of stages, average proppant concentration (Avg-PPG), percentage of ceramic proppant pumped, mass of proppant pumped in lb/ft, volume of frac fluid pumped in bbl/ft, maximum treatment rate, water cut, gross thickness, oil gravity, Lower Bakken Shale TOC, Upper Bakken Shale TOC, total vertical depth (TVD), and 180-day cumulative oil/ft for the Middle Bakken laterals located in the Rough Rider Area.</anchoringText>
+<image-wrap id="102118179171MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118179171MS_i_2.tif" id="ImgLink-2" />
+<caption>Histogram plots for the Middle Bakken laterals (Rough Rider Area)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Histogram plots for the Middle Bakken laterals (Rough Rider Area)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr12">Figure 3 is the predicted versus observed 180-day cumulative oil/ft for the multiple regression without interaction terms (left) and the multiple regression with 28 interactions (right). The diagonal black reference line indicates where the observed and predicted values would be equal, while the diagonal red line indicates a linear relationship between the observed and predicted values.</anchoringText>
+<image-wrap id="102118179171MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118179171MS_i_3.tif" id="ImgLink-3" />
+<caption>Predicted vs. observed 180-day cumulative oil/ft for the multiple regression model 1 without interaction terms (left) and the multiple regression model 2 with 28 interactions (right), Rough Rider Middle Bakken data</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Predicted vs. observed 180-day cumulative oil/ft for the multiple regression model 1 without interaction terms (left) and the multiple regression model 2 with 28 interactions (right), Rough Rider Middle Bakken data</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118179171MS_i_3a.tif" id="ImgLink-3a" />
+<figure-specific-caption>
+<caption-order>(left)</caption-order>
+<caption-text>Predicted vs. observed 180-day cumulative oil/ft for the multiple regression model 1 without interaction terms</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118179171MS_i_3b.tif" id="ImgLink-3b" />
+<figure-specific-caption>
+<caption-order>(right)</caption-order>
+<caption-text>the multiple regression model 2 with 28 interactions</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr13">Figure 4 compares the predicted versus observed 180-day cumulative oil/ft of the BIC and AIC chosen models. The BIC and AIC chosen models are very similar to the multiple regression model 2 in terms of the R-squared and training RMSE results. However, the BIC and AIC chosen models are simpler than the multiple regression model 2 since many of the interaction terms have been eliminated without sizeable reduction of the R-squared value and the training RMSE.</anchoringText>
+<image-wrap id="102118179171MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118179171MS_i_4.tif" id="ImgLink-4" />
+<caption>Predicted vs. observed 180-day cumulative oil/ft for the BIC chosen model (left) and the AIC chosen model (right), Rough Rider Middle Bakken data</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Predicted vs. observed 180-day cumulative oil/ft for the BIC chosen model (left) and the AIC chosen model (right), Rough Rider Middle Bakken data</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118179171MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>(left)</caption-order>
+<caption-text>Predicted vs. observed 180-day cumulative oil/ft for the BIC chosen model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118179171MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>(right)</caption-order>
+<caption-text> the AIC chosen model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr14">Figure 5 (left) shows the predicted versus observed 180-day cumulative oil/ft for the random forest model. This model gives an R-squared of 0.63 and a training RMSE of 1.538 BO/ft. Figure 6 (left) presents the importance of each of the eight predictors for the Middle Bakken data based on the random forest regression. The importance is measured by permutation of the values of a predictor and measuring the percent decrease in RMSE.</anchoringText>
+<image-wrap id="102118179171MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118179171MS_i_5.tif" id="ImgLink-5" />
+<caption>Predicted vs. observed 180-day cumulative oil/ft for the random forest model (left) and the gradient boosting model (right), Rough Rider Middle Bakken data</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Predicted vs. observed 180-day cumulative oil/ft for the random forest model (left) and the gradient boosting model (right), Rough Rider Middle Bakken data</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118179171MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>(left)</caption-order>
+<caption-text>Predicted vs. observed 180-day cumulative oil/ft for the random forest model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118179171MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>(right)</caption-order>
+<caption-text> the gradient boosting model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr15">Figure 5 (left) shows the predicted versus observed 180-day cumulative oil/ft for the random forest model. This model gives an R-squared of 0.63 and a training RMSE of 1.538 BO/ft. Figure 6 (left) presents the importance of each of the eight predictors for the Middle Bakken data based on the random forest regression. The importance is measured by permutation of the values of a predictor and measuring the percent decrease in RMSE.</anchoringText>
+<image-wrap id="102118179171MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118179171MS_i_6.tif" id="ImgLink-6" />
+<caption>Variable/relative importance of the predictors for the random forest model (left) and the gradient boosting model (right), Rough Rider Middle Bakken data</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Variable/relative importance of the predictors for the random forest model (left) and the gradient boosting model (right), Rough Rider Middle Bakken data</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118179171MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>(left)</caption-order>
+<caption-text>Variable/relative importance of the predictors for the random forest model </caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118179171MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order> (right)</caption-order>
+<caption-text>the gradient boosting model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="6" pdf-page="15" figure-order="7" data-type-order="10">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr16">Table 3 is an example of the sensitivities of only completion-related variables on the predicted 180-day cumulative oil/ft using the AIC chosen model shown previously (due to space constraints, we will show the sensitivity results of the other models in Figure 7). These sensitivities were performed by holding all of the predictors constant (at their mean values) except for the predictor of interest. The change in the predicted 180- day cumulative oil/ft is noted and compared to the base case (in green).</anchoringText>
+<image-wrap id="102118179171MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118179171MS_i_7.tif" id="ImgLink-7" />
+<caption>Impact of selected predictor variables on the predicted 180-day cumulative oil/ft, Rough Rider Middle Bakken data</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Impact of selected predictor variables on the predicted 180-day cumulative oil/ft, Rough Rider Middle Bakken data</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118179171MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Predictor: Bbl/ft</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118179171MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Predictor: Lb/ft</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-7c">
+<imageLink type="mediaResource" href="102118179171MS_i_7c.tif" id="ImgLink-7c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Predictor: % Ceramic</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-7d">
+<imageLink type="mediaResource" href="102118179171MS_i_7d.tif" id="ImgLink-7d" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Predictor: Maximum Rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-7e">
+<imageLink type="mediaResource" href="102118179171MS_i_7e.tif" id="ImgLink-7e" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Predictor: Ft/Stage</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-7f">
+<imageLink type="mediaResource" href="102118179171MS_i_7f.tif" id="ImgLink-7f" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Predictor: Water Cut</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="8" data-type-order="11">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr17">For the Three Forks training set, we performed similar data quality control or preprocessing by examining the histograms, scatterplots, bivariate plots, and coefficient correlations among variables in the database. Figure 8 presents the histogram plots for the Three Forks data. Of the 778 wells in the original Three Forks dataset, there were only 444 wells with non-missing values for the predictors included in the analysis.</anchoringText>
+<image-wrap id="102118179171MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118179171MS_i_8.tif" id="ImgLink-8" />
+<caption>Histogram plots for the Three Forks laterals (Rough Rider Area)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Histogram plots for the Three Forks laterals (Rough Rider Area)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="18" figure-order="9" data-type-order="12">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr18">Figure 9 shows the predicted versus observed 180-day cumulative oil/ft for the multiple regression model 1 without the interaction terms (left) and the multiple regression model 2 with 28 interactions (right). Again, if all of the points lie near the diagonal black reference line, this indicates a good model fit to the training data. The diagonal red line simply indicates a linear relationship between the observed and predicted values.</anchoringText>
+<image-wrap id="102118179171MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118179171MS_i_9.tif" id="ImgLink-9" />
+<caption>Predicted vs. observed 180-day cumulative oil/ft for the multiple regression model 1 without interaction terms (left) and the multiple regression model 2 with 28 interactions (right), Rough Rider Three Forks data</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Predicted vs. observed 180-day cumulative oil/ft for the multiple regression model 1 without interaction terms (left) and the multiple regression model 2 with 28 interactions (right), Rough Rider Three Forks data</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118179171MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order>(left)</caption-order>
+<caption-text>Predicted vs. observed 180-day cumulative oil/ft for the multiple regression model 1 without interaction terms</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118179171MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order>(right)</caption-order>
+<caption-text>the multiple regression model 2 with 28 interactions</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="18" figure-order="10" data-type-order="13">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr19">The multiple regression model 1 consisting of eight predictors results in an R-squared of 0.54 and a training RMSE of 1.745 BO/ft whereas the multiple regression model 2 gives an R-squared of 0.70 with training RMSE of 1.408 BO/ft. Figure 10 is the predicted versus observed 180-day cumulative oil/ft for the BIC and AIC chosen models, and Figure 11 is the same plot for the random forests and GBM. The R-squared, training RMSE, and test RMSE values of all the models for the Three Forks data are given in Table 4.</anchoringText>
+<image-wrap id="102118179171MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118179171MS_i_10.tif" id="ImgLink-10" />
+<caption>Predicted vs. observed 180-day cumulative oil/ft for the BIC chosen model (left) and the AIC chosen model (right), Rough Rider Three Forks data</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Predicted vs. observed 180-day cumulative oil/ft for the BIC chosen model (left) and the AIC chosen model (right), Rough Rider Three Forks data</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118179171MS_i_10a.tif" id="ImgLink-10a" />
+<figure-specific-caption>
+<caption-order>(left)</caption-order>
+<caption-text>Predicted vs. observed 180-day cumulative oil/ft for the BIC chosen model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118179171MS_i_10b.tif" id="ImgLink-10b" />
+<figure-specific-caption>
+<caption-order>(right)</caption-order>
+<caption-text>the AIC chosen model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="11" data-type-order="14">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr20">The multiple regression model 1 consisting of eight predictors results in an R-squared of 0.54 and a training RMSE of 1.745 BO/ft whereas the multiple regression model 2 gives an R-squared of 0.70 with training RMSE of 1.408 BO/ft. Figure 10 is the predicted versus observed 180-day cumulative oil/ft for the BIC and AIC chosen models, and Figure 11 is the same plot for the random forests and GBM. The R-squared, training RMSE, and test RMSE values of all the models for the Three Forks data are given in Table 4.</anchoringText>
+<image-wrap id="102118179171MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118179171MS_i_11.tif" id="ImgLink-11" />
+<caption>Predicted vs. observed 180-day cumulative oil/ft for the random forest model (left) and the gradient boosting model (right), Rough Rider Three Forks data</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Predicted vs. observed 180-day cumulative oil/ft for the random forest model (left) and the gradient boosting model (right), Rough Rider Three Forks data</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118179171MS_i_11a.tif" id="ImgLink-11a" />
+<figure-specific-caption>
+<caption-order>(left)</caption-order>
+<caption-text>Predicted vs. observed 180-day cumulative oil/ft for the random forest model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118179171MS_i_11b.tif" id="ImgLink-11b" />
+<figure-specific-caption>
+<caption-order>(right)</caption-order>
+<caption-text>the gradient boosting model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="6" pdf-page="21" figure-order="12" data-type-order="17">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr21">Figure 12 shows the sensitivity results of the completion-related variables on the predicted 180-day cumulative oil/ft for all the multivariate analysis models used in this study. By holding all of the predictor variables constant, except for the predictor of interest, note that the frac fluid volume (bbl/ft) and proppant mass (lb/ft) have the most positive impact on the predicted 180-day cumulative oil/ft.</anchoringText>
+<image-wrap id="102118179171MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118179171MS_i_12.tif" id="ImgLink-12" />
+<caption>Impact of selected predictor variables on the predicted 180-day cumulative oil/ft, Rough Rider Three Forks data</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Impact of selected predictor variables on the predicted 180-day cumulative oil/ft, Rough Rider Three Forks data</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118179171MS_i_12a.tif" id="ImgLink-12a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Predictor: Bbl/ft</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118179171MS_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Predictor: Lb/ft</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-12c">
+<imageLink type="mediaResource" href="102118179171MS_i_12c.tif" id="ImgLink-12c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Predictor: % Ceramic</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-12d">
+<imageLink type="mediaResource" href="102118179171MS_i_12d.tif" id="ImgLink-12d" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Predictor: Maximum Rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-12e">
+<imageLink type="mediaResource" href="102118179171MS_i_12e.tif" id="ImgLink-12e" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Predictor: Ft/Stage</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179171MS-Img_SPi-12f">
+<imageLink type="mediaResource" href="102118179171MS_i_12f.tif" id="ImgLink-12f" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Predictor: Water Cut</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

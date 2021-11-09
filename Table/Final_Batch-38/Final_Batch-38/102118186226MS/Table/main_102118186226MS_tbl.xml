@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118186226MS.txt" extractionDate="2021-03-26T11:47:21Z">
+<doi>10.2118/186226-MS</doi>
+<pii>10.2118/186226-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="8" table-order="1" data-type-order="9">
+<table-wrap id="102118186226MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Detailed challenges centered on the high temperature of the well and how to overcome the elevated temperature in the tool while taking pressure and pump-out for predefined contamination level samples. The following job sequence was established (Table 1):</anchoringText>
+<label>Table 1</label>
+<caption>Pump-out and sampling point station summary.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Pump-out and sampling point station summary.</caption-text>
+</formatted-caption>
+<table id="102118186226MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Reservoir Name</th>
+<th valign="bottom" align="center">Mobility (mD/cp)</th>
+<th valign="bottom" align="center">Fluid Type</th>
+<th valign="bottom" align="center">PO_Time (min)</th>
+<th valign="bottom" align="center">PO_Vol (cc)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">J - 1</td>
+<td bgcolor="#FFFF00" align="left">7.5</td>
+<td bgcolor="#FF0000" align="left">Gas</td>
+<td align="left">24</td>
+<td align="left">10561</td>
+</tr>
+<tr>
+<td align="left">K - 1</td>
+<td bgcolor="#FFFF00" align="left">8.2</td>
+<td bgcolor="#0070C0" align="left">Water</td>
+<td align="left">44</td>
+<td align="left">5685</td>
+</tr>
+<tr>
+<td align="left">K - 2</td>
+<td bgcolor="#FFFF00" align="left">3.4</td>
+<td bgcolor="#FF0000" align="left">Gas</td>
+<td align="left">44</td>
+<td align="left">7051</td>
+</tr>
+<tr>
+<td align="left">K - 3</td>
+<td bgcolor="#FFFF00" align="left">11.8</td>
+<td bgcolor="#FF0000" align="left">Gas</td>
+<td align="left">43</td>
+<td align="left">11298</td>
+</tr>
+<tr>
+<td align="left">K - 4</td>
+<td bgcolor="#FFFF00" align="left">5.0</td>
+<td bgcolor="#FF0000" align="left">Gas</td>
+<td align="left">45</td>
+<td align="left">11365</td>
+</tr>
+<tr>
+<td align="left">K - 5</td>
+<td bgcolor="#FFFF00" align="left">75.7</td>
+<td bgcolor="#FF0000" align="left">Gas</td>
+<td align="left">28</td>
+<td align="left">10025</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

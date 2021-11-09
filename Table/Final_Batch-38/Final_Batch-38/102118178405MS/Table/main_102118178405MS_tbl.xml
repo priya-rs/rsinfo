@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118178405MS.txt" extractionDate="2021-03-20T14:15:57Z">
+<doi>10.2118/178405-MS</doi>
+<pii>10.2118/178405-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="2" table-order="1" data-type-order="1">
+<table-wrap id="102118178405MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Bayelsa field is located offshore Nigeria about 40 km northwest of Escravos tank farm. The structure is a faulted rollover anticline situated down thrown of two major NW-SE normal fault systems. The stratigraphy of the field is typical of the deltaic sequence of the Niger basin. It consists of continental Benin formation which is underlain by the paralic Agbada formation, which in turn is underlain by the marine shale of the Akata formation. As noted by Frankl and Cordry (1967), the Agbada formation is the predominant reservoir in the Niger delta with multiple reservoirs being a common occurrence in a field. The sands of the Agbada formation constitute the reservoir sands in the Bayelsa field. The Bayelsa field contains several sands, D, E, G, and H and reservoirs as shown in Table 1 and has four major producing blocks (Blocks 1, 2, 3 and 6) based on the faulting pattern in the field as shown in Figure 1.</anchoringText>
+<label>Table 1</label>
+<caption>List of sands and reservoirs in Bayelsa field</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>List of sands and reservoirs in Bayelsa field</caption-text>
+</formatted-caption>
+<table id="102118178405MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" bgcolor="#DADADA">SAND</th>
+<th valign="top" align="center" bgcolor="#DADADA">BLOCK 6</th>
+<th valign="top" align="center" bgcolor="#DADADA">BLOCK 1</th>
+<th valign="top" align="center" bgcolor="#DADADA">BLOCK 2</th>
+<th valign="top" align="center" bgcolor="#DADADA">BLOCK 3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">D7</td>
+<td valign="top" align="center" bgcolor="#8DB4E2">WET</td>
+<td valign="top" align="center">D7-1</td>
+<td valign="top" align="center">D7-2</td>
+<td valign="top" align="center">D7-3</td>
+</tr>
+<tr>
+<td valign="top" align="center">D8</td>
+<td rowspan="3" valign="top" align="center" bgcolor="#8DB4E2">WET</td>
+<td rowspan="3" valign="top" align="center">E1-1</td>
+<td rowspan="3" valign="top" align="center">E1-2</td>
+<td rowspan="3" valign="top" align="center">E1-3</td>
+</tr>
+<tr>
+<td valign="top" align="center">E1</td>
+</tr>
+<tr>
+<td valign="top" align="center">E2</td>
+</tr>
+<tr>
+<td valign="top" align="center">E3</td>
+<td valign="top" align="center" bgcolor="#A8A8A8">SHALE</td>
+<td valign="top" align="center">E3-1</td>
+<td valign="top" align="center">E3-2</td>
+<td valign="top" align="center">E3-3</td>
+</tr>
+<tr>
+<td valign="top" align="center">E4</td>
+<td valign="top" align="center">E4-6</td>
+<td valign="top" align="center">E4-1</td>
+<td valign="top" align="center">E4-2</td>
+<td valign="top" align="center">E4-3</td>
+</tr>
+<tr>
+<td valign="top" align="center">E5</td>
+<td rowspan="2" valign="top" align="center">E5-6</td>
+<td rowspan="2" valign="top" align="center">E5-1</td>
+<td rowspan="2" valign="top" align="center">E5-2</td>
+<td rowspan="2" valign="top" align="center">E5-3</td>
+</tr>
+<tr>
+<td valign="top" align="center">E6</td>
+</tr>
+<tr>
+<td valign="top" align="center">G1</td>
+<td valign="top" align="center">G1-6</td>
+<td rowspan="3" valign="top" align="center">G1-1</td>
+<td valign="top" align="center">G1-2</td>
+<td valign="top" align="center">G1-3</td>
+</tr>
+<tr>
+<td valign="top" align="center">G2</td>
+<td valign="top" align="center" bgcolor="#8DB4E2">WET</td>
+<td valign="top" align="center">G2-2</td>
+<td valign="top" align="center">G2-3</td>
+</tr>
+<tr>
+<td valign="top" align="center">G3</td>
+<td valign="top" align="center" bgcolor="#8DB4E2">WET</td>
+<td valign="top" align="center" bgcolor="#A8A8A8">SHALE</td>
+<td valign="top" align="center" bgcolor="#A8A8A8">SHALE</td>
+</tr>
+<tr>
+<td valign="top" align="center">H1</td>
+<td valign="top" align="center">H1-6</td>
+<td valign="top" align="center">H1-1</td>
+<td valign="top" align="center">H1-2</td>
+<td valign="top" align="center">H1-3</td>
+</tr>
+<tr>
+<td valign="top" align="center">H3</td>
+<td valign="top" align="center">H3-6</td>
+<td valign="top" align="center">H3-1</td>
+<td valign="top" align="center">H3-2</td>
+<td valign="top" align="center" bgcolor="#8DB4E2">WET</td>
+</tr>
+<tr>
+<td valign="top" align="center">H4</td>
+<td valign="top" align="center" bgcolor="#A8A8A8">SHALE</td>
+<td valign="top" align="center">H4-1</td>
+<td valign="top" align="center">H4-2</td>
+<td valign="top" align="center" bgcolor="#8DB4E2">WET</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="5" table-order="2" data-type-order="6">
+<table-wrap id="102118178405MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The PVT models for the reservoirs were created using commercially available software based on their respective properties. Five PVT models were created for the eight resevoirs and five PVT regions created in the model as shown in Table 2. Reservoir fluids from Bayelsa field can vary significantly with oils in the shallower reservoirs (D-7) being heavier, more viscous and having low solution gas-oil ratios (GORs), while the deeper reservoirs contain oils that are lighter, less viscous and have higher solution GORs.</anchoringText>
+<label>Table 2</label>
+<caption>Basic PVT Properties of the reservoirs</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Basic PVT Properties of the reservoirs</caption-text>
+</formatted-caption>
+<table id="102118178405MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" bgcolor="#C0C0C0" align="left">Reservoirs</th>
+<th valign="top" align="center" bgcolor="#C0C0C0">E4-1</th>
+<th valign="top" align="center" bgcolor="#C0C0C0">E4-2</th>
+<th valign="top" align="center" bgcolor="#C0C0C0">E4-3</th>
+<th valign="top" align="center" bgcolor="#C0C0C0">E4-6</th>
+<th valign="top" align="center" bgcolor="#C0C0C0">E5-1</th>
+<th valign="top" align="center" bgcolor="#C0C0C0">E5-2</th>
+<th valign="top" align="center" bgcolor="#C0C0C0">E5-3</th>
+<th valign="top" align="center" bgcolor="#C0C0C0">E5-6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" bgcolor="#C0C0C0" align="left">API</td>
+<td valign="top" align="center">31.3</td>
+<td valign="top" align="center">24.5</td>
+<td valign="top" align="center">20.5</td>
+<td valign="top" align="center">29</td>
+<td valign="top" align="center">31.3</td>
+<td valign="top" align="center">29.4</td>
+<td valign="top" align="center">20.5</td>
+<td valign="top" align="center">29</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#C0C0C0" align="left">Pi</td>
+<td valign="top" align="center">2433</td>
+<td valign="top" align="center">2334</td>
+<td valign="top" align="center">2328</td>
+<td valign="top" align="center">2395</td>
+<td valign="top" align="center">2520</td>
+<td valign="top" align="center">2415</td>
+<td valign="top" align="center">2350</td>
+<td valign="top" align="center">2450</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#C0C0C0" align="left">Rsi</td>
+<td valign="top" align="center">464</td>
+<td valign="top" align="center">348</td>
+<td valign="top" align="center">298</td>
+<td valign="top" align="center">411</td>
+<td valign="top" align="center">482</td>
+<td valign="top" align="center">426</td>
+<td valign="top" align="center">303</td>
+<td valign="top" align="center">412</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#C0C0C0" align="left">PVTREG</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">2</td>
+<td valign="top" align="center">4</td>
+<td valign="top" align="center">5</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">4</td>
+<td valign="top" align="center">5</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="9" table-order="3" data-type-order="11">
+<table-wrap id="102118178405MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Ultimately however, a satisfactory match was not obtained in the E4-1 and E5-1 reservoirs but because the historical data for the six other reservoirs had been matched with all inter-fault blocks sealing; this was deemed an acceptable match. The E4-1 and E5-1 reservoirs were also blanked out in a different case and this did not compromise the quality of historical match in the other six reservoirs. Adjustments were made to several parameters including permeability, aquifer porevolume, fault transmissibility and relative permeability to achieve a satisfactory history match. The historical match plot for four of the six reservoirs matched are shown in Figs. 5–8 while Table 3 gives a summary of basic reservoir information from the history- matched reservoirs..</anchoringText>
+<label>Table 3</label>
+<caption>Reservoir data from history matched reservoirs</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Reservoir data from history matched reservoirs</caption-text>
+</formatted-caption>
+<table id="102118178405MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" bgcolor="#DADADA" align="left">Reservoirs</th>
+<th valign="top" bgcolor="#DADADA" align="left">E4-2</th>
+<th valign="top" bgcolor="#DADADA" align="left">E4-3</th>
+<th valign="top" bgcolor="#DADADA" align="left">E4-6</th>
+<th valign="top" bgcolor="#DADADA" align="left">E5-2</th>
+<th valign="top" bgcolor="#DADADA" align="left">E5-3</th>
+<th valign="top" bgcolor="#DADADA" align="left">E5-6</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" bgcolor="#DADADA" align="left">Cumulative Production (MMstb) - March. 2013</td>
+<td valign="top" align="left">16.56</td>
+<td valign="top" align="left">17.67</td>
+<td valign="top" align="left">0.98</td>
+<td valign="top" align="left">176.2</td>
+<td valign="top" align="left">11.01</td>
+<td valign="top" align="left">1.78</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#DADADA" align="left">Initial gas/oil contact, ft subsea</td>
+<td valign="top" align="left">5314</td>
+<td valign="top" align="left">5184</td>
+<td valign="top" align="left">6019</td>
+<td valign="top" align="left">5396</td>
+<td valign="top" align="left">5260</td>
+<td valign="top" align="left">N/A</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#DADADA" align="left">Initial oi/water contact, ft subsea</td>
+<td valign="top" align="left">5532</td>
+<td valign="top" align="left">5435</td>
+<td valign="top" align="left">6095</td>
+<td valign="top" align="left">5759</td>
+<td valign="top" align="left">5424</td>
+<td valign="top" align="left">6275</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#DADADA" align="left">Datum depth, ft subsea</td>
+<td valign="top" align="left">5400</td>
+<td valign="top" align="left">5350</td>
+<td valign="top" align="left">6035</td>
+<td valign="top" align="left">5500</td>
+<td valign="top" align="left">5400</td>
+<td valign="top" align="left">6175</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#DADADA" align="left">No, of Producers</td>
+<td valign="top" align="left">6</td>
+<td valign="top" align="left">3</td>
+<td valign="top" align="left">1</td>
+<td valign="top" align="left">23</td>
+<td valign="top" align="left">3</td>
+<td valign="top" align="left">2</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#DADADA" align="left">No. of Injectors</td>
+<td valign="top" align="left">2</td>
+<td valign="top" align="left">0</td>
+<td valign="top" align="left">0</td>
+<td valign="top" align="left">3</td>
+<td valign="top" align="left">0</td>
+<td valign="top" align="left">0</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#DADADA" align="left">SORW, %</td>
+<td valign="top" align="left">15.8</td>
+<td valign="top" align="left">11.7</td>
+<td valign="top" align="left">16.8</td>
+<td valign="top" align="left">15</td>
+<td valign="top" align="left">19.2</td>
+<td valign="top" align="left">13.3</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#DADADA" align="left">Proposed Development</td>
+<td valign="top" align="left">1 producer</td>
+<td valign="top" align="left">1 producer</td>
+<td valign="top" align="left">None</td>
+<td valign="top" align="left">2 producers</td>
+<td valign="top" align="left">None</td>
+<td valign="top" align="left">None</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

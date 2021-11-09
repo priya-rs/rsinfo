@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185992MS.txt" extractionDate="2021-03-27T10:56:57Z">
+<doi>10.2118/185992-MS</doi>
+<pii>10.2118/185992-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="4" table-order="1" data-type-order="3">
+<table-wrap id="102118185992MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Therefore, pre-existence fractures along the in-situ maximum principal stress orientation are the first to be reopened. If the pore pressure further arises, pre-existence fractures along other directions are sequentially activated according to their angles from the in-situ maximum principal stress orientation[9]. To study the probability of these two cases, two key pressures – fracturing pressure of intact rock and reopening pressure of pre-existence fracture were calculated (Chart 1).</anchoringText>
+<label>Chart 1</label>
+<caption>Pressure ranges of two representative low-permeability reservoirs in Ordos basin</caption>
+<formatted-caption>
+<caption-label>Chart</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Pressure ranges of two representative low-permeability reservoirs in Ordos basin</caption-text>
+</formatted-caption>
+<table id="102118185992MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th align="center">Resertoir</th>
+<th align="center">Injection pressare MPa</th>
+<th align="center">Bottom hole Pressare Mpa</th>
+<th align="center">Fracturing pressure Mpa</th>
+<th align="center">Reopeing pressure (angle from current max stress orientation) Mpa</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">WY</td>
+<td valign="top" align="center">6-9</td>
+<td valign="top" align="center">18-21</td>
+<td valign="top" align="center">27-33</td>
+<td valign="top" align="center">15-20.9(0-25°(2))</td>
+</tr>
+<tr>
+<td valign="top" align="center">B153</td>
+<td valign="top" align="center">9-15</td>
+<td valign="top" align="center">30-36</td>
+<td valign="top" align="center">45-53</td>
+<td valign="top" align="center">26-34.7(0-15°(@))</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

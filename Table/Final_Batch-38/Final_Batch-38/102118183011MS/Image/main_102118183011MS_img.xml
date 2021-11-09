@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118183011MS.txt" extractionDate="2021-03-22T19:19:06Z">
+<doi>10.2118/183011-MS</doi>
+<pii>10.2118/183011-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr4"> </anchoringText>
+<image-wrap id="102118183011MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118183011MS_i_1.tif" id="ImgLink-1" />
+<caption>Reservoir Structure</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Reservoir Structure</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="2" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr5">�</anchoringText>
+<image-wrap id="102118183011MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118183011MS_i_2.tif" id="ImgLink-2" />
+<caption>Core data (Poro/Perm Crossplot)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Core data (Poro/Perm Crossplot)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr6">This allows for better representation of rock properties, less data "scatter" and results in better porosity and permeability prediction. Saturation log was estimated from sigma log using neural network technique. J-function was used to get saturation height function for the distribution in the model (Figure-3).</anchoringText>
+<image-wrap id="102118183011MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118183011MS_i_3.tif" id="ImgLink-3" />
+<caption>Water Saturation Function</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Water Saturation Function</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr7">Pressure data (MDT/RFT/RCI) were collected across selected vertical sections in Zone 1 wells; the pressure gradient observed across Zone 1 was estimated to be is 0.29 psi/ft (Figure-4). Some wells showed overpressure points but later those points proved to be super-charged. Short-term production data was available from 6 wells.</anchoringText>
+<image-wrap id="102118183011MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118183011MS_i_4.tif" id="ImgLink-4" />
+<caption>Property Distribution (Left) and MDT/RCI (Right)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Property Distribution (Left) and MDT/RCI (Right)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr8"> </anchoringText>
+<image-wrap id="102118183011MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118183011MS_i_5.tif" id="ImgLink-5" />
+<caption>Well location and trajectories</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Well location and trajectories</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr9"> </anchoringText>
+<image-wrap id="102118183011MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118183011MS_i_6.tif" id="ImgLink-6" />
+<caption>Distribution Function</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Distribution Function</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr10">Complete analysis was conducted based on the subsurface parameters (Figure 7) to ensure any parameter is neither neglected nor given high weight when move forward for detailed history matching phase. This method reduced the number of factors to be considered in detailed history match, thereby guiding an understanding of underlying mechanisms.</anchoringText>
+<image-wrap id="102118183011MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118183011MS_i_7.tif" id="ImgLink-7" />
+<caption>and All LHC cases (Left) and correlation plot shows Impact of uncertainties (Right)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>and All LHC cases (Left) and correlation plot shows Impact of uncertainties (Right)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr11"> </anchoringText>
+<image-wrap id="102118183011MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118183011MS_i_8.tif" id="ImgLink-8" />
+<caption>Multiple acceptable history matched models</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Multiple acceptable history matched models</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr12">Sensitivity analysis (OVAT) showed 5 uncertainty parameters with major impact while other parameters have minor impact. Figure 9 presents the results from the sensitivity study in tornado charts with descending parameters based on their influence on the cumulative oil. Based on uncertainty analysis, permeability (horizontal permeability between injector to producer) and relative permeability have the greatest impact on cumulative oil production (Global) while fault transmissibility has the least effect.</anchoringText>
+<image-wrap id="102118183011MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118183011MS_i_9.tif" id="ImgLink-9" />
+<caption>Tornado chart</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Tornado chart</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="10" data-type-order="13">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr13"> </anchoringText>
+<image-wrap id="102118183011MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118183011MS_i_10.tif" id="ImgLink-10" />
+<caption>The correlation impact of the uncertainty parameters on objective function (response parameter)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>The correlation impact of the uncertainty parameters on objective function (response parameter)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="11" data-type-order="14">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr14"> </anchoringText>
+<image-wrap id="102118183011MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118183011MS_i_11.tif" id="ImgLink-11" />
+<caption>Probabilistic profile all cases (Left plot) and profile P10, P50 and P90 (Right plot)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Probabilistic profile all cases (Left plot) and profile P10, P50 and P90 (Right plot)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="12" data-type-order="15">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr15"> </anchoringText>
+<image-wrap id="102118183011MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118183011MS_i_12.tif" id="ImgLink-12" />
+<caption>Proxy building and verification</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Proxy building and verification</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="13" data-type-order="16">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr16"> </anchoringText>
+<image-wrap id="102118183011MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118183011MS_i_13.tif" id="ImgLink-13" />
+<caption>500 proxy simulation results (left plot). Comparison proxy vs actual simulation cases (right plot)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>500 proxy simulation results (left plot). Comparison proxy vs actual simulation cases (right plot)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="14" data-type-order="17">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr17"> </anchoringText>
+<image-wrap id="102118183011MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118183011MS_i_14.tif" id="ImgLink-14" />
+<caption>Uncertainty and optimization workflow implementation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Uncertainty and optimization workflow implementation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

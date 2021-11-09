@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118176569MS.txt" extractionDate="2021-03-20T10:12:31Z">
+<doi>10.2118/176569-MS</doi>
+<pii>10.2118/176569-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure composite="true" composite-count="2" pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">Permeability variation coefficient is 3 that according to formation heterogeneity characteristics [4] is classified as rather heterogeneous. Average compartmentalization factor of formation is 5.3; average net-to-gross is 0.4. Formation compartmentalization correlates with its thickness and increases towards the south-east. Vertical heterogeneity by core data may be estimated qualitatively using Lorenz curve in Fig. 1a. The graph is characterized by sharp convex form with Lorenz coefficient 0.59 which is classified as a reservoir with extremely high heterogeneity where 78% of flow capacity is accounted for by 30% of storage capacity.</anchoringText>
+<image-wrap id="102118176569MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118176569MS_i_1.tif" id="ImgLink-1" />
+<caption>a) Lorenz curve b) Dykstra-Parsons coefficient</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>a) Lorenz curve b) Dykstra-Parsons coefficient</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118176569MS-Img_SPi-1a">
+<imageLink type="mediaResource" href="102118176569MS_i_1a.tif" id="ImgLink-1a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Lorenz curve</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118176569MS-Img_SPi-1b">
+<imageLink type="mediaResource" href="102118176569MS_i_1b.tif" id="ImgLink-1b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Dykstra-Parsons coefficient</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">The part of well stock with water breakthrough is 10%; average water-free recovery out of initial recoverable reserves is 0.41. Displacement characteristics may be divided into two groups with sharp and smooth water cut increase. The majority of wells with watercut higher than 30% are characterized by rather high rate of watercut increase (Fig. 2).</anchoringText>
+<image-wrap id="102118176569MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118176569MS_i_2.tif" id="ImgLink-2" />
+<caption>Displacement characteristics normed at average water-free recovery out of initial recoverable reserves.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Displacement characteristics normed at average water-free recovery out of initial recoverable reserves.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Patterns for detailed analysis using reservoir simulation model were prioritized using integrated parameter that includes normalized indicators of the current compensation, total flow rate of production wells and heterogeneity indicator which in its turn consists of normalized compartmentalization and vertical permeability variation coefficient (Fig. 3). With that, rating is divided into two parts: the upper part of the rating contains patterns with wells that produced water, the lower one – water-free wells.</anchoringText>
+<image-wrap id="102118176569MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118176569MS_i_3.tif" id="ImgLink-3" />
+<caption>Prioritization scheme of base stock patterns</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Prioritization scheme of base stock patterns</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">Water source is determined for high watercut wells. Since oil was flushed from one injection well, there are undrained reserves on the side of neighbouring wells, and by increasing injectivity of surrounding injection wells, it is possible to stabilize watercut growth by means of additional oil inflow from poorly drained zones. In cases when injection well being the source of watercut is on the edge of development area, then it is possible to restrict injectivity. An example of successful measures to stabilize watercut of high-rate well is presented in Fig. 4.</anchoringText>
+<image-wrap id="102118176569MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118176569MS_i_4.tif" id="ImgLink-4" />
+<caption>Example of injection optimization for watercut increase stabilization.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Example of injection optimization for watercut increase stabilization.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">For water-free zones for each waterflooding pattern, estimations were made with selection of possible combinations to select a combination for the highest oil recovery. An estimation example is presented in Fig.5 that shows that well No. 143 has the highest priority because predicted injection increase has the highest sustainability to change of conditions in wells No.144 and No.146; at the same time injectivity increase in wells No. 144 is preferable for cases with high injection rate in well No.143 and unchanged in well No. 146.</anchoringText>
+<image-wrap id="102118176569MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118176569MS_i_5.tif" id="ImgLink-5" />
+<caption>Well prioritization for optimization.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Well prioritization for optimization.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">A great number of wells are equipped with small diameter tubing and at high wellhead pressure and injectivity index, they produce at a significantly lower potential losing up to 100 atm for friction at injectivity 1400 m3/day (Fig. 6). In case tubing change as an in the example above, rate may increase up to 1000 m3/day therefore doubling injection. Well with potential of injectivity over 500 m3/day equipped with 73 mm tubing are candidates for change for 89 mm tubing; wells with potential over 1000 m3/day are candidates for change for 114 mm tubing.</anchoringText>
+<image-wrap id="102118176569MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118176569MS_i_6.tif" id="ImgLink-6" />
+<caption>Cross plot for pressure loss estimation for friction and various tubing diameters.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Cross plot for pressure loss estimation for friction and various tubing diameters.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">The compiled rating represents a basis of conversion programme with the rate that might be implemented by current workover teams and availability of water-injection system and injection water. For the scheduled wells in the nearest month, estimations are made to justify conversion and launching pattern in relation to incremental production. After that, well for conversion are aligned in the order from the biggest impact on production increase down to the smallest one so that the most effective wells with optimal rates were converted first (Fig. 7).</anchoringText>
+<image-wrap id="102118176569MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118176569MS_i_7.tif" id="ImgLink-7" />
+<caption>Wells prioritizing for conversion for a month.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Wells prioritizing for conversion for a month.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8"> </anchoringText>
+<image-wrap id="102118176569MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118176569MS_i_8.tif" id="ImgLink-8" />
+<caption>Results of pressure calculations in water injection pipelines</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Results of pressure calculations in water injection pipelines</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9"> </anchoringText>
+<image-wrap id="102118176569MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118176569MS_i_9.tif" id="ImgLink-9" />
+<caption>The diagram of problem areas with pressure, lower than target one</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>The diagram of problem areas with pressure, lower than target one</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10"> </anchoringText>
+<image-wrap id="102118176569MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118176569MS_i_10.tif" id="ImgLink-10" />
+<caption>The diagram of proposed loopings to ensure target pressures on problem well pads</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>The diagram of proposed loopings to ensure target pressures on problem well pads</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11"> </anchoringText>
+<image-wrap id="102118176569MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118176569MS_i_11.tif" id="ImgLink-11" />
+<caption>Results of pressure calculations in water injections lines, including new loopings</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Results of pressure calculations in water injections lines, including new loopings</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

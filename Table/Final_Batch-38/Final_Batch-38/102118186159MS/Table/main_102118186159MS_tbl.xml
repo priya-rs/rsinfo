@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118186159MS.txt" extractionDate="2021-03-26T10:28:16Z">
+<doi>10.2118/186159-MS</doi>
+<pii>10.2118/186159-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="3" table-order="1" data-type-order="2">
+<table-wrap id="102118186159MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The well mapping of the EOR project is shown in Fig. 1 and the reservoir parameters are presented in Table 1. There are around 32 producers and 24 injectors. The effective pay is 11.4 on average. The EOR project initiated in 2013 and the method is polymer surfactant flooding. The north is more homogeneous than the south part. The water cut was around 98% and recovery factor reached around 53% when the EOR project was initiated. After the EOR project started for one year, the water cut was reduced substantially from 98%to 70% and oil production has been increased by more than 4 times. However, after another one year, water cut was increased substantially and breakthrough of water injection was noticed.</anchoringText>
+<label>Table 1</label>
+<caption>Reservoir parameters of current EOR project</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Reservoir parameters of current EOR project</caption-text>
+</formatted-caption>
+<table id="102118186159MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">
+<a id="Production_History">
+</a>
+<a id="bookmark0">
+</a>
+<a id="bookmark1">
+</a>Project</th>
+<th valign="top" align="left">Total</th>
+<th valign="top" align="left">North Center Zone</th>
+<th valign="top" align="left">South Center Zone</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Area (km)</td>
+<td valign="top" align="left">2.1</td>
+<td valign="top" align="left">0.376</td>
+<td valign="top" align="left">0.352</td>
+</tr>
+<tr>
+<td valign="top" align="left">Target Zone</td>
+<td colspan="3" valign="top" align="left">PU I1-4 After Polymer Flooding</td>
+</tr>
+<tr>
+<td valign="top" align="left">No. of Producers</td>
+<td valign="top" align="left">32</td>
+<td valign="top" align="left">6</td>
+<td valign="top" align="left">6</td>
+</tr>
+<tr>
+<td valign="top" align="left">No. of Injectors</td>
+<td valign="top" align="left">24</td>
+<td valign="top" align="left">12</td>
+<td valign="top" align="left">12</td>
+</tr>
+<tr>
+<td valign="top" align="left">Sand Thickness (m)</td>
+<td valign="top" align="left">11.4</td>
+<td valign="top" align="left">11.3</td>
+<td valign="top" align="left">11.1</td>
+</tr>
+<tr>
+<td valign="top" align="left">Pay Zone (m)</td>
+<td valign="top" align="left">7.0</td>
+<td valign="top" align="left">6.2</td>
+<td valign="top" align="left">6.9</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil in Place (104t)</td>
+<td valign="top" align="left">206.05</td>
+<td valign="top" align="left">45.08</td>
+<td valign="top" align="left">40.55</td>
+</tr>
+<tr>
+<td valign="top" align="left">Porosity Volume(104m3)</td>
+<td valign="top" align="left">404.49</td>
+<td valign="top" align="left">90.04</td>
+<td valign="top" align="left">79.13</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

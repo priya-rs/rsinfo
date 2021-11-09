@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187272MS.txt" extractionDate="2021-03-25T17:23:36Z">
+<doi>10.2118/187272-MS</doi>
+<pii>10.2118/187272-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="5">
+<table-wrap id="102118187272MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Sensitivity studies were conducted to evaluate the possibilities of Jump Start-up under various scenarios. As shown in Table 1, for a challenging well such as A-04, Jump Start-up had a small operational margin and most cases were on the border of failure/success, mainly due to the low reservoir pressure support (Case 1-4). With several bars change in test separator (Case 2) or lower GOR than expected (Case 3, and the field data after start-up confirmed a much lower GOR), the start-up would not be successful according to the prediction. This led to the decision to consider a more reliable gas-lift start-up.</anchoringText>
+<caption caption-missing="yes">
+<caption-missing-reason>No caption available in source article</caption-missing-reason>
+</caption>
+<table id="102118187272MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th align="center" bgcolor="#BFBFBF">Case #</th>
+<th valign="top" align="center" bgcolor="#BFBFBF">Test Separator Pressure (bar)</th>
+<th align="center" bgcolor="#BFBFBF">P∣ (Sm3/bar/d)</th>
+<th align="center" bgcolor="#BFBFBF">GOR</th>
+<th align="center" bgcolor="#BFBFBF">Reservoir Pressure (bar)</th>
+<th align="center" bgcolor="#BFBFBF">Startup?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">2</td>
+<td valign="top" align="center">28</td>
+<td valign="top" align="center">1340</td>
+<td valign="top" align="center">110</td>
+<td valign="top" align="center" bgcolor="#92D14F">Yes</td>
+</tr>
+<tr>
+<td valign="top" align="center">2</td>
+<td valign="top" align="center">11</td>
+<td valign="top" align="center">28</td>
+<td valign="top" align="center">1340</td>
+<td valign="top" align="center">110</td>
+<td valign="top" align="center" bgcolor="#FC0200">No</td>
+</tr>
+<tr>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">2</td>
+<td valign="top" align="center">28</td>
+<td valign="top" align="center">545</td>
+<td valign="top" align="center">110</td>
+<td valign="top" align="center" bgcolor="#FC0200">No</td>
+</tr>
+<tr>
+<td valign="top" align="center">4</td>
+<td valign="top" align="center">2</td>
+<td valign="top" align="center">28</td>
+<td valign="top" align="center">1340</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center" bgcolor="#FC0200">No</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

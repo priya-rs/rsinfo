@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118183444MS.txt" extractionDate="2021-03-23T17:01:26Z">
+<doi>10.2118/183444-MS</doi>
+<pii>10.2118/183444-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="4" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr6">Taking the first stage of well X001 in Xinjiang oilfield for example, we have classified the fracture scale based on hydraulic fracture operating curve (Fig.1). The Poisson ratio is v = 0.27, the rock elastic modulus is E=25.55GPa, and the fracture height is H=69.6m. Fracturing fluid with viscosity μ=0.02Pa · s is pumped at an averaged rate of Q = 6.0m3/min for about t = 122.3 min. With 1mm as the initial test value of fracture aperture, the mean fracture aperture and fracture half length are calculated as w = 2.35mm and L = 273.5m respectively.</anchoringText>
+<image-wrap id="102118183444MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118183444MS_i_1.tif" id="ImgLink-1" />
+<caption>Hydraulic Fracture Operating Curve of X001_NO.1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Hydraulic Fracture Operating Curve of X001_NO.1</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="2" data-type-order="4">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr7">Geometry calculation results of 23 hydraulic fracturing stages from the above four horizontal wells indicate that obvious differences do exist in the mean aperture distributions among micro fracture networks, mixed fracture networks and large fracture networks (Fig.2). Baesd on the fracture conductivity, i.e. mean aperture, fracture morphologies are roughly categorized into three types: when the mean fracture aperture is smaller than 2mm, micro fractures dominate the fracture network; when the mean fracture aperture is within 2mm to 3mm, large fractures and micro fractures coexist with essentially the same proportion; when the mean fracture aperture is larger than 3mm, large fractures become the priority of the fracture system.</anchoringText>
+<image-wrap id="102118183444MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118183444MS_i_2.tif" id="ImgLink-2" />
+<caption>Statistical Results of Mean Fracture Aperture for Fracturing Stages of X001~X007</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Statistical Results of Mean Fracture Aperture for Fracturing Stages of X001~X007</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="6" figure-order="3" data-type-order="5">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr8">When production begins after hydraulic fracturing, fracturing fluid will flow back into large fractures or the wellbore from micro fractures, thus tracer concentration will keep a gradual rise due to the limited conductivity of micro fractures. With the continuous oil production, fracturing fluid and tracer element in the micro fractures gradually decrease, leading to a gradual fall of tracer concentration after the peak value. Tracer BTCs of well X003 (Fig.3) show that the initial concentration is relatively low and peak concentration is reached after about 10d with a value of 2~3ng/ml. As described above, tracer concentration then gradually reduces from the peak value for a certain long duration around 30d.</anchoringText>
+<image-wrap id="102118183444MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118183444MS_i_3.tif" id="ImgLink-3" />
+<caption>Field Tracer BTCs of Well X003 JHW003_NO.4 Sm JHW003_NO.6 Dy JHW003_NO.16 Tb</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Field Tracer BTCs of Well X003 JHW003_NO.4 Sm JHW003_NO.6 Dy JHW003_NO.16 Tb</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183444MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118183444MS_i_3a.tif" id="ImgLink-3a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>JHW003_NO.4 Sm</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183444MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118183444MS_i_3b.tif" id="ImgLink-3b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>JHW003_NO.6 Dy</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183444MS-Img_SPi-3c">
+<imageLink type="mediaResource" href="102118183444MS_i_3c.tif" id="ImgLink-3c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>JHW003_NO.16 Tb</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="6" figure-order="4" data-type-order="6">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr9">The faster the flowback rate is, the sharper the curve peak will be. Since such fracture system is mainly composed of one or several large fractures, the fracture network generally owns high conductivity. Tracer in large fractures will produce out at a rather high flow rate once flowback begins thus resulting in a quick increase and a quick decrease of the tracer concentration. For tracer BTCs of well X007(Fig.4), it shows that the tracer concentration rises rapidly after tracer breakthrough and falls fast after one week or less time.</anchoringText>
+<image-wrap id="102118183444MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118183444MS_i_4.tif" id="ImgLink-4" />
+<caption>Field Tracer BTCs of Well X007 JHW007_NO.11 Sm JHW007_NO.13 Yb JHW007_NO.15 Pr</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Field Tracer BTCs of Well X007 JHW007_NO.11 Sm JHW007_NO.13 Yb JHW007_NO.15 Pr</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118183444MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118183444MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>JHW007_NO.11 Sm</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183444MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118183444MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>JHW007_NO.13 Yb</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118183444MS-Img_SPi-4c">
+<imageLink type="mediaResource" href="102118183444MS_i_4c.tif" id="ImgLink-4c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>JHW007_NO.15 Pr</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr10">At the late period of backflow, tracer production of large fractures rapidly reduces while tracer production from micro fractures dominates the flowback process, so that the overall produced trace concentration will gradually decrease. As is shown in Fig.5~6, tracer BTCs of X001 and X005 both follow the parabolic unimodal type. The first half of tracer BTC shows the characteristics of large fractures—high initial concentration and quick concentration increase, and the latter part presents the features of micro fractures—slow concentration decrease and long signal duration.</anchoringText>
+<image-wrap id="102118183444MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118183444MS_i_5.tif" id="ImgLink-5" />
+<caption>Field Tracer BTCs of Well X001</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Field Tracer BTCs of Well X001</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr11">At the late period of backflow, tracer production of large fractures rapidly reduces while tracer production from micro fractures dominates the flowback process, so that the overall produced trace concentration will gradually decrease. As is shown in Fig.5~6, tracer BTCs of X001 and X005 both follow the parabolic unimodal type. The first half of tracer BTC shows the characteristics of large fractures—high initial concentration and quick concentration increase, and the latter part presents the features of micro fractures—slow concentration decrease and long signal duration.</anchoringText>
+<image-wrap id="102118183444MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118183444MS_i_6.tif" id="ImgLink-6" />
+<caption>Field Tracer BTCs of Well X005</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Field Tracer BTCs of Well X005</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="7" data-type-order="10">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr12">Considering the fluid flow in x direction through the representative elemental volume (Δx, Δy, Δz) (Fig.7),the oil and water flow rates at the left surface are set as Vo(x) and Vw(x) while those at the right surface are Vo(x+Δx) and Vw(x+Δx).</anchoringText>
+<image-wrap id="102118183444MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118183444MS_i_7.tif" id="ImgLink-7" />
+<caption>Schematic Diagram of Representative Elemental Volume</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Schematic Diagram of Representative Elemental Volume</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="8" data-type-order="12">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr13">In TCSWIWS, discrete fractures are simulated by DFM while Delaunay triangular mesh generation method is applied for the matrix gridding. The flow region is meshed into triangular grids restricted by discrete fractures, as is shown in Fig.8.</anchoringText>
+<image-wrap id="102118183444MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118183444MS_i_8.tif" id="ImgLink-8" />
+<caption>Triangular Mesh Generation Results</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Triangular Mesh Generation Results</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="9" data-type-order="13">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr14">Fig.9 indicates that TCSWIWS has performed a good history matching of the tracer peak concentration. Meanwhile, the calculated curve also shows a similar tail phenomenon compared with the field observation data. However, the calculated curve gives a slower tracer decrease after getting to the peak. Further analysis shows that if the two small peaks in the field curve are artificially moved to the left, the early stage of concentration decline can be better fitted. Therefore, the newly-developed TCSWIWS owns high simulation precision and the inversed stochastic fracture network is actually a high degree approximation to the actaual fracture system.</anchoringText>
+<image-wrap id="102118183444MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118183444MS_i_9.tif" id="ImgLink-9" />
+<caption>History Matching of Field Tracer BTC</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>History Matching of Field Tracer BTC</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="10" data-type-order="14">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr15">Further analysis shows that if the two small peaks in the field curve are artificially moved to the left, the early stage of concentration decline can be better fitted. Therefore, the newly-developed TCSWIWS owns high simulation precision and the inversed stochastic fracture network is actually a high degree approximation to the actaual fracture system. The inversion results of discrete fractures and spatial distribution of tracer concentration at different periods are shown in Fig.10.</anchoringText>
+<image-wrap id="102118183444MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118183444MS_i_10.tif" id="ImgLink-10" />
+<caption>Tracer Spatial Distribution at Different SWIW Periods</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Tracer Spatial Distribution at Different SWIW Periods</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="11" data-type-order="16">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr16">As is shown in Fig.11, initial and peak concentration will increase while the signal duration will decrease with the reduction of fracture central point density. This phenomenon is understandable for fracture systems with controlled connectivity but different central point density. The lower the fracture central point density, the fewer the number of fractures, and the smaller the hydraulic fracturing range. Therefore, most of the injected tracer fluid will stay in the discrete fractures just around the horizontal wellbore.</anchoringText>
+<image-wrap id="102118183444MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118183444MS_i_11.tif" id="ImgLink-11" />
+<caption>Change in Tracer BTC for Different Fracture Central Point Density</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Change in Tracer BTC for Different Fracture Central Point Density</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="12" data-type-order="17">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr17">Curve shape changes for fracture networks with different mean fracture orientation are shown in Fig.12. When hydraulic fractures are almost parallel to the horizontal wellbore (N90.0°E), the fractures have least intersecting nodes with the wellbore, and thus BTC presents highest initial and peak concentration and shortest signal duration for confined tracer distribution; when hydraulic fractures are almost perpendicular to the wellbore (N180.0°E), the fractures have most intersecting nodes with the wellbore, and thus BTC presents lowest initial and peak concentration and longest signal duration for wide tracer distribution.</anchoringText>
+<image-wrap id="102118183444MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118183444MS_i_12.tif" id="ImgLink-12" />
+<caption>Change in Tracer BTC for Different Mean Values of Fracture Orientation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Change in Tracer BTC for Different Mean Values of Fracture Orientation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="13" data-type-order="18">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr18">Compared with Fig.12 and Fig.13, it is obvious that the influence of mean fracture orientation outweighs that of SDEV fracture orientation. Under the condition of controlled fracture-wellbore intersections, larger SDEV fracture orientation gives better fracture intersection frequencies matching and ensures more connected fractures contributed to underground tracer flow. With a relatively wider tracer propagation area, tracer BTC will be gauged with lower peak concentration.</anchoringText>
+<image-wrap id="102118183444MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118183444MS_i_13.tif" id="ImgLink-13" />
+<caption>Change in Tracer BTC for Different SDEV Values of Fracture Orientation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Change in Tracer BTC for Different SDEV Values of Fracture Orientation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="14" data-type-order="19">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr19"> </anchoringText>
+<image-wrap id="102118183444MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118183444MS_i_14.tif" id="ImgLink-14" />
+<caption>Change in Tracer BTC for Different Mean Values of Fracture Length</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Change in Tracer BTC for Different Mean Values of Fracture Length</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="15" data-type-order="20">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr20">Similarly, the statistical parameter of mean has a more profound impact on tracer BTC than that of standard deviation. As is demonstrated is Fig.15, the larger the SDEV of fracture length, the lower the initial and peak concentration. It is because of the fact that with the increase of fracture length SDEV, the generated fracture network gains more capacity to achieve the specified fracture intersection frequencies while more intersections may contribute to a larger propagation area and slower tracer accumulation.</anchoringText>
+<image-wrap id="102118183444MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118183444MS_i_15.tif" id="ImgLink-15" />
+<caption>Change in Tracer BTC for Different SDEV Values of Fracture Length</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Change in Tracer BTC for Different SDEV Values of Fracture Length</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="16" data-type-order="21">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr21">In Fig.16, highest peak concentration occurs when fracture aperture is smaller than 1mm (-50% of the control value) while peak concentration decreases with the increase of fracture aperture when mean aperture is between 1mm and 3mm (-25%~50% of the control value). Based on the fracture scale classification, natural micro-fractures dominate for the former, thus most of the injected tracer will remain in the wellbore and flow back quickly with high initial concentration; artificial micro-fractures dominate for the latter, thus the injected tracer can propagate and disperse into deeper formation.</anchoringText>
+<image-wrap id="102118183444MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118183444MS_i_16.tif" id="ImgLink-16" />
+<caption>Change in Tracer BTC for Different Mean Values of Fracture Aperture</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Change in Tracer BTC for Different Mean Values of Fracture Aperture</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="17" data-type-order="22">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr22"> </anchoringText>
+<image-wrap id="102118183444MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118183444MS_i_17.tif" id="ImgLink-17" />
+<caption>Change in Tracer BTC for Different SDEV Values of Fracture Aperture</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Change in Tracer BTC for Different SDEV Values of Fracture Aperture</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

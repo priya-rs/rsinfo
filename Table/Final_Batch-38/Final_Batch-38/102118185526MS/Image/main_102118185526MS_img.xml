@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185526MS.txt" extractionDate="2021-03-23T18:01:53Z">
+<doi>10.2118/185526-MS</doi>
+<pii>10.2118/185526-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr2">The pilot involves nine wells with completions only in the Rayoso Fm. It has three central producing wells (PP-1, PP-2 and PP-3) surrounded by six polymer injectors (PI-1 to PI-6) in a line-drive scheme with an average distance of 160 m between injectors and producers (Figure 1). Because the second-line wells continue to produce/inject in the three formations, allocation of the fluids is considered one of the key aspects to defining the success of the project.</anchoringText>
+<image-wrap id="102118185526MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118185526MS_i_1.tif" id="ImgLink-1" />
+<caption>Polymer pilot schematic</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Polymer pilot schematic</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr3">Figure 2 is a plot of the tracer concentration (produced tracer mass divided by injected mass) normalized by volume of produced water of the corresponding well. It clearly shows a main group of tracer events characterized by rapidly increasing concentrations, which had fairly long breakthrough times (130 days minimum).</anchoringText>
+<image-wrap id="102118185526MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118185526MS_i_2.tif" id="ImgLink-2" />
+<caption>Tracer concentration history. Each line corresponds to one injector-producer pair as indicated in the legend.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Tracer concentration history. Each line corresponds to one injector-producer pair as indicated in the legend.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr4">Figure 3 shows cumulative tracer recovery as a fraction of the injected mass. These connections also contributed significantly to the cumulative tracer amounts. There are also two smaller events characterized by early breakthrough times (around 90 days), small peak concentrations and very small cumulative tracer recovery. Therefore both of these high-conductivity connections probably involve very small reservoir volumes and should not affect the overall sweep efficiency of the baseline waterflood and subsequent polymer flood.</anchoringText>
+<image-wrap id="102118185526MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118185526MS_i_3.tif" id="ImgLink-3" />
+<caption>Tracer breakthrough map and cumulative tracer recovery</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Tracer breakthrough map and cumulative tracer recovery</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr5">Figure 4 shows three horizon slices extracted from a discontinuity attribute cube. Horizon slices (b) and (c) show some features with west to east direction in the center and in the south zone of the pilot. Such features could be interpreted as structural lineaments or faults and therefore possible barriers to flow. However, these features are only seen within the Rayoso Fm. interval, meaning subseismic fault-throw and uncertain implications for reservoir connectivity, therefore they were not included in the first 3D model.</anchoringText>
+<image-wrap id="102118185526MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118185526MS_i_4.tif" id="ImgLink-4" />
+<caption>Seismic time slices in the pilot zone at Rayoso Fm. a. Intra Rayoso Fm. Horizon - 68 ms b. Intra Rayoso Fm. Horizon - 88 ms c. Intra Rayoso Fm. Horizon - 98 ms</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Seismic time slices in the pilot zone at Rayoso Fm. a. Intra Rayoso Fm. Horizon - 68 ms b. Intra Rayoso Fm. Horizon - 88 ms c. Intra Rayoso Fm. Horizon - 98 ms</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185526MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118185526MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Intra Rayoso Fm. Horizon - 68 ms</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185526MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118185526MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Intra Rayoso Fm. Horizon - 88 ms</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185526MS-Img_SPi-4c">
+<imageLink type="mediaResource" href="102118185526MS_i_4c.tif" id="ImgLink-4c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Intra Rayoso Fm. Horizon - 98 ms</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr6">Figure 5 shows the chromatography of the crude oils from the different formations. It can be seen that Rayoso Fm. and Agrio Fm. oil have the same background and that Hutrín Fm. has a completely different kind of oil. Rayoso and Agrio oils can be discriminated due to the alteration of the oil resulting from biodegradation and evaporation, which has been severe to highly severe in the case of Rayoso Fm. losing most of the iso-components in the gasoline range.</anchoringText>
+<image-wrap id="102118185526MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118185526MS_i_5.tif" id="ImgLink-5" />
+<caption>Geochemical characterization of the oil from well SLP-6 What do the axis represent?</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Geochemical characterization of the oil from well SLP-6 What do the axis represent?</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr7">The flow diagram in Figure 6 is a simplified view of the polymer injection process </anchoringText>
+<image-wrap id="102118185526MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118185526MS_i_6.tif" id="ImgLink-6" />
+<caption>Simplified diagram of the polymer injection plant</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Simplified diagram of the polymer injection plant</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr8">The test was scheduled in three steps of increasing injection rate, at a constant nominal polymer concentration of 1500 ppm, giving a target viscosity of about 35 cp. The injection rates were 50, 75 and 100 m3/d and each rate step lasted about 10 days. Figure 7 is a plot of the polymer solution viscosity, injection rate and the wellhead pressure for well PI-2 during the injection phase of the test. Figure 8 shows the rate-pressure data for a longer time span before and after the injection test.</anchoringText>
+<image-wrap id="102118185526MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118185526MS_i_7.tif" id="ImgLink-7" />
+<caption>Polymer solution injection rate (squares), wellhead pressure (circles) and wellhead injected viscosity (triangles) versus time for the PI-2 injectivity test.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Polymer solution injection rate (squares), wellhead pressure (circles) and wellhead injected viscosity (triangles) versus time for the PI-2 injectivity test.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr9">The test was scheduled in three steps of increasing injection rate, at a constant nominal polymer concentration of 1500 ppm, giving a target viscosity of about 35 cp. The injection rates were 50, 75 and 100 m3/d and each rate step lasted about 10 days. Figure 7 is a plot of the polymer solution viscosity, injection rate and the wellhead pressure for well PI-2 during the injection phase of the test. Figure 8 shows the rate-pressure data for a longer time span before and after the injection test.</anchoringText>
+<image-wrap id="102118185526MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118185526MS_i_8.tif" id="ImgLink-8" />
+<caption>Injection rate and wellhead pressure data versus time for injection well DB-467 showing behavior before and after the injectivity test.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Injection rate and wellhead pressure data versus time for injection well DB-467 showing behavior before and after the injectivity test.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr10">The results are shown on Figure 9 as a time series from left to right. Date, fluid type, injection rate and wellhead pressure values are indicated on top of each profile. During water injection the injection profile was that of the first plot to the left, with the 10-meter perforated interval between 587 and 597 m taking between 60% and 70% of the injected water. This flow distribution was almost unchanged since April 2015. Polymer injection in the test at the initial rate of 50 m3/d notably changed the inflow distribution, with 100%intake into the second interval from top, followed by a more even distribution at the intermediate injection rate, and turning back to the initial profile at the highest rate of 100 m3/d.</anchoringText>
+<image-wrap id="102118185526MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118185526MS_i_9.tif" id="ImgLink-9" />
+<caption>Time evolution of the injection flow profile of well PI-2 before, during and after the polymer injection test, as measured by radioactive tracer flow logs. The table above the plot shows the well conditions at the time of each flow log.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Time evolution of the injection flow profile of well PI-2 before, during and after the polymer injection test, as measured by radioactive tracer flow logs. The table above the plot shows the well conditions at the time of each flow log.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr11">The production phase was an important part of the test because of the information collected on polymer solution integrity after being transported into the reservoir and back-produced. The well was put in production with a PCP pump for about one month, during which time the produced fluid was sampled at 1 or 2-hour intervals to measure viscosity and polymer concentration. The results are shown in Figure 10, in a plot of polymer concentration and solution viscosity as measured in the field laboratory on produced fluid samples taken at the wellhead.</anchoringText>
+<image-wrap id="102118185526MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118185526MS_i_10.tif" id="ImgLink-10" />
+<caption>Viscosity-concentration data collected during the back-production phase of the polymer test in injection well DB-467. Squares: polymer concentration determined in the field laboratory by the bleach method. Circles: corresponding viscosity at 7.31s<sup>-1</sup>
+</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Viscosity-concentration data collected during the back-production phase of the polymer test in injection well DB-467. Squares: polymer concentration determined in the field laboratory by the bleach method. Circles: corresponding viscosity at 7.31s<sup>-1</sup>
+</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr12">Figure 11 shows the measured viscosity values plotted as a function of polymer concentration. The field measurements are shown as dots, and the solid line is the reference curve measured in the lab for solutions prepared in synthetic water matching the field injection water composition, at the same shear rate and temperature (24 °C). It is clear that the backproduced fluid viscosity was systematically lower than the reference curve, but not too far below.</anchoringText>
+<image-wrap id="102118185526MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118185526MS_i_11.tif" id="ImgLink-11" />
+<caption>Circles: viscosity vs concentration data for the "stable"samples (circles in Figure 10) collected during the back-production phase of the polymer test in injection well DB-467. The solid line is the laboratory curve measured for the same polymer in synthetic river water at the same shear rate and a temperature of 24°C.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Circles: viscosity vs concentration data for the "stable"samples (circles in <link href="102118185526MS-Img_SPi-10">Figure 10</link>) collected during the back-production phase of the polymer test in injection well DB-467. The solid line is the laboratory curve measured for the same polymer in synthetic river water at the same shear rate and a temperature of 24°C.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="12" data-type-order="13">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr13">This target has been met so far, but the results still do not show well-established trends. We can consider that two or three out of six injection wells in the pilot have improved their vertical conformance. Small changes detected in many intervals in the flow profiles are believed not to be real changes but a consequence of the measurement uncertainty. As an example, Figure 12 shows the evolution in the injection profile for the well PI-3, showing reproducibility of the profiles during polymer injection. Showing vertical conformance improvement.</anchoringText>
+<image-wrap id="102118185526MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118185526MS_i_12.tif" id="ImgLink-12" />
+<caption>Evolution of the injectivity profile in the well PI-3</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Evolution of the injectivity profile in the well PI-3</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="13" data-type-order="14">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr14">A modified Hall Plot (Buell et al. 1990) was used for all the wells to monitor injectivity changes. As an example Figure 13 shows the result obtained for the well PI-3, in which a different slope for each concentration can be identified. The baseline of injectivity corresponds to the blue curve, it is followed by the red curve at 400 ppm polymer concentration, then the green curve at 800 ppm polymer concentration and finally by the purple line corresponding to 1200 ppm polymer concentration. Each change in polymer concentration correlates to a slope change that is an indicator of injectivity decrease.</anchoringText>
+<image-wrap id="102118185526MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118185526MS_i_13.tif" id="ImgLink-13" />
+<caption>Modified Hall plot for the injector well PI-3</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Modified Hall plot for the injector well PI-3</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

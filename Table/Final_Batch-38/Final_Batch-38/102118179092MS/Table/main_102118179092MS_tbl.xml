@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118179092MS.txt" extractionDate="2021-03-20T16:18:43Z">
+<doi>10.2118/179092-MS</doi>
+<pii>10.2118/179092-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="3">
+<table-wrap id="102118179092MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Table 1 shows the well test results before intervention.</anchoringText>
+<label>Table 1</label>
+<caption>Well test results before intervention.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Well test results before intervention.</caption-text>
+</formatted-caption>
+<table id="102118179092MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Oil Rate</th>
+<th valign="top" align="center">Water <a id="bookmark0">
+</a>Rate</th>
+<th valign="top" align="center">Gas Rate</th>
+<th valign="top" align="center">Gas/Oil</th>
+<th valign="top" align="center">Bottomhole</th>
+<th valign="top" align="center">Tubing Head</th>
+<th valign="top" align="center">Choke</th>
+</tr>
+<tr>
+<th valign="top" align="center">(stb/D)</th>
+<th valign="top" align="center">(stb/D)</th>
+<th valign="top" align="center">(Mscf/d)</th>
+<th valign="top" align="center">Ratio (scf/bbl)</th>
+<th valign="top" align="center">Pressure (psi)</th>
+<th valign="top" align="center">Pressure (psi)</th>
+<th valign="top" align="center">(%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">5776</td>
+<td valign="top" align="center">13</td>
+<td valign="top" align="center">32210</td>
+<td valign="top" align="center">5577</td>
+<td valign="top" align="center">3173</td>
+<td valign="top" align="center">1873</td>
+<td valign="top" align="center">29</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="6" table-order="2" data-type-order="5">
+<table-wrap id="102118179092MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The complete installed assembly for a multiple-run straddle (see Table 2) consists of several compo-nents. These are as follows (from the bottom to the top):</anchoringText>
+<label>Table 2</label>
+<caption>Straddle assembly components and tally.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Straddle assembly components and tally.</caption-text>
+</formatted-caption>
+<table id="102118179092MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Run</th>
+<th valign="top" align="left">Description</th>
+<th valign="top" align="center">Deployment Length (meters)</th>
+<th valign="top" align="center">
+<a>
+</a>Top Depth (meters)</th>
+<th valign="top" align="center">Bottom Depth (meters)</th>
+<th valign="top" align="center">Isolation Length (meters)</th>
+<th valign="top" align="center">Packer Mid Element Depth (meters)</th>
+<th valign="top" align="center">No. of Pins for Anchor or Packers</th>
+<th valign="top" align="center">Total Shear Value (lb)</th>
+<th valign="top" align="center">No. of Stinger Shear Pins</th>
+<th valign="top" align="center">Total Shear Value (lb)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">1</td>
+<td valign="top" align="left">Lower packer with wireline entry guide</td>
+<td valign="top" align="center">25.7</td>
+<td valign="top" align="center">5744.6</td>
+<td valign="top" align="center">5753.8</td>
+<td valign="top" align="center">7.7</td>
+<td valign="top" align="center">5752.7</td>
+<td valign="top" align="center">12</td>
+<td valign="top" align="center">15600</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="left">2</td>
+<td valign="top" align="left">Blank pipe</td>
+<td valign="top" align="center">26.9</td>
+<td valign="top" align="center">5734.6</td>
+<td valign="top" align="center">5744.6</td>
+<td valign="top" align="center">10.0</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">13000</td>
+</tr>
+<tr>
+<td valign="top" align="left">3</td>
+<td valign="top" align="left">Blank pipe</td>
+<td valign="top" align="center">26.9</td>
+<td valign="top" align="center">5724.6</td>
+<td valign="top" align="center">5734.6</td>
+<td valign="top" align="center">10.0</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">6</td>
+<td valign="top" align="center">7800</td>
+</tr>
+<tr>
+<td valign="top" align="left">4</td>
+<td valign="top" align="left">Anchor</td>
+<td valign="top" align="center">25.9</td>
+<td valign="top" align="center">5715.8</td>
+<td valign="top" align="center">5724.6</td>
+<td valign="top" align="center">8.8</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">12</td>
+<td valign="top" align="center">15600</td>
+<td valign="top" align="center">2</td>
+<td valign="top" align="center">2600</td>
+</tr>
+<tr>
+<td valign="top" align="left">5</td>
+<td valign="top" align="left">Blank pipe</td>
+<td valign="top" align="center">26.9</td>
+<td valign="top" align="center">5705.8</td>
+<td valign="top" align="center">5715.8</td>
+<td valign="top" align="center">10.0</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">13000</td>
+</tr>
+<tr>
+<td valign="top" align="left">6</td>
+<td valign="top" align="left">Blank Pipe</td>
+<td valign="top" align="center">26.9</td>
+<td valign="top" align="center">5695.9</td>
+<td valign="top" align="center">5705.8</td>
+<td valign="top" align="center">10.0</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">6</td>
+<td valign="top" align="center">7800</td>
+</tr>
+<tr>
+<td valign="top" align="left">7</td>
+<td valign="top" align="left">Upper Packer</td>
+<td valign="top" align="center">26.5</td>
+<td valign="top" align="center">5686.4</td>
+<td valign="top" align="center">5695.9</td>
+<td valign="top" align="center">8.3</td>
+<td valign="top" align="center">5687.5</td>
+<td valign="top" align="center">12</td>
+<td valign="top" align="center">15600</td>
+<td valign="top" align="center">2</td>
+<td valign="top" align="center">2600</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="9" table-order="3" data-type-order="8">
+<table-wrap id="102118179092MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">The deployment was performed in seven runs. Table 3 outlines the functions of the main components of the tool string for these runs. Fig. 6 and Fig. 7 show a schematic of the deployment string, which includes the locations of the main components.</anchoringText>
+<label>Table 3</label>
+<caption>Main components of deployment system.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Main components of deployment system.</caption-text>
+</formatted-caption>
+<table id="102118179092MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Component</th>
+<th valign="top" align="center">Description/Function</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Swivel</td>
+<td valign="top" align="left">Prevents the tool string from rotating</td>
+</tr>
+<tr>
+<td valign="top" align="left">Release system</td>
+<td valign="top" align="left">Emergency release system, for controlled release and retrieval of the tool string. It is activated by surface command or via time delay memory mode. Proper placement of the emergency release in the tool string enables more efficient retrieval/fishing</td>
+</tr>
+<tr>
+<td valign="top" align="left">Casing collar locator (CCL)</td>
+<td valign="top" align="left">Enables precise positioning of the straddle, anchor and blank pipe</td>
+</tr>
+<tr>
+<td valign="top" align="left">Setting tool</td>
+<td valign="top" align="left">A device for anchoring and setting plugs and packers in the wellbore</td>
+</tr>
+<tr>
+<td valign="top" align="left">Tractor</td>
+<td valign="top" align="left">Conveys the tool string to the required position in the well and also tractors the stinger seal of the component to latch into the seal bore</td>
+</tr>
+<tr>
+<td valign="top" align="left">Stroker</td>
+<td valign="top" align="left">Powered mechanical device that anchors in the tubing and can stroke a piston bi-directionally and repeatedly, with real time control and monitoring of the applied force and movement of the piston</td>
+</tr>
+<tr>
+<td valign="top" align="left">4” GS Pulling tool</td>
+<td valign="top" align="left">A slickline running tool designed to deploy and retrieve downhole components with an internal fishing neck. It can be released by jarring down with the slickline and breaking some shear pins, which allow it to come off the fishing neck. In this job, where it was not possible to deploy the system on slickline due to the high deviation (72°) the release was effected by the stroker.</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="12" table-order="4" data-type-order="12">
+<table-wrap id="102118179092MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4"> </anchoringText>
+<label>Table 4</label>
+<caption>Well test results after intervention.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Well test results after intervention.</caption-text>
+</formatted-caption>
+<table id="102118179092MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Oil Rate (stb/D)</th>
+<th valign="top" align="center">Water Rate (stb/D)</th>
+<th valign="top" align="center">Gas Rate (Msef/D)</th>
+<th valign="top" align="center">Gas/Oil Ratio (scf/bb)</th>
+<th valign="top" align="center">Bottomhole Pressure (psi)</th>
+<th valign="top" align="center">Tubing Head Pressure (psi)</th>
+<th valign="top" align="center">Choke (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">8365</td>
+<td valign="top" align="center">5</td>
+<td valign="top" align="center">27116</td>
+<td valign="top" align="center">3242</td>
+<td valign="top" align="center">2666</td>
+<td valign="top" align="center">11269</td>
+<td valign="top" align="center">34</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

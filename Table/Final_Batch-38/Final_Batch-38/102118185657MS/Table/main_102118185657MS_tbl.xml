@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185657MS.txt" extractionDate="2021-03-26T18:16:31Z">
+<doi>10.2118/185657-MS</doi>
+<pii>10.2118/185657-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="10" table-order="1" data-type-order="8">
+<table-wrap id="102118185657MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">From the history match, the left hand side of Eq. 8a is known for all water saturations (Sw), the right hand side then becomes a function of apparent water saturation (S′w) only. A simple iterative scheme (Excel Goal Seek) was used to solve Eq. 8a where emulsion viscosity (Eq. 9) and saturation constrain (Eq. 2) were used as auxiliary equations. The results of the calculation are shown in Table 1. Notice flowing cold oil viscosity is assumed constant and has no pressure dependency.</anchoringText>
+<label>Table 1</label>
+<caption>Estimated oil volume fraction in situ (Heavy oil water system: Pyramid Hills field, CA).</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Estimated oil volume fraction in situ (Heavy oil water system: Pyramid Hills field, CA).</caption-text>
+</formatted-caption>
+<table id="102118185657MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Sw</th>
+<th valign="bottom" align="center">Sw'</th>
+<th valign="bottom" align="center">Krw(Sw')</th>
+<th valign="bottom" align="center">Kro(Sw')</th>
+<th valign="bottom" align="center">Δso</th>
+<th valign="bottom" align="center">Δso/Sw'</th>
+<th valign="bottom" align="center">Sw/Sw'</th>
+<th valign="bottom" align="center">µe</th>
+<th valign="bottom" align="center">µo</th>
+<th valign="bottom" align="center">µo/µe</th>
+<th valign="bottom" align="center">µw/µe</th>
+<th valign="bottom" align="center">kroh (Eq.8a)</th>
+<th valign="bottom" align="center">Kroh (History)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center">0.471</td>
+<td valign="bottom" align="center">0.494</td>
+<td valign="bottom" align="center">0.022</td>
+<td valign="bottom" align="center">0.792</td>
+<td valign="bottom" align="center">0.023</td>
+<td valign="bottom" align="center">0.047</td>
+<td valign="bottom" align="center">0.953</td>
+<td valign="bottom" align="center">0.571</td>
+<td valign="bottom" align="center">133</td>
+<td valign="bottom" align="center">198.3</td>
+<td valign="bottom" align="center">0.895</td>
+<td valign="bottom" align="center">0.995</td>
+<td valign="bottom" align="center">0.996</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">0.499</td>
+<td valign="bottom" align="center">0.530</td>
+<td valign="bottom" align="center">0.040</td>
+<td valign="bottom" align="center">0.534</td>
+<td valign="bottom" align="center">0.031</td>
+<td valign="bottom" align="center">0.058</td>
+<td valign="bottom" align="center">0.942</td>
+<td valign="bottom" align="center">0.588</td>
+<td valign="bottom" align="center">133</td>
+<td valign="bottom" align="center">193.4</td>
+<td valign="bottom" align="center">0.872</td>
+<td valign="bottom" align="center">0.990</td>
+<td valign="bottom" align="center">0.990</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">0.528</td>
+<td valign="bottom" align="center">0.560</td>
+<td valign="bottom" align="center">0.054</td>
+<td valign="bottom" align="center">0.358</td>
+<td valign="bottom" align="center">0.033</td>
+<td valign="bottom" align="center">0.059</td>
+<td valign="bottom" align="center">0.941</td>
+<td valign="bottom" align="center">0.588</td>
+<td valign="bottom" align="center">133</td>
+<td valign="bottom" align="center">193.3</td>
+<td valign="bottom" align="center">0.872</td>
+<td valign="bottom" align="center">0.979</td>
+<td valign="bottom" align="center">0.979</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">0.555</td>
+<td valign="bottom" align="center">0.589</td>
+<td valign="bottom" align="center">0.055</td>
+<td valign="bottom" align="center">0.249</td>
+<td valign="bottom" align="center">0.033</td>
+<td valign="bottom" align="center">0.055</td>
+<td valign="bottom" align="center">0.944</td>
+<td valign="bottom" align="center">0.584</td>
+<td valign="bottom" align="center">133</td>
+<td valign="bottom" align="center">194.3</td>
+<td valign="bottom" align="center">0.877</td>
+<td valign="bottom" align="center">0.955</td>
+<td valign="bottom" align="center">0.955</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">0.584</td>
+<td valign="bottom" align="center">0.616</td>
+<td valign="bottom" align="center">0.073</td>
+<td valign="bottom" align="center">0.164</td>
+<td valign="bottom" align="center">0.032</td>
+<td valign="bottom" align="center">0.052</td>
+<td valign="bottom" align="center">0.948</td>
+<td valign="bottom" align="center">0.677</td>
+<td valign="bottom" align="center">133</td>
+<td valign="bottom" align="center">196.3</td>
+<td valign="bottom" align="center">0.886</td>
+<td valign="bottom" align="center">0.907</td>
+<td valign="bottom" align="center">0.908</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">0.513</td>
+<td valign="bottom" align="center">0.641</td>
+<td valign="bottom" align="center">0.080</td>
+<td valign="bottom" align="center">0.107</td>
+<td valign="bottom" align="center">0.029</td>
+<td valign="bottom" align="center">0.045</td>
+<td valign="bottom" align="center">0.955</td>
+<td valign="bottom" align="center">0.657</td>
+<td valign="bottom" align="center">133</td>
+<td valign="bottom" align="center">199.4</td>
+<td valign="bottom" align="center">0.900</td>
+<td valign="bottom" align="center">0.817</td>
+<td valign="bottom" align="center">0.818</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">0.541</td>
+<td valign="bottom" align="center">0.654</td>
+<td valign="bottom" align="center">0.085</td>
+<td valign="bottom" align="center">0.059</td>
+<td valign="bottom" align="center">0.023</td>
+<td valign="bottom" align="center">0.034</td>
+<td valign="bottom" align="center">0.955</td>
+<td valign="bottom" align="center">0.551</td>
+<td valign="bottom" align="center">133</td>
+<td valign="bottom" align="center">204.2</td>
+<td valign="bottom" align="center">0.921</td>
+<td valign="bottom" align="center">0.561</td>
+<td valign="bottom" align="center">0.561</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">0.670</td>
+<td valign="bottom" align="center">0.584</td>
+<td valign="bottom" align="center">0.088</td>
+<td valign="bottom" align="center">0.045</td>
+<td valign="bottom" align="center">0.014</td>
+<td valign="bottom" align="center">0.021</td>
+<td valign="bottom" align="center">0.979</td>
+<td valign="bottom" align="center">0.531</td>
+<td valign="bottom" align="center">133</td>
+<td valign="bottom" align="center">210.5</td>
+<td valign="bottom" align="center">0.950</td>
+<td valign="bottom" align="center">0.433</td>
+<td valign="bottom" align="center">0.433</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">0.698</td>
+<td valign="bottom" align="center">0.704</td>
+<td valign="bottom" align="center">0.090</td>
+<td valign="bottom" align="center">0.028</td>
+<td valign="bottom" align="center">0.006</td>
+<td valign="bottom" align="center">0.009</td>
+<td valign="bottom" align="center">0.991</td>
+<td valign="bottom" align="center">0.513</td>
+<td valign="bottom" align="center">133</td>
+<td valign="bottom" align="center">217.0</td>
+<td valign="bottom" align="center">0.979</td>
+<td valign="bottom" align="center">0.195</td>
+<td valign="bottom" align="center">0.196</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">0.727</td>
+<td valign="bottom" align="center">0.728</td>
+<td valign="bottom" align="center">0.092</td>
+<td valign="bottom" align="center">0.015</td>
+<td valign="bottom" align="center">0.001</td>
+<td valign="bottom" align="center">0.001</td>
+<td valign="bottom" align="center">0.999</td>
+<td valign="bottom" align="center">0.602</td>
+<td valign="bottom" align="center">133</td>
+<td valign="bottom" align="center">220.9</td>
+<td valign="bottom" align="center">0.997</td>
+<td valign="bottom" align="center">0.042</td>
+<td valign="bottom" align="center">0.042</td>
+</tr>
+<tr>
+<td align="center">0.755</td>
+<td align="center">0.755</td>
+<td align="center">0.093</td>
+<td align="center">0.004</td>
+<td align="center">0.000</td>
+<td align="center">0.000</td>
+<td align="center">1.000</td>
+<td align="center">0.600</td>
+<td align="center">133</td>
+<td align="center">221.7</td>
+<td align="center">1.000</td>
+<td align="center">0.004</td>
+<td align="center">0.000</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="11" table-order="2" data-type-order="10">
+<table-wrap id="102118185657MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The apparent water saturation (S′w), the water volume fraction Sw/S’w, and the emulsion viscosity (µe) as calculated in Table 1 are directly used in Eq. 8b to calculate the krwh(Sw). The results are shown in Table 2.</anchoringText>
+<label>Table 2</label>
+<caption>Calculated and history matched k<sub>rwh</sub>(S<sub>w</sub>) (Heavy oil water system: Pyramid Hills field, CA).</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Calculated and history matched k<sub>rwh</sub>(S<sub>w</sub>) (Heavy oil water system: Pyramid Hills field, CA).</caption-text>
+</formatted-caption>
+<table id="102118185657MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Sw</th>
+<th valign="bottom" align="center">Sw'</th>
+<th valign="bottom" align="center">Krw(Sw')</th>
+<th valign="bottom" align="center">Kro(Sw')</th>
+<th valign="bottom" align="center">Δso</th>
+<th valign="bottom" align="center">Δso/Sw'</th>
+<th valign="bottom" align="center">Sw/Sw'</th>
+<th valign="bottom" align="center">µe</th>
+<th valign="bottom" align="center">µo</th>
+<th valign="bottom" align="center">µo/µe</th>
+<th valign="bottom" align="center">µw/µe</th>
+<th valign="bottom" align="center">kroh (Eq.8a)</th>
+<th valign="bottom" align="center">Kroh (History)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center">0.471</td>
+<td valign="bottom" align="center">0.494</td>
+<td valign="bottom" align="center">0.022</td>
+<td valign="bottom" align="center">0.792</td>
+<td valign="bottom" align="center">0.023</td>
+<td valign="bottom" align="center">0.047</td>
+<td valign="bottom" align="center">0.953</td>
+<td valign="bottom" align="center">0.671</td>
+<td valign="bottom" align="center">133</td>
+<td valign="bottom" align="center">198.3</td>
+<td valign="bottom" align="center">0.895</td>
+<td valign="bottom" align="center">0.019</td>
+<td valign="bottom" align="center">0.002</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">0.499</td>
+<td valign="bottom" align="center">0.530</td>
+<td valign="bottom" align="center">0.040</td>
+<td valign="bottom" align="center">0.534</td>
+<td valign="bottom" align="center">0.031</td>
+<td valign="bottom" align="center">0.058</td>
+<td valign="bottom" align="center">0.942</td>
+<td valign="bottom" align="center">0.688</td>
+<td valign="bottom" align="center">133</td>
+<td valign="bottom" align="center">193.4</td>
+<td valign="bottom" align="center">0.872</td>
+<td valign="bottom" align="center">0.033</td>
+<td valign="bottom" align="center">0.004</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">0.528</td>
+<td valign="bottom" align="center">0.560</td>
+<td valign="bottom" align="center">0.054</td>
+<td valign="bottom" align="center">0.368</td>
+<td valign="bottom" align="center">0.033</td>
+<td valign="bottom" align="center">0.059</td>
+<td valign="bottom" align="center">0.941</td>
+<td valign="bottom" align="center">0.688</td>
+<td valign="bottom" align="center">133</td>
+<td valign="bottom" align="center">193.3</td>
+<td valign="bottom" align="center">0.872</td>
+<td valign="bottom" align="center">0.044</td>
+<td valign="bottom" align="center">0.007</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">0.556</td>
+<td valign="bottom" align="center">0.589</td>
+<td valign="bottom" align="center">0.065</td>
+<td valign="bottom" align="center">0.249</td>
+<td valign="bottom" align="center">0.033</td>
+<td valign="bottom" align="center">0.056</td>
+<td valign="bottom" align="center">0.944</td>
+<td valign="bottom" align="center">0.684</td>
+<td valign="bottom" align="center">133</td>
+<td valign="bottom" align="center">194.3</td>
+<td valign="bottom" align="center">0.877</td>
+<td valign="bottom" align="center">0.053</td>
+<td valign="bottom" align="center">0.012</td>
+</tr>
+<tr>
+<td align="center">0.584</td>
+<td align="center">0.616</td>
+<td align="center">0.073</td>
+<td align="center">0.164</td>
+<td align="center">0.032</td>
+<td align="center">0.052</td>
+<td align="center">0.948</td>
+<td align="center">0.677</td>
+<td align="center">133</td>
+<td align="center">196.3</td>
+<td align="center">0.886</td>
+<td align="center">0.062</td>
+<td align="center">0.018</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">0.613</td>
+<td valign="bottom" align="center">0.641</td>
+<td valign="bottom" align="center">0.080</td>
+<td valign="bottom" align="center">0.107</td>
+<td valign="bottom" align="center">0.029</td>
+<td valign="bottom" align="center">0.045</td>
+<td valign="bottom" align="center">0.955</td>
+<td valign="bottom" align="center">0.667</td>
+<td valign="bottom" align="center">133</td>
+<td valign="bottom" align="center">199.4</td>
+<td valign="bottom" align="center">0.900</td>
+<td valign="bottom" align="center">0.069</td>
+<td valign="bottom" align="center">0.026</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">0.641</td>
+<td valign="bottom" align="center">0.664</td>
+<td valign="bottom" align="center">0.085</td>
+<td valign="bottom" align="center">0.069</td>
+<td valign="bottom" align="center">0.023</td>
+<td valign="bottom" align="center">0.034</td>
+<td valign="bottom" align="center">0.966</td>
+<td valign="bottom" align="center">0.651</td>
+<td valign="bottom" align="center">133</td>
+<td valign="bottom" align="center">204.2</td>
+<td valign="bottom" align="center">0.921</td>
+<td valign="bottom" align="center">0.075</td>
+<td valign="bottom" align="center">0.034</td>
+</tr>
+<tr>
+<td align="center">0.670</td>
+<td align="center">0.684</td>
+<td align="center">0.088</td>
+<td align="center">0.045</td>
+<td align="center">0.014</td>
+<td align="center">0.021</td>
+<td align="center">0.979</td>
+<td align="center">0.631</td>
+<td align="center">133</td>
+<td align="center">210.6</td>
+<td align="center">0.950</td>
+<td align="center">0.082</td>
+<td align="center">0.042</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">0.698</td>
+<td valign="bottom" align="center">0.704</td>
+<td valign="bottom" align="center">0.090</td>
+<td valign="bottom" align="center">0.028</td>
+<td valign="bottom" align="center">0.006</td>
+<td valign="bottom" align="center">0.009</td>
+<td valign="bottom" align="center">0.991</td>
+<td valign="bottom" align="center">0.613</td>
+<td valign="bottom" align="center">133</td>
+<td valign="bottom" align="center">217.0</td>
+<td valign="bottom" align="center">0.979</td>
+<td valign="bottom" align="center">0.088</td>
+<td valign="bottom" align="center">0.049</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">0.727</td>
+<td valign="bottom" align="center">0.728</td>
+<td valign="bottom" align="center">0.092</td>
+<td valign="bottom" align="center">0.015</td>
+<td valign="bottom" align="center">0.001</td>
+<td valign="bottom" align="center">0.001</td>
+<td valign="bottom" align="center">0.999</td>
+<td valign="bottom" align="center">0.602</td>
+<td valign="bottom" align="center">133</td>
+<td valign="bottom" align="center">220.9</td>
+<td valign="bottom" align="center">0.997</td>
+<td valign="bottom" align="center">0.092</td>
+<td valign="bottom" align="center">0.054</td>
+</tr>
+<tr>
+<td align="center">0.755</td>
+<td align="center">0.755</td>
+<td align="center">0.093</td>
+<td align="center">0.004</td>
+<td align="center">0.000</td>
+<td align="center">0.000</td>
+<td align="center">1.000</td>
+<td align="center">0.600</td>
+<td align="center">133</td>
+<td align="center">221.7</td>
+<td align="center">1.000</td>
+<td align="center">0.093</td>
+<td align="center">0.057</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187636MS.txt" extractionDate="2021-03-26T18:26:43Z">
+<doi>10.2118/187636-MS</doi>
+<pii>10.2118/187636-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure composite="true" composite-count="2" pdf-page="2" figure-order="1" data-type-order="2">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr5">Permeability values of the Upper Sandstone falls below 10 mD, as shown in Figure 1. In some areas higher permeabilities can be observed, with values above 30 mD to the east of the reservoir.</anchoringText>
+<image-wrap id="102118187636MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118187636MS_i_1.tif" id="ImgLink-1" />
+<caption>Permability distribution in X-direction at Upper Sandstone 20 and 10. Shown in red are the areas with relatively good permeability</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Permability distribution in X-direction at Upper Sandstone 20 and 10. Shown in red are the areas with relatively good permeability</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187636MS-Img_SPi-1a">
+<imageLink type="mediaResource" href="102118187636MS_i_1a.tif" id="ImgLink-1a" />
+</image-wrap>
+<image-wrap id="102118187636MS-Img_SPi-1b">
+<imageLink type="mediaResource" href="102118187636MS_i_1b.tif" id="ImgLink-1b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="3" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr6">Remaining oil saturation (ROS) used in the evaluation was exported from history matched simulation model. ROS at each reservoir subunit is averaged using weighted average method. Average ROS in the areas of good formation permeability ranges from 30% to 45% (Figure 2). However, areas of ROS higher than 45% can be observed at relatively low permeability areas (&#x003C; 10 mD), using advanced drilling technologies might be the proper way to produce this high remaining oil. Additional maps of remaining hydrocarbon pore volume (HCPV) were generated to describe the reservoir storage capacity further.</anchoringText>
+<image-wrap id="102118187636MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118187636MS_i_2.tif" id="ImgLink-2" />
+<caption>Remaining hydrocarbon pore volume in upper Sandstone formation (USa_10 &amp; USa_20), which shows an oil potential in the western part of the reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Remaining hydrocarbon pore volume in upper Sandstone formation (USa_10 &amp; USa_20), which shows an oil potential in the western part of the reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187636MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118187636MS_i_2a.tif" id="ImgLink-2a" />
+</image-wrap>
+<image-wrap id="102118187636MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118187636MS_i_2b.tif" id="ImgLink-2b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="3" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr7">However, areas of ROS higher than 45% can be observed at relatively low permeability areas (&#x003C; 10 mD), using advanced drilling technologies might be the proper way to produce this high remaining oil. Additional maps of remaining hydrocarbon pore volume (HCPV) were generated to describe the reservoir storage capacity further. The HCPV maps can be seen in Figure 3, the distribution exhibit a similar conclusion that was observed from ROS maps. This is due to the porosity of the reservoir is quite homogenous, ranging between 0.11 and 0.14.</anchoringText>
+<image-wrap id="102118187636MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118187636MS_i_3.tif" id="ImgLink-3" />
+<caption>Estimated remaining oil saturation at Upper Sandstone 20 and 10 using simulation results of history matched model. High ROS&#x003E;0.45 in USa_10, to the west of wells Well 02 and Well 07, however these are low permeable regions</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Estimated remaining oil saturation at Upper Sandstone 20 and 10 using simulation results of history matched model. High ROS&#x003E;0.45 in USa_10, to the west of wells Well 02 and Well 07, however these are low permeable regions</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187636MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118187636MS_i_3a.tif" id="ImgLink-3a" />
+</image-wrap>
+<image-wrap id="102118187636MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118187636MS_i_3b.tif" id="ImgLink-3b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="4" figure-order="4" data-type-order="6">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr8">A new approach is introduced here to define areas of good injectivity, where acceptable rates can be injected. The product of the permeability, cell height, and ROS is calculated for each grid cell of the simulation model. The results were averaged and plotted for each reservoir unit as shown in Figure 4. The areas with relatively high K*hn (ranges from 120 mD.ft to 450 mD.ft) are marked in white.</anchoringText>
+<image-wrap id="102118187636MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118187636MS_i_4.tif" id="ImgLink-4" />
+<caption>Estimated Kh maps which were used to define pilot areas at high permeability and relatively high ROS. Marked white areas are the defined for pilot studies. Pilot #1 pilot #2</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Estimated Kh maps which were used to define pilot areas at high permeability and relatively high ROS. Marked white areas are the defined for pilot studies. Pilot #1 pilot #2 </caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187636MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118187636MS_i_4a.tif" id="ImgLink-4a" />
+</image-wrap>
+<image-wrap id="102118187636MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118187636MS_i_4b.tif" id="ImgLink-4b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="5" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr9">To evaluate the reservoir heterogeneity, Dykstra-Parsons description of disparity in vertical permeability is used as shown below. Figure 5 shows for instance, that permeability variation is 0.92 using core data for one well. These results indicate a very high vertical heterogeneity in reservoir permeability.</anchoringText>
+<image-wrap id="102118187636MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118187636MS_i_5.tif" id="ImgLink-5" />
+<caption>Calculation of permeability variation using core data. Two examples from different wells are shown</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Calculation of permeability variation using core data. Two examples from different wells are shown</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187636MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118187636MS_i_5a.tif" id="ImgLink-5a" />
+</image-wrap>
+<image-wrap id="102118187636MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118187636MS_i_5b.tif" id="ImgLink-5b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr10">Full field simulation including the surfactant injection was performed to generate the fluxes at the boundary cells at injection rate 2000 b/d. Sector run was executed by repeating the original conditions used in the FFM (no additional change in the production and injection parameters), the run time was reduced from 5.3 hours to 0.22 hour (13 minutes). The results of these runs are shown in Figure 6. It can be recognized that the predicted pressures by the sector model (dashed lines) are higher than the pressures at the same region in the FFM.</anchoringText>
+<image-wrap id="102118187636MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118187636MS_i_6.tif" id="ImgLink-6" />
+<caption>Comparison between the simulated results of both full filed (slolid lines) and sector (dashed lines) models using small sector area</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Comparison between the simulated results of both full filed (slolid lines) and sector (dashed lines) models using small sector area</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr11">Based on these observations, it was obvious that the boundary should be changed in a manner that reduces the intense change of fluxes across the boundary, and away from the main flow area. Consequently, another regions’ definition was generated as shown in Figure 7. An alternative region definition was generated and determined by observing the maximum sweep of surfactant at a concentration of 1E-20 lb/stb. A reduced run was conducted within a computation run time of 1.25hrs.</anchoringText>
+<image-wrap id="102118187636MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118187636MS_i_7.tif" id="ImgLink-7" />
+<caption>Adjustment of the boundary definition to minimize the difference at the simulated pressures between the sector model (dashed lines) and full filed model (slolid lines)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Adjustment of the boundary definition to minimize the difference at the simulated pressures between the sector model (dashed lines) and full filed model (slolid lines)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="7" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr12">A surfactant model was designed using a typical surfactant at a concentration of 3 kg/m3 (0.3 wt%), IFT table used in this model as displayed in Figure 8 (left) which shows an ultra IFT between oil and water at 0.001 mN/m at a maximum surfactant concentration. Surfactant relative permeability is applied within the limitation of capillary number (above the critical). 20% is the minimum Sorc which can be reached at capillary number (Nc≥10−2) was used as a base case. Additional sensitivity has been made assuming low value of Sorc at 10%.</anchoringText>
+<image-wrap id="102118187636MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118187636MS_i_8.tif" id="ImgLink-8" />
+<caption>Left - Interfacial tension chart as a function of surfactant concentration. Right - Adsorption isotherm chart as a function of surfactant concentration</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Left - Interfacial tension chart as a function of surfactant concentration. Right - Adsorption isotherm chart as a function of surfactant concentration</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187636MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118187636MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>Left</caption-order>
+<caption-text>Interfacial tension chart as a function of surfactant concentration</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187636MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118187636MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>Right</caption-order>
+<caption-text>Adsorption isotherm chart as a function of surfactant concentration</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr13">The log10(Nc) implemented in the CDC used in our model ranges between -4 and -2 as shown in Figure 9 (right). Surfactant relative permeability curve exhibited in Figure 9 (left) was designed assuming Sorc value of 20%. Note that brine salinity is not considered in the current simulation model. Therefore, surfactant make-up water is assumed to be fresh water. A proper brine model is recomended to be considered in the upcoming studies.</anchoringText>
+<image-wrap id="102118187636MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118187636MS_i_9.tif" id="ImgLink-9" />
+<caption>Left - Oil-water relative permeability at Sorw=0.28 and Sorc=0.2. Right - Correlated capillary de-saturation curve (CDC)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Left - Oil-water relative permeability at Sorw=0.28 and Sorc=0.2. Right - Correlated capillary de-saturation curve (CDC)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187636MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118187636MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order>Left</caption-order>
+<caption-text>Oil-water relative permeability at Sorw=0.28 and Sorc=0.2.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187636MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118187636MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order>Right</caption-order>
+<caption-text>Correlated capillary de-saturation curve (CDC)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="10" data-type-order="13">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr14">By plotting the calculated capillary number with the corresponding ROS as shown in Figure 10 (left) which shows a significant improvement in ED by increasing capillary number. However, this occurs at a small volume of the entire sector where only 8% of the swept PV by surfactant has a relatively high capillary number (≥ 10−3). Surfactant flooding showed a limited potential in this pilot due to the large pore volue targeted by the injection (the existing well-spacing is above 2 km).</anchoringText>
+<image-wrap id="102118187636MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118187636MS_i_10.tif" id="ImgLink-10" />
+<caption>Left-Estimated capillary number of grid cells at high interstitial velocity. Right - Oil and water relative permeability curves at Sorc of 10%</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Left-Estimated capillary number of grid cells at high interstitial velocity. Right - Oil and water relative permeability curves at Sorc of 10%</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187636MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118187636MS_i_10a.tif" id="ImgLink-10a" />
+<figure-specific-caption>
+<caption-order>Left</caption-order>
+<caption-text>Estimated capillary number of grid cells at high interstitial velocity.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187636MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118187636MS_i_10b.tif" id="ImgLink-10b" />
+<figure-specific-caption>
+<caption-order>Right</caption-order>
+<caption-text>Oil and water relative permeability curves at Sorc of 10%</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="11" data-type-order="14">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr15">Fingering phenomenon was observed at injection rates above 1000 b/d. It is well distinguished that low injection rate (500 b/d) could maintain a stable water/surfactant front which will result in a better sweep efficiency. This stable front was estimated at distance of 260 m away from the injector. Considering the number of cells where the surfactant arrives as displayed in Figure 11 (total active cells: 17545) in comparison to where surfactant becomes active (total active cells: 367). Therefore, it can be stated that the effective macroscopic efficiency of surfactant is very limited.</anchoringText>
+<image-wrap id="102118187636MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118187636MS_i_11.tif" id="ImgLink-11" />
+<caption>Left- Maximum sweep of surfactant at a flow rate of 2000 b/d. Right- Cells where the surfactant become active at Nc ≥ 10<sup>−3</sup>.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Left- Maximum sweep of surfactant at a flow rate of 2000 b/d. Right- Cells where the surfactant become active at Nc ≥ 10<sup>−3</sup>.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187636MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118187636MS_i_11a.tif" id="ImgLink-11a" />
+<figure-specific-caption>
+<caption-order>Left</caption-order>
+<caption-text>Maximum sweep of surfactant at a flow rate of 2000 b/d.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187636MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118187636MS_i_11b.tif" id="ImgLink-11b" />
+<figure-specific-caption>
+<caption-order>Right</caption-order>
+<caption-text>Cells where the surfactant become active at Nc ≥ 10<sup>−3</sup>.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="12" figure-order="12" data-type-order="16">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr16">This assumption allows the transition to surfactant relative permeability at lower capillary number than the base model (10−4). By optimizing the CDC, it was observed that the additional of absolute recovery to water was almost doubled. Moreover, the estimated oil rate of the nearest producer exhibited a clear enhancement. This incremental is up to 400 STB/D. The results are shown in Figure 12 (left) which exhibits production of oil slugs mobilized by surfactant which cannot be observed by water (dashed blacklines).</anchoringText>
+<image-wrap id="102118187636MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118187636MS_i_12.tif" id="ImgLink-12" />
+<caption>Left- CDC effect on the oil rate. Right- adsorption effect</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Left- CDC effect on the oil rate. Right- adsorption effect</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187636MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118187636MS_i_12a.tif" id="ImgLink-12a" />
+<figure-specific-caption>
+<caption-order>Left</caption-order>
+<caption-text>CDC effect on the oil rate.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187636MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118187636MS_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-order>Right</caption-order>
+<caption-text>adsorption effect</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="13" data-type-order="17">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr17">The grid size effect on surfactant performance was evaluated by analyzing the distribution of surfactant in both coarse and fine grid models. Figure 13 exhibits a clear difference in surfactant concentration profiles within the AOI of the fine (A) and coarse (B) grid simulation models in the layer 78 by the end of the injection. This difference is due to the extreme dispersion of surfactant which can be observed from the coarse grid model.</anchoringText>
+<image-wrap id="102118187636MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118187636MS_i_13.tif" id="ImgLink-13" />
+<caption>Surfactant concentration profiles in the fine (A) and coarse (B) grid simulation models.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Surfactant concentration profiles in the fine (A) and coarse (B) grid simulation models.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187636MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118187636MS_i_13a.tif" id="ImgLink-13a" />
+<figure-specific-caption>
+<caption-order>(A)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187636MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118187636MS_i_13b.tif" id="ImgLink-13b" />
+<figure-specific-caption>
+<caption-order>(B)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="14" data-type-order="18">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr18">This difference is due to the extreme dispersion of surfactant which can be observed from the coarse grid model. Moreover, the change of surfactant concentration over time for a selected grid cell is presented in Figure 14 which demonstrates the surfactant concentration profile predicted by the coarse and fine models for a selected cell between the injector and the producer. It indicates that the surfactant has been diluted in the coarse model, while sharper profile can be noticed in the fine grid model.</anchoringText>
+<image-wrap id="102118187636MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118187636MS_i_14.tif" id="ImgLink-14" />
+<caption>Surfactant concentration profile predicted by the coarse and fine grid model for a selected cell between the injector and the producer.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Surfactant concentration profile predicted by the coarse and fine grid model for a selected cell between the injector and the producer.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

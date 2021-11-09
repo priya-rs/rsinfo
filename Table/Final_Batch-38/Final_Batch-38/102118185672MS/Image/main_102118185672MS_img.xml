@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185672MS.txt" extractionDate="2021-03-27T12:30:26Z">
+<doi>10.2118/185672-MS</doi>
+<pii>10.2118/185672-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr2">This paper discusses the integrated workflow implemented on a single horizontal well to evaluate multiple completion and stimulation designs to understand its impact on hydraulic fracture geometry and production performance. The standardized workflow shown in Fig.1 can be applied to any unconventional play and has been proven effective in determining the completion and stimulation design for maximized production. Economic analysis should be incorporated for the optimal completion design.</anchoringText>
+<image-wrap id="102118185672MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118185672MS_i_1.tif" id="ImgLink-1" />
+<caption>Integrated modeling workflow for unconventional single well performance optimization</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Integrated modeling workflow for unconventional single well performance optimization</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr3">The integrated workflow was applied in the Avalon shale formation located southeast of Loving in Eddy County, New Mexico (Fig. 2). The Avalon shale is of Leonardian age and is part of the uppermost member of the Bone Spring formation in the Delaware basin within the greater Permian basin.</anchoringText>
+<image-wrap id="102118185672MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118185672MS_i_2.tif" id="ImgLink-2" />
+<caption>Location of the study area in the Delaware basin, New Mexico, USA</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Location of the study area in the Delaware basin, New Mexico, USA</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr4">The Avalon shale is located in the Delaware basin, across southeast New Mexico and West Texas. The Delaware basin is part of the Permian basin, bounded by the Diablo platform in the west, Northwestern shelf and Capitan reef trend in the north, Central Basin platform in the east, and Southern shelf in the south (Fig. 3).</anchoringText>
+<image-wrap id="102118185672MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118185672MS_i_3.tif" id="ImgLink-3" />
+<caption>Key structural elements in the Permian basin. (Murchison Oil &amp; Gas, Inc. 2010).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Key structural elements in the Permian basin. (<link href="BIB1">Murchison Oil &amp; Gas, Inc. 2010</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-1" type="bib">
+<bib id="BIB1">
+<label>Murchison Oil &amp; Gas, Inc. 2010</label>
+<author>Murchison</author> Oil &amp; Gas, Inc. <pubDate>2010</pubDate>. <i>Permian Basin</i>. http://www.murchisonoil.com/about/permian-basin.html (accessed 12 February 2017).
+</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr5">The Avalon shale is primarily a self-sourced rock consisting of siltstone, limestone, clay, chert, and organics. It is subdivided into three zones—upper, middle and lower shales — isolated by carbonate debris flows (Fig. 4). Each zone has variable rock properties inherited from variations in depositional environments across the Delaware basin. Siliciclastic mudstones in the upper and lower Avalon are considered to be of good reservoir quality and are highly productive, whereas the carbonate-rich middle Avalon is considered not productive because of the high percentage of carbonates, which is associated with bad reservoir quality.</anchoringText>
+<image-wrap id="102118185672MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118185672MS_i_4.tif" id="ImgLink-4" />
+<caption>Delaware basin stratigraphic column</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Delaware basin stratigraphic column</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="5" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr6">The integrated workflow was applied to a single horizontal well on a two-well pad in Eddy County, New Mexico (Fig.5a). The horizontal well was landed in the Avalon shale and hydraulically stimulated with 11 stages along the lateral section with conventional plug-and-perforation technique. Microseismic data were acquired for target well A across all the stimulated intervals with geophones located in observation well B (Fig. 5b).</anchoringText>
+<image-wrap id="102118185672MS-Img_SPi-5">
+<label>Figure 5a </label>
+<imageLink type="mediaResource" href="102118185672MS_i_5.tif" id="ImgLink-5" />
+<caption>Model setting. a) Map view of the two-well pad, with wells 600ft apart, and with seismic built DFN calibrated with offset borehole image logs. b) — Map view of microseismic data with DFN overlain in background.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5a</caption-order>
+<caption-text>Model setting. a) Map view of the two-well pad, with wells 600ft apart, and with seismic built DFN calibrated with offset borehole image logs. b) — Map view of microseismic data with DFN overlain in background.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185672MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118185672MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Map view of the two-well pad, with wells 600ft apart, and with seismic built DFN calibrated with offset borehole image logs.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185672MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118185672MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>— Map view of microseismic data with DFN overlain in background.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr7">The UFM was used to model the actual hydraulic fracture geometry, which was validated by matching the microseismic footprint and actual treating pressure trends as well as instantaneous shut-in pressure (ISIP), refer to (SPE 179130) for calibration details. Fig. 6 shows a 2D map view of the hydraulic fracture extent for all 11 stages, matching the majority of the observed microseismic footprint. The hydraulic fracture geometry shows varying fracture lengths along the wellbore from ~860 to 1,500ft. Fig. 7 shows the hydraulic fracture height is mostly contained within the Avalon shale, varying from ~400 to 530ft, with an average height of ~460 ft for the entire lateral.</anchoringText>
+<image-wrap id="102118185672MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118185672MS_i_6.tif" id="ImgLink-6" />
+<caption>Map view of hydraulic fracture length extent (in red) overlain with microseismic data and DFN for well A.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Map view of hydraulic fracture length extent (in red) overlain with microseismic data and DFN for well A.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr8">The UFM was used to model the actual hydraulic fracture geometry, which was validated by matching the microseismic footprint and actual treating pressure trends as well as instantaneous shut-in pressure (ISIP), refer to (SPE 179130) for calibration details. Fig. 6 shows a 2D map view of the hydraulic fracture extent for all 11 stages, matching the majority of the observed microseismic footprint. The hydraulic fracture geometry shows varying fracture lengths along the wellbore from ~860 to 1,500ft. Fig. 7 shows the hydraulic fracture height is mostly contained within the Avalon shale, varying from ~400 to 530ft, with an average height of ~460 ft for the entire lateral.</anchoringText>
+<image-wrap id="102118185672MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118185672MS_i_7.tif" id="ImgLink-7" />
+<caption>Cross section of microseismic events and hydraulic fracture height along the lateral with minimum horizontal stress model in the background.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Cross section of microseismic events and hydraulic fracture height along the lateral with minimum horizontal stress model in the background.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr9">A 3D numerical reservoir simulator that uses an autogridding algorithm is applied to generate an unstructured grid for the simulated complex fracture network for production history match and forecast. History matching the well production after a period of stable production is necessary to understand the performance of the hydraulic fracturing treatment. After the complex hydraulic fractures are modeled and calibrated, a reservoir simulation unstructured grid that honors the hydraulic fracture geometry and proppant distribution was built. The grid consisted of 34 layers with ~820,000 cells; a finer cell size of 10' was assigned for the complex fracture and a larger cell size of 300' for the matrix (Fig. 8).</anchoringText>
+<image-wrap id="102118185672MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118185672MS_i_8.tif" id="ImgLink-8" />
+<caption>Top view of reservoir simulation unstructured grid overlain with complex fracture geometry (cell area) for five stages closest to the heel.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Top view of reservoir simulation unstructured grid overlain with complex fracture geometry (cell area) for five stages closest to the heel.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr10">Gas production rate was used as the control variable and oil rate, water rate and bottomhole pressure (calculated from tubing pressure) were the matching parameters (Fig. 9).</anchoringText>
+<image-wrap id="102118185672MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118185672MS_i_9.tif" id="ImgLink-9" />
+<caption>Single well history match results (oil, gas, and water production rates).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Single well history match results (oil, gas, and water production rates).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="11">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr11">Over the years, stimulation design in unconventional reservoirs has evolved from conservative to radical designs. Proppant job size and fluid volumes are among the top critical design parameters in hydraulic fracturing design. Proppant job size has a large impact on the hydraulic fracture geometry created. Fig. 10 shows the total surface area and propped surface area generated by the UFM for the proppant job size sensitivity. Increased surface area and propped surface area with increasing proppant job size is observed. This is driven primarily by both height containment and fracture length growth.</anchoringText>
+<image-wrap id="102118185672MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118185672MS_i_10.tif" id="ImgLink-10" />
+<caption>Proppant per lateral feet sensitivity shows increasing total surface area and propped surface area with increasing proppant job size.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Proppant per lateral feet sensitivity shows increasing total surface area and propped surface area with increasing proppant job size.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="11" data-type-order="12">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr12">Finding a balance for the optimum cluster spacing is highly critical. In this category, to evaluate different cluster spacing configurations on the hydraulic fracture geometry, the proppant job size was kept the same. Fig.11 shows that as cluster spacing decreased, total surface area and propped surface area increased, likely due to increase in fracture complexity resulting in more stimulated area around the wellbore. The 30-ft scenario gave the largest surface area but also gave an overall smaller fracture length and shorter fracture height for each stage. The 30-ft scenario also had the highest number of stages.</anchoringText>
+<image-wrap id="102118185672MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118185672MS_i_11.tif" id="ImgLink-11" />
+<caption>Cluster spacing sensitivity showing increasing total surface area and propped surface area with decreasing cluster spacing.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Cluster spacing sensitivity showing increasing total surface area and propped surface area with decreasing cluster spacing.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="12" data-type-order="13">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr13">Maximum proppant concentration is often another parameter in hydraulic fracturing design that can be optimized to increase fracture conductivity near wellbore. Fig. 12 shows minimal difference in the surface area that was created by varying the maximum proppant concentration, because the proppant job size and fluid volume were the same for all the scenarios. The average fracture conductivity is also displayed, which shows an increasing trend.</anchoringText>
+<image-wrap id="102118185672MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118185672MS_i_12.tif" id="ImgLink-12" />
+<caption>Maximum proppant concentration sensitivity shows similar total surface area and propped area with increasing maximum proppant concentration. Conductivity shows a slight increasing trend.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Maximum proppant concentration sensitivity shows similar total surface area and propped area with increasing maximum proppant concentration. Conductivity shows a slight increasing trend.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="13" data-type-order="14">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr14">Fig. 13 shows the total and propped surface area for all the sensitivity scenarios. The proppant job size and cluster spacing scenarios have the most effect on total and propped surface area. Overall increasing proppant job size and tighter cluster spacing shows more surface and propped surface area.</anchoringText>
+<image-wrap id="102118185672MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118185672MS_i_13.tif" id="ImgLink-13" />
+<caption>Total and propped surface area for all sensitivity scenarios.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Total and propped surface area for all sensitivity scenarios.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="14" data-type-order="15">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr15">Fig. 14 above shows production results in barrels of oil equivalent (BOE) for proppant job size sensitivity ranging from 370 lbm/lateral ft to 1000 lbm/lateral ft. The overall trend shows increasing production with proppant job size. The 750lbm/lateral ft shows less incremental production compared to the other cases because the added fracture geometry created was attributed to more height growth than fracture length extension, see also Fig. 15. The propped surface area in Fig. 10 also shows less incremental area created from the 500lbm/lateral ft compared to 750lbm/lateral ft case.</anchoringText>
+<image-wrap id="102118185672MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118185672MS_i_14.tif" id="ImgLink-14" />
+<caption>1-year production for proppant job size sensitivity</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>1-year production for proppant job size sensitivity</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="15" data-type-order="16">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr16">Fig. 14 above shows production results in barrels of oil equivalent (BOE) for proppant job size sensitivity ranging from 370 lbm/lateral ft to 1000 lbm/lateral ft. The overall trend shows increasing production with proppant job size. The 750lbm/lateral ft shows less incremental production compared to the other cases because the added fracture geometry created was attributed to more height growth than fracture length extension, see also Fig. 15. The propped surface area in Fig. 10 also shows less incremental area created from the 500lbm/lateral ft compared to 750lbm/lateral ft case.</anchoringText>
+<image-wrap id="102118185672MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118185672MS_i_15.tif" id="ImgLink-15" />
+<caption>Pressure depletion map for complex hydraulic fracture for proppant job size sensitivities after 1 year of production.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Pressure depletion map for complex hydraulic fracture for proppant job size sensitivities after 1 year of production.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="16" data-type-order="17">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr17">Fig. 16 shows the production prediction results for cluster spacing sensitivity ranging from 30 to 150ft. The overall trend shows significant production increase with smaller cluster spacing, keeping the proppant job size the same in all cases. Fig. 17 shows the pressure depletion map for the complex hydraulic fracture created in each scenario after 1 year of production. There is more stimulated area, hence depletion, as the cluster spacing is reduced, maximizing near-wellbore contact.</anchoringText>
+<image-wrap id="102118185672MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118185672MS_i_16.tif" id="ImgLink-16" />
+<caption>1-year production for cluster spacing sensitivity</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>1-year production for cluster spacing sensitivity</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="17" data-type-order="18">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr18">Fig. 16 shows the production prediction results for cluster spacing sensitivity ranging from 30 to 150ft. The overall trend shows significant production increase with smaller cluster spacing, keeping the proppant job size the same in all cases. Fig. 17 shows the pressure depletion map for the complex hydraulic fracture created in each scenario after 1 year of production. There is more stimulated area, hence depletion, as the cluster spacing is reduced, maximizing near-wellbore contact.</anchoringText>
+<image-wrap id="102118185672MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118185672MS_i_17.tif" id="ImgLink-17" />
+<caption>Pressure depletion map for complex hydraulic fracture for cluster spacing sensitivities after 1 year of production</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Pressure depletion map for complex hydraulic fracture for cluster spacing sensitivities after 1 year of production</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="18" data-type-order="19">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr19">Fig. 18 shows the production prediction results for maximum proppant concentration sensitivity ranging from 2.8ppa to 3.5ppa. The overall trend shows minimal incremental production with increasing proppant concentration. This scenario can be further optimized by increasing the amount of proppant pumped in the maximum proppant concentration step.</anchoringText>
+<image-wrap id="102118185672MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118185672MS_i_18.tif" id="ImgLink-18" />
+<caption>1-year production for maximum proppant concentration sensitivity</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>1-year production for maximum proppant concentration sensitivity</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="19" data-type-order="20">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr20">Fig. 19 shows 1 year production results for all the scenarios. Cluster spacing and proppant job size have the largest impact on production. Increasing maximum proppant concentration shows slight impact on production; Proper economics evaluation is needed to justify the extra cost for tighter cluster spacing and bigger proppant job size. In Fig. 20, propped surface area shows a good correlation with production.</anchoringText>
+<image-wrap id="102118185672MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118185672MS_i_19.tif" id="ImgLink-19" />
+<caption>1-year production for all sensitivity scenarios.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>1-year production for all sensitivity scenarios.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="20" data-type-order="21">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr21">Fig. 19 shows 1 year production results for all the scenarios. Cluster spacing and proppant job size have the largest impact on production. Increasing maximum proppant concentration shows slight impact on production; Proper economics evaluation is needed to justify the extra cost for tighter cluster spacing and bigger proppant job size. In Fig. 20, propped surface area shows a good correlation with production.</anchoringText>
+<image-wrap id="102118185672MS-Img_SPi-20">
+<label>Figure 20 </label>
+<imageLink type="mediaResource" href="102118185672MS_i_20.tif" id="ImgLink-20" />
+<caption>Good correlation between propped surface area and production.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Good correlation between propped surface area and production.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

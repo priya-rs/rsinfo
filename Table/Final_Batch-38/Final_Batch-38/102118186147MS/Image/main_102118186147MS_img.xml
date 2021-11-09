@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118186147MS.txt" extractionDate="2021-03-26T14:35:41Z">
+<doi>10.2118/186147-MS</doi>
+<pii>10.2118/186147-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr4">The model used for this study combines NPV optimization strategies while describing a real network of wells, platforms and pipelines (see Fig. 1). The technical production forecasts of gas fields are coupled via wells to platforms. Existing infrastructure connects platforms and the onshore delivery points. Operational expenditures (opex), such as expenditures for maintenance, and tariffs for compression and gas treatment, have to be carried by the revenues. Current day opex and tariffs are used and assumed to be constant over time. This might cause platforms to have a COP date (slightly) earlier than in reality, since it is usually assumed that opex decreases in late-life due to opex reduction measures.</anchoringText>
+<image-wrap id="102118186147MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118186147MS_i_1.tif" id="ImgLink-1" />
+<caption>Schematic overview of the optimization model.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Schematic overview of the optimization model.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr5">The lifecycle of a platform is simplified in the model, which assumes that every platform has four possible stages. The initial stage is called the production mode. A platform in production mode has a fixed and variable opex and possible revenues from produced gas to cover the opex. Simply put: if a platform is still economically viable as a network node, it stays in production mode. Early retirement is an option, as well as extending (uneconomic) production, and will be chosen for if it generates overall decommissioning cost reductions that compensate for the losses made. An example of early decommissioning and of decision for uneconomic production is given in Appendix B. A platform ceases production either by cessation of production or due to the fact that no more gas is produced/or flows over the platform. The model is constrained to decommission the platform within a set timeframe following cessation of production. Fig. 3 gives a schematic overview of a platform lifecycle.</anchoringText>
+<image-wrap id="102118186147MS-Img_SPi-2">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118186147MS_i_2.tif" id="ImgLink-2" />
+<caption>Schematic overview of possible stages of a platform. The model will decide if going into Lighthouse mode for a certain platform is beneficial for the total NPV</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Schematic overview of possible stages of a platform. The model will decide if going into Lighthouse mode for a certain platform is beneficial for the total NPV</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr6">Learning curves and contract discounts are based on international case studies of well P&amp;A campaigns and platform installation or decommissioning campaigns. In general, compared to the average planned P&amp;A time, the first wells of a P&amp;A campaign take longer than scheduled, but afterwards, a faster well P&amp;A is realized through captured learnings (and having a team that is now more experienced). For P&amp;A campaigns in the presented model, the effective discount on the planned costs consists of a learning factor and a contract volume factor. The field case examples of captured learnings were fitted by a logarithmic decline and the contract volume discount was assumed to be linear. Both discount functions were combined and simplified into five bins (see Fig. 4). Platform decommissioning is assumed to only have a contract volume discount.</anchoringText>
+<image-wrap id="102118186147MS-Img_SPi-3">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118186147MS_i_3.tif" id="ImgLink-3" />
+<caption>Relative costs of projects in a campaign. The total discount in a P&amp;A or platform decommissioning campaign will stay flat beyond 20 wells or 5 platforms. Note that the decommissioning of large and small platforms cannot be combined in campaigns. Relative cost factor per well P&amp;A Relative cost factor per platform Platform Decommissioning</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Relative costs of projects in a campaign. The total discount in a P&amp;A or platform decommissioning campaign will stay flat beyond 20 wells or 5 platforms. Note that the decommissioning of large and small platforms cannot be combined in campaigns. (Relative cost factor per well P&amp;A Relative cost factor per platform Platform Decommissioning)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118186147MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118186147MS_i_3a.tif" id="ImgLink-3a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Relative cost factor per well P&amp;</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118186147MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118186147MS_i_3b.tif" id="ImgLink-3b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>A Relative cost factor per platform Platform Decommissioning</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr7">The fifth scenario, the application of a dedicated decommissioning company, is different from the other scenarios since this scenario consists of a radically different decommissioning strategy. It assumes that one will be able to achieve an optimal cost reduction by keeping a constant activity level, because long term contracts are guaranteed and maximum P&amp;A efficiency will be established. This strategy calls for a specialized company that executes this in an optimal way. Assumed is that the dedicated decommissioning company has a long term contract to decommission two small platforms, two large platforms, and 10 wells per year. The constant (vs. peak) activity level is visualized in Fig. 5, in this case for the decommissioning of large platforms.</anchoringText>
+<image-wrap id="102118186147MS-Img_SPi-4">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118186147MS_i_4.tif" id="ImgLink-4" />
+<caption>Number of projects per year, in this case decommissioning of large platforms. The two scenarios, cross operator optimization and decommissioning company, result in different activity levels. This figure is indicative for the difference between the decommissioning company scenario and the other scenarios.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Number of projects per year, in this case decommissioning of large platforms. The two scenarios, cross operator optimization and decommissioning company, result in different activity levels. This figure is indicative for the difference between the decommissioning company scenario and the other scenarios.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr8">The reference scenario is taken as the default scenario to evaluate the effectiveness of an optimization strategy. Fig. 6. shows the results of four scenarios. Compared to the reference scenario, the operator optimization scenario results in an overall decommissioning cost of 73%, while cross operator optimization leads to an overall total decommissioning cost of 69%. Note that the step from optimization within the portfolio of each operator to optimization across operators only results in an additional reduction of 4%. This however represents a cost reduction of almost EUR 230 million in the mid case. Keep in mind that in the Netherlands, the operators are either relatively large, and thus can easily optimize within their own portfolio, or they are relatively small. The smaller operators benefit the most from cross operator optimization in relative terms, as is shown in Fig. 7.</anchoringText>
+<image-wrap id="102118186147MS-Img_SPi-5">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118186147MS_i_5.tif" id="ImgLink-5" />
+<caption>Relative overall decommissioning costs of several scenarios (mid case input).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Relative overall decommissioning costs of several scenarios (mid case input).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr9">The reference scenario is taken as the default scenario to evaluate the effectiveness of an optimization strategy. Fig. 6. shows the results of four scenarios. Compared to the reference scenario, the operator optimization scenario results in an overall decommissioning cost of 73%, while cross operator optimization leads to an overall total decommissioning cost of 69%. Note that the step from optimization within the portfolio of each operator to optimization across operators only results in an additional reduction of 4%. This however represents a cost reduction of almost EUR 230 million in the mid case. Keep in mind that in the Netherlands, the operators are either relatively large, and thus can easily optimize within their own portfolio, or they are relatively small. The smaller operators benefit the most from cross operator optimization in relative terms, as is shown in Fig. 7.</anchoringText>
+<image-wrap id="102118186147MS-Img_SPi-6">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118186147MS_i_6.tif" id="ImgLink-6" />
+<caption>Relative overall decommissioning cost compared to reference scenario. Operators B, C, D and E are considered to be large operators (for the Dutch offshore), while A, F, G, H, I, J and K are considered to be small operators.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Relative overall decommissioning cost compared to reference scenario. Operators B, C, D and E are considered to be large operators (for the Dutch offshore), while A, F, G, H, I, J and K are considered to be small operators.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr10">This option was not extensively tested, therefore only some indicative results are given. Fig. 8 is a heat map that indicates which operators could potentially benefit from collaborating with another operator. Fig. 9 visualizes the effect of an example pair, operators J and D. As a result of their pairing, their shared average reduction is 4% (which represents EUR 55 million in the mid case). We see that operator J has a smaller portfolio than operator D. We also see that Fig. 8 suggests that most of the 4% abex reduction comes from the portfolio of operator J, which makes sense, since operator D has probably a large enough portfolio to effectively optimize decommissioning by itself (see Fig. 7). This raises the question why operator D would consider collaborating with operator J, since D would not really benefit by collaborating. However, this could be solved commercially.</anchoringText>
+<image-wrap id="102118186147MS-Img_SPi-7">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118186147MS_i_7.tif" id="ImgLink-7" />
+<caption>Heat map of relative potential benefits for one operator (rows) by collaborating with others (columns). Green is green is more potential benefits, white is none. Operator J has the highest potential abex reduction when it collaborates with operator C and D (x), but the potential benefits of operators C and D with J are not as high (xx).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Heat map of relative potential benefits for one operator (rows) by collaborating with others (columns). Green is green is more potential benefits, white is none. Operator J has the highest potential abex reduction when it collaborates with operator C and D (x), but the potential benefits of operators C and D with J are not as high (xx).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr11">This option was not extensively tested, therefore only some indicative results are given. Fig. 8 is a heat map that indicates which operators could potentially benefit from collaborating with another operator. Fig. 9 visualizes the effect of an example pair, operators J and D. As a result of their pairing, their shared average reduction is 4% (which represents EUR 55 million in the mid case). We see that operator J has a smaller portfolio than operator D. We also see that Fig. 8 suggests that most of the 4% abex reduction comes from the portfolio of operator J, which makes sense, since operator D has probably a large enough portfolio to effectively optimize decommissioning by itself (see Fig. 7). This raises the question why operator D would consider collaborating with operator J, since D would not really benefit by collaborating. However, this could be solved commercially.</anchoringText>
+<image-wrap id="102118186147MS-Img_SPi-8">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118186147MS_i_8.tif" id="ImgLink-8" />
+<caption>Example of effect of two operators, D and J, paired together. Total shared cost reduction is 4%.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Example of effect of two operators, D and J, paired together. Total shared cost reduction is 4%.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr12">The results of the sensitivity runs for the operator optimization scenario are given in Fig. 10. The effective cost reduction for the operator optimization scenario compared to the reference scenario only varies slightly. The results of the sensitivity runs for the cross operator optimization scenario are given in Fig. 11 and for the decommissioning company scenario in Fig. 12 Again, the relative cost reductions only vary slightly. These results indicate that the general conclusions for the mid case input are not very sensitive to changing the most important model parameters.</anchoringText>
+<image-wrap id="102118186147MS-Img_SPi-9">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118186147MS_i_9.tif" id="ImgLink-9" />
+<caption>Sensitivity runs for the operator optimization scenario. Input is given in Table 2.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Sensitivity runs for the operator optimization scenario. Input is given in <link href="102118186147MS-tblwrp-2">Table 2</link>.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="10" data-type-order="11">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr13">The results of the sensitivity runs for the operator optimization scenario are given in Fig. 10. The effective cost reduction for the operator optimization scenario compared to the reference scenario only varies slightly. The results of the sensitivity runs for the cross operator optimization scenario are given in Fig. 11 and for the decommissioning company scenario in Fig. 12 Again, the relative cost reductions only vary slightly. These results indicate that the general conclusions for the mid case input are not very sensitive to changing the most important model parameters.</anchoringText>
+<image-wrap id="102118186147MS-Img_SPi-10">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118186147MS_i_10.tif" id="ImgLink-10" />
+<caption>Sensitivity runs for the cross operator optimization scenario. Input is given in Table 2.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Sensitivity runs for the cross operator optimization scenario. Input is given in <link href="102118186147MS-tblwrp-2">Table 2</link>.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="11" data-type-order="12">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr14">The results of the sensitivity runs for the operator optimization scenario are given in Fig. 10. The effective cost reduction for the operator optimization scenario compared to the reference scenario only varies slightly. The results of the sensitivity runs for the cross operator optimization scenario are given in Fig. 11 and for the decommissioning company scenario in Fig. 12 Again, the relative cost reductions only vary slightly. These results indicate that the general conclusions for the mid case input are not very sensitive to changing the most important model parameters.</anchoringText>
+<image-wrap id="102118186147MS-Img_SPi-11">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118186147MS_i_11.tif" id="ImgLink-11" />
+<caption>Sensitivity runs for the decommissioning company scenario. Input is given in Table 2.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Sensitivity runs for the decommissioning company scenario. Input is given in <link href="102118186147MS-tblwrp-2">Table 2</link>.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="12" data-type-order="14">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr15">Fig. A-1 shows the example of three platforms A, B and C. The nearest five years prior to decommissioning are not allowed for discounting, the years before that period are. This results in four years of discounting the nominal abex of platform A, which results in a net present abex of EUR 17.9 million, while the net present abex of platform C is equal to the nominal abex of EUR 25 million.</anchoringText>
+<image-wrap id="102118186147MS-Img_SPi-12">
+<label>Figure A</label>
+<imageLink type="mediaResource" href="102118186147MS_i_12.tif" id="ImgLink-12" />
+<caption>1 Example of discount rule for three hypothetical platforms A, B and C. The used discount factor is 8%, the nominal abex for a platform is EUR 25 million. Four years of discounting results in a net present abex of EUR 17.9 million.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>A</caption-order>
+<caption-text>1 Example of discount rule for three hypothetical platforms A, B and C. The used discount factor is 8%, the nominal abex for a platform is EUR 25 million. Four years of discounting results in a net present abex of EUR 17.9 million.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

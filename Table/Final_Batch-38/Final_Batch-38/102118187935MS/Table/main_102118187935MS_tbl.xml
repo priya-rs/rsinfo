@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187935MS.txt" extractionDate="2021-03-25T13:15:02Z">
+<doi>10.2118/187935-MS</doi>
+<pii>10.2118/187935-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="9" table-order="1" data-type-order="8">
+<table-wrap id="102118187935MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Estimation of fracture closure pressures required analysis of the pressure decline periods and this was done using the G-Function (Nolte, 1988). Table 1 presents the data measurements from the testing and the estimated closure pressures for all five tested intervals.</anchoringText>
+<label>Table 1</label>
+<caption>Microfrac Results</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Microfrac Results</caption-text>
+</formatted-caption>
+<table id="102118187935MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Formation</th>
+<th valign="top" align="center">Rock Type</th>
+<th valign="top" align="center">Breakdown Pressure</th>
+<th valign="top" align="center">Reopening Pressure</th>
+<th valign="top" align="center">Propagation Pressure</th>
+<th valign="top" align="center">Closure Pressure</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3" valign="top" align="left">Between AC2 and AC3</td>
+<td rowspan="2" valign="top" align="center">Shale</td>
+<td valign="top" align="center">Bar</td>
+<td valign="top" align="center">Bar</td>
+<td valign="top" align="center">Bar</td>
+<td valign="top" align="center">Bar</td>
+</tr>
+<tr>
+<td valign="top" align="center">379</td>
+<td valign="top" align="center">313</td>
+<td valign="top" align="center">313</td>
+<td valign="top" align="center">279</td>
+</tr>
+<tr>
+<td valign="top" align="center">Shale</td>
+<td valign="top" align="center">341</td>
+<td valign="top" align="center">311</td>
+<td valign="top" align="center">319</td>
+<td valign="top" align="center">294</td>
+</tr>
+<tr>
+<td rowspan="3" valign="top" align="center">AC<sup>3</sup>
+</td>
+<td valign="top" align="center">Sand</td>
+<td valign="top" align="center">454</td>
+<td valign="top" align="center">340</td>
+<td valign="top" align="center">358</td>
+<td valign="top" align="center">293</td>
+</tr>
+<tr>
+<td valign="top" align="left">Limestone</td>
+<td valign="top" align="center">372</td>
+<td valign="top" align="center">350</td>
+<td valign="top" align="center">373</td>
+<td valign="top" align="center">294</td>
+</tr>
+<tr>
+<td valign="top" align="center">Shale</td>
+<td valign="top" align="center">438</td>
+<td valign="top" align="center">372</td>
+<td valign="top" align="center">358</td>
+<td valign="top" align="center">311</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118188994MS.txt" extractionDate="2021-03-27T19:41:29Z">
+<doi>10.2118/188994-MS</doi>
+<pii>10.2118/188994-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="9" table-order="1" data-type-order="8">
+<table-wrap id="102118188994MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Actual field case results are presented in Table 1 to show the impact of the U-value on the friction coefficient to match the measured data. When the default U-value is used, the friction coefficients need to be increased to account for the effect of temperature on the dP. With the adjusted U-values, the calculated friction coefficients are closer to 1 compared to default U-values, which increases confidence in the calibrated model’s accuracy.</anchoringText>
+<label>Table 1</label>
+<caption>Impact of U-value on friction coefficient</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Impact of U-value on friction coefficient</caption-text>
+</formatted-caption>
+<table id="102118188994MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">U-value</th>
+<th valign="bottom" align="center">Friction Coefficient</th>
+<th valign="bottom" align="center">Measured dT (°C)</th>
+<th valign="bottom" align="center">Matched dT (°C)</th>
+<th valign="bottom" align="center">Measured dP (bar)</th>
+<th valign="bottom" align="center">Matched dP (bar)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center">0.85</td>
+<td valign="bottom" align="center">1.09</td>
+<td valign="bottom" align="center">6.7</td>
+<td valign="bottom" align="center">6.7</td>
+<td valign="bottom" align="center">13.6</td>
+<td valign="bottom" align="center">13.6</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">8</td>
+<td valign="bottom" align="center">1.18</td>
+<td valign="bottom" align="center">6.7</td>
+<td valign="bottom" align="center">40.8</td>
+<td valign="bottom" align="center">13.6</td>
+<td valign="bottom" align="center">13.6</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="9" table-order="2" data-type-order="9">
+<table-wrap id="102118188994MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The same case was run using the existing IPM model with the No Optimisation option. The plant inlet temperatures are provided in Table 2. As expected, the inlet temperatures for the existing model are very low because the default U-value was used. The temperature predictions in the calibrated model were significantly better with an error of only 4°C of the actual plant inlet temperature. The calibrated model can be used for MS routing selection to ensure sufficient crude temperature is entering the plants during colder times of the year to optimize plant throughput</anchoringText>
+<label>Table 2</label>
+<caption>Calibrated and existing model temperature errors at plant inlet (compared to actual temperature)</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Calibrated and existing model temperature errors at plant inlet (compared to actual temperature)</caption-text>
+</formatted-caption>
+<table id="102118188994MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center" />
+<th valign="bottom" align="center">dT error (°C) Calibrated IPM</th>
+<th valign="bottom" align="center">dT error (°C) Existing IPM</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">
+<b>KTL-1</b>
+</td>
+<td valign="bottom" align="center">4.3</td>
+<td valign="bottom" align="center">46.3</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>KTL-2</b>
+</td>
+<td valign="bottom" align="center">0.3</td>
+<td valign="bottom" align="center">39.7</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>Tr-5</b>
+</td>
+<td valign="bottom" align="center">0.9</td>
+<td valign="bottom" align="center">48.5</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>SGP</b>
+</td>
+<td valign="bottom" align="center">1.3</td>
+<td valign="bottom" align="center">47.7</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="10" table-order="3" data-type-order="10">
+<table-wrap id="102118188994MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Table 3 illustrates oil production errors for both the calibrated and existing models. The existing model overestimated field production rates by 4% and was found to be unreliable for IPM production forecasts. The calibrated model shows very good agreement with field data and can be used for IPM production forecasts with a high level of confidence.</anchoringText>
+<label>Table 3</label>
+<caption>Oil production error of calibrated and existing models</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Oil production error of calibrated and existing models</caption-text>
+</formatted-caption>
+<table id="102118188994MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Plants</th>
+<th valign="bottom" align="center">Calibrated IPM model rate error (%)</th>
+<th valign="bottom" align="center">Existing IPM model rate error (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">
+<b>SGP</b>
+</td>
+<td valign="bottom" align="center">0.6</td>
+<td valign="bottom" align="center">5.0</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>KTL</b>
+</td>
+<td valign="bottom" align="center">0.8</td>
+<td valign="bottom" align="center">5.1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>Total</b>
+</td>
+<td valign="bottom" align="center">0.7</td>
+<td valign="bottom" align="center">5.1</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="10" table-order="4" data-type-order="11">
+<table-wrap id="102118188994MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">Whitespace was calculated by opening all wellhead chokes to 100% and using the Optimise with all constraints option. The results for both the calibrated and existing models are provided in Table 4. The error in the calibrated model whitespace forecast was between three and four percent less than the existing model. The results were shared with other IPM subject matter experts and TCO management approved the use of this model for whitespace forecasts. Subsequently, the long term IPM model was rebuilt on top of the short term model by incorporating new wells and facilities.</anchoringText>
+<label>Table 4</label>
+<caption>Comparison of calibrated and existing model whitespace forecasts</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Comparison of calibrated and existing model whitespace forecasts</caption-text>
+</formatted-caption>
+<table id="102118188994MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="left">Plants</th>
+<th valign="bottom" align="center">Calibrated IPM Whitespace (% above SMPP)</th>
+<th valign="bottom" align="center">Existing IPM model Whitespace (% above SMPP)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">
+<b>SGP</b>
+</td>
+<td valign="bottom" align="center">0.8</td>
+<td valign="bottom" align="center">5.2</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>KTL</b>
+</td>
+<td valign="bottom" align="center">0.9</td>
+<td valign="bottom" align="center">5.2</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>Total</b>
+</td>
+<td valign="bottom" align="center">0.9</td>
+<td valign="bottom" align="center">5.2</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

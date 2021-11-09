@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118180732MS.txt" extractionDate="2021-03-23T10:37:26Z">
+<doi>10.2118/180732-MS</doi>
+<pii>10.2118/180732-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="11" table-order="1" data-type-order="10">
+<table-wrap id="102118180732MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Table-1 shows the steam injected as a fraction of hydrocarbon pore-volume (SIC-HCPV), oil recovery and cumulative steam oil ratio (Cum SOR; bbls of cold water equivalent/standard bbls of oil). The key conclusion is that thermal processes of CSS and CSI-HIHP significantly improved recovery in the XHO reservoirs over primary production.</anchoringText>
+<label>Table 1</label>
+<caption>Steam injected as hydrocarbon pore-volume, oil recovery and cumulative Steam oil ratio for three sectors</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Steam injected as hydrocarbon pore-volume, oil recovery and cumulative Steam oil ratio for three sectors</caption-text>
+</formatted-caption>
+<table id="102118180732MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="center" />
+<th valign="top" align="center">SIC-HCPV</th>
+<th valign="top" align="center">Recovery (%)</th>
+<th valign="top" align="center">(BCWE/STB)</th>
+</tr>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">(%)</th>
+<th valign="top" align="center">(BCWE/STB)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Sector - 1</td>
+<td valign="top" align="center">1.95</td>
+<td valign="top" align="center">53.8</td>
+<td valign="top" align="center">4.36</td>
+</tr>
+<tr>
+<td valign="top" align="center">Sector - 2</td>
+<td valign="top" align="center">1.93</td>
+<td valign="top" align="center">65.6</td>
+<td valign="top" align="center">3.33</td>
+</tr>
+<tr>
+<td valign="top" align="center">Sector - 3</td>
+<td valign="top" align="center">1.34</td>
+<td valign="top" align="center">62.4</td>
+<td valign="top" align="center">2.41</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="15" table-order="2" data-type-order="16">
+<table-wrap id="102118180732MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Table 2 summarizes oil recovery after five years under two strategies. Figure 15(a) shows the oil recovery (calculated from oil in place) from AOI vs. time; Figure 15(b) and (c) show the gas in place and water in place vs. time. It is evident that for XHO reservoirs, horizontal well CSS provides significantly higher oil recovery than PP only.</anchoringText>
+<label>Table 2</label>
+<caption>Recovery (%) from PP &amp; CSS using different sector models</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Recovery (%) from PP &amp; CSS using different sector models</caption-text>
+</formatted-caption>
+<table id="102118180732MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Sector Models</th>
+<th valign="top" align="center">PP</th>
+<th valign="top" align="center">PP &amp; CSS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Sector-1</td>
+<td valign="top" align="center">7.9</td>
+<td valign="top" align="center">25.6</td>
+</tr>
+<tr>
+<td valign="top" align="left">Sector-2</td>
+<td valign="top" align="center">9.1</td>
+<td valign="top" align="center">27.2</td>
+</tr>
+<tr>
+<td valign="top" align="left">Sector-3</td>
+<td valign="top" align="center">7.6</td>
+<td valign="top" align="center">18.2</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="19" table-order="3" data-type-order="23">
+<table-wrap id="102118180732MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Table 3 below shows calculated pressure drop (using PipePhase software) under various scenarios. The parameters are chosen to illustrate the relative importance of various parameters affecting wellbore pressure drop. Flow rate, inner diameter and operating pressure have significant effect on the pressure drop. Pressure drop in the injector can be large even for typical liner sizes and injector rates. Pressure drop in the injector is higher than that in the producer.</anchoringText>
+<label>Table 3</label>
+<caption>Calculated pressure drop (using PipePhase) under various scenarios</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Calculated pressure drop (using PipePhase) under various scenarios</caption-text>
+</formatted-caption>
+<table id="102118180732MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Length (ft.)</th>
+<th valign="top" align="center">Flow rate (bbl./day)</th>
+<th valign="top" align="center">Operating pressure (psia)</th>
+<th valign="top" align="center">Effective hydraulic diameter (inches)</th>
+<th valign="top" align="center">Pressure drop (psi)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">1000</td>
+<td valign="top" align="center">1500</td>
+<td valign="top" align="center">500</td>
+<td valign="top" align="center">7</td>
+<td valign="top" align="center">0.61</td>
+</tr>
+<tr>
+<td valign="top" align="left">1000</td>
+<td valign="top" align="center">1500</td>
+<td valign="top" align="center">500</td>
+<td valign="top" align="center">5</td>
+<td valign="top" align="center">3.80</td>
+</tr>
+<tr>
+<td valign="top" align="left">1000</td>
+<td valign="top" align="center">3000</td>
+<td valign="top" align="center">500</td>
+<td valign="top" align="center">5</td>
+<td valign="top" align="center">19.76</td>
+</tr>
+<tr>
+<td valign="top" align="left">3280</td>
+<td valign="top" align="center">1500</td>
+<td valign="top" align="center">500</td>
+<td valign="top" align="center">7</td>
+<td valign="top" align="center">2.29</td>
+</tr>
+<tr>
+<td valign="top" align="left">3280</td>
+<td valign="top" align="center">3000</td>
+<td valign="top" align="center">500</td>
+<td valign="top" align="center">7</td>
+<td valign="top" align="center">8.00</td>
+</tr>
+<tr>
+<td valign="top" align="left">3280</td>
+<td valign="top" align="center">3000</td>
+<td valign="top" align="center">500</td>
+<td valign="top" align="center">5</td>
+<td valign="top" align="center">56.00</td>
+</tr>
+<tr>
+<td valign="top" align="left">3280</td>
+<td valign="top" align="center">3000</td>
+<td valign="top" align="center">365</td>
+<td valign="top" align="center">5</td>
+<td valign="top" align="center">84.00</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

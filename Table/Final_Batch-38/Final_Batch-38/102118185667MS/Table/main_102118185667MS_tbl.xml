@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185667MS.txt" extractionDate="2021-03-26T18:55:23Z">
+<doi>10.2118/185667-MS</doi>
+<pii>10.2118/185667-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="17" table-order="1" data-type-order="20">
+<table-wrap id="102118185667MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">A deconvolution algorithm was applied to the acoustic power of each FCD to find the frequency characterization of each nozzle size. Table 1 shows the harmonic frequencies of three different nozzle sizes that were used in well "A". Similar frequencies were also observed in well "B". The acoustic harmonic frequencies observed for each nozzle changes slightly for different flow condition. This harmonic characterization can be used to determine if the installed nozzles are in the critical flow and the nozzle open flow area is consistent with the design. If nozzle plugging was occurring, this effect could be detected.</anchoringText>
+<label>Table 1</label>
+<caption>Characteristic harmonic frequency of three venturi nozzle sizes, d1, d2, d3, at critical flow condition.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Characteristic harmonic frequency of three venturi nozzle sizes, d1, d2, d3, at critical flow condition.</caption-text>
+</formatted-caption>
+<table id="102118185667MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Nozzle Size</th>
+<th valign="top" align="center">F1 (Hz)</th>
+<th valign="top" align="center">F2 (Hz)</th>
+<th valign="top" align="center">F3 (Hz)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">
+<b>d1</b>
+</td>
+<td valign="top" align="center">
+<b>2150</b>
+</td>
+<td valign="top" align="center">
+<b>3220</b>
+</td>
+<td valign="top" align="center">
+<b>5130</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>d2</b>
+</td>
+<td valign="top" align="center">
+<b>1660</b>
+</td>
+<td valign="top" align="center">
+<b>2830</b>
+</td>
+<td valign="top" align="center">
+<b>4100</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>d3</b>
+</td>
+<td valign="top" align="center">
+<b>1270</b>
+</td>
+<td valign="top" align="center">
+<b>2640</b>
+</td>
+<td valign="top" align="center">
+<b>4440</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

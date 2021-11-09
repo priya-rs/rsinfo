@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190175MS.txt" extractionDate="2021-03-31T18:07:43Z">
+<doi>10.2118/190175-MS</doi>
+<pii>10.2118/190175-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="3" table-order="1" data-type-order="2">
+<table-wrap id="102118190175MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The SUCS reservoir extent is easily mapped on the Base Chalk seismic reflection (top seal) by pronounced differential compaction. The reservoir is circa 500m wide by 1500m long, with a thickness up to 120ft. Its average reservoir properties are similar to the Upper Captain Sandstone (UCS) main reservoir: 96% Net to Gross, 31% porosity and 5 Darcy permeability, see Table 1. Although, no core was taken in the SUCS, wireline logs (gamma ray, resistivity and neutron – density) also demonstrate strong analogies with the UCS. Horizontal development wells show a high degree of lateral continuity. These characteristics make the SUCS pilot a good proxy for estimating full field performance potential.</anchoringText>
+<label>Table 1</label>
+<caption>Summary of SUCS and UCS reservoir parameters</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Summary of SUCS and UCS reservoir parameters</caption-text>
+</formatted-caption>
+<table id="102118190175MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" bgcolor="#EEEEEE" align="left">Parameters</th>
+<th valign="bottom" bgcolor="#EEEEEE" align="left">Southern Upper Captain Sandstone (SUCS)</th>
+<th valign="bottom" bgcolor="#EEEEEE" align="left">Upper Captain Sandstone (UCS)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Reservoir description</td>
+<td align="left">Massive sandstone deposited by high density turbidite in channels confined within a canyon</td>
+<td valign="bottom" align="left">Massive sandstone deposited by high density turbidite in unconfined channels. Sheet like overall geometry</td>
+</tr>
+<tr>
+<td align="left">Well log character</td>
+<td align="left">Blocky Gamma Ray log</td>
+<td align="left">Blocky Gamma Ray log</td>
+</tr>
+<tr>
+<td valign="top" align="left">Thickness</td>
+<td valign="top" align="left">100 ft. (average) in oil accumulation</td>
+<td valign="bottom" align="left">64 ft. (average) in oil accumulation (100 ft. at C60 injector location)</td>
+</tr>
+<tr>
+<td align="left">NTG</td>
+<td align="left">96% (average)</td>
+<td align="left">98% (average)</td>
+</tr>
+<tr>
+<td align="left">Porosity</td>
+<td align="left">31% (average)</td>
+<td align="left">31% (average)</td>
+</tr>
+<tr>
+<td align="left">Permeability</td>
+<td align="left">5 Darcy (massive sandstone)</td>
+<td align="left">5 Darcy</td>
+</tr>
+<tr>
+<td align="left">Irreducible Water Saturation (S<sub>wi</sub>)</td>
+<td align="left">9% (average - log derived)</td>
+<td align="left">9% (average - log derived)</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="13" table-order="2" data-type-order="12">
+<table-wrap id="102118190175MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Figure 10 shows pilot performance starting in October 2009 when the C43 injector was kept online until August 2013 when the polymer flood was reverted to water injection. The results are summarized in Table 2.</anchoringText>
+<label>Table 2</label>
+<caption>Captain Pilot Performance, Summary of Key Metrics (P50 values)</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Captain Pilot Performance, Summary of Key Metrics (P50 values)</caption-text>
+</formatted-caption>
+<table id="102118190175MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" valign="bottom" bgcolor="#0070C0" align="left">Acceleration</th>
+<th valign="bottom" align="center">
+<link href="102118190175MS-Img_SPi-10">Figure 10</link> designation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Date of expected waterflood EUR</td>
+<td align="center">May 2018</td>
+<td align="center">A</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Date of waterflood EUR reached (actual)</td>
+<td valign="bottom" align="center">March 2012</td>
+<td valign="bottom" align="center">B</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Waterflood cumulative production at PF start, MMSTB</td>
+<td valign="bottom" align="center">1.5</td>
+<td valign="bottom" align="center">C</td>
+</tr>
+<tr>
+<td align="left">Remainder of WF EUR produced by PF, MMSTB</td>
+<td align="center">1.6</td>
+<td align="center">D</td>
+</tr>
+<tr>
+<td align="left">Waterflood accelerated oil production by PF (at WF EUR). MMSTB</td>
+<td align="center">
+<b>1.1</b>
+</td>
+<td align="center">E</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Acceleration (PF less time to reach WF EUR)</td>
+<td valign="bottom" align="center">
+<b>6 years</b>
+</td>
+<td valign="bottom" align="center">F</td>
+</tr>
+<tr>
+<td colspan="2" valign="bottom" bgcolor="#0070C0" align="left">Incremental Oil Recovery</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Waterflood EUR, MMSTB</td>
+<td valign="bottom" align="center">3.1</td>
+<td valign="bottom" align="center">G</td>
+</tr>
+<tr>
+<td valign="top" align="left">Polymer flood production, MMSTB</td>
+<td valign="top" align="center">3.0</td>
+<td valign="top" align="center">H</td>
+</tr>
+<tr>
+<td valign="top" align="left">Cumulative oil production, MMSTB (actual)</td>
+<td valign="top" align="center">4.5</td>
+<td valign="top" align="center">I</td>
+</tr>
+<tr>
+<td valign="top" align="left">Incremental oil production (above WF EUR). MMSTB</td>
+<td valign="top" align="center">
+<b>1.4</b>
+</td>
+<td valign="top" align="center">J</td>
+</tr>
+<tr>
+<td colspan="2" valign="bottom" bgcolor="#0070C0" align="left">Enhanced Oil Recovery</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Enhanced oil production (at end of PF injection), MMSTB</td>
+<td valign="bottom" align="center">2.5</td>
+<td valign="bottom" align="center">K</td>
+</tr>
+<tr>
+<td colspan="2" valign="bottom" bgcolor="#0070C0" align="left">Water Handling Reduction</td>
+<td valign="top" align="left">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Cumulative water production @ WF EUR, MMSTB</td>
+<td valign="bottom" align="center">28.4</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Cumulative water production @ WF EUR under PF, MMSTB</td>
+<td valign="bottom" align="center">3.2</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Water handling reduction (PF less water production). MMSTB</td>
+<td valign="top" align="center">
+<b>25.2</b>
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="22" table-order="3" data-type-order="21">
+<table-wrap id="102118190175MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">The use of these 3 uncertainty ranges gives rise to 27 combinations of the uncertainties, and yields a probabilistic range of incremental recovery for the Captain EOR pilot as summarized in Table 3 below.</anchoringText>
+<label>Table 3</label>
+<caption>Summary of Pilot Recovery Ranges</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Summary of Pilot Recovery Ranges</caption-text>
+</formatted-caption>
+<table id="102118190175MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" bgcolor="#4F81BD">
+</th>
+<th valign="bottom" align="center" bgcolor="#4F81BD">P90</th>
+<th valign="bottom" align="center" bgcolor="#4F81BD">P50</th>
+<th valign="bottom" align="center" bgcolor="#4F81BD">P10</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" bgcolor="#D3DFEE" align="left">Incremental Volume Swept (MMSTB)</td>
+<td valign="top" align="center" bgcolor="#D3DFEE">3.5</td>
+<td valign="top" align="center" bgcolor="#D3DFEE">4.7</td>
+<td align="center" bgcolor="#D3DFEE">6.2</td>
+</tr>
+<tr>
+<td valign="top" align="left">Incremental Volume Produced (MMSTB)</td>
+<td align="center">1.2</td>
+<td valign="top" align="center">1.4</td>
+<td valign="top" align="center">1.7</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#D3DFEE" align="left">Incremental RF to Pilot Volume Swept</td>
+<td valign="top" align="center" bgcolor="#D3DFEE">12%</td>
+<td valign="top" align="center" bgcolor="#D3DFEE">16%</td>
+<td valign="top" align="center" bgcolor="#D3DFEE">20%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

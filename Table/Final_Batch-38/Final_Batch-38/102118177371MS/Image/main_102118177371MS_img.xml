@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118177371MS.txt" extractionDate="2021-03-20T07:26:05Z">
+<doi>10.2118/177371-MS</doi>
+<pii>10.2118/177371-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr4">Fig. 1 shows the arrangement of the reservoir objects. Gas condensate reservoirs are marked with yellow color, oil reservoirs and oil rim are brown in color. Gas cap and the R31, R4 layers marked with grey color are not considered due to the low probability of confirmation at the moment. The vertical lines represent the trajectory of drilled wells. Note that a sufficient number of exploration wells (around 20) were drilled on the overlying oil layers R13, R14, therefore they are more explored than the underlying gas-condensate reservoirs R2–1 and R2–2 tested only in one well.</anchoringText>
+<image-wrap id="102118177371MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118177371MS_i_1.tif" id="ImgLink-1" />
+<caption>Arrangement of oil and gas condensate reservoirs</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Arrangement of oil and gas condensate reservoirs</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr5">Figure 2 schematically shows the development scenarios generation algorithm for the options sepa-rately, then together taking into account the above aspects. The algorithm is a standard procedure therefore a detailed description of it is not needed in the framework of the current article.</anchoringText>
+<image-wrap id="102118177371MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118177371MS_i_2.tif" id="ImgLink-2" />
+<caption>The algorithm of generating a development scenario for each option</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>The algorithm of generating a development scenario for each option</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr6">A more detailed algorithm on the each scenario optimization is presented by the example of the baseline scenario for option [1]Gas[1] (Figure 3).</anchoringText>
+<image-wrap id="102118177371MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118177371MS_i_3.tif" id="ImgLink-3" />
+<caption>The algorithm of performing a production curve</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>The algorithm of performing a production curve</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr7">Thus, minimum cost-effective gas production curve presented in Figure 4 corresponds to gas reserves P50 with a production plateau being about 5% of GIIP. In other words, for the field investment development attractiveness, it is necessary to confirm both the GIIP at least P50 and possible production level of 5% of GIIP per year. Note that the production curve presented in Figure 4 is optimized by the number of wells, the rate and order of drilling wells for the steps 1 and 2.</anchoringText>
+<image-wrap id="102118177371MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118177371MS_i_4.tif" id="ImgLink-4" />
+<caption>The production curve providing minimum profitability</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>The production curve providing minimum profitability</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr8">Definition, quantification and ranking of key factors influencing on GIIP in the layers (Figure 5,Table 2) are performed at the next stage. The key factors are the geological uncertainties which change is used in geological and hydrodynamic modelling and in probabilistic assessment of GIIP uncertainty.</anchoringText>
+<image-wrap id="102118177371MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118177371MS_i_5.tif" id="ImgLink-5" />
+<caption>Comparison of gas reserves</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Comparison of gas reserves</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="6" data-type-order="9">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr9">In accordance with the key factors of prioritization and ranking the main tasks of new exploration wells were formulated (tab. 3). Decision-making further exploration plan is presented in the form of a decision tree to ensure the flexibility (Figure 6). That will optimize the number and location of new exploration wells by considering possible scenarios a few steps forward. It can be seen that the exploration well Exp3 has 3 possible design points, each of that corresponds to a particular course of events after drilling Exp1.</anchoringText>
+<image-wrap id="102118177371MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118177371MS_i_6.tif" id="ImgLink-6" />
+<caption>The decision tree to optimize a number of exploration wells</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>The decision tree to optimize a number of exploration wells</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

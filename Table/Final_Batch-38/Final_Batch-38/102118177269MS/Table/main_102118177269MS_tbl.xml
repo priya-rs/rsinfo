@@ -1,0 +1,1168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118177269MS.txt" extractionDate="2021-03-16T14:31:01Z">
+<doi>10.2118/177269-MS</doi>
+<pii>10.2118/177269-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="4" table-order="1" data-type-order="4">
+<table-wrap id="102118177269MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">After selectively screening the well completion properties, an experimental design can be developed to determine the factors that have a significant impact on the reservoir system model. In this case, there are nine factors with available data that can be used. The available properties and their range of values are provided in Table 1.</anchoringText>
+<label>Table 1</label>
+<caption>Table of reservoir, fluid and well completion properties and there values.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Table of reservoir, fluid and well completion properties and there values.</caption-text>
+</formatted-caption>
+<table id="102118177269MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Property</th>
+<th valign="top" align="center">Unit</th>
+<th valign="top" align="center">Minimum Value</th>
+<th valign="top" align="center">Maximum Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">
+<i>h<sub>n</sub>
+</i>
+</td>
+<td valign="top" align="center">
+<i>m</i>
+</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">200</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>ϕ</i>
+</td>
+<td valign="top" align="center">
+<i>-</i>
+</td>
+<td valign="top" align="center">0.05</td>
+<td valign="top" align="center">0.20</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>T<sub>R</sub>
+</i>
+</td>
+<td valign="top" align="center">
+<i>°C</i>
+</td>
+<td valign="top" align="center">60</td>
+<td valign="top" align="center">90</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>P<sub>R</sub>
+</i>
+</td>
+<td valign="top" align="center">
+<i>kg/cm<sup>2</sup>
+</i>
+</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">350</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>R</i>
+</td>
+<td valign="top" align="center">
+<i>m<sup>3</sup>/m<sup>3</sup>
+</i>
+</td>
+<td valign="top" align="center">30</td>
+<td valign="top" align="center">300</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>γ</i>
+</td>
+<td valign="top" align="center">
+<i>API</i>
+</td>
+<td valign="top" align="center">18</td>
+<td valign="top" align="center">45</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>A</i>
+</td>
+<td valign="top" align="center">
+<i>acres</i>
+</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">80</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>S<sub>W</sub>
+</i>
+</td>
+<td valign="top" align="center">
+<i>-</i>
+</td>
+<td valign="top" align="center">0.30</td>
+<td valign="top" align="center">0.60</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>k</i>
+</td>
+<td valign="top" align="center">
+<i>md</i>
+</td>
+<td valign="top" align="center">
+<i>0.01</i>
+</td>
+<td valign="top" align="center">
+<i>10</i>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="5" table-order="2" data-type-order="5">
+<table-wrap id="102118177269MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Because a response surface (equation) is desired, a screening experiment will be used to determine which factors have the most significant influence on the model and eliminate the insignificant factors. A Plackett-Burman design of 12 runs (or Taguchi L12) to assess the main effects was selected based on guidelines presented by Schmidt, Kiemele and Berdine. The resultant table of experiments is provided in Table 2.</anchoringText>
+<label>Table 2</label>
+<caption>Plackett-Burman 12 Run (or Taguchi L12) Screening Design.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Plackett-Burman 12 Run (or Taguchi L12) Screening Design.</caption-text>
+</formatted-caption>
+<table id="102118177269MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">
+<i>h<sub>n</sub>
+</i>
+</th>
+<th valign="top" align="center">
+<i>ϕ</i>
+</th>
+<th valign="top" align="center">
+<i>T<sub>R</sub>
+</i>
+</th>
+<th valign="top" align="center">
+<i>P<sub>R</sub>
+</i>
+</th>
+<th valign="top" align="center">
+<i>R</i>
+</th>
+<th valign="top" align="center">
+<i>γ</i>
+</th>
+<th valign="top" align="center">
+<i>A</i>
+</th>
+<th valign="top" align="center">
+<i>L</i>
+</th>
+<th valign="top" align="center">
+<i>n<sub>f</sub>
+</i>
+</th>
+<th valign="top" align="center">
+<i>S<sub>W</sub>
+</i>
+</th>
+<th valign="top" align="center">
+<i>k</i>
+</th>
+</tr>
+<tr>
+<th valign="top" align="center">
+<i>m</i>
+</th>
+<th valign="top" align="center">
+<i>-</i>
+</th>
+<th valign="top" align="center">
+<i>°C</i>
+</th>
+<th valign="top" align="center">
+<i>kg/cm<sup>2</sup>
+</i>
+</th>
+<th valign="top" align="center">
+<i>m<sup>3</sup>/m<sup>3</sup>
+</i>
+</th>
+<th valign="top" align="center">
+<i>API</i>
+</th>
+<th valign="top" align="center">
+<i>acres</i>
+</th>
+<th valign="top" align="center">
+<i>m</i>
+</th>
+<th valign="top" align="center">
+<i>-</i>
+</th>
+<th valign="top" align="center">
+<i>-</i>
+</th>
+<th valign="top" align="center">
+<i>md</i>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">10</td>
+<td valign="top" align="center">0.05</td>
+<td valign="top" align="center">60</td>
+<td valign="top" align="center">350</td>
+<td valign="top" align="center">30</td>
+<td valign="top" align="center">18</td>
+<td valign="top" align="center">80</td>
+<td valign="top" align="center">500</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">0.6</td>
+<td valign="top" align="center">10.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">10</td>
+<td valign="top" align="center">0.05</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">30</td>
+<td valign="top" align="center">45</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">1500</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">0.6</td>
+<td valign="top" align="center">0.01</td>
+</tr>
+<tr>
+<td valign="top" align="left">10</td>
+<td valign="top" align="center">0.05</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">300</td>
+<td valign="top" align="center">45</td>
+<td valign="top" align="center">80</td>
+<td valign="top" align="center">500</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">0.3</td>
+<td valign="top" align="center">10.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">10</td>
+<td valign="top" align="center">0.20</td>
+<td valign="top" align="center">60</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">300</td>
+<td valign="top" align="center">18</td>
+<td valign="top" align="center">80</td>
+<td valign="top" align="center">1500</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">0.3</td>
+<td valign="top" align="center">0.01</td>
+</tr>
+<tr>
+<td valign="top" align="left">10</td>
+<td valign="top" align="center">0.20</td>
+<td valign="top" align="center">60</td>
+<td valign="top" align="center">350</td>
+<td valign="top" align="center">300</td>
+<td valign="top" align="center">45</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">500</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">0.6</td>
+<td valign="top" align="center">0.01</td>
+</tr>
+<tr>
+<td valign="top" align="left">10</td>
+<td valign="top" align="center">0.20</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">350</td>
+<td valign="top" align="center">30</td>
+<td valign="top" align="center">18</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">1500</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">0.3</td>
+<td valign="top" align="center">10.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">200</td>
+<td valign="top" align="center">0.05</td>
+<td valign="top" align="center">60</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">300</td>
+<td valign="top" align="center">18</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">1500</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">0.6</td>
+<td valign="top" align="center">10.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">200</td>
+<td valign="top" align="center">0.05</td>
+<td valign="top" align="center">60</td>
+<td valign="top" align="center">350</td>
+<td valign="top" align="center">30</td>
+<td valign="top" align="center">45</td>
+<td valign="top" align="center">80</td>
+<td valign="top" align="center">1500</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">0.3</td>
+<td valign="top" align="center">0.01</td>
+</tr>
+<tr>
+<td valign="top" align="left">200</td>
+<td valign="top" align="center">0.05</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">350</td>
+<td valign="top" align="center">300</td>
+<td valign="top" align="center">18</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">500</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">0.3</td>
+<td valign="top" align="center">0.01</td>
+</tr>
+<tr>
+<td valign="top" align="left">200</td>
+<td valign="top" align="center">0.20</td>
+<td valign="top" align="center">60</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">30</td>
+<td valign="top" align="center">45</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">500</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">0.3</td>
+<td valign="top" align="center">10.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">200</td>
+<td valign="top" align="center">0.20</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">30</td>
+<td valign="top" align="center">18</td>
+<td valign="top" align="center">80</td>
+<td valign="top" align="center">500</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">0.6</td>
+<td valign="top" align="center">0.01</td>
+</tr>
+<tr>
+<td valign="top" align="left">200</td>
+<td valign="top" align="center">0.20</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">350</td>
+<td valign="top" align="center">300</td>
+<td valign="top" align="center">45</td>
+<td valign="top" align="center">80</td>
+<td valign="top" align="center">1500</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">0.6</td>
+<td valign="top" align="center">10.0</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="6" table-order="3" data-type-order="7">
+<table-wrap id="102118177269MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">The results of the screening experiment show the influence of each of the properties on the oil recovery. The Contrast Report of the Screening Experiment is provided in Table 3.</anchoringText>
+<label>Table 3</label>
+<caption>Screening Experiment Contrast Report.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Screening Experiment Contrast Report.</caption-text>
+</formatted-caption>
+<table id="102118177269MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Parameter</th>
+<th valign="top" align="center">Contrast</th>
+<th valign="top" align="center">Length t-Ratio</th>
+<th valign="top" align="center">Individual p-Value</th>
+<th valign="top" align="center">Simultaneous p-Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">
+<i>h<sub>n</sub>
+</i>
+</td>
+<td valign="top" align="center">0.2131410</td>
+<td valign="top" align="center">1.07</td>
+<td valign="top" align="center">0.2599</td>
+<td valign="top" align="center">0.9561</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>γ</i>
+</td>
+<td valign="top" align="center">0.2036928</td>
+<td valign="top" align="center">1.02</td>
+<td valign="top" align="center">0.2813</td>
+<td valign="top" align="center">0.9717</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>A</i>
+</td>
+<td valign="top" align="center">0.1802949</td>
+<td valign="top" align="center">0.90</td>
+<td valign="top" align="center">0.3342</td>
+<td valign="top" align="center">0.9934</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>P<sub>R</sub>
+</i>
+</td>
+<td valign="top" align="center">0.1792863</td>
+<td valign="top" align="center">0.90</td>
+<td valign="top" align="center">0.3371</td>
+<td valign="top" align="center">0.9941</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>L</i>
+</td>
+<td valign="top" align="center">0.1734723</td>
+<td valign="top" align="center">0.87</td>
+<td valign="top" align="center">0.3532</td>
+<td valign="top" align="center">0.9969</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>ϕ</i>
+</td>
+<td valign="top" align="center">0.1328893</td>
+<td valign="top" align="center">0.67</td>
+<td valign="top" align="center">0.5002</td>
+<td valign="top" align="center">1.0000</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>n<sub>f</sub>
+</i>
+</td>
+<td valign="top" align="center">0.1260058</td>
+<td valign="top" align="center">0.63</td>
+<td valign="top" align="center">0.5720</td>
+<td valign="top" align="center">1.0000</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>k</i>
+</td>
+<td valign="top" align="center">0.1247623</td>
+<td valign="top" align="center">0.63</td>
+<td valign="top" align="center">0.5759</td>
+<td valign="top" align="center">1.0000</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>T<sub>R</sub>
+</i>
+</td>
+<td valign="top" align="center">0.1066109</td>
+<td valign="top" align="center">0.53</td>
+<td valign="top" align="center">0.6362</td>
+<td valign="top" align="center">1.0000</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>S<sub>W</sub>
+</i>
+</td>
+<td valign="top" align="center">0.1010456</td>
+<td valign="top" align="center">0.51</td>
+<td valign="top" align="center">0.6509</td>
+<td valign="top" align="center">1.0000</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>R</i>
+</td>
+<td valign="top" align="center">0.0983531</td>
+<td valign="top" align="center">0.49</td>
+<td valign="top" align="center">0.6587</td>
+<td valign="top" align="center">1.0000</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="4" data-type-order="10">
+<table-wrap id="102118177269MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">The table of experiments for the CCD with 32 runs and 6 center points and the results (NPO) from the nonlinear model are shown in Table 4.</anchoringText>
+<label>Table 4</label>
+<caption>Central Composit Design.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Central Composit Design.</caption-text>
+</formatted-caption>
+<table id="102118177269MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">
+<i>/</i>
+</th>
+<th valign="top" align="center">
+<i>ϕ</i>
+</th>
+<th valign="top" align="center">
+<i>A</i>
+</th>
+<th valign="top" align="center">
+<i>P<sub>R</sub>
+</i>
+</th>
+<th valign="top" align="center">
+<i>γ</i>
+</th>
+<th valign="top" align="center">
+<i>N<sub>PO</sub>
+</i>
+</th>
+</tr>
+<tr>
+<th valign="top" align="left">
+<i>m</i>
+</th>
+<th valign="top" align="center">
+<i>-</i>
+</th>
+<th valign="top" align="center">
+<i>acres</i>
+</th>
+<th valign="top" align="center">
+<i>kg/cm<sup>2</sup>
+</i>
+</th>
+<th valign="top" align="center">
+<i>API</i>
+</th>
+<th valign="top" align="center">
+<i>MMstb</i>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">105</td>
+<td valign="top" align="center">0.0001</td>
+<td valign="top" align="center">50</td>
+<td valign="top" align="center">220</td>
+<td valign="top" align="center">31.5</td>
+<td valign="top" align="center">0.00069</td>
+</tr>
+<tr>
+<td valign="top" align="left">10</td>
+<td valign="top" align="center">0.0500</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">18.0</td>
+<td valign="top" align="center">0.00000</td>
+</tr>
+<tr>
+<td valign="top" align="left">10</td>
+<td valign="top" align="center">0.0500</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">350</td>
+<td valign="top" align="center">45.0</td>
+<td valign="top" align="center">0.02226</td>
+</tr>
+<tr>
+<td valign="top" align="left">10</td>
+<td valign="top" align="center">0.0500</td>
+<td valign="top" align="center">80</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">45.0</td>
+<td valign="top" align="center">0.00269</td>
+</tr>
+<tr>
+<td valign="top" align="left">10</td>
+<td valign="top" align="center">0.0500</td>
+<td valign="top" align="center">80</td>
+<td valign="top" align="center">350</td>
+<td valign="top" align="center">18.0</td>
+<td valign="top" align="center">0.02173</td>
+</tr>
+<tr>
+<td valign="top" align="left">200</td>
+<td valign="top" align="center">0.0500</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">45.0</td>
+<td valign="top" align="center">0.01339</td>
+</tr>
+<tr>
+<td valign="top" align="left">200</td>
+<td valign="top" align="center">0.0500</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">350</td>
+<td valign="top" align="center">18.0</td>
+<td valign="top" align="center">0.10540</td>
+</tr>
+<tr>
+<td valign="top" align="left">200</td>
+<td valign="top" align="center">0.0500</td>
+<td valign="top" align="center">80</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">18.0</td>
+<td valign="top" align="center">0.00000</td>
+</tr>
+<tr>
+<td valign="top" align="left">200</td>
+<td valign="top" align="center">0.0500</td>
+<td valign="top" align="center">80</td>
+<td valign="top" align="center">350</td>
+<td valign="top" align="center">45.0</td>
+<td valign="top" align="center">1.76465</td>
+</tr>
+<tr>
+<td valign="top" align="left">5</td>
+<td valign="top" align="center">0.1250</td>
+<td valign="top" align="center">50</td>
+<td valign="top" align="center">220</td>
+<td valign="top" align="center">31.5</td>
+<td valign="top" align="center">0.03411</td>
+</tr>
+<tr>
+<td valign="top" align="left">105</td>
+<td valign="top" align="center">0.1250</td>
+<td valign="top" align="center">5</td>
+<td valign="top" align="center">220</td>
+<td valign="top" align="center">31.5</td>
+<td valign="top" align="center">0.06605</td>
+</tr>
+<tr>
+<td valign="top" align="left">105</td>
+<td valign="top" align="center">0.1250</td>
+<td valign="top" align="center">50</td>
+<td valign="top" align="center">85</td>
+<td valign="top" align="center">31.5</td>
+<td valign="top" align="center">0.00119</td>
+</tr>
+<tr>
+<td valign="top" align="left">105</td>
+<td valign="top" align="center">0.1250</td>
+<td valign="top" align="center">50</td>
+<td valign="top" align="center">220</td>
+<td valign="top" align="center">15.0</td>
+<td valign="top" align="center">0.08394</td>
+</tr>
+<tr>
+<td valign="top" align="left">105</td>
+<td valign="top" align="center">0.1250</td>
+<td valign="top" align="center">50</td>
+<td valign="top" align="center">220</td>
+<td valign="top" align="center">31.5</td>
+<td valign="top" align="center">0.69035</td>
+</tr>
+<tr>
+<td valign="top" align="left">105</td>
+<td valign="top" align="center">0.1250</td>
+<td valign="top" align="center">50</td>
+<td valign="top" align="center">220</td>
+<td valign="top" align="center">31.5</td>
+<td valign="top" align="center">0.69035</td>
+</tr>
+<tr>
+<td valign="top" align="left">105</td>
+<td valign="top" align="center">0.1250</td>
+<td valign="top" align="center">50</td>
+<td valign="top" align="center">220</td>
+<td valign="top" align="center">31.5</td>
+<td valign="top" align="center">0.69035</td>
+</tr>
+<tr>
+<td valign="top" align="left">105</td>
+<td valign="top" align="center">0.1250</td>
+<td valign="top" align="center">50</td>
+<td valign="top" align="center">220</td>
+<td valign="top" align="center">31.5</td>
+<td valign="top" align="center">0.69035</td>
+</tr>
+<tr>
+<td valign="top" align="left">105</td>
+<td valign="top" align="center">0.1250</td>
+<td valign="top" align="center">50</td>
+<td valign="top" align="center">220</td>
+<td valign="top" align="center">31.5</td>
+<td valign="top" align="center">0.69035</td>
+</tr>
+<tr>
+<td valign="top" align="left">105</td>
+<td valign="top" align="center">0.1250</td>
+<td valign="top" align="center">50</td>
+<td valign="top" align="center">220</td>
+<td valign="top" align="center">31.5</td>
+<td valign="top" align="center">0.69035</td>
+</tr>
+<tr>
+<td valign="top" align="left">105</td>
+<td valign="top" align="center">0.1250</td>
+<td valign="top" align="center">50</td>
+<td valign="top" align="center">220</td>
+<td valign="top" align="center">58.5</td>
+<td valign="top" align="center">1.66175</td>
+</tr>
+<tr>
+<td valign="top" align="left">105</td>
+<td valign="top" align="center">0.1250</td>
+<td valign="top" align="center">50</td>
+<td valign="top" align="center">480</td>
+<td valign="top" align="center">31.5</td>
+<td valign="top" align="center">1.06761</td>
+</tr>
+<tr>
+<td valign="top" align="left">105</td>
+<td valign="top" align="center">0.1250</td>
+<td valign="top" align="center">110</td>
+<td valign="top" align="center">220</td>
+<td valign="top" align="center">31.5</td>
+<td valign="top" align="center">1.50947</td>
+</tr>
+<tr>
+<td valign="top" align="left">295</td>
+<td valign="top" align="center">0.1250</td>
+<td valign="top" align="center">50</td>
+<td valign="top" align="center">220</td>
+<td valign="top" align="center">31.5</td>
+<td valign="top" align="center">1.99632</td>
+</tr>
+<tr>
+<td valign="top" align="left">10</td>
+<td valign="top" align="center">0.2000</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">45.0</td>
+<td valign="top" align="center">0.00271</td>
+</tr>
+<tr>
+<td valign="top" align="left">10</td>
+<td valign="top" align="center">0.2000</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">350</td>
+<td valign="top" align="center">18.0</td>
+<td valign="top" align="center">0.02141</td>
+</tr>
+<tr>
+<td valign="top" align="left">10</td>
+<td valign="top" align="center">0.2000</td>
+<td valign="top" align="center">80</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">18.0</td>
+<td valign="top" align="center">0.00000</td>
+</tr>
+<tr>
+<td valign="top" align="left">10</td>
+<td valign="top" align="center">0.2000</td>
+<td valign="top" align="center">80</td>
+<td valign="top" align="center">350</td>
+<td valign="top" align="center">45.0</td>
+<td valign="top" align="center">0.36472</td>
+</tr>
+<tr>
+<td valign="top" align="left">200</td>
+<td valign="top" align="center">0.2000</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">18.0</td>
+<td valign="top" align="center">0.00001</td>
+</tr>
+<tr>
+<td valign="top" align="left">200</td>
+<td valign="top" align="center">0.2000</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">350</td>
+<td valign="top" align="center">45.0</td>
+<td valign="top" align="center">1.82226</td>
+</tr>
+<tr>
+<td valign="top" align="left">200</td>
+<td valign="top" align="center">0.2000</td>
+<td valign="top" align="center">80</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">45.0</td>
+<td valign="top" align="center">0.21939</td>
+</tr>
+<tr>
+<td valign="top" align="left">200</td>
+<td valign="top" align="center">0.2000</td>
+<td valign="top" align="center">80</td>
+<td valign="top" align="center">350</td>
+<td valign="top" align="center">18.0</td>
+<td valign="top" align="center">1.81151</td>
+</tr>
+<tr>
+<td valign="top" align="left">105</td>
+<td valign="top" align="center">0.2750</td>
+<td valign="top" align="center">50</td>
+<td valign="top" align="center">220</td>
+<td valign="top" align="center">31.5</td>
+<td valign="top" align="center">1.51556</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="10" table-order="5" data-type-order="14">
+<table-wrap id="102118177269MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">The Figure 7c shows the actual (from nonlinear numerical model) by predicted (response surface equation) plot. The predicted model covers a range of output, NPO, from 0.00 to 2.11 MMstb. As indicated by the R2 value shown in Table 5, the predicted output fits relatively closely to the observed output from the numerical model. The sorted parameter estimates shown in Table 6, present the main effects and interaction effects in order of influence on the response surface model.</anchoringText>
+<label>Table 5</label>
+<caption>Summary of Fit</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Summary of Fit</caption-text>
+</formatted-caption>
+<table id="102118177269MS-Tbl_SPi-5" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="left">R<sup>2</sup>
+</td>
+<td valign="top" align="left">0.87507</td>
+</tr>
+<tr>
+<td valign="top" align="left">R<sup>2 </sup>Adj</td>
+<td valign="top" align="left">0.85104</td>
+</tr>
+<tr>
+<td valign="top" align="left">Root Mean Square Error</td>
+<td valign="top" align="left">0.24066</td>
+</tr>
+<tr>
+<td valign="top" align="left">Mean of Response</td>
+<td valign="top" align="left">0.57034</td>
+</tr>
+<tr>
+<td valign="top" align="left">Observations (or Sum Wgts)</td>
+<td valign="top" align="left">32</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="10" table-order="6" data-type-order="15">
+<table-wrap id="102118177269MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6">The Figure 7c shows the actual (from nonlinear numerical model) by predicted (response surface equation) plot. The predicted model covers a range of output, NPO, from 0.00 to 2.11 MMstb. As indicated by the R2 value shown in Table 5, the predicted output fits relatively closely to the observed output from the numerical model. The sorted parameter estimates shown in Table 6, present the main effects and interaction effects in order of influence on the response surface model.</anchoringText>
+<label>Table 6</label>
+<caption>Sorted Parameter Estimates</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Sorted Parameter Estimates</caption-text>
+</formatted-caption>
+<table id="102118177269MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Parameter</th>
+<th valign="top" align="left">Estimate</th>
+<th valign="top" align="left">Std Error</th>
+<th valign="top" align="left">t Ratio t</th>
+<th valign="top" align="left">t Ratio</th>
+<th valign="top" align="left">Prob &#x003E;|t|</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">
+<i>P<sub>R</sub>
+</i>
+</td>
+<td valign="top" align="left">0.4035377</td>
+<td valign="top" align="left">0.094751</td>
+<td valign="top" align="left">4.26</td>
+<td rowspan="10" valign="top" align="left">t Ratio</td>
+<td valign="top" align="left">0.0013**</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>h<sub>n</sub>
+</i>
+</td>
+<td valign="top" align="left">0.3994058</td>
+<td valign="top" align="left">0.094586</td>
+<td valign="top" align="left">4.22</td>
+<td valign="top" align="left">0.0014**</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>h<sub>n</sub>
+</i> ** <i>P<sub>R</sub>
+</i>
+</td>
+<td valign="top" align="left">0.3028941</td>
+<td valign="top" align="left">0.102618</td>
+<td valign="top" align="left">2.95</td>
+<td valign="top" align="left">0.0132** </td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>ϕ</i>
+</td>
+<td valign="top" align="left">0.2285428</td>
+<td valign="top" align="left">0.086866</td>
+<td valign="top" align="left">2.63</td>
+<td valign="top" align="left">0.0234***</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>A </i>
+</td>
+<td valign="top" align="left">0.2186933</td>
+<td valign="top" align="left">0.088857</td>
+<td valign="top" align="left">2.46</td>
+<td valign="top" align="left">0.0316 ** </td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>γ</i>
+</td>
+<td valign="top" align="left">0.2253315</td>
+<td valign="top" align="left">0.092483</td>
+<td valign="top" align="left">2.44</td>
+<td valign="top" align="left">0.0330 ** </td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>P<sub>R</sub>
+</i>**<i> P<sub>R</sub>
+</i>
+</td>
+<td valign="top" align="left">-0.190027</td>
+<td valign="top" align="left">0.100324</td>
+<td valign="top" align="left">-1.89</td>
+<td valign="top" align="left">0.0848</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>P<sub>R</sub>
+</i>** <i>ϕ</i>
+</td>
+<td valign="top" align="left">0.1187396</td>
+<td valign="top" align="left">0.102618</td>
+<td valign="top" align="left">1.16</td>
+<td valign="top" align="left">0.2717</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>P<sub>R</sub>
+</i>**<i>A</i>
+</td>
+<td valign="top" align="left">0.1115825</td>
+<td valign="top" align="left">0.102618</td>
+<td valign="top" align="left">1.09</td>
+<td valign="top" align="left">0.3001</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>P<sub>R</sub>
+</i>**<i> γ</i>
+</td>
+<td valign="top" align="left">0.1109806</td>
+<td valign="top" align="left">0.102618</td>
+<td valign="top" align="left">1.08</td>
+<td valign="top" align="left">0.3026</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>h<sub>n</sub>
+</i> **<i> ϕ</i>
+</td>
+<td valign="top" align="left">0.101723</td>
+<td valign="top" align="left">0.102618</td>
+<td valign="top" align="left">0.99</td>
+<td rowspan="10" valign="top" align="left"><link type="image" href="102118177269MS_i_16.tif" id="ImgLink-16" /></td>
+<td valign="top" align="left">0.3429</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>h<sub>n</sub>
+</i>**<i> γ</i>
+</td>
+<td valign="top" align="left">0.0970955</td>
+<td valign="top" align="left">0.102618</td>
+<td valign="top" align="left">0.95</td>
+<td valign="top" align="left">0.3644</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>h<sub>n</sub>
+</i>**<i>A</i>
+</td>
+<td valign="top" align="left">0.0944833</td>
+<td valign="top" align="left">0.102618</td>
+<td valign="top" align="left">0.92</td>
+<td valign="top" align="left">0.3769</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>γ</i> ** <i>A</i>
+</td>
+<td valign="top" align="left">-0.075975</td>
+<td valign="top" align="left">0.102618</td>
+<td valign="top" align="left">-0.74</td>
+<td valign="top" align="left">0.4746</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>γ</i> ** <i>ϕ</i>
+</td>
+<td valign="top" align="left">-0.068732</td>
+<td valign="top" align="left">0.102618</td>
+<td valign="top" align="left">-0.67</td>
+<td valign="top" align="left">0.5168</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>ϕ</i> ** a</td>
+<td valign="top" align="left">-0.068674</td>
+<td valign="top" align="left">0.102618</td>
+<td valign="top" align="left">-0.67</td>
+<td valign="top" align="left">0.5172</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>h<sub>n</sub>
+</i> **<i> h<sub>n</sub>
+</i>
+</td>
+<td valign="top" align="left">0.0300367</td>
+<td valign="top" align="left">0.100143</td>
+<td valign="top" align="left">0.30</td>
+<td valign="top" align="left">0.7698</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>ϕ</i> **<i> ϕ</i>
+</td>
+<td valign="top" align="left">-0.0244</td>
+<td valign="top" align="left">0.085912</td>
+<td valign="top" align="left">-0.28</td>
+<td valign="top" align="left">0.7817</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>γ</i> ** <i>γ</i>
+</td>
+<td valign="top" align="left">0.0192901</td>
+<td valign="top" align="left">0.097422</td>
+<td valign="top" align="left">0.20</td>
+<td valign="top" align="left">0.8467</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>A</i> **<i> A</i>
+</td>
+<td valign="top" align="left">-0.016656</td>
+<td valign="top" align="left">0.090828</td>
+<td valign="top" align="left">-0.18</td>
+<td valign="top" align="left">0.8578</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="11" table-order="7" data-type-order="16">
+<table-wrap id="102118177269MS-tblwrp-7" content-type="structured">
+<anchoringText id="Ancr7">As an example the unique parameters for one block is provided in Table 7. The uniqueness for each block comes from its particular range for each parameter. For instance, oil gravity values vary greatly from one region of the Chicontepec to another as seen in Figure 9. The distributions for each parameter is based on existing data from the Chicontepec Basin .</anchoringText>
+<label>Table 7</label>
+<caption>Model Parameters and Distribution for Chicontepec Round 1 Block.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Model Parameters and Distribution for Chicontepec Round 1 Block.</caption-text>
+</formatted-caption>
+<table id="102118177269MS-Tbl_SPi-7" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Parameter</th>
+<th valign="top" align="center">Min</th>
+<th valign="top" align="center">Mean</th>
+<th valign="top" align="center">Max</th>
+<th valign="top" align="center">Distribution</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">
+<i>h<sub>n</sub>
+</i>
+</td>
+<td valign="top" align="center">30</td>
+<td valign="top" align="center">65</td>
+<td valign="top" align="center">100</td>
+<td valign="top" align="center">Normal</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>f</i>
+</td>
+<td valign="top" align="center">0.08</td>
+<td valign="top" align="center">0.1</td>
+<td valign="top" align="center">0.12</td>
+<td valign="top" align="center">Lognormal</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>A</i>
+</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">50</td>
+<td valign="top" align="center">80</td>
+<td valign="top" align="center">Triangular</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>P<sub>t</sub>
+</i>
+</td>
+<td valign="top" align="center">100</td>
+<td valign="top" align="center">110</td>
+<td valign="top" align="center">120</td>
+<td valign="top" align="center">Normal</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<i>γ</i>
+</td>
+<td valign="top" align="center">24</td>
+<td valign="top" align="center">26</td>
+<td valign="top" align="center">32</td>
+<td valign="top" align="center">Lognormal</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

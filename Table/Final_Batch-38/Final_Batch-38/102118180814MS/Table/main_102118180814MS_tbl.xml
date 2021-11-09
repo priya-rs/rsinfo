@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118180814MS.txt" extractionDate="2021-03-24T18:08:06Z">
+<doi>10.2118/180814-MS</doi>
+<pii>10.2118/180814-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="4" table-order="1" data-type-order="4">
+<table-wrap id="102118180814MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">From the simulation results summarized in Table 1 it is possible to identify the efficiency of the waterflooding for each layer. According to the (dimensionless) Pore Volumes Injected (VPI, Spanish acronym) a typical pattern has a value of under 0.3. A simple Buckley-Leveret assessment based on typical viscosity values that this value has to be significantly increased towards 1.2, why an improvement of the vertical efficiency must be overcome. In the fault blocks with best production performance such as blocks 3, 4, and 5, a higher pore volume injection has been reached and the VPI has been estimated to be at around 0.7 to above 1.</anchoringText>
+<label>Table 1</label>
+<caption>Results from Analytical Simulation. See the VPI and VRR columns as indicators of low injection volumes</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Results from Analytical Simulation. See the VPI and VRR columns as indicators of low injection volumes</caption-text>
+</formatted-caption>
+<table id="102118180814MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" align="center" bgcolor="#C6D9F0">% POIS</th>
+<th rowspan="2" align="center" bgcolor="#C6D9F0">FR%</th>
+<th rowspan="2" align="center" bgcolor="#C6D9F0">VPI</th>
+<th align="center" bgcolor="#C6D9F0">Frac</th>
+<th align="center" bgcolor="#C6D9F0">VPI</th>
+<th align="center" bgcolor="#C6D9F0">VRR</th>
+<th align="center" bgcolor="#C6D9F0">@1 VPI</th>
+</tr>
+<tr>
+<th valign="top" align="center" bgcolor="#C6D9F0">Cont.</th>
+<th valign="top" align="center" bgcolor="#C6D9F0">Cont.</th>
+<th valign="top" align="center" bgcolor="#C6D9F0">Acum</th>
+<th valign="top" align="center" bgcolor="#C6D9F0"> (año)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" bgcolor="#6DC187">
+<b>100%</b>
+</td>
+<td align="center" bgcolor="#DDD9C4">
+<b>15.6</b>
+</td>
+<td align="center" bgcolor="#DDD9C4">
+<b>0.10</b>
+</td>
+<td align="center" bgcolor="#DDD9C4">
+<b>0.79</b>
+</td>
+<td align="center" bgcolor="#DDD9C4">
+<b>0.13</b>
+</td>
+<td align="center" bgcolor="#DDD9C4">
+<b>0.80</b>
+</td>
+<td align="center" bgcolor="#DDD9C4">
+<b>113</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">22%</td>
+<td valign="top" align="right">15.4</td>
+<td valign="top" align="right">0.13</td>
+<td valign="top" align="right">0.89</td>
+<td valign="top" align="right">0.15</td>
+<td valign="bottom" align="right">1.0</td>
+<td valign="top" align="right">92</td>
+</tr>
+<tr>
+<td valign="top" align="center">17%</td>
+<td valign="bottom" align="right">14.2</td>
+<td valign="bottom" align="right">0.11</td>
+<td valign="bottom" align="right">0.84</td>
+<td valign="bottom" align="right">0.13</td>
+<td valign="bottom" align="right">0.8</td>
+<td valign="bottom" align="right">97</td>
+</tr>
+<tr>
+<td valign="top" align="center">14%</td>
+<td align="right">21.2</td>
+<td align="right">0.10</td>
+<td align="right">0.78</td>
+<td align="right">0.13</td>
+<td align="right">0.6</td>
+<td align="right">138</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">10%</td>
+<td valign="bottom" align="right">5.4</td>
+<td valign="bottom" align="right">0.04</td>
+<td valign="bottom" align="right">0.85</td>
+<td valign="bottom" align="right">0.05</td>
+<td valign="bottom" align="right">0.9</td>
+<td valign="bottom" align="right">193</td>
+</tr>
+<tr>
+<td valign="top" align="center">9%</td>
+<td valign="top" align="right">14.5</td>
+<td valign="top" align="right">0.07</td>
+<td valign="top" align="right">0.83</td>
+<td valign="bottom" align="right">0.08</td>
+<td valign="bottom" align="right">0.6</td>
+<td valign="top" align="right">114</td>
+</tr>
+<tr>
+<td align="center">8%</td>
+<td valign="bottom" align="right">21.2</td>
+<td valign="bottom" align="right">0.10</td>
+<td valign="bottom" align="right">0.81</td>
+<td valign="bottom" align="right">0.12</td>
+<td valign="bottom" align="right">0.6</td>
+<td align="right">77</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">7%</td>
+<td valign="bottom" align="right">14.2</td>
+<td valign="bottom" align="right">0.21</td>
+<td valign="bottom" align="right">0.66</td>
+<td valign="bottom" align="right">0.32</td>
+<td valign="bottom" align="right">1.4</td>
+<td valign="bottom" align="right">135</td>
+</tr>
+<tr>
+<td align="center">6%</td>
+<td align="right">17.8</td>
+<td align="right">0.06</td>
+<td align="right">0.79</td>
+<td align="right">0.08</td>
+<td align="right">0.4</td>
+<td align="right">428</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">2%</td>
+<td valign="bottom" align="right">22.6</td>
+<td valign="bottom" align="right">0.17</td>
+<td valign="bottom" align="right">0.45</td>
+<td valign="bottom" align="right">0.38</td>
+<td valign="bottom" align="right">0.9</td>
+<td valign="bottom" align="right">58</td>
+</tr>
+<tr>
+<td align="center">4%</td>
+<td align="right">17.7</td>
+<td valign="bottom" align="right">0.12</td>
+<td align="right">0.54</td>
+<td valign="bottom" align="right">0.22</td>
+<td valign="bottom" align="right">0.8</td>
+<td valign="bottom" align="right">102</td>
+</tr>
+<tr>
+<td valign="top" align="center">2%</td>
+<td valign="top" align="right">9.5</td>
+<td align="right">0.02</td>
+<td align="right">0.22</td>
+<td valign="top" align="right">0.09</td>
+<td valign="top" align="right">0.4</td>
+<td align="right">206</td>
+</tr>
+<tr>
+<td valign="top" align="center">19%</td>
+<td align="right">6.7</td>
+<td align="right">0.05</td>
+<td align="right">0.66</td>
+<td align="right">0.08</td>
+<td align="right">0.6</td>
+<td align="right">214</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">17%</td>
+<td valign="bottom" align="right">24.5</td>
+<td valign="bottom" align="right">0.23</td>
+<td valign="bottom" align="right">0.88</td>
+<td valign="bottom" align="right">0.26</td>
+<td valign="bottom" align="right">0.7</td>
+<td valign="bottom" align="right">53</td>
+</tr>
+<tr>
+<td valign="top" align="center">17%</td>
+<td valign="top" align="right">14.3</td>
+<td valign="bottom" align="right">0.16</td>
+<td valign="top" align="right">0.93</td>
+<td valign="top" align="right">0.17</td>
+<td valign="bottom" align="right">0.8</td>
+<td valign="top" align="right">195</td>
+</tr>
+<tr>
+<td valign="top" align="center">14%</td>
+<td valign="top" align="right">21.5</td>
+<td valign="bottom" align="right">0.21</td>
+<td valign="top" align="right">0.73</td>
+<td valign="top" align="right">0.29</td>
+<td valign="top" align="right">0.7</td>
+<td valign="top" align="right">89</td>
+</tr>
+<tr>
+<td align="center">10%</td>
+<td valign="bottom" align="right">20.0</td>
+<td valign="bottom" align="right">0.20</td>
+<td align="right">0.77</td>
+<td valign="bottom" align="right">0.26</td>
+<td align="right">0.7</td>
+<td align="right">93</td>
+</tr>
+<tr>
+<td valign="top" align="center">8%</td>
+<td valign="top" align="right">9.7</td>
+<td valign="top" align="right">0.03</td>
+<td valign="bottom" align="right">0.80</td>
+<td valign="top" align="right">0.04</td>
+<td valign="top" align="right">0.4</td>
+<td valign="top" align="right">364</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">7%</td>
+<td valign="bottom" align="right">18.0</td>
+<td valign="bottom" align="right">0.13</td>
+<td valign="bottom" align="right">0.77</td>
+<td valign="bottom" align="right">0.17</td>
+<td valign="bottom" align="right">0.7</td>
+<td valign="bottom" align="right">131</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">4%</td>
+<td valign="bottom" align="right">6.5</td>
+<td valign="bottom" align="right">0.03</td>
+<td valign="bottom" align="right">0.31</td>
+<td valign="bottom" align="right">0.10</td>
+<td valign="bottom" align="right">0.6</td>
+<td valign="bottom" align="right">3,353</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">5%</td>
+<td valign="bottom" align="right">20.9</td>
+<td valign="bottom" align="right">0.17</td>
+<td valign="bottom" align="right">0.71</td>
+<td valign="bottom" align="right">0.24</td>
+<td valign="bottom" align="right">0.6</td>
+<td valign="bottom" align="right">251</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185608MS.txt" extractionDate="2021-03-26T13:50:38Z">
+<doi>10.2118/185608-MS</doi>
+<pii>10.2118/185608-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="6" table-order="1" data-type-order="5">
+<table-wrap id="102118185608MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Hence as shown in Table 1, in a typical gas reservoir using nearly one order of magnitude lower pore volume compressibility can potentially inflate the estimated dynamic in place volumes by up to 25%! This is because compaction helps to have less reservoir pressure depletion as a result of production, which does not mean more gas in place. It also implies that compaction induced porosity and permeability reductions are likely to occur over the field life. Hence as shown in Table 1, in a typical gas reservoir using nearly one order of magnitude lower pore volume compressibility can potentially inflate the estimated dynamic in place volumes by up to 25%! This is because compaction helps to have less reservoir pressure depletion as a result of production, which does not mean more gas in place.</anchoringText>
+<label>Table 1</label>
+<caption>Impact of one order of magnitude lower pore volume compressibility on dynamic in place volume estimate in a typical gas reservoir</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Impact of one order of magnitude lower pore volume compressibility on dynamic in place volume estimate in a typical gas reservoir</caption-text>
+</formatted-caption>
+<table id="102118185608MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Cg (microsip)</th>
+<th valign="top" align="center">Cw (microsip)</th>
+<th valign="top" align="center">Sw</th>
+<th valign="top" align="center">Cf (microsip)</th>
+<th valign="top" align="center">Ct (microsip)</th>
+<th valign="top" align="center">V Change (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2" valign="top" align="center">300</td>
+<td rowspan="2" valign="top" align="center">3</td>
+<td rowspan="2" valign="top" align="center">0.3</td>
+<td valign="top" align="center">60</td>
+<td valign="top" align="center">271</td>
+<td valign="top" align="center">0</td>
+</tr>
+<tr>
+<td valign="top" align="center">6</td>
+<td valign="top" align="center">217</td>
+<td valign="top" align="center">+25</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

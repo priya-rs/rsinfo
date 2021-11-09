@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118186216MS.txt" extractionDate="2021-03-26T11:10:04Z">
+<doi>10.2118/186216-MS</doi>
+<pii>10.2118/186216-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="4" table-order="1" data-type-order="5">
+<table-wrap id="102118186216MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The main proppants used were 20/40 and 16/30 mesh ISP. A typical design schedule appears in Table 1.</anchoringText>
+<label>Table 1</label>
+<caption>Example pump schedule</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Example pump schedule</caption-text>
+</formatted-caption>
+<table id="102118186216MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="left">Stage</th>
+<th rowspan="2" valign="top" align="left">Fluid Type</th>
+<th valign="top" align="left">Proppant Type</th>
+<th valign="top" align="left">Prop Conc.</th>
+<th valign="top" align="left">Prop Mass</th>
+<th valign="top" align="left">Cum Prop Mass</th>
+<th valign="top" align="left">Stage Volume</th>
+</tr>
+<tr>
+<th valign="top" align="left">(lbs/gal)</th>
+<th valign="top" align="left">(lbs)</th>
+<th valign="top" align="left">(lbs)</th>
+<th valign="top" align="left">(bbl)</th>
+<th valign="top" align="left" />
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">1</td>
+<td valign="top" align="left">Cooling Pad</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">0.0</td>
+<td valign="top" align="center">–</td>
+<td valign="top" align="center">–</td>
+<td valign="top" align="center">80</td>
+</tr>
+<tr>
+<td valign="top" align="left">2</td>
+<td valign="top" align="left">35# HT Borate</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">0.0</td>
+<td valign="top" align="center">–</td>
+<td valign="top" align="center">–</td>
+<td valign="top" align="center">800</td>
+</tr>
+<tr>
+<td valign="top" align="left">5</td>
+<td valign="top" align="left">35# HT Borate</td>
+<td valign="top" align="center">20/40 ISP</td>
+<td valign="top" align="center">0.5</td>
+<td valign="top" align="center">2,678</td>
+<td valign="top" align="center">2,678</td>
+<td valign="top" align="center">130</td>
+</tr>
+<tr>
+<td valign="top" align="left">6</td>
+<td valign="top" align="left">35# HT Borate</td>
+<td valign="top" align="center">20/40 ISP</td>
+<td valign="top" align="center">1.0</td>
+<td valign="top" align="center">5,257</td>
+<td valign="top" align="center">7,935</td>
+<td valign="top" align="center">130</td>
+</tr>
+<tr>
+<td valign="top" align="left">7</td>
+<td valign="top" align="left">35# HT Borate</td>
+<td valign="top" align="center">20/40 ISP</td>
+<td valign="top" align="center">2.0</td>
+<td valign="top" align="center">10,137</td>
+<td valign="top" align="center">18,073</td>
+<td valign="top" align="center">130</td>
+</tr>
+<tr>
+<td valign="top" align="left">8</td>
+<td valign="top" align="left">35# HT Borate</td>
+<td valign="top" align="center">20/40 ISP</td>
+<td valign="top" align="center">3.0</td>
+<td valign="top" align="center">15,809</td>
+<td valign="top" align="center">33,881</td>
+<td valign="top" align="center">140</td>
+</tr>
+<tr>
+<td valign="top" align="left">9</td>
+<td valign="top" align="left">35# HT Borate</td>
+<td valign="top" align="center">20/40 ISP</td>
+<td valign="top" align="center">4.0</td>
+<td valign="top" align="center">21,829</td>
+<td valign="top" align="center">55,710</td>
+<td valign="top" align="center">150</td>
+</tr>
+<tr>
+<td valign="top" align="left">10</td>
+<td valign="top" align="left">35# HT Borate</td>
+<td valign="top" align="center">20/40 ISP</td>
+<td valign="top" align="center">5.0</td>
+<td valign="top" align="center">29,923</td>
+<td valign="top" align="center">85,633</td>
+<td valign="top" align="center">170</td>
+</tr>
+<tr>
+<td valign="top" align="left">11</td>
+<td valign="top" align="left">35# HT Borate</td>
+<td valign="top" align="center">20/40 ISP</td>
+<td valign="top" align="center">6.0</td>
+<td valign="top" align="center">36,828</td>
+<td valign="top" align="center">122,462</td>
+<td valign="top" align="center">180</td>
+</tr>
+<tr>
+<td valign="top" align="left">12</td>
+<td valign="top" align="left">35# HT Borate</td>
+<td valign="top" align="center">16/30 ISP</td>
+<td valign="top" align="center">6.0</td>
+<td valign="top" align="center">30,923</td>
+<td valign="top" align="center">153,385</td>
+<td valign="top" align="center">150</td>
+</tr>
+<tr>
+<td valign="top" align="left">13</td>
+<td valign="top" align="left">35# HT Borate</td>
+<td valign="top" align="center">16/30 ISP</td>
+<td valign="top" align="center">7.0</td>
+<td valign="top" align="center">35,015</td>
+<td valign="top" align="center">188,401</td>
+<td valign="top" align="center">150</td>
+</tr>
+<tr>
+<td valign="top" align="left">14</td>
+<td valign="top" align="left">35# HT Borate</td>
+<td valign="top" align="center">16/30 ISP</td>
+<td valign="top" align="center">7.5</td>
+<td valign="top" align="center">61,600</td>
+<td valign="top" align="center">250,000</td>
+<td valign="top" align="center">250</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="5" table-order="2" data-type-order="6">
+<table-wrap id="102118186216MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2"> </anchoringText>
+<label>Table 2</label>
+<caption>Interpreted Results</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Interpreted Results</caption-text>
+</formatted-caption>
+<table id="102118186216MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left" />
+<th valign="top" align="left">Cluster 1</th>
+<th valign="top" align="left">Cluster 2</th>
+<th valign="top" align="left">Cluster 3</th>
+<th valign="top" align="left">Cluster 4</th>
+<th valign="top" align="left">Cluster 5</th>
+<th valign="top" align="left">Cluster 6</th>
+<th valign="top" align="left">Cluster 7</th>
+<th valign="top" align="left">Cluster 8</th>
+<th valign="top" align="left">Cluster 9</th>
+<th valign="top" align="left">Cluster 10</th>
+<th valign="top" align="left">Cluster 11</th>
+<th valign="top" align="left">Cluster 12</th>
+<th valign="top" align="left">Cluster 13</th>
+<th valign="top" align="left">Cluster 14</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">
+<b>From, m</b>
+</td>
+<td valign="top" align="left">3134.0</td>
+<td valign="top" align="left">3159.0</td>
+<td valign="top" align="left">3180.0</td>
+<td valign="top" align="left">3199.0</td>
+<td valign="top" align="left">3233.0</td>
+<td valign="top" align="left">3285.0</td>
+<td valign="top" align="left">3306.8</td>
+<td valign="top" align="left">3337.0</td>
+<td valign="top" align="left">3373.6</td>
+<td valign="top" align="left">3411.0</td>
+<td valign="top" align="left">3424.0</td>
+<td valign="top" align="left">3513.2</td>
+<td valign="top" align="left">3563.2</td>
+<td valign="top" align="left">3576.5</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>To, m</b>
+</td>
+<td valign="top" align="left">3134.6</td>
+<td valign="top" align="left">3159.6</td>
+<td valign="top" align="left">3180.6</td>
+<td valign="top" align="left">3199.6</td>
+<td valign="top" align="left">3233.6</td>
+<td valign="top" align="left">3286.0</td>
+<td valign="top" align="left">3307.7</td>
+<td valign="top" align="left">3337.8</td>
+<td valign="top" align="left">3374.5</td>
+<td valign="top" align="left">3411.9</td>
+<td valign="top" align="left">3424.9</td>
+<td valign="top" align="left">3515.0</td>
+<td valign="top" align="left">3565.0</td>
+<td valign="top" align="left">3578.3</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>Temp</b>
+</td>
+<td valign="top" align="left">128.88</td>
+<td valign="top" align="left">129.34</td>
+<td valign="top" align="left">129.99</td>
+<td valign="top" align="left">130.10</td>
+<td valign="top" align="left">130.80</td>
+<td valign="top" align="left">131.68</td>
+<td valign="top" align="left">131.91</td>
+<td valign="top" align="left">132.36</td>
+<td valign="top" align="left">133.57</td>
+<td valign="top" align="left">135.84</td>
+<td valign="top" align="left">136.24</td>
+<td valign="top" align="left">136.84</td>
+<td valign="top" align="left">137.74</td>
+<td valign="top" align="left">137.81</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>Pressure</b>
+</td>
+<td valign="top" align="left">3310.8</td>
+<td valign="top" align="left">3316.9</td>
+<td valign="top" align="left">3327.3</td>
+<td valign="top" align="left">3334.5</td>
+<td valign="top" align="left">3346.5</td>
+<td valign="top" align="left">3365.1</td>
+<td valign="top" align="left">3382.3</td>
+<td valign="top" align="left">3394.6</td>
+<td valign="top" align="left">3417.5</td>
+<td valign="top" align="left">3450.5</td>
+<td valign="top" align="left">3472.7</td>
+<td valign="top" align="left">3529.0</td>
+<td valign="top" align="left">3613.3</td>
+<td valign="top" align="left">3642.7</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>Qg Mscf/d</b>
+</td>
+<td valign="top" align="left">5627.5</td>
+<td valign="top" align="left">4874.3</td>
+<td valign="top" align="left">4020.6</td>
+<td valign="top" align="left">4020.0</td>
+<td valign="top" align="left">3177.8</td>
+<td valign="top" align="left">2271.85</td>
+<td valign="top" align="left">2245.92</td>
+<td valign="top" align="left">1649.14</td>
+<td valign="top" align="left">817.46</td>
+<td valign="top" align="left">266.64</td>
+<td valign="top" align="left">251.34</td>
+<td valign="top" align="left">230.88</td>
+<td valign="top" align="left">44.84</td>
+<td valign="top" align="left">25.33</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>dQg Mscf/d</b>
+</td>
+<td valign="top" align="left">753.24</td>
+<td valign="top" align="left">853.70</td>
+<td valign="top" align="left">0.58</td>
+<td valign="top" align="left">842.23</td>
+<td valign="top" align="left">905.97</td>
+<td valign="top" align="left">25.93</td>
+<td valign="top" align="left">596.78</td>
+<td valign="top" align="left">831.68</td>
+<td valign="top" align="left">550.82</td>
+<td valign="top" align="left">15.31</td>
+<td valign="top" align="left">20.46</td>
+<td valign="top" align="left">186.04</td>
+<td valign="top" align="left">19.51</td>
+<td valign="top" align="left">25.33</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>%Qg</b>
+</td>
+<td valign="top" align="left">13.68</td>
+<td valign="top" align="left">15.50</td>
+<td valign="top" align="left">0.00</td>
+<td valign="top" align="left">15.27</td>
+<td valign="top" align="left">16.42</td>
+<td valign="top" align="left">0.46</td>
+<td valign="top" align="left">10.76</td>
+<td valign="top" align="left">14.59</td>
+<td valign="top" align="left">9.12</td>
+<td valign="top" align="left">0.27</td>
+<td valign="top" align="left">0.36</td>
+<td valign="top" align="left">2.92</td>
+<td valign="top" align="left">0.27</td>
+<td valign="top" align="left">0.36</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

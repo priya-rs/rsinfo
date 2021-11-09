@@ -1,0 +1,406 @@
+﻿<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8" ></head><div>
+<div><b>Meta Informations:</b><p>SPE_Society_of_Petroleum_Engineers</p><p>DOI: 10.2118/180429-MS<br>PII: 10.2118/180429-MS<br></p></div>
+<div>
+<div pdf-page="3" table-order="1" data-type-order="1">
+<div id="102118180429MS-tblwrp-1" content-type="structured"><p> </p><p><b>Table 1</b> Definitions of the CM quantities</p><p>Table 1 Definitions of the CM quantities</p><table id="102118180429MS-Tbl_SPi-1" frame="hsides">
+<tbody>
+<tr>
+<td valign="bottom" align="left"><math>
+ <mrow>
+  <mover accent="true">
+   <mi>q</mi>
+   <mo>^</mo>
+  </mover>
+  <mo stretchy="false">(</mo><mi>t</mi><mo stretchy="false">)</mo></mrow>
+</math>
+</td>
+<td valign="bottom" align="left">predicted total production rate at time step <i>t</i></td>
+</tr>
+<tr>
+<td valign="bottom" align="left"><i>q(t)</i></td>
+<td valign="bottom" align="left">measured total production rate at time step <i>t</i></td>
+</tr>
+<tr>
+<td valign="bottom" align="left"><i>λ<sub>pj</sub>
+</i></td>
+<td valign="bottom" align="left">weighting factor for the primary production term</td>
+</tr>
+<tr>
+<td valign="bottom" align="left"><i>q</i><i>j </i><i>(t</i><i>
+<sub>0</sub>
+</i><i>)</i></td>
+<td valign="bottom" align="left">initial total production rate of producer <i>j</i></td>
+</tr>
+<tr>
+<td align="left"><i>τ<sub>pj</sub>
+</i></td>
+<td valign="bottom" align="left">time constant for the primary depletion term</td>
+</tr>
+<tr>
+<td valign="bottom" align="left"><i>λ<sub>ij</sub>
+</i></td>
+<td valign="bottom" align="left">weight between injector <i>i</i> and producer <i>j</i>, indicating the connectivity</td>
+</tr>
+<tr>
+<td valign="bottom" align="left"><i>W'</i><i>
+<sub>ij</sub>
+</i><i>
+</i><i>(t)</i></td>
+<td valign="bottom" align="left">convolved injection rate of injector <i>i</i> at the location of producer <i>j</i> at time step <i>t</i></td>
+</tr>
+<tr>
+<td align="left"><i>v<sub>kj</sub>
+</i></td>
+<td valign="bottom" align="left">time constant for the medium between injector <i>i</i> and producer <i>j</i></td>
+</tr>
+<tr>
+<td valign="bottom" align="left"><i>w</i><i>i </i><i>(t)</i></td>
+<td valign="bottom" align="left">injection rate of injector <i>i</i> at time step <i>t</i></td>
+</tr>
+<tr>
+<td valign="bottom" align="left"><i>v</i><i>
+<sub>kj</sub>
+</i></td>
+<td valign="bottom" align="left">coefficient for quantifying the effect of the changing BHP of producer <i>k</i></td>
+</tr>
+<tr>
+<td valign="bottom" align="left"><i>p</i><i>wf j </i><i>(t)</i></td>
+<td valign="bottom" align="left">BHP of producer <i>j</i> at time step <i>t</i></td>
+</tr>
+<tr>
+<td valign="bottom" align="left"><i>P’</i><i>
+<sub>wf kj</sub>
+</i><i>(t)</i></td>
+<td valign="bottom" align="left">convolved BHP of producer <i>k</i> at the location of producer <i>j</i> at time step t</td>
+</tr>
+<tr>
+<td valign="bottom" align="left"><i>τ<sub>kj</sub>
+</i></td>
+<td valign="bottom" align="left">time constant for the medium between producers <i>k</i> and <i>j</i></td>
+</tr>
+<tr>
+<td align="left"><i>t, t</i><i>
+<sub>0</sub>
+</i><i>, &amp; t</i><i>
+<sub>max</sub>
+</i></td>
+<td align="left">time; time at the beginning of the window; and time at the end of the window</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="5" table-order="2" data-type-order="4">
+<div id="102118180429MS-tblwrp-2" content-type="structured"><p>The summary of the roles of the PW is provided in Table 2.</p><p><b>Table 2</b> The roles of PW under different circumstances</p><p>Table 2 The roles of PW under different circumstances</p><table id="102118180429MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th align="center">Cases</th>
+<th align="center">The PW accounts for</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">balanced case</td>
+<td valign="bottom" align="left">varying <i>τ</i> parameters (e.g., J and V<sub>p</sub>)</td>
+</tr>
+<tr>
+<td align="left">unbalanced case</td>
+<td align="left">imbalance and varying <i>τ</i> parameters</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="7" table-order="3" data-type-order="6">
+<div id="102118180429MS-tblwrp-3" content-type="structured"><p>To test this approach, we simulated the production rates from a 5 × 4 homogeneous model with high permeability (Table 3) and BHPs constant employing a commercial simulator. The simulation is run for 299 months and the data are sampled monthly (Figure 4 and Figure 5). When we apply the CM to evaluate IWC for this case, we deliberately exclude I05, so we create an imbalance in the system before running the CM.</p><p><b>Table 3</b> Reservoir and fluid data used for the Case 1 homogeneous 5 × 4 model</p><p>Table 3 Reservoir and fluid data used for the Case 1 homogeneous 5 × 4 model</p><table id="102118180429MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Parameter</th>
+<th valign="bottom" align="center">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Porosity, <i>ϕ</i>, fraction</td>
+<td valign="bottom" align="center">0.18</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Horizontal <i>k</i>, md</td>
+<td valign="bottom" align="center">100</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Vertical <i>k</i>, md</td>
+<td valign="bottom" align="center">10</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Total compressibility, <i>c<sub>t</sub>
+</i>, psi<sup>-1</sup></td>
+<td valign="bottom" align="center">2 × 10<sup>-6</sup></td>
+</tr>
+<tr>
+<td align="left">Fluid viscosity, <i>µ</i>, cp</td>
+<td align="center">0.5</td>
+</tr>
+<tr>
+<td align="left">Reservoir size in x-direction, ft</td>
+<td valign="bottom" align="center">2480</td>
+</tr>
+<tr>
+<td align="left">Reservoir size in y-direction, ft</td>
+<td valign="bottom" align="center">2480</td>
+</tr>
+<tr>
+<td align="left">Formation thickness, ft</td>
+<td valign="bottom" align="center">27</td>
+</tr>
+<tr>
+<td align="left">Reservoir depth, ft</td>
+<td valign="bottom" align="center">3000</td>
+</tr>
+<tr>
+<td align="left">Reservoir pressure, psi</td>
+<td align="center">1470</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="10" table-order="4" data-type-order="13">
+<div id="102118180429MS-tblwrp-4" content-type="structured"><p>We now test the model with the simulated production rates from a 5 × 4 nearly-homogeneous low permeability model with constant BHPs (Table 4, Figure 10). The simulation is run for 299 months and the data are sampled every 3 months (Figure 11 and Figure 12). Again we create an artificial imbalance by excluding the injector I05.</p><p><b>Table 4</b> Reservoir and fluid data used for the semi-homogeneous 5 × 4 model</p><p>Table 4 Reservoir and fluid data used for the semi-homogeneous 5 × 4 model</p><table id="102118180429MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th align="center">Parameter</th>
+<th align="center">Value</th>
+<th align="center">Parameter</th>
+<th align="center">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Porosity, <i>ϕ</i>,. fraction</td>
+<td valign="bottom" align="center">0.18</td>
+<td valign="bottom" align="center">Fluid viscosity, <i>µ</i>, cp</td>
+<td valign="bottom" align="center">0.5</td>
+</tr>
+<tr>
+<td align="left">Horizontal <i>k<sub>matrix</sub>
+</i>, md</td>
+<td valign="bottom" align="center">0.5</td>
+<td align="center">Reservoir size in x-direction, ft</td>
+<td valign="bottom" align="center">2480</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Vertical <i>k</i><i>
+<sub>matrix</sub>
+</i>, md</td>
+<td valign="bottom" align="center">0.05</td>
+<td valign="bottom" align="center">Reservoir size in y-direction, ft</td>
+<td valign="bottom" align="center">2480</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Producer <i>k</i><i>
+<sub>near wellbore</sub>
+</i>, md</td>
+<td valign="bottom" align="center">10</td>
+<td valign="bottom" align="center">Formation thickness, ft</td>
+<td valign="bottom" align="center">27</td>
+</tr>
+<tr>
+<td align="left">Total compressibility, <i>c<sub>t</sub>
+</i>, psi<sup>-1</sup></td>
+<td align="center">2 × 10<sup>-6</sup></td>
+<td align="center">Reservoir depth, ft</td>
+<td align="center">3000</td>
+</tr>
+<tr>
+<td valign="top" align="left">Reservoir pressure, psi</td>
+<td align="center">1470</td>
+<td valign="top" align="center"></td>
+<td valign="top" align="center"></td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="16" table-order="5" data-type-order="27">
+<div id="102118180429MS-tblwrp-5" content-type="structured"><p>To illustrate this, we use the same 5 × 4 semi-homogeneous model for testing used in Case 2. For this case, P01 has a shut-in time of 15 months, and the CMP-PW predicted production rates better match the simulated rates than the comseg-CM (Table 5). The CMP-PW results are less affected by the long shut-in (Figure 23). In particular, the comseg-CM estimated λs with shut-in underestimate the long-distance well pair λ’s (e.g., I01-P03).</p><p><b>Table 5</b> R<sup>2</sup> and RMSE (root mean-squared error) of predicted rates of wells for Case 4</p><p>Table 5 R<sup>2</sup> and RMSE (root mean-squared error) of predicted rates of wells for Case 4</p><table id="102118180429MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center" />
+<th valign="bottom" align="center">P01</th>
+<th valign="bottom" align="center">P02</th>
+<th valign="bottom" align="center">P03</th>
+<th valign="bottom" align="center">P04</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">CMP-PW</td>
+<td valign="bottom" align="center">RMSE</td>
+<td valign="bottom" align="center">0.002</td>
+<td valign="bottom" align="center">0.003</td>
+<td valign="bottom" align="center">0.005</td>
+<td valign="bottom" align="center">0.002</td>
+</tr>
+<tr>
+<td valign="top" align="left"></td>
+<td valign="bottom" align="center">R<sub>2</sub></td>
+<td valign="bottom" align="center">1.000</td>
+<td valign="bottom" align="center">0.996</td>
+<td valign="bottom" align="center">0.995</td>
+<td valign="bottom" align="center">0.998</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">comseg-CM</td>
+<td valign="bottom" align="center">RMSE</td>
+<td valign="bottom" align="center">0.006</td>
+<td valign="bottom" align="center">0.009</td>
+<td valign="bottom" align="center">0.008</td>
+<td valign="bottom" align="center">0.007</td>
+</tr>
+<tr>
+<td valign="top" align="left"></td>
+<td align="center">R<sub>2</sub></td>
+<td align="center">0.998</td>
+<td align="center">0.962</td>
+<td align="center">0.975</td>
+<td align="center">0.981</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="16" table-order="6" data-type-order="28">
+<div id="102118180429MS-tblwrp-6" content-type="structured"><p>Table 6 (Clarkson et al., 2011) summarizes some of the important reservoir and fluid properties. Two areas (windows) were chosen to study the effects of geology and well treatments on IWC.</p><p><b>Table 6</b> Some important East Pembina Field reservoir and fluid properties (Clarkson et al., 2011)</p><p>Table 6 Some important East Pembina Field reservoir and fluid properties <a href="#BIB1">(Clarkson et al., 2011)</a>
+</p><table id="102118180429MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th align="center">Reservoir Rock</th>
+<th align="center">Cardium ss and Conglomerate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Age</td>
+<td valign="bottom" align="center">U. Cretaceous</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Net Pay (Avg.)</td>
+<td valign="bottom" align="center">19.3 ft</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Porosity (Avg.)</td>
+<td valign="bottom" align="center">13.9%</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Permeability (Avg.)</td>
+<td valign="bottom" align="center">0.7 md</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Gravity</td>
+<td valign="bottom" align="center">37° API</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Initial oil viscosity</td>
+<td valign="bottom" align="center">1.4 cp</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Initial oil FVF</td>
+<td valign="bottom" align="center">1.19 RB/STB</td>
+</tr>
+<tr>
+<td align="left">Initial reservoir pressure</td>
+<td align="center">~1900 psi</td>
+</tr>
+</tbody>
+</table><br></div>
+<div>
+<div id="link-45">
+<div id="BIB1">C. R. Clarkson, P. K. Pedersen (2011). Production Analysis of Western Canadian Unconventional Light Oil Plays. Paper CSUG/SPE 149005 Presented at the Canadian Unconventional Resources Conference Calgary, 15-17 November.<br></div>
+</div>
+</div>
+</div>
+<div pdf-page="22" table-order="7" data-type-order="41">
+<div id="102118180429MS-tblwrp-7" content-type="structured"><p>In the first window area (Figure 33), there are 4 producers and one injector. We have chosen three time windows to study the effects of well treatments on interwell connectivity (Figure 34). We obtained a very good match between CMP-PW predicted and measured rates for all the three windows (Table 7).</p><p><b>Table 7</b> Window I62 - R<sup>2</sup> (total predicted vs total measured production rates) during each time window</p><p>Table 7 Window I62 - R<sup>2</sup> (total predicted vs total measured production rates) during each time window</p><table id="102118180429MS-Tbl_SPi-7" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Time Window</th>
+<th align="center">Start Date (dd/mm/yyyy)</th>
+<th align="center">End Date (dd/mm/yyyy)</th>
+<th valign="bottom" align="center">
+<sub>R</sub>
+<sup>2</sup>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center">
+<sub>1</sub>
+<sup>st</sup></td>
+<td valign="bottom" align="center">01/07/1970</td>
+<td valign="bottom" align="center">01/06/1974</td>
+<td valign="bottom" align="center">0.91</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<sub>2</sub>
+<sup>nd</sup></td>
+<td valign="bottom" align="center">01/06/1979</td>
+<td valign="bottom" align="center">01/12/1984</td>
+<td valign="bottom" align="center">0.95</td>
+</tr>
+<tr>
+<td align="center">
+<sub>3rd</sub></td>
+<td align="center">01/02/2000</td>
+<td align="center">01/07/2003</td>
+<td align="center">0.89</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="25" table-order="8" data-type-order="47">
+<div id="102118180429MS-tblwrp-8" content-type="structured"><p>This area is chosen from a location where the conglomerate is thinner than 1 meter. R2s of all three time windows are fair to good (Table 8). During the first period there was a retreated well outside of this area, which might affect the match accuracy.</p><p><b>Table 8</b> Window I40-I37-I18 - R<sup>2</sup> (total predicted vs total measured production rates) during each time window</p><p>Table 8 Window I40-I37-I18 - R<sup>2</sup> (total predicted vs total measured production rates) during each time window</p><table id="102118180429MS-Tbl_SPi-8" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Time Window</th>
+<th valign="bottom" align="center">Start Date (dd/mm/yyyy)</th>
+<th valign="bottom" align="center">End Date (dd/mm/yyyy)</th>
+<th valign="bottom" align="center">
+<sub>R</sub>
+<sup>2</sup>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center">
+<sub>1</sub>
+<sup>st</sup></td>
+<td valign="bottom" align="center">01/01/1967</td>
+<td valign="bottom" align="center">01/07/1971</td>
+<td valign="bottom" align="center">0.76</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<sub>2nd</sub></td>
+<td valign="bottom" align="center">01/08/1979</td>
+<td valign="bottom" align="center">01/09/1982</td>
+<td valign="bottom" align="center">0.83</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<sub>3rd</sub></td>
+<td align="center">01/06/1983</td>
+<td align="center">01/01/1990</td>
+<td align="center">0.91</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+</div>
+</div></html>

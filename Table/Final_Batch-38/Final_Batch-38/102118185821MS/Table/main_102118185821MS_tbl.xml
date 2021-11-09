@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185821MS.txt" extractionDate="2021-03-26T14:20:39Z">
+<doi>10.2118/185821-MS</doi>
+<pii>10.2118/185821-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="3" table-order="1" data-type-order="1">
+<table-wrap id="102118185821MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">According to the characteristics of the object multi-layered sandstone reservoir, the main uncertainty parameters are divided into static and dynamic categories, each category is further subdivided into multiple classes and sub-classes (Table 1). For each sub-class, some can be directly used as an uncertainty parameter, such as aquifer scale; while some need be further subdivided into multiple uncertainty parameters, such as the permeability. It can be further subdivided into multiple uncertainty parameters, such as uncertainty of relative permeability or ratio uncertainty between vertical permeability and horizontal permeability (Kv/Kh).</anchoringText>
+<label>Table 1</label>
+<caption>Classification of main uncertainty parameters of the multi-layered sandstone reservoir of Middle East</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Classification of main uncertainty parameters of the multi-layered sandstone reservoir of Middle East</caption-text>
+</formatted-caption>
+<table id="102118185821MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th align="center">Categories</th>
+<th align="center">Class</th>
+<th align="center">subclass</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3" align="center">Static model</td>
+<td align="center">Structure</td>
+<td align="center">Faults, structure interpretation, reservoir compartmentation</td>
+</tr>
+<tr>
+<td align="center">Reservoir</td>
+<td align="center">Reservoir thickness distribution, sand body scale, permeability distribution, properties cutoffs, interlayers, connectivity</td>
+</tr>
+<tr>
+<td align="center">Reserves</td>
+<td align="center">Oil water contact (OWC), original oil in place (OOIP)</td>
+</tr>
+<tr>
+<td rowspan="4" align="center">Dynamic model</td>
+<td align="center">Fluid property</td>
+<td align="center">Oil-water relative permeability, PVT data</td>
+</tr>
+<tr>
+<td align="center">Aquifer properties</td>
+<td align="center">Aquifer permeability, aquifer size, aquifer connectivity</td>
+</tr>
+<tr>
+<td align="center">Productivity and injectivity</td>
+<td align="center">skin factor, treatment quality of waste water</td>
+</tr>
+<tr>
+<td align="center">Equipment constraints</td>
+<td align="center">Pump efficiency, transport capacity outside the station, water source</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="2" data-type-order="6">
+<table-wrap id="102118185821MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The property and connectivity become worse from type A to type D. Based on the division results of reservoir types and three dynamic models, the reasonable waterflooding development strategies of different reservoir types are studied. As shown in Table 2, optimum well pattern and well spacing of different reservoir types and their combinations are determined based on the optimum indexes analysis within contract period, including water cut, ultimate recovery degree, average individual well oil production and average individual water injection.</anchoringText>
+<label>Table 2</label>
+<caption>Optimum well pattern and well spacing for different reservoir types</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Optimum well pattern and well spacing for different reservoir types</caption-text>
+</formatted-caption>
+<table id="102118185821MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th align="center">Reservoir type</th>
+<th align="center">Upside model</th>
+<th align="center">Expected model</th>
+<th align="center">Downside model</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Whole reservoir</td>
+<td align="center">1000m inverted nine-spot</td>
+<td align="center">700m five-spot</td>
+<td align="center">500m five-spot</td>
+</tr>
+<tr>
+<td align="center">Type A</td>
+<td align="center">1000m inverted nine-spot</td>
+<td align="center">1000m inverted nine-spot</td>
+<td align="center">1000m inverted nine-spot</td>
+</tr>
+<tr>
+<td align="center">Type B</td>
+<td align="center">1000m inverted nine-spot</td>
+<td align="center">1000m inverted nine-spot</td>
+<td align="center">700m five-spot</td>
+</tr>
+<tr>
+<td align="center">Type C</td>
+<td align="center">1000m inverted nine-spot</td>
+<td align="center">700m five-spot</td>
+<td align="center">500m five-spot</td>
+</tr>
+<tr>
+<td align="center">Type D</td>
+<td align="center">700m five-spot</td>
+<td align="center">700m five-spot</td>
+<td align="center">500m five-spot</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

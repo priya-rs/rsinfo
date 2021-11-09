@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118183902MS.txt" extractionDate="2021-03-25T10:39:13Z">
+<doi>10.2118/183902-MS</doi>
+<pii>10.2118/183902-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="10" table-order="1" data-type-order="7">
+<table-wrap id="102118183902MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Table 1 shows the comparison for the simulation run time and speedup factor using 25 nodes (500 cores) where the run time was reduced significantly for the MTL-MG method with boundary coarsening. Figure 7 compares pressure, oil and gas production, and water cuts. The boundary MTL-MG method essentially overlays the results of the original fine-grid model but at the fraction of the computational cost.</anchoringText>
+<label>Table 1</label>
+<caption>Run time and speedup factor comparison for test case 1.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Run time and speedup factor comparison for test case 1.</caption-text>
+</formatted-caption>
+<table id="102118183902MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">
+<a id="bookmark0">
+</a>
+<a id="bookmark1">
+</a>Use 500 Cores</th>
+<th valign="top" align="center">Normalized Run Time</th>
+<th valign="top" align="center">Theoretical Speedup Factor</th>
+<th valign="top" align="center">Actual Speedup Factor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Base case</td>
+<td valign="top" align="center">1.00</td>
+<td valign="top" align="center">1.00</td>
+<td valign="top" align="center">1.00</td>
+</tr>
+<tr>
+<td valign="top" align="center">Boundary</td>
+<td valign="top" align="center">0.58</td>
+<td valign="top" align="center">2.24</td>
+<td valign="top" align="center">1.73</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="12" table-order="2" data-type-order="10">
+<table-wrap id="102118183902MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The number of active cells reduced to 23.7 million after applying the vertical coarsening to the peripheral aquifer and 17 million active cells for both peripheral and bottom aquifer coarsening. Table 2 compares the simulation run time and speedup factor using 50 nodes (1,000 cores). Figure 9 shows the results comparison of the average pressure, production rates, and water cuts. The results shows a nearly perfect match of the MTL-MG method with the original base case.</anchoringText>
+<label>Table 2</label>
+<caption>Run time and speedup factor comparison for test case 2.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Run time and speedup factor comparison for test case 2.</caption-text>
+</formatted-caption>
+<table id="102118183902MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Use 1,000 Cores</th>
+<th valign="top" align="center">Normalized Run Time</th>
+<th valign="top" align="center">Theoretical Speedup Factor</th>
+<th valign="top" align="center">Actual Speedup Factor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Base case</td>
+<td valign="top" align="center">1.00</td>
+<td valign="top" align="center">1.00</td>
+<td valign="top" align="center">1.00</td>
+</tr>
+<tr>
+<td valign="top" align="center">Boundary</td>
+<td valign="top" align="center">0.77</td>
+<td valign="top" align="center">1.85</td>
+<td valign="top" align="center">1.30</td>
+</tr>
+<tr>
+<td valign="top" align="center">Boundary + Bottom</td>
+<td valign="top" align="center">0.52</td>
+<td valign="top" align="center">2.58</td>
+<td valign="top" align="center">1.92</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="13" table-order="3" data-type-order="13">
+<table-wrap id="102118183902MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">The number of active cells was reduced to 4.75 million after applying vertical coarsening to the peripheral aquifer and to 3.68 million active cells after applying the coarsening to the bottom aquifer. Table 3 shows the runtime and speedup factor comparisons between the base fine-grid run and accelerated aquifer run using 40 compute nodes (800 cores). Figure 11 shows the results comparing of average pressure, production rates, and water cuts of aquifer acceleration methods against the fine-grid base case.</anchoringText>
+<label>Table 3</label>
+<caption>Run time and speedup factor comparison for test case 3.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Run time and speedup factor comparison for test case 3.</caption-text>
+</formatted-caption>
+<table id="102118183902MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Use 800 Cores</th>
+<th valign="top" align="center">Normalized Run Time</th>
+<th valign="top" align="center">Theoretical Speedup Factor</th>
+<th valign="top" align="center">Actual Speedup Factor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Base case</td>
+<td valign="top" align="center">1.00</td>
+<td valign="top" align="center">1.00</td>
+<td valign="top" align="center">1.00</td>
+</tr>
+<tr>
+<td valign="top" align="center">Boundary</td>
+<td valign="top" align="center">0.80</td>
+<td valign="top" align="center">1.28</td>
+<td valign="top" align="center">1.25</td>
+</tr>
+<tr>
+<td valign="top" align="center">Boundary + Bottom</td>
+<td valign="top" align="center">0.625</td>
+<td valign="top" align="center">1.61</td>
+<td valign="top" align="center">1.60</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

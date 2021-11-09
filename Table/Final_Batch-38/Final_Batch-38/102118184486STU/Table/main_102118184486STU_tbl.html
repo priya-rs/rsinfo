@@ -1,0 +1,291 @@
+﻿<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8" ></head><div>
+<div><b>Meta Informations:</b><p>SPE_Society_of_Petroleum_Engineers</p><p>DOI: 10.2118/184486-STU<br>PII: 10.2118/184486-STU<br></p></div>
+<div>
+<div pdf-page="8" table-order="1" data-type-order="8">
+<div id="102118184486STU-tblwrp-1" content-type="structured"><p>Table 1 shows matrix core properties. The core is treated as a homogeneous medium with constant porosity at 7.5% and permeability at 1.8 μd. For this base case, a coarse model (22 × 11 × 11) was used due to limitation on computing capabilities. We found that simulation run time increased significantly when more grid blocks were added. The effect of grid refinement was studied using a simplified 1-D model and results are summarized in Appendix B.</p><p><b>Table 1</b> Reservoir dimensions and properties for a laboratory model.</p><p>Table 1 Reservoir dimensions and properties for a laboratory model.</p><table id="102118184486STU-Tbl_SPi-1" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="center">
+<i>N<sub>i</sub>
+</i>, <i>N<sub>j</sub>
+</i>, <i>N<sub>k</sub>
+</i>(Cartesian Grid)</td>
+<td valign="top" align="center">22 × 11 × 11</td>
+</tr>
+<tr>
+<td valign="top" align="center">Core Length (inch)</td>
+<td valign="top" align="center">2</td>
+</tr>
+<tr>
+<td valign="top" align="center">Core Diameter (inch)</td>
+<td valign="top" align="center">1</td>
+</tr>
+<tr>
+<td valign="top" align="center">Matrix Porosity</td>
+<td valign="top" align="center">7.5%</td>
+</tr>
+<tr>
+<td valign="top" align="center">Matrix Permeability (μd)</td>
+<td valign="top" align="center">1.8</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="9" table-order="2" data-type-order="9">
+<div id="102118184486STU-tblwrp-2" content-type="structured"><p>Table 2 shows that a close match to experimental saturation pressure is achieved with an error of less than 0.3%. Figures 8 (a) to (d) summarize the comparison between lab data and model predictions for both CCE and DLE conducted at 237°F. There is an almost perfect agreement with the simulated properties except for oil phase compressibility in Figure 8 (b). It appears that the simulated result matches more closely with the experimental data in the high-pressure range than the low-pressure range. We argue that both are in the same order of magnitude and therefore within the range of reasonable accuracy. Moreover, we do not anticipate large changes in pressure as the recovery process is not pressure depletion.</p><p><b>Table 2</b> Regression study for bubble-point pressure.</p><p>Table 2 Regression study for bubble-point pressure.</p><table id="102118184486STU-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">Model Prediction</th>
+<th valign="top" align="center">Experimental Data</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Saturation Pressure (psia)</td>
+<td valign="top" align="center">1991.51</td>
+<td valign="top" align="center">1986</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="11" table-order="3" data-type-order="12">
+<div id="102118184486STU-tblwrp-3" content-type="structured"><p>Figure 9 is a PT diagram constructed from the optimized EOS model that has shown to be capable of reproducing the phase behavior of Bakken reservoir fluid. The bubble point pressure is labelled as a red triangle. Table 3 summarizes the final pseudo-component description and input for EOS calculations. Note that the fluid model created for live oil (2nd column) is then used in a two-phase flash calculation to obtain molar compositions of dead oil (3rd column) deprived of light, volatile hydrocarbon components. This dead oil is considered more representative of the fluid sample used for our miscible CO2 experiment and its composition is used as the initial input for the subsequent flow simulations.</p><p><b>Table 3</b> EOS parameters for optimized compositional model lumped into 12 components.</p><p>Table 3 EOS parameters for optimized compositional model lumped into 12 components.</p><table id="102118184486STU-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Component</th>
+<th valign="top" align="center">Molar Composition of Live Oil</th>
+<th valign="top" align="center">Molar Composition of Flashed Liquids</th>
+<th valign="top" align="center">Pc (atm)</th>
+<th valign="top" align="center">Tc (K)</th>
+<th valign="top" align="center">Acentric Factor</th>
+<th valign="top" align="center">MW (g/mol)</th>
+<th valign="top" align="center">Volume Shift</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">CO<sub>2</sub>
+</td>
+<td valign="top" align="center">0.00260</td>
+<td valign="top" align="center">0.00007</td>
+<td valign="top" align="center">72.80</td>
+<td valign="top" align="center">304.20</td>
+<td valign="top" align="center">0.2250</td>
+<td valign="top" align="center">44.01</td>
+<td valign="top" align="center">-0.0817</td>
+</tr>
+<tr>
+<td valign="top" align="center">N<sub>2</sub>-CH<sub>4</sub>
+</td>
+<td valign="top" align="center">0.25056</td>
+<td valign="top" align="center">0.00196</td>
+<td valign="top" align="center">44.89</td>
+<td valign="top" align="center">187.59</td>
+<td valign="top" align="center">0.0094</td>
+<td valign="top" align="center">16.58</td>
+<td valign="top" align="center">-0.1609</td>
+</tr>
+<tr>
+<td valign="top" align="center">C<sub>2</sub>H<sub>6</sub>
+</td>
+<td valign="top" align="center">0.11868</td>
+<td valign="top" align="center">0.00846</td>
+<td valign="top" align="center">48.20</td>
+<td valign="top" align="center">305.40</td>
+<td valign="top" align="center">0.0980</td>
+<td valign="top" align="center">30.07</td>
+<td valign="top" align="center">-0.1134</td>
+</tr>
+<tr>
+<td valign="top" align="center">C<sub>3</sub>H<sub>8</sub>
+</td>
+<td valign="top" align="center">0.09758</td>
+<td valign="top" align="center">0.02461</td>
+<td valign="top" align="center">41.90</td>
+<td valign="top" align="center">369.80</td>
+<td valign="top" align="center">0.1520</td>
+<td valign="top" align="center">44.10</td>
+<td valign="top" align="center">-0.0863</td>
+</tr>
+<tr>
+<td valign="top" align="center">IC<sub>4</sub>-NC<sub>4</sub>
+</td>
+<td valign="top" align="center">0.06399</td>
+<td valign="top" align="center">0.04314</td>
+<td valign="top" align="center">37.17</td>
+<td valign="top" align="center">421.49</td>
+<td valign="top" align="center">0.1894</td>
+<td valign="top" align="center">58.12</td>
+<td valign="top" align="center">-0.0711</td>
+</tr>
+<tr>
+<td valign="top" align="center">IC<sub>5</sub>-NC<sub>5</sub>
+</td>
+<td valign="top" align="center">0.04029</td>
+<td valign="top" align="center">0.05275</td>
+<td valign="top" align="center">33.34</td>
+<td valign="top" align="center">466.18</td>
+<td valign="top" align="center">0.2421</td>
+<td valign="top" align="center">72.15</td>
+<td valign="top" align="center">-0.0470</td>
+</tr>
+<tr>
+<td valign="top" align="center">C<sub>6</sub>
+</td>
+<td valign="top" align="center">0.03379</td>
+<td valign="top" align="center">0.05922</td>
+<td valign="top" align="center">32.46</td>
+<td valign="top" align="center">507.50</td>
+<td valign="top" align="center">0.2750</td>
+<td valign="top" align="center">86.00</td>
+<td valign="top" align="center">-0.0592</td>
+</tr>
+<tr>
+<td valign="top" align="center">C<sub>7</sub>-C<sub>10</sub>
+</td>
+<td valign="top" align="center">0.18346</td>
+<td valign="top" align="center">0.37769</td>
+<td valign="top" align="center">25.15</td>
+<td valign="top" align="center">627.21</td>
+<td valign="top" align="center">0.3205</td>
+<td valign="top" align="center">137.76</td>
+<td valign="top" align="center">0.0037</td>
+</tr>
+<tr>
+<td valign="top" align="center">C<sub>11</sub>-C<sub>13</sub>
+</td>
+<td valign="top" align="center">0.07872</td>
+<td valign="top" align="center">0.16270</td>
+<td valign="top" align="center">20.22</td>
+<td valign="top" align="center">684.14</td>
+<td valign="top" align="center">0.4595</td>
+<td valign="top" align="center">198.20</td>
+<td valign="top" align="center">0.0522</td>
+</tr>
+<tr>
+<td valign="top" align="center">C<sub>14</sub>-C<sub>17</sub>
+</td>
+<td valign="top" align="center">0.06091</td>
+<td valign="top" align="center">0.12592</td>
+<td valign="top" align="center">17.15</td>
+<td valign="top" align="center">733.42</td>
+<td valign="top" align="center">0.5751</td>
+<td valign="top" align="center">255.58</td>
+<td valign="top" align="center">0.0752</td>
+</tr>
+<tr>
+<td valign="top" align="center">C<sub>18</sub>-C<sub>21</sub>
+</td>
+<td valign="top" align="center">0.03244</td>
+<td valign="top" align="center">0.06706</td>
+<td valign="top" align="center">15.74</td>
+<td valign="top" align="center">791.36</td>
+<td valign="top" align="center">0.7013</td>
+<td valign="top" align="center">322.90</td>
+<td valign="top" align="center">0.0998</td>
+</tr>
+<tr>
+<td valign="top" align="center">C<sub>22+</sub>
+</td>
+<td valign="top" align="center">0.03696</td>
+<td valign="top" align="center">0.07641</td>
+<td valign="top" align="center">10.57</td>
+<td valign="top" align="center">1066.91</td>
+<td valign="top" align="center">1.1184</td>
+<td valign="top" align="center">344.97</td>
+<td valign="top" align="center">0.0868</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="12" table-order="4" data-type-order="13">
+<div id="102118184486STU-tblwrp-4" content-type="structured"><p>A multi-contact miscibility pressure of dead oil with CO2 is also simulated at a temperature of 38°C and compared with experimental measurements in the lab at the same temperature, as shown in Table 4. The agreement is satisfactory and within the range of available correlations for MMP.</p><p><b>Table 4</b> Comparsion of multi-contact miscibility (MCM) pressure with experimental measurement at 38°C using dead Bakken crude.</p><p>Table 4 Comparsion of multi-contact miscibility (MCM) pressure with experimental measurement at 38°C using dead Bakken crude.</p><table id="102118184486STU-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">Method of Characteristics</th>
+<th valign="top" align="center">Method of Multiple-Mixing Cells</th>
+<th valign="top" align="center">Experimental Measurement</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">MMP (psia)</td>
+<td valign="top" align="center">1069.5</td>
+<td valign="top" align="center">1175.5</td>
+<td valign="top" align="center">1200</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="12" table-order="5" data-type-order="14">
+<div id="102118184486STU-tblwrp-5" content-type="structured"><p>Three-phase relative permeability curves for a matrix system were generated using Brooks-Corey's equations, based on parameters given in Table 5 (Kurtoglu, 2013). Capillary pressure was neglected in the simulation because the experiment was conducted at miscible conditions. Figure 10 plots matrix relative permeability data in both water-oil and gas-oil systems.</p><p><b>Table 5</b> Parameters used to generate relative permeability curves for matrix system in CMG simulator by Brooks-Corey Equations (Kurtoglu, 2013).</p><p>Table 5 Parameters used to generate relative permeability curves for matrix system in CMG simulator by Brooks-Corey Equations <a href="#BIB4">(Kurtoglu, 2013)</a>.</p><table id="102118184486STU-Tbl_SPi-5" frame="hsides">
+<tbody>
+<tr>
+<td colspan="4" align="left">
+<b>Matrix System</b>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="left">Water-Oil</td>
+<td colspan="2" align="left">Gas-Oil</td>
+</tr>
+<tr>
+<td valign="top" align="left">k<sub>rw</sub>
+</td>
+<td valign="top" align="left">0.024</td>
+<td valign="top" align="left">k<sub>rg</sub>
+</td>
+<td valign="top" align="left">0.096</td>
+</tr>
+<tr>
+<td valign="top" align="center">k<sub>row</sub>
+</td>
+<td align="left">0.103</td>
+<td align="left">k<sub>rog</sub>
+</td>
+<td align="left">0.106</td>
+</tr>
+<tr>
+<td valign="top" align="left">S<sub>wr</sub>
+</td>
+<td valign="top" align="left">0.531</td>
+<td valign="top" align="left">S<sub>1g</sub>
+</td>
+<td valign="top" align="left">0.730</td>
+</tr>
+<tr>
+<td align="left">S<sub>orw</sub>
+</td>
+<td align="left">0.211</td>
+<td align="left">S<sub>gr</sub>
+</td>
+<td align="left">0</td>
+</tr>
+<tr>
+<td align="left">nw</td>
+<td align="left">1.5</td>
+<td align="left">ng</td>
+<td align="left">2</td>
+</tr>
+<tr>
+<td align="left">no</td>
+<td align="left">2.5</td>
+<td align="left">nog</td>
+<td align="left">2.5</td>
+</tr>
+</tbody>
+</table><br></div>
+<div>
+<div id="link-29">
+<div id="BIB4">Kurtoglu B. Kurtoglu 2013. Integrated Reservoir Characterization and Modeling in Support of Enhanced Oil Recovery for Bakken . Ph.D. Dissertation, Colorado School of Mines.<br></div>
+</div>
+</div>
+</div>
+</div>
+</div></html>

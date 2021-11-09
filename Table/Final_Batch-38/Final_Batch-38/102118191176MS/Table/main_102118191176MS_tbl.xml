@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191176MS.txt" extractionDate="2021-03-29T11:47:01Z">
+<doi>10.2118/191176-MS</doi>
+<pii>10.2118/191176-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="3" table-order="1" data-type-order="2">
+<table-wrap id="102118191176MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Average properties of the fluids and reservoir are shown in Table 1. Crude oil specific gravity, viscosity, reservoir pressure, temperature, permeability, top depth and porosity are commonly selected for screening purposes.</anchoringText>
+<label>Table 1</label>
+<caption>Average Reservoir and Fluids Parameters</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Average Reservoir and Fluids Parameters</caption-text>
+</formatted-caption>
+<table id="102118191176MS-Tbl_SPi-1" frame="hsides">
+<tbody>
+<tr>
+<td valign="bottom" align="left">Temperature (° F)</td>
+<td valign="bottom" align="center">135</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Pressure (Psi)</td>
+<td valign="bottom" align="center">2575</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Avg. Porosity (%)</td>
+<td valign="bottom" align="center">27</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Avg. Permeability (mD)</td>
+<td valign="bottom" align="center">100</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Avg SW</td>
+<td valign="bottom" align="center">0.28</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Top Depth (Ft)</td>
+<td valign="bottom" align="center">3500</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Lithology</td>
+<td valign="bottom" align="center">Sandstone</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Specific Gravity</td>
+<td valign="bottom" align="center">0.93</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Viscosity</td>
+<td valign="bottom" align="center">90</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="4" table-order="2" data-type-order="3">
+<table-wrap id="102118191176MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">A binary technical screening was done to establish the technical feasibility of implementing IOR/EOR processes, Table 2 presents the results of the qualitative evaluation matrix and weighted matrix which resulted ranking the top three (3) processes as WAG injection, CO2 injection and Water injection as first, second and third methods respectively.</anchoringText>
+<label>Table 2</label>
+<caption>Qualitative Matrix for IOR/EOR Technologies with Ranking</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Qualitative Matrix for IOR/EOR Technologies with Ranking</caption-text>
+</formatted-caption>
+<table id="102118191176MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center" bgcolor="#DDEBF7">Recovery Processes</th>
+<th valign="top" align="center" bgcolor="#DDEBF7">Technical Feasibility</th>
+<th valign="top" align="center" bgcolor="#DDEBF7">Score Matrix</th>
+<th valign="bottom" align="center" bgcolor="#DDEBF7">Ranking</th>
+<th valign="bottom" align="center" bgcolor="#DDEBF7">Comments</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DDEBF7">
+<b>Gas Injection (Secondary Recovery)</b>
+</td>
+<td valign="bottom" align="center">No</td>
+<td valign="bottom" align="center">
+<b>21</b>
+</td>
+<td valign="bottom" align="center">7</td>
+<td valign="bottom" align="left">Limited by source availability &amp; reservoir parameters.</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DDEBF7">
+<b>Water Injection</b>
+</td>
+<td valign="bottom" align="center">Yes</td>
+<td valign="bottom" align="center">
+<b>27</b>
+</td>
+<td valign="bottom" align="center" bgcolor="#DDEBF7">3</td>
+<td valign="bottom" align="left">Limited by reservoir parameters, recommended pilot test.</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DDEBF7">
+<b>Nitrogen Injection</b>
+</td>
+<td valign="bottom" align="center">No</td>
+<td valign="bottom" align="center">
+<b>20</b>
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="left">Limited by depth, pressure &amp; dip.</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DDEBF7">
+<b>Natural Gas injection (Miscible)</b>
+</td>
+<td valign="bottom" align="center">No</td>
+<td valign="bottom" align="center">24</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="left">Limited by depth, pressure, dip &amp; availability of source.</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DDEBF7">
+<b>CO<sub>2</sub> Injection</b>
+</td>
+<td valign="bottom" align="center">Yes</td>
+<td valign="bottom" align="center">
+<b>27</b>
+</td>
+<td valign="bottom" align="center" bgcolor="#DDEBF7">
+<b>2</b>
+</td>
+<td valign="bottom" align="left">Very good reservoir parameters for application.</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DDEBF7">
+<b>Alternate Water and Gas Injection (WAG) (Miscible)</b>
+</td>
+<td valign="bottom" align="center">Yes</td>
+<td valign="bottom" align="center">29</td>
+<td valign="bottom" align="center" bgcolor="#DDEBF7">1</td>
+<td valign="bottom" align="left">Very good reservoir parameters for application. Does not require permanent surface facilitites.</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DDEBF7">
+<b>Alcali - Surfactant Injection</b>
+</td>
+<td valign="bottom" align="center">Possible</td>
+<td valign="bottom" align="center">25</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="left">Good reservoir parameters for application but low recovery factors.</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DDEBF7">
+<b>Alcali - Surfactant - Polymer (ASP) Injection</b>
+</td>
+<td valign="bottom" align="center">Possible</td>
+<td valign="bottom" align="center">23</td>
+<td valign="bottom" align="center">6</td>
+<td valign="bottom" align="left">Good recovery factors at lab levels.</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DDEBF7">
+<b>Solvent Bottom Hole Injection</b>
+</td>
+<td valign="bottom" align="center">Not Applicable</td>
+<td valign="bottom" align="center">
+<b>18</b>
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="left">Mostly for Extra Heavy Oils.</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DDEBF7">
+<b>Steam Injection</b>
+</td>
+<td valign="bottom" align="center">Possible</td>
+<td valign="bottom" align="center">
+<b>20</b>
+</td>
+<td valign="bottom" align="center">8</td>
+<td valign="bottom" align="left">Limited by reservoir characteristics &amp; offshore operations.</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DDEBF7">
+<b>In Situ Combustion (ISC)</b>
+</td>
+<td valign="bottom" align="center">No</td>
+<td valign="bottom" align="center">
+<b>21</b>
+</td>
+<td valign="bottom" align="center">7</td>
+<td valign="bottom" align="left">Limited by operational facilities</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DDEBF7">
+<b>Air Injection</b>
+</td>
+<td valign="bottom" align="center">Yes</td>
+<td valign="bottom" align="center">25</td>
+<td valign="bottom" align="center">4</td>
+<td valign="bottom" align="left">Good reservoir parameters for application, growing technology</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DDEBF7">
+<b>Microorganism (MEOR)</b>
+</td>
+<td valign="bottom" align="center">Yes</td>
+<td valign="bottom" align="center">17</td>
+<td valign="bottom" align="center">9</td>
+<td valign="bottom" align="left">Incipient method, few cases are reported as EOR trials, requires in depth study to design pilot.</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="4" table-order="3" data-type-order="4">
+<table-wrap id="102118191176MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Table 3 shows the results of standard statistical analysis of recovery factors for the selected methods. It was observed that WAG and CO2 injection presented most likely values of 16% recovery while water injection had a most likely value of recovery of 19%.</anchoringText>
+<label>Table 3</label>
+<caption>Results of Study of Recovery Factors</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Results of Study of Recovery Factors</caption-text>
+</formatted-caption>
+<table id="102118191176MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center" bgcolor="#DDEBF7">IOR/EOR Process</th>
+<th valign="bottom" align="center" bgcolor="#DDEBF7">Min</th>
+<th valign="bottom" align="center" bgcolor="#DDEBF7">Most Likely (P50)</th>
+<th valign="bottom" align="center" bgcolor="#DDEBF7">Max</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DDEBF7">Alternate Water and Gas Injection (WAG) (Miscible)</td>
+<td valign="bottom" align="center">12</td>
+<td valign="bottom" align="center">16</td>
+<td valign="bottom" align="center">29</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DDEBF7">CO<sub>2</sub> Injection</td>
+<td valign="bottom" align="center">8</td>
+<td valign="bottom" align="center">16</td>
+<td valign="bottom" align="center">29</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DDEBF7">Water Injection</td>
+<td valign="bottom" align="center">12</td>
+<td valign="bottom" align="center">19</td>
+<td valign="bottom" align="center">35</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

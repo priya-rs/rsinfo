@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118184377MS.txt" extractionDate="2021-03-23T15:38:58Z">
+<doi>10.2118/184377-MS</doi>
+<pii>10.2118/184377-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr3">This paper focuses largely on reservoir ‘A’ with over 5 wells, 3 completions and over 10 years of production with a combined average production rate of 1.5Mbopd (Figure 1). To date, the cumulative oil produced is about 85% of the in-place volume.</anchoringText>
+<image-wrap id="102118184377MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118184377MS_i_1.tif" id="ImgLink-1" />
+<caption>Top Structural Map of Mangu field showing relative well positions and hydrocarbon extent</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Top Structural Map of Mangu field showing relative well positions and hydrocarbon extent</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr4"> </anchoringText>
+<image-wrap id="102118184377MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118184377MS_i_2.tif" id="ImgLink-2" />
+<caption>Mangu field cross section</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Mangu field cross section</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

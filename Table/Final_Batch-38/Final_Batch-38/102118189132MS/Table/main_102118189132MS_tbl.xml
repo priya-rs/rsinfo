@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189132MS.txt" extractionDate="2021-03-29T14:51:18Z">
+<doi>10.2118/189132-MS</doi>
+<pii>10.2118/189132-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="4" table-order="1" data-type-order="3">
+<table-wrap id="102118189132MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Both EA and EV are not static and usually progresses, as production continue, with time. Table 1 below presents a synopsis of the key parameters that influences both efficiencies.</anchoringText>
+<label>Table 1</label>
+<caption>Parameters influencing EA and EV.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Parameters influencing EA and EV.</caption-text>
+</formatted-caption>
+<table id="102118189132MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Efficiencies</th>
+<th valign="top" align="center">E<sub>
+<sub>A</sub>
+</sub>
+</th>
+<th valign="top" align="center">E<sub>
+<sub>V</sub>
+</sub>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="6" valign="top" align="center">Influencing Parameters</td>
+<td valign="top" align="left">Fluid mobilities</td>
+<td valign="top" align="left">Fluid mobilities</td>
+</tr>
+<tr>
+<td valign="top" align="left">Pattern type</td>
+<td valign="top" align="left">Degree of gravity segregation</td>
+</tr>
+<tr>
+<td valign="top" align="left">Volume of water Injected/Influx</td>
+<td valign="top" align="left">Volume of water Injected/Influx</td>
+</tr>
+<tr>
+<td valign="top" align="left">Areal heterogeneity</td>
+<td valign="top" align="left">Vertical heterogeneity</td>
+</tr>
+<tr>
+<td valign="top" align="left">Well spacing &amp; count</td>
+<td valign="top" align="left">Shallowest well perforation</td>
+</tr>
+<tr>
+<td valign="top" align="left">Delineation of reservoir boundaries</td>
+<td valign="top" align="left">Coning</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="6" table-order="2" data-type-order="4">
+<table-wrap id="102118189132MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The use of benchmarking tools in the industry has been a traditional means to evaluate a controversial position. Recovery &#x003E; 70 % especially for water driven oil reservoir has long been recognized by various authorities within the Petroleum industry (see Table 2 below). Table 2 below provides a synopsis of the recovery ranges and the respective sources for the different drive mechanism prevalent under primary recovery.</anchoringText>
+<label>Table 2</label>
+<caption>Recovery range for various drive mechanism and their sources</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Recovery range for various drive mechanism and their sources</caption-text>
+</formatted-caption>
+<table id="102118189132MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Water Drive</th>
+<th valign="top" align="center">Gas Cap drive</th>
+<th valign="top" align="center">Solution drive</th>
+<th valign="top" align="center">Gravity Drainage</th>
+<th valign="top" align="center">Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Excess of 50 %</td>
+<td valign="top" align="left">25 – 35 %</td>
+<td valign="top" align="left">Seldom exceeds 30%</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left"> <link href="BIB2">L.P Dake (fundamentals of RE_ 1978)</link>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">35 – 75 %</td>
+<td valign="top" align="left">20 – 40 %</td>
+<td valign="top" align="left">5– 30 %</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+<link href="BIB3"> T. Ahmed (Reservoir Engineering handbook_2<sup>nd</sup>
+<sup>
+</sup>Edition 2001) </link>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Up to 60 %</td>
+<td valign="top" align="left">Up to 30 %</td>
+<td valign="top" align="left">Up to 20 %</td>
+<td valign="top" align="left">Up to 40 %</td>
+<td valign="top" align="left">
+<link href="BIB4"> Ivan Sandrea (Statoil Hydro) and Rafael Sandrea _ 2007 (IPC) {Global Oil Reserves – Recovery Factors Leave Vast Target for EOR Technologies.</link>}</td>
+</tr>
+<tr>
+<td valign="top" align="left">50 – 80 %</td>
+<td valign="top" align="left">20 – 35 %</td>
+<td valign="top" align="left">10 – 30 %</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+<link href="BIB5"> SPE Video Series</link> </td>
+</tr>
+<tr>
+<td valign="top" align="left">35 – 75 %</td>
+<td valign="top" align="left">20 – 40 %</td>
+<td valign="top" align="left">5– 30 %</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+<link href="BIB6"> SGP Lecture material (Module 5)</link>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">15 – 60 %</td>
+<td valign="top" align="left">15 – 40%</td>
+<td valign="top" align="left">10 – 25 %</td>
+<td valign="top" align="left">15 – 80 %*</td>
+<td valign="top" align="left">
+<link href="BIB7"> Edward. D. Holstein (SPE PE handbook vol 5b_2007)</link> </td>
+</tr>
+<tr>
+<td valign="top" align="left">35 – 75 %</td>
+<td valign="top" align="left">20 – 40 %</td>
+<td valign="top" align="left">5 – 30 %</td>
+<td valign="top" align="left">5 – 85 %</td>
+<td valign="top" align="left">Oil field review (schlumberger_2016)</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-18" type="bib">
+<bib id="BIB2">
+<label>Dake, (1978)</label>
+<author>
+<first-name>L. P.</first-name>
+<last-name>Dake</last-name>
+</author>: <article-title>Fundamentals of Reservoir Engineering, Elsevier Science B.V., Amsterdam</article-title>
+<pubDate>(1978)</pubDate>, <pages>
+<first-page>84</first-page>
+<last-page>94</last-page>
+</pages>.</bib>
+</linkTarget>
+<linkTarget id="link-19" type="bib">
+<bib id="BIB3">
+<label>Tarek, (2001)</label>
+<author>
+<first-name>Ahmed</first-name>
+<last-name>Tarek</last-name>
+</author>: <article-title>Reservoir Engineering Handbook, Butterworth-Heinemann., Woburn, MA</article-title>
+<pubDate>(2001)</pubDate>, <pages>
+<first-page>718</first-page>
+<last-page>730</last-page>
+</pages>.</bib>
+</linkTarget>
+<linkTarget id="link-20" type="bib">
+<bib id="BIB4">
+<label>Sandrea and Sandrea, (Nov 2007)</label>
+<author>
+<first-name>Ivan</first-name>
+<last-name>Sandrea</last-name>
+</author> and <author>
+<first-name>Rafael</first-name>
+<last-name>Sandrea</last-name>
+</author>: <article-title>"Global Oil Reserves - Recovery Factors Leave Vast Target for EOR Technologies," </article-title>
+<journal-title>Oil &amp; Gas Journal </journal-title>
+<pubDate>(Nov 2007)</pubDate>, <pages>
+<first-page>6</first-page>
+</pages>.</bib>
+</linkTarget>
+<linkTarget id="link-21" type="bib">
+<bib id="BIB5">
+<journal-title>Shell Open University: Shell Graduate Programme: Reservoir Engineering Foundation –</journal-title> <article-title>Module 5_Reservoir Dynamics and Material Balance</article-title>, <pubDate>(2013)</pubDate>
+<pages>
+<first-page>53</first-page>
+<last-page>70</last-page>
+</pages>.</bib>
+</linkTarget>
+<linkTarget id="link-22" type="bib">
+<bib id="BIB6">SPE Lecture videos series:</bib>
+</linkTarget>
+<linkTarget id="link-23" type="bib">
+<bib id="BIB7">
+<label>Edward, (2007)</label>
+<author>
+<first-name>D.</first-name>
+<last-name>Edward</last-name>
+</author>
+<article-title>Holstein (editor): Petroleum Engineering Handbook</article-title>, <journal-title>Society of Petroleum Engineers (SPE)</journal-title>, Vol . V(B)<pubDate>(2007)</pubDate>,<volume>903</volume>,<pages>
+<first-page>933</first-page>
+<last-page>935</last-page>
+</pages>
+</bib>
+</linkTarget>
+</appendix>
+</docTable>
+<docTable pdf-page="7" table-order="3" data-type-order="5">
+<table-wrap id="102118189132MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">There are clear real cases where recoveries from naturally driven oil systems have exceeded 70 %. Table 3 below illustrates the recovery to date and the projected end of life recovery - for a few real cases by an operator in the Niger Delta.</anchoringText>
+<label>Table 3</label>
+<caption>Examples of reservoirs under natural depletion with high recovery</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Examples of reservoirs under natural depletion with high recovery</caption-text>
+</formatted-caption>
+<table id="102118189132MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Reservoirs</th>
+<th valign="top" align="center">To date RF (%)</th>
+<th valign="top" align="center">
+<b>*RF (%) to end of life</b>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">EPUK F0000A</td>
+<td valign="top" align="left">73.6</td>
+<td valign="top" align="left">79.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">TANA F8000N</td>
+<td valign="top" align="left">70.5</td>
+<td valign="top" align="left">70.5</td>
+</tr>
+<tr>
+<td valign="top" align="left">SAGR D4000X</td>
+<td valign="top" align="left">65.3</td>
+<td valign="top" align="left">70.0</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

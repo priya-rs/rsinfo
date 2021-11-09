@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187497MS.txt" extractionDate="2021-03-27T10:04:50Z">
+<doi>10.2118/187497-MS</doi>
+<pii>10.2118/187497-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="6" table-order="1" data-type-order="5">
+<table-wrap id="102118187497MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">From analysis of rate-material balance time plots (sample plot provided in Fig. 4), it is found that roughly half the wells in the study have attained boundary dominated flow, as tabulated in Table 1. Two reservoir models are utilized in RTA. The first is a homogeneous model. Despite several wells having exited transient flow, much of their production history comes from the transient state; therefore, the second reservoir model utilized is a dual-porosity transient slab model. As discussed later, this permits estimation of uncertainty.</anchoringText>
+<label>Table 1</label>
+<caption>Tabulation of flow regimes for study wells.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Tabulation of flow regimes for study wells.</caption-text>
+</formatted-caption>
+<table id="102118187497MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Well</th>
+<th valign="top" align="center">Flow Regime</th>
+<th valign="top" align="center">Well</th>
+<th valign="top" align="center">Flow Regime</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Well-01</td>
+<td valign="top" align="center">BDF</td>
+<td valign="top" align="center">Well-11</td>
+<td valign="top" align="center">BDF</td>
+</tr>
+<tr>
+<td valign="top" align="center">Well-02</td>
+<td valign="top" align="center">BDF</td>
+<td valign="top" align="center">Well-12</td>
+<td valign="top" align="center">Linear</td>
+</tr>
+<tr>
+<td valign="top" align="center">Well-03</td>
+<td valign="top" align="center">BDF</td>
+<td valign="top" align="center">Well-13</td>
+<td valign="top" align="center">BDF</td>
+</tr>
+<tr>
+<td valign="top" align="center">Well-04</td>
+<td valign="top" align="center">Linear</td>
+<td valign="top" align="center">Well-14</td>
+<td valign="top" align="center">Linear</td>
+</tr>
+<tr>
+<td valign="top" align="center">Well-05</td>
+<td valign="top" align="center">Linear</td>
+<td valign="top" align="center">Well-15</td>
+<td valign="top" align="center">BDF</td>
+</tr>
+<tr>
+<td valign="top" align="center">Well-06</td>
+<td valign="top" align="center">Linear</td>
+<td valign="top" align="center">Well-16</td>
+<td valign="top" align="center">BDF</td>
+</tr>
+<tr>
+<td valign="top" align="center">Well-07</td>
+<td valign="top" align="center">Linear</td>
+<td valign="top" align="center">Well-17</td>
+<td valign="top" align="center">BDF</td>
+</tr>
+<tr>
+<td valign="top" align="center">Well-08</td>
+<td valign="top" align="center">BDF</td>
+<td valign="top" align="center">Well-18</td>
+<td valign="top" align="center">Linear</td>
+</tr>
+<tr>
+<td valign="top" align="center">Well-09</td>
+<td valign="top" align="center">Linear</td>
+<td valign="top" align="center">Well-19</td>
+<td valign="top" align="center">Linear</td>
+</tr>
+<tr>
+<td valign="top" align="center">Well-10</td>
+<td valign="top" align="center">Linear</td>
+<td valign="top" align="center">Well-20</td>
+<td valign="top" align="center">Linear</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="6" table-order="2" data-type-order="6">
+<table-wrap id="102118187497MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Due to the large number of unknown parameters, several reservoir parameters are used as regression variables. Bounds are placed on these parameters using general knowledge of operator design and formation reservoir properties. Table 2 outlines the regression parameters, as well as their upper and lower bounds. For some wells, the number of stages used in hydraulic fracturing is known. Senters et al. (2016) found that operators have trouble isolating stages in the STACK, so where stage information is available, it is used as an upper bound and the number of fractures is still included as a regression parameter.</anchoringText>
+<label>Table 2</label>
+<caption>RTA regression parameters and bounds.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>RTA regression parameters and bounds.</caption-text>
+</formatted-caption>
+<table id="102118187497MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">Minimum</th>
+<th valign="top" align="center">Maximum</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Number of Fractures</td>
+<td valign="top" align="center">15</td>
+<td valign="top" align="center">60<sup>1</sup>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Fracture Half-length, ft</td>
+<td valign="top" align="center">50</td>
+<td valign="top" align="center">800</td>
+</tr>
+<tr>
+<td valign="top" align="left">Fracture Height, ft</td>
+<td valign="top" align="center">30</td>
+<td valign="top" align="center">300</td>
+</tr>
+<tr>
+<td valign="top" align="left">Permeability, md</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="left">Zone Thickness, ft</td>
+<td valign="top" align="center">60</td>
+<td valign="top" align="center">300</td>
+</tr>
+<tr>
+<td valign="top" align="left">Porosity, %</td>
+<td valign="top" align="center">4</td>
+<td valign="top" align="center">8</td>
+</tr>
+<tr>
+<td valign="top" align="left">kz/kr</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">1</td>
+</tr>
+<tr>
+<td valign="top" align="left">South Boundary, ft</td>
+<td valign="top" align="center">xf</td>
+<td valign="top" align="center">800</td>
+</tr>
+<tr>
+<td valign="top" align="left">East Boundary, ft</td>
+<td valign="top" align="center">1/2 of well length</td>
+<td valign="top" align="center">6,000</td>
+</tr>
+<tr>
+<td valign="top" align="left">North Boundary, ft</td>
+<td valign="top" align="center">xf</td>
+<td valign="top" align="center">800</td>
+</tr>
+<tr>
+<td valign="top" align="left">West Boundary, ft</td>
+<td valign="top" align="center">1/2 of well length</td>
+<td valign="top" align="center">6,000</td>
+</tr>
+<tr>
+<td valign="top" align="left">Drainage Area, acres</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">440</td>
+</tr>
+<tr>
+<td colspan="3" valign="top" align="left">1 – Unless design is known.</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="10" table-order="3" data-type-order="11">
+<table-wrap id="102118187497MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">As the objective of the EOS tuning was to match the initial producing GOR, it is critical to evaluate the quality of the match. Table 3 gives the results of the GOR match and is classified into three groups based on match quality. It should be noted that simulated GOR values do not vary much from case to case despite differences in initial pressure regimes. This similarity is due to two factors: compositional gradients are the same for each case and in all cases the reservoir is initially above saturation pressure.</anchoringText>
+<label>Table 3</label>
+<caption>Tabulation of the initial producing GOR history match quality. Colored according to error as follows: green: within 10%; yellow: within 50%; red: greater than 50%</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Tabulation of the initial producing GOR history match quality. Colored according to error as follows: green: within 10%; yellow: within 50%; red: greater than 50%</caption-text>
+</formatted-caption>
+<table id="102118187497MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th align="center">Well</th>
+<th align="center">Observed GOR, MSCF/ST B</th>
+<th align="center">Baffle Case 1 Simulated GOR, MSCF/STB</th>
+<th align="center">Baffle Case 2 Simulated GOR,</th>
+<th align="center">Baffle Case 3 Simulated GOR, MSCF/STB</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">01</td>
+<td valign="top" align="center">1.1</td>
+<td valign="top" align="center" bgcolor="#FFFF00">0.9</td>
+<td valign="top" align="center" bgcolor="#FFFF00">1.0</td>
+<td valign="top" align="center" bgcolor="#FFFF00">1.0</td>
+</tr>
+<tr>
+<td valign="top" align="center">02</td>
+<td valign="top" align="center">0.6</td>
+<td valign="top" align="center" bgcolor="#FD3929">1.3</td>
+<td valign="top" align="center" bgcolor="#FD3929">1.3</td>
+<td valign="top" align="center" bgcolor="#FD3929">1.3</td>
+</tr>
+<tr>
+<td valign="top" align="center">03</td>
+<td valign="top" align="center">1.8</td>
+<td valign="top" align="center" bgcolor="#00B04F">1.7</td>
+<td valign="top" align="center" bgcolor="#00B04F">1.7</td>
+<td valign="top" align="center" bgcolor="#00B04F">1.7</td>
+</tr>
+<tr>
+<td valign="top" align="center">04</td>
+<td valign="top" align="center">2.5</td>
+<td valign="top" align="center" bgcolor="#FFFF00">2.8</td>
+<td valign="top" align="center" bgcolor="#FFFF00">2.8</td>
+<td valign="top" align="center" bgcolor="#FFFF00">2.8</td>
+</tr>
+<tr>
+<td valign="top" align="center">05</td>
+<td valign="top" align="center">1.3</td>
+<td valign="top" align="center" bgcolor="#FFFF00">0.9</td>
+<td valign="top" align="center" bgcolor="#FFFF00">0.9</td>
+<td valign="top" align="center" bgcolor="#FFFF00">0.9</td>
+</tr>
+<tr>
+<td valign="top" align="center">06</td>
+<td valign="top" align="center">2.8</td>
+<td valign="top" align="center" bgcolor="#FFFF00">2.1</td>
+<td valign="top" align="center" bgcolor="#FFFF00">2.1</td>
+<td valign="top" align="center" bgcolor="#FFFF00">2.1</td>
+</tr>
+<tr>
+<td valign="top" align="center">07</td>
+<td valign="top" align="center">1.1</td>
+<td valign="top" align="center" bgcolor="#00B04F">1.2</td>
+<td valign="top" align="center" bgcolor="#00B04F">1.2</td>
+<td valign="top" align="center" bgcolor="#FFFF00">1.4</td>
+</tr>
+<tr>
+<td valign="top" align="center">08</td>
+<td valign="top" align="center">2.7</td>
+<td valign="top" align="center" bgcolor="#FFFF00">2.3</td>
+<td valign="top" align="center" bgcolor="#FFFF00">2.3</td>
+<td valign="top" align="center" bgcolor="#FFFF00">2.3</td>
+</tr>
+<tr>
+<td valign="top" align="center">09</td>
+<td valign="top" align="center">1.9</td>
+<td valign="top" align="center" bgcolor="#FFFF00">2.2</td>
+<td valign="top" align="center" bgcolor="#FFFF00">2.2</td>
+<td valign="top" align="center" bgcolor="#FFFF00">2.2</td>
+</tr>
+<tr>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">6.1</td>
+<td valign="top" align="center" bgcolor="#FFFF00">4.3</td>
+<td valign="top" align="center" bgcolor="#FFFF00">4.3</td>
+<td valign="top" align="center" bgcolor="#FFFF00">4.3</td>
+</tr>
+<tr>
+<td valign="top" align="center">11</td>
+<td valign="top" align="center">1.4</td>
+<td valign="top" align="center" bgcolor="#FFFF00">0.9</td>
+<td valign="top" align="center" bgcolor="#FFFF00">0.9</td>
+<td valign="top" align="center" bgcolor="#FFFF00">0.9</td>
+</tr>
+<tr>
+<td valign="top" align="center">12</td>
+<td valign="top" align="center">2.1</td>
+<td valign="top" align="center" bgcolor="#FFFF00">1.7</td>
+<td valign="top" align="center" bgcolor="#FFFF00">1.7</td>
+<td valign="top" align="center" bgcolor="#FFFF00">1.7</td>
+</tr>
+<tr>
+<td valign="top" align="center">13</td>
+<td valign="top" align="center">1.2</td>
+<td valign="top" align="center" bgcolor="#00B04F">1.2</td>
+<td valign="top" align="center" bgcolor="#00B04F">1.2</td>
+<td valign="top" align="center" bgcolor="#00B04F">1.2</td>
+</tr>
+<tr>
+<td valign="top" align="center">14</td>
+<td valign="top" align="center">2.0</td>
+<td valign="top" align="center" bgcolor="#FFFF00">1.7</td>
+<td valign="top" align="center" bgcolor="#FFFF00">1.7</td>
+<td valign="top" align="center" bgcolor="#FFFF00">1.6</td>
+</tr>
+<tr>
+<td valign="top" align="center">15</td>
+<td valign="top" align="center">1.1</td>
+<td valign="top" align="center" bgcolor="#FFFF00">1.6</td>
+<td valign="top" align="center" bgcolor="#FFFF00">1.6</td>
+<td valign="top" align="center" bgcolor="#FFFF00">1.6</td>
+</tr>
+<tr>
+<td valign="top" align="center">16</td>
+<td valign="top" align="center">0.9</td>
+<td valign="top" align="center" bgcolor="#FFFF00">1.0</td>
+<td valign="top" align="center" bgcolor="#FFFF00">1.0</td>
+<td valign="top" align="center" bgcolor="#FFFF00">1.0</td>
+</tr>
+<tr>
+<td valign="top" align="center">17</td>
+<td valign="top" align="center">0.9</td>
+<td valign="top" align="center" bgcolor="#00B04F">0.9</td>
+<td valign="top" align="center" bgcolor="#00B04F">0.9</td>
+<td valign="top" align="center" bgcolor="#00B04F">0.9</td>
+</tr>
+<tr>
+<td valign="top" align="center">18</td>
+<td valign="top" align="center">2.6</td>
+<td valign="top" align="center" bgcolor="#FFFF00">2.0</td>
+<td valign="top" align="center" bgcolor="#FFFF00">2.0</td>
+<td valign="top" align="center" bgcolor="#FFFF00">2.0</td>
+</tr>
+<tr>
+<td valign="top" align="center">19</td>
+<td valign="top" align="center">3.3</td>
+<td valign="top" align="center" bgcolor="#FD3929">1.5</td>
+<td valign="top" align="center" bgcolor="#FD3929">1.5</td>
+<td valign="top" align="center" bgcolor="#FD3929">1.5</td>
+</tr>
+<tr>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">1,300</td>
+<td valign="top" align="center" bgcolor="#00B04F">1.400</td>
+<td valign="top" align="center" bgcolor="#00B04F">1,400</td>
+<td valign="top" align="center" bgcolor="#00B04F">1,400</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="14" table-order="4" data-type-order="19">
+<table-wrap id="102118187497MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">The relevant results from RTA are shown in Table 4. (Skin values are not reported as they were all found to be at or near zero.) As mentioned in the methodology section, there were many unknown parameters that were used as regression variables when doing the RTA. Through pursuing four hypotheses and using two different reservoir models in RTA, we are afforded a range of values for each of those unknown parameters which allows for an estimation of the uncertainty in the results, as shown in Table 4.</anchoringText>
+<label>Table 4</label>
+<caption>Tabulation of RTA output parameters. Average value and standard deviation for all cases are reported.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Tabulation of RTA output parameters. Average value and standard deviation for all cases are reported.</caption-text>
+</formatted-caption>
+<table id="102118187497MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">Well 01</th>
+<th valign="top" align="center">Well 03</th>
+<th valign="top" align="center">Well 07</th>
+<th valign="top" align="center">Well 10</th>
+<th valign="top" align="center">Well 15</th>
+<th valign="top" align="center">Well 16</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">
+<b>Permeability, μd</b>
+</td>
+<td valign="top" align="center">3±2</td>
+<td valign="top" align="center">2 ± 0.5</td>
+<td valign="top" align="center">3 ± 0.5</td>
+<td valign="top" align="center">30 ± 7</td>
+<td valign="top" align="center">3 ± 2</td>
+<td valign="top" align="center">1± 0.5</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Thickness, ft</b>
+</td>
+<td valign="top" align="center">300 ± 0</td>
+<td valign="top" align="center">200 ±0</td>
+<td valign="top" align="center">230 ± 1</td>
+<td valign="top" align="center">207 ± 2</td>
+<td valign="top" align="center">300 ± 0</td>
+<td valign="top" align="center">275 ± 20</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Porosity, %</b>
+</td>
+<td valign="top" align="center">8 ± 0.5</td>
+<td valign="top" align="center">6 ± 1</td>
+<td valign="top" align="center">8 ± 0.5</td>
+<td valign="top" align="center">7 ± 0.5</td>
+<td valign="top" align="center">8 ± 0</td>
+<td valign="top" align="center">8 ± 0.5</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Drainage Area, acres</b>
+</td>
+<td valign="top" align="center">380 ± 50</td>
+<td valign="top" align="center">390 ± 150</td>
+<td valign="top" align="center">390 ± 70</td>
+<td valign="top" align="center">315 ± 110</td>
+<td valign="top" align="center">505 ± 95</td>
+<td valign="top" align="center">350 ± 45</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Fractures</b>
+</td>
+<td valign="top" align="center">22 ± 3</td>
+<td valign="top" align="center">23 ± 1</td>
+<td valign="top" align="center">40 ± 15</td>
+<td valign="top" align="center">20 ± 10</td>
+<td valign="top" align="center">25 ± 5</td>
+<td valign="top" align="center">27 ± 2</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Fracture half length, ft</b>
+</td>
+<td valign="top" align="center">690 ± 80</td>
+<td valign="top" align="center">730 ± 40</td>
+<td valign="top" align="center">740 ± 100</td>
+<td valign="top" align="center">540 ± 250</td>
+<td valign="top" align="center">900 ± 160</td>
+<td valign="top" align="center">640 ± 110</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Fracture height, ft</b>
+</td>
+<td valign="top" align="center">300 ±0</td>
+<td valign="top" align="center">200 ± 0</td>
+<td valign="top" align="center">232 ± 4</td>
+<td valign="top" align="center">203 ± 3</td>
+<td valign="top" align="center">300 ± 0</td>
+<td valign="top" align="center">26 ± 26</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Log(Fracture Conductivity), log(md.ft)</b>
+</td>
+<td valign="top" align="center">5 ± 1</td>
+<td valign="top" align="center">7 ± 0</td>
+<td valign="top" align="center">6 ± 2</td>
+<td valign="top" align="center">8 ± 1</td>
+<td valign="top" align="center">8 ± 1</td>
+<td valign="top" align="center">9 ± 1</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

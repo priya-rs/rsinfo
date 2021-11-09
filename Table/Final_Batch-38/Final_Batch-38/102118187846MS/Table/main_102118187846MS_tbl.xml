@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187846MS.txt" extractionDate="2021-03-25T10:29:54Z">
+<doi>10.2118/187846-MS</doi>
+<pii>10.2118/187846-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="8" table-order="1" data-type-order="5">
+<table-wrap id="102118187846MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Similarly, the average maximum liquid flow rate per well in channel banks is more than 120 tons per day, in the barrier island about 150 tons/day, while in the beach-bar complex and coastal marshes it is much lower – 35 tons/day and 10 tons/d, respectively. A comparison of the average well performance indicators as a function of lithofacies is given in Table 1.</anchoringText>
+<label>Table 1</label>
+<caption>Well performance factors in relation to lithofacies</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Well performance factors in relation to lithofacies</caption-text>
+</formatted-caption>
+<table id="102118187846MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th rowspan="3" align="center">Well performance indicators</th>
+<th colspan="4" align="center">Lithofacies</th>
+</tr>
+<tr>
+<th align="center">1</th>
+<th align="center">2</th>
+<th align="center">3</th>
+<th align="center">4</th>
+</tr>
+<tr>
+<th align="center">Channel banks</th>
+<th align="center">Barrier island</th>
+<th align="center">Beach-bar complex</th>
+<th align="center">Coastal salt marshes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Maximum liquid production rate, tons/day</td>
+<td align="center">126.1</td>
+<td align="center">148.9</td>
+<td align="center">35.9</td>
+<td align="center">10.1</td>
+</tr>
+<tr>
+<td align="left">Maximum water injection rate, m3/day</td>
+<td align="center">530.3</td>
+<td align="center">1031.8</td>
+<td align="center">453.4</td>
+<td align="center">355.9</td>
+</tr>
+<tr>
+<td align="left">Cumulative liquid production, thousands tons</td>
+<td align="center">377.9</td>
+<td align="center">314.5</td>
+<td align="center">69.2</td>
+<td align="center">15.4</td>
+</tr>
+<tr>
+<td align="left">Cumulative water injection, thousands m3</td>
+<td align="center">1344.5</td>
+<td align="center">1212.1</td>
+<td align="center">844.5</td>
+<td align="center">410.3</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="8" table-order="2" data-type-order="6">
+<table-wrap id="102118187846MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Results of 788 production logging tests (PLT), namely spinner and thermometry, run in 313 wells were analysed in order to assess the ratio of producing to injecting thickness,. Table 2 provides more details on the well coverage by PLT.</anchoringText>
+<label>Table 2</label>
+<caption>PLT coverage for wells.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>PLT coverage for wells.</caption-text>
+</formatted-caption>
+<table id="102118187846MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="middle" align="center">Wells</th>
+<th colspan="3" valign="middle" align="center">Quantity</th>
+<th rowspan="2" valign="middle" align="center">Operating thickness coefficient</th>
+</tr>
+<tr>
+<th valign="middle" align="center">Total amount</th>
+<th valign="middle" align="center">Number of tested wells</th>
+<th valign="middle" align="center">Number of tests</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="middle" align="left">Producers</td>
+<td valign="middle" align="center">847</td>
+<td valign="middle" align="center">242</td>
+<td valign="middle" align="center">564</td>
+<td valign="middle" align="center">0.83</td>
+</tr>
+<tr>
+<td valign="middle" align="left">Injectors</td>
+<td valign="middle" align="center">222</td>
+<td valign="middle" align="center">71</td>
+<td valign="middle" align="center">224</td>
+<td valign="middle" align="center">0.79</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

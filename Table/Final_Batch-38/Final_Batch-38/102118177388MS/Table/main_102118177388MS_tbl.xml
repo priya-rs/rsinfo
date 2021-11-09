@@ -1,0 +1,1341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118177388MS.txt" extractionDate="2021-03-20T09:08:17Z">
+<doi>10.2118/177388-MS</doi>
+<pii>10.2118/177388-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="2" table-order="1" data-type-order="2">
+<table-wrap id="102118177388MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The main reservoir characteristics are shown in Table 1.</anchoringText>
+<label>Table 1</label>
+<caption>Main Reservoir Characteristics of the Karachaganak Reservoir</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Main Reservoir Characteristics of the Karachaganak Reservoir</caption-text>
+</formatted-caption>
+<table id="102118177388MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" bgcolor="#800080" align="left">Reservoir rock type:</th>
+<th valign="top" bgcolor="#800080" align="left">Carbonate (limestone/dolomite)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" bgcolor="#C0C0C0" align="left">Field porosity range:</td>
+<td valign="top" align="left">7.3-15.3%</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#C0C0C0" align="left">Field permeability range:</td>
+<td valign="top" align="left">1.3-81.1mD</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#C0C0C0" align="left">Produced fluids:</td>
+<td valign="top" align="left">Natural gas, condensate, crude oil</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#C0C0C0" align="left">Ground level elevation:</td>
+<td valign="top" align="left">74-135mss∣</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#C0C0C0" align="left">Average H<sub>2</sub>S mol %:</td>
+<td valign="top" align="left">5.5</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#C0C0C0" align="left">Average CO<sub>2</sub> mol%:</td>
+<td valign="top" align="left">7.0</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#C0C0C0" align="left">Average static bottom hole temperature:</td>
+<td valign="top" align="left">85 °C at -5100mss∣</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#C0C0C0" align="left">Average static bottom hole pressure:</td>
+<td valign="top" align="left">500 bars at - 5100mss(2010)</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="5" table-order="2" data-type-order="3">
+<table-wrap id="102118177388MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Table 1 shows how overall fluid consumption was brought down to 0 bbls compared to hundreds bbls with CT operations. Though the operating time for the robotic solution was slightly longer (9 hours) than the average time for operations on CT, the actual perforated interval was twice as long compared to the same number of runs on CT. The e-line solution performed twice the amount of work for the job, taking only slightly longer to do so.</anchoringText>
+<label>Table 1</label>
+<caption>Results of perforation jobs</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Results of perforation jobs</caption-text>
+</formatted-caption>
+<table id="102118177388MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" align="center" bgcolor="#A7A7A7">Time/Fluid Consumption/ Perforation Runs</th>
+<th colspan="4" valign="bottom" align="center" bgcolor="#A7A7A7">COILED TUBING</th>
+<th rowspan="2" align="center" bgcolor="#A7A7A7">ROBOTIC SOLUTIONS Well D</th>
+</tr>
+<tr>
+<th valign="bottom" align="center" bgcolor="#A7A7A7">Well A</th>
+<th valign="bottom" align="center" bgcolor="#A7A7A7">Well B</th>
+<th valign="bottom" align="center" bgcolor="#A7A7A7">Well C</th>
+<th valign="bottom" align="center" bgcolor="#A7A7A7">AVERAGE VALUE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">R/Up CT&amp;N2/RS Equipment, Pressure Control Equipment (PCE) &amp; Perforation Bottom Hole Assembly (BHA) - <b>(hrs)</b>
+</td>
+<td align="left">
+<b>53</b>
+</td>
+<td align="left">
+<b>50</b>
+</td>
+<td align="left">
+<b>68</b>
+</td>
+<td align="left">
+<b>57</b>
+</td>
+<td align="left">
+<b>15</b>
+</td>
+</tr>
+<tr>
+<td align="left">Number of performed Perforation Runs</td>
+<td align="left">
+<b>3</b>
+</td>
+<td align="left">
+<b>2</b>
+</td>
+<td align="left">
+<b>1</b>
+</td>
+<td align="left">
+<b>2</b>
+</td>
+<td align="left">
+<b>3</b>
+</td>
+</tr>
+<tr>
+<td align="left">Overall time consumption (for all performed perforation runs) - <b>(hrs)</b>
+</td>
+<td align="left">
+<b>103</b>
+</td>
+<td align="left">
+<b>104</b>
+</td>
+<td align="left">
+<b>122</b>
+</td>
+<td align="left">
+<b>110</b>
+</td>
+<td align="left">
+<b>130</b>
+</td>
+</tr>
+<tr>
+<td align="left">Fluid (brine) consumption (for all performed perforation runs) - <b>(bbls)</b>
+</td>
+<td align="left">
+<b>148</b>
+</td>
+<td align="left">
+<b>329</b>
+</td>
+<td align="left">
+<b>1660</b>
+</td>
+<td align="left">
+<b>712</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+</tr>
+<tr>
+<td align="left">Overall time consumption In between perforation runs <b>- (hrs)</b>
+</td>
+<td align="left">
+<b>44</b>
+</td>
+<td align="left">
+<b>32</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>38</b>
+</td>
+<td align="left">
+<b>16</b>
+</td>
+</tr>
+<tr>
+<td align="left">Number of performed CT Clean Out Runs to clean out debris (left after milling balls and baffles)</td>
+<td align="left">
+<b>1</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>1</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+</tr>
+<tr>
+<td align="left">Overall time consumption to clean out debris - <b>(hrs)</b>
+</td>
+<td align="left">
+<b>35</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>35</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+</tr>
+<tr>
+<td align="left">Fluid consumption to clean out debris - <b>(bbls)</b>
+</td>
+<td align="left">
+<b>1276</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>1276</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+</tr>
+<tr>
+<td align="left">Overall time consumption in between cleaning runs <b>- (hrs)</b>
+</td>
+<td align="left">
+<b>18</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>18</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+</tr>
+<tr>
+<td align="left">R/Down CT&amp;N2/RS Equipment, Pressure Control Equipment (PCE) &amp; Perforation Bottom Hole Assembly (BHA) - <b>(hrs)</b>
+</td>
+<td align="left">
+<b>10</b>
+</td>
+<td align="left">
+<b>15</b>
+</td>
+<td align="left">
+<b>2</b>
+</td>
+<td align="left">
+<b>9</b>
+</td>
+<td align="left">
+<b>8</b>
+</td>
+</tr>
+<tr>
+<td bgcolor="#A7A7A7" align="left">
+<b>Overall Time Consumption (hrs)</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>138</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>104</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>122</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>121</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>130</b>
+</td>
+</tr>
+<tr>
+<td bgcolor="#A7A7A7" align="left">
+<b>Overall Fluid Consumption (bbls)</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>1424</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>329</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>1660</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>1138</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>0</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="3" data-type-order="4">
+<table-wrap id="102118177388MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Milling operations with CT were analyzed for time consumed and fluids injected. Below, Table 2 shows the results of this analysis and compares them to the e-line robotic solution.</anchoringText>
+<label>Table 2</label>
+<caption>Results of milling jobs</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Results of milling jobs</caption-text>
+</formatted-caption>
+<table id="102118177388MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th align="center" bgcolor="#A7A7A7">Time/Fluid Consumption/ Milling&amp;Clean Out Runs</th>
+<th align="center" bgcolor="#A7A7A7">Well A</th>
+<th align="center" bgcolor="#A7A7A7">Well B</th>
+<th align="center" bgcolor="#A7A7A7">Well C</th>
+<th align="center" bgcolor="#A7A7A7">Well D</th>
+<th align="center" bgcolor="#A7A7A7">Well E</th>
+<th align="center" bgcolor="#A7A7A7">Well F</th>
+<th align="center" bgcolor="#A7A7A7">Well G</th>
+<th align="center" bgcolor="#A7A7A7">Well H</th>
+<th align="center" bgcolor="#A7A7A7">Well I</th>
+<th align="center" bgcolor="#A7A7A7">Well J</th>
+<th align="center" bgcolor="#A7A7A7">Well K</th>
+<th align="center" bgcolor="#A7A7A7">AVERAGE VALUE</th>
+<th align="center" bgcolor="#A7A7A7">ROBOTIC SOLUTION FIGURES</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">R/Up CT&amp;N2/RS Equipment, Pressure Control Equipment (PCE) &amp; Milling Bottom Hole Assembly (BHA) - <b>(hrs)</b>
+</td>
+<td align="left">
+<b>38</b>
+</td>
+<td align="left">
+<b>24</b>
+</td>
+<td align="left">
+<b>22</b>
+</td>
+<td align="left">
+<b>90</b>
+</td>
+<td align="left">
+<b>62</b>
+</td>
+<td align="left">
+<b>9</b>
+</td>
+<td align="left">
+<b>12</b>
+</td>
+<td align="left">
+<b>9</b>
+</td>
+<td align="left">
+<b>72</b>
+</td>
+<td align="left">
+<b>61</b>
+</td>
+<td align="left">
+<b>18</b>
+</td>
+<td align="left">
+<b>38</b>
+</td>
+<td align="left">
+<b>33</b>
+</td>
+</tr>
+<tr>
+<td align="left">R/Up Pumping Equipment - <b>(hrs)</b>
+</td>
+<td align="left">
+<b>14</b>
+</td>
+<td align="left">
+<b>4</b>
+</td>
+<td align="left">
+<b>4</b>
+</td>
+<td align="left">
+<b>4</b>
+</td>
+<td align="left">
+<b>4</b>
+</td>
+<td align="left">
+<b>4</b>
+</td>
+<td align="left">
+<b>4</b>
+</td>
+<td align="left">
+<b>4</b>
+</td>
+<td align="left">
+<b>21</b>
+</td>
+<td align="left">
+<b>11</b>
+</td>
+<td align="left">
+<b>4</b>
+</td>
+<td align="left">
+<b>7</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+</tr>
+<tr>
+<td align="left">Number of Balls &amp; Baffles (milled out)</td>
+<td align="left">
+<b>5</b>
+</td>
+<td align="left">
+<b>9</b>
+</td>
+<td align="left">
+<b>9</b>
+</td>
+<td align="left">
+<b>9</b>
+</td>
+<td align="left">
+<b>9</b>
+</td>
+<td align="left">
+<b>7</b>
+</td>
+<td align="left">
+<b>8</b>
+</td>
+<td align="left">
+<b>2</b>
+</td>
+<td align="left">
+<b>7</b>
+</td>
+<td align="left">
+<b>8</b>
+</td>
+<td align="left">
+<b>7</b>
+</td>
+<td align="left">
+<b>7</b>
+</td>
+<td align="left">
+<b>4</b>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Number of performed Milling Runs to mill out balls &amp; baffles</td>
+<td align="left">
+<b>1</b>
+</td>
+<td align="left">
+<b>1</b>
+</td>
+<td align="left">
+<b>3</b>
+</td>
+<td align="left">
+<b>1</b>
+</td>
+<td align="left">
+<b>3</b>
+</td>
+<td align="left">
+<b>1</b>
+</td>
+<td align="left">
+<b>3</b>
+</td>
+<td align="left">
+<b>2</b>
+</td>
+<td align="left">
+<b>1</b>
+</td>
+<td align="left">
+<b>1</b>
+</td>
+<td align="left">
+<b>1</b>
+</td>
+<td align="left">
+<b>2</b>
+</td>
+<td align="left">
+<b>2</b>
+</td>
+</tr>
+<tr>
+<td align="left">Overall time consumption to mill out balls and baffles (for all performed milling runs) <b>-(hrs)</b>
+</td>
+<td align="left">
+<b>98</b>
+</td>
+<td align="left">
+<b>70</b>
+</td>
+<td align="left">
+<b>124</b>
+</td>
+<td align="left">
+<b>32</b>
+</td>
+<td align="left">
+<b>157</b>
+</td>
+<td align="left">
+<b>21</b>
+</td>
+<td align="left">
+<b>161</b>
+</td>
+<td align="left">
+<b>30</b>
+</td>
+<td align="left">
+<b>53</b>
+</td>
+<td align="left">
+<b>51</b>
+</td>
+<td align="left">
+<b>37</b>
+</td>
+<td align="left">
+<b>76</b>
+</td>
+<td align="left">
+<b>68</b>
+</td>
+</tr>
+<tr>
+<td align="left">Fluid (brine) consumption to mill out balls and baffles (for all performed milling runs) <b>- (bbls)</b>
+</td>
+<td align="left">
+<b>1939</b>
+</td>
+<td align="left">
+<b>2464</b>
+</td>
+<td align="left">
+<b>3627</b>
+</td>
+<td align="left">
+<b>1325</b>
+</td>
+<td align="left">
+<b>4604</b>
+</td>
+<td align="left">
+<b>846</b>
+</td>
+<td align="left">
+<b>6804</b>
+</td>
+<td align="left">
+<b>1789</b>
+</td>
+<td align="left">
+<b>3605</b>
+</td>
+<td align="left">
+<b>2548</b>
+</td>
+<td align="left">
+<b>1582</b>
+</td>
+<td align="left">
+<b>2830</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+</tr>
+<tr>
+<td align="left">Overall time consumption in between milling runs - <b>(hrs)</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>27</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>116</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>12</b>
+</td>
+<td align="left">
+<b>17</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>16</b>
+</td>
+<td align="left">
+<b>31</b>
+</td>
+</tr>
+<tr>
+<td align="left">Number of performed CT Clean Out Runs to clean out debris (left after milling balls and baffles)</td>
+<td valign="top" align="left">
+<b>0</b>
+</td>
+<td valign="top" align="left">
+<b>0</b>
+</td>
+<td valign="top" align="left">
+<b>0</b>
+</td>
+<td valign="top" align="left">
+<b>0</b>
+</td>
+<td valign="top" align="left">
+<b>0</b>
+</td>
+<td valign="top" align="left">
+<b>1</b>
+</td>
+<td valign="top" align="left">
+<b>3</b>
+</td>
+<td valign="top" align="left">
+<b>0</b>
+</td>
+<td valign="top" align="left">
+<b>0</b>
+</td>
+<td valign="top" align="left">
+<b>0</b>
+</td>
+<td valign="top" align="left">
+<b>0</b>
+</td>
+<td valign="top" align="left">
+<b>0</b>
+</td>
+<td valign="top" align="left">
+<b>0</b>
+</td>
+</tr>
+<tr>
+<td align="left">Overall time consumption to clean out debris - <b>(hrs)</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>13</b>
+</td>
+<td align="left">
+<b>77</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>8</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+</tr>
+<tr>
+<td align="left">Fluid consumption to clean out debris -<b>(bbls)</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>313</b>
+</td>
+<td align="left">
+<b>683</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>91</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+</tr>
+<tr>
+<td align="left">Overall time consumption in between cleaning runs (time between tag stripper and start RIH next run) - <b>(hrs)</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>22</b>
+</td>
+<td align="left">
+<b>24</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>4</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+</tr>
+<tr>
+<td align="left">R/Down CT&amp;N2/RS Equipment, Pressure Control Equipment (PCE) &amp; Milling Bottom Hole Assembly (BHA) - <b>(hrs)</b>
+</td>
+<td align="left">
+<b>8</b>
+</td>
+<td align="left">
+<b>8</b>
+</td>
+<td align="left">
+<b>8</b>
+</td>
+<td align="left">
+<b>8</b>
+</td>
+<td align="left">
+<b>8</b>
+</td>
+<td align="left">
+<b>8</b>
+</td>
+<td align="left">
+<b>8</b>
+</td>
+<td align="left">
+<b>8</b>
+</td>
+<td align="left">
+<b>7</b>
+</td>
+<td align="left">
+<b>8</b>
+</td>
+<td align="left">
+<b>8</b>
+</td>
+<td align="left">
+<b>8</b>
+</td>
+<td align="left">
+<b>4</b>
+</td>
+</tr>
+<tr>
+<td align="left">R/Down Pumping Equipment <b>(hrs)</b>
+</td>
+<td align="left">
+<b>4</b>
+</td>
+<td align="left">
+<b>4</b>
+</td>
+<td align="left">
+<b>4</b>
+</td>
+<td align="left">
+<b>4</b>
+</td>
+<td align="left">
+<b>4</b>
+</td>
+<td align="left">
+<b>4</b>
+</td>
+<td align="left">
+<b>4</b>
+</td>
+<td align="left">
+<b>4</b>
+</td>
+<td align="left">
+<b>3</b>
+</td>
+<td align="left">
+<b>4</b>
+</td>
+<td align="left">
+<b>4</b>
+</td>
+<td align="left">
+<b>4</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#A7A7A7" align="left">
+<b>Overall Time Consumption to mill out balls and baffles/clean out debris (hrs)</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>98</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>70</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>124</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>32</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>157</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>34</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>238</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>30</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>53</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>51</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>37</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>84</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>68</b>
+</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#A7A7A7" align="left">
+<b>Overall Fluid (Brine) Consumption to mill out balls and baffles/clean out debris (bbls)</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>1939</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>2464</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>3627</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>1325</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>4604</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>1159</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>7487</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>1789</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>3605</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>2548</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>1582</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>2921</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>0</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="8" table-order="4" data-type-order="5">
+<table-wrap id="102118177388MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">Table 3 shows the results of logging jobs for both CT and the e-line robotic solution.</anchoringText>
+<label>Table 3</label>
+<caption>Results of logging jobs</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Results of logging jobs</caption-text>
+</formatted-caption>
+<table id="102118177388MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th align="center" bgcolor="#A7A7A7">Time/Fluid Consumption/CT Logging Runs</th>
+<th align="center" bgcolor="#A7A7A7">Well A</th>
+<th align="center" bgcolor="#A7A7A7">Well B</th>
+<th align="center" bgcolor="#A7A7A7">Well C</th>
+<th align="center" bgcolor="#A7A7A7">Average Values</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">R/Up CT&amp;N2 Equipment, Pressure Control Equipment (PCE) &amp; Logging Bottom Hole Assembly (BHA) - <b>(hrs)</b>
+</td>
+<td align="left">
+<b>68</b>
+</td>
+<td align="left">
+<b>29</b>
+</td>
+<td align="left">
+<b>66</b>
+</td>
+<td align="left">
+<b>54</b>
+</td>
+</tr>
+<tr>
+<td align="left">Number of performed CT Logging Runs</td>
+<td align="left">
+<b>1</b>
+</td>
+<td align="left">
+<b>2</b>
+</td>
+<td align="left">
+<b>1</b>
+</td>
+<td align="left">
+<b>1</b>
+</td>
+</tr>
+<tr>
+<td align="left">Overall time consumption (for all performed CT logging runs) - <b>(hrs)</b>
+</td>
+<td align="left">
+<b>85</b>
+</td>
+<td align="left">
+<b>114</b>
+</td>
+<td align="left">
+<b>70</b>
+</td>
+<td align="left">
+<b>90</b>
+</td>
+</tr>
+<tr>
+<td align="left">Fluid (brine) consumption (for all performed CT logging runs) - <b>(bbls)</b>
+</td>
+<td align="left">
+<b>495</b>
+</td>
+<td align="left">
+<b>696</b>
+</td>
+<td align="left">
+<b>415</b>
+</td>
+<td align="left">
+<b>535</b>
+</td>
+</tr>
+<tr>
+<td align="left">Overall time consumption in between logging runs (time between tag stripper and start RIH next run) - <b>(hrs)</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>19</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>6</b>
+</td>
+</tr>
+<tr>
+<td align="left">R/Down CT&amp;N2 Equipment, Pressure Control Equipment (PCE) &amp; Logging Bottom Hole Assembly (BHA) - <b>(hrs)</b>
+</td>
+<td align="left">
+<b>15</b>
+</td>
+<td align="left">
+<b>23</b>
+</td>
+<td align="left">
+<b>30</b>
+</td>
+<td align="left">
+<b>23</b>
+</td>
+</tr>
+<tr>
+<td bgcolor="#A7A7A7" align="left">
+<b>Overall Time Consumption (hrs)</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>85</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>114</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>70</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>90</b>
+</td>
+</tr>
+<tr>
+<td bgcolor="#A7A7A7" align="left">
+<b>Overall Fluid (Brine) Consumption (bbls)</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>495</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>696</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>415</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>535</b>
+</td>
+</tr>
+</tbody>
+</table>
+<table id="102118177388MS-Tbl_SPi-5" frame="hsides">
+<tbody>
+<tr>
+<td bgcolor="#A7A7A7" align="left">
+<b>Time/Fluid Consumption/RS Logging Runs</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>Well A</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>Well B</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>Well C</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>Average Values</b>
+</td>
+</tr>
+<tr>
+<td align="left">R/Up Equipment, Pressure Control Equipment (PCE) &amp; Logging Bottom Hole Assembly (BHA) - <b>(hrs)</b>
+</td>
+<td align="left">
+<b>3,5</b>
+</td>
+<td align="left">
+<b>14.5</b>
+</td>
+<td align="left">
+<b>10.5</b>
+</td>
+<td align="left">
+<b>13</b>
+</td>
+</tr>
+<tr>
+<td align="left">Number of performed RS Logging Runs</td>
+<td align="left">
+<b>1</b>
+</td>
+<td align="left">
+<b>1</b>
+</td>
+<td align="left">
+<b>1</b>
+</td>
+<td align="left">
+<b>1</b>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Overall time consumption (for all performed RS logging runs) - <b>(hrs)</b>
+</td>
+<td align="left">
+<b>101</b>
+</td>
+<td align="left">
+<b>32.5</b>
+</td>
+<td align="left">
+<b>77</b>
+</td>
+<td align="left">
+<b>70</b>
+</td>
+</tr>
+<tr>
+<td align="left">Fluid (brine) consumption (for all performed RS logging runs) - <b>(bbls)</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Overall time consumption in between logging runs (time between tag stripper and start RIH next run) - <b>(hrs)</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+<td align="left">
+<b>0</b>
+</td>
+</tr>
+<tr>
+<td align="left">R/Down CT&amp;N2 Equipment, Pressure Control Equipment (PCE) &amp; Logging Bottom Hole Assembly (BHA)-(hrs)</td>
+<td align="left">
+<b>8.5</b>
+</td>
+<td align="left">
+<b>9</b>
+</td>
+<td align="left">
+<b>30</b>
+</td>
+<td align="left">
+<b>16</b>
+</td>
+</tr>
+<tr>
+<td bgcolor="#A7A7A7" align="left">
+<b>Overall Time Consumption (hrs)</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>101</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>32.5</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>77</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>70</b>
+</td>
+</tr>
+<tr>
+<td bgcolor="#A7A7A7" align="left">
+<b>Overall Fluid (Brine) Consumption (bbls)</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>0</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>0</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>0</b>
+</td>
+<td bgcolor="#A7A7A7" align="left">
+<b>0</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="9" table-order="5" data-type-order="6">
+<table-wrap id="102118177388MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">Run number two was held. During the first attempt in latching the shifting profile, the key pads slipped out of the profile seat. The reason for this issue was likely some debris lying on the low side due to the prior milling job. To overcome that string, the tool was pulled down for 20 –30m to change the orientation of the pads. This method worked well, and the second attempt in latching the shifting profile was successful with a good stable over pull. Table 4 shows the results of the zonal isolation job.</anchoringText>
+<label>Table 4</label>
+<caption>Results of zonal isolation job on well A</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Results of zonal isolation job on well A</caption-text>
+</formatted-caption>
+<table id="102118177388MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">R/Up Equipment, Pressure Control Equipment (PCE) &amp; Bottom Hole Assembly (BHA) - (hrs)</th>
+<th valign="bottom" align="center">Number of performed Runs</th>
+<th valign="bottom" align="center">Overall time consumption (for all performed runs) - (hrs)</th>
+<th valign="bottom" align="center">Fluid (brine) consumption (for all performed runs) - (bbls)</th>
+<th valign="bottom" align="center">Overall time consumption in between runs - (hrs)</th>
+<th valign="bottom" align="center">R/Down Equipment, Pressure Control Equipment (PCE) &amp; Bottom Hole Assembly (BHA) - (hrs)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">14</td>
+<td valign="bottom" align="left">2</td>
+<td valign="bottom" align="left">34</td>
+<td valign="bottom" align="left">0</td>
+<td valign="bottom" align="left">10</td>
+<td valign="bottom" align="left">3</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118176485MS.txt" extractionDate="2021-03-15T18:21:37Z">
+<doi>10.2118/176485-MS</doi>
+<pii>10.2118/176485-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">The Maari oil field was the first OMV operated offshore field development, with first oil in February 2009. A number of technical challenges needed to be overcome in order to make the project viable about 25 years after the initial discovery was made. This included the offshore environment, reservoir drive mechanism and the waxy type of crude. During the drilling and completion phase of the Maari development, various techniques were employed in order to keep the project economically viable. These included drilling with 24-inch diameter casing, the largest drilling-with-casing job in the world; horizontal multi-lateral drilling; use of electric submersible pumps, down hole heating, and hot water injection into the reservoir. The field location can be seen in Figure-1 below.</anchoringText>
+<image-wrap id="102118176485MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118176485MS_i_1.tif" id="ImgLink-1" />
+<caption>Maari Field Location Map</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Maari Field Location Map</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">The Solution Architecture plays a key role and becomes a backbone of entire 10 Solution. The aim of Solution Architecture is to layout high level system design, define the technical solution to business problem and design the overall shape of the solution (Ahmad, et al., 2014). The main aim is to provide a solution infrastructure for operations and engineering team enabling them for a remote field manage- ment. Solution Architecture is a widely used term but can mean different things to different people and is considered as the high-level system design that defines the technical solution to a single business or Information Technology (IT) problem. (Biniwale, Trivedi, Tran, Derrij, &amp; Yokote, 2013). The solution infrastructure for remote field management consists of four physical locations where daily decision is taken for effective operation of the field, starting from offshore platform to Management team in OMV head office as shown in Figure-2.</anchoringText>
+<image-wrap id="102118176485MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118176485MS_i_2.tif" id="ImgLink-2" />
+<caption>Solution Architecture Methodology for Integrated Production Monitoring System</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Solution Architecture Methodology for Integrated Production Monitoring System</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">The first component is the automation of data acquisition process from offshore FPSO historian to onshore historian at OMV Wellington office via microwave link as shown in Figure-3. The FPSO acts as the source historian that stores all the raw, validated, and processed data from the various applications and also becomes the source to feed different processes and applications when required.</anchoringText>
+<image-wrap id="102118176485MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118176485MS_i_3.tif" id="ImgLink-3" />
+<caption>Solution Approach: Data Flow and Process Automation for Maari Field Implementation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Solution Approach: Data Flow and Process Automation for Maari Field Implementation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">The main aim was to provide a production operation framework for operators, supervisors, engineers, and managers to manage the field effectively. The Figure 4 below shows the overall solution overview of integrated production monitoring and management system comprising real-time data acquisition, data quality control, monitoring, integration and automation.</anchoringText>
+<image-wrap id="102118176485MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118176485MS_i_4.tif" id="ImgLink-4" />
+<caption>Solution Overview: Integrated Production Monitoring and Management System for Maari Field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Solution Overview: Integrated Production Monitoring and Management System for Maari Field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">The Figure 5 below depicts the current solution deployment setup where data is streamed in from historian and after quality check; it is aggregated and stored in data hub. The engineering application is directly integrated with the data hub allowing users to access data immediately when it passes quality control process. Team engineering analysis project is been built applying corporate standards. Administrator with formal approval process can only modify this project. End users can access the corporate analysis template and build their own templates specific to their area of interest or analysis requirement.</anchoringText>
+<image-wrap id="102118176485MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118176485MS_i_5.tif" id="ImgLink-5" />
+<caption>Integrating People &amp; Technology: Corporate Deployment for the Maari Field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Integrating People &amp; Technology: Corporate Deployment for the Maari Field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">An Integrated Production Management System was implemented for Maari field as shown in Figure-6 for enhanced engineering analysis and production optimization.</anchoringText>
+<image-wrap id="102118176485MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118176485MS_i_6.tif" id="ImgLink-6" />
+<caption>Integrating Production Monitoring and Management System Results</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Integrating Production Monitoring and Management System Results</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">Figure-7 shows and example of such lift watcher system, which is implemented. A surveillance engineer based in Artificial Lift Surveillance Center is monitoring data in real time from 10 ESP Pumps. Operational alarms, triggered from downhole sensors (pumps and surface systems), are monitored continuously. This includes Pump vibrations and current profiles, motor temperature etc.</anchoringText>
+<image-wrap id="102118176485MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118176485MS_i_7.tif" id="ImgLink-7" />
+<caption>Online ESP Watcher: Surveillance &amp; Diagnostics</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Online ESP Watcher: Surveillance &amp; Diagnostics</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">This paper describes a custom built and technically streamlined approach for the remote field management of the Maari oil field at OMV, New Zealand. Some of the key benefits, after the implementation of the Integrated Production Monitoring and Management System, are depicted in the Figure 8 below</anchoringText>
+<image-wrap id="102118176485MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118176485MS_i_8.tif" id="ImgLink-8" />
+<caption>Results and Benefits of Maari Field Implementation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Results and Benefits of Maari Field Implementation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

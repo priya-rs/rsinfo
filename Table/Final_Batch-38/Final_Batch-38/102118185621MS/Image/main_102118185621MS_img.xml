@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185621MS.txt" extractionDate="2021-03-26T15:01:59Z">
+<doi>10.2118/185621-MS</doi>
+<pii>10.2118/185621-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">This increases vapor production, as seen in Figure 1, which is primarily steam vapor from wells. This results in increased casing pressures. In order to maximize oil production, annular pressure in wells must be minimized to maximize the pressure difference between the reservoir and the well to maximize oil inflow (Sardoff et al 1997). This paper will refer to this produced gas as produced steam. In an attempt to relieve the casing pressure on the individual wellbores, a CVR system has been installed.</anchoringText>
+<image-wrap id="102118185621MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118185621MS_i_1.tif" id="ImgLink-1" />
+<caption>Sardoff generalized reservoir description of produced steam</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Sardoff generalized reservoir description of produced steam</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">The CVR system consists of flowlines off the casing from individual wells which are tied into trunk lines and then feed to vapor recovery traps. The traps separate the liquid (condensate) from the vapor phase. The vapor phase is then sent through cooling fans to allow for separation of any remaining liquids before the gas phase is compressed. Due to well spacing seen in Figure 2, the locations of the individual wells from the compression sites can often exceed a mile in distance.</anchoringText>
+<image-wrap id="102118185621MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118185621MS_i_2.tif" id="ImgLink-2" />
+<caption>Aerial map depicting distance from individual wells to gas compression site.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Aerial map depicting distance from individual wells to gas compression site.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Historically, spring and summer seasons see decreased CVR system efficiency due to increased ambient air temperature (Figure 3) resulting in less cooling efficiency prior to compression. In order to eliminate operational issues and equipment damage, total gas flow into the CVR system must be decreased. Prior to this project, operations had experienced several process upsets due to the low equipment efficiency.</anchoringText>
+<image-wrap id="102118185621MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118185621MS_i_3.tif" id="ImgLink-3" />
+<caption>Ambient air temperature in Lost Hills showing seasonal effect in summer and winter</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Ambient air temperature in Lost Hills showing seasonal effect in summer and winter</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4"> </anchoringText>
+<image-wrap id="102118185621MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118185621MS_i_4.tif" id="ImgLink-4" />
+<caption>Average wellhead casing pressure for wells in Lost Hills</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Average wellhead casing pressure for wells in Lost Hills</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5"> </anchoringText>
+<image-wrap id="102118185621MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118185621MS_i_5.tif" id="ImgLink-5" />
+<caption>Variables and assumptions for equations for calculating flow across a fixed choke from SPE 24081</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Variables and assumptions for equations for calculating flow across a fixed choke from SPE 24081</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">These inputs in Figure 6 were modeled using advanced analytics and multivariate analysis methods to generate a calculated gas volume. The inputs were compared to a steam table, which confirmed that the gas makeup is primarily steam. The calculated gas volumes were compared to the actual measured gas volumes from the third party vendor. The model predicted gas volumes accurately for high gas volumes (greater than 30 BSPD) within +/-20% of actual steam volumes.</anchoringText>
+<image-wrap id="102118185621MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118185621MS_i_6.tif" id="ImgLink-6" />
+<caption>Input variables for the advanced analytic model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Input variables for the advanced analytic model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">Once the analytical solution was validated with field measurements and the PSOR report generated daily, the process for trouble shooting CVR pressure increases was changed. An operations culture shift was required. Operators targeted wells by PSOR (Figure 7) instead of relying on tacit knowledge. Operations had to adjust their mindset to proactively shutoff more wells which had a low total oil volume impact rather than a single, high gas producing well that could also be a high oil producing well. The individual well culprit of the upset condition may be left unchanged, but the overall system pressure is managed.</anchoringText>
+<image-wrap id="102118185621MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118185621MS_i_7.tif" id="ImgLink-7" />
+<caption>Example of PSOR ranked list. CVR valves are closed in order of top to bottom in upset conditions.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Example of PSOR ranked list. CVR valves are closed in order of top to bottom in upset conditions.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">This new process optimizes oil production by targeting low oil producers for CVR shut-in. The analytic solution has successfully prevented CVR maximum pressure shutdowns during high temperature months while, simultaneously optimizing oil production. This field study was successful in lowering the operational temperature by 6 Degrees Fahrenheit (Figure 9) and lowering operational pressure by 0.6 psig (Figure 8).</anchoringText>
+<image-wrap id="102118185621MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118185621MS_i_8.tif" id="ImgLink-8" />
+<caption>CVR system pressure before and after analytical solution and PSOR list implemented</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>CVR system pressure before and after analytical solution and PSOR list implemented</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">This new process optimizes oil production by targeting low oil producers for CVR shut-in. The analytic solution has successfully prevented CVR maximum pressure shutdowns during high temperature months while, simultaneously optimizing oil production. This field study was successful in lowering the operational temperature by 6 Degrees Fahrenheit (Figure 9) and lowering operational pressure by 0.6 psig (Figure 8).</anchoringText>
+<image-wrap id="102118185621MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118185621MS_i_9.tif" id="ImgLink-9" />
+<caption>CVR system temperature before and after analytical solution and PSOR list implemented</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>CVR system temperature before and after analytical solution and PSOR list implemented</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

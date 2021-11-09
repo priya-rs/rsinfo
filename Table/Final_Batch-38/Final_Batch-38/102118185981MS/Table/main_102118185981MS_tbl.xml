@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185981MS.txt" extractionDate="2021-03-26T18:32:29Z">
+<doi>10.2118/185981-MS</doi>
+<pii>10.2118/185981-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="3">
+<table-wrap id="102118185981MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">In this study, according to the main diagenetic types and strength controlling the reservoir quality to name different diaganetic facies, the diagenesis which have tiny influence are not involved in naming. When there are more than 2 kinds of main diagenesis, we should use compound nomenclature. The data of ACR (Apparent Compaction Ratio) and ADR (Apparent Dissolution Ratio) are listed in Table 1. By using these parameters, we can establish a standard, and divide the diagenetic facies into six types.</anchoringText>
+<label>Table 1</label>
+<caption>Classification standard for Diagenetic Facies</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Classification standard for Diagenetic Facies</caption-text>
+</formatted-caption>
+<table id="102118185981MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Compaction intensity</th>
+<th valign="top" align="center">ACR,%</th>
+<th valign="top" align="center">Dissolution intensity</th>
+<th valign="top" align="center">ADR, %</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">strong</td>
+<td valign="top" align="center">&#x003E;75</td>
+<td valign="top" align="center">strong</td>
+<td valign="top" align="center">&#x003E;75</td>
+</tr>
+<tr>
+<td valign="top" align="center">mid-strong</td>
+<td valign="top" align="center">65∼75</td>
+<td valign="top" align="center">mid-strong</td>
+<td valign="top" align="center">60∼75</td>
+</tr>
+<tr>
+<td valign="top" align="center">mid</td>
+<td valign="top" align="center">30∼65</td>
+<td valign="top" align="center">mid</td>
+<td valign="top" align="center">30∼60</td>
+</tr>
+<tr>
+<td valign="top" align="center">weak</td>
+<td valign="top" align="center">&#x003C;30</td>
+<td valign="top" align="center">weak</td>
+<td valign="top" align="center">&#x003E;30</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189779MS.txt" extractionDate="2021-03-29T18:44:43Z">
+<doi>10.2118/189779-MS</doi>
+<pii>10.2118/189779-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="4" figure-order="1" data-type-order="2">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr13">For the simulation model, horizontal heterogeneity was incorporated by assuming there is better quality rock in the SW region and poorer rock in the NE region. These heterogeneous rock characteristics were taken into account in the geo-model by using the Sequential Gaussian Geostatistical method. The average geological properties used in the simulation model were obtained from literature (Kurtoglu, 2013; Sonnenberg et al, 2009; Alexandre et al, 2011) and are presented in Table 1.Figure 1 shows the permeability distribution near the top of the simulation model with one possible well location and fracture placement scenario.</anchoringText>
+<image-wrap id="102118189779MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118189779MS_i_1.tif" id="ImgLink-1" />
+<caption>Permeability Distribution in the Model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Permeability Distribution in the Model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr14">The simulation model is a single porosity system, meaning that natural fractures have not been included. This was done based on the assumption that natural fractures exist in “clusters” in the Elm Coulee region (Khatri, 2017). These natural fractures have been caused by the presence of a lateral wench fault system that is only prevalent in certain areas of the Elm Coulee field, thus leading to the term “clusters”. As seen in Figure 2, the oil production varies quite significantly based on the region in which the well is located in the reservoir.</anchoringText>
+<image-wrap id="102118189779MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118189779MS_i_2.tif" id="ImgLink-2" />
+<caption>Natural Fracture Clusters in the Elm Coulee (Almanza, 2016)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Natural Fracture Clusters in the Elm Coulee (<link href="BIB1">Almanza, 2016</link>)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-15" type="bib">
+<bib id="BIB1">
+<label>Almanza, 2016</label>
+<author>
+<first-name>A.</first-name>
+<last-name>Almanza</last-name>
+</author>
+<pubDate>2016</pubDate>. <article-title>Integrated 3D Geological Model of the Mississippian Devonian Bakken Formation, Elm Coulee, Williston Basin: Richland County, Montana</article-title>. <journal-title>
+<i>Geology-consortia</i>
+</journal-title>, http://geology-consortia.mines.edu/Bakken/NETL_DOE/Fall-2011-meeting/AAlmanza_Bakken_2011.pdf (accessed 4 December 2017)</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="3" data-type-order="6">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr15">For the gas injection cases (N2 and CO2 injection), slim tube tests were performed using a lab-scale simulation model to determine the Minimum Miscibility Pressure (MMP). For CO2, the MMP was determined to be 21 mPa, which is very close to what other studies have found for Bakken oil (Adekunle and Hoffman 2014). For N2, an MMP could not be found even when injecting at pressures above 50 mPa. This is also consistent with the observations made in other studies (Adekunle and Hoffman, 2014). Various reservoir fluid properties are listed in Table 3 and the Pressure-Temperature (P-T) diagram of the reservoir fluid is shown in Figure 3.</anchoringText>
+<image-wrap id="102118189779MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118189779MS_i_3.tif" id="ImgLink-3" />
+<caption>P-T Diagram of Reservoir Fluid</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>P-T Diagram of Reservoir Fluid</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="7">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr16">A high-level schematic of the workflow used in this study is shown in Figure 4 below. After creating the base simulation model, each of the recovery methods were modeled and then subjected to an NPV optimization to determine the ideal configuration. Finally, an uncertainty assessment was performed on each process to quantify the risk and determine the most impactful parameters.</anchoringText>
+<image-wrap id="102118189779MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118189779MS_i_4.tif" id="ImgLink-4" />
+<caption>Workflow Used in the Study.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Workflow Used in the Study.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="5" data-type-order="13">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr17">The results of the natural depletion optimization study are presented in Figure 5. There are two plots of NPV and Recovery Factor versus fracture spacing representing the two well spacings investigated. Each line on the curve represents a different half-length examined.</anchoringText>
+<image-wrap id="102118189779MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118189779MS_i_5.tif" id="ImgLink-5" />
+<caption>Results of Natural Depletion Optimization. Plots of NPV and Recovery Factor for (a) 300 m well spacing and (b) 400 m well spacing</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Results of Natural Depletion Optimization. Plots of NPV and Recovery Factor for (a) 300 m well spacing and (b) 400 m well spacing</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189779MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118189779MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>300 m well spacing</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189779MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118189779MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>400 m well spacing</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="6" data-type-order="14">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr18">Figure 6 below shows the results of the uncertainty assessment and is displayed based on economic and geological uncertainty. The geological uncertainty reveals that the P50 case has an NPV of $16 M, indicating that the base model used is representative of the average expected geological properties. From P90 to P10 the NPV varies by over $60 M leading to a high degree of uncertainty. This indicates that if the same optimal configuration is applied to a different area of the Bakken formation, it can lead to dramatically different results.</anchoringText>
+<image-wrap id="102118189779MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118189779MS_i_6.tif" id="ImgLink-6" />
+<caption>Monte Carlo Simulation Histogram Plot for Natural Depletion (a) Geological and (b) Economical Uncertainty Assesment</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Monte Carlo Simulation Histogram Plot for Natural Depletion (a) Geological and (b) Economical Uncertainty Assesment</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189779MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118189779MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Geological</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189779MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118189779MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Economical Uncertainty Assesment</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="7" data-type-order="15">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr19">Through the optimization study, the hydraulic fracture spacing and well spacing were identified as the most impactful parameters and their influence on NPV is presented in Figure 7. As in the natural depletion case, the optimal configuration for Nitrogen injection was to use the 400 m well spacing and 125 m fracture spacing.</anchoringText>
+<image-wrap id="102118189779MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118189779MS_i_7.tif" id="ImgLink-7" />
+<caption>Nitrogen Flood NPV Optimization</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Nitrogen Flood NPV Optimization</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="8" data-type-order="17">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr20">In performing the uncertainty assessment for Nitrogen injection, the range of uncertainty was greater when compared to natural depletion (Figure 8). When including both geology and economic uncertainty together, the P90 case was -$10 M and -$17 M for nitrogen injection and natural depletion, respectively. By comparison, the P10 case for nitrogen was nearly $25 M higher than natural depletion at a value of $92 M. This indicates that both recovery techniques have relatively similar lower limits but there is greater room for potential success with the Nitrogen flooding case.</anchoringText>
+<image-wrap id="102118189779MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118189779MS_i_8.tif" id="ImgLink-8" />
+<caption>Uncertainty Assessment of Natural Depletion and Nitrogen Injection</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Uncertainty Assessment of Natural Depletion and Nitrogen Injection</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="9" data-type-order="18">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr21">After the optimization on the CO2 flood, a Sobol analysis was performed to determine the most influential parameters. From this analysis, as shown in Figure 9, the most significant parameter was the injection pressure. This is logical because a miscible flood will only be effective at pressures above the miscibility pressure as well as the higher pressure will provide a greater degree of support and allow for a larger volume of fluid to be injected.</anchoringText>
+<image-wrap id="102118189779MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118189779MS_i_9.tif" id="ImgLink-9" />
+<caption>Sobol Analyses for Optimization of CO<sub>2</sub> Flood</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Sobol Analyses for Optimization of CO<sub>2</sub> Flood</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="15" figure-order="10" data-type-order="20">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr22">The uncertainty assessment performed on geological and economical parameters showed an extreme degree of volatility in the results. A histogram representing the Monte Carlo simulation and a Sobol analysis of the most influential parameters is presented in Figure 10. The value for P90 was calculated to be -$49 M, while the P10 was $133 M. The P50 was around $16 M which is similar to the natural depletion case. This shows that the results of a CO2 flood are extremely sensitive to the input parameters with oil price being the most influential among them.</anchoringText>
+<image-wrap id="102118189779MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118189779MS_i_10.tif" id="ImgLink-10" />
+<caption>Monte Carlo Simulation and Sobol Analyses for Uncertainty Assessment of CO<sub>2</sub> Flood</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Monte Carlo Simulation and Sobol Analyses for Uncertainty Assessment of CO<sub>2</sub> Flood</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189779MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118189779MS_i_10a.tif" id="ImgLink-10a" />
+</image-wrap>
+<image-wrap id="102118189779MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118189779MS_i_10b.tif" id="ImgLink-10b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="11" data-type-order="21">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr23">Well spacing, half-length, and fracture spacing were the most impactful parameters on the success of the Huff n Puff process. A plot of their influence on NPV can be seen in Figure 11. Contrary to the previous processes, Huff n Puff was found to be more effective at a higher fracture density. The simulations with the highest NPV used a fracture spacing of 100 m. Like natural depletion, the optimal cases used the largest fracture half-length and larger well spacing.</anchoringText>
+<image-wrap id="102118189779MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118189779MS_i_11.tif" id="ImgLink-11" />
+<caption>NPV vs Fracture spacing for Huff n Puff</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>NPV vs Fracture spacing for Huff n Puff</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="12" data-type-order="23">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr24">On the other hand, the Huff n Puff process requires several cycles to produce the extra oil in the reservoir; delaying the recovery. This is shown in the Figure 12: a plot of Cumulative Oil for the best cases based on NPV. The Huff n Puff case produces only 38% less oil compared to flooding but generates 53% less revenue and 70% less NPV. In the calculation of NPV, oil that is produced at later times will be heavily discounted and worth less than oil produced at earlier times.</anchoringText>
+<image-wrap id="102118189779MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118189779MS_i_12.tif" id="ImgLink-12" />
+<caption>Cumulative Oil Comparison CO<sub>2</sub> Flooding versus Cyclic CO<sub>2</sub>
+</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Cumulative Oil Comparison CO<sub>2</sub> Flooding versus Cyclic CO<sub>2</sub>
+</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="13" data-type-order="24">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr25">Comparing the four processes together in Figure 13 shows that for this reservoir model, the miscible flood yielded the highest NPV at $47 M. The IRR further favours this process as it also had the highest value at 28%. Because the return on investment is higher than in primary production, it is better to invest additional capital in a flooding EOR process for this reservoir instead of drilling additional wells. From the chart, it can also be observed that a reservoir well suited for a flooding process may not be well suited for a cyclic process.</anchoringText>
+<image-wrap id="102118189779MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118189779MS_i_13.tif" id="ImgLink-13" />
+<caption>NPV and IRR of Optimum of each recovery process</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>NPV and IRR of Optimum of each recovery process</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="14" data-type-order="26">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr26">Comparing the histograms from the Monte-Carlo simulations, as shown in Figure 14, it can be seen that despite having the highest average NPV, the CO2 flood has the greatest degree of variability in results. Nitrogen injection and natural depletion performed similar to each other, and Huff n Puff yielded the least optimal results. Despite enhanced recovery techniques showing promise, the natural depletion has the greatest confidence in results.</anchoringText>
+<image-wrap id="102118189779MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118189779MS_i_14.tif" id="ImgLink-14" />
+<caption>Uncertainty Assessment Comparison of 4 Recovery Techniques</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Uncertainty Assessment Comparison of 4 Recovery Techniques</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

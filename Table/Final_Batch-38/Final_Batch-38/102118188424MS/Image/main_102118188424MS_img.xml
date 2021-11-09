@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118188424MS.txt" extractionDate="2021-03-26T10:52:16Z">
+<doi>10.2118/188424-MS</doi>
+<pii>10.2118/188424-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure composite="true" composite-count="2" pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr7">To evaluate the effect of foam application, we derived a small sector model for mechanistic compositional simulation from a finely gridded full-field geocellular model (Figure 1). We modelled only the most productive sand.</anchoringText>
+<image-wrap id="102118188424MS-Img_SPi-1">
+<label>Figure 1</label>
+<imageLink type="mediaResource" href="102118188424MS_i_1.tif" id="ImgLink-1" />
+<caption>(Left) Full-field geocellular model (permeability grid); the white rectangle shows the area from which the conceptual model was cropped. (Right) Conceptual model (permeability grid); 10:1 vertical exaggeration</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>(Left) Full-field geocellular model (permeability grid); the white rectangle shows the area from which the conceptual model was cropped. (Right) Conceptual model (permeability grid); 10:1 vertical exaggeration</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188424MS-Img_SPi-1a">
+<imageLink type="mediaResource" href="102118188424MS_i_1a.tif" id="ImgLink-1a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>Full-field geocellular model (permeability grid)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188424MS-Img_SPi-1b">
+<imageLink type="mediaResource" href="102118188424MS_i_1b.tif" id="ImgLink-1b" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>Conceptual model (permeability grid)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr8">The input deck for the foam description was based on adjusting the apparent viscosity vs. gas fraction from preliminary experimental results (see Experimental Evaluation section). Figure 2 shows the resultant foam apparent viscosity vs. gas saturation in a theoretical condition where only gas and water are present. Apparent viscosity is defined in Equation 2, where K is the effective permeability, S is cross-section area, ΔP is the pressure drop, L is the horizontal length and Q, the fluid rate.</anchoringText>
+<image-wrap id="102118188424MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118188424MS_i_2.tif" id="ImgLink-2" />
+<caption>Foam apparent viscosity vs. gas saturation as per foam input parameters</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Foam apparent viscosity vs. gas saturation as per foam input parameters</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr9">In addition, due to the strong effect of the oil in the experiments (see Experimental Evaluation section) a dependence of the interpolation factor with oil was defined; the resultant plot of apparent viscosity vs. oil saturation is shown in Figure 3.</anchoringText>
+<image-wrap id="102118188424MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118188424MS_i_3.tif" id="ImgLink-3" />
+<caption>Foam apparent viscosity vs. oil saturation as per foam input parameters</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Foam apparent viscosity vs. oil saturation as per foam input parameters</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr10">Figure 4 shows that the foam application successfully reduces the GOR and increases the oil rate when a GOR cutoff of 1200 sm3/m3 is imposed. Moreover, in the foam injection case the oil production rate reaches the GOR limit two years later.</anchoringText>
+<image-wrap id="102118188424MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118188424MS_i_4.tif" id="ImgLink-4" />
+<caption>Comparison between foam (C1-F case, bold lines) and no foam (C1 case. dotted lines): oil production rate (green) and GOR (red)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Comparison between foam (C1-F case, bold lines) and no foam (C1 case. dotted lines): oil production rate (green) and GOR (red)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr11">Figure 5 (right-hand plot) shows the vertical injection profile before and after in-situ foam generation. The simulation shows that the injected gas rate drops drastically in the high permeability layers (Figure 5; left-hand plot) whereas it increases in the less flooded, less permeable layers. A 3D cross-section (Figure 6) also shows this effect, where the interpolation factor, i.e. the reduction in gas mobility due to foam, is displayed in the grid.</anchoringText>
+<image-wrap id="102118188424MS-Img_SPi-5">
+<label>Figure 5</label>
+<imageLink type="mediaResource" href="102118188424MS_i_5.tif" id="ImgLink-5" />
+<caption>(Left) C1-F case vertical permeability profile at the injector location. (Right) Bottom hole gas injection rate before (red line) and after surfactant injection (blue line)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>(Left) C1-F case vertical permeability profile at the injector location. (Right) Bottom hole gas injection rate before (red line) and after surfactant injection (blue line)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188424MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118188424MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>C1-F case vertical permeability</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188424MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118188424MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>hole gas injection rate before</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr12">Figure 5 (right-hand plot) shows the vertical injection profile before and after in-situ foam generation. The simulation shows that the injected gas rate drops drastically in the high permeability layers (Figure 5; left-hand plot) whereas it increases in the less flooded, less permeable layers. A 3D cross-section (Figure 6) also shows this effect, where the interpolation factor, i.e. the reduction in gas mobility due to foam, is displayed in the grid.</anchoringText>
+<image-wrap id="102118188424MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118188424MS_i_6.tif" id="ImgLink-6" />
+<caption>3D cross-section, C1-F model showing the foam interpolation facto; from no foam (blue) to strong foam creation (red)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>3D cross-section, C1-F model showing the foam interpolation facto; from no foam (blue) to strong foam creation (red)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr13">We performed a sensitivity to numerical grid refinement in order to optimize simulation run time. Figure 7 shows the oil production rate for three different cell sizes: 14 m (C1-F Case), 25 m and 100 m in the horizontal direction. The former has an average vertical cell size of 0.25 m, half the size of the latter two cases. Figure 8 shows the GOR for the sensitivities. These results suggest that 25 m in the horizontal direction is a reasonable cell size, whereas 100 m is too coarse and leads to numerical dispersion and dilution effects.</anchoringText>
+<image-wrap id="102118188424MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118188424MS_i_7.tif" id="ImgLink-7" />
+<caption>Oil production rate for different grid refinements for foam application cases: 14 × 14 × 0.25 m (green), 25 × 25 × 0.5 m (black) and 100 × 100 × 0.5 m (blue)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Oil production rate for different grid refinements for foam application cases: 14 × 14 × 0.25 m (green), 25 × 25 × 0.5 m (black) and 100 × 100 × 0.5 m (blue)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr14">We performed a sensitivity to numerical grid refinement in order to optimize simulation run time. Figure 7 shows the oil production rate for three different cell sizes: 14 m (C1-F Case), 25 m and 100 m in the horizontal direction. The former has an average vertical cell size of 0.25 m, half the size of the latter two cases. Figure 8 shows the GOR for the sensitivities. These results suggest that 25 m in the horizontal direction is a reasonable cell size, whereas 100 m is too coarse and leads to numerical dispersion and dilution effects.</anchoringText>
+<image-wrap id="102118188424MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118188424MS_i_8.tif" id="ImgLink-8" />
+<caption>Gas oil ratio for different grid refinements for foam application cases: 14 × 14 × 0.25 m (green), 25 × 25 × 0.5 m (black) and 100 × 100 × 0.5 m (blue)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Gas oil ratio for different grid refinements for foam application cases: 14 × 14 × 0.25 m (green), 25 × 25 × 0.5 m (black) and 100 × 100 × 0.5 m (blue)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr15">As described in the Introduction, many parameters control foam creation and dry-out in the model: their uncertainty is high. Figure 9 is a tornado plot that shows the percentage of change in incremental oil recovery when varying one parameter at a time. Most of the factors can strongly affect the performance of the foam application; the way to reduce uncertainty is through experimental work and pilot implementation.</anchoringText>
+<image-wrap id="102118188424MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118188424MS_i_9.tif" id="ImgLink-9" />
+<caption>Tornado plot showing sensitivity of incremental recovery to foam modelling parameters</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Tornado plot showing sensitivity of incremental recovery to foam modelling parameters</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr16">Figure 10 shows the salinity (TDS) of injected water and of water produced from three wells of sector SA. For wells A and B the latest measured values are about a third of the initial formation water salinity. Well C, an older well that has been affected by water injection since 2003, shows lower water salinity, in line with the injection water. It is also worth mentioning that there is a recently increasing trend in injection water salinity due to higher water recycling as the watercut of the field increases.</anchoringText>
+<image-wrap id="102118188424MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118188424MS_i_10.tif" id="ImgLink-10" />
+<caption>Salinity of initial formation water, injected water, and produced water.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Salinity of initial formation water, injected water, and produced water.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="11" data-type-order="13">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr17">We performed a conceptual simulation with the C1 model to evaluate the mechanisms of water mixing in the reservoir. Figure 11 shows the distribution of salt concentration (expressed as mole fraction of NaCl) in the conceptual model after 0.2 HCPV of cumulative water injection. Water salinity reduces strongly far from the well due to mixing with the injection water, especially in the high permeability zones.</anchoringText>
+<image-wrap id="102118188424MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118188424MS_i_11.tif" id="ImgLink-11" />
+<caption>3D cross section showing the NaCl mole fraction after 0.2 HCPV cumulative water injection. Vertical exaggeration 7:1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>3D cross section showing the NaCl mole fraction after 0.2 HCPV cumulative water injection. Vertical exaggeration 7:1</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="12" data-type-order="14">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr18">Figure 12 shows the profile of aqueous NaCl (mole fraction) in one of the model layers and along the cross section shown in Figure 11. Up to 400 m away from the well, the salinity is almost the same as the injected water salinity. Therefore, the formulation should be designed to be effective for water composition similar to injection water.</anchoringText>
+<image-wrap id="102118188424MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118188424MS_i_12.tif" id="ImgLink-12" />
+<caption>Red Line: horizontal profile of NaCl mole fraction from the injector (0 m) to the producer (900 m). Blue line: initial mole fraction of NaCl in formation water in the model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Red Line: horizontal profile of NaCl mole fraction from the injector (0 m) to the producer (900 m). Blue line: initial mole fraction of NaCl in formation water in the model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="13" data-type-order="15">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr19">For practical purposes, we cropped the sector at the end of the history match and used it in prediction mode to evaluate the effect of foam application (Figure 13). In the following plots the reference for elapsed time is the end of the history match (time zero). Table 3 is a summary of the model.</anchoringText>
+<image-wrap id="102118188424MS-Img_SPi-13">
+<label>Figure 13</label>
+<imageLink type="mediaResource" href="102118188424MS_i_13.tif" id="ImgLink-13" />
+<caption>Left: Field map. The small polygon shows the location of the conceptual model C1 whereas the larger one shows the location of the sector model SA. Right: Sector model (SA) for foam evaluation (porosity grid).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Left: Field map. The small polygon shows the location of the conceptual model C1 whereas the larger one shows the location of the sector model SA. Right: Sector model (SA) for foam evaluation (porosity grid).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188424MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118188424MS_i_13a.tif" id="ImgLink-13a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>conceptual model C1 whereas the larger</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188424MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118188424MS_i_13b.tif" id="ImgLink-13b" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>location of the sector model SA.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="14" data-type-order="17">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr20">The simulation showed that only two out of 12 producers benefit from foam application. Figure 14 shows the location of the two injectors and the two producers positively influenced by the foam. Figure 15 and Figure 16 show that a strong GOR reduction occurs in Wells 1 and 2, respectively, due to the foam application. Additional oil recovery is achieved mainly due to delayed GOR increase in those two wells.</anchoringText>
+<image-wrap id="102118188424MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118188424MS_i_14.tif" id="ImgLink-14" />
+<caption>3D porosity grid. The red arrows show the direct connection between injectors and producers when these benefited from foam application.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>3D porosity grid. The red arrows show the direct connection between injectors and producers when these benefited from foam application.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="15" data-type-order="18">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr21">The simulation showed that only two out of 12 producers benefit from foam application. Figure 14 shows the location of the two injectors and the two producers positively influenced by the foam. Figure 15 and Figure 16 show that a strong GOR reduction occurs in Wells 1 and 2, respectively, due to the foam application. Additional oil recovery is achieved mainly due to delayed GOR increase in those two wells.</anchoringText>
+<image-wrap id="102118188424MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118188424MS_i_15.tif" id="ImgLink-15" />
+<caption>Comparison between foam (bold lines) and no foam (dotted line) cases for sector SA: Well 1 Oil production rate (green) and GOR (red)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Comparison between foam (bold lines) and no foam (dotted line) cases for sector SA: Well 1 Oil production rate (green) and GOR (red)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="16" data-type-order="19">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr22">The simulation showed that only two out of 12 producers benefit from foam application. Figure 14 shows the location of the two injectors and the two producers positively influenced by the foam. Figure 15 and Figure 16 show that a strong GOR reduction occurs in Wells 1 and 2, respectively, due to the foam application. Additional oil recovery is achieved mainly due to delayed GOR increase in those two wells.</anchoringText>
+<image-wrap id="102118188424MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118188424MS_i_16.tif" id="ImgLink-16" />
+<caption>Comparison between foam (bold lines) and no foam (dotted line) cases for sector SA: Well 2 Oil production rate (green) and GOR (red)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Comparison between foam (bold lines) and no foam (dotted line) cases for sector SA: Well 2 Oil production rate (green) and GOR (red)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="17" data-type-order="21">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr23">All experiments were performed in 38 mm diameter by 250 mm long Buff Berea plugs of ca. 100 mD and were conducted in a high-pressure high-temperature (HP-HT) coreflooding unit (Figure 17), designed specifically for this type of study. Apart from safety considerations associated with high pressure and hydrocarbon gas handling, the main design concern was the precise control of the injection rates and fluid equilibrium.</anchoringText>
+<image-wrap id="102118188424MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118188424MS_i_17.tif" id="ImgLink-17" />
+<caption>High pressure coreflooding unit</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>High pressure coreflooding unit</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="18" data-type-order="23">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr24">The first experiment CF-100 (Figure 18) was a preliminary coreflooding test in simplest and least demanding conditions, i.e. low salinity and zero oil saturation. The objectives were i) to demonstrate foam generation under ideal conditions and ii) to find the gas rate influence on foam generation under such conditions.</anchoringText>
+<image-wrap id="102118188424MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118188424MS_i_18.tif" id="ImgLink-18" />
+<caption>Differential pressure (blue curve) and flow rate (red) vs. injected pore volumes (PV) for Experiment CF-100; no oil present and AOS C12-14 at 5000 ppm</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Differential pressure (blue curve) and flow rate (red) vs. injected pore volumes (PV) for Experiment CF-100; no oil present and AOS C12-14 at 5000 ppm</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="19" data-type-order="24">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr25">The objective of the second experiment (CF-101) was to check foam generation in the presence of residual dead oil (Sor = 0.15). The first trial was with the same formulation as CF-100 (AOS C12-14 Brand A; 5000 ppm). This failed to generate foam at any rate. In the next trial, surfactant concentration was increased up to 10000 ppm, resulting in moderate strength foam generation (MRF = 750) with a critical velocity of 12.2 m/day (Figure 19).</anchoringText>
+<image-wrap id="102118188424MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118188424MS_i_19.tif" id="ImgLink-19" />
+<caption>Differential pressure (blue curve) and flow rate (red) vs. injected pore volumes (PV) for Experiment CF-101, with residual dead oil and AOS C12-14 at 10000 ppm</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Differential pressure (blue curve) and flow rate (red) vs. injected pore volumes (PV) for Experiment CF-101, with residual dead oil and AOS C12-14 at 10000 ppm</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="20" data-type-order="25">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr26">The third experiment (CF-102) tested foam generation in the presence of residual live oil (Sor = 0.09). The starting point was the formulation and conditions that worked in the previous experiment with dead oil: AOS C12-C14 Brand A: 10000 ppm. As presented in Figure 20, a very weak foam was generated (MRF 380), proving that the presence of residual live oil is more detrimental than that of dead oil (CF-101).</anchoringText>
+<image-wrap id="102118188424MS-Img_SPi-20">
+<label>Figure 20 </label>
+<imageLink type="mediaResource" href="102118188424MS_i_20.tif" id="ImgLink-20" />
+<caption>Differential pressure (blue curve) and flow rate (red) vs. injected pore volumes (PV) for Experiment CF-102, with residual live oil and AOS C12-14 at 10000 ppm</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Differential pressure (blue curve) and flow rate (red) vs. injected pore volumes (PV) for Experiment CF-102, with residual live oil and AOS C12-14 at 10000 ppm</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="21" data-type-order="26">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr27">AOS C14-16 performs much better than AOS C12-14. At a concentration of 10000 ppm strong foam with MRF ca. 2600 was successfully created in the presence of residual live oil. In addition, critical velocity was lower; in this case 3.0 m/day (Figure 21).</anchoringText>
+<image-wrap id="102118188424MS-Img_SPi-21">
+<label>Figure 21 </label>
+<imageLink type="mediaResource" href="102118188424MS_i_21.tif" id="ImgLink-21" />
+<caption>Differential pressure (blue curve) and flow rate (red) vs injected pore volumes (PV) for Experiment CF-102, with residual live oil and AOS C14-16 at 10 000ppm</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>21</caption-order>
+<caption-text>Differential pressure (blue curve) and flow rate (red) vs injected pore volumes (PV) for Experiment CF-102, with residual live oil and AOS C14-16 at 10 000ppm</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="22" data-type-order="27">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr28">A foam generator was placed upstream of the core to assure that the foam had already formed when it entered the core. Foam was injected into the core at fixed rate (3 m/d) and increasing quality (0 –100 %) while measuring the pressure drop between inlet and outlet (Figure 22). Apparent viscosity was subsequently calculated as per Equation 2. Figure 23 plots the results of the experiment; i.e. apparent viscosity as a function of gas mass fraction in the injected foam and the resulting fitting curve used to derive simulation foam parameters (Boeije &amp; Rossen, 2015) for the base simulation prediction previously shown.</anchoringText>
+<image-wrap id="102118188424MS-Img_SPi-22">
+<label>Figure 22 </label>
+<imageLink type="mediaResource" href="102118188424MS_i_22.tif" id="ImgLink-22" />
+<caption>Differential pressure (blue curve) and foam quality (red) vs. injected pore volumes (PV). Experiment CF-202. Rate 6.1 m/d; no oil presence. Surfactant Brand A AOS 14-16 at 10000 ppm</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>22</caption-order>
+<caption-text>Differential pressure (blue curve) and foam quality (red) vs. injected pore volumes (PV). Experiment CF-202. Rate 6.1 m/d; no oil presence. Surfactant Brand A AOS 14-16 at 10000 ppm</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="23" data-type-order="28">
+<link href="link-23" type="image" />
+<appendix>
+<linkTarget id="link-23" type="image">
+<anchoringText id="Ancr29">A foam generator was placed upstream of the core to assure that the foam had already formed when it entered the core. Foam was injected into the core at fixed rate (3 m/d) and increasing quality (0 –100 %) while measuring the pressure drop between inlet and outlet (Figure 22). Apparent viscosity was subsequently calculated as per Equation 2. Figure 23 plots the results of the experiment; i.e. apparent viscosity as a function of gas mass fraction in the injected foam and the resulting fitting curve used to derive simulation foam parameters (Boeije &amp; Rossen, 2015) for the base simulation prediction previously shown.</anchoringText>
+<image-wrap id="102118188424MS-Img_SPi-23">
+<label>Figure 23 </label>
+<imageLink type="mediaResource" href="102118188424MS_i_23.tif" id="ImgLink-23" />
+<caption>Foam apparent viscosity vs. gas mass fraction: experimental data (square points) and adjusted data (solid line). Experiment CF-202</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>23</caption-order>
+<caption-text>Foam apparent viscosity vs. gas mass fraction: experimental data (square points) and adjusted data (solid line). Experiment CF-202</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

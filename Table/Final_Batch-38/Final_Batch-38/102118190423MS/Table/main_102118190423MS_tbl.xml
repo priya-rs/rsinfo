@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190423MS.txt" extractionDate="2021-03-27T14:46:48Z">
+<doi>10.2118/190423-MS</doi>
+<pii>10.2118/190423-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="7" table-order="1" data-type-order="12">
+<table-wrap id="102118190423MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">At the field site, the steam injection was inturrepted due to the frequent water treatment unit stoppage. Hence, the intermittent injection mode (injection for two month and stop for one month) was compared to the continuous injection as it is shown in figure (11), summary of the results are in Table-1. Other parameters remained the same.</anchoringText>
+<label>Table 1</label>
+<caption>Summary of Steam Injection Strategy</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Summary of Steam Injection Strategy</caption-text>
+</formatted-caption>
+<table id="102118190423MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Case</th>
+<th valign="top" align="center">Prod Time (a)</th>
+<th valign="top" align="center">Steam injected (10<sup>
+<sup>6</sup>
+</sup>
+<sup>
+</sup>bbl)</th>
+<th valign="top" align="center">Cum oil (10<sup>
+<sup>6</sup>
+</sup>
+<sup>
+</sup>bbl)</th>
+<th valign="top" align="center">Cum liquid (10<sup>
+<sup>6</sup>
+</sup>
+<sup>
+</sup>bbl)</th>
+<th valign="top" align="center">OSR</th>
+<th valign="top" align="center">RF</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Continuous</td>
+<td valign="top" align="center">13</td>
+<td valign="top" align="center">13.18</td>
+<td valign="top" align="center">6.8</td>
+<td valign="top" align="center">15.89</td>
+<td valign="top" align="center">0.52</td>
+<td valign="top" align="center">23.2</td>
+</tr>
+<tr>
+<td valign="top" align="center">Intermittent</td>
+<td valign="top" align="center">13</td>
+<td valign="top" align="center">9.82</td>
+<td valign="top" align="center">6</td>
+<td valign="top" align="center">12.23</td>
+<td valign="top" align="center">0.61</td>
+<td valign="top" align="center">21</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="9" table-order="2" data-type-order="16">
+<table-wrap id="102118190423MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">According to the characteristics of steam flooding well pattern (FNE 52), four cases were designed for perforation strategy Table (2).</anchoringText>
+<label>Table</label>
+<caption>(2) Completion Matrix</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>(2)</caption-order>
+<caption-text>Completion Matrix</caption-text>
+</formatted-caption>
+<table id="102118190423MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th align="center">Well</th>
+<th align="center">Formation</th>
+<th align="center">Perforation Interval (m)</th>
+<th align="center">thickness (m)</th>
+<th align="center">Remarks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4" align="left">FNE-35</td>
+<td rowspan="4" align="left">Bentiu</td>
+<td align="left">504.5-506.0</td>
+<td align="left">1.5</td>
+<td rowspan="4" valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td align="left">513 - 521</td>
+<td align="left">8</td>
+</tr>
+<tr>
+<td align="left">528 - 529</td>
+<td align="left">1</td>
+</tr>
+<tr>
+<td align="left">531 - 537</td>
+<td align="left">6</td>
+</tr>
+<tr>
+<td rowspan="3" align="left">FNE-36</td>
+<td rowspan="3" align="left">Bentiu</td>
+<td align="left">509 - 510</td>
+<td align="left">1</td>
+<td rowspan="3" align="left">Bentiu 1b not perforated</td>
+</tr>
+<tr>
+<td align="left">511 - 519</td>
+<td align="left">8</td>
+</tr>
+<tr>
+<td align="left">521 - 527</td>
+<td align="left">6</td>
+</tr>
+<tr>
+<td rowspan="2" align="left">FNE-37</td>
+<td rowspan="2" align="left">Bentiu</td>
+<td align="left">520 - 523.5</td>
+<td align="left">3.5</td>
+<td rowspan="2" align="left">Bentiu 1b not perforated</td>
+</tr>
+<tr>
+<td align="left">530 - 541</td>
+<td align="left">11</td>
+</tr>
+<tr>
+<td rowspan="2" align="left">FNE-38</td>
+<td rowspan="2" align="left">Bentiu</td>
+<td align="left">517 - 524</td>
+<td align="left">7</td>
+<td rowspan="2" align="left">Bentiu 1B not perforated</td>
+</tr>
+<tr>
+<td align="left">533 - 540</td>
+<td align="left">7</td>
+</tr>
+<tr>
+<td rowspan="5" align="left">FNE-45</td>
+<td rowspan="5" align="left">Bentiu</td>
+<td align="left">513.0 - 515.0</td>
+<td align="left">2</td>
+<td rowspan="5" align="left">Bentiu 1B not perforated</td>
+</tr>
+<tr>
+<td align="left">518.0 - 528.0</td>
+<td align="left">10</td>
+</tr>
+<tr>
+<td align="left">533.0 - 539.0</td>
+<td align="left">6</td>
+</tr>
+<tr>
+<td align="left">543.0 - 545.0</td>
+<td align="left">2</td>
+</tr>
+<tr>
+<td align="left">546.0 - 548.0</td>
+<td align="left">2</td>
+</tr>
+<tr>
+<td rowspan="2" align="left">FNE-46</td>
+<td rowspan="2" align="left">Bentiu</td>
+<td align="left">520 - 525</td>
+<td align="left">5</td>
+<td rowspan="2" align="left">Bentiu 1B not perforated</td>
+</tr>
+<tr>
+<td align="left">230 - 540</td>
+<td align="left">10</td>
+</tr>
+<tr>
+<td rowspan="4" align="left">FNE-47</td>
+<td rowspan="4" align="left">Bentiu</td>
+<td align="left">499 -504</td>
+<td align="left">5</td>
+<td rowspan="4" align="left">Bottom of Bentiu 1B not perforated</td>
+</tr>
+<tr>
+<td align="left">511 - 518</td>
+<td align="left">7</td>
+</tr>
+<tr>
+<td align="left">526 - 533</td>
+<td align="left">7</td>
+</tr>
+<tr>
+<td align="left">537 - 539</td>
+<td align="left">2</td>
+</tr>
+<tr>
+<td rowspan="3" align="left">FNE-48</td>
+<td rowspan="3" align="left">Bentiu</td>
+<td align="left">507 - 518</td>
+<td align="left">11</td>
+<td rowspan="3" align="left">Bottom of Bentiu 1B not perforated</td>
+</tr>
+<tr>
+<td align="left">522 - 528</td>
+<td align="left">6</td>
+</tr>
+<tr>
+<td align="left">534 - 536</td>
+<td align="left">2</td>
+</tr>
+<tr>
+<td rowspan="2" align="left">FNE-49</td>
+<td rowspan="2" align="left">Bentiu</td>
+<td valign="top" align="left">(515 - 522) +(524 - 533)</td>
+<td valign="top" align="left">(7) +(9)</td>
+<td rowspan="2" valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td align="left">451 - 543</td>
+<td align="left">2</td>
+</tr>
+<tr>
+<td rowspan="3" align="left">FNE-50</td>
+<td rowspan="3" align="left">Bentiu</td>
+<td align="left">512 - 519</td>
+<td align="left">7</td>
+<td rowspan="3" align="left">Bottom of Bentiu 1B not perforated</td>
+</tr>
+<tr>
+<td align="left">523 - 534</td>
+<td align="left">11</td>
+</tr>
+<tr>
+<td align="left">539 - 542</td>
+<td align="left">30</td>
+</tr>
+<tr>
+<td rowspan="3" align="left">FNE-51</td>
+<td rowspan="3" align="left">Bentiu</td>
+<td align="left">517 - 520</td>
+<td align="left">3</td>
+<td rowspan="3" valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td align="left">524 - 531</td>
+<td align="left">7</td>
+</tr>
+<tr>
+<td align="left">544 - 550</td>
+<td align="left">6</td>
+</tr>
+<tr>
+<td rowspan="3" align="left">FNE-52</td>
+<td rowspan="3" align="left">Bentiu</td>
+<td align="left">507 - 512</td>
+<td align="left">5</td>
+<td rowspan="3" align="left">Bottom of Bentiu 1B not perforated</td>
+</tr>
+<tr>
+<td align="left">517 - 522</td>
+<td align="left">5</td>
+</tr>
+<tr>
+<td align="left">(530 - 534) + (541 - 543)</td>
+<td align="left">(4) +(2)</td>
+</tr>
+<tr>
+<td rowspan="2" align="left">FNE_53</td>
+<td rowspan="2" align="left">Bentiu</td>
+<td align="left">(511 - 517) + (522 - 526)</td>
+<td align="left">(6) + (4)</td>
+<td rowspan="2" valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td align="left">(536 - 539) + (544 - 548)</td>
+<td align="left">(3) + (4)</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="10" table-order="3" data-type-order="17">
+<table-wrap id="102118190423MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Most of the wells had not been perforated in the Bentiu1b Table (3), FNE (38, 46, 48) wells weren't perforated in the lower zone of Bentiu1b, reservoir cross section as shown in Figures (13-14). In order to maximize the effect of the injected steam, completion strategy needs to be optimized.</anchoringText>
+<label>Table</label>
+<caption>(3) Simulation Results for Perforation optimization in Bentiue 1 B</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>(3)</caption-order>
+<caption-text>Simulation Results for Perforation optimization in Bentiue 1 B</caption-text>
+</formatted-caption>
+<table id="102118190423MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">No</th>
+<th valign="top" align="center">Case Name</th>
+<th valign="top" align="center">Prod Time (a)</th>
+<th valign="top" align="center">Steam injected (10<sup>
+<sup>6</sup>
+</sup>
+<sup>
+</sup>bbl)</th>
+<th valign="top" align="center">Cum oil (10<sup>6</sup>bbl)</th>
+<th valign="top" align="center">Cum liquid (10<sup>6</sup>bbl)</th>
+<th valign="top" align="center">OSR</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">CASE1</td>
+<td valign="top" align="center">All perforated</td>
+<td valign="top" align="center">15</td>
+<td valign="top" align="left">11.944</td>
+<td valign="top" align="center">3.27</td>
+<td valign="top" align="center">8.27</td>
+<td valign="top" align="left">0.27</td>
+</tr>
+<tr>
+<td valign="top" align="left">CASE2</td>
+<td valign="top" align="left">Injector in lower &amp; all pro</td>
+<td valign="top" align="center">15</td>
+<td valign="top" align="left">11.944</td>
+<td valign="top" align="center">2.55</td>
+<td valign="top" align="center">7.25</td>
+<td valign="top" align="left">0.21</td>
+</tr>
+<tr>
+<td valign="top" align="left">CASE3</td>
+<td valign="top" align="left">Injector &amp; producer in lower</td>
+<td valign="top" align="center">15</td>
+<td valign="top" align="left">11.944</td>
+<td valign="top" align="center">3.16</td>
+<td valign="top" align="center">7.35</td>
+<td valign="top" align="left">0.26</td>
+</tr>
+<tr>
+<td valign="top" align="left">CASE4</td>
+<td valign="top" align="left">Lower injector &amp; producer in upper</td>
+<td valign="top" align="center">15</td>
+<td valign="top" align="left">11.944</td>
+<td valign="top" align="center">3.68</td>
+<td valign="top" align="center">8.34</td>
+<td valign="top" align="left">0.31</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="10" table-order="4" data-type-order="19">
+<table-wrap id="102118190423MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">The different injection rate for every well pattern is given in the Table four. The thickness and area are calculated using actual parameters accordingly.</anchoringText>
+<label>Table</label>
+<caption>(4) Calculation for different steam injection rate</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>(4)</caption-order>
+<caption-text>Calculation for different steam injection rate</caption-text>
+</formatted-caption>
+<table id="102118190423MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Intensity (t/ha/d/m)</th>
+<th valign="top" align="center">1.6</th>
+<th valign="top" align="center">1.4</th>
+<th valign="top" align="center">1.2</th>
+<th valign="top" align="center">1</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">FNE-50</td>
+<td valign="top" align="center">159.0</td>
+<td valign="top" align="center">139.2</td>
+<td valign="top" align="center">
+<b>1</b>
+<b>19.3</b>
+</td>
+<td valign="top" align="center">99.4</td>
+</tr>
+<tr>
+<td valign="top" align="center">FNE-51</td>
+<td valign="top" align="center">151.7</td>
+<td valign="top" align="center">132.7</td>
+<td valign="top" align="center">
+<b>1</b>
+<b>13.8</b>
+</td>
+<td valign="top" align="center">94.8</td>
+</tr>
+<tr>
+<td valign="top" align="center">FNE-52</td>
+<td valign="top" align="center">132.4</td>
+<td valign="top" align="center">115.9</td>
+<td valign="top" align="center">
+<b>99.3</b>
+</td>
+<td valign="top" align="center">82.8</td>
+</tr>
+<tr>
+<td valign="top" align="center">FNE-53</td>
+<td valign="top" align="center">126.2</td>
+<td valign="top" align="center">110.4</td>
+<td valign="top" align="center">
+<b>94.7</b>
+</td>
+<td valign="top" align="center">78.9</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>T</b>
+<b>otal</b>
+</td>
+<td valign="top" align="center">
+<b>569.3</b>
+</td>
+<td valign="top" align="center">
+<b>498.2</b>
+</td>
+<td valign="top" align="center">
+<b>427.1</b>
+</td>
+<td valign="top" align="center">
+<b>355.9</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="11" table-order="5" data-type-order="21">
+<table-wrap id="102118190423MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5"> </anchoringText>
+<label>Table</label>
+<caption>(5) Calculation for different PIR</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>(5)</caption-order>
+<caption-text>Calculation for different PIR</caption-text>
+</formatted-caption>
+<table id="102118190423MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">PIR</th>
+<th valign="top" align="center">Prod Time(a)</th>
+<th valign="top" align="center">Steam injected (10<sup>
+<sup>6</sup>
+</sup>
+<sup>
+</sup>bbl)</th>
+<th valign="top" align="center">Cum oil (10<sup>
+<sup>6</sup>
+</sup>
+<sup>
+</sup>bbl)</th>
+<th valign="top" align="center">Cum liquid (10<sup>
+<sup>6</sup>
+</sup>
+<sup>
+</sup>bbl)</th>
+<th valign="top" align="center">OSR</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">12.76</td>
+<td valign="top" align="center">5.47</td>
+<td valign="top" align="center">13.83</td>
+<td valign="top" align="center">0.43</td>
+</tr>
+<tr>
+<td valign="top" align="center">1.2</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">12.76</td>
+<td valign="top" align="center">5.79</td>
+<td valign="top" align="center">15.68</td>
+<td valign="top" align="center">0.45</td>
+</tr>
+<tr>
+<td valign="top" align="center">1.4</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">12.76</td>
+<td valign="top" align="center">5.97</td>
+<td valign="top" align="center">17.62</td>
+<td valign="top" align="center">0.47</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="11" table-order="6" data-type-order="22">
+<table-wrap id="102118190423MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6">Steam flooding with different steam quality forecast was carried out with the increase of steam quality; the steam flooding performance was improving. Simulation results are given in Table-6 and Figure (17).</anchoringText>
+<label>Table</label>
+<caption>(6) Steam Flooding Performance for different steam quality</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>(6)</caption-order>
+<caption-text>Steam Flooding Performance for different steam quality</caption-text>
+</formatted-caption>
+<table id="102118190423MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">NO</th>
+<th valign="top" align="center">Quality</th>
+<th valign="top" align="center">Prod Time (a)</th>
+<th valign="top" align="center">Steam injected (10<sup>
+<sup>6</sup>
+</sup>
+<sup>
+</sup>bbl)</th>
+<th valign="top" align="center">Cum oil (10<sup>
+<sup>6</sup>
+</sup>
+<sup>
+</sup>bbl)</th>
+<th valign="top" align="center">Cum liquid (10<sup>
+<sup>6</sup>
+</sup>
+<sup>
+</sup>bbl)</th>
+<th valign="top" align="center">OSR</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">
+<b>CASE</b>
+<b>1</b>
+</td>
+<td valign="top" align="center">0.7</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">12.76</td>
+<td valign="top" align="center">5.766</td>
+<td valign="top" align="center">16.15</td>
+<td valign="top" align="center">0.451</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>CASE</b>
+<b>2</b>
+</td>
+<td valign="top" align="center">0.8</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">12.76</td>
+<td valign="top" align="center">5.878</td>
+<td valign="top" align="center">16.27</td>
+<td valign="top" align="center">0.460</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>CASE</b>
+<b>3</b>
+</td>
+<td valign="top" align="center">0.9</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">12.76</td>
+<td valign="top" align="center">5.980</td>
+<td valign="top" align="center">16.42</td>
+<td valign="top" align="center">0.468</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="12" table-order="7" data-type-order="24">
+<table-wrap id="102118190423MS-tblwrp-7" content-type="structured">
+<anchoringText id="Ancr7">Different production rates were simulated. The results were listed in table (7).</anchoringText>
+<label>Table (7)</label>
+<caption>Statistics for Steam Flooding with different production rate</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>(7)</caption-order>
+<caption-text>Statistics for Steam Flooding with different production rate</caption-text>
+</formatted-caption>
+<table id="102118190423MS-Tbl_SPi-7" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">liquid rate</th>
+<th valign="top" align="center">Prod Time (a)</th>
+<th valign="top" align="center">Steam injected (10<sup>
+<sup>6</sup>
+</sup>
+<sup>
+</sup>bbl)</th>
+<th valign="top" align="center">Cum oil (10<sup>
+<sup>6</sup>
+</sup>
+<sup>
+</sup>bbl)</th>
+<th valign="top" align="center">Cum liquid (10<sup>
+<sup>6</sup>
+</sup>
+<sup>
+</sup>bbl)</th>
+<th valign="top" align="center">OSR</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">
+<b>CASE</b>
+<b>1</b>
+</td>
+<td valign="top" align="center">60</td>
+<td valign="top" align="center">13</td>
+<td valign="top" align="center">12.76</td>
+<td valign="top" align="center">5.81</td>
+<td valign="top" align="center">15.62</td>
+<td valign="top" align="center">0.455</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>CASE</b>
+<b>2</b>
+</td>
+<td valign="top" align="center">65</td>
+<td valign="top" align="center">13</td>
+<td valign="top" align="center">12.764</td>
+<td valign="top" align="center">5.88</td>
+<td valign="top" align="center">16.05</td>
+<td valign="top" align="center">0.460</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>CASE</b>
+<b>3</b>
+</td>
+<td valign="top" align="center">70</td>
+<td valign="top" align="center">13</td>
+<td valign="top" align="center">12.76</td>
+<td valign="top" align="center">5.84</td>
+<td valign="top" align="center">16.08</td>
+<td valign="top" align="center">0.457</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>CASE</b>
+<b>4</b>
+</td>
+<td valign="top" align="center">80</td>
+<td valign="top" align="center">13</td>
+<td valign="top" align="center">12.76</td>
+<td valign="top" align="center">5.76</td>
+<td valign="top" align="center">16.15</td>
+<td valign="top" align="center">0.451</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>CASE</b>
+<b>5</b>
+</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">13</td>
+<td valign="top" align="center">12.76</td>
+<td valign="top" align="center">5.70</td>
+<td valign="top" align="center">16.14</td>
+<td valign="top" align="center">0.446</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

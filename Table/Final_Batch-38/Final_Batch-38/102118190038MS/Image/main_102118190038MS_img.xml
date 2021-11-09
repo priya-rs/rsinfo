@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190038MS.txt" extractionDate="2021-03-29T15:05:36Z">
+<doi>10.2118/190038-MS</doi>
+<pii>10.2118/190038-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr2">Primary production and secondary recovery operations improve only one-third to one-half of the original oil in place in reservoirs (Hall et al., 2003; Youssef et al., 2007; Gudina et al., 2012); therefore, attentions are focused on the enhanced oil recovery (EOR) techniques to recover more hydrocarbon from the existing and abandoned oilfields. Figure 1 shows the different EOR techniques applicable to a hydrocarbon reservoir (Sen, 2008; Hosseininoosheri, 2016).</anchoringText>
+<image-wrap id="102118190038MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118190038MS_i_1.tif" id="ImgLink-1" />
+<caption>Different EOR techniques.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Different EOR techniques.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr3">The dissolution of CO2 in brine decreases the pH of the brine, which leads to a solubility increase of many minerals present in the formation rock. Therefore, CO2 reacts directly and indirectly with minerals of the formation rock, leading to the precipitation of secondary carbonate minerals (Hosseini et al., 2018; Ampomah et al., 2016; Han, 2008; Xu et al., 2004). Figure 2 shows the four main trapping mechanisms that lead to CO2 storage in a CO2-EOR process.</anchoringText>
+<image-wrap id="102118190038MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118190038MS_i_2.tif" id="ImgLink-2" />
+<caption>CO<sub>2</sub> trapping mechanisms in a CO<sub>2</sub>-EOR/storage process (Hosseininoosheri et al. 2018).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>CO<sub>2</sub> trapping mechanisms in a CO<sub>2</sub>-EOR/storage process (<link href="BIB1">Hosseininoosheri et al. 2018</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-16" type="bib">
+<bib id="BIB1">
+<label>Hosseininoosheri et al., 2018</label>
+<author>
+<first-name>P.</first-name>
+<last-name>Hosseininoosheri</last-name>
+</author>, <author>
+<first-name>S. A.</first-name>
+<last-name>Hosseini</last-name>
+</author>, <author>
+<first-name>V.</first-name>
+<last-name>Nuñez-López</last-name>
+</author>, and <author>
+<first-name>L. W.</first-name>
+<last-name>Lake</last-name>
+</author>, <pubDate>2018</pubDate>. Modeling CO2 Partitioning at a Carbonate CO2EOR Site: Permian Basin Field (SACROC Unit). Paper SPE 190161, presented at SPE Improved Oil Recovery Symposium, Tulsa, USA, April, <pages>
+<first-page>14</first-page>
+<last-page>18</last-page>
+</pages>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr4">To investigate the impact of different CO2 injection scenarios (i.e. CGI and WAG) on the CO2 utilization ratios, we integrated three main elements of field assessment: field characterization based on measured data (geocellular model), field production-pressure history performance, and reservoir simulation (CMG-GEM). The integration of these three elements enables us to build a simulation model that gives us the most reliable results (Hosseininoosheri et al., 2016; Khan et al., 2017). Figure 3 shows the summary of our approach in modeling the SACROC performance.</anchoringText>
+<image-wrap id="102118190038MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118190038MS_i_3.tif" id="ImgLink-3" />
+<caption>Summary of field assessment approach to reach the most reliable results.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Summary of field assessment approach to reach the most reliable results.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="4" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr5">A high-resolution heterogeneous model constructed by The Texas Bureau of Economic Geology was used. The original model was constructed to mimic the heterogeneity and structure of Northern Platform of the SACROC unit. In this study, we selected a section of the Northern Platform (Figure 4) and constructed a 55×50×20 (x×y×z) Cartesian corner point grid block.</anchoringText>
+<image-wrap id="102118190038MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118190038MS_i_4.tif" id="ImgLink-4" />
+<caption>Structural map of the SACROC unit. (a) The colored points are more than 2000 vertically drilled wells in the field. (b) Permeability model for the Northern Platform and 19 wells in the study area.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Structural map of the SACROC unit. (a) The colored points are more than 2000 vertically drilled wells in the field. (b) Permeability model for the Northern Platform and 19 wells in the study area.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190038MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118190038MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>The colored points are more than 2000 vertically drilled wells in the field.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190038MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118190038MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>Permeability model for the Northern Platform and 19 wells in the study area.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr6">The study area includes 19 production wells. 12 wells have been converted to injection wells for waterflooding. Out of these 12 wells, 10 have undergone CO2 flooding. Figure 5 shows the well locations in the reservoir model.</anchoringText>
+<image-wrap id="102118190038MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118190038MS_i_5.tif" id="ImgLink-5" />
+<caption>Reservoir model showing formation depth and well locations (reservoir depth varies between 3,778 and 4,612 ft).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Reservoir model showing formation depth and well locations (reservoir depth varies between 3,778 and 4,612 ft).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr7">Further, the relative permeability, which has a significant impact on CO2-oil-brine dynamics in the reservoir (Delshad et al., 2013), is chosen from the data of two wells in the study area (Schepers et al., 2007). However, because of the high heterogeneity of the reservoir, the data were sparse for different core samples; therefore, Corey’s functions were used for relative permeability curves. Figure 6 shows the relative permeability curves matched with core data.</anchoringText>
+<image-wrap id="102118190038MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118190038MS_i_6.tif" id="ImgLink-6" />
+<caption>Water-oil relative permeability curves based on core data.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Water-oil relative permeability curves based on core data.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190038MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118190038MS_i_6a.tif" id="ImgLink-6a" />
+</image-wrap>
+<image-wrap id="102118190038MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118190038MS_i_6b.tif" id="ImgLink-6b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr8">Although it is important to have reliable values for gas relative permeability (Salahshoor and Fahes, 2017), to the knowledge of the authors, there were no available data for liquid-gas relative permeabilities for the SACROC unit. Thus, Corey’s function was used and end points were set during the history matching. Figure 7 shows the liquid-gas relative permeability curves used in this study.</anchoringText>
+<image-wrap id="102118190038MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118190038MS_i_7.tif" id="ImgLink-7" />
+<caption>Oil-gas relative permeability curves set during history matching</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Oil-gas relative permeability curves set during history matching</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr9">We used the average pressure of the study area calculated in the report prepared for the U.S. Department of Energy by Schepers et al. (2007). Using this pressure data, we adjusted the production and injection data for the missing period (1948–1978). Figure 8 shows the average reservoir pressure during the simulation compared to the field data. Although history matching can always be improved, the achieved match is satisfactory for the objectives of this project. In this study, history matching is necessary to assure that the initial point of different CO2–EOR scenarios (e.g., WAG and CGI) is based on the field behavior.</anchoringText>
+<image-wrap id="102118190038MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118190038MS_i_8.tif" id="ImgLink-8" />
+<caption>History matching of average reservoir pressure.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>History matching of average reservoir pressure.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="6" pdf-page="8" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr10">In addition, the entire historical production and injection data (1949–2016) were not available for the study area, but we could access the data for the period from 1978 to 2010. In order to obtain the history match, different parameters (e.g., permeability, relative permeabilities, porosity) were modified and, more important, 12 pseudo-wells were introduced to mimic the boundary condition of the study area. Schepers et al. (2007) calculated a material balance on the edge of the study area and reported the influx of water. However, they assumed that there is only water influx on the edges of the reservoir and they ignored oil and gas influx on the boundary. Figure 9 shows the history matched oil, water, and gas production data.</anchoringText>
+<image-wrap id="102118190038MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118190038MS_i_9.tif" id="ImgLink-9" />
+<caption>History matching of oil, gas, and water production within the study area.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>History matching of oil, gas, and water production within the study area.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190038MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118190038MS_i_9a.tif" id="ImgLink-9a" />
+</image-wrap>
+<image-wrap id="102118190038MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118190038MS_i_9b.tif" id="ImgLink-9b" />
+</image-wrap>
+<image-wrap id="102118190038MS-Img_SPi-9c">
+<imageLink type="mediaResource" href="102118190038MS_i_9c.tif" id="ImgLink-9c" />
+</image-wrap>
+<image-wrap id="102118190038MS-Img_SPi-9d">
+<imageLink type="mediaResource" href="102118190038MS_i_9d.tif" id="ImgLink-9d" />
+</image-wrap>
+<image-wrap id="102118190038MS-Img_SPi-9e">
+<imageLink type="mediaResource" href="102118190038MS_i_9e.tif" id="ImgLink-9e" />
+</image-wrap>
+<image-wrap id="102118190038MS-Img_SPi-9f">
+<imageLink type="mediaResource" href="102118190038MS_i_9f.tif" id="ImgLink-9f" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="10" data-type-order="11">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr11">Two field development strategies are investigated in the present study: 1) a water-alternating-gas (WAG), where we assumed that the operator would have done WAG injection with the WAG ratio of 1 (six months of CO2 injection followed by six months of water injection shown in Figure 10); and 2) a continuous gas injection (CGI), where we assumed that the operator would have done continuous gas injection from the beginning of CO2 injection (01/01/1983 in the study area). In CGI, the water injection rate is zero and the CO2 injection rate is the same as the CO2 injection rate in the WAG scenario.</anchoringText>
+<image-wrap id="102118190038MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118190038MS_i_10.tif" id="ImgLink-10" />
+<caption>Water and CO<sub>2</sub> injection rate in WAG scenario.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Water and CO<sub>2</sub> injection rate in WAG scenario.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="11" data-type-order="12">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr12">In both injection scenarios, we keep the reservoir average pressure the same as the history matched average reservoir pressure. Therefore, the average reservoir pressure is the restriction in this study, because if we did not have pressure restriction, then the oil production would be much higher due to the continuous tertiary EOR technique that we are applying to the field. The CO2 injection rate is calculated based on the average reservoir pressure. Figure 11 shows the CO2 injection patterns of the two scenarios (CGI and WAG) and the historical CO2 injection of the field.</anchoringText>
+<image-wrap id="102118190038MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118190038MS_i_11.tif" id="ImgLink-11" />
+<caption>CO<sub>2</sub> injection rate for different field development strategies.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>CO<sub>2</sub> injection rate for different field development strategies.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="12" data-type-order="13">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr13">The effect of each scenario on the incremental oil recovery plays an important role to decide which of these field development strategies could be more efficient, especially from the operator’s point of view. Therefore, we plotted the amount of produced oil for the assumed field development strategies and compared it with the produced oil from the history of the field which was undergone a short period of CO2 injection and waterflood for the rest. Figure 12 shows the cumulative oil production for WAG, CGI, and history.</anchoringText>
+<image-wrap id="102118190038MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118190038MS_i_12.tif" id="ImgLink-12" />
+<caption>Cumulative volume of produced oil from 1983 to 2010 for different scenarios.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Cumulative volume of produced oil from 1983 to 2010 for different scenarios.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="12" figure-order="13" data-type-order="14">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr14">Figure 13 shows the net and gross CO2 utilization ratios evolution during the CO2-EOR process for the two scenarios (i.e., WAG and CGI), which are calculated as follows:</anchoringText>
+<image-wrap id="102118190038MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118190038MS_i_13.tif" id="ImgLink-13" />
+<caption>Gross and net utilization ratios over time</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Gross and net utilization ratios over time</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190038MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118190038MS_i_13a.tif" id="ImgLink-13a" />
+</image-wrap>
+<image-wrap id="102118190038MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118190038MS_i_13b.tif" id="ImgLink-13b" />
+</image-wrap>
+<image-wrap id="102118190038MS-Img_SPi-13c">
+<imageLink type="mediaResource" href="102118190038MS_i_13c.tif" id="ImgLink-13c" />
+</image-wrap>
+<image-wrap id="102118190038MS-Img_SPi-13d">
+<imageLink type="mediaResource" href="102118190038MS_i_13d.tif" id="ImgLink-13d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="14" data-type-order="15">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr15">The amount of CO2 in the four main trapping mechanisms (i.e., residual trapping, structural trapping, CO2 miscibility trapping in oil, and CO2 solubility trapping in brine) are calculated. Both injection scenarios were followed by a 100-year observation period (post-injection period). Figure 14 and 15 shows the CO2 partitioning in different phases and forms in the both injection and observation periods for WAG and CGI respectively. These figures show how the contribution of different trapping mechanisms change during the injection period and over 100 years post injection.</anchoringText>
+<image-wrap id="102118190038MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118190038MS_i_14.tif" id="ImgLink-14" />
+<caption>Contribution of different CO<sub>2</sub> trapping mechanism during injection and observation period in WAG scenario.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Contribution of different CO<sub>2</sub> trapping mechanism during injection and observation period in WAG scenario.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="15" data-type-order="16">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr16">The amount of CO2 in the four main trapping mechanisms (i.e., residual trapping, structural trapping, CO2 miscibility trapping in oil, and CO2 solubility trapping in brine) are calculated. Both injection scenarios were followed by a 100-year observation period (post-injection period). Figure 14 and 15 shows the CO2 partitioning in different phases and forms in the both injection and observation periods for WAG and CGI respectively. These figures show how the contribution of different trapping mechanisms change during the injection period and over 100 years post injection.</anchoringText>
+<image-wrap id="102118190038MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118190038MS_i_15.tif" id="ImgLink-15" />
+<caption>Contribution of different CO<sub>2</sub> trapping mechanism during injection and observation period in CGI scenario.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Contribution of different CO<sub>2</sub> trapping mechanism during injection and observation period in CGI scenario.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

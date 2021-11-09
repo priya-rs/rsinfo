@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118177854MS.txt" extractionDate="2021-03-16T18:30:12Z">
+<doi>10.2118/177854-MS</doi>
+<pii>10.2118/177854-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="7" table-order="1" data-type-order="7">
+<table-wrap id="102118177854MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">As there are sections in the wells where the density log can be adversely affected by the hole conditions, a second HRA was performed (labelled HRA_Tagged_II in the log displays) using only the interpreted total porosity (which has been compensated for ‘bad hole’) and the deep resistivity. The HRA classes in both analyses are represented by different colours. A total of 4 classes (Dark blue; yellow; light green and light blue) are mapped in the second HRA analysis. Table 1 below shows the RQ class graded for the second HRA analysis which only uses interpreted total porosity and deep resistivity logs. A quick comparison is then possible between wells to understand the RQ variability.</anchoringText>
+<label>Table 1</label>
+<caption>RQ class graded by quality of porosity</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>RQ class graded by quality of porosity</caption-text>
+</formatted-caption>
+<table id="102118177854MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" bgcolor="#5B9BD5"> HRA Class by Color</th>
+<th valign="top" align="center" bgcolor="#5B9BD5"> Porosity in order of best to worst</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center" bgcolor="#DEEAF6"> Dark Blue</td>
+<td valign="top" align="center" bgcolor="#DEEAF6"> Best</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Light Blue</td>
+<td valign="bottom" align="center">Medium</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#DEEAF6"> Yellow</td>
+<td valign="bottom" align="center" bgcolor="#DEEAF6"> Poor to tight / Non-reservoir</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Light Green</td>
+<td valign="bottom" align="center">Tight / Non-reservoir</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="8" table-order="2" data-type-order="8">
+<table-wrap id="102118177854MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2"> </anchoringText>
+<label>Table 2</label>
+<caption>RQ and related comparisons between both wells in Middle Dolomite Formation</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>RQ and related comparisons between both wells in Middle Dolomite Formation</caption-text>
+</formatted-caption>
+<table id="102118177854MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" bgcolor="#4472C4"> Parameters Factored</th>
+<th valign="top" align="center" bgcolor="#4472C4"> Well N1</th>
+<th valign="top" align="center" bgcolor="#4472C4"> Well N2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center" bgcolor="#D9E2F3"> Perforation</td>
+<td valign="bottom" align="center" bgcolor="#D9E2F3"> 3a (15015-15070 ft); 3b (15090-15270 ft)</td>
+<td valign="bottom" align="center" bgcolor="#D9E2F3"> 3 (15498-15558 ft)</td>
+</tr>
+<tr>
+<td valign="top" align="center">Perforation Zone thickness</td>
+<td valign="top" align="center">55ft + 180ft</td>
+<td valign="top" align="center">60ft</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#D9E2F3"> HRA CLASS II distribution over perforation depths</td>
+<td valign="top" align="center" bgcolor="#D9E2F3"> 3a (100% Yellow – Tight; Non-reservoir) 3b (~50% Deep Blue - Best reservoir; rest Non-reservoir)</td>
+<td valign="top" align="center" bgcolor="#D9E2F3"> ~50% Deep Blue in Best reservoir class; rest Non-reservoir – Yellow and Light Green class</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Porosity in the best class</td>
+<td valign="bottom" align="center">3b (~18% in the best class)</td>
+<td valign="bottom" align="center">~15% in the best class</td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#D9E2F3"> Shaliness</td>
+<td valign="bottom" align="center" bgcolor="#D9E2F3"> Clean zone across both perfs</td>
+<td valign="bottom" align="center" bgcolor="#D9E2F3"> Clean zone</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Hydrocarbon Saturation</td>
+<td valign="bottom" align="center">~90%</td>
+<td valign="bottom" align="center">~80%</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#D9E2F3"> Presence of natural fractures</td>
+<td valign="bottom" align="center" bgcolor="#D9E2F3"> Some possible fractures across 3a towards the top (most of 3a tight zone). A high density of discontinuous own fractures and a few possible fractures towards the bottom tight interval of 3b.</td>
+<td align="center" bgcolor="#D9E2F3"> Only a few discontinuous open fractures observed in the middle of 3b across tight interval.</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Stimulated for production</td>
+<td valign="bottom" align="center">Yes</td>
+<td valign="bottom" align="center">Yes</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="10" table-order="3" data-type-order="11">
+<table-wrap id="102118177854MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Analysis of the summary in Table 3 indicates well N2 to be the most suitable in terms of RQ (especially perf 2b in terms of porosity and hydrocarbon saturation). However, well N3 is the best in terms of natural fracture development. Well N3 is also seen to be the best producer post stimulation and this seems to tie to the presence of high density discontinuous natural fractures (possibly enhanced post stimulation). Figure 6 shows an integrated log composite of well N2 with HRA and all input logs used as input to generate the HRA.</anchoringText>
+<label>Table 3</label>
+<caption>RQ and related comparisons between the three wells in Lower Dolomite Formation</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>RQ and related comparisons between the three wells in Lower Dolomite Formation</caption-text>
+</formatted-caption>
+<table id="102118177854MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center" bgcolor="#5B9BD5"> Parameters Factored</th>
+<th valign="top" align="center" bgcolor="#5B9BD5"> Well N1</th>
+<th valign="top" align="center" bgcolor="#5B9BD5"> Well N2</th>
+<th valign="top" align="center" bgcolor="#5B9BD5"> Well N3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center" bgcolor="#DEEAF6"> Perforation</td>
+<td align="center" bgcolor="#DEEAF6"> 1a. 15880-15940 (60 ft) 2.15765-15850 (85 ft)</td>
+<td align="center" bgcolor="#DEEAF6"> 1. 16346-16373 (27 ft) 2b. 15780-15816 (36 ft)</td>
+<td align="center" bgcolor="#DEEAF6"> 1. 15852-15892 (40 ft)</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Perforation Zone thickness</td>
+<td align="center">60ft + 85 ft</td>
+<td align="center">27ft +36ft</td>
+<td align="center">40ft</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#DEEAF6"> HRA CLASS II distribution over perforation depths</td>
+<td valign="bottom" align="center" bgcolor="#DEEAF6"> 1a (100% Light Green class – Tight; Non-reservoir) 2 (~90% Light green class; rest Light Blue class)</td>
+<td align="center" bgcolor="#DEEAF6"> 1. 100% Yellow class (fairly tight zone) 2b. 100% Light Blue class</td>
+<td align="center" bgcolor="#DEEAF6"> ~80% Light Green class (tight reservoir); rest Light Blue class</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Porosity in the best class</td>
+<td valign="bottom" align="center">6% porosity in the Light Blue class and 1-2% porosity in the Light green class</td>
+<td valign="bottom" align="center">2b. 6-7% porosity in the Light Blue class</td>
+<td valign="bottom" align="center">~6% in the Light Blue class (Medium class)</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#DEEAF6"> Shaliness</td>
+<td valign="bottom" align="center" bgcolor="#DEEAF6"> 1a. Shaly ~20% clay 2 Shaly 20-40% clay</td>
+<td valign="bottom" align="center" bgcolor="#DEEAF6"> 1. Clean zone 2b. Shaly zone -20% clay</td>
+<td valign="bottom" align="center" bgcolor="#DEEAF6"> Shaly; Vclay ranges between 5- 35%</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Hydrocarbon Saturation</td>
+<td valign="bottom" align="center">~5-10% (assuming uncertainty in interpretation)</td>
+<td valign="bottom" align="center">1. 80% 2b. ~60%</td>
+<td align="center">40-60%</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#DEEAF6"> Presence of natural fractures</td>
+<td valign="bottom" align="center" bgcolor="#DEEAF6"> 1a. No natural fractures observed across this perf. However, a couple of open discontinuous fractures observed below this perf. 2. A couple of open discontinuous fractures observed and some open discontinuous fractures seen immediately above this perf</td>
+<td align="center" bgcolor="#DEEAF6"> 1. Some fractures discontinuous open observed above perf 1 2b. No natural fractures observed against this perf or in its vicinity</td>
+<td align="center" bgcolor="#DEEAF6"> A high density of discontinuous opwn fractures; closed fractures; fault and a few possible fractures observed against the perf interval 1</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Stimulated for production</td>
+<td align="center">Yes</td>
+<td align="center">Yes</td>
+<td align="center">Yes</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

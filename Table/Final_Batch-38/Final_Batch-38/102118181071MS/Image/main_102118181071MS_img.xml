@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118181071MS.txt" extractionDate="2021-03-23T15:30:32Z">
+<doi>10.2118/181071-MS</doi>
+<pii>10.2118/181071-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1"> </anchoringText>
+<image-wrap id="102118181071MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118181071MS_i_1.tif" id="ImgLink-1" />
+<caption>Breagh gas field, Southern North Sea</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Breagh gas field, Southern North Sea</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="2" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">The Breagh field is equipped with a range of platform and onshore sensors that deliver high-frequency measurement data. These include downhole and wellhead pressure-temperature gauges, surface Venturi flow meters on each well, key facility data sensors and chromatograph composition measurements as well as abundant equipment data in the Process Control System. Fig. 2 shows the field data system that delivers measurement information to both the field control room to support real-time operations, as well as the London-based engineering team to support production and reservoir engineering workflows.</anchoringText>
+<image-wrap id="102118181071MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118181071MS_i_2.tif" id="ImgLink-2" />
+<caption>Breagh field data system</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Breagh field data system</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">After evaluating technical alternatives, the Breagh asset team selected the Avocet* PDMS solution, and implemented a pilot system for evaluation as illustrated in Fig. 3.</anchoringText>
+<image-wrap id="102118181071MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118181071MS_i_3.tif" id="ImgLink-3" />
+<caption>PDMS overview</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>PDMS overview</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">Fig. 4 is an example of the PDMS display and surveillance visualization. Data and information are displayed in a standardized screen, so the user knows at all times what data is being displayed, where the data originated and the degree of data quality checking that has been performed. Although screens like this can be prepared using a spreadsheet application, with Excel a set of questions continue to persist such as where did the data originate, how are data updates applied and how was data change and traceability managed?</anchoringText>
+<image-wrap id="102118181071MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118181071MS_i_4.tif" id="ImgLink-4" />
+<caption>Visualization and surveillance of key production data</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Visualization and surveillance of key production data</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">Fig. 5 summarizes the main reservoir management workflows for the Breagh field, divided into analytical and dynamic simulation activities. Production data like pressures and allocated flow rates comprise the input data for basic analytical processes such as analysis of production performance, well modelling and well test analysis. Classical reservoir engineering techniques such as Decline Curve Analysis (DCA) and P/Z plots alongside more modern techniques such as Rate Transient Analysis (RTA) are used as the basis for the connected volumes modelled in both the simulation and the material balance models.</anchoringText>
+<image-wrap id="102118181071MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118181071MS_i_5.tif" id="ImgLink-5" />
+<caption>Breagh field analysis and simulation workflows</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Breagh field analysis and simulation workflows</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">Fig. 6 shows the back-allocation work process. There are several key steps to well flow rate estimation: (1) reservoir pressure decline is evaluated based on the well offtake rate, (2) the well Productivity Index is updated based on declined reservoir pressure (3) well rate is estimated using a wellbore IPR curve (primary allocation technique), (4) well rate is estimated using well head temperature correlations, and the process is repeated.</anchoringText>
+<image-wrap id="102118181071MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118181071MS_i_6.tif" id="ImgLink-6" />
+<caption>Back-allocation workflow</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Back-allocation workflow</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">In the gas wells of the Breagh field, reservoir pressure depletion has been characterized using a simple model for material balance in terms of cumulative gas volumetric offtake as described in Fig. 7. Consider a time interval T1 ≤ t &#x003C; T2 between two transient pressure build-up (PBU) tests that have determined the reservoir pressure is declining from P*1at time T1 to P*2 at time T2.</anchoringText>
+<image-wrap id="102118181071MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118181071MS_i_7.tif" id="ImgLink-7" />
+<caption>Estimation of <i>P</i>
+<sup>*</sup> (<i>t</i>) from cumulative production between two pressure transient tests</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Estimation of P<sup>*</sup> (t) from cumulative production between two pressure transient tests</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">Surveillance of PI is used to detect unusual changes that may be due to incorrect understanding of well flow rate or changing wellbore conditions. Fig. 8 shows the process used to predict reservoir pressure and PI at a time t based on the two most recent PBU tests.</anchoringText>
+<image-wrap id="102118181071MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118181071MS_i_8.tif" id="ImgLink-8" />
+<caption>Daily estimation of declining reservoir pressure and PI from daily production rate, bottomhole pressure and PBU transient analysis data</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Daily estimation of declining reservoir pressure and PI from daily production rate, bottomhole pressure and PBU transient analysis data</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">Fig. 9 shows a trend of estimated productivity index over a period of approximately 18 months for two wells in the Breagh field. The blue curve represents a well that has seen a constant productivity index throughout its production history, whereas the green curve shows a clear decline in productivity. This was further evaluated and following an intervention, it was seen that scale was building up around the perforations.</anchoringText>
+<image-wrap id="102118181071MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118181071MS_i_9.tif" id="ImgLink-9" />
+<caption>Estimation of Productivity Index over time</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Estimation of Productivity Index over time</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">Transient PBU tests have been analysed, allowing the method to be benchmarked to account for changing kh and skin as illustrated in Fig. 10.</anchoringText>
+<image-wrap id="102118181071MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118181071MS_i_10.tif" id="ImgLink-10" />
+<caption>Estimating well rate from IPR between two PBU test times as reservoir pressure declines</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Estimating well rate from IPR between two PBU test times as reservoir pressure declines</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">Fig. 11 shows the statistical correlation between well head temperature and gas flow rate. At target flow rates the wellhead stabilizes around 110 degF; during shut-in periods the well temperature stabilizes to ambient temperature.</anchoringText>
+<image-wrap id="102118181071MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118181071MS_i_11.tif" id="ImgLink-11" />
+<caption>Estimating well rate from wellhead temperature correlation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Estimating well rate from wellhead temperature correlation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="12" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">An additional benefit of having all the asset production data within the PDMS system is that it becomes a single source of data, and this data can be automatically fed into a variety of third party engineering software applications as shown in Fig. 12.</anchoringText>
+<image-wrap id="102118181071MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118181071MS_i_12.tif" id="ImgLink-12" />
+<caption>Integration with third party software applications</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Integration with third party software applications</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181071MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118181071MS_i_12a.tif" id="ImgLink-12a" />
+</image-wrap>
+<image-wrap id="102118181071MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118181071MS_i_12b.tif" id="ImgLink-12b" />
+</image-wrap>
+<image-wrap id="102118181071MS-Img_SPi-12c">
+<imageLink type="mediaResource" href="102118181071MS_i_12c.tif" id="ImgLink-12c" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

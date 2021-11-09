@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185740MS.txt" extractionDate="2021-03-26T10:54:51Z">
+<doi>10.2118/185740-MS</doi>
+<pii>10.2118/185740-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="2">
+<table-wrap id="102118185740MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The authors were provided a copy of a digitized version of the RRC Bulletin “82” database; a partial summary of the data fields available in both RRC Bulletin “82” and UIC databases is provided below in Table 1. Unfortunately, the RRC does not have a digital record of the information; what remains is voluminous comb-bound books at RRC district offices and occasionally at public libraries. A sample of the scanned data is shown in Figure 2.</anchoringText>
+<label>Table 1</label>
+<caption>General Description of Database Fields Available in RRC Bulletin “82” and UIC</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>General Description of Database Fields Available in RRC Bulletin “82” and UIC</caption-text>
+</formatted-caption>
+<table id="102118185740MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left" />
+<th valign="top" align="center">Database Fields</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">1</td>
+<td valign="top" align="left">
+<b>Location</b>: Sec., Blk., Survey, County, RRC Dist., etc.</td>
+</tr>
+<tr>
+<td valign="top" align="center">2</td>
+<td valign="top" align="left">
+<b>Regulatory Description</b>: RRC Project No., Permit No., Operator, Field Name, Lease/Unit Name, Lease/Unit RRC ID, Reservoir</td>
+</tr>
+<tr>
+<td valign="top" align="center">3</td>
+<td valign="top" align="left">
+<b>Reservoir Data</b>: Depth, Avg. Porosity, Avg. Permeability, Avg. Net Pay, Oil Gravity, Reservoir Area, Project Area, Original Reservoir Pressure, Reservoir Pressure at Beginning of Injection, Latest (1982) Reservoir Pressure</td>
+</tr>
+<tr>
+<td valign="top" align="center">4</td>
+<td valign="top" align="left">
+<b>Date</b>: Reservoir Discovery Date, Unitization Date, Estimated Abandonment Date, Date Fluid Injection Began, Date Injection Temporarily Discontinued, Date Injection Permanently Discontinued</td>
+</tr>
+<tr>
+<td valign="top" align="center">5</td>
+<td valign="top" align="left">
+<b>Injection Statistics</b>: Type of Fluid Injected, IOR Project Type, Injection Fluid Status, Fluid Injection Effectiveness Comment, Surface Injection Pressure, Active No. of Injection Wells (by year), Avg. Daily Injection Rate Per Well (by year), Annual/Monthly/Cumulative Injection Volumes (monthly from 1983 to present), Injection Pattern Type</td>
+</tr>
+<tr>
+<td valign="top" align="center">6</td>
+<td valign="top" align="left">
+<b>Production Statistics</b>: No. of Production Well at Beginning of Injection, Max No. of Production Wells Since Injection Began, Active No. of Production Wells (by year), Avg. Daily Production Rate (by year and at beginning of injection), Annual Oil/Gas/Water/Cond. Production, Cumulative Oil/Gas/Water/Cond. Production from Discovery to Beginning of Injection, Cumulative Oil/Gas/Water/Cond. Production from Beginning of Injection to Current, Cumulative Oil/Gas/Water/Cond. Production, Estimate Production Due to Type of Injection (by year and cumulative volume), Estimated Incremental Oil Recovery Due to Type of Injection <i>(secondary recovery volume), </i>Estimated Original Oil in Place, Estimated Primary Oil Recovery<br /><i>Note: production data ends in 1982 and therefore must be supplemented with current data</i>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">7</td>
+<td valign="top" align="left">
+<b>General</b>: Operator Injection Problems, General Remarks</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="2" data-type-order="4">
+<table-wrap id="102118185740MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Figure 3 is an example of a data visualization used to prepare estimates for primary and secondary reserves; these estimates are utilized to prepare S:P ratios. As highlight in the decline curve analysis, numerous predictor and response parameters and be quantified from this visualization. The following are brief descriptions of observations from Table 2:</anchoringText>
+<label>Table 2</label>
+<caption>General Description of Database Fields Available in RRC Bulletin “82” and UIC</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>General Description of Database Fields Available in RRC Bulletin “82” and UIC</caption-text>
+</formatted-caption>
+<table id="102118185740MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Captured Parameters</th>
+<th valign="top" align="left">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Primary Recovery Reserves</td>
+<td valign="top" align="left">~ 1750 MBO - <link href="102118185740MS-Img_SPi-3">fig. 3</link> (b)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Primary Recovery Timespan</td>
+<td valign="top" align="left">14 years (1961 to 1975)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Secondary Recovery Reserves</td>
+<td valign="top" align="left">~ 1000 MBO (2750 MBO – 1750 MBO) – <link href="102118185740MS-Img_SPi-3">fig. 3</link> (b)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Secondary Recovery Timespan</td>
+<td valign="top" align="left">40 years (1963 to 2003)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Extension Reserves</td>
+<td valign="top" align="left">~ 350 MBO (3100 MBO – 2750 MBO) – <link href="102118185740MS-Img_SPi-3">fig. 3</link> (b)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Infill Reserves</td>
+<td valign="top" align="left">~ 1100 MBO (4200 MBO – 3100 MBO) – <link href="102118185740MS-Img_SPi-3">fig. 3</link> (b)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Various Decline Rates</td>
+<td valign="top" align="left">Primary and Secondary annual decline rates</td>
+</tr>
+<tr>
+<td valign="top" align="left">Various Peak Production Rates</td>
+<td valign="top" align="left">Primary and Secondary peak rates (these can also be ratioed)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Estimates Fill-up Time</td>
+<td valign="top" align="left">~ 2.5 years</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

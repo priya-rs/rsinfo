@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118178328MS.txt" extractionDate="2021-03-19T18:53:59Z">
+<doi>10.2118/178328-MS</doi>
+<pii>10.2118/178328-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1"> </anchoringText>
+<image-wrap id="102118178328MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118178328MS_i_1.tif" id="ImgLink-1" />
+<caption>K4000 reservoir Top Structure Map</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>K4000 reservoir Top Structure Map</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">The K4000 reservoir is interpreted as gas bearing based Neutron/Density logs separation and acquired pressure data with a Gas-Down-To and Water-Up-To delineated from the resistivity log at 7430ftss and 7530ftss (100 ft of undifferentiated fluid) respectively based on well penetrations on the reservoir.(figure 2); No pressure data had been acquired in the water leg in any of the well penetration on the reservoir however there are pressure data in the K4000 gas interval and the respective reservoirs (both gas and water interval) below and above the K4000 reservoir.</anchoringText>
+<image-wrap id="102118178328MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118178328MS_i_2.tif" id="ImgLink-2" />
+<caption>Hydrocarbon distribution plot for K4000 reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Hydrocarbon distribution plot for K4000 reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Plot of all the pressure data acquired versus depth also show a very good and consistent profile with gradient of 0.433psi/ft. In other to validate the capability of contact prediction with the common hydrostatic pressure gradient line established in the field using the respective reservoir water leg pressures, the gas pressure gradient for three reservoirs that have resistivity measure-ment logged hydrocarbon water contact were regressed to the water line. These yielded similar contacts with variance of +9, -1 and +12ft respectively (figure 3).</anchoringText>
+<image-wrap id="102118178328MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118178328MS_i_3.tif" id="ImgLink-3" />
+<caption>Pressure gradient analysis, with water trend plot across reservoirs</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Pressure gradient analysis, with water trend plot across reservoirs</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">To further build confidence on the interpreted contact, sensitivity analysis were carried out to fit a possible oil column by using various possible oil gradient to fit in between the established gas gradient and water gradient using the known WUT at 7530ftss and GDT at 7430 as boundary condition but no oil column could be fitted that respected the knowns (i.e. gas gradient, GDT and WUT) properties (figure 4). Based on this analysis, the K4000 reservoir has been interpreted as Gas reservoir with GWC at 7528ft (with uncertainty of +2ft and -10ft).</anchoringText>
+<image-wrap id="102118178328MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118178328MS_i_4.tif" id="ImgLink-4" />
+<caption>Plot showing oil gradient does not fit</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Plot showing oil gradient does not fit</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118176431MS.txt" extractionDate="2021-03-15T17:33:49Z">
+<doi>10.2118/176431-MS</doi>
+<pii>10.2118/176431-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">T field is located offshore of East Malaysia and has an oil rim structure reservoir with a very strong overlaying gas cap and relatively weak bottom water drive. Figure 1 shows the location of T field. T field has old platform structures with limited space and further facility upgrades such as a gas compressor for surface gas-lift facility is not economically feasible. Besides that, T Field has gas supply limitations from the nearby fields and from itself.</anchoringText>
+<image-wrap id="102118176431MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118176431MS_i_1.tif" id="ImgLink-1" />
+<caption>T Field Location- Offshore East Malaysia</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>T Field Location- Offshore East Malaysia</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">The natural gas injection rate was controlled by the AGL valve through a hydraulic control line at surface without any intervention requirement. Five (5) different opening positions and one (1) fully closed position were designed to meet the different natural gas lift energy or volume requirements through the well life. The target oil sand can be produced by single tubing string at the bottom that is isolated from top gas by packer. Figure 2 shows a general configuration of AGL well design proposed.</anchoringText>
+<image-wrap id="102118176431MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118176431MS_i_2.tif" id="ImgLink-2" />
+<caption>Proposed Smart AGL Completion Configuration for the T Field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Proposed Smart AGL Completion Configuration for the T Field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">In this new phase infill drilling campaign, four (4) wells were drilled in order to achieve the target recovery. As shown in Figure 3 below, the target sand has a clear dipping structure with an over-laying gas cap followed by a long section thin oil bearing section. Oil-water contact at the bottom was found to have relatively weak energy based on the field water-cut history. To expose more contact with target oil-bearing sand, the well trajectories were placed to touch a short section of gas zone at the top, and penetrate the whole long section of thin oil bearing sand along the dip until real time logging-while-drilling (LWD) petrophysics logs detect a clear oil water contact.</anchoringText>
+<image-wrap id="102118176431MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118176431MS_i_3.tif" id="ImgLink-3" />
+<caption>T Field Proposed Well Target Sand Structural Map and an Infill Well Trajectory through Target</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>T Field Proposed Well Target Sand Structural Map and an Infill Well Trajectory through Target</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">To evaluate the feasibility of the AGL completion for all four (4) wells, quick nodal analyses using the single well model was performed to evaluate the strength of current associated gas zone pressure, and make sure this pressure is strong enough to blow gas into tubing and lift the bottom oil effectively. The constructed nodal static model structure is shown in 4.</anchoringText>
+<image-wrap id="102118176431MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118176431MS_i_4.tif" id="ImgLink-4" />
+<caption>Single Well Nodal Analysis for Quick Candidate Screening</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Single Well Nodal Analysis for Quick Candidate Screening</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">To create an AGL single well dynamic simulation model, the work starts by populating near wellbore zonal sand properties from synthetic petrophysical logs which can be extracted from full field geological model, and the minimum resolution of this log data is applied to capture the heterogeneities of multi sand layers. After the property construction, the zonal layer fluid model, zonal pressure and contact initial conditions and zonal sand real perm scale data should be properly defined for each layer. Finally, advanced completion modeling methods should be used to model one smart AGL valve at top gas zone, and to select either an open hole/sand alone screen completion for the bottom oil zone or to involve another smart downhole flow control valve (FCV) to produce bottom oil. Shown in Figure 5, a single well dynamic simulation model was built around wellbore to simulate a smart completion scenario with one top smart AGL valve at gas zone and three bottom FCVs at oil zone. All zones and flow control valves were isolated by packers.</anchoringText>
+<image-wrap id="102118176431MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118176431MS_i_5.tif" id="ImgLink-5" />
+<caption>Constructed Single Well Dynamic Simulation Model for AGL Well Completion and its 10 Year Simulation Response with AGL valve control at gas zone and without FCV valves control at oil zone</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Constructed Single Well Dynamic Simulation Model for AGL Well Completion and its 10 Year Simulation Response with AGL valve control at gas zone and without FCV valves control at oil zone</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">To quantitatively evaluate the performance (i.e., the oil production upside, and gas/water production reduction) of each possible completion strategy, various cases were simulated with constructed single well dynamic model. In this AGL completion case, the following three (3) cases were simulated, and the simulation results are shown in 6.</anchoringText>
+<image-wrap id="102118176431MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118176431MS_i_6.tif" id="ImgLink-6" />
+<caption>Simulated Dynamic Responses for Various Combination Cases of AGL Valve Control in the Gas Zone and FCV Control in the Oil Zone</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Simulated Dynamic Responses for Various Combination Cases of AGL Valve Control in the Gas Zone and FCV Control in the Oil Zone</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">Typically for an effective result observation, nodal analysis is performed at three time snapshot scenarios, i.e. the early stage initial condition upon production kick-off, the middle stage (i.e., after five (5) years production in this case), and the late stage (after 8-10 years production in this case). At initial time-step, both oil and gas zone pressures are still strongly-supported (i.e., oil and associated gas cap in this case), and the inflow fluid are 100% oil with very limited water cut. Therefore, a smaller intermediate AGL-valve opening position will be effective to apply for this initial production condition. Figure 7 shows the calculation results at initial reservoir condition.</anchoringText>
+<image-wrap id="102118176431MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118176431MS_i_7.tif" id="ImgLink-7" />
+<caption>AGL Valve Sizing Optimization via Diagnostic Plots of Gas Lift Effects at Initial Reservoir Conditions</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>AGL Valve Sizing Optimization via Diagnostic Plots of Gas Lift Effects at Initial Reservoir Conditions</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">At the middle time-step of production when reservoir pressure depletes from both gas and oil zones concurrently, the water cut and GOR will potentially increase depending on the strength of the aquifer energy support and the intensity of the gas expanding down. At this stage with the expected heavier liquid column in the production tubing, a slightly larger AGL valve opening position is required to optimize a higher injection rate for well lifting purpose. Similarly at the late stage as the reservoir energy is further depleted, even larger valve-opening positions should be optimized and applied at this stage. Sensitivity analysis was then performed from these nodal snapshots on zonal layer properties to analyze for any uncertainty such as zonal PI or permeability, skin, zonal fluid GOR and watch cut. Figure 8 below demonstrated the conducted sensitivity analysis for AGL valve sizing optimizations as examples.</anchoringText>
+<image-wrap id="102118176431MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118176431MS_i_8.tif" id="ImgLink-8" />
+<caption>Sensitivity Analysis Showing the Effects of Uncertainties in Reservoir and Well Conditions on Production</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Sensitivity Analysis Showing the Effects of Uncertainties in Reservoir and Well Conditions on Production</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">Both AGL completions were installed from a jack up rig in Q3 2014. The completions were installed successfully without any HSE incidents or any AGL related NPT. The completion schematic of one of the wells can be seen in Figure 9. The sand face was completed with stand alone screens (SAS) using swell packer to isolate the gas and oil zones.</anchoringText>
+<image-wrap id="102118176431MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118176431MS_i_9.tif" id="ImgLink-9" />
+<caption>An AGL Completion Schematic and the AGL Valve Assembly System Integrity Test at the Workshop prior to Mobilization to the Offshore Rig</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>An AGL Completion Schematic and the AGL Valve Assembly System Integrity Test at the Workshop prior to Mobilization to the Offshore Rig</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">Figure 10 shows the dual downhole gauge pressure and temperature readings monitored in real time during the well clean up phase. The unstable cycling of pressure and temperature observed in the early phase of clean-up clearly indicate a slugging flow regime with intermittent liquid and gas phase, which had also been verified by surface sampling. Once the completion fluid had cleaned up properly, the pressure profile started showing a gradually stable well flowing condition with a clear pressure difference across the AGL valve, which indicated the stable auto gas injection through the valve.</anchoringText>
+<image-wrap id="102118176431MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118176431MS_i_10.tif" id="ImgLink-10" />
+<caption>Dual Gauge Data from Real Time Monitoring of Dual Gauge during Well Clean Up</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Dual Gauge Data from Real Time Monitoring of Dual Gauge during Well Clean Up</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">The second well has also been producing a good volume of oil, but with conventional surface gas lift rather than auto gas lift. It was found the gas cap in the upper part of the oil reservoir was not injecting gas through the AGL valve from annulus to tubing which was required to lift the oil. PDG gauges attached to the AGL valve indicate that the pressure differential between the annulus and tubing was minimal whether the well is flowing or shut in, as shown on Figure 11.</anchoringText>
+<image-wrap id="102118176431MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118176431MS_i_11.tif" id="ImgLink-11" />
+<caption>Data from Real Time Monitoring of Dual Gauge during Conducted Well Test Process</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Data from Real Time Monitoring of Dual Gauge during Conducted Well Test Process</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">This measurement indicated that gas zone above the swell packer and the oil zone below are in full communication without any sign of isolation with swell packer, and that annulus is full of liquid, instead of gas from the gas cap. About 300 psi higher pressure in annulus was planned based on difference between oil gradient and gas gradient if the annulus is filled with gas from the gas cap, as shown in Figure 12.</anchoringText>
+<image-wrap id="102118176431MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118176431MS_i_12.tif" id="ImgLink-12" />
+<caption>Plot of Pressure vs Depth showing Oil Gradient, Gas Gradient and the Theoretical High Pressure Differential between the tubing and annulus at AGL Valve Depth</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Plot of Pressure vs Depth showing Oil Gradient, Gas Gradient and the Theoretical High Pressure Differential between the tubing and annulus at AGL Valve Depth</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

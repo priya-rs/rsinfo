@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185021MS.txt" extractionDate="2021-03-26T10:28:05Z">
+<doi>10.2118/185021-MS</doi>
+<pii>10.2118/185021-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="7" table-order="1" data-type-order="9">
+<table-wrap id="102118185021MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">There are a number of units in the Bakken formation with implemented waterflood schemes to the north of Section 36 that can be used as analogue considerations. Although variations in reservoir characteristics exist between these analogue projects, they are suitable to compare performance trends. Table 1 and Fig. 9 provide details on reservoir properties of the analogue units and the section of interest.</anchoringText>
+<label>Table 1</label>
+<caption>Analogue reservoir properties</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Analogue reservoir properties</caption-text>
+</formatted-caption>
+<table id="102118185021MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" bgcolor="#025BBC" align="left">
+</th>
+<th valign="bottom" bgcolor="#025BBC" align="left">Property</th>
+<th valign="bottom" bgcolor="#025BBC" align="left">Value</th>
+<th valign="bottom" bgcolor="#025BBC" align="left">Source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="7" valign="top" align="center" bgcolor="#CAD2E6">Section 36</td>
+<td valign="bottom" bgcolor="#CAD2E6" align="left">OOIP (MMBbl)</td>
+<td valign="bottom" bgcolor="#CAD2E6" align="left">8.5 (1.35 e6m3)</td>
+<td valign="bottom" bgcolor="#CAD2E6" align="left">Red River</td>
+</tr>
+<tr>
+<td bgcolor="#E8EAF5" align="left">Bo (m3/m3)</td>
+<td bgcolor="#E8EAF5" align="left">1.018</td>
+<td bgcolor="#E8EAF5" align="left">Red River</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#CAD2E6" align="left">Water Saturation (average)</td>
+<td valign="bottom" bgcolor="#CAD2E6" align="left">0.44</td>
+<td valign="bottom" bgcolor="#CAD2E6" align="left">Red River</td>
+</tr>
+<tr>
+<td bgcolor="#E8EAF5" align="left">Residual Oil Saturation</td>
+<td bgcolor="#E8EAF5" align="left">0.30</td>
+<td bgcolor="#E8EAF5" align="left">Red River</td>
+</tr>
+<tr>
+<td bgcolor="#CAD2E6" align="left">GOR (m3/m3)</td>
+<td bgcolor="#CAD2E6" align="left">~6</td>
+<td bgcolor="#CAD2E6" align="left">Red River</td>
+</tr>
+<tr>
+<td bgcolor="#E8EAF5" align="left">Oil viscosity (cP)</td>
+<td bgcolor="#E8EAF5" align="left">~1.3</td>
+<td bgcolor="#E8EAF5" align="left">Red River</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#CAD2E6" align="left">Average Permeability (md)</td>
+<td valign="bottom" bgcolor="#CAD2E6" align="left">1-5</td>
+<td valign="bottom" bgcolor="#CAD2E6" align="left">Red River</td>
+</tr>
+<tr>
+<td rowspan="8" valign="top" align="center" bgcolor="#E8EAF5">Tundra Unit #1,2,3 &amp; 5</td>
+<td valign="bottom" bgcolor="#E8EAF5" align="left">OOIP (MMBbl)</td>
+<td valign="bottom" bgcolor="#E8EAF5" align="left">59.95 (9.55 e6m3)</td>
+<td valign="bottom" bgcolor="#E8EAF5" align="left">2008 Tundra Application</td>
+</tr>
+<tr>
+<td bgcolor="#CAD2E6" align="left">Bo (rm3/sm3)</td>
+<td bgcolor="#CAD2E6" align="left">1.026</td>
+<td bgcolor="#CAD2E6" align="left">2008 Tundra Application</td>
+</tr>
+<tr>
+<td bgcolor="#E8EAF5" align="left">Water Saturation</td>
+<td bgcolor="#E8EAF5" align="left">0.29</td>
+<td bgcolor="#E8EAF5" align="left">2008 Tundra Application</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#CAD2E6" align="left">Residual oil saturation</td>
+<td valign="bottom" bgcolor="#CAD2E6" align="left">0.31</td>
+<td valign="bottom" bgcolor="#CAD2E6" align="left">2008 Tundra Application</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#E8EAF5" align="left">GOR (sm3/sm3)</td>
+<td valign="bottom" bgcolor="#E8EAF5" align="left">6.4</td>
+<td valign="bottom" bgcolor="#E8EAF5" align="left">2008 Tundra Application</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#CAD2E6" align="left">Bubble Point Pressure (kPa)</td>
+<td valign="bottom" bgcolor="#CAD2E6" align="left">2005:2,123<br />2007:1,920</td>
+<td valign="top" bgcolor="#CAD2E6" align="left">2008 Tundra Application</td>
+</tr>
+<tr>
+<td bgcolor="#E8EAF5" align="left">Average permeability (mD)</td>
+<td bgcolor="#E8EAF5" align="left">1-10</td>
+<td bgcolor="#E8EAF5" align="left">GeoScout</td>
+</tr>
+<tr>
+<td bgcolor="#CAD2E6" align="left">Oil Viscosity (cP)</td>
+<td bgcolor="#CAD2E6" align="left">1.597</td>
+<td bgcolor="#CAD2E6" align="left">2008 Tundra Application</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="12" table-order="2" data-type-order="15">
+<table-wrap id="102118185021MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">For the purpose of this simulation, it was assumed that the formations were in communication and fluids were able to flow between the two formations. Table 2 lists the reservoir properties. The initial OOIP was calculated to be 1,444 e3m3 (9 MMBbl) in the simulation for the section.</anchoringText>
+<label>Table 2</label>
+<caption>Reservoir Properties</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Reservoir Properties</caption-text>
+</formatted-caption>
+<table id="102118185021MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" bgcolor="#5280BB">
+</th>
+<th valign="top" align="center" bgcolor="#5280BB">OOIP</th>
+<th align="center" bgcolor="#5280BB">Horizontal Permeability Avg.</th>
+<th align="center" bgcolor="#5280BB">Vertical Permeability Avg.</th>
+<th valign="top" align="center" bgcolor="#5280BB">Porosity Average</th>
+<th align="center" bgcolor="#5280BB">Avg. Grid Block Thickness</th>
+<th align="center" bgcolor="#5280BB">Average Water Saturation</th>
+<th valign="top" align="center" bgcolor="#5280BB">Average NTG</th>
+<th valign="top" align="center" bgcolor="#5280BB">Kv/Kh</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center" bgcolor="#E8EAF5">
+</td>
+<td align="center" bgcolor="#E8EAF5">(e3m3)</td>
+<td align="center" bgcolor="#E8EAF5">(mD)</td>
+<td align="center" bgcolor="#E8EAF5">(mD)</td>
+<td align="center" bgcolor="#E8EAF5">(fraction)</td>
+<td align="center" bgcolor="#E8EAF5">(m)</td>
+<td align="center" bgcolor="#E8EAF5">(fraction)</td>
+<td align="center" bgcolor="#E8EAF5">(fraction)</td>
+<td align="center" bgcolor="#E8EAF5">(fraction)</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#E8EAF5">Bakken Silt</td>
+<td align="center" bgcolor="#E8EAF5">478</td>
+<td align="center" bgcolor="#E8EAF5">0.9</td>
+<td align="center" bgcolor="#E8EAF5">0.09</td>
+<td align="center" bgcolor="#E8EAF5">0.15</td>
+<td align="center" bgcolor="#E8EAF5">1.19</td>
+<td align="center" bgcolor="#E8EAF5">0.5</td>
+<td align="center" bgcolor="#E8EAF5">0.70</td>
+<td align="center" bgcolor="#E8EAF5">0.1</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#E8EAF5">Three Forks</td>
+<td align="center" bgcolor="#E8EAF5">966</td>
+<td align="center" bgcolor="#E8EAF5">2.5</td>
+<td align="center" bgcolor="#E8EAF5">0.3</td>
+<td align="center" bgcolor="#E8EAF5">0.16</td>
+<td align="center" bgcolor="#E8EAF5">1.13</td>
+<td align="center" bgcolor="#E8EAF5">0.38</td>
+<td align="center" bgcolor="#E8EAF5">0.41</td>
+<td align="center" bgcolor="#E8EAF5">0.1</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#CAD2E6">Field</td>
+<td align="center" bgcolor="#CAD2E6">1444</td>
+<td align="center" bgcolor="#CAD2E6">2</td>
+<td align="center" bgcolor="#CAD2E6">0.2</td>
+<td align="center" bgcolor="#CAD2E6">0.16</td>
+<td align="center" bgcolor="#CAD2E6">1.14</td>
+<td align="center" bgcolor="#CAD2E6">0.42</td>
+<td align="center" bgcolor="#CAD2E6">0.51</td>
+<td valign="top" align="center" bgcolor="#CAD2E6">
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="12" table-order="3" data-type-order="16">
+<table-wrap id="102118185021MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">There are no special core or relative permeability tests performed for Section 36 or in the surrounding areas. The relative permeabilities were obtained using correlations and adjusted for water saturation and water production. A connate water saturation of 20% and a residual oil saturation of 30% were used for the Bakken silt and the Three Forks. No gas-oil relative permeability data is available, thus, correlations were also used. Table 3 shows the relative permeability values.</anchoringText>
+<label>Table 3</label>
+<caption>Relative Permeability Values</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Relative Permeability Values</caption-text>
+</formatted-caption>
+<table id="102118185021MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" bgcolor="#025BBC" align="left">Relative Permeability</th>
+<th valign="bottom" bgcolor="#025BBC" align="left">
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" bgcolor="#CAD2E6" align="left">Swi</td>
+<td valign="bottom" bgcolor="#CAD2E6" align="left">45%</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Swc</td>
+<td valign="bottom" align="left">20%</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#CAD2E6" align="left">Sor</td>
+<td valign="bottom" bgcolor="#CAD2E6" align="left">30%</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Kro</td>
+<td valign="bottom" align="left">1</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#CAD2E6" align="left">Krw</td>
+<td valign="bottom" bgcolor="#CAD2E6" align="left">0.45</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Krg</td>
+<td valign="bottom" align="left">0.2</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#CAD2E6" align="left">Sgc</td>
+<td valign="bottom" bgcolor="#CAD2E6" align="left">0.08</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="13" table-order="4" data-type-order="18">
+<table-wrap id="102118185021MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">No PVT laboratory tests are available for Section 36; therefore, PVT data used in the model was taken from a waterflood simulation study conducted in 2005 by Tundra Oil and Gas Ltd., found on the Manitoba government database. Table 4 lists the properties used as the basis of the PVT data.</anchoringText>
+<label>Table 4</label>
+<caption>Bakken PVT Properties</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Bakken PVT Properties</caption-text>
+</formatted-caption>
+<table id="102118185021MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th bgcolor="#025BBC" align="left">PVT Property</th>
+<th valign="top" bgcolor="#025BBC" align="left">
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td bgcolor="#CAD2E6" align="left">Initial Pressure</td>
+<td bgcolor="#CAD2E6" align="left">11,000 kPa</td>
+</tr>
+<tr>
+<td bgcolor="#E8EAF5" align="left">Bubble Point Pressure</td>
+<td bgcolor="#E8EAF5" align="left">2,123 kPa</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#CAD2E6" align="left">Bo</td>
+<td valign="top" bgcolor="#CAD2E6" align="left">1.026 rm3/sm3</td>
+</tr>
+<tr>
+<td bgcolor="#E8EAF5" align="left">API Gravity</td>
+<td bgcolor="#E8EAF5" align="left">42.6 degrees</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#CAD2E6" align="left">GOR</td>
+<td valign="top" bgcolor="#CAD2E6" align="left">6.4 sm3/sm3</td>
+</tr>
+<tr>
+<td bgcolor="#E8EAF5" align="left">Oil Viscosity</td>
+<td bgcolor="#E8EAF5" align="left">1.597 cP</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="17" table-order="5" data-type-order="24">
+<table-wrap id="102118185021MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">Overall, the forecasts that were generated suggest that a waterflood in a multi-layered, tight oil reservoir developed with multi-fractured horizontal wells can be successful. The recoveries based on the forecast constraints varied from 15% to 26% in the whole project area and from 19% to 30% in the main formation zone. These recoveries were very similar to the analogue pools evaluated earlier. Table 5 provides a summary of the ultimate recoveries obtained from the Basecase, Case 1, Case 2 and Case 3.</anchoringText>
+<label>Table 5</label>
+<caption>Ultimate Recovery Factor by Formation</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Ultimate Recovery Factor by Formation</caption-text>
+</formatted-caption>
+<table id="102118185021MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th align="center" bgcolor="#025BBC">Basecase</th>
+<th align="center" bgcolor="#025BBC">OOIP</th>
+<th align="center" bgcolor="#025BBC">Total Production</th>
+<th align="center" bgcolor="#025BBC">Recovery Factor (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td bgcolor="#CDD1E4" align="left">Bakken Silt</td>
+<td align="center" bgcolor="#CDD1E4">480e3m3 (3 MMBbl)</td>
+<td align="center" bgcolor="#CDD1E4">25e3m3 (0.16 MBbl)</td>
+<td align="center" bgcolor="#CDD1E4">5%</td>
+</tr>
+<tr>
+<td bgcolor="#E8EAF5" align="left">Three Forks</td>
+<td align="center" bgcolor="#E8EAF5">970e3m3 (6 MMBbl)</td>
+<td align="center" bgcolor="#E8EAF5">180e3m3 (1.1 MMBbl)</td>
+<td align="center" bgcolor="#E8EAF5">19%</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#A7A7A7" align="left">Total</td>
+<td valign="top" align="center" bgcolor="#A7A7A7">1.4 e6m3 (9 MMBbl)</td>
+<td valign="top" align="center" bgcolor="#A7A7A7">206 e3m3 (1.3 MMBbl)</td>
+<td valign="top" align="center" bgcolor="#A7A7A7">15%</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#025BBC" align="left">Case 1: Infill</td>
+<td valign="top" align="center" bgcolor="#025BBC">OOIP</td>
+<td valign="top" align="center" bgcolor="#025BBC">Total Production</td>
+<td valign="top" align="center" bgcolor="#025BBC">Recovery Factor (%)</td>
+</tr>
+<tr>
+<td bgcolor="#CDD1E4" align="left">Bakken Silt</td>
+<td align="center" bgcolor="#CDD1E4">480e3m3 (3 MMBbl)</td>
+<td align="center" bgcolor="#CDD1E4">52 e3m3 (0.33 MBbl)</td>
+<td align="center" bgcolor="#CDD1E4">10.8%</td>
+</tr>
+<tr>
+<td bgcolor="#E8EAF5" align="left">Three Forks</td>
+<td align="center" bgcolor="#E8EAF5">970e3m3 (6 MMBbl)</td>
+<td align="center" bgcolor="#E8EAF5">202 e3m3 (1.3 MMBbl)</td>
+<td align="center" bgcolor="#E8EAF5">20.8%</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#A7A7A7" align="left">Total</td>
+<td valign="top" align="center" bgcolor="#A7A7A7">1.4 e6m3 (9 MMBbl)</td>
+<td valign="top" align="center" bgcolor="#A7A7A7">254 e3m3 (1.6 MMBbl)</td>
+<td valign="top" align="center" bgcolor="#A7A7A7">17.6%</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#025BBC" align="left">Case 2: Infill + Injection Rate</td>
+<td valign="bottom" align="center" bgcolor="#025BBC">OOIP</td>
+<td valign="bottom" align="center" bgcolor="#025BBC">Total Production</td>
+<td valign="bottom" align="center" bgcolor="#025BBC">Recovery Factor (%)</td>
+</tr>
+<tr>
+<td bgcolor="#CDD1E4" align="left">Bakken Silt</td>
+<td align="center" bgcolor="#CDD1E4">480e3m3 (3 MMBbl)</td>
+<td align="center" bgcolor="#CDD1E4">58 e3m3 (0.36 MBbl)</td>
+<td align="center" bgcolor="#CDD1E4">12.1%</td>
+</tr>
+<tr>
+<td bgcolor="#E8EAF5" align="left">Three Forks</td>
+<td align="center" bgcolor="#E8EAF5">970e3m3 (6 MMBbl)</td>
+<td align="center" bgcolor="#E8EAF5">232e3m3 (1.5 MMBbl)</td>
+<td align="center" bgcolor="#E8EAF5">23.9%</td>
+</tr>
+<tr>
+<td bgcolor="#A7A7A7" align="left">Total</td>
+<td align="center" bgcolor="#A7A7A7">1.4e6m3 (9 MMBbl)</td>
+<td align="center" bgcolor="#A7A7A7">290 e3m3 (1.8 MMBbl)</td>
+<td align="center" bgcolor="#A7A7A7">20%</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#025BBC" align="left">Case 3: Infill + Injection Rate with Sorw = 0.2</td>
+<td align="center" bgcolor="#025BBC">OOIP</td>
+<td align="center" bgcolor="#025BBC">Total Production</td>
+<td align="center" bgcolor="#025BBC">Recovery Factor (%)</td>
+</tr>
+<tr>
+<td bgcolor="#CDD1E4" align="left">Bakken Silt</td>
+<td align="center" bgcolor="#CDD1E4">480e3m3 (3 MMBbl)</td>
+<td align="center" bgcolor="#CDD1E4">78 e3m3 (0.49 MBbl)</td>
+<td align="center" bgcolor="#CDD1E4">16.3%</td>
+</tr>
+<tr>
+<td bgcolor="#E8EAF5" align="left">Three Forks</td>
+<td align="center" bgcolor="#E8EAF5">970e3m3 (6 MMBbl)</td>
+<td align="center" bgcolor="#E8EAF5">293 e3m3 (1.8 MMBbl)</td>
+<td align="center" bgcolor="#E8EAF5">30%</td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#A7A7A7" align="left">Total</td>
+<td valign="top" align="center" bgcolor="#A7A7A7">1.4e6m3 (9 MMBbl)</td>
+<td valign="top" align="center" bgcolor="#A7A7A7">371 e3m3 (2.3 MMBbl)</td>
+<td valign="top" align="center" bgcolor="#A7A7A7">25.7%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

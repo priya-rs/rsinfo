@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187474MS.txt" extractionDate="2021-03-26T19:12:09Z">
+<doi>10.2118/187474-MS</doi>
+<pii>10.2118/187474-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="5">
+<table-wrap id="102118187474MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1"> </anchoringText>
+<caption>
+</caption>
+<formatted-caption />
+<table id="102118187474MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th align="center" bgcolor="#BFBFBF">Variable: Fluid System</th>
+<th align="center" bgcolor="#BFBFBF">No. clusters</th>
+<th align="center" bgcolor="#BFBFBF">Job Rate (bpm)</th>
+<th align="center" bgcolor="#BFBFBF">Fluid Volume (gals)</th>
+<th align="center" bgcolor="#BFBFBF">Proppant Mass (Ibs)</th>
+<th align="center" bgcolor="#BFBFBF">Half Length (ft)</th>
+<th align="center" bgcolor="#BFBFBF">Height (ft)</th>
+<th align="center" bgcolor="#BFBFBF">Width (inch)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" bgcolor="#335598" align="left">
+<b>
+<i>Crosslink </i>
+<i>(XL)</i>
+</b>
+</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">60</td>
+<td valign="bottom" align="center">76,895</td>
+<td valign="bottom" align="center">161,750</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">370</td>
+<td valign="bottom" align="center">0.09</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#335598" align="left">
+<b>
+<i>ClearFRAC (70% N2)</i>
+</b>
+</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">60</td>
+<td valign="bottom" align="center">78,395</td>
+<td valign="bottom" align="center">161,750</td>
+<td valign="bottom" align="center">220</td>
+<td valign="bottom" align="center">480</td>
+<td valign="bottom" align="center">0.08</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#335598" align="left">
+<b>
+<i>Hybrid: Slickwater-XL</i>
+</b>
+</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">60</td>
+<td valign="bottom" align="center">117,395</td>
+<td valign="bottom" align="center">161,875</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">460</td>
+<td valign="bottom" align="center">0.06</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#335598" align="left">
+<b>
+<i>Hybrid: Slickwater-WF</i>
+</b>
+</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">60</td>
+<td valign="bottom" align="center">138,895</td>
+<td valign="bottom" align="center">161,375</td>
+<td valign="bottom" align="center">300</td>
+<td valign="bottom" align="center">450</td>
+<td valign="bottom" align="center">0.05</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="5" table-order="2" data-type-order="7">
+<table-wrap id="102118187474MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2"> </anchoringText>
+<caption>
+</caption>
+<formatted-caption />
+<table id="102118187474MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th align="center" bgcolor="#BFBFBF">Variable: Rate</th>
+<th align="center" bgcolor="#BFBFBF">No. clusters</th>
+<th align="center" bgcolor="#BFBFBF">Job Rate (bpm)</th>
+<th align="center" bgcolor="#BFBFBF">Fluid Volume (gals)</th>
+<th align="center" bgcolor="#BFBFBF">Proppant Mass (Ibs)</th>
+<th align="center" bgcolor="#BFBFBF">Half Length (ft)</th>
+<th align="center" bgcolor="#BFBFBF">Height (ft)</th>
+<th align="center" bgcolor="#BFBFBF">Width (inch)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2" valign="bottom" align="center" bgcolor="#335598">
+<b>
+</b>
+<b>
+<i>Crosslink (XL)</i>
+</b>
+</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">
+<b>
+<i>45</i>
+</b>
+</td>
+<td valign="bottom" align="center">76,895</td>
+<td valign="bottom" align="center">161,750</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">350</td>
+<td valign="bottom" align="center">0.09</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">
+<b>
+<i>60</i>
+</b>
+</td>
+<td valign="bottom" align="center">76,895</td>
+<td valign="bottom" align="center">161,750</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">370</td>
+<td valign="bottom" align="center">0.09</td>
+</tr>
+<tr>
+<td valign="top" align="center" bgcolor="#335598">
+<b>
+</b>
+</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">
+<b>
+<i>75</i>
+</b>
+</td>
+<td valign="bottom" align="center">76,895</td>
+<td valign="bottom" align="center">161,750</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">380</td>
+<td valign="bottom" align="center">0.09</td>
+</tr>
+<tr>
+<td rowspan="2" valign="bottom" align="center" bgcolor="#335598">
+<b>
+<i>Hybrid: Slickwater-XL</i>
+</b>
+</td>
+<td align="center">3</td>
+<td align="center">
+<b>
+<i>45</i>
+</b>
+</td>
+<td align="center">117,395</td>
+<td align="center">161,875</td>
+<td align="center">200</td>
+<td align="center">460</td>
+<td align="center">0.06</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">
+<b>
+<i>60</i>
+</b>
+</td>
+<td align="center">117,395</td>
+<td align="center">161,875</td>
+<td align="center">200</td>
+<td align="center">460</td>
+<td align="center">0.06</td>
+</tr>
+<tr>
+<td valign="top" align="center" bgcolor="#335598">
+<b>
+</b>
+</td>
+<td align="center">3</td>
+<td align="center">
+<b>
+<i>75</i>
+</b>
+</td>
+<td align="center">117,395</td>
+<td align="center">161,875</td>
+<td align="center">200</td>
+<td align="center">460</td>
+<td align="center">0.06</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="3" data-type-order="11">
+<table-wrap id="102118187474MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3"> </anchoringText>
+<caption>
+</caption>
+<formatted-caption />
+<table id="102118187474MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th align="center" bgcolor="#BFBFBF">Variable: Prop Volume</th>
+<th align="center" bgcolor="#BFBFBF">No. clusters</th>
+<th align="center" bgcolor="#BFBFBF">Job Rate (bpm)</th>
+<th align="center" bgcolor="#BFBFBF">Fluid Volume (gals)</th>
+<th align="center" bgcolor="#BFBFBF">Proppant Mass (lbs)</th>
+<th align="center" bgcolor="#BFBFBF">Half Length (ft)</th>
+<th align="center" bgcolor="#BFBFBF">Height (ft)</th>
+<th align="center" bgcolor="#BFBFBF">Width (inch)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3" valign="top" align="center" bgcolor="#335598">
+<b>
+</b>
+<b>
+<i>Hybrid: Slickwater-XL</i>
+</b>
+</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">60</td>
+<td valign="top" align="center">117,395</td>
+<td valign="top" align="center">
+<b>
+<i>80,000</i>
+</b>
+</td>
+<td valign="top" align="center">150</td>
+<td valign="top" align="center">330</td>
+<td valign="top" align="center">0.06</td>
+</tr>
+<tr>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">60</td>
+<td valign="top" align="center">117,395</td>
+<td valign="top" align="center">
+<b>
+<i>161,875</i>
+</b>
+</td>
+<td valign="top" align="center">200</td>
+<td valign="top" align="center">460</td>
+<td valign="top" align="center">0.06</td>
+</tr>
+<tr>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">60</td>
+<td valign="top" align="center">117,395</td>
+<td valign="top" align="center">
+<b>
+<i>300,000</i>
+</b>
+</td>
+<td valign="top" align="center">180</td>
+<td valign="top" align="center">550</td>
+<td valign="top" align="center">0.10</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="4" data-type-order="12">
+<table-wrap id="102118187474MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4"> </anchoringText>
+<caption>
+</caption>
+<formatted-caption />
+<table id="102118187474MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th align="center" bgcolor="#BFBFBF">Variable: Job Clusters</th>
+<th align="center" bgcolor="#BFBFBF">No. clusters</th>
+<th align="center" bgcolor="#BFBFBF">Job Rate (bpm)</th>
+<th align="center" bgcolor="#BFBFBF">Fluid Volume (gals)</th>
+<th align="center" bgcolor="#BFBFBF">Proppant Mass (lbs)</th>
+<th align="center" bgcolor="#BFBFBF">Half Length (ft)</th>
+<th align="center" bgcolor="#BFBFBF">Height (ft)</th>
+<th align="center" bgcolor="#BFBFBF">Width (inch)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2" valign="top" align="center" bgcolor="#335598">
+<b>
+</b>
+<b>
+<i>Hybrid: Slickwater-XL</i>
+</b>
+</td>
+<td valign="top" align="center">
+<b>3</b>
+</td>
+<td valign="top" align="center">60</td>
+<td valign="top" align="center">117,395</td>
+<td valign="top" align="center">161,875</td>
+<td valign="top" align="center">200</td>
+<td valign="top" align="center">460</td>
+<td valign="top" align="center">0.06</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>4</b>
+</td>
+<td valign="top" align="center">60</td>
+<td valign="top" align="center">117,395</td>
+<td valign="top" align="center">161,875</td>
+<td valign="top" align="center">160</td>
+<td valign="top" align="center">375</td>
+<td valign="top" align="center">0.06</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

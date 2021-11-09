@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191904MS.txt" extractionDate="2021-03-30T12:23:32Z">
+<doi>10.2118/191904-MS</doi>
+<pii>10.2118/191904-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">The proposed workflow is designed to take advantage of both facies modelling tools and NTG property modelling using a combined hybrid approach. The technique is operating on a relatively coarse 3D grid in which coal is captured as contiguous discrete-NTG facies (Figure 1). Generally traditional "coal" litho-facies modelling requires a high number of intra-zonal layers with thin grid cells. The NTG facies approach does not require fine layering of the 3D grid and thus significantly reduces the number of grid cells in a given model. The finished product considerably reduces simulation timing without compromising reservoir detail.</anchoringText>
+<image-wrap id="102118191904MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118191904MS_i_1.tif" id="ImgLink-1" />
+<caption>Discrete NTG Model cross-section: coal NTG is shown with red color while interburden in grey; well traces display gamma ray log with coal intervals in black and interburden in yellow.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Discrete NTG Model cross-section: coal NTG is shown with red color while interburden in grey; well traces display gamma ray log with coal intervals in black and interburden in yellow.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">The Scotia field is located approximately 340 km north-west of Brisbane and 100 km west of Fairview field. The Late Permian Baralaba CM (Coal Measures) form the primary CSG reservoir in Scotia and are considered to be the equivalent to the Late Permian Bandanna Formation in Fairview on the western margin of the Taroom Through (Figure 2).</anchoringText>
+<image-wrap id="102118191904MS-Img_SPi-2">
+<label>Figure 2</label>
+<imageLink type="mediaResource" href="102118191904MS_i_2.tif" id="ImgLink-2" />
+<caption>(a) Structural elements of the Bowen Basin and surrounding terranes (Edited from Renate Sliwa et al., 2017); (b) Relationships between stratigraphic supersequences and lithostratigraphic units in the Bowen Basin (Renate Sliwa et al., 2017)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>(a) Structural elements of the Bowen Basin and surrounding terranes (Edited from Renate <link href="BIB1">Sliwa et al., 2017</link>); (b) Relationships between stratigraphic supersequences and lithostratigraphic units in the Bowen Basin (<link href="BIB1">Renate Sliwa et al., 2017</link>)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191904MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118191904MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Structural elements of the Bowen Basin and surrounding terranes</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191904MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118191904MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Relationships between stratigraphic supersequences and lithostratigraphic units in the Bowen Basin</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-11" type="bib">
+<bib id="BIB1">
+<label>Sliwa et al., 2017</label>
+<author>
+<first-name>R.</first-name>
+<last-name>Sliwa</last-name>
+</author>, <author>
+<first-name>J.</first-name>
+<last-name>Esterle</last-name>
+</author>, <author>
+<first-name>L.</first-name>
+<last-name>Phillips</last-name>
+</author> et al. <pubDate>2017</pubDate>. <article-title>Rangal Supermodel 2015: The Rangal-Baralaba-Bandanna Coal Measures in the Bowen and Galilee Basins. <i>ACARP Project C22028</i>
+</article-title>, The University of Queensland.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">The upper unit is generally subdivided into four major seams with variable thickness (up to 14 m), these larger seams tend to split and thin down the western flank and northern nose of the plunging anticline. Flank wells drilled in areas where fluvial activity was more persistent typically show up to 20 individual seams in the Upper Baralaba interval. The lower units consist of thinner, higher ash coals with frequent tuffaceous intervals. This character can be visualized in Figure 3c where the intra-coal facies for the lower unit (Middle Baralaba) consist of a lower volume of coal per cell. The coals in the lower units are not currently target for CSG production.</anchoringText>
+<image-wrap id="102118191904MS-Img_SPi-3">
+<label>Figure 3</label>
+<imageLink type="mediaResource" href="102118191904MS_i_3.tif" id="ImgLink-3" />
+<caption>Facies modelling domains definition based on seismic attribute analysis and well data interpretation: wells inside each domain are characterized by similar coal signature (facies vertical proportion profile).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Facies modelling domains definition based on seismic attribute analysis and well data interpretation: wells inside each domain are characterized by similar coal signature (facies vertical proportion profile).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191904MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118191904MS_i_3a.tif" id="ImgLink-3a" />
+</image-wrap>
+<image-wrap id="102118191904MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118191904MS_i_3b.tif" id="ImgLink-3b" />
+</image-wrap>
+<image-wrap id="102118191904MS-Img_SPi-3c">
+<imageLink type="mediaResource" href="102118191904MS_i_3c.tif" id="ImgLink-3c" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">Sensitivities on layering indicate that the adopted layering geometry returns a more regular volume discretization and overall better estimate of total net coal (Figure 4a); as opposed to a proportional layering geometry, which can lead to layer distortions and therefore incorrect estimation of NTG. In areas adjacent to major seam amalgamation, coal model artefacts can occur due to the sudden reduction of cell volume (Figure 4b). The number of layers adopted is arbitrary and relatively dependent upon the coal seam thicknesses. In order to achieve a fair distribution of NTG facies, the resolution of the 3D grid should be calibrated to generate a sensible amount of grid cells with 100% NTG.</anchoringText>
+<image-wrap id="102118191904MS-Img_SPi-4">
+<label>Figure 4</label>
+<imageLink type="mediaResource" href="102118191904MS_i_4.tif" id="ImgLink-4" />
+<caption>3D Grid layering geometry: comparison between conformable-to-base layering (a) and proportional layering (b).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>3D Grid layering geometry: comparison between conformable-to-base layering (a) and proportional layering (b).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191904MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118191904MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>conformable-to-base layering</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191904MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118191904MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>proportional layering</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="5" pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">For the definition of NTG facies a discrete coal-flag log is used. Coal intervals are flagged using high resolution density logs. The identification of borehole breakout is checked, in this instance sonic logs are evaluated to aid in controlling coal intervals. The coal flag-log is upscaled in the 3D grid as a 0-1 binary array using an arithmetic averaging method. As a result of this operation a continuous NTG property is generated. Discrete NTG classes are then calculated using an arbitrary number of cut-offs (Figure 5). The more discrete coal classes defined, the smoother the NTG model. In the Permian coals of Scotia and Fairview the optimal NTG discretization was achieved with the definition of 5 to 7 classes; further refinement resulted in very small or "empty" sampling envelopes for certain facies.</anchoringText>
+<image-wrap id="102118191904MS-Img_SPi-5">
+<label>Figure 5</label>
+<imageLink type="mediaResource" href="102118191904MS_i_5.tif" id="ImgLink-5" />
+<caption>Conceptual discretization of coal NTG: (a) chronostratigraphic unit: coal (black) and interburden (yellow); (b) volume discretization and NTG calculation; (c) NTG classification ("coal facies"); (d) coal facies coding; (e) initial well data (TGS inputs).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Conceptual discretization of coal NTG: (a) chronostratigraphic unit: coal (black) and interburden (yellow); (b) volume discretization and NTG calculation; (c) NTG classification ("coal facies"); (d) coal facies coding; (e) initial well data (TGS inputs).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191904MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118191904MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>coal (black) and interburden (yellow)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191904MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118191904MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>volume discretization and NTG calculation</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191904MS-Img_SPi-5c">
+<imageLink type="mediaResource" href="102118191904MS_i_5c.tif" id="ImgLink-5c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>NTG classification ("coal facies")</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191904MS-Img_SPi-5d">
+<imageLink type="mediaResource" href="102118191904MS_i_5d.tif" id="ImgLink-5d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>coal facies coding</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191904MS-Img_SPi-5e">
+<imageLink type="mediaResource" href="102118191904MS_i_5e.tif" id="ImgLink-5e" />
+<figure-specific-caption>
+<caption-order>e</caption-order>
+<caption-text>initial well data (TGS inputs)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">Theoretical variogram ranges can be derived from the analysis of continuous NTG data or other indicators such as well testing or well production. In Figure 6 the impact of variogram ranges on the discrete-NTG model is shown: the images from top to bottom display the results of three different realisations where an isotropic variogram range was set at 800m, 1000m and 2000m while maintaining the TGS global seed constant.</anchoringText>
+<image-wrap id="102118191904MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118191904MS_i_6.tif" id="ImgLink-6" />
+<caption>Impact of variogram ranges on discrete-NTG models for three different scenarios; in the images from top to bottom isotropic variogram ranges have been set to 800m, 1000m and 2000m. The net coal model granularity is decreasing; the maximum expected coal thickness increases mainly due to coal seam over-truncation; seam frequency (in isolated coals) is decreasing and overall connectivity increases; edges artefacts (facies juxtaposition) between modelling regions becomes more accentuated.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Impact of variogram ranges on discrete-NTG models for three different scenarios; in the images from top to bottom isotropic variogram ranges have been set to 800m, 1000m and 2000m. The net coal model granularity is decreasing; the maximum expected coal thickness increases mainly due to coal seam over-truncation; seam frequency (in isolated coals) is decreasing and overall connectivity increases; edges artefacts (facies juxtaposition) between modelling regions becomes more accentuated.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">The discrete coal model is ultimately converted-back to a continuous NTG property for volumetrics, upscaling and dynamic modelling purposes. The coal modelling workflow is summarized in Figure 7. A view of the Truncated Gaussian mapping is also shown in the top right of this image.</anchoringText>
+<image-wrap id="102118191904MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118191904MS_i_7.tif" id="ImgLink-7" />
+<caption>Coal NTG modelling workflow: coal flag definition; NTG log up-scaling; NTG classification; facies modelling using Truncated Gaussian simulation; discrete-to-continuous NTG back-conversion.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Coal NTG modelling workflow: coal flag definition; NTG log up-scaling; NTG classification; facies modelling using Truncated Gaussian simulation; discrete-to-continuous NTG back-conversion.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">Using the discrete-NTG modelling method with plentiful well control across the core of the field has allowed a robust numerical population of upscaled cells giving strong control of vertical and horizontal distribution of coals. Figure 8 illustrates the neat coalescing of seams in the central part of the field known as the "superseam". Five individual discrete-NTG facies were defined in this model to capture the coal signature, though this number can be tailored pertaining to the level of detail required. Guided by structural surfaces the facies proportion curves are used to populate the intra-well cells away from well control giving excellent spatial distribution in environments with horizontally continuous coal seams. The mesh section in Figure 8 shows the how the B and D seam thickness is maintained out towards the peripherals of the field.</anchoringText>
+<image-wrap id="102118191904MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118191904MS_i_8.tif" id="ImgLink-8" />
+<caption>Mesh section through the Fairview simulation model, distribution of the discrete facies property is controlled by vertical proportion curve, populated via upscaled cells.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Mesh section through the Fairview simulation model, distribution of the discrete facies property is controlled by vertical proportion curve, populated via upscaled cells.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="9" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">The ability to capture these refinements via intra coal subdivisions is an important advancement; for example the team was able to allocate different relative permeability curves to the different coal facies. This ability enables very specific dynamic and static properties to be applied to different coal types allowing further acute refinement to history match attempts (Figure 9).</anchoringText>
+<image-wrap id="102118191904MS-Img_SPi-9">
+<label>Figure 9</label>
+<imageLink type="mediaResource" href="102118191904MS_i_9.tif" id="ImgLink-9" />
+<caption>Scotia model: core data (a), net-density model (b) and ash model (c) biased by NTG facies.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Scotia model: core data (a), net-density model (b) and ash model (c) biased by NTG facies.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191904MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118191904MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>net-density model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191904MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118191904MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>ash model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191904MS-Img_SPi-9c">
+<imageLink type="mediaResource" href="102118191904MS_i_9c.tif" id="ImgLink-9c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>biased by NTG facies</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">Both the Scotia and Fairview models are being used for dynamic simulation with objective of improving the accuracy and reducing uncertainty on production forecasts. Typically the Permian coals present vertical coal signatures with several (meters) thick seams with major coal splits and amalgamations. In these environments the adopted technique seems to work well returning consistent coal architectures which honour well data and reflect current geological understanding of the fields (Figure 10).</anchoringText>
+<image-wrap id="102118191904MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118191904MS_i_10.tif" id="ImgLink-10" />
+<caption>Scotia field conceptual depositional model vs. discrete NTG model for a selected NS and EW cross-sections.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Scotia field conceptual depositional model vs. discrete NTG model for a selected NS and EW cross-sections.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

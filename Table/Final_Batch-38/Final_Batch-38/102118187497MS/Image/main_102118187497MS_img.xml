@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187497MS.txt" extractionDate="2021-03-27T10:04:50Z">
+<doi>10.2118/187497-MS</doi>
+<pii>10.2118/187497-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr5">This study presents an iterative method, outlined in Fig. 1, which allows for a full Equation-of-State (EOS) calibration across the field. First, a compositional fluid model is generated using defaults provided in commercial software. Then bottomhole pressures are calculated using this initial fluid model, production data, and simplified wellbore schematics. Initial reservoir pressure distribution is taken from initial pressures interpreted from these calculated bottomhole pressures and RTA.</anchoringText>
+<image-wrap id="102118187497MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118187497MS_i_1.tif" id="ImgLink-1" />
+<caption>Schematic of workflow presented in this study.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Schematic of workflow presented in this study.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr6">The study area spans 1,000 mi2 in Kingfisher, Blaine, and Canadian counties of Oklahoma. In this area, the Meramec is dipping from northeast to southwest with a depth ranging from 6,500 to 12,500 ft. Across this range, the reservoir spans fluid types from black oil in the shallowest zones to a condensate gas in the deepest zones studied. Fig. 2 shows the location of the wells and the structure of the Meramec within the study area.</anchoringText>
+<image-wrap id="102118187497MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118187497MS_i_2.tif" id="ImgLink-2" />
+<caption>Map view of study area with location of wells labeled and overlain on a Meramec structure map.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Map view of study area with location of wells labeled and overlain on a Meramec structure map.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr7">Several wells in the dataset do not report tubing pressures for some time after initial flowback. For the purposes of this study, it is assumed that when there is no reported tubing pressure, tubing has not been installed. This is found to be a probable assumption, as evidenced by Fig. 3. In this example, the assumption of flow up casing for initial time appears to hold true, as this assumption yields a smooth trend in the flowing bottomhole pressure once the calculated pressures from both wellbore schematics are combined.</anchoringText>
+<image-wrap id="102118187497MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118187497MS_i_3.tif" id="ImgLink-3" />
+<caption>Bottomhole pressures for Well-04. The smooth transition in the unified bottomhole pressures serves as validation for the recombination methodology.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Bottomhole pressures for Well-04. The smooth transition in the unified bottomhole pressures serves as validation for the recombination methodology.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr8">RTA is carried out using a commercial software. For all wells, a fractured horizontal well model with a rectangular boundary is used. From analysis of rate-material balance time plots (sample plot provided in Fig. 4), it is found that roughly half the wells in the study have attained boundary dominated flow, as tabulated in Table 1. Two reservoir models are utilized in RTA. The first is a homogeneous model. Despite several wells having exited transient flow, much of their production history comes from the transient state; therefore, the second reservoir model utilized is a dual-porosity transient slab model.</anchoringText>
+<image-wrap id="102118187497MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118187497MS_i_4.tif" id="ImgLink-4" />
+<caption>Sample plot used for interpretation of flow regime. If unit slope is observed, the well is interpreted to be in boundary dominated flow.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Sample plot used for interpretation of flow regime. If unit slope is observed, the well is interpreted to be in boundary dominated flow.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="8" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr9">As mentioned previously, it was found within the interval, there are pressure gradients that cannot be explained by a single reservoir model in thermodynamic equilibrium. In order to honor the observed initial pressures, we investigated four different hypotheses that can match the observed pressures. The models are as follows (Fig. 5 illustrates cases 1-3)</anchoringText>
+<image-wrap id="102118187497MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118187497MS_i_5.tif" id="ImgLink-5" />
+<caption>Location of baffles for case 1-3, (a)-(c) respectively.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Location of baffles for case 1-3, (a)-(c) respectively.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118187497MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118187497MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-5c">
+<imageLink type="mediaResource" href="102118187497MS_i_5c.tif" id="ImgLink-5c" />
+<figure-specific-caption>
+<caption-order>(c)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr10">Within each iteration, initial reservoir pressures are interpreted from either RTA or extrapolation of bottomhole pressures (Jones 2014). Fig. 6a shows a plot of initial reservoir pressure, as found from this study, versus TVD. Also shown are the average and range of initial shut-in pressures (ISIP) taken from completion reports. While ISIP will be impacted by more than simply the reservoir pressure, the similarity in trends between the observed initial pressure and ISIP gives some validation to the observed pressures.</anchoringText>
+<image-wrap id="102118187497MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118187497MS_i_6.tif" id="ImgLink-6" />
+<caption>Comparison of interpreted initial reservoir pressure and average reported ISIP. Error bars represent the range from the 10<sup>th</sup> to 90<sup>th</sup> percentile of reported ISIP.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Comparison of interpreted initial reservoir pressure and average reported ISIP. Error bars represent the range from the 10<sup>th</sup> to 90<sup>th</sup> percentile of reported ISIP.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118187497MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118187497MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="9" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr11">While ISIP will be impacted by more than simply the reservoir pressure, the similarity in trends between the observed initial pressure and ISIP gives some validation to the observed pressures. Fig. 6b is a crossplot of initial reservoir pressure and ISIP, again showing a relationship between the values. The relationship found between initial pressure and depth was used to initialize the different models. Initial pressure for the different hypotheses is shown in Fig. 7.</anchoringText>
+<image-wrap id="102118187497MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118187497MS_i_7.tif" id="ImgLink-7" />
+<caption>Initial reservoir pressures for Case 1-4, (a)-(d) respectively.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Initial reservoir pressures for Case 1-4, (a)-(d) respectively.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118187497MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118187497MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-7c">
+<imageLink type="mediaResource" href="102118187497MS_i_7c.tif" id="ImgLink-7c" />
+<figure-specific-caption>
+<caption-order>(c)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-7d">
+<imageLink type="mediaResource" href="102118187497MS_i_7d.tif" id="ImgLink-7d" />
+<figure-specific-caption>
+<caption-order>(d)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr12">As previously mentioned, the objective function used to tune the fluid model is based on the mismatch in initial producing gas-oil ratio. Compositional gradients were used as the primary tuning parameter. The resulting distribution of methane and the first plus fraction are shown in Fig. 8 and are found to correspond well with the results presented by Welker et al. (2016). That study also found a relatively smooth increase in methane composition with depth and a decrease in heptane with depth within the study area.</anchoringText>
+<image-wrap id="102118187497MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118187497MS_i_8.tif" id="ImgLink-8" />
+<caption>Fractional molar concentration distribution of (a) methane and (b) the first plus fraction.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Fractional molar concentration distribution of (a) methane and (b) the first plus fraction.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118187497MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Fractional molar concentration distribution of (a) methane</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118187497MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>the first plus fraction</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="10" figure-order="9" data-type-order="12">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr13">If the reservoir was initially below saturation pressure, different compositional gradients would need to be imposed on each case to achieve a match. The initial producing GOR for three wells, one of each match quality, is shown in Fig. 9. Well-03, shown in Fig. 9a, shows a good quality match and Well-16, shown in Fig. 9b, shows a decent match. Well-02, shown in Fig. 9c, shows a poor match. Well-02 was initially produced using a pump, not free flowing, and this could contribute to producing GOR behavior being different than what the model predicts.</anchoringText>
+<image-wrap id="102118187497MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118187497MS_i_9.tif" id="ImgLink-9" />
+<caption>Comparison of observed and simulated GOR for Well 03 (a), Well 16 (b), and Well 02 (c).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Comparison of observed and simulated GOR for Well 03 (a), Well 16 (b), and Well 02 (c).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118187497MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Well 03</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118187497MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>Well 16</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-9c">
+<imageLink type="mediaResource" href="102118187497MS_i_9c.tif" id="ImgLink-9c" />
+<figure-specific-caption>
+<caption-order>(c)</caption-order>
+<caption-text>Well 02</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="10" data-type-order="13">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr14">To further test the validity of the fluid model, we qualitatively look at the evolution of GOR with respect to the bottomhole flowing pressure. Fig. 10 shows pwf and GOR relationships with time for two wells. The plots also indicate the predicted saturation pressure from the fluid model. In both cases, GOR remains relatively steady until BHP declines below the predicted saturation pressure, as would be expected, giving further credibility to the fluid model.</anchoringText>
+<image-wrap id="102118187497MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118187497MS_i_10.tif" id="ImgLink-10" />
+<caption>Bottomhole flowing pressure and producing GOR for Well 15 (a) and Well 07 (b). The period of constant GOR ends around the time the BHP declines below the predicted bubblepoint.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Bottomhole flowing pressure and producing GOR for Well 15 (a) and Well 07 (b). The period of constant GOR ends around the time the BHP declines below the predicted bubblepoint.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118187497MS_i_10a.tif" id="ImgLink-10a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Well 15</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118187497MS_i_10b.tif" id="ImgLink-10b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>Well 07</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="11" data-type-order="14">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr15">Now that this has been done, we can extract important fluid properties and their distribution throughout the region: initial solution gas-oil ratio (Rsi), initial vapor oil-gas ratio (Rvi), oil formation volume factor (Bo), gas formation volume factor (Bg), oil viscosity (μo), and saturation pressure (psat). For sake of consiceness, we only present Rsi and Bo for all cases, in Figs. 12 &amp; 14 respectively, while Figs. 11 &amp; 13 presents Rvi and Bg alongside their respective oil properties.</anchoringText>
+<image-wrap id="102118187497MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118187497MS_i_11.tif" id="ImgLink-11" />
+<caption>Solution gas-oil ratio (a) and vapor oil-gas ratio (b) for case 1.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Solution gas-oil ratio (a) and vapor oil-gas ratio (b) for case 1.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118187497MS_i_11a.tif" id="ImgLink-11a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Solution gas-oil ratio</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118187497MS_i_11b.tif" id="ImgLink-11b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>vapor oil-gas ratio</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="12" figure-order="12" data-type-order="15">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr16">Now that this has been done, we can extract important fluid properties and their distribution throughout the region: initial solution gas-oil ratio (Rsi), initial vapor oil-gas ratio (Rvi), oil formation volume factor (Bo), gas formation volume factor (Bg), oil viscosity (μo), and saturation pressure (psat). For sake of consiceness, we only present Rsi and Bo for all cases, in Figs. 12 &amp; 14 respectively, while Figs. 11 &amp; 13 presents Rvi and Bg alongside their respective oil properties.</anchoringText>
+<image-wrap id="102118187497MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118187497MS_i_12.tif" id="ImgLink-12" />
+<caption>
+<i>R<sub>si</sub>
+</i>for cases 1-4, (a)-(d) respectively.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>R<sub>si</sub>for cases 1-4, (a)-(d) respectively.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118187497MS_i_12a.tif" id="ImgLink-12a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118187497MS_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-12c">
+<imageLink type="mediaResource" href="102118187497MS_i_12c.tif" id="ImgLink-12c" />
+<figure-specific-caption>
+<caption-order>(c)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-12d">
+<imageLink type="mediaResource" href="102118187497MS_i_12d.tif" id="ImgLink-12d" />
+<figure-specific-caption>
+<caption-order>(d)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="12" figure-order="13" data-type-order="16">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr17">Now that this has been done, we can extract important fluid properties and their distribution throughout the region: initial solution gas-oil ratio (Rsi), initial vapor oil-gas ratio (Rvi), oil formation volume factor (Bo), gas formation volume factor (Bg), oil viscosity (μo), and saturation pressure (psat). For sake of consiceness, we only present Rsi and Bo for all cases, in Figs. 12 &amp; 14 respectively, while Figs. 11 &amp; 13 presents Rvi and Bg alongside their respective oil properties.</anchoringText>
+<image-wrap id="102118187497MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118187497MS_i_13.tif" id="ImgLink-13" />
+<caption>Oil formation volume factor (a) and gas formation volume factor (b) for case 1.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Oil formation volume factor (a) and gas formation volume factor (b) for case 1.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118187497MS_i_13a.tif" id="ImgLink-13a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Oil formation volume factor</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118187497MS_i_13b.tif" id="ImgLink-13b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>gas formation volume factor</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="13" figure-order="14" data-type-order="17">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr18">Now that this has been done, we can extract important fluid properties and their distribution throughout the region: initial solution gas-oil ratio (Rsi), initial vapor oil-gas ratio (Rvi), oil formation volume factor (Bo), gas formation volume factor (Bg), oil viscosity (μo), and saturation pressure (psat). For sake of consiceness, we only present Rsi and Bo for all cases, in Figs. 12 &amp; 14 respectively, while Figs. 11 &amp; 13 presents Rvi and Bg alongside their respective oil properties.</anchoringText>
+<image-wrap id="102118187497MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118187497MS_i_14.tif" id="ImgLink-14" />
+<caption>Oil formation volume factors for cases 1-4, (a)-(d) respectively.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Oil formation volume factors for cases 1-4, (a)-(d) respectively.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118187497MS_i_14a.tif" id="ImgLink-14a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118187497MS_i_14b.tif" id="ImgLink-14b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-14c">
+<imageLink type="mediaResource" href="102118187497MS_i_14c.tif" id="ImgLink-14c" />
+<figure-specific-caption>
+<caption-order>(c)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-14d">
+<imageLink type="mediaResource" href="102118187497MS_i_14d.tif" id="ImgLink-14d" />
+<figure-specific-caption>
+<caption-order>(d)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="15" data-type-order="18">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr19">Of the twenty wells in the study, six had quality enough pressure data to perform RTA. The analysis was completed with commercial software by using regression to match rate-time and pressure-time plots, as well as matching the log-log and Blasingame plots common to RTA (Palacio 1993 &amp; Agarwal 1998). Sample log-log and Blasingame plots for Well-07 are given in Fig. 15.</anchoringText>
+<image-wrap id="102118187497MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118187497MS_i_15.tif" id="ImgLink-15" />
+<caption>Sample log-log and Blasingame plots as used in RTA, taken from Well 07.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Sample log-log and Blasingame plots as used in RTA, taken from Well 07.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-15a">
+<imageLink type="mediaResource" href="102118187497MS_i_15a.tif" id="ImgLink-15a" />
+</image-wrap>
+<image-wrap id="102118187497MS-Img_SPi-15b">
+<imageLink type="mediaResource" href="102118187497MS_i_15b.tif" id="ImgLink-15b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

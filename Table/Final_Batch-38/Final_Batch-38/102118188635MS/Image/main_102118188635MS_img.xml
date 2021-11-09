@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118188635MS.txt" extractionDate="2021-03-26T15:23:58Z">
+<doi>10.2118/188635-MS</doi>
+<pii>10.2118/188635-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">The field under study is giant pattern steam flood development with the most prevalent pattern configuration shown in Figure 1 where vertical commingled injectors are at the periphery and dedicated horizontal producers are drilled in each reservoir at the centre of the pattern1. Production performance of the wells is varying mainly due to pattern configuration, well type, reservoir properties, pressure depletion, temperature, bottomhole steam quality and aquifer support.</anchoringText>
+<image-wrap id="102118188635MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118188635MS_i_1.tif" id="ImgLink-1" />
+<caption>Pattern configuration</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Pattern configuration</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">The workflow followed for data driven analysis in our study is shown in Figure 2. The scope of this paper is mainly on step 3 i.e. data analysis and reporting hence covered in detail in the subsequent sections.</anchoringText>
+<image-wrap id="102118188635MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118188635MS_i_2.tif" id="ImgLink-2" />
+<caption>Data driven analysis workflow</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Data driven analysis workflow</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Once all the static and dynamic data are integrated, the next step is to visualize them together to understand the interdependencies between them. "Integrated production performance dashboard" are built (Figure 3 and Figure 4) comprising of production performance curves and static model information. In these figures, the highlighted curves, area and production performance correspond to the selected markers in the RF vs PVinj plot. By linking production table with static model exports, area-wise production and injection performance can be analysed based on geology (Figure 3).</anchoringText>
+<image-wrap id="102118188635MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118188635MS_i_3.tif" id="ImgLink-3" />
+<caption>Integration of production and static data</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Integration of production and static data</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">Once all the static and dynamic data are integrated, the next step is to visualize them together to understand the interdependencies between them. "Integrated production performance dashboard" are built (Figure 3 and Figure 4) comprising of production performance curves and static model information. In these figures, the highlighted curves, area and production performance correspond to the selected markers in the RF vs PVinj plot. By linking production table with static model exports, area-wise production and injection performance can be analysed based on geology (Figure 3).</anchoringText>
+<image-wrap id="102118188635MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118188635MS_i_4.tif" id="ImgLink-4" />
+<caption>Integrated production performance dashboard</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Integrated production performance dashboard</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">Since the forecasting methodology is similar for all well groups, visual basic coding is used to perform all forecasting and any further aggregation of forecast. Prediction is done in the historical periods also for the calibration of the type curves. Several statistical parameters (RSQ, LINEST and correlation coefficient) are used to quantify the resulting history match quality. Step by step workflow followed to perform data driven forecasting is shown in Figure 5. Due to fit for purpose well grouping, automation of repeated activities and standardization of the validation plots, time involved in forecasting process reduced to 1/8th of the initial time when forecasting was done in manually.</anchoringText>
+<image-wrap id="102118188635MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118188635MS_i_5.tif" id="ImgLink-5" />
+<caption>Data driven forecasting workflow</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Data driven forecasting workflow</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">To verify the prediction from the type curve based methodology and develop confidence in its predictive power, an alternate purely statistically driven probabilistic aggregation methodology for forecasting has been developed (Figure 6). Statistically driven forecasting is based on identifying which statistical distribution best represents the oil rates distribution of wells in a "Well group" at different time and extrapolate future oil rates using the dominant distribution as an input to the Monte Carlo simulation.</anchoringText>
+<image-wrap id="102118188635MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118188635MS_i_6.tif" id="ImgLink-6" />
+<caption>Statistically driven forecasting workflow</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Statistically driven forecasting workflow</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">This maturity is linked to PVinj (Pore Volume injected). A pattern is termed as mature if it has sufficient steam injected in it (PVinj) to enable heating of reasonable volume of oil. This may or may not happen depending on steam conformance within the pattern. Figure 7 shows, in general, a linear relationship between Recovery Factor (RF) and Pore Volume Injected (PVinj) in different patterns. That is, higher PVinj results into higher RF up to a point. Any downward deviation from linear behavior shows either poor steam conformance (red box) or incorrect steam allocation within neighbouring patterns. So the patterns in red box are the poorly performing patterns where sufficient steam is injected but RF are</anchoringText>
+<image-wrap id="102118188635MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118188635MS_i_7.tif" id="ImgLink-7" />
+<caption>Infill location identification and integration with geology</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Infill location identification and integration with geology</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">However well head temperature and pressure data which is measured and available in plenty can be used to get an estimate on surface steam quality. In this field, each injector's wellhead temperature and pressure data are analysed individually to identify changes in injection over time. This data when analyzed for all wells along with the injection rates can indicate qualitatively surface steam quality changes over time at the field level (Figure 8) as well as in different sectors of the field. Recent data (2015 and after) in Figure 8 shows injection at lower THP and higher temperature at higher injection rates pointing towards more steam injection than hot water hence higher steam quality in the injected fluid at the wellhead.</anchoringText>
+<image-wrap id="102118188635MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118188635MS_i_8.tif" id="ImgLink-8" />
+<caption>Steam quality changes over time (from wellhead data)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Steam quality changes over time (from wellhead data)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188635MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118188635MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Steam Quality improving with time</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188635MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118188635MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Higher steam rates indicating higher DHSQ</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">When repeated PLTs are taken in wells over time, it becomes possible to monitor the changes in their pressure gradient in the injection zone. Pressure gradients for all injectors are being plotted areally and over time to infer about DHSQ changes (Figure 9). Identified poor performing injectors then become candidates for remedial measures including installation of insulated tubings and steam savers (ICVs for selective injection in perforated zones).</anchoringText>
+<image-wrap id="102118188635MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118188635MS_i_9.tif" id="ImgLink-9" />
+<caption>BHSQ variation areally at different time</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>BHSQ variation areally at different time</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188635MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118188635MS_i_9a.tif" id="ImgLink-9a" />
+</image-wrap>
+<image-wrap id="102118188635MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118188635MS_i_9b.tif" id="ImgLink-9b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

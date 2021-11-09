@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190746MS.txt" extractionDate="2021-03-27T16:06:43Z">
+<doi>10.2118/190746-MS</doi>
+<pii>10.2118/190746-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr3">The Nova Field (formerly Skarfjell) in Block 35/9 of the Norwegian North Sea was discovered by Wintershall Norge AS well 35/9-7 in 2012 (Figure 1). This oil field is currently being developed as a subsea tie-back. It will be produced using water injection for pressure support and gas-lift as an artificial lift method.</anchoringText>
+<image-wrap id="102118190746MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118190746MS_i_1.tif" id="ImgLink-1" />
+<caption>Location of the Nova Field.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Location of the Nova Field.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr4">The drilling mud filtrate and tracer composition was monitored throughout drilling up to the time of formation testing. Figure 2 shows the variation of the SCN tracer with depth in the well (SCN was measured by spectrophotometry after complexing with ferric ions). SCN varies after the sampled zone had been drilled and before the water samples were collected but the variation was small (&#x003C;5.2% relative standard deviation, RSD). Mud filtrate K and Cl were measured by colorimetry and titration respectively and their variation over the same interval was &#x003C;1.5% RSD.</anchoringText>
+<image-wrap id="102118190746MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118190746MS_i_2.tif" id="ImgLink-2" />
+<caption>Variation of mud filtrate SCN with depth. Solid line shows the location of the sampled zone. Dotted line shows the average mud composition between the time when the zone was drilled and the time the water samples were collected.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Variation of mud filtrate SCN with depth. Solid line shows the location of the sampled zone. Dotted line shows the average mud composition between the time when the zone was drilled and the time the water samples were collected.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr5">Simulating invasion of drilling mud filtrate into the near-wellbore region of the sampled zone, and the mixing of it and formation water in this region, followed by the subsequent extraction of mud filtrate/formation water during sampling (see Figure 3). This was undertaken using X1t, a 1-D reactive transport model which is part of the Geochemist’s Workbench (GWB) software suite. Three models were run (see Appendix 1).</anchoringText>
+<image-wrap id="102118190746MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118190746MS_i_3.tif" id="ImgLink-3" />
+<caption>Conceptual model of mud filtrate invasion, contamination of formation water and collection of water samples (mud filtrate = blue, formation water = red).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Conceptual model of mud filtrate invasion, contamination of formation water and collection of water samples (mud filtrate = blue, formation water = red).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="4" data-type-order="6">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr6">The 1-D reactive transport simulations (Model 2) showed that as K-rich mud filtrate invades the formation and mixes with formation water, K in the water phase exchanges with Na, Ca, Mg, Sr and Ba on micas and clays. Subsequently, as formation water is drawn toward the well during sampling, the process is reversed (Figure 4).</anchoringText>
+<image-wrap id="102118190746MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118190746MS_i_4.tif" id="ImgLink-4" />
+<caption>1-D reactive transport simulation results for ion exchange sites adjacent to the well. During mud invasion the ion exchange sites become saturated with K and Na, Ca, Mg, Sr and Ba are displaced to the water phase. During extraction and sampling, as the formation water fraction increases in the water phase, the process is reversed.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>1-D reactive transport simulation results for ion exchange sites adjacent to the well. During mud invasion the ion exchange sites become saturated with K and Na, Ca, Mg, Sr and Ba are displaced to the water phase. During extraction and sampling, as the formation water fraction increases in the water phase, the process is reversed.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr7">Figure 5 shows results from 1-D reactive transport Models 1 and 2. Model 1 (black line) shows the Sr and SCN compositions of water produced from the well during sampling when no reactions occur. The compositions lie on a linear trend between mud filtrate and the formation water. Model 2 (red line) shows the Sr and SCN compositions of water produced from the well during sampling when ion exchange reactions occur. At higher mud filtrate fractions the produced water is enriched in Sr relative to Model 1 due to Sr release from ion exchange sites.</anchoringText>
+<image-wrap id="102118190746MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118190746MS_i_5.tif" id="ImgLink-5" />
+<caption>Example of how ion exchange effects can result in misleading estimates of formation water composition.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Example of how ion exchange effects can result in misleading estimates of formation water composition.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr8">As these were 1-D simulations, they were not meant to predict the actual produced water composition over time which will, in part, be dependent on the mixing of different waters with varying mud filtrate content as they flow to the well. Although the 1-D models do not simulate these mixing processes, they can be used to constrain the composition of the mixed waters. For example, the shaded area in Figure 6 identifies the range of Sr and SCN concentrations such waters could have; this area is bounded by Model 2 equilibrium compositions (solid blue line) and associated tangent compositions (blue dashed lines).</anchoringText>
+<image-wrap id="102118190746MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118190746MS_i_6.tif" id="ImgLink-6" />
+<caption>Schematic diagram showing the compositions of possible mixtures of formation water (FW), mud filtrate (MF) and reacted mixtures of mud filtrate and formation water which can be produced during extraction (shaded area). This area is bounded by Model 2 compositions (solid blue line) and associated tangent compositions (blue dashed lines)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Schematic diagram showing the compositions of possible mixtures of formation water (FW), mud filtrate (MF) and reacted mixtures of mud filtrate and formation water which can be produced during extraction (shaded area). This area is bounded by Model 2 compositions (solid blue line) and associated tangent compositions (blue dashed lines)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr9">This concept was used to estimate the formation water concentration of those ions affected by reactions during mud invasion. Model 2 was run several times whilst varying the formation water concentrations of these ions. For example, the highest possible formation water concentration for an ion was identified where the water sample composition (i.e. the average of the water samples+1 sigma standard deviation) lies below and outside the shaded area (Figure 7).</anchoringText>
+<image-wrap id="102118190746MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118190746MS_i_7.tif" id="ImgLink-7" />
+<caption>Schematic diagram showing the identification of the highest possible formation water concentration (A) where the average water sample composition (red square) plus uncertainty (1 sigma) lies outside the expected compositional range for water samples.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Schematic diagram showing the identification of the highest possible formation water concentration (A) where the average water sample composition (red square) plus uncertainty (1 sigma) lies outside the expected compositional range for water samples.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr10">Similarly, the lowest possible formation water concentration for an ion was identified where the water sample composition (i.e. the average of the water samples-1 sigma standard deviation) lies above and outside the shaded area (Figure 8). The results of these calculations for Na, Ca, Mg and Sr are given in Table 2. The estimated concentration is the mid-point between the lower and higher values noted above and the uncertainty is the high value minus the mid-point value. The method was also used to obtain estimates of K and Ba in the formation water. For K, the uncertainties on the formation water concentration were too high and so an alternative method was used to estimate the concentration.</anchoringText>
+<image-wrap id="102118190746MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118190746MS_i_8.tif" id="ImgLink-8" />
+<caption>Schematic diagram showing the identification of the lowest possible formation water concentration (A) where the average water sample composition (red square) minus uncertainty (1 sigma) lies outside the expected compositional range for water samples.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Schematic diagram showing the identification of the lowest possible formation water concentration (A) where the average water sample composition (red square) minus uncertainty (1 sigma) lies outside the expected compositional range for water samples.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr11">During mud filtrate invasion in 1-D reactive transport Model 2, significant amounts of Ba are displaced from the ion exchange surfaces by K. Ba from this source, and Ba in the formation water, both react with SO4 in the mud filtrate to precipitate BaSO4 in the formation, initially close to the well and subsequently further from the well as invasion continues (see Figure 9). Due to dispersion, BaSO4 precipitation continues deeper in the formation during extraction but ceases as the fraction of formation water increases nearer the well. In Model 2, the excess Ba released from the ion exchange sites results in 3.1 times more barite precipitation in the formation than the equivalent case where no ion exchange occurs (Model 3).</anchoringText>
+<image-wrap id="102118190746MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118190746MS_i_9.tif" id="ImgLink-9" />
+<caption>Barite precipitation during mud filtrate invasion (up to 10 minutes) and fluid extraction (from 10 to 120 minutes) (Models 2 and 3).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Barite precipitation during mud filtrate invasion (up to 10 minutes) and fluid extraction (from 10 to 120 minutes) (Models 2 and 3).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr12">Comparison of the sample SO4 concentrations and the reactive transport modelling SO4 results were used to provide an initial estimate of the lowest Ba content of the formation water (Figure 10). Model 2 was run with varying formation water Ba concentrations to identify that concentration where the average water sample SO4 concentration (plus 1σ uncertainty) lay below the required compositional area (i.e. 27 mg/L Ba; see Figure 9).</anchoringText>
+<image-wrap id="102118190746MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118190746MS_i_10.tif" id="ImgLink-10" />
+<caption>Variation of Model 2 SCN and SO<sub>4</sub> results as formation water Ba concentration is varied (dashed lines). Blue dashed line shows the Ba concentration (27 mg/L) where the average water composition lies below the Model 2 line.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Variation of Model 2 SCN and SO<sub>4</sub> results as formation water Ba concentration is varied (dashed lines). Blue dashed line shows the Ba concentration (27 mg/L) where the average water composition lies below the Model 2 line.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="11" data-type-order="13">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr13">With 26 mg/L Ba in the formation water, after accounting for reactions in the reservoir (1-D model) and precipitation of BaSO4 from the sample after collection (MultiScale), the resulting Ba content of the sample is calculated to be &#x003C;1 mg/L. This is consistent with the actual sample concentration adding confidence to this interpretation (see Figure 11).</anchoringText>
+<image-wrap id="102118190746MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118190746MS_i_11.tif" id="ImgLink-11" />
+<caption>Variation of Model 2 SCN and Ba results with varying formation water Ba concentration. Blue dashed line shows the initial minimum estimated formation water Ba concentration (27 mg/L). The measured sample Ba analyses can be explained by additional precipitation of BaSO<sub>4</sub> to equilibrium under reservoir and laboratory conditions.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Variation of Model 2 SCN and Ba results with varying formation water Ba concentration. Blue dashed line shows the initial minimum estimated formation water Ba concentration (27 mg/L). The measured sample Ba analyses can be explained by additional precipitation of BaSO<sub>4</sub> to equilibrium under reservoir and laboratory conditions.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="12" data-type-order="14">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr14">The low salinity of the formation water was confirmed via the measured formation pressure gradient for the reservoir. Such low salinity formation waters are not unexpected at Nova given that they are present in other nearby fields and in fields with U. Jurassic reservoirs located on the flanks of the North Viking Graben. For the Nova formation water, its location in the intra-Heather sands may indicate that expelled shale water is an important contributor to its low salinity. There are no direct analogues for the intra-Heather sands but the estimated composition of the Nova formation water is reasonably consistent with those of other lower salinity North Sea formation waters (e.g. see Figures 12-14).</anchoringText>
+<image-wrap id="102118190746MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118190746MS_i_12.tif" id="ImgLink-12" />
+<caption>Comparison of Nova and North Sea formation water compositions (Cl v Na; Cl &#x003C; 25,000 mg/L).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Comparison of Nova and North Sea formation water compositions (Cl v Na; Cl &#x003C; 25,000 mg/L).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="13" data-type-order="15">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr15">The low salinity of the formation water was confirmed via the measured formation pressure gradient for the reservoir. Such low salinity formation waters are not unexpected at Nova given that they are present in other nearby fields and in fields with U. Jurassic reservoirs located on the flanks of the North Viking Graben. For the Nova formation water, its location in the intra-Heather sands may indicate that expelled shale water is an important contributor to its low salinity. There are no direct analogues for the intra-Heather sands but the estimated composition of the Nova formation water is reasonably consistent with those of other lower salinity North Sea formation waters (e.g. see Figures 12-14).</anchoringText>
+<image-wrap id="102118190746MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118190746MS_i_13.tif" id="ImgLink-13" />
+<caption>Comparison of Nova and North Sea formation water compositions (Cl v Ca; Cl &#x003C; 25,000 mg/L).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Comparison of Nova and North Sea formation water compositions (Cl v Ca; Cl &#x003C; 25,000 mg/L).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="14" data-type-order="16">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr16">The low salinity of the formation water was confirmed via the measured formation pressure gradient for the reservoir. Such low salinity formation waters are not unexpected at Nova given that they are present in other nearby fields and in fields with U. Jurassic reservoirs located on the flanks of the North Viking Graben. For the Nova formation water, its location in the intra-Heather sands may indicate that expelled shale water is an important contributor to its low salinity. There are no direct analogues for the intra-Heather sands but the estimated composition of the Nova formation water is reasonably consistent with those of other lower salinity North Sea formation waters (e.g. see Figures 12-14).</anchoringText>
+<image-wrap id="102118190746MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118190746MS_i_14.tif" id="ImgLink-14" />
+<caption>Comparison of Nova and North Sea formation water compositions (Cl v Ba; Cl &#x003C; 25,000 mg/L).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Comparison of Nova and North Sea formation water compositions (Cl v Ba; Cl &#x003C; 25,000 mg/L).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

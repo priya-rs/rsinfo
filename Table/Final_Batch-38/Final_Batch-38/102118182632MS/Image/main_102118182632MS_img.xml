@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118182632MS.txt" extractionDate="2021-03-22T13:09:36Z">
+<doi>10.2118/182632-MS</doi>
+<pii>10.2118/182632-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="5" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">Figure 1 shows a comparison of three different approaches applied to the same WLO problem involving optimization of thirty well locations within a limited number of available function evaluations (reservoir simulation runs). The application of an approximated adjoint-based approach using the L-BFGS-B [22] optimizer produced larger objective functions quickly but stalled after several iterations, the pattern search algorithm APPS [23] converged slowly towards the optimum and obtained slightly improved objective function values, and the SPMI optimizer [17] outperformed the other two.</anchoringText>
+<image-wrap id="102118182632MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118182632MS_i_1.tif" id="ImgLink-1" />
+<caption>Comparison of three optimization methodologies in a WLO problem with 30 wells.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Comparison of three optimization methodologies in a WLO problem with 30 wells.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">A deterministic history matching approach was applied to each of the 104 model realizations. Namely, adjoint gradients were utilized with the L-BFGS-B [22] optimizer to generate grid permeability multipliers that minimized the mismatch between model response and data. The mismatch function included water rates and bottom-hole pressures. The permeability multipliers (uncertain parameters) were allowed to vary between 0.01 and 10. Figure 2 shows selected realizations of the unconditioned x-direction, permeability distributions.</anchoringText>
+<image-wrap id="102118182632MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118182632MS_i_2.tif" id="ImgLink-2" />
+<caption>Realizations 1, 28, 58, 66, and 104 (from left to right) of the unconditioned x-direction permeability distributions.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Realizations 1, 28, 58, 66, and 104 (from left to right) of the unconditioned x-direction permeability distributions.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Respectively, Figure 3 shows selected realizations of the conditioned x-direction, permeability distributions.</anchoringText>
+<image-wrap id="102118182632MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118182632MS_i_3.tif" id="ImgLink-3" />
+<caption>Realizations 1, 28, 58, 66, and 104 (from left to right) of the conditioned x-direction permeability distributions.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Realizations 1, 28, 58, 66, and 104 (from left to right) of the conditioned x-direction permeability distributions.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">Figure 4 presents a comparison of the base case locations (left) and the deterministic WLO results (right), it can be seen that the new producers were translated up dip to delay water breakthrough time.</anchoringText>
+<image-wrap id="102118182632MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118182632MS_i_4.tif" id="ImgLink-4" />
+<caption>Base case locations (left) and deterministic WLO results (right) for the new producers (Realization 15).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Base case locations (left) and deterministic WLO results (right) for the new producers (Realization 15).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182632MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118182632MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>(left)</caption-order>
+<caption-text>Base case locations</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182632MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118182632MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>(right)</caption-order>
+<caption-text>deterministic WLO results</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="7" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">Figure 5 shows improvements of the deterministic WLO regarding cumulative oil (left) and cumulative water (right). The cumulative oil was increased 26% with respect the base case and the cumulative water was reduced 12% with respect to the base case.</anchoringText>
+<image-wrap id="102118182632MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118182632MS_i_5.tif" id="ImgLink-5" />
+<caption>Deterministic WLO results for Realization 15. Field cumulative oil (left), field cumulative water (right).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Deterministic WLO results for Realization 15. Field cumulative oil (left), field cumulative water (right).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182632MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118182632MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>(left)</caption-order>
+<caption-text>Field cumulative oil</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182632MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118182632MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>(right)</caption-order>
+<caption-text>field cumulative water</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="7" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">Figure 6 shows the performance of the base case well locations in all the model realizations compared to the Poor man's Robust WLO results in which the deterministic WLO results from Realization 15 were evaluated on all remaining realizations. This simplified approach is applicable in situations where computational resources are limited and prohibit the application of robust optimization; the expected Net Present Value (NPV) was improved by 16%. Although approximate, this step tests the robustness of the deterministic solution over all the realizations. It also provides means to compute the variance on the results.</anchoringText>
+<image-wrap id="102118182632MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118182632MS_i_6.tif" id="ImgLink-6" />
+<caption>Poor man's Robust WLO results (Realization 15) compared to the base case locations evaluated in all realizations. Oil production rates (top left), water production rates (top right), and NPV empirical distribution functions (bottom).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Poor man's Robust WLO results (Realization 15) compared to the base case locations evaluated in all realizations. Oil production rates (top left), water production rates (top right), and NPV empirical distribution functions (bottom).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182632MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118182632MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>(top left)</caption-order>
+<caption-text>Oil production rates</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182632MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118182632MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>(top right)</caption-order>
+<caption-text>water production rates</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182632MS-Img_SPi-6c">
+<imageLink type="mediaResource" href="102118182632MS_i_6c.tif" id="ImgLink-6c" />
+<figure-specific-caption>
+<caption-order>(bottom)</caption-order>
+<caption-text>NPV empirical distribution functions</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="8" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">Figure 7 shows the base case, deterministic (Realization 15) and robust results evaluated on all realizations. The robust well locations showed improvement of 22% in expected NPV with respect to the base case locations, which was also larger than the expected value of the single realization optimization (16%). Figure 8 shows the water saturation distributions at the end of the forecast period in Realization 15.</anchoringText>
+<image-wrap id="102118182632MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118182632MS_i_7.tif" id="ImgLink-7" />
+<caption>Robust WLO results compared to the Deterministic WLO results (Realization 15) and base case locations evaluated in all realizations. Oil production rates (top left), water production rates (top right), and NPV empirical distribution functions (bottom).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Robust WLO results compared to the Deterministic WLO results (Realization 15) and base case locations evaluated in all realizations. Oil production rates (top left), water production rates (top right), and NPV empirical distribution functions (bottom).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182632MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118182632MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order>(top left)</caption-order>
+<caption-text>Oil production rates</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182632MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118182632MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order>(top right)</caption-order>
+<caption-text>water production rates</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182632MS-Img_SPi-7c">
+<imageLink type="mediaResource" href="102118182632MS_i_7c.tif" id="ImgLink-7c" />
+<figure-specific-caption>
+<caption-order>(bottom)</caption-order>
+<caption-text>NPV empirical distribution functions</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">Figure 7 shows the base case, deterministic (Realization 15) and robust results evaluated on all realizations. The robust well locations showed improvement of 22% in expected NPV with respect to the base case locations, which was also larger than the expected value of the single realization optimization (16%). Figure 8 shows the water saturation distributions at the end of the forecast period in Realization 15.</anchoringText>
+<image-wrap id="102118182632MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118182632MS_i_8.tif" id="ImgLink-8" />
+<caption>Well locations resulting from the deterministic WLO (left) and the robust WLO (right).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Well locations resulting from the deterministic WLO (left) and the robust WLO (right).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182632MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118182632MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>(left)</caption-order>
+<caption-text>the deterministic WLO</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182632MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118182632MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>(right</caption-order>
+<caption-text>the robust WLO</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">Figure 9 presents a comparison of the base case locations (left) and the deterministic WLO results (right). The results show that the optimizer elects to break well patterns defined in the base case.</anchoringText>
+<image-wrap id="102118182632MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118182632MS_i_9.tif" id="ImgLink-9" />
+<caption>Base case locations (left) and robust WLO results (right).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Base case locations (left) and robust WLO results (right).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182632MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118182632MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order>(left)</caption-order>
+<caption-text>Base case locations</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182632MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118182632MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order>(right)</caption-order>
+<caption-text>robust WLO results</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="10" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">Figure 10 shows the base case and robust results evaluated on the selected realizations. The robust optimization results show improvements of 21% in expected NPV with respect to the base case locations. It also shows that the robust WLO maximizes the expectation of the field cumulative oil, as well as minimizes the expectation of the field produced water.</anchoringText>
+<image-wrap id="102118182632MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118182632MS_i_10.tif" id="ImgLink-10" />
+<caption>Robust WLO results compared to base case locations in selected realizations. Field cumulative oil (top left), field cumulative water (top right), and NPV empirical distribution functions (bottom).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Robust WLO results compared to base case locations in selected realizations. Field cumulative oil (top left), field cumulative water (top right), and NPV empirical distribution functions (bottom).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182632MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118182632MS_i_10a.tif" id="ImgLink-10a" />
+<figure-specific-caption>
+<caption-order>(top left)</caption-order>
+<caption-text> Field cumulative oil </caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182632MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118182632MS_i_10b.tif" id="ImgLink-10b" />
+<figure-specific-caption>
+<caption-order>(top right)</caption-order>
+<caption-text>field cumulative water</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182632MS-Img_SPi-10c">
+<imageLink type="mediaResource" href="102118182632MS_i_10c.tif" id="ImgLink-10c" />
+<figure-specific-caption>
+<caption-order>(bottom)</caption-order>
+<caption-text>NPV empirical distribution functions</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

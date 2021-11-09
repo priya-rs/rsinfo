@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189862MS.txt" extractionDate="2021-03-30T14:29:39Z">
+<doi>10.2118/189862-MS</doi>
+<pii>10.2118/189862-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr9">A variety of fracture patterns can be created(Fig. 1), ranging from a simple planar fracture to a complex interconnected network that covers a wide area. The area containing the complex fracture network and associated enhanced permeability is known as the stimulated reservoir volume (SRV)(Fisher et al. 2002; Maxwell et al. 2002). The size and complexity of the SRV depends on the fluid system used, the size of the treatment, the stress conditions, and the brittleness of the formation. Fluid systems that use high viscosity, cross-linked gel tend to create simple planar fractures.</anchoringText>
+<image-wrap id="102118189862MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118189862MS_i_1.tif" id="ImgLink-1" />
+<caption>Schematic diagrams of levels of fracture complexity (Warpinski et al. 2009).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Schematic diagrams of levels of fracture complexity (<link href="BIB1">Warpinski et al. 2009</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-11" type="bib">
+<bib id="BIB1">
+<label>Warpinski et al., 2009</label>
+<author>
+<first-name>N.R.</first-name>
+<last-name>Warpinski</last-name>
+</author>, <author>
+<first-name>M.J.</first-name>
+<last-name>Mayerhofer</last-name>
+</author>, <author>
+<first-name>M.C.</first-name>
+<last-name>Vincent</last-name>
+</author> et al <pubDate>2009</pubDate>. <journal-title>
+<i>Stimulating Unconventional Reservoirs: Maximizing Network Growth While Optimizing Fracture Conductivity</i>
+</journal-title>. DOI: 10.2118/114173-PA</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr10">The dual porosity model (Warren and Root 1963)divides the media into matrix and fracture continua (Fig. 2). The properties describing each of the two continua are calculated as the weighted averages of those of the matrix and of the fractures, respectively. Matrix-to-matrix flow is not permitted in the dual porosity model. Flow occurs between matrix and fractures and reaches the wellbore through the fracture network. The dual permeability model (Blaskovich et al. 1983; Hill and Thomas 1985) was introduced to alleviate this conceptual imperfection, and extends the dual porosity model to allow matrix-to-matrix flow.</anchoringText>
+<image-wrap id="102118189862MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118189862MS_i_2.tif" id="ImgLink-2" />
+<caption>Idealization of the dual porosity concept (Warren and Root 1963).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Idealization of the dual porosity concept (<link href="BIB2">Warren and Root 1963</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189862MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118189862MS_i_2a.tif" id="ImgLink-2a" />
+</image-wrap>
+<image-wrap id="102118189862MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118189862MS_i_2b.tif" id="ImgLink-2b" />
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-12" type="bib">
+<bib id="BIB2">
+<author>
+<first-name>J.E.</first-name>
+<last-name>Warren</last-name>
+</author> and <author>
+<first-name>P.J.</first-name>
+<last-name>Root</last-name>
+</author>
+<first-name>1963</first-name>. <journal-title>
+<i>The Behavior of Naturally Fractured Reservoirs</i>
+</journal-title>. DOI: 10.2118/426-PA</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr11">The MINC method is an extension of the dual continua models and involves discretization of the matrix gridblocks into sequences of nested volumes in order to maintain thermodynamic equilibrium at all times within each element (Fig. 3). Note that the MINC model can be reduced to a dual porosity or dual permeability model by (a) setting the number of subdivisions equal to one and (b) by providing appropriate rules describing the communication between the matrix and the fracture continua.</anchoringText>
+<image-wrap id="102118189862MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118189862MS_i_3.tif" id="ImgLink-3" />
+<caption>Schematic of MINC concept (Pruess and Narasimhan 1985).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Schematic of MINC concept (<link href="BIB3">Pruess and Narasimhan 1985</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-13" type="bib">
+<bib id="BIB3">
+<label>Pruess and Narasimhan, 1985</label>
+<author>
+<first-name>K.</first-name>
+<last-name>Pruess</last-name>
+</author> and <author>
+<first-name>T.N.</first-name>
+<last-name>Narasimhan</last-name>
+</author>
+<pubDate>1985</pubDate>. <journal-title>
+<i>A Practical Method for Modeling Fluid and Heat Flow in Fractured Porous Media</i>
+</journal-title>. DOI: 10.2118/10509-PA</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr12">The Wolfcamp formation (Fig. 4) is located in the Permian Basin of West Texas and Southeast New Mexico. It is bound by the Diablo Platform and the Pedernal Uplift to the west; the Matador Arch to the north, and the Marathon-Ouchita Thrust Belt to the south. The Permian is divided into two major basins: the deeper Delaware to the west and the Midland to the east by the Central Basin Platform. The Wolfcamp is a thick stacked play of about 1,750 ft thickness and lies below the Spraberry and Dean formations that form the Spraberry Trend field.</anchoringText>
+<image-wrap id="102118189862MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118189862MS_i_4.tif" id="ImgLink-4" />
+<caption>Lateral extent of Eagle Ford shale in south Texas for illustrative purposes only(Mullen 2010).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Lateral extent of Eagle Ford shale in south Texas for illustrative purposes only(<link href="BIB4">Mullen 2010</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-14" type="bib">
+<bib id="BIB4">
+<label>Mullen, 2010</label>
+<author>
+<first-name>J.</first-name>
+<last-name>Mullen</last-name>
+</author>
+<pubDate>2010</pubDate>. <journal-title>
+<i>Petrophysical Characterization of the Eagle Ford Shale in South Texas</i>
+</journal-title>. Society of Petroleum Engineers. DOI: 10.2118/138145-MS.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr13"> </anchoringText>
+<image-wrap id="102118189862MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118189862MS_i_5.tif" id="ImgLink-5" />
+<caption>West to East cross section of the Bakken petroleum system (Sonnenberg et al. 2011).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>West to East cross section of the Bakken petroleum system (<link href="BIB5">Sonnenberg et al. 2011</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-15" type="bib">
+<bib id="BIB5">
+<label>Sonnenberg et al., 2011</label>
+<author>
+<first-name>S.A.</first-name>
+<last-name>Sonnenberg</last-name>
+</author>, <author>
+<first-name>J.A.</first-name>
+<last-name>LeFever</last-name>
+</author>, and <author>
+<first-name>R.J.</first-name>
+<last-name>Hill</last-name>
+</author>
+<pubDate>2011</pubDate>. <journal-title>
+<i>Fracturing in the Bakken Petroleum System</i>
+</journal-title>, Williston Basin.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr14"> </anchoringText>
+<image-wrap id="102118189862MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118189862MS_i_6.tif" id="ImgLink-6" />
+<caption>Location map of the Permian Basin located in New Mexico and Texas(Wickard et al. 2016).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Location map of the Permian Basin located in New Mexico and Texas(<link href="BIB6">Wickard et al. 2016</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-16" type="bib">
+<bib id="BIB6">
+<label>Wickard et al., 2016</label>
+<author>
+<first-name>A. K.</first-name>
+<last-name>Wickard</last-name>
+</author>, <author>
+<first-name>R. D.</first-name>
+<last-name>Elmore</last-name>
+</author>, and <author>
+<first-name>G.</first-name>
+<last-name>Heij</last-name>
+</author>
+<pubDate>2016</pubDate>. <article-title>A Diagenetic Study of the Wolfcamp Shale, Midland Basin, West Texas</article-title>. Unconventional Resources Technology Conference.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr15"> </anchoringText>
+<image-wrap id="102118189862MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118189862MS_i_7.tif" id="ImgLink-7" />
+<caption>3D view of simulation model of a single fracture stage containing a planar hydraulic fracture and SRV.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>3D view of simulation model of a single fracture stage containing a planar hydraulic fracture and SRV.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr16"> </anchoringText>
+<image-wrap id="102118189862MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118189862MS_i_8.tif" id="ImgLink-8" />
+<caption>Well EF-10—Production history plot of flow rates and calculated bottom hole pressure as a function of production time (Eagle Ford).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Well EF-10—Production history plot of flow rates and calculated bottom hole pressure as a function of production time (Eagle Ford).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr17">Rate Transient Analysis (RTA) was first performed to obtain initial guesses of the effective permeability and of the hydraulic fracture half-length by determining which values allow the model to provide the best fit of the field data. Theresulting Log-Log (Fig. 9a) and Blasingame (Fig. 9b) diagnostic plots of the field data and of the analytical model match obtained from the RTA are shown below. The resulting estimate of effective permeability is 3.69×10−4 mD and hydraulic fracture half-length of 196 feet.</anchoringText>
+<image-wrap id="102118189862MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118189862MS_i_9.tif" id="ImgLink-9" />
+<caption>Well EF-10 Diagnostic Plots — (a) “Log-Log” plot— Rate-normalized pressure (RNP) versus material balance time; (b) “Blasingame” plot— Normalized oil productivity index (PI) versus material balance time.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Well EF-10 Diagnostic Plots — (a) “Log-Log” plot— Rate-normalized pressure (RNP) versus material balance time; (b) “Blasingame” plot— Normalized oil productivity index (PI) versus material balance time.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189862MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118189862MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>“Log-Log” plot— Rate-normalized pressure (RNP) versus material balance time</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189862MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118189862MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>“Blasingame” plot— Normalized oil productivity index (PI) versus material balance time</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="12" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr18">Fig. 10 shows comparisons of the measured rates and of the calculated bottomhole pressure to those obtained from the simulations using the optimized (history-matched) valuesfor each fracture model. Visual inspection indicates that all the models show similar rate and pressure matches. Excellent matches are obtained of oil (Fig. 10a) and gas (Fig. 10b) rates. The slight spike (above the field data) in the simulated gas rates at around 400 days appears to be the result of a measurement error in the field gas rates.</anchoringText>
+<image-wrap id="102118189862MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118189862MS_i_10.tif" id="ImgLink-10" />
+<caption>History match results for well EF-10 using each model — (a) oil production rate matches; (b) gas production rate matches; (c) water production rate matches; (d) bottomhole pressure matches.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>History match results for well EF-10 using each model — (a) oil production rate matches; (b) gas production rate matches; (c) water production rate matches; (d) bottomhole pressure matches.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189862MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118189862MS_i_10a.tif" id="ImgLink-10a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>oil production rate matches</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189862MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118189862MS_i_10b.tif" id="ImgLink-10b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>gas production rate matches</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189862MS-Img_SPi-10c">
+<imageLink type="mediaResource" href="102118189862MS_i_10c.tif" id="ImgLink-10c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>water production rate matches</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189862MS-Img_SPi-10d">
+<imageLink type="mediaResource" href="102118189862MS_i_10d.tif" id="ImgLink-10d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>bottomhole pressure matches</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118192080MS.txt" extractionDate="2021-03-30T10:42:21Z">
+<doi>10.2118/192080-MS</doi>
+<pii>10.2118/192080-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">This is to assure that gas deliverability can be maintained above the Daily Contractual Quantity (DCQ) for the next 6-12 months with the current operation schedule. Figure 1 depicts the example of a medium-term profile which is subjected to an arbitrary well intervention schedule. The conventional process primarily relied on performing DCA of all wells. Then the DCQ would be achieved by trying to produce wells proportionally without selective production. Therefore, it was laborious and did not capture the nature of field management in which wells are selectively produced based on their values in petroleum fluids.</anchoringText>
+<image-wrap id="102118192080MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118192080MS_i_1.tif" id="ImgLink-1" />
+<caption>Example of medium-term production forecast</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Example of medium-term production forecast</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">In order to select the best field development plan (FDP), production and potential profile until the end of field life must be evaluated. Traditionally, commercialized material balance software was used. Nevertheless, the constructing of the field model and running simulations might be time-consuming. Figure 2 shows an example of this kind of forecast where each line represents a potential profile from one of the development scenarios in which the company is interested.</anchoringText>
+<image-wrap id="102118192080MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118192080MS_i_2.tif" id="ImgLink-2" />
+<caption>Example of long-term production forecast</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Example of long-term production forecast</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Wherever the history of the field suggests that condensate-gas ratio (CGR) and water-gas ratio (WGR) tend to change with cumulative gas production (Yu 2014), equations similar to Eq. 10 for those two parameters can be constructed and applied in the same manner. The processes to update gas potential, CGR, and WGR at the end of time step t are illustrated in Figure 3. This example shows the case when gas potential denoted by qg, max and WGR change with time in a linear trend while CGR is constant.</anchoringText>
+<image-wrap id="102118192080MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118192080MS_i_3.tif" id="ImgLink-3" />
+<caption>The process to update gas potential (q<sub>g</sub>, <sub>max</sub>), CGR, and WGR when the cumulative production from the unit increases from G<sub>p, t</sub> at time step t to G<sub>p, t+1</sub> at time step t+1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>The process to update gas potential (q<sub>g</sub>, <sub>max</sub>), CGR, and WGR when the cumulative production from the unit increases from G<sub>p, t</sub> at time step t to G<sub>p, t+1</sub> at time step t+1</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">Moreover, whenever field operations, drilling or well services operation, are expected to be performed, gas potentials together with the fluid characteristics of those wells can be added to the linear programming problem (newly drilled wells) or updated accordingly (intervened wells). The workflow of a single time step snapshot optimization and production forecast is illustrated in Figure 4 below.</anchoringText>
+<image-wrap id="102118192080MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118192080MS_i_4.tif" id="ImgLink-4" />
+<caption>Optimization and forecast workflow</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Optimization and forecast workflow</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">Arthit field located in the Gulf of Thailand started production in 2008. It is generally characterized by highly heterogeneous reservoirs with poor connectivity. At the current state of the field, it is contractually deliver DCQ of over 200 MMscf/D with more than 400 producers and almost 40 platforms. The location of the field is depicted in Figure 5.</anchoringText>
+<image-wrap id="102118192080MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118192080MS_i_5.tif" id="ImgLink-5" />
+<caption>Arthit field map</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Arthit field map</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">For illustrating the benefit of the software in snapshot optimization, we collect the well data which we used to perform the conventional optimization approach in the past and optimize it with LINOPT. Figure 6 shows the plot of the target from our conventional approach (line with black markers), and actual condensate potential from LINOPT (black dashed line) over 6 months in the past. The actual sales condensate line (green line) is viewed as a quality control to ensure that the field was operated in the similar manner as the production plan from the conventional approach.</anchoringText>
+<image-wrap id="102118192080MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118192080MS_i_6.tif" id="ImgLink-6" />
+<caption>Arthit comparison between the condensate target from conventional optimization (line with black markers) and that form LINOPT (black dashed line)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Arthit comparison between the condensate target from conventional optimization (line with black markers) and that form LINOPT (black dashed line)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">After applying LINOPT in optimizing the field production, the condensate production and its respective production target from LINOPT were collected over the six-month period and plotted in Figure 7.</anchoringText>
+<image-wrap id="102118192080MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118192080MS_i_7.tif" id="ImgLink-7" />
+<caption>Arthit field condensate production and its corresponding target from LINOPT</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Arthit field condensate production and its corresponding target from LINOPT</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">In order to ensure that the method of potential decline is consistent with the reservoirs’ characteristics, the potential profile generated from medium-term forecast in LINOPT is plotted together with the actual gas potential at each period of time in Figure 8 below.</anchoringText>
+<image-wrap id="102118192080MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118192080MS_i_8.tif" id="ImgLink-8" />
+<caption>Art hit look-back study on accuracy of medium-term forecast compared with the actual data</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Art hit look-back study on accuracy of medium-term forecast compared with the actual data</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">After using LINOPT in all three optimization tasks, the comparison of the time required to perform each task when we used the conventional approach and that of LINOPT is reported in Figure 9.</anchoringText>
+<image-wrap id="102118192080MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118192080MS_i_9.tif" id="ImgLink-9" />
+<caption>Arthit man-hour reduction from using LINOPT (green) instead of the conventional approach (blue)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Arthit man-hour reduction from using LINOPT (green) instead of the conventional approach (blue)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">Zawtika field, a dry gas field in offshore Myanmar, started production in 2014 with DCQ over 250 MMscf/D. While it is not relatively heterogeneous or geologically complicated compared with the reservoirs in Arthit, it has several unconsolidated reservoirs resulting in high risk of sand production (Junmano et.al 2016). Consequently, the main challenge here is to make sure that all wells, while serving enough gas for DCQ, are producing at sand free rates. The Zawtika map is shown in the Figure 10.</anchoringText>
+<image-wrap id="102118192080MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118192080MS_i_10.tif" id="ImgLink-10" />
+<caption>Zawtika field map</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Zawtika field map</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">In evaluating the error of the gas decline method, as performed in Arthit, the potential profile generated from medium-term forecast in LINOPT is plotted together with the actual gas potential in Figure 11 below.</anchoringText>
+<image-wrap id="102118192080MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118192080MS_i_11.tif" id="ImgLink-11" />
+<caption>Zawtika look-back study on accuracy of medium-term forecast compared with the actual data</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Zawtika look-back study on accuracy of medium-term forecast compared with the actual data</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">In this field, we have been implementing LINOPT in doing medium-term and long-term forecasts since the beginning; therefore, the time spent on those forecasts with conventional approaches is not available. The result is reported Figure 12.</anchoringText>
+<image-wrap id="102118192080MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118192080MS_i_12.tif" id="ImgLink-12" />
+<caption>Zawtika man-hour reduction from using LINOPT (green) instead of the conventional approach (blue)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Zawtika man-hour reduction from using LINOPT (green) instead of the conventional approach (blue)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">In evaluating the effectiveness of the objective function to help mitigate sand production problem in this field, the yearly average of the sum of square of daily gas production rate is plotted together with the sand production rate in Figure 13. During this period, the field was produced at the same DCQ; therefore, the reduction in this parameter was not due to the change in DCQ.</anchoringText>
+<image-wrap id="102118192080MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118192080MS_i_13.tif" id="ImgLink-13" />
+<caption>Zawtika sand production problem before and after changing the production philosophy</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Zawtika sand production problem before and after changing the production philosophy</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118181985MS.txt" extractionDate="2021-03-22T15:13:09Z">
+<doi>10.2118/181985-MS</doi>
+<pii>10.2118/181985-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">The porosity varies from +/- 19% to 26% and permeability is typically between 1 mD up to several Darcy (so-called "super facies") in some layers based on logs, well test and core data. 8 main reservoirs are being produced (Figure 1).</anchoringText>
+<image-wrap id="102118181985MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118181985MS_i_1.tif" id="ImgLink-1" />
+<caption>Piltun W-E cross section</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Piltun W-E cross section</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">Figure 2 illustrates such modelled scenarios of fracture propagation vs time, depending on selected perforated interval. Each colour of fracture vertical boundaries represent different perforation interval. In this case, it can be noted that placing perforations interval in the upper part of the zone (blue line) is expected to break away from the target injection zone after 120 months of injection, low placement (black line) is expected to break downwards after approximately same period of injection.</anchoringText>
+<image-wrap id="102118181985MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118181985MS_i_2.tif" id="ImgLink-2" />
+<caption>Modelling fracture propagation vs time</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Modelling fracture propagation vs time</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Injection rate must remain constant prior to shut down, even a small change due to recycle activation can compromise the data and jeopardize the analysis. For example, a minor (less than 2%) rate variation shortly before well shutdown (Figure 3) was sufficient to make the data practically unusable – the degree of interpretation uncertainty went unacceptably high.</anchoringText>
+<image-wrap id="102118181985MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118181985MS_i_3.tif" id="ImgLink-3" />
+<caption>Minor injection rate variation effect</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Minor injection rate variation effect</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">DTS warmback tracks (Figure 4) analysis allows to measure directly cooled zone height extension and fracture evolution can be monitored in real time. This surveillance is used to alert abnormal height growth and to calibrate both models – thermal fracture propagation and pressure falloff analysis. Once the geometry of both models match with DTS surveillance results, further fractures behavior can be predicted with fair certainty, and corrective actions, if required, can be undertaken.</anchoringText>
+<image-wrap id="102118181985MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118181985MS_i_4.tif" id="ImgLink-4" />
+<caption>DTS surveillance data in 2015 – 2016</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>DTS surveillance data in 2015 – 2016</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">DTS data exhibits fair match with the interpretation of pressure falloff data performed after tests in 2015 (Figure 5) and 2016 (Figure 6):</anchoringText>
+<image-wrap id="102118181985MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118181985MS_i_5.tif" id="ImgLink-5" />
+<caption>Definition of fracture parameters – 2015</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Definition of fracture parameters – 2015</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">DTS data exhibits fair match with the interpretation of pressure falloff data performed after tests in 2015 (Figure 5) and 2016 (Figure 6):</anchoringText>
+<image-wrap id="102118181985MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118181985MS_i_6.tif" id="ImgLink-6" />
+<caption>Definition of fracture parameters – 2016</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Definition of fracture parameters – 2016</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">According to the pressure falloff interpretation, after a year of injection, fracture height gain was approximately 3.5 meters: upwards fracture penetration increased from 15 to 18.5 m within a year. This result has a good coherence with the anticipated height development (Figure 7).</anchoringText>
+<image-wrap id="102118181985MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118181985MS_i_7.tif" id="ImgLink-7" />
+<caption>Expected fracture height upwards</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Expected fracture height upwards</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8"> </anchoringText>
+<image-wrap id="102118181985MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118181985MS_i_8.tif" id="ImgLink-8" />
+<caption>Fracture geometry from pressure falloff analysis</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Fracture geometry from pressure falloff analysis</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

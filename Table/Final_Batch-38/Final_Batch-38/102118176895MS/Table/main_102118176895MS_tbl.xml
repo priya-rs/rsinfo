@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118176895MS.txt" extractionDate="2021-03-22T10:00:51Z">
+<doi>10.2118/176895-MS</doi>
+<pii>10.2118/176895-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="4" table-order="1" data-type-order="3">
+<table-wrap id="102118176895MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The cumulative coal thickness of Jurassic age Surat coals is up to 40 m [131.23 ft] however coals occur in numerous (between 25 and 40) seams separated by inter-burden with high volcanic clay content and very low permeability. Coals are of sub-bituminous rank characterised by low Young’s Modulus and high Poisson’s ratio (i.e. are generally ‘ductile’ – see Table 1). Importantly the insitu stress in the Surat Basin is variable both laterally and vertically; below 400-500 m [1,312.34 to 1,640.42 ft] depth (RT) tight coals are in a strike-slip stress geometry (σhmin &#x003C; σv &#x003C; σHmax), whereas at depth shallower than 400 m [1.312.34 ft] the stress regime is typically reverse (σv &#x003C; σhmin &#x003C; σHmax) as shown in Fig. 3 below (Flottman et al 2013, Brooke-Barnett et al. 2015, their Fig. 6).</anchoringText>
+<label>Table 1</label>
+<caption>Rock Mechanical Properties Surat Basin Coals and Inter-burden</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Rock Mechanical Properties Surat Basin Coals and Inter-burden</caption-text>
+</formatted-caption>
+<table id="102118176895MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Density (g/cm<sup>3</sup>)</th>
+<th valign="top" align="center">P-wave velocity (ft/s)</th>
+<th valign="top" align="center">S-wave velocity (ft/s)</th>
+<th valign="top" align="center">Poisson’s Ratio</th>
+<th valign="top" align="center">Young’s Modulus (10<sup>6</sup> psi)</th>
+<th valign="top" align="center">Bulk Modulus (10<sup>6</sup> psi)</th>
+<th valign="top" align="center">Shear Modulus (10<sup>6</sup> psi)</th>
+<th valign="top" align="center">Lithology</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">2.43</td>
+<td valign="top" align="center">10,353</td>
+<td valign="top" align="center">5,462</td>
+<td valign="top" align="center">0.31</td>
+<td valign="top" align="center">2.553</td>
+<td valign="top" align="center">2.207</td>
+<td valign="top" align="center">0.977</td>
+<td valign="top" align="left">Inter-burden</td>
+</tr>
+<tr>
+<td valign="top" align="center">2.431</td>
+<td valign="top" align="center">10,537</td>
+<td valign="top" align="center">5,470</td>
+<td valign="top" align="center">0.32</td>
+<td valign="top" align="center">2.579</td>
+<td valign="top" align="center">2.33</td>
+<td valign="top" align="center">0.98</td>
+<td valign="top" align="left">Inter-burden</td>
+</tr>
+<tr>
+<td valign="top" align="center">2.436</td>
+<td valign="top" align="center">10,894</td>
+<td valign="top" align="center">5,493</td>
+<td valign="top" align="center">0.33</td>
+<td valign="top" align="center">2.634</td>
+<td valign="top" align="center">2.575</td>
+<td valign="top" align="center">0.991</td>
+<td valign="top" align="left">Inter-burden</td>
+</tr>
+<tr>
+<td valign="top" align="center">2.434</td>
+<td valign="top" align="center">10,422</td>
+<td valign="top" align="center">5,169</td>
+<td valign="top" align="center">0.34</td>
+<td valign="top" align="center">2.343</td>
+<td valign="top" align="center">2.393</td>
+<td valign="top" align="center">0.876</td>
+<td valign="top" align="left">Inter-burden</td>
+</tr>
+<tr>
+<td valign="top" align="center">2.428</td>
+<td valign="top" align="center">10,274</td>
+<td valign="top" align="center">5,435</td>
+<td valign="top" align="center">0.31</td>
+<td valign="top" align="center">2.523</td>
+<td valign="top" align="center">2.165</td>
+<td valign="top" align="center">0.966</td>
+<td valign="top" align="left">Inter-burden</td>
+</tr>
+<tr>
+<td valign="top" align="center">2.436</td>
+<td valign="top" align="center">10,894</td>
+<td valign="top" align="center">5,493</td>
+<td valign="top" align="center">0.33</td>
+<td valign="top" align="center">2.634</td>
+<td valign="top" align="center">2.575</td>
+<td valign="top" align="center">0.991</td>
+<td valign="top" align="left">Inter-burden</td>
+</tr>
+<tr>
+<td valign="top" align="center">1.255</td>
+<td valign="top" align="center">7,654</td>
+<td valign="top" align="center">3,304</td>
+<td valign="top" align="center">0.39</td>
+<td valign="top" align="center">0.512</td>
+<td valign="top" align="center">0.745</td>
+<td valign="top" align="center">0.185</td>
+<td valign="top" align="left">Coal</td>
+</tr>
+<tr>
+<td valign="top" align="center">1.257</td>
+<td valign="top" align="center">7,837</td>
+<td valign="top" align="center">3,332</td>
+<td valign="top" align="center">0.39</td>
+<td valign="top" align="center">0.522</td>
+<td valign="top" align="center">0.789</td>
+<td valign="top" align="center">0.188</td>
+<td valign="top" align="left">Coal</td>
+</tr>
+<tr>
+<td valign="top" align="center">1.258</td>
+<td valign="top" align="center">7,930</td>
+<td valign="top" align="center">3,334</td>
+<td valign="top" align="center">0.39</td>
+<td valign="top" align="center">0.525</td>
+<td valign="top" align="center">0.814</td>
+<td valign="top" align="center">0.188</td>
+<td valign="top" align="left">Coal</td>
+</tr>
+<tr>
+<td valign="top" align="center">1.258</td>
+<td valign="top" align="center">8,008</td>
+<td valign="top" align="center">3,326</td>
+<td valign="top" align="center">0.4</td>
+<td valign="top" align="center">0.523</td>
+<td valign="top" align="center">0.837</td>
+<td valign="top" align="center">0.187</td>
+<td valign="top" align="left">Coal</td>
+</tr>
+<tr>
+<td valign="top" align="center">1.258</td>
+<td valign="top" align="center">8,037</td>
+<td valign="top" align="center">3,332</td>
+<td valign="top" align="center">0.4</td>
+<td valign="top" align="center">0.526</td>
+<td valign="top" align="center">0.844</td>
+<td valign="top" align="center">0.188</td>
+<td valign="top" align="left">Coal</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185530MS.txt" extractionDate="2021-03-23T18:44:35Z">
+<doi>10.2118/185530-MS</doi>
+<pii>10.2118/185530-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="4">
+<table-wrap id="102118185530MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">We used a Carter-Tracy analytical model to represent the aquifer. This model uses tables of dimensionless time versus a dimensionless pressure influence function. In this case, the table was for an infinite aquifer with constant terminal rate as given by Van Everdingen and Hurst. Table 1, present the final parameters used in the history match and we see in Fig. 4 the aquifer – reservoir cell connections.</anchoringText>
+<label>Table 1</label>
+<caption>Aquifer Parameters (Carter Tracy Model).</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Aquifer Parameters (Carter Tracy Model).</caption-text>
+</formatted-caption>
+<table id="102118185530MS-Tbl_SPi-1" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="center">Aquifer Permeability</td>
+<td valign="top" align="center">1,000 mD</td>
+</tr>
+<tr>
+<td valign="top" align="center">Aquifer Porosity</td>
+<td valign="top" align="center">30%</td>
+</tr>
+<tr>
+<td valign="top" align="center">Aquifer Compressibility</td>
+<td valign="top" align="center">9.6E-5 1/bar</td>
+</tr>
+<tr>
+<td valign="top" align="center">Reservoir External radius</td>
+<td valign="top" align="center">10,000 mA</td>
+</tr>
+<tr>
+<td valign="top" align="center">quifer Thickness</td>
+<td valign="top" align="center">12 m</td>
+</tr>
+<tr>
+<td valign="top" align="center">Angle of influence</td>
+<td valign="top" align="center">250°</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="5" table-order="2" data-type-order="6">
+<table-wrap id="102118185530MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">We implemented a live oil model in the simulation. Currently, oil is under saturated and has remained in this condition throughout the 50 years of production history. Table 2 shows a summary of Papagayos reservoir fluids and rock properties.</anchoringText>
+<label>Table 2</label>
+<caption>Papagayos reservoir fluids and rock properties.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Papagayos reservoir fluids and rock properties.</caption-text>
+</formatted-caption>
+<table id="102118185530MS-Tbl_SPi-2" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="left">Reservoir:</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left"> Rock Compressibility</td>
+<td valign="top" align="center">4.7E-5 1/bar</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil:</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">  Density (surface conditios)</td>
+<td valign="top" align="center">881 kg/m3</td>
+</tr>
+<tr>
+<td valign="top" align="left">  Bubble point Pressure @92°C</td>
+<td valign="top" align="center">35 bar</td>
+</tr>
+<tr>
+<td valign="top" align="left">  Oil formation volume factor</td>
+<td valign="top" align="center">1.13 Rm3/Sm3</td>
+</tr>
+<tr>
+<td valign="top" align="left">  Oil viscosity (surface conditions)</td>
+<td valign="top" align="center">6 cp</td>
+</tr>
+<tr>
+<td valign="top" align="left">Water:</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">  Compressibility</td>
+<td valign="top" align="center">4.9E-5 1/bar</td>
+</tr>
+<tr>
+<td valign="top" align="left">  Viscosity</td>
+<td valign="top" align="center">0.33 Cp</td>
+</tr>
+<tr>
+<td valign="top" align="left">  Formation volume factor</td>
+<td valign="top" align="center">1.033 Rm3/Sm3</td>
+</tr>
+<tr>
+<td valign="top" align="left">  Salinity</td>
+<td valign="top" align="center">65,000 ppm</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="11" table-order="3" data-type-order="16">
+<table-wrap id="102118185530MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">A second alternative considered was injecting in a line drive. To determinate the optimal location of the injectors we analysed the well production efficiency. The field was divided into six zones as a function of the current mobile oil saturation; these regions are defined in Table 3. Fig. 13, shows the percentage of oil production from wells belonging to a zone with regard to initial mobile oil in that same region.</anchoringText>
+<label>Table 3</label>
+<caption>Define FIPNUM zones</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Define FIPNUM zones</caption-text>
+</formatted-caption>
+<table id="102118185530MS-Tbl_SPi-3" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="center">Fipnum 1</td>
+<td valign="top" align="center">0≤ Mobile So ≤0.01</td>
+</tr>
+<tr>
+<td valign="top" align="center">Fipnum 2</td>
+<td valign="top" align="center">0.01≤ Mobile So ≤0.05</td>
+</tr>
+<tr>
+<td valign="top" align="center">Fipnum 3</td>
+<td valign="top" align="center">0.05≤ Mobile So ≤0.1</td>
+</tr>
+<tr>
+<td valign="top" align="center">Fipnum 4</td>
+<td valign="top" align="center">0.1≤ Mobile So ≤0.25</td>
+</tr>
+<tr>
+<td valign="top" align="center">Fipnum 5</td>
+<td valign="top" align="center">0.25≤ Mobile So ≤0.4</td>
+</tr>
+<tr>
+<td valign="top" align="center">Fipnum 6</td>
+<td valign="top" align="center">Non-reservoir</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

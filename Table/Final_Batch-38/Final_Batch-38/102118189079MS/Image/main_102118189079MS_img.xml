@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189079MS.txt" extractionDate="2021-03-30T18:58:57Z">
+<doi>10.2118/189079-MS</doi>
+<pii>10.2118/189079-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr4">The A4 reservoir is a shallow anticlinal structure that is bounded by two main faults. An internal fault divides the reservoir into two fault blocks: Main and West fault blocks. The two fault blocks share a common OOWC and are also connected in the down-dip oil leg. No OGOCs were logged by the wells that penetrated the reservoir rather Highest Known Oil (HKO) were encountered (see Figure 1)</anchoringText>
+<image-wrap id="102118189079MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118189079MS_i_1.tif" id="ImgLink-1" />
+<caption>Structural Map of A4 Reservoir with Initial Fluid Distribution</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Structural Map of A4 Reservoir with Initial Fluid Distribution</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr5">The comprehensive simulation of A4 reservoir involved the use of a structured workflow for the simulation project (see Figure 2). First, the earth models with static uncertainties were created by the geologist. The earth models are reviewed by the engineer to ensure that the static data were consistent. Then, the engineer reviews the historical production/injection/pressure data and quality checks the data to identify any erroneous and inconsistent data. Thereafter, the engineer reviews the dynamic input data before carrying out deterministic history-match</anchoringText>
+<image-wrap id="102118189079MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118189079MS_i_2.tif" id="ImgLink-2" />
+<caption>Comprehensive History Match Workflow for A4 reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Comprehensive History Match Workflow for A4 reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr6">Each of the above static properties has their low, mid and high realization values. Thus, there were 243 realizations of earth models. The dimension of the earth model is 64 × 102 × 41 (I × J × K); while the average dimension of each grid block is 45m × 45m × 1.5ft. The total number of active grid blocks in the base model is about 81,000 grid blocks. With this low number of active grid blocks and considering the fast run time for the model, there was no need to upscale the model. Thus, the model used in this work is the original fine grid from the geologist. Figure 3 shows fine grid of the base model.</anchoringText>
+<image-wrap id="102118189079MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118189079MS_i_3.tif" id="ImgLink-3" />
+<caption>Fine grid Earth Model of A4 Reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Fine grid Earth Model of A4 Reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr7">In addition the test/allocated GOR are inconsistent with the FTHP except at early production time. Thus, it was decided that only the initial produced GOR for A4-1p will be considered for history match as far as GOR match is concerned. However, the allocated oil rate, shut-in bottom-hole pressure, FTHP and water cut for all the historical production period of A4-1p will be history matched (see Figure 4). The A4-2p well has good consistency between the well test oil rate and allocated oil rate. However, the allocated GOR is more consistent with the FTHP compared to the well test GOR. It was decided to consider all the allocated GOR history of A4-2p for history match. In addition, the allocated oil rate, FTHP and water cut for all the historical production period of A4-2p will be history matched (see Figure 5).</anchoringText>
+<image-wrap id="102118189079MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118189079MS_i_4.tif" id="ImgLink-4" />
+<caption>Production/Pressure data quality check for well A4-1p</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Production/Pressure data quality check for well A4-1p</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr8">In addition the test/allocated GOR are inconsistent with the FTHP except at early production time. Thus, it was decided that only the initial produced GOR for A4-1p will be considered for history match as far as GOR match is concerned. However, the allocated oil rate, shut-in bottom-hole pressure, FTHP and water cut for all the historical production period of A4-1p will be history matched (see Figure 4). The A4-2p well has good consistency between the well test oil rate and allocated oil rate. However, the allocated GOR is more consistent with the FTHP compared to the well test GOR. It was decided to consider all the allocated GOR history of A4-2p for history match. In addition, the allocated oil rate, FTHP and water cut for all the historical production period of A4-2p will be history matched (see Figure 5).</anchoringText>
+<image-wrap id="102118189079MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118189079MS_i_5.tif" id="ImgLink-5" />
+<caption>Production/Pressure data quality check for well A4-2p</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Production/Pressure data quality check for well A4-2p</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr9">As there was no lab PVT data for A4 reservoir, the best black oil PVT correlation that matched the lab PVT data for an analog reservoir in the field was used in this work. Table 1 shows the lab PVT summary of an analog reservoir in the field. Using the basic oil properties of the A4 reservoir and applying the selected PVT correlation, the PVT data for A4 was generated for this work (see Figure 6). Based on SCAL data from reservoirs in the field, the mid relative permeability values are shown in Figure 7.</anchoringText>
+<image-wrap id="102118189079MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118189079MS_i_6.tif" id="ImgLink-6" />
+<caption>PVT Summary of A4 Reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>PVT Summary of A4 Reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr10">As there was no lab PVT data for A4 reservoir, the best black oil PVT correlation that matched the lab PVT data for an analog reservoir in the field was used in this work. Table 1 shows the lab PVT summary of an analog reservoir in the field. Using the basic oil properties of the A4 reservoir and applying the selected PVT correlation, the PVT data for A4 was generated for this work (see Figure 6). Based on SCAL data from reservoirs in the field, the mid relative permeability values are shown in Figure 7.</anchoringText>
+<image-wrap id="102118189079MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118189079MS_i_7.tif" id="ImgLink-7" />
+<caption>Relative Permeability Table for A4 Reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Relative Permeability Table for A4 Reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr11">The input history-match parameters were tuned until an acceptable history-match was obtained with the base model. Table 2 shows the values of the input history-match parameters that gave acceptable history-match. Figures 8 and 9 show the history-match plots of GOR, Oil Rate, SBHP/FTHP and water cut for A4-1p and A4-2p, respectively. For A4-1p, good history-match was obtained for initial produced GOR, SBHP, FTHP and water cut. In the same vein, reasonable history-match was obtained for A4-2p with respect to the GOR, FTHP and water cut.</anchoringText>
+<image-wrap id="102118189079MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118189079MS_i_8.tif" id="ImgLink-8" />
+<caption>Deterministic History match plot of A4-1p for the Base Model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Deterministic History match plot of A4-1p for the Base Model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr12">The input history-match parameters were tuned until an acceptable history-match was obtained with the base model. Table 2 shows the values of the input history-match parameters that gave acceptable history-match. Figures 8 and 9 show the history-match plots of GOR, Oil Rate, SBHP/FTHP and water cut for A4-1p and A4-2p, respectively. For A4-1p, good history-match was obtained for initial produced GOR, SBHP, FTHP and water cut. In the same vein, reasonable history-match was obtained for A4-2p with respect to the GOR, FTHP and water cut.</anchoringText>
+<image-wrap id="102118189079MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118189079MS_i_9.tif" id="ImgLink-9" />
+<caption>Deterministic History match plot of A4-2p for the Base Model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Deterministic History match plot of A4-2p for the Base Model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr13">The history-match result for the OGOC sensitivity runs are shown only for A4-2p as its model produced GOR is more sensitive to assumed OGOC since it is completed higher in the reservoir than A4-1p. Figures 10 to Figure 12 show the effect of varying OGOC on the history-match quality for A4-2p. In Figures 10 to 12, the blue colored lines are the base case model, the red colored lines are the runs from sensitivity of the OGOC, while the green colored circles are the actual historical data. Figure 10 shows the comparison between the history-match quality for the base case (OGOC at 4350 ft-tvd) and OGOC at 4360 ft-tvd.</anchoringText>
+<image-wrap id="102118189079MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118189079MS_i_10.tif" id="ImgLink-10" />
+<caption>A4-2p History Match Plot Comparison between Base Model and Model with OGOC at 4360 ft-tvd</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>A4-2p History Match Plot Comparison between Base Model and Model with OGOC at 4360 ft-tvd</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="11" data-type-order="13">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr14">The history-match result for the OGOC sensitivity runs are shown only for A4-2p as its model produced GOR is more sensitive to assumed OGOC since it is completed higher in the reservoir than A4-1p. Figures 10 to Figure 12 show the effect of varying OGOC on the history-match quality for A4-2p. In Figures 10 to 12, the blue colored lines are the base case model, the red colored lines are the runs from sensitivity of the OGOC, while the green colored circles are the actual historical data. Figure 10 shows the comparison between the history-match quality for the base case (OGOC at 4350 ft-tvd) and OGOC at 4360 ft-tvd.</anchoringText>
+<image-wrap id="102118189079MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118189079MS_i_11.tif" id="ImgLink-11" />
+<caption>A4-2p History Match Plot Comparison between Base Model and Model with OGOC at 4370 ft-tvd</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>A4-2p History Match Plot Comparison between Base Model and Model with OGOC at 4370 ft-tvd</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="12" data-type-order="14">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr15">The history-match result for the OGOC sensitivity runs are shown only for A4-2p as its model produced GOR is more sensitive to assumed OGOC since it is completed higher in the reservoir than A4-1p. Figures 10 to Figure 12 show the effect of varying OGOC on the history-match quality for A4-2p. In Figures 10 to 12, the blue colored lines are the base case model, the red colored lines are the runs from sensitivity of the OGOC, while the green colored circles are the actual historical data. Figure 10 shows the comparison between the history-match quality for the base case (OGOC at 4350 ft-tvd) and OGOC at 4360 ft-tvd.</anchoringText>
+<image-wrap id="102118189079MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118189079MS_i_12.tif" id="ImgLink-12" />
+<caption>A4-2p History Match Plot Comparison between Base Model and Model with OGOC at HKO (4383 ft-tvd)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>A4-2p History Match Plot Comparison between Base Model and Model with OGOC at HKO (4383 ft-tvd)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="12" figure-order="13" data-type-order="16">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr16">Using the D-Optimal experimental design, 500 simulation runs were made of which 98% of the runs matched the oil rate constraints. However, 44 runs achieved acceptable history-match quality. Figures 13 and 14 show the history-match plots for A4-1p and A4-2p for the 44 runs that achieved acceptable history-match. Considering the OGOCs, Figure 15 shows the histograms of the OGOCs with the blue-shaded bars indicating cases where history match was met, while gray-shaded bars indicate cases where history match was not met.</anchoringText>
+<image-wrap id="102118189079MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118189079MS_i_13.tif" id="ImgLink-13" />
+<caption>History-match plot of A4-1p for the D-Optimal runs that met history match criteria</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>History-match plot of A4-1p for the D-Optimal runs that met history match criteria</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189079MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118189079MS_i_13a.tif" id="ImgLink-13a" />
+</image-wrap>
+<image-wrap id="102118189079MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118189079MS_i_13b.tif" id="ImgLink-13b" />
+</image-wrap>
+<image-wrap id="102118189079MS-Img_SPi-13c">
+<imageLink type="mediaResource" href="102118189079MS_i_13c.tif" id="ImgLink-13c" />
+</image-wrap>
+<image-wrap id="102118189079MS-Img_SPi-13d">
+<imageLink type="mediaResource" href="102118189079MS_i_13d.tif" id="ImgLink-13d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="12" figure-order="14" data-type-order="17">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr17">Using the D-Optimal experimental design, 500 simulation runs were made of which 98% of the runs matched the oil rate constraints. However, 44 runs achieved acceptable history-match quality. Figures 13 and 14 show the history-match plots for A4-1p and A4-2p for the 44 runs that achieved acceptable history-match. Considering the OGOCs, Figure 15 shows the histograms of the OGOCs with the blue-shaded bars indicating cases where history match was met, while gray-shaded bars indicate cases where history match was not met.</anchoringText>
+<label>Figure 14 </label>
+<image-wrap id="102118189079MS-Img_SPi-14">
+<imageLink type="mediaResource" href="102118189079MS_i_14.tif" id="ImgLink-14" />
+<caption>History-match plot of A4-2p for the D-Optimal runs that met history match criteria</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>History-match plot of A4-2p for the D-Optimal runs that met history match criteria</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189079MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118189079MS_i_14a.tif" id="ImgLink-14a" />
+</image-wrap>
+<image-wrap id="102118189079MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118189079MS_i_14b.tif" id="ImgLink-14b" />
+</image-wrap>
+<image-wrap id="102118189079MS-Img_SPi-14c">
+<imageLink type="mediaResource" href="102118189079MS_i_14c.tif" id="ImgLink-14c" />
+</image-wrap>
+<image-wrap id="102118189079MS-Img_SPi-14d">
+<imageLink type="mediaResource" href="102118189079MS_i_14d.tif" id="ImgLink-14d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="15" data-type-order="18">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr18">Using the D-Optimal experimental design, 500 simulation runs were made of which 98% of the runs matched the oil rate constraints. However, 44 runs achieved acceptable history-match quality. Figures 13 and 14 show the history-match plots for A4-1p and A4-2p for the 44 runs that achieved acceptable history-match. Considering the OGOCs, Figure 15 shows the histograms of the OGOCs with the blue-shaded bars indicating cases where history match was met, while gray-shaded bars indicate cases where history match was not met.</anchoringText>
+<label>Figure 15 </label>
+<image-wrap id="102118189079MS-Img_SPi-15">
+<imageLink type="mediaResource" href="102118189079MS_i_15.tif" id="ImgLink-15" />
+<caption>Histogram of OGOCs from D-Optimal Runs</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Histogram of OGOCs from D-Optimal Runs</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189079MS-Img_SPi-15a">
+<imageLink type="mediaResource" href="102118189079MS_i_15a.tif" id="ImgLink-15a" />
+</image-wrap>
+<image-wrap id="102118189079MS-Img_SPi-15b">
+<imageLink type="mediaResource" href="102118189079MS_i_15b.tif" id="ImgLink-15b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="16" data-type-order="19">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr19">Figure 16 shows the histogram for OGOCs based on Monte Carlo simulation runs on the proxy models. The blue-shaded bars indicate cases where history match was met, while gray-shaded bars indicate where history match was not met. The histogram for the OGOC of the Main block suggests that OGOC of the Main block is more likely to be shallower than 4350 ft-tvd and less likely to be deeper than 4350ft-tvd. The histogram for the West block suggests that the full range of the OGOC of the West block resulted in acceptable history-matches.</anchoringText>
+<label>Figure 16 </label>
+<image-wrap id="102118189079MS-Img_SPi-16">
+<imageLink type="mediaResource" href="102118189079MS_i_16.tif" id="ImgLink-16" />
+<caption>Histogram of OGOCs from Monte Carlo Simulation runs on the Proxy Model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Histogram of OGOCs from Monte Carlo Simulation runs on the Proxy Model</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189079MS-Img_SPi-16a">
+<imageLink type="mediaResource" href="102118189079MS_i_16a.tif" id="ImgLink-16a" />
+</image-wrap>
+<image-wrap id="102118189079MS-Img_SPi-16b">
+<imageLink type="mediaResource" href="102118189079MS_i_16b.tif" id="ImgLink-16b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="14" figure-order="17" data-type-order="20">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr20">The histogram for the OGOC of the Main block suggests that OGOC of the Main block is more likely to be shallower than 4350 ft-tvd and less likely to be deeper than 4350ft-tvd. The histogram for the West block suggests that the full range of the OGOC of the West block resulted in acceptable history-matches. Figure 17 shows the cumulative probability distribution plots for the OGOC from the Monte Carlo simulation runs on the proxy model. From the plot, the P10 of the OGOC of the Main block is 4359 ft-tvd which is 24 ft. shallower than the Main block HKO.</anchoringText>
+<label>Figure 17 </label>
+<image-wrap id="102118189079MS-Img_SPi-17">
+<imageLink type="mediaResource" href="102118189079MS_i_17.tif" id="ImgLink-17" />
+<caption>Cumulative Probability Distribution Plots of OGOCs from Monte Carlo Simulation runs on the Proxy Model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Cumulative Probability Distribution Plots of OGOCs from Monte Carlo Simulation runs on the Proxy Model</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189079MS-Img_SPi-17a">
+<imageLink type="mediaResource" href="102118189079MS_i_17a.tif" id="ImgLink-17a" />
+</image-wrap>
+<image-wrap id="102118189079MS-Img_SPi-17b">
+<imageLink type="mediaResource" href="102118189079MS_i_17b.tif" id="ImgLink-17b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="18" data-type-order="21">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr21"> </anchoringText>
+<image-wrap id="102118189079MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118189079MS_i_18.tif" id="ImgLink-18" />
+<caption>Comparison between the pre-drill performance forecasts for Base Model and Optimistic Model versus initial post drill performance for well A4-3p</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Comparison between the pre-drill performance forecasts for Base Model and Optimistic Model versus initial post drill performance for well A4-3p</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="19" data-type-order="22">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr22"> </anchoringText>
+<image-wrap id="102118189079MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118189079MS_i_19.tif" id="ImgLink-19" />
+<caption>Comparison between the pre-drill performance forecasts for Base Model and Optimistic Model versus initial post drill performance for well A4-4p</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Comparison between the pre-drill performance forecasts for Base Model and Optimistic Model versus initial post drill performance for well A4-4p</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

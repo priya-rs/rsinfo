@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190230MS.txt" extractionDate="2021-03-27T17:09:21Z">
+<doi>10.2118/190230-MS</doi>
+<pii>10.2118/190230-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="4" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr3">The full range of screening criteria, and the processes they were applied to, are shown in Figure 1. As shown, each process had a different set of criteria applied to it depending on the nature of the process. For example, low salinity waterflooding (± polymer) and alkaline flooding were the only processes to have the acidity of the crude oil (as measured by Total Acid Number, TAN) as a screening criterion, as TAN influences the effectiveness of these processes (Taber and Martin, 1983; Law et al., 2014; Thyne, 2016) but has no influence on the other processes.</anchoringText>
+<image-wrap id="102118190230MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118190230MS_i_1.tif" id="ImgLink-1" />
+<caption>Matrix showing which screening criteria were used (shaded) for each recovery process</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Matrix showing which screening criteria were used (shaded) for each recovery process</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr4">The criteria used are, for the most part, similar those that have been used in previous published EOR screening work (e.g. Taber et al., 1997; Aladasani and Bai, 2010; Dickson et al., 2010; Al-Bahar et al., 2004; McCormack et al., 2014). Some additional factors not used in these previous studies (or, at least not quantitatively) were net reservoir thickness, degree of fracturing, clay type (mineralogy), formation water salinity, proportion of initial oil remaining, and current (and previous) recovery process. Current recovery process may not have been relevant in previous studies in which the current process is always waterflood, but is relevant to the NCS where, as mentioned earlier, some types of EOR have already been implemented in some fields. The effect of the current process was evaluated using the matrix shown in Figure 2.</anchoringText>
+<image-wrap id="102118190230MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118190230MS_i_2.tif" id="ImgLink-2" />
+<caption>Matrix showing the applicability of each recovery process (second process) assuming a previous process (first process) had already been implemented. White = compatible; orange = compatible but with reduced increment; red = not compatible.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Matrix showing the applicability of each recovery process (second process) assuming a previous process (first process) had already been implemented. White = compatible; orange = compatible but with reduced increment; red = not compatible.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr5">The degree to which the characteristics of a field reflect suitability for the application of a given recovery process is expressed as a screening score for each of the relevant screening criteria. In this study, scores were between 0 and 1, where zero means that the recovery process is not viable, and 1 means it is completely viable technically. The screening scores were assigned by defining four threshold values for each relevant criterion for each recovery process (Fig. 3). Minimum and Maximum (abbreviated to Min and Max) is the criterion range which is optimal for the recovery process, attracting a screening score of 1.</anchoringText>
+<image-wrap id="102118190230MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118190230MS_i_3.tif" id="ImgLink-3" />
+<caption>Example of how a screening score is assigned as a function of screening criterion value in a given reservoir relative to defined threshold values (LLimit, Min, Max, ULimit, explained in the text). Threshold values and the variable minimum scores assigned at the LLimit and ULimit vary for each criterion.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Example of how a screening score is assigned as a function of screening criterion value in a given reservoir relative to defined threshold values (LLimit, Min, Max, ULimit, explained in the text). Threshold values and the variable minimum scores assigned at the LLimit and ULimit vary for each criterion.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr6">Secondly, the screening scores and their weights for each criterion are multiplied, and the products summed. The sum is then rescaled to give a dynamic range of 0 to 1, taking into account the variable minimum screening scores for some criteria (Fig. 3). The resulting overall screening suitability scores, and the individual screening scores from which they are calculated, are shown in a dashboard (Fig. 4).</anchoringText>
+<image-wrap id="102118190230MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118190230MS_i_4.tif" id="ImgLink-4" />
+<caption>Summary dashboard for a given field, showing the overall screening suitability scores for each recovery process (right hand column) and the scores for the individual screening criteria.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Summary dashboard for a given field, showing the overall screening suitability scores for each recovery process (right hand column) and the scores for the individual screening criteria.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr7">Of the major oil fields on the NCS, 53 reservoirs from 27 oil fields were selected for inclusion in the study. The field operators kindly completed datasheets containing reservoir information upon which the screening study was performed. The studied fields, and an indication of their produced and remaining oil volumes, is shown in Figure 5. The vast majority of the remaining oil reserves involve production from waterflooding, with ~10% involving some degree of gas injection. Any application of EOR is thus mainly going to derive from the remaining resources volumes in Figure 5, and help create new reserve volumes.</anchoringText>
+<image-wrap id="102118190230MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118190230MS_i_5.tif" id="ImgLink-5" />
+<caption>Resource overview of the 27 fields included in the study.Courtesy of the NPD ( NPD 2017a  ). Note: 1 Sm<sup>3</sup> = 6.29 barrels.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Resource overview of the 27 fields included in the study.Courtesy of the NPD (<link href="BIB1"> NPD 2017a</link>  ). Note: 1 Sm<sup>3</sup> = 6.29 barrels.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-11" type="bib">
+<bib id="BIB1">
+<author>Norwegian Petroleum Directorate</author>
+<pubDate>(2017a)</pubDate>
+<article-title>Resource Report 2017: Enhanced oil recovery (EOR) methods</article-title>. Webpage: http:// ressursrapport2017.npd.no/en/avanserte-utvinningsmetoder</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="10" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr8">The most conservative estimate of technical potential incremental volumes is to consider only the single process that gives the best EOR increment at the field level. For fields with multiple reservoirs, this may mean that the selected EOR process is sub-optimal in some reservoirs, but the logic is that operationally it would be simpler to apply only one process per field, and so this scenario would have a higher chance of being implemented. On this basis the overall technical potential volumes for the NCS are shown in Figure 6, broken out by recovery process.</anchoringText>
+<image-wrap id="102118190230MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118190230MS_i_6.tif" id="ImgLink-6" />
+<caption>EOR technical potential incremental volumes for all 27 studied fields on the NCS. The volumes assume that only the top EOR process per field is implemented. The three pie charts relate to the low, mid and high increment cases shown in Table 1. In oilfield units the volumes are approximately 2 billion, 3.7 billion and 5.4 billion barrels. Courtesy of NPD ( NPD 2017b  ). Low increment 320MSm<sup>3</sup> Mid increment 592 MSm<sup>3</sup> High increment 860 MSm<sup>3.</sup>
+</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>EOR technical potential incremental volumes for all 27 studied fields on the NCS. The volumes assume that only the top EOR process per field is implemented. The three pie charts relate to the low, mid and high increment cases shown in <link href="102118190230MS-tblwrp-1">Table 1</link>. In oilfield units the volumes are approximately 2 billion, 3.7 billion and 5.4 billion barrels. Courtesy of NPD (<link href="BIB2"> NPD 2017b</link>  ). Low increment 320MSm<sup>3</sup> Mid increment 592 MSm<sup>3</sup> High increment 860 MSm<sup>3.</sup>
+</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190230MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118190230MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Low increment 320MSm<sup>3</sup></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190230MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118190230MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Mid increment 592 MSm<sup>3</sup></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190230MS-Img_SPi-6c">
+<imageLink type="mediaResource" href="102118190230MS_i_6c.tif" id="ImgLink-6c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>High increment 860 MSm<sup>3</sup></caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-12" type="bib">
+<bib id="BIB2">
+<author>Norwegian Petroleum Directorate</author>
+<pubDate>(2017b)</pubDate>
+<article-title>Positive prospects for producing more</article-title>. Webpage: http://www.npd.no/en/ Topics/Improved-Recovery/Temaartikler/Positive-prospects-for-producing-more</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr9">The mid case technical potential incremental volume is 592 MSm3 (~3.7 billion barrels) across all 27 fields, the equivalent of adding 7% to their total recovery, taking average recovery factor from 47% to 54% (Fig. 7). The uncertainty range around this, as judged from the spread of the low and high input cases (Table 1;Fig. 6), is 320-860 MSm3 (2.0-5.4 billion barrels). Note that this only considers uncertainty in the increment calculations and excludes the considerable (but very difficult to quantify) uncertainty in the ability to obtain sanction to implement EOR in each field.</anchoringText>
+<image-wrap id="102118190230MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118190230MS_i_7.tif" id="ImgLink-7" />
+<caption>Resource overview and technical EOR potential for the 27 studied fields. Courtesy of NPD ( NPD 2017a  )</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Resource overview and technical EOR potential for the 27 studied fields. Courtesy of NPD (<link href="BIB3"> NPD 2017a</link>  )</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-11" type="bib">
+<bib id="BIB3">
+<author>Norwegian Petroleum Directorate</author>
+<pubDate>(2017a)</pubDate>
+<article-title>Resource Report 2017: Enhanced oil recovery (EOR) methods</article-title>. Webpage: http:// ressursrapport2017.npd.no/en/avanserte-utvinningsmetoder</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr10">Another view of the potential of each EOR process is simply to sum the increments calculated for each process in each reservoir (Fig. 8). Clearly the total incremental volume is meaningless, as most of these processes are alternatives that cannot be implemented together. Nevertheless, this view provides an unfiltered view of the technical potential of each EOR process without considering any operational issues. In this view, the various gas injection processes figure more prominently, with hydrocarbon miscible being the top process, CO2 miscible coming third, and immiscible hydrocarbon, CO2 and nitrogen showing significant potential.</anchoringText>
+<image-wrap id="102118190230MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118190230MS_i_8.tif" id="ImgLink-8" />
+<caption>Relative proportions of summed mid case increments for all the studied EOR processes if each process could be implemented in all reservoirs.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Relative proportions of summed mid case increments for all the studied EOR processes if each process could be implemented in all reservoirs.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr11">The functionality of the EOR screening toolkit allows the incremental volumes (and the low to high case uncertainty ranges) associated with individual opportunities to be evaluated using a variety of filters: for example, the top opportunities by volume per reservoir, field, region or overall; or the top individual opportunities to implement a specific EOR process. An example of this type of output is shown in Figure 9. This style of analysis allows promising individual opportunities to be identified to enable prioritization of research and development work, to focus dialogue between the NPD and the field operators, and to identify possible focus areas for field pilots.</anchoringText>
+<image-wrap id="102118190230MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118190230MS_i_9.tif" id="ImgLink-9" />
+<caption>Example of visualization of the top individual opportunities in a specific reservoir, ranked by mid case volume (white circle), for a selected subset of the dataset. The low-high case ranges are shown by the blue bars.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Example of visualization of the top individual opportunities in a specific reservoir, ranked by mid case volume (white circle), for a selected subset of the dataset. The low-high case ranges are shown by the blue bars.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr12">The EOR technical potential results were also analyzed geographically, to identify clusters of fields that could deploy the same process and thus benefit from economies of scale. This was done successfully on the UKCS, where clusters of fields with potential from low salinity waterflooding and miscible CO2 injection were identified, enabling the UK Oil and Gas Authority to encourage dialogue and potential cooperation between the relevant field operators (McCormack et al., 2014). The present study revealed similar clusters of fields on the NCS (Fig. 10).</anchoringText>
+<image-wrap id="102118190230MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118190230MS_i_10.tif" id="ImgLink-10" />
+<caption>Geographical clusters of opportunities for specific EOR processes. Courtesy of NPD ( NPD 2017a  ).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Geographical clusters of opportunities for specific EOR processes. Courtesy of NPD (<link href="BIB4"> NPD 2017a</link>  ).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-11" type="bib">
+<bib id="BIB4">
+<author>Norwegian Petroleum Directorate</author>
+<pubDate>(2017a)</pubDate>
+<article-title>Resource Report 2017: Enhanced oil recovery (EOR) methods</article-title>. Webpage: http:// ressursrapport2017.npd.no/en/avanserte-utvinningsmetoder</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

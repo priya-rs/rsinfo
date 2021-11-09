@@ -1,0 +1,98 @@
+﻿<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8" ></head><div>
+<div><b>Meta Informations:</b><p>SPE_Society_of_Petroleum_Engineers</p><p>DOI: 10.2118/182657-MS<br>PII: 10.2118/182657-MS<br></p></div>
+<div>
+<div pdf-page="6" table-order="1" data-type-order="5">
+<div id="102118182657MS-tblwrp-1" content-type="structured"><p>There are three cases studied in this paper. The first one is a sector model for one of the Middle East giant field, Fig. 4. This model is a gas-water system with one vertical well in the middle (zoomed in Fig. 4). The total number of grid cells is about 1 million cells. The total number of simulation years is 30 years. Table 1 shows the statistic of simulation time for both sequential and fully implicit. The number of MPI processors is 10. As is expected, one can notice that the fully implicit coupling took reduced number of iterations and a shorter simulation time.</p><p><b>Table 1</b> Run statistic for test case 1.</p><p>Table 1 Run statistic for test case 1.</p><table id="102118182657MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Coupling</th>
+<th valign="top" align="center">Simulation Time</th>
+<th valign="top" align="center">Ave. Newton</th>
+<th valign="top" align="center">Ave. Time Step</th>
+<th valign="top" align="center"># of Time Step Cut</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Implicit</td>
+<td valign="top" align="center">4 min</td>
+<td valign="top" align="center">1.54</td>
+<td valign="top" align="center">7.49</td>
+<td valign="top" align="center">102</td>
+</tr>
+<tr>
+<td valign="top" align="center">Sequential</td>
+<td valign="top" align="center">5.5 min</td>
+<td valign="top" align="center">2.1</td>
+<td valign="top" align="center">6.74</td>
+<td valign="top" align="center">166</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="7" table-order="2" data-type-order="8">
+<div id="102118182657MS-tblwrp-2" content-type="structured"><p>Fig. 5 shows the cumulative gas and water rate along the wellbore where most of the gas comes from the top layers. Figure 6 shows the pressure drop along the wellbore with and without friction for the same model. Table 2 shows the average phase density in the wellbore and the corresponding pressure gradient due to the gravity. The reader may notice from Fig. 6 and Table 2 that the pressure gradient is gravity dominant from the bottom to a depth of 1,285 ft. On the other hand, due the high gas rate on the top of the reservoir, friction becomes dominant, not the gravity.</p><p><b>Table 2</b> Gas and water density for test case 1.</p><p>Table 2 Gas and water density for test case 1.</p><table id="102118182657MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Phase</th>
+<th valign="top" align="center">Density, <i>ρ</i> (<i>Ib/ft<sup>3</sup>
+</i>)</th>
+<th valign="top" align="center">dP/dh=<math>
+<mrow>
+  <mfrac>
+   <mi>ρ</mi>
+   <mrow>
+    <mn>144</mn></mrow>
+  </mfrac>
+  </mrow>
+</math>
+ (psi/ft)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Gas</td>
+<td valign="top" align="center">2.871</td>
+<td valign="top" align="center">0.02</td>
+</tr>
+<tr>
+<td valign="top" align="center">Water</td>
+<td valign="top" align="center">58.45</td>
+<td valign="top" align="center">0.406</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="9" table-order="3" data-type-order="12">
+<div id="102118182657MS-tblwrp-3" content-type="structured"><p>The statistics of the simulation run for test case 2 is given in Table 3. The time spent in the subsurface network as roughly the same as the time spent in the solver. That is due to some subsurface networks that has more than 2,000 unknowns. Most of the computation time in the subsurface network was spent in the solver, because LU factorization was utilized. The performance of the LU is poor for more than a few hundred unknowns. There is still some room for improvements in the solver time for the subsurface network. That will be presented in another paper.</p><p><b>Table 3</b> Run time statistic for test case 2.</p><p>Table 3 Run time statistic for test case 2.</p><table id="102118182657MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Average time step size</th>
+<th valign="top" align="left">5 days</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Average number of Newton</td>
+<td valign="top" align="left">5.17 days</td>
+</tr>
+<tr>
+<td valign="top" align="left">Average solver step/Newton</td>
+<td valign="top" align="left">6.7</td>
+</tr>
+<tr>
+<td valign="top" align="left">Solver time/Total Time</td>
+<td valign="top" align="left">0.416</td>
+</tr>
+<tr>
+<td valign="top" align="left">Maximum subsurface network time/ Total Time</td>
+<td valign="top" align="left">0.423</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+</div>
+</div></html>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118181110MS.txt" extractionDate="2021-03-23T16:00:05Z">
+<doi>10.2118/181110-MS</doi>
+<pii>10.2118/181110-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="4" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr3">The field consists of two, overlaying, heterogeneous reservoirs each of which is divided into two layers of differing permeability. The reservoirs are moderately thick (tens of meters) with a typical permeability between a tenth and several Darcies (Figure 1). The reservoir simulation model is relatively large (200,000 active cells) and computationally expensive. The objective is to find the most appropriate control scenario for the multi-zone, ICV-equipped, production wells to optimize the oil/water displacement efficiency.</anchoringText>
+<image-wrap id="102118181110MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118181110MS_i_1.tif" id="ImgLink-1" />
+<caption>Top view of the real field model showing permeability distribution and production wells layout in the I-well development scenario</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Top view of the real field model showing permeability distribution and production wells layout in the I-well development scenario</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr4">The reservoir uncertainty for the field was presented in the form of 3 realizations known as P10 (optimistic), P50 (base) and P90 (pessimistic). These had been built assuming that formation porosity and permeability, faults (locations and transmissibility), initial water saturation and reservoir net-to-gross were the major uncertainties. Figure 2 and Figure 3 show the field oil production rate and NPV for these 3 realizations produced with fully-open ICVs, record the impact of expected level of uncertainty in the response space.</anchoringText>
+<image-wrap id="102118181110MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118181110MS_i_2.tif" id="ImgLink-2" />
+<caption>Normalized to the plateau rate early-time Field oil production rate for 3 realizations representative of the expected level of uncertainty. <i>(Dates are modified and provided for comparison purpose only.)</i>
+</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Normalized to the plateau rate early-time Field oil production rate for 3 realizations representative of the expected level of uncertainty. (Dates are modified and provided for comparison purpose only.)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr5">The reservoir uncertainty for the field was presented in the form of 3 realizations known as P10 (optimistic), P50 (base) and P90 (pessimistic). These had been built assuming that formation porosity and permeability, faults (locations and transmissibility), initial water saturation and reservoir net-to-gross were the major uncertainties. Figure 2 and Figure 3 show the field oil production rate and NPV for these 3 realizations produced with fully-open ICVs, record the impact of expected level of uncertainty in the response space.</anchoringText>
+<image-wrap id="102118181110MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118181110MS_i_3.tif" id="ImgLink-3" />
+<caption>Relative field NPV for 3 realizations. <i>(Dates are modified and provided for comparison purpose only.)</i>
+</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Relative field NPV for 3 realizations. (Dates are modified and provided for comparison purpose only.)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr6">Figure 4 shows the improvement w.r.t. the base-case versus iteration number for all realizations and for the objective function (i.e. the mean). The optimization was performed for 100 iterations at a computational cost of ~20 min/iteration using the 18 CPUs of 3.2 GHz frequency of a high specification, PC workstation. Total run-time = 100 × 20 min ≈ 33 hr. Figure 4 indicates that 85% of the improvement was obtained after 10 iterations requiring only ~3.5 hours computation time; confirming that it would have been possible to reduce the optimization time and achieve a close-to-optimum solution within a reasonable time for this relatively large, full-field model.</anchoringText>
+<image-wrap id="102118181110MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118181110MS_i_4.tif" id="ImgLink-4" />
+<caption>(%) NPV increase w.r.t. the base-case for all 3 realization during robust proactive optimization</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>(%) NPV increase w.r.t. the base-case for all 3 realization during robust proactive optimization</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="7" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr7">Figure 5 shows the improved mean implies a higher expected added-value while the reduced variance (Figure 5-b) implies a higher reliability (lower risk) by applying the best ICV control scenario identified by robust proactive optimization. The maximum improvement (~ 4.3%) is obtained for the pessimistic scenario (P90); with smaller improvements (~ 1.3 % and ~ 0.2 %) for the P50 and P10 realizations, respectively (Figure 5-a). The flexible zonal-flow control provided by the I-well's ICVs improves the production performance compared to the equivalent base-case of fully open ICVs with no control (Haghighat Sefat et al., 2016b) while the optimization generally delivers a greater improvement for the less favorable realizations.</anchoringText>
+<image-wrap id="102118181110MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118181110MS_i_5.tif" id="ImgLink-5" />
+<caption>(a) % Increase in NPV and (b) % change in the mean and variance for the best control scenario obtained using robust optimization of 3 realizations</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>(a) % Increase in NPV and (b) % change in the mean and variance for the best control scenario obtained using robust optimization of 3 realizations</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181110MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118181110MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>% Increase in NPV</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181110MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118181110MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>% change in the mean and variance for the best control scenario obtained using robust optimization of 3 realizations</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr8">Figure 6 shows field oil production rates for the base control case with fully-open ICVs and the optimized-case for all 3 realizations. An extended oil plateau was observed for all realizations.</anchoringText>
+<image-wrap id="102118181110MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118181110MS_i_6.tif" id="ImgLink-6" />
+<caption>Normalized to the plateau rate Field oil production rate for base-case (fully-open ICVs) and optimized-case of different realizations. <i>(Dates are modified and provided for comparison purpose only.)</i>
+</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Normalized to the plateau rate Field oil production rate for base-case (fully-open ICVs) and optimized-case of different realizations. (Dates are modified and provided for comparison purpose only.)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr9">Figure 7,Figure 8 and Figure 9 compare the NPV for the conventional development plan of 14 conventional producers versus the I-well version with a reduced (8 conventional and three 4-zone I-producers) number of wells both with and without optimized ICV control during the proactive optimization period for the P90, P50 and P10 realizations. It is assumed that the total drilling cost is invested at the beginning of the drilling campaign, hence the intelligent well case shows an initial improvement in NPV due to reducing the number of drilled wells.</anchoringText>
+<image-wrap id="102118181110MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118181110MS_i_7.tif" id="ImgLink-7" />
+<caption>(a) NPV (b) ΔNPV for I-wells without optimization and optimized I-wells w.r.t. conventional wells for the P90 reservoir model realization. <i>(Dates are modified and provided for comparison purpose only.)</i>
+</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>(a) NPV (b) ΔNPV for I-wells without optimization and optimized I-wells w.r.t. conventional wells for the P90 reservoir model realization. (Dates are modified and provided for comparison purpose only.)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181110MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118181110MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>NPV</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181110MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118181110MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>ΔNPV</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr10">Figure 7,Figure 8 and Figure 9 compare the NPV for the conventional development plan of 14 conventional producers versus the I-well version with a reduced (8 conventional and three 4-zone I-producers) number of wells both with and without optimized ICV control during the proactive optimization period for the P90, P50 and P10 realizations. It is assumed that the total drilling cost is invested at the beginning of the drilling campaign, hence the intelligent well case shows an initial improvement in NPV due to reducing the number of drilled wells.</anchoringText>
+<image-wrap id="102118181110MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118181110MS_i_8.tif" id="ImgLink-8" />
+<caption>(a) NPV (b) ΔNPV for I-wells without optimization and optimized I-wells w.r.t. conventional wells for the P50 reservoir model realization. <i>(Dates are modified and provided for comparison purpose only.)</i>
+</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>(a) NPV (b) ΔNPV for I-wells without optimization and optimized I-wells w.r.t. conventional wells for the P50 reservoir model realization. (Dates are modified and provided for comparison purpose only.)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181110MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118181110MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>NPV</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181110MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118181110MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>ΔNPV</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr11">Figure 7,Figure 8 and Figure 9 compare the NPV for the conventional development plan of 14 conventional producers versus the I-well version with a reduced (8 conventional and three 4-zone I-producers) number of wells both with and without optimized ICV control during the proactive optimization period for the P90, P50 and P10 realizations. It is assumed that the total drilling cost is invested at the beginning of the drilling campaign, hence the intelligent well case shows an initial improvement in NPV due to reducing the number of drilled wells.</anchoringText>
+<image-wrap id="102118181110MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118181110MS_i_9.tif" id="ImgLink-9" />
+<caption>NPV (b) ΔNPV for I-wells without optimization and optimized I-wells w.r.t. the conventional wells for the P10 reservoir model realization. <i>(Dates are modified and provided for comparison purpose only.)</i>
+</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>NPV (b) ΔNPV for I-wells without optimization and optimized I-wells w.r.t. the conventional wells for the P10 reservoir model realization. (Dates are modified and provided for comparison purpose only.)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181110MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118181110MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>NPV</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181110MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118181110MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>ΔNPV</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

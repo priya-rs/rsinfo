@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118192036MS.txt" extractionDate="2021-03-30T15:45:03Z">
+<doi>10.2118/192036-MS</doi>
+<pii>10.2118/192036-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="4" figure-order="1" data-type-order="2">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr4">In order to arbitrarily select possible locations in the reservoir, the wells are placed as in this spacing (11 × 11 = 121 wells as shown in Fig. 1[OD2]). These well locations will be used for further evaluation of their potential for selection as candidates for a given number of required wells.</anchoringText>
+<image-wrap id="102118192036MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118192036MS_i_1.tif" id="ImgLink-1" />
+<caption>121 Well locationfor synthetic 2D model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>121 Well locationfor synthetic 2D model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr5">For this step, each well is simulated through a streamline simulator (in this study, FRONTSIM). Each producer is set to produce with a BHP limit to illustrate their maximum flow potential. The results from this step are (i) flow potential from each well and (ii) streamlines traced from each producer to the boundary (Fig. 2).</anchoringText>
+<image-wrap id="102118192036MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118192036MS_i_2.tif" id="ImgLink-2" />
+<caption>Streamlines result from each producer, the yellow colors show low time-of-flight value near the producer</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Streamlines result from each producer, the yellow colors show low time-of-flight value near the producer</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="5" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr6">The objective of this step is to map data from the streamlines to each simulation grid for further calculations. Generally, the generated streamlines data is in line format, which is stored in .SLN files. One single grid may be penetrated by more than one line. The MATLAB binary reader is used to extract information from the .SLN file and to calculate the average time-of-flight from the line to each grid. The result can accurately mimic the streamline time-of-flight result to the grid (Fig. 3).</anchoringText>
+<image-wrap id="102118192036MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118192036MS_i_3.tif" id="ImgLink-3" />
+<caption>Time-of-flight in streamline line format (Left), time-of-flight in grid format (Right)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Time-of-flight in streamline line format (Left), time-of-flight in grid format (Right)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118192036MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118192036MS_i_3a.tif" id="ImgLink-3a" />
+<figure-specific-caption>
+<caption-order>(Left)</caption-order>
+<caption-text>Time-of-flight in streamline line format</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118192036MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118192036MS_i_3b.tif" id="ImgLink-3b" />
+<figure-specific-caption>
+<caption-order>(Right)</caption-order>
+<caption-text>time-of-flight in grid format</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr7">The HCPV is then weighted by a time-of-flight value. A low time-of-flight near the wellbore will have a high weight whereas a farther distance with an increased particle travel time will have a lower weight. We define the relationship between a normalized time-of-flight weight versus a time-of-flight in each grid cell as a linear relationship with a cut-off value (Fig. 4 and Fig. 5). The largest weight will be given at time-of-flight = 0 (near the well bore), the value beyond cut-off will be treated as 0. The cut-off time-of-flight is defined as 30 years.</anchoringText>
+<image-wrap id="102118192036MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118192036MS_i_4.tif" id="ImgLink-4" />
+<caption>Relationship between Normalized time-of-flight and time-of-flight in each grid</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Relationship between Normalized time-of-flight and time-of-flight in each grid</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr8">The HCPV is then weighted by a time-of-flight value. A low time-of-flight near the wellbore will have a high weight whereas a farther distance with an increased particle travel time will have a lower weight. We define the relationship between a normalized time-of-flight weight versus a time-of-flight in each grid cell as a linear relationship with a cut-off value (Fig. 4 and Fig. 5). The largest weight will be given at time-of-flight = 0 (near the well bore), the value beyond cut-off will be treated as 0. The cut-off time-of-flight is defined as 30 years.</anchoringText>
+<image-wrap id="102118192036MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118192036MS_i_5.tif" id="ImgLink-5" />
+<caption>time-of-flight plot with idea of weighting and cut-off</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>time-of-flight plot with idea of weighting and cut-off</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr9">In this example comprising 121 wells, the total combination for selection of 1-5 wells is shown in Table 2. Examples of selecting well groups for 3 from 121 wells are shown in Fig. 6.</anchoringText>
+<image-wrap id="102118192036MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118192036MS_i_6.tif" id="ImgLink-6" />
+<caption>Example of well group selection, each color representing possible combinations of selected 3 wells from a 121 well pool</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Example of well group selection, each color representing possible combinations of selected 3 wells from a 121 well pool</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr10">Instead of running reservoir simulations, we perform a proxy calculation of the drainage volume by turning the effective HC drainage volume into a mathematical matrix union with a given number of wells, and then search for the case that provides the largest score. The calculation of a matrix union can be done at an extremely fast speed, less than 0.1 second per trial, which make the exhaustive search possible. Additionally, a parallel computing technique can also be implemented into this workflow to further expedite the computational efficiency. The overall exhaustive optimisation workflow is illustrated in Fig. 7.</anchoringText>
+<image-wrap id="102118192036MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118192036MS_i_7.tif" id="ImgLink-7" />
+<caption>Overall exhaustive optimisation workflow</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Overall exhaustive optimisation workflow</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="5" pdf-page="8" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr11">The algorithm herein has been conceptually tested with 2D synthetic homogeneous reservoir simulation examples. The intention of this test is to observe what the spacing derived from the algorithm looks like when applied to the 2D problem that humans can visualize. The algorithm has been applied to search optimal locations from 1 well to 5 wells (Fig. 8).</anchoringText>
+<image-wrap id="102118192036MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118192036MS_i_8.tif" id="ImgLink-8" />
+<caption>Results from well placement optimisation from 2D synthetic homogeneous model from 1 well to 5 wells</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Results from well placement optimisation from 2D synthetic homogeneous model from 1 well to 5 wells</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118192036MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118192036MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>1 well</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118192036MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118192036MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>2 well</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118192036MS-Img_SPi-8c">
+<imageLink type="mediaResource" href="102118192036MS_i_8c.tif" id="ImgLink-8c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>3 well</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118192036MS-Img_SPi-8d">
+<imageLink type="mediaResource" href="102118192036MS_i_8d.tif" id="ImgLink-8d" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>4 well</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118192036MS-Img_SPi-8e">
+<imageLink type="mediaResource" href="102118192036MS_i_8e.tif" id="ImgLink-8e" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>5 well</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr12">The work plan to deliver the application package to perform the workflow in this study is called "Smart Production Well Drainage Optimizer (SMARTDRAIN)". The workflow from running streamline simulator, digitizing streamlines, calculating efficient drainage volume and optimizing by exhaustive search are included in the package using the MATLAB compiler. In order to ensure greater specific user friendliness, engineers need to prepare input only for the data in the provided MS Excel template. The software provides results in MS Excel, with the program structure illustrated in Fig. 9.</anchoringText>
+<image-wrap id="102118192036MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118192036MS_i_9.tif" id="ImgLink-9" />
+<caption>SMARTDRAIN software structure diagram</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>SMARTDRAIN software structure diagram</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr13">"Field X," which is an offshore gas-condensate field in its preliminary development phase, is simulated as a reference model in this study. The reservoir model contains around 3 million cells with 600K active cells. The development plan aims to find proper locations to maximize plateau duration. A total of 23 wells representing locations away from GWC has been initially planned, spreading around the reservoir (Fig. 10). The SMARTDRAIN package has been tested with this field scale reservoir simulation model to locate optimal locations for the field development plan.</anchoringText>
+<image-wrap id="102118192036MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118192036MS_i_10.tif" id="ImgLink-10" />
+<caption>Proposed possible locations for 23 wells on a contour map</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Proposed possible locations for 23 wells on a contour map</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="10" figure-order="11" data-type-order="13">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr14">Streamlines for each individual well are generated through the streamline simulator as represented in Fig. 11. The streamlines are then digitized to the grid by the average value (Fig. 12). The blue and yellow color show the low values of time-of-flight whereas the red color represents the area with the high time-of-flight. The particles at the low time-of-flight tend to move toward a producer more easily than those with higher values.</anchoringText>
+<image-wrap id="102118192036MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118192036MS_i_11.tif" id="ImgLink-11" />
+<caption>Streamlines time-of-flight result from three wells: NX-I, NX-J, and CX-B</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Streamlines time-of-flight result from three wells: NX-I, NX-J, and CX-B</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118192036MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118192036MS_i_11a.tif" id="ImgLink-11a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>NX-I</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118192036MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118192036MS_i_11b.tif" id="ImgLink-11b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>NX-J</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118192036MS-Img_SPi-11c">
+<imageLink type="mediaResource" href="102118192036MS_i_11c.tif" id="ImgLink-11c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>CX-B</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="10" figure-order="12" data-type-order="14">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr15">Streamlines for each individual well are generated through the streamline simulator as represented in Fig. 11. The streamlines are then digitized to the grid by the average value (Fig. 12). The blue and yellow color show the low values of time-of-flight whereas the red color represents the area with the high time-of-flight. The particles at the low time-of-flight tend to move toward a producer more easily than those with higher values.</anchoringText>
+<image-wrap id="102118192036MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118192036MS_i_12.tif" id="ImgLink-12" />
+<caption>Digitized average streamlines to grid from three wells: NX-I, NX-J, and CX-B</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Digitized average streamlines to grid from three wells: NX-I, NX-J, and CX-B</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118192036MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118192036MS_i_12a.tif" id="ImgLink-12a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>NX-I</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118192036MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118192036MS_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>NX-J</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118192036MS-Img_SPi-12c">
+<imageLink type="mediaResource" href="102118192036MS_i_12c.tif" id="ImgLink-12c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>CX-B</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="13" data-type-order="15">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr16">With heterogeneity, the drainage area is not circular as in the homogeneous case, but the drainage is extended toward the preferred flow-path with a high permeability trend in a NE-SW direction (Fig. 13). Additionally, the high permeability regions are primarily located in southern part of the reservoir. This information suggests the majority of development wells should focus on the southern region more than the northern region. The proper number of wells in each region is the primary requirement for this study where the SMARTDRAIN serves as the key engine to deliver the answer.</anchoringText>
+<image-wrap id="102118192036MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118192036MS_i_13.tif" id="ImgLink-13" />
+<caption>2D average permeability map from Field X</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>2D average permeability map from Field X</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="14" data-type-order="16">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr17">Two well placement development scenarios are compared. The first scenario uses a manual human justification to place 12 producers throughout the reservoir (Fig. 14). The second scenario uses the developed SMARTDRAIN algorithm in this work to locate the 12 producers (Fig, 15). The first scenario tends to place the wells with equal spacing more than the latter scenario where the wells are spaced more densely in regions with high HCPV.</anchoringText>
+<image-wrap id="102118192036MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118192036MS_i_14.tif" id="ImgLink-14" />
+<caption>Well placement by manual justification showing proper well spacing</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Well placement by manual justification showing proper well spacing</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="15" data-type-order="17">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr18">Two well placement development scenarios are compared. The first scenario uses a manual human justification to place 12 producers throughout the reservoir (Fig. 14). The second scenario uses the developed SMARTDRAIN algorithm in this work to locate the 12 producers (Fig, 15). The first scenario tends to place the wells with equal spacing more than the latter scenario where the wells are spaced more densely in regions with high HCPV.</anchoringText>
+<image-wrap id="102118192036MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118192036MS_i_15.tif" id="ImgLink-15" />
+<caption>Well placement by algorithm SMARTDRAIN: Well placements are denser at the southern region and locations that have higher HCPVs</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Well placement by algorithm SMARTDRAIN: Well placements are denser at the southern region and locations that have higher HCPVs</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="16" data-type-order="18">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr19">The primary requirement of Field × development is a plateau production period. The result from the two scenarios, manual justification and optimisation by SMARTDRAIN, are compared in Fig. 16. It can be observed that the well placement suggested by SMARTDRAIN has improved the plateau duration by 5.1% more than from manual justification. Despite various attempts from manual justification to locate well placement on scenarios with proper well spacing size, an improvement from this algorithm-assisted workflow has been clearly shown to occur. This improvement also proves the necessity of integrated reservoir simulations to improve decision-making on selections for well placement.</anchoringText>
+<image-wrap id="102118192036MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118192036MS_i_16.tif" id="ImgLink-16" />
+<caption>Plateau period comparison between manual VS SMARTDRAIN</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Plateau period comparison between manual VS SMARTDRAIN</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

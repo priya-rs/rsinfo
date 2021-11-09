@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187912MS.txt" extractionDate="2021-03-25T11:06:10Z">
+<doi>10.2118/187912-MS</doi>
+<pii>10.2118/187912-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="4" table-order="1" data-type-order="1">
+<table-wrap id="102118187912MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Two model running options were considered. In the first of these, the initial oil saturation of the highly permeable layer is 0.6, in the second it is 0.4. The oil saturation of the low-permeable layer in both cases is equal to 0.8. The remaining parameters of the problem are given in Table 1.</anchoringText>
+<label>Table 1</label>
+<caption>Parameters for synthetic example</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Parameters for synthetic example</caption-text>
+</formatted-caption>
+<table id="102118187912MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Parameter</th>
+<th valign="top" align="left">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Bottom-hole pressure at the production well</td>
+<td valign="top" align="left">35 (atm)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Average bottomhole pressure in the injection well</td>
+<td valign="top" align="left">100 (atm)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Amplitude of cyclic stimulation</td>
+<td valign="top" align="left">40 (atm)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Period of cyclic injection</td>
+<td valign="top" align="left">15 (day)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Durationofcyclic stimulation</td>
+<td valign="top" align="left">20 (years)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Porosity</td>
+<td valign="top" align="left">0.3</td>
+</tr>
+<tr>
+<td valign="top" align="left">Thickness of high- and low-permeable layers</td>
+<td valign="top" align="left">10 (m)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Compressibility of rocks</td>
+<td valign="top" align="left">0 (1/GPa)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Compressibility of water</td>
+<td valign="top" align="left">0 (1/atm)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Compressibility of oil</td>
+<td valign="top" align="left">10−5 (1/atm)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Waterviscosity</td>
+<td valign="top" align="left">1 (cP)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oilviscosity</td>
+<td valign="top" align="left">30 (cP)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Critical saturation of water and oil</td>
+<td valign="top" align="left">0.2, 0.2</td>
+</tr>
+<tr>
+<td valign="top" align="left">Permeabilitiesofthelayers</td>
+<td valign="top" align="left">600 (mD) and 10(mD)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Water saturation of the low-permeable layer</td>
+<td valign="top" align="left">0.2</td>
+</tr>
+<tr>
+<td valign="top" align="left">Development period</td>
+<td valign="top" align="left">20 (years)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Grid spacing</td>
+<td valign="top" align="left">20 (m)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Time step</td>
+<td valign="top" align="left">1 (day)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Dimensions of the area of interest</td>
+<td valign="top" align="left">500×500×20 (m)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Dimensions of the simulation cell</td>
+<td valign="top" align="left">25×25×10 (m)</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

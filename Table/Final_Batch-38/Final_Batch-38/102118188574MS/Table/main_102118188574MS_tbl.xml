@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118188574MS.txt" extractionDate="2021-03-26T17:05:14Z">
+<doi>10.2118/188574-MS</doi>
+<pii>10.2118/188574-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="3" table-order="1" data-type-order="2">
+<table-wrap id="102118188574MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Neag-1 field was discovered on 2007 and first production from Bahariya was in June 2008. Bahariya reservoir consists of a sequence of thin bedded shaley sandstone that shows variable permeability ranges (Table 1) showing vertical and lateral heterogeneity. The main driving mechanism is depletion drive thus, the recommendation was to apply early water flood to increase the wells productivity and keep lifting pumps running in the optimum conditions of operating envelop. The former perforation strategy applied to specific layers of the reservoir assuming one frac could be beneficial for each layer but latter; analysis of wells performance and production recommended to perforate and frac all layers in order to enhance sweeping and maximize production potential. Water flood has started in 2010 and the strategy was to adopt a commingle injection and commingle production from the wells. Later on, production and pressure performance proved that there are different flow units in Bahariya.</anchoringText>
+<label>Table 1</label>
+<caption>Compilation of Bahariya reservoir parameters in all sub-divisions;</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Compilation of Bahariya reservoir parameters in all sub-divisions;</caption-text>
+</formatted-caption>
+<table id="102118188574MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">
+Zone
+</th>
+<th align="center">Sub-divisions</th>
+<th valign="top" align="center">Av.<br />Thickness,<br />m</th>
+<th align="center">N/G,<br />%</th>
+<th align="center">Av. <i>Փ</i>,<br />fraction</th>
+<th align="center">Av. K,<br />mD</th>
+<th align="center">Mode. K,<br />mD *</th>
+<th align="center">STOIIP,<br />%</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td id="tfn-1" colspan="8" align="left">* Mode found to be more representative to K variations.</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td align="center">1</td>
+<td valign="top" align="left">Med. Baharyia-1</td>
+<td valign="top" align="center">34</td>
+<td valign="top" align="center">0.45</td>
+<td valign="top" align="center">0.17</td>
+<td valign="top" align="center">52</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">40%</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td valign="top" align="left">Med. Baharyia-2</td>
+<td valign="top" align="center">36</td>
+<td valign="top" align="center">0.25</td>
+<td align="center">0.18</td>
+<td align="center">26</td>
+<td align="center">6</td>
+<td valign="top" align="center">25 %</td>
+</tr>
+<tr>
+<td valign="top" align="center">3</td>
+<td valign="top" align="left">Med. Baharyia-3</td>
+<td align="center">11</td>
+<td valign="top" align="center">0.4</td>
+<td align="center">0.2</td>
+<td valign="top" align="center">350</td>
+<td valign="top" align="center">320</td>
+<td valign="top" align="center">11 %</td>
+</tr>
+<tr>
+<td valign="top" align="center">4</td>
+<td valign="top" align="left">L. Baharyia-1</td>
+<td valign="top" align="center">44</td>
+<td valign="top" align="center">0.34</td>
+<td align="center">0.18</td>
+<td align="center">80</td>
+<td valign="top" align="center">75</td>
+<td valign="top" align="center">19%</td>
+</tr>
+<tr>
+<td valign="top" align="center">5</td>
+<td valign="top" align="left">L. Baharyia-2</td>
+<td valign="top" align="center">46</td>
+<td valign="top" align="center">0.36</td>
+<td valign="top" align="center">0.17</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">5%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="6" table-order="2" data-type-order="6">
+<table-wrap id="102118188574MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The main objective of the static modelling was to construct a detailed 3D model using Petrel with the aim of reservoir simulation and history match as quantifying the subsurface uncertainties usually done in early stage of development. After years of production and large wells number; this field become mature enough with low chances of extra drilling but still there is a room to tackle the performance and get use of new inputs as well logs, RDT pressure, Attribute semblance, detailed zonation, Multi sand maps, reservoir analogues and Bore hole Images to build a new model of high resolution than former trials and compare between results of different inputs &amp; workflows (Table 2).</anchoringText>
+<label>Table 2</label>
+<caption>Comparison between modeling inputs through development phases;</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Comparison between modeling inputs through development phases;</caption-text>
+</formatted-caption>
+<table id="102118188574MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" bgcolor="#C2D79C">
+</th>
+<th valign="top" align="center" bgcolor="#C2D79C">No. of Wells</th>
+<th valign="top" align="center" bgcolor="#C2D79C">No. of Blocks</th>
+<th valign="top" align="center" bgcolor="#C2D79C">No. of Zones</th>
+<th align="center" bgcolor="#C2D79C">Facies Analogues</th>
+<th valign="top" align="center" bgcolor="#C2D79C">Sand Maps</th>
+<th valign="top" align="center" bgcolor="#C2D79C">STOIIP Based Saturation</th>
+<th valign="top" align="center" bgcolor="#C2D79C">Static Model</th>
+<th valign="top" align="center" bgcolor="#C2D79C">Dynamic Model</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td id="tfn-2" colspan="9" align="left">
+<i>* RMKB : Reservoir modeling knowledge database (shell web).</i>
+</td>
+</tr>
+<tr>
+<td id="tfn-3" colspan="9" align="left">
+<i>** Un-realistic sand maps for combined different facies which wasn't used for modeling purpose.</i>
+</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td valign="top" align="center">
+<b>Phase 1</b>
+</td>
+<td valign="top" align="center">
+<b>26</b>
+</td>
+<td valign="top" align="center">
+<b>3</b>
+</td>
+<td valign="top" align="center">
+<b>2</b>
+</td>
+<td valign="top" align="left"><b>• Nearby fields &amp; Sedimentlogical description</b>
+</td>
+<td valign="top" align="center">
+<b>NO</b>
+</td>
+<td valign="top" align="center">
+<b>Conventional</b>
+</td>
+<td valign="top" align="center">
+<b>YES</b>
+</td>
+<td valign="top" align="center">
+<b>YES</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>Phase2</b>
+</td>
+<td valign="top" align="center">
+<b>35</b>
+</td>
+<td valign="top" align="center">
+<b>4</b>
+</td>
+<td valign="top" align="center">
+<b>3</b>
+</td>
+<td valign="top" align="left"><b>• Nearby fields &amp; Sedimentlogical description</b>
+<b>
+<br />• RMKB *</b>
+</td>
+<td valign="top" align="center">
+<b>NO</b>
+</td>
+<td valign="top" align="center">
+<b>Shaley sand Model (fixed value)</b>
+</td>
+<td valign="top" align="center">
+<b>NO</b>
+</td>
+<td valign="top" align="center">
+<b>NO</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>Phase 3</b>
+</td>
+<td valign="top" align="center">
+<b>41</b>
+</td>
+<td valign="top" align="center">
+<b>7</b>
+</td>
+<td valign="top" align="center">
+<b>5</b>
+</td>
+<td valign="bottom" align="left"><b>• </b>
+<b>Nearby fields &amp; Sedimentlogical description</b>
+<b>
+<br />
+</b>
+<b>• </b>
+<b>RMKB</b>
+<b>
+<br />
+</b>
+<b>• </b>
+<b>Data Analysis</b>
+<b>
+<br />
+</b>
+<b>• </b>
+<b>(SIS) Algorithm</b>
+</td>
+<td valign="top" align="center">
+<b>YES </b>
+<b>**</b>
+</td>
+<td valign="top" align="center">
+<b>Low resistivity pay (per zone)</b>
+</td>
+<td valign="top" align="center">
+<b>YES</b>
+<b>
+<br />
+</b>Probabilistic</td>
+<td valign="top" align="center">
+<b>No</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>Phase 4</b>
+</td>
+<td valign="top" align="center">
+<b>55</b>
+</td>
+<td valign="top" align="center">
+<b>9</b>
+</td>
+<td valign="top" align="center">
+<b>17</b>
+</td>
+<td valign="bottom" align="left"><b>• </b>
+<b>Nearby fields &amp;</b>
+<b>
+<br />Sedimentlogical description<br />
+</b>
+<b>• </b>
+<b>RMKB</b>
+<b>
+<br />
+</b>
+<b>• </b>
+<b>Data Analysis</b>
+<b>
+<br />
+</b>
+<b>• </b>
+<b>(SIS) Algorithm</b>
+<b>
+<br />
+</b>
+<b>• </b>
+<b>Bore hole Images</b>
+<b>
+<br />
+</b>
+<b>• </b>
+<b>Sand maps</b>
+</td>
+<td valign="top" align="center">
+<b>YES</b>
+</td>
+<td valign="top" align="center">
+<b>Saturation height function</b>
+</td>
+<td valign="top" align="center">
+<b>YES</b>
+</td>
+<td valign="top" align="center">
+<b>YES</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="10" table-order="3" data-type-order="11">
+<table-wrap id="102118188574MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Facies and Property models Histograms was checked for all realizations in-order to check the upscaling, model outputs compared to the raw data (Fig. 8). The first observation to all previous well log data of 23 well in such a block reflecting such ideal normal property distribution of tighter data range therefore, later after 7 infill wells the updates showed further heterogeneity in histograms in dense well data. In addition to the increasing of zones number leads to better identification for reservoir-non reservoir in uncontrolled spots between wells; hence the model is ready for simulation testing summery in table 3.</anchoringText>
+<label>Table 3</label>
+<caption>Model description</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Model description</caption-text>
+</formatted-caption>
+<table id="102118188574MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Parameters</th>
+<th valign="top" align="left">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Zonation</td>
+<td valign="top" align="left">17 Zone</td>
+</tr>
+<tr>
+<td valign="top" align="left">cell size</td>
+<td valign="top" align="left">50m*50 m</td>
+</tr>
+<tr>
+<td valign="top" align="left">Layers</td>
+<td valign="top" align="left">151 layer</td>
+</tr>
+<tr>
+<td valign="top" align="left">Realization</td>
+<td valign="top" align="left">5 realization (BHI calibrated)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Porosity</td>
+<td valign="top" align="left">One case based on core calibrated well logs</td>
+</tr>
+<tr>
+<td valign="top" align="left">Permeability</td>
+<td valign="top" align="left">2 cases based on Por-Perm relation</td>
+</tr>
+<tr>
+<td valign="top" align="left">Water saturation</td>
+<td valign="top" align="left">3 cases Based on SHF models</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="10" table-order="4" data-type-order="12">
+<table-wrap id="102118188574MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">The PVT models of black oil has used in update the dynamic model. The production data for all wells did not show difference in the oil properties form the first exploration wells. The main fluids properties compositions are listed in Tables 4. The PVT model created in PVT P, based on the attached PVT data was used in the dynamic model. Some key parameters for oil adjusted at optimum separator condition (100°psi and 86°F) used in the dynamic simulation model are shown in Table 5.</anchoringText>
+<label>Table 4</label>
+<caption>Well Stream Composition.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Well Stream Composition.</caption-text>
+</formatted-caption>
+<table id="102118188574MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" bgcolor="#D9D9D9">PVT Parameter Mole. %</th>
+<th valign="top" align="center" bgcolor="#D9D9D9">ALF-l sample</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Nitrogen</td>
+<td valign="top" align="left">0.035</td>
+</tr>
+<tr>
+<td valign="top" align="left">Carbon Dioxide</td>
+<td valign="top" align="left">0.090</td>
+</tr>
+<tr>
+<td valign="top" align="left">Methane</td>
+<td valign="top" align="left">5.162</td>
+</tr>
+<tr>
+<td valign="top" align="left">Ethane</td>
+<td valign="top" align="left">0.509</td>
+</tr>
+<tr>
+<td valign="top" align="left">Probane</td>
+<td valign="top" align="left">1.207</td>
+</tr>
+<tr>
+<td valign="top" align="left">Butane</td>
+<td valign="top" align="left">2.554</td>
+</tr>
+<tr>
+<td valign="top" align="left">I-pentane</td>
+<td valign="top" align="left">4.512</td>
+</tr>
+<tr>
+<td valign="top" align="left">Hexane</td>
+<td valign="top" align="left">4.591</td>
+</tr>
+<tr>
+<td valign="top" align="left">Benzene</td>
+<td valign="top" align="left">0.825</td>
+</tr>
+<tr>
+<td valign="top" align="left">Heptanes</td>
+<td valign="top" align="left">5.014</td>
+</tr>
+<tr>
+<td valign="top" align="left">Toluene</td>
+<td valign="top" align="left">1.433</td>
+</tr>
+<tr>
+<td valign="top" align="left">Octane</td>
+<td valign="top" align="left">7.904</td>
+</tr>
+<tr>
+<td valign="top" align="left">Ethyl-benzene</td>
+<td valign="top" align="left">0.217</td>
+</tr>
+<tr>
+<td valign="top" align="left">P,m-xylene</td>
+<td valign="top" align="left">0.912</td>
+</tr>
+<tr>
+<td valign="top" align="left">o-xylene</td>
+<td valign="top" align="left">0.349</td>
+</tr>
+<tr>
+<td valign="top" align="left">Nominees C9</td>
+<td valign="top" align="left">6.738</td>
+</tr>
+<tr>
+<td valign="top" align="left">Decanes C10</td>
+<td valign="top" align="left">5.880</td>
+</tr>
+<tr>
+<td valign="top" align="left">Undecanes C11</td>
+<td valign="top" align="left">5.893</td>
+</tr>
+<tr>
+<td valign="top" align="left">Dodecanes C12<sup>+</sup>
+</td>
+<td valign="top" align="left">46.066</td>
+</tr>
+<tr>
+<td valign="top" align="left">Total</td>
+<td valign="top" align="left">100.00</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="10" table-order="5" data-type-order="13">
+<table-wrap id="102118188574MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">The PVT models of black oil has used in update the dynamic model. The production data for all wells did not show difference in the oil properties form the first exploration wells. The main fluids properties compositions are listed in Tables 4. The PVT model created in PVT P, based on the attached PVT data was used in the dynamic model. Some key parameters for oil adjusted at optimum separator condition (100°psi and 86°F) used in the dynamic simulation model are shown in Table 5.</anchoringText>
+<label>Table 5</label>
+<caption>The Keys parameters used for oil adjusted to separator conditions</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>The Keys parameters used for oil adjusted to separator conditions</caption-text>
+</formatted-caption>
+<table id="102118188574MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" bgcolor="#D9D9D9">Parameters</th>
+<th valign="top" align="center" bgcolor="#D9D9D9">Oil</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Sat. Pressure, psig</td>
+<td valign="top" align="center">253</td>
+</tr>
+<tr>
+<td valign="top" align="left">API</td>
+<td valign="top" align="center">40.4</td>
+</tr>
+<tr>
+<td valign="top" align="left">FVF @ Pi</td>
+<td valign="top" align="center">1.046</td>
+</tr>
+<tr>
+<td valign="top" align="left">FVF @ Pb</td>
+<td valign="top" align="center">1.057</td>
+</tr>
+<tr>
+<td valign="top" align="left">µ◻@ Pi cp</td>
+<td valign="top" align="center">1.868</td>
+</tr>
+<tr>
+<td valign="top" align="left">µ◻ @ Pb, cp</td>
+<td valign="top" align="center">1.632</td>
+</tr>
+<tr>
+<td valign="top" align="left">Rsi, (scf/stb)</td>
+<td valign="top" align="center">41</td>
+</tr>
+<tr>
+<td valign="top" align="left">Pour point, °C</td>
+<td valign="top" align="center">24</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="11" table-order="6" data-type-order="15">
+<table-wrap id="102118188574MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6">Based on the relative permeability data analysis, we most likely have three groups of permeability's, high, mid and low with ranges of &#x003E;100 mD, 10 to 100 mD and &#x003C;1 mD md respectively as showed in the table 6. The routine core analysis "RCA" for three different wells subjected for modeling is well distributed in the field, 6 samples have been used for relative permeability measurements along layer-3 and 4. There is some issues in the relative permeability data retrieved from samples 6R and 8R because it does not match the grouped absolute permeability hence these two samples are biased by the effect of anisotropy resulted from heavily flazer bedding. Remembering that distributing these relative permeability curves for top layers might be an optimistic option.</anchoringText>
+<label>Table 6</label>
+<caption>relative permeability grouping.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>6</caption-order>
+<caption-text>relative permeability grouping.</caption-text>
+</formatted-caption>
+<table id="102118188574MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Case</th>
+<th valign="top" align="center">Sample</th>
+<th valign="top" align="center">Formation</th>
+<th valign="top" align="center">Acting. Abs. Permeability, mD</th>
+<th valign="top" align="center">Abs. Permeability range, mD</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">High</td>
+<td valign="top" align="center">3R &amp; 4R</td>
+<td valign="top" align="center">M.Bahariya-3</td>
+<td valign="top" align="center">840&amp;415</td>
+<td valign="top" align="center">&#x003E;100</td>
+</tr>
+<tr>
+<td valign="top" align="center">Base</td>
+<td valign="top" align="center">7R &amp; 10R</td>
+<td valign="top" align="center">L.Bahariya-1</td>
+<td valign="top" align="center">11&amp;60</td>
+<td valign="top" align="center">10 to 100</td>
+</tr>
+<tr>
+<td valign="top" align="center">Low</td>
+<td valign="top" align="center">5R &amp; 9R</td>
+<td valign="top" align="center">M.Bahariya-3 &amp; L.Bahariya-1</td>
+<td valign="top" align="center">6&amp; 7</td>
+<td valign="top" align="center">&#x003C;10</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="12" table-order="7" data-type-order="16">
+<table-wrap id="102118188574MS-tblwrp-7" content-type="structured">
+<anchoringText id="Ancr7"> </anchoringText>
+<label>Table 7</label>
+<caption>Permeability Multipliers per each zone.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Permeability Multipliers per each zone.</caption-text>
+</formatted-caption>
+<table id="102118188574MS-Tbl_SPi-7" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Variable name per each zone</th>
+<th valign="top" align="center">Multiplier</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">VARIABLE REAL PermMult_M_Bah_1</td>
+<td valign="top" align="center">30.00</td>
+</tr>
+<tr>
+<td valign="top" align="center">VARIABLE REAL PermMult_M_Bah_2</td>
+<td valign="top" align="center">25.00</td>
+</tr>
+<tr>
+<td valign="top" align="center">VARIABLE REAL PermMult_M_Bah_3</td>
+<td valign="top" align="center">2.00</td>
+</tr>
+<tr>
+<td valign="top" align="center">VARIABLE REAL PermMult_L_Bah_1</td>
+<td valign="top" align="center">5.00</td>
+</tr>
+<tr>
+<td valign="top" align="center">VARIABLE REAL PermMult_L_Bah_2</td>
+<td valign="top" align="center">5.00</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

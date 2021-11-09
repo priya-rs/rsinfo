@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189342MS.txt" extractionDate="2021-03-26T17:51:20Z">
+<doi>10.2118/189342-MS</doi>
+<pii>10.2118/189342-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="3" table-order="1" data-type-order="2">
+<table-wrap id="102118189342MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1"> </anchoringText>
+<caption>
+</caption>
+<formatted-caption />
+<table id="102118189342MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Parameter</th>
+<th valign="top" align="center">Low</th>
+<th valign="top" align="center">High</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Permeability, md</td>
+<td valign="top" align="left">10</td>
+<td valign="top" align="left">80</td>
+</tr>
+<tr>
+<td valign="top" align="left">Porosity, %</td>
+<td valign="top" align="left">14</td>
+<td valign="top" align="left">24</td>
+</tr>
+<tr>
+<td valign="top" align="left">Gross Thickness, ft</td>
+<td valign="top" align="left">180</td>
+<td valign="top" align="left">250</td>
+</tr>
+<tr>
+<td valign="top" align="left">API gravity</td>
+<td valign="top" align="left">18</td>
+<td valign="top" align="left">26</td>
+</tr>
+<tr>
+<td valign="top" align="left">Solution GOR, scf/bbl</td>
+<td valign="top" align="left">50</td>
+<td valign="top" align="left">400</td>
+</tr>
+<tr>
+<td valign="top" align="left">Viscosity, CP</td>
+<td valign="top" align="left">8</td>
+<td valign="top" align="left">2</td>
+</tr>
+<tr>
+<td valign="top" align="left">Productivity index</td>
+<td valign="top" align="left">0.3</td>
+<td valign="top" align="left">3</td>
+</tr>
+<tr>
+<td valign="top" align="left">Injectivity index</td>
+<td valign="top" align="left">1</td>
+<td valign="top" align="left">5</td>
+</tr>
+<tr>
+<td valign="top" align="left">H2S in ppm (souring)</td>
+<td valign="top" align="left">0</td>
+<td valign="top" align="left">500</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

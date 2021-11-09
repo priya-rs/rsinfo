@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118182874MS.txt" extractionDate="2021-03-22T14:23:07Z">
+<doi>10.2118/182874-MS</doi>
+<pii>10.2118/182874-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">As such field development was divided into several stages including Early Production Scheme (EPS), Phase I and Phase III, Transition Zone Development, Infill Development and North Development. Figure 1 shows th different phases within field U. Each development phase addresses a specific area in the reservoir. EPS is the initial development before full field injection started. The EPS started in the early 1990s and continued until 2005 when Phase I was started as well as full field injection.</anchoringText>
+<image-wrap id="102118182874MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118182874MS_i_1.tif" id="ImgLink-1" />
+<caption>Structrual Uncertainty in Field U</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Structrual Uncertainty in Field U</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">Structure uncertainty varies between +/-50ft with maximum difference seen in the flank of the reservoir, where there is very limited data available. The distribution of structural uncertainty is shown in Figure 2. As the reservoir play structure is an anticline, with the reservoir structure dipping more towards the flank. Also from sensitivity analysis as can be seen in Figure 3 in the tornado plot, structural uncertainty has the highest impact on STOIIP i.e. between +/- 12% of STOIIP.</anchoringText>
+<image-wrap id="102118182874MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118182874MS_i_2.tif" id="ImgLink-2" />
+<caption>SCAL, MICP and RRT from Field U</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>SCAL, MICP and RRT from Field U</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Structure uncertainty varies between +/-50ft with maximum difference seen in the flank of the reservoir, where there is very limited data available. The distribution of structural uncertainty is shown in Figure 2. As the reservoir play structure is an anticline, with the reservoir structure dipping more towards the flank. Also from sensitivity analysis as can be seen in Figure 3 in the tornado plot, structural uncertainty has the highest impact on STOIIP i.e. between +/- 12% of STOIIP.</anchoringText>
+<image-wrap id="102118182874MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118182874MS_i_3.tif" id="ImgLink-3" />
+<caption>Tornado Plot from Static Sensitivity</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Tornado Plot from Static Sensitivity</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">Oil formation volume factor (Bo) uncertainty varies from 1.39 to 1.9. Due to the complexity of Field U fluid properties, there is no clear relationship between Bo and depth as can be seen from Figure 4. There is both a lateral and vertical variation of Bo across field U. As a result of this complex variation, it is sometimes observed that at similar depths, the fluid property such as Bo varies greatly. The uncertainty in terms of Bo variation is given in Figure 5 per well in Field U. The tornado plot in Figure 3 shows the impact of Bo, and that Bo has the second most significant effect on the STOIIP. This impact was quantified to range between -5% and 8% on the STOIIP.</anchoringText>
+<image-wrap id="102118182874MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118182874MS_i_4.tif" id="ImgLink-4" />
+<caption>Tornado Plot from Dynamic Sensitivity</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Tornado Plot from Dynamic Sensitivity</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">Oil formation volume factor (Bo) uncertainty varies from 1.39 to 1.9. Due to the complexity of Field U fluid properties, there is no clear relationship between Bo and depth as can be seen from Figure 4. There is both a lateral and vertical variation of Bo across field U. As a result of this complex variation, it is sometimes observed that at similar depths, the fluid property such as Bo varies greatly. The uncertainty in terms of Bo variation is given in Figure 5 per well in Field U. The tornado plot in Figure 3 shows the impact of Bo, and that Bo has the second most significant effect on the STOIIP. This impact was quantified to range between -5% and 8% on the STOIIP.</anchoringText>
+<image-wrap id="102118182874MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118182874MS_i_5.tif" id="ImgLink-5" />
+<caption>Ternary plot for Field U showing gas cap</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Ternary plot for Field U showing gas cap</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">Figure 6 shows the uncertainty variation per well. In quantifying this range both log and core used. Both types of data were used in order to quality check each form of data against one another. In cases where there are large differences between the OWC calculated from log and cores, the respective well data was excluded as outliners. The tornado plot in Figure 3 shows that OWC has third most significant impact on the STOIIP, with a minimum impact of -6% and a maximum of 7% on STOIIP.</anchoringText>
+<image-wrap id="102118182874MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118182874MS_i_6.tif" id="ImgLink-6" />
+<caption>Fault distribution in Field U</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Fault distribution in Field U</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">The height above free water level (HAFWL) or saturation height function (SHF) uncertainty varies between +/- 15ft. This variation is a function of the reservoir properties, the less the reservoir quality in terms of porosity for example, the higher change in capillary pressure hence higher HAFWL/FWL. The HAFWL/SHF was defined based on two wells (Well 18 and Well 49) where, Special Core Analysis were conducted including mercury injection capillary pressure (MICP) measurements. Figure 7 shows the variation on HAFWL as defined from Well 18 and Well 49. The impact of HAFWL is shown in Figure 3 and as can be seen varies for the minimum of -4% to 2% change in STOIIP.</anchoringText>
+<image-wrap id="102118182874MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118182874MS_i_7.tif" id="ImgLink-7" />
+<caption>Denses between subzones in Field U</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Denses between subzones in Field U</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">The porosity uncertainty shows the least impact on STOIIP as can be seen from Figure 3. i.e. -1% to 2%change in STOIIP. The reason for this parameter having the least impact is based on the fact that most of the wells where data was arcquired always collected porosity. As a result, the porosity distribution between the wells, is well understood and can be predicted within reason. The distribution between wells is shown in Figure 8. As can be seen porosity varies between 25%pu &amp; 5%pu.</anchoringText>
+<image-wrap id="102118182874MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118182874MS_i_8.tif" id="ImgLink-8" />
+<caption>Oil formation volume factor variation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Oil formation volume factor variation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">Reservoir rock types were quantified from the two wells, were SCAL was conducted i.e. Well 18 and Well 49. As seen from Figure 9 the SCAL MICP and pore throat size distribution results different number of RRT was quantified in both wells. As a result of the integration of SCAL from both wells, a total of 5 RRT were defined. Each RRT was assigned its respectively relative permeability and capillary pressure based on measured data in the laboratory. Sensitivity on RRT involves varying the RRT from the worst to best RRT, its respectively relative permeability and capillary pressure and measuring its effect on the recovery. As can be seen in Figure 10 the tornado plot shows that RRT has the largest effect on the recovery factor with a minimum of -4% and a maximum of 2%.</anchoringText>
+<image-wrap id="102118182874MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118182874MS_i_9.tif" id="ImgLink-9" />
+<caption>Oil water contact variation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Oil water contact variation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">Reservoir rock types were quantified from the two wells, were SCAL was conducted i.e. Well 18 and Well 49. As seen from Figure 9 the SCAL MICP and pore throat size distribution results different number of RRT was quantified in both wells. As a result of the integration of SCAL from both wells, a total of 5 RRT were defined. Each RRT was assigned its respectively relative permeability and capillary pressure based on measured data in the laboratory. Sensitivity on RRT involves varying the RRT from the worst to best RRT, its respectively relative permeability and capillary pressure and measuring its effect on the recovery. As can be seen in Figure 10 the tornado plot shows that RRT has the largest effect on the recovery factor with a minimum of -4% and a maximum of 2%.</anchoringText>
+<image-wrap id="102118182874MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118182874MS_i_10.tif" id="ImgLink-10" />
+<caption>Probablity distribution of uncertainty analysis</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Probablity distribution of uncertainty analysis</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">As gas cap exists in the reservoir the extent of communication between the gas cap and the reservoir was investgated as part of the sensitivity. In order to mimic the communication between gas cap and the oil zone, transimissiblity was varied and its effect on recovery quantified. The gas cap effect on the recovery is shown in Figure 10. As can be seen the effect varies from 0% to 4%. The gas cap and oil in the reservoir is shown in the ternary plot on Figure 11.</anchoringText>
+<image-wrap id="102118182874MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118182874MS_i_11.tif" id="ImgLink-11" />
+<caption>Porosity uncertainty distribution in the reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Porosity uncertainty distribution in the reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">The dense between the reservoir subzones varies, in terms of its development. With some more developed than others. In the crest the dense is less developed however, the dense in the flank is more developed. As such sensitivity was conducted by varying the dense development in form of transmissibility. As can be seen from Figure 10, variation of the dense development between subzones has a minimum impact on recovery factor of 0% and a maximum of 4%. Figure 12 shows the dense within the subzones that were modified.</anchoringText>
+<image-wrap id="102118182874MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118182874MS_i_12.tif" id="ImgLink-12" />
+<caption>Effect combined uncertainty parameters variation on History Match</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Effect combined uncertainty parameters variation on History Match</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">There are 81 faults distributed around the reservoir as shown in Figure 13. The communication between these faults is an uncertainty and as such had to be investigated. As such sensitivity was conducted by varying the communication between the faults. Faults transmissibility was varied between fully sealing, partial sealing and fully open. The effect of varying the fault transimissiblity on the recovery factor is shown in Figure 10, as can be seen the minimum effect is -2% and the maximum is 0%.</anchoringText>
+<image-wrap id="102118182874MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118182874MS_i_13.tif" id="ImgLink-13" />
+<caption>Structure variation in terms of depth</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Structure variation in terms of depth</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr14">Using the base case model, dynamic parameters were combined in order to conduct the uncertainty analysis. A study was conducted in order to understand the combined effect of the uncertainties on the history match. In certain cases where the history match was lost from the combination, as shown in Figure 14 this case were exluded from the prediction.</anchoringText>
+<image-wrap id="102118182874MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118182874MS_i_14.tif" id="ImgLink-14" />
+<caption>Production profile for pessimistic, base adn optimistic cases</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Production profile for pessimistic, base adn optimistic cases</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="15" data-type-order="15">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr15">Based on the cases where changes in the uncertainties parameter did not affect the history match significantly, a base case, pessimistic case and optimistic case were created and is shown in terms of recover factory in Figure 15. As can be seen in the figure the optimistic case, base case and pessimistic case have the recovery factor of 52%, 48% and 43% respectively. Figure 15 shows that the optimistic case, base case and pessimistic case can maintain plateau to 2045, 2043 and 2039 respectively.</anchoringText>
+<image-wrap id="102118182874MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118182874MS_i_15.tif" id="ImgLink-15" />
+<caption>Distribution of oil remaining per well in from streamline &amp; conventional simulation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Distribution of oil remaining per well in from streamline &amp; conventional simulation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="16" data-type-order="16">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr16">The connected pore volume per well and production data was used in calculating the remaining oil per well. Equation 1 shows the formula used in calculating this remaining oil per well. The distribution of remaining oil per well in Figure 16 shows that the uncertainty per well to deliver the plan production is within reason, as most of the wells have oil remaining per well enough to meet expected mandate. Also the well level uncertainty analysis allowed for improved well placement strategy, as infill wells can be planned for locations, where the remaining oil per well is high compared to relative wells in the area.</anchoringText>
+<image-wrap id="102118182874MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118182874MS_i_16.tif" id="ImgLink-16" />
+<caption>Instant of pore volume distribution at time (t)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Instant of pore volume distribution at time (t)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="17" data-type-order="17">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr17">Also the well level uncertainty analysis allowed for improved well placement strategy, as infill wells can be planned for locations, where the remaining oil per well is high compared to relative wells in the area. The connectivity per pattern is also used in placing infill wells. In placing the infill wells within patterns, the location where there is low connectivity between wells is used. Figure 17 shows the connectivity per pattern. As can be in the figure, the maximum connectivity is seen between Well 65 and Well 5, while the minimum is seen between well Well 65 and Well 67. As such future infill wells is planned to be placed the area around Well 67.</anchoringText>
+<image-wrap id="102118182874MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118182874MS_i_17.tif" id="ImgLink-17" />
+<caption>Distribution of connectivity per pattern</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Distribution of connectivity per pattern</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190301MS.txt" extractionDate="2021-03-27T14:57:38Z">
+<doi>10.2118/190301-MS</doi>
+<pii>10.2118/190301-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="6" table-order="1" data-type-order="6">
+<table-wrap id="102118190301MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">A formation tester with a simple circular probe was used to perform the miniDST because of the large mobility expected in the reservoir. Based on the logs, four points were selected for fluid pumpout; from top, the first point was at irreducible water saturation; second and third points were in the transition zone; and the last point was in the free water zone. Table 1 summarizes the wireline-conveyed formation tester pumpout points along with their purpose and associated water saturation. Fig. 5 shows the pumpout points along with formation evaluation log data and interpretation.</anchoringText>
+<label>Table 1</label>
+<caption>Summary of pump-out zone stations, their purpose, and the associated saturation.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Summary of pump-out zone stations, their purpose, and the associated saturation.</caption-text>
+</formatted-caption>
+<table id="102118190301MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">
+<a id="bookmark0">
+</a>
+<a id="bookmark1">
+</a>Pump-Out Zone</th>
+<th valign="top" align="center">Purpose</th>
+<th valign="top" align="center">Saturation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Water, below FWL</td>
+<td valign="top" align="center">k<sub>abs avg</sub>,, k<sub>rw</sub>, <sub>max</sub>, water density </td>
+<td valign="top" align="center">S<sub>w</sub> = 100% </td>
+</tr>
+<tr>
+<td valign="top" align="center">Oil </td>
+<td valign="top" align="center">k<sub>ro, max</sub>, oil density </td>
+<td valign="top" align="center">S<sub>wi</sub>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">Transition</td>
+<td valign="top" align="center">Relative permeability curvature, kro, krw</td>
+<td valign="top" align="center">S<sub>wi</sub> &#x003C; S<sub>w</sub> &#x003C; (1 – S<sub>or</sub>)</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="11" table-order="2" data-type-order="14">
+<table-wrap id="102118190301MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">To overcome the uncertainty in saturation of each tested depth, resistivity, dielectric, and NMR logs were run to estimate fluid saturation separately. Table 2 shows the minimum and maximum saturation values chosen based on these measurements, and Fig. 13 shows the uncertainty envelope generated for the relative permeability curves. The results were in line with pulsed neutron capture (PNC) saturation logs over the years.</anchoringText>
+<label>Table 2</label>
+<caption>Maximum and minimum saturation values for the uncertainty bounds.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Maximum and minimum saturation values for the uncertainty bounds.</caption-text>
+</formatted-caption>
+<table id="102118190301MS-Tbl_SPi-2" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="center">
+<a id="Discussion">
+</a>
+<b>Dep</b>
+<b>th</b>
+</td>
+<td valign="top" align="center">4,913.5 ft</td>
+<td valign="top" align="center">4,934.5 ft</td>
+<td valign="top" align="center">4,955.5 ft</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>S</b>
+<b>
+<sub>w</sub>
+</b>
+<b>_min</b>
+</td>
+<td valign="top" align="center">7%</td>
+<td valign="top" align="center">25.58%</td>
+<td valign="top" align="center">61%</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>S</b>
+<b>
+<sub>w</sub>
+</b>
+<b>_max</b>
+</td>
+<td valign="top" align="center">14.6%</td>
+<td valign="top" align="center">44.71%</td>
+<td valign="top" align="center">73.49%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

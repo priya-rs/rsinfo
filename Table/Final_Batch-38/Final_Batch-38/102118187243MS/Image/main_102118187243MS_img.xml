@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187243MS.txt" extractionDate="2021-03-25T17:08:39Z">
+<doi>10.2118/187243-MS</doi>
+<pii>10.2118/187243-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr2">The Wilcox trend in GOM ultra Deepwater is an emerging oil production frontier ranging from northeast Mexico Burgos Basin to the southern American states of Texas, Louisiana, Mississippi, and Alabama. As demonstrated in Figure 1, the trend occurs in the western and central GOM covering three primary protraction areas: Alaminos Canyon, Keathley Canyon, and Walker Ridge. The frontier hydrocarbon potential was discovered by well, Trident-1, which was drilled in the western GOM on the Alaminos Canyon protraction area. Chevron has major discoveries in the Wilcox trend.</anchoringText>
+<image-wrap id="102118187243MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118187243MS_i_1.tif" id="ImgLink-1" />
+<caption>Gulf of Mexico map showing the possible areal extent of the Deepwater Wilcox Trend</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Gulf of Mexico map showing the possible areal extent of the Deepwater Wilcox Trend</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr3">A multidisciplinary project team was formed that includes reservoir modelling and simulation, facility, drilling and completion, commercial, technology, and economic analysts, etc. to effectively screen and select an optimal recovery method. Figure 2 depicts the selected systematic workflow showing the key cross-functional teams used to provide reliable assessment of Wilcox gas injection performance to support field development plan decision-making.</anchoringText>
+<image-wrap id="102118187243MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118187243MS_i_2.tif" id="ImgLink-2" />
+<caption>Recovery method screening and selection integrated workflow.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Recovery method screening and selection integrated workflow.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr4">Step 2: Run each simulation case from step 1 and analyze the simulation results using pore volume injected (PVI) vs incremental oil recovery factor (RF) dimensionless plot to select a few cases with superior performance (recovery factor/PVI). In addition to the PVI plot check the oil rate profiles and other diagnostic plots to identify the case with early secondary recovery incremental oil barrels. Figure 3 shows the PVI plot for the GFW injection process.</anchoringText>
+<image-wrap id="102118187243MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118187243MS_i_3.tif" id="ImgLink-3" />
+<caption>GFW Incremental Oil Recovery Factor (RF) Performance for one Wilcox Field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>GFW Incremental Oil Recovery Factor (RF) Performance for one Wilcox Field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr5">In our miscible gas study, gas was injected into the Wilcox reservoirs above their MMP in some cases above their FCP for those reservoirs where it could be measured. By injecting above the MMP, the injected gas mixes with the insitu undersaturated oil to form a single phase, reduces oil viscosity and improves microscopic sweep efficiency. To achieve optimal recovery, gas injection should be implemented at reservoir pressure above the MMP and if possible above the FCP. Figure 4 depicts viscosity reduction due to gas injection.</anchoringText>
+<image-wrap id="102118187243MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118187243MS_i_4.tif" id="ImgLink-4" />
+<caption>Viscosity Reduction with Gas Injection from Slimtube Simulation(Oil Saturation, Oil Viscosity)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Viscosity Reduction with Gas Injection from Slimtube Simulation(Oil Saturation, Oil Viscosity)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118187243MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118187243MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Oil Saturation</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118187243MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118187243MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Oil Viscosity</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr6">The oil recovery forecast for straight gas injection and GFW secondary recovery methods are compared to waterflood performance for a Wilcox Trend field using the PVI dimensionless plot as shown in Figure 5. The recovery performance comparison indicates that</anchoringText>
+<image-wrap id="102118187243MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118187243MS_i_5.tif" id="ImgLink-5" />
+<caption>Incremental Oil Recovery Performance Comparison for Water Injection, Gas Injection, and GFW</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Incremental Oil Recovery Performance Comparison for Water Injection, Gas Injection, and GFW</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185724MS.txt" extractionDate="2021-03-29T10:20:49Z">
+<doi>10.2118/185724-MS</doi>
+<pii>10.2118/185724-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="8" table-order="1" data-type-order="3">
+<table-wrap id="102118185724MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The new DDA leakoff model was compared with numerical simulation to ensure that leakoff rates calculated with the new model are reasonable. For this purpose, water was injected into a single fracture with a fracture half-length of 200 ft, and height of 100 ft. Water was injected at a sandface pressure of 11,000 psi for a period of 20 days. The conceptual model used for leakoff is consistent with Fig. 2 (right) –the fracture is assumed to be static and leakoff from this fracture to the EFR/NSR is calculated using both the DDA and numerical simulation models during the injection period. Additional model inputs are provided in Table 1. The numerical model setup is consistent with that provided by Clarkson et al. (2016b).</anchoringText>
+<label>Table 1</label>
+<caption>Summary Of Model Input Data For Model Comparison</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Summary Of Model Input Data For Model Comparison</caption-text>
+</formatted-caption>
+<table id="102118185724MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Parameter</th>
+<th valign="top" align="center">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Initial reservoir pressure (psi)</td>
+<td valign="top" align="center">10000</td>
+</tr>
+<tr>
+<td valign="top" align="left">Matrix permeability (md)</td>
+<td valign="top" align="center">0.0005</td>
+</tr>
+<tr>
+<td valign="top" align="left">Matrix porosity (fraction)</td>
+<td valign="top" align="center">0.05</td>
+</tr>
+<tr>
+<td valign="top" align="left">Fracture permeability (md)</td>
+<td valign="top" align="center">2000</td>
+</tr>
+<tr>
+<td valign="top" align="left">Fracture porosity (fraction)</td>
+<td valign="top" align="center">0.25</td>
+</tr>
+<tr>
+<td valign="top" align="left">Thickness (ft)</td>
+<td valign="top" align="center">100</td>
+</tr>
+<tr>
+<td valign="top" align="left">Fracture half-length (ft)</td>
+<td valign="top" align="center">200</td>
+</tr>
+<tr>
+<td valign="top" align="left">Fracture half-width (in)</td>
+<td valign="top" align="center">0.5</td>
+</tr>
+<tr>
+<td valign="top" align="left">Initial water saturation (fraction)</td>
+<td valign="top" align="center">0.01</td>
+</tr>
+<tr>
+<td valign="top" align="left">Bubble point pressure (psi)</td>
+<td valign="top" align="center">4000</td>
+</tr>
+<tr>
+<td valign="top" align="left">Undersaturated oil compressibility (psi<sup>-1</sup>)</td>
+<td valign="top" align="center">2×10<sup>-5</sup>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil formation volume factor at bubble point (bbl/STB)</td>
+<td valign="top" align="center">1.87</td>
+</tr>
+<tr>
+<td valign="top" align="left">Water compressibility factor (psi<sup>-1</sup>)</td>
+<td valign="top" align="center">2×10<sup>-6</sup>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Corey oil relative permeability exponent for matrix</td>
+<td valign="top" align="center">3</td>
+</tr>
+<tr>
+<td valign="top" align="left">Corey water relative permeability exponent for matrix</td>
+<td valign="top" align="center">3</td>
+</tr>
+<tr>
+<td valign="top" align="left">Corey oil relative permeability exponent for fracture</td>
+<td valign="top" align="center">1.5</td>
+</tr>
+<tr>
+<td valign="top" align="left">Corey oil relative permeability exponent for fracture</td>
+<td valign="top" align="center">1.5</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="10" table-order="2" data-type-order="6">
+<table-wrap id="102118185724MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Using the fracture treatment data, and the model inputs provided in Table 2, the Valko HF2D frac design spreadsheet was used to estimate fracture length and width as a function of pumping time (Fig. 5). The fracture half-length at the end of pumping is estimated to be ~ 450 ft, and fracture width ~ 0.12 inches. Frac height is assumed to be equal to net pay thickness. Independent fracture modeling performed by a service provider using the Gohfer software (not shown) resulted in propped fracture half-lengths consistent with those determined using the Valko model. The resulting frac geometry is assumed to correspond to that for the PHF region.</anchoringText>
+<label>Table 2</label>
+<caption>Frac Model Input</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Frac Model Input</caption-text>
+</formatted-caption>
+<table id="102118185724MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Parameter</th>
+<th valign="top" align="center" />
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Proppant mass (two wings), lbm</td>
+<td valign="top" align="center">90,000</td>
+</tr>
+<tr>
+<td valign="top" align="left">Sp grav of proppant material (water=1)</td>
+<td valign="top" align="center">2.65</td>
+</tr>
+<tr>
+<td valign="top" align="left">Porosity of proppant pack</td>
+<td valign="top" align="center">0.31</td>
+</tr>
+<tr>
+<td valign="top" align="left">Proppant pack permeability, md</td>
+<td valign="top" align="center">3,500</td>
+</tr>
+<tr>
+<td valign="top" align="left">Max propp diameter, Dpmax, inch</td>
+<td valign="top" align="center">0.0117</td>
+</tr>
+<tr>
+<td valign="top" align="left">Formation permeability, md</td>
+<td valign="top" align="center">0.0003</td>
+</tr>
+<tr>
+<td valign="top" align="left">Permeable (leakoff) thickness (net pay), ft</td>
+<td valign="top" align="center">197</td>
+</tr>
+<tr>
+<td valign="top" align="left">Well Radius, ft</td>
+<td valign="top" align="center">0.25</td>
+</tr>
+<tr>
+<td valign="top" align="left">Well drainage radius, ft*</td>
+<td valign="top" align="center">754.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">Pre-treatment skin factor</td>
+<td valign="top" align="center">0.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">Fracture height, ft</td>
+<td valign="top" align="center">197.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">Plane strain modulus, E' (psi)</td>
+<td valign="top" align="center">2.00E+06</td>
+</tr>
+<tr>
+<td valign="top" align="left">Slurry injection rate (two wings, liq+ prop), bpm</td>
+<td valign="top" align="center">62.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">Leakoff coefficient in permeable layer, ft/min^0.5</td>
+<td valign="top" align="center">0.0032</td>
+</tr>
+<tr>
+<td valign="top" align="left">Spurt loss coefficient, Sp, gal/ft^2</td>
+<td valign="top" align="center">0.00000</td>
+</tr>
+<tr>
+<td valign="top" align="left">Max possible added proppant concentration,lbm/gal neat fluid</td>
+<td valign="top" align="center">12</td>
+</tr>
+<tr>
+<td valign="top" align="left">Multiply opt length by factor</td>
+<td valign="top" align="center">0.65</td>
+</tr>
+<tr>
+<td valign="top" align="left">Multiply Nolte pad by factor</td>
+<td valign="top" align="center">0</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="11" table-order="3" data-type-order="9">
+<table-wrap id="102118185724MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">The procedure for modeling fracture propagation and leakoff discussed in the Theory and Methods section was then applied to the field case. Using the estimated bottomhole pressures during the fracture treatment (Fig. 6a), the leakoff rate during fracture propagation was first calculated using the DDA model. For this purpose, fracture propagation during the 30 minute pump time was constrained by the HF2D fracture model (Fig. 5), and the DDA model used to calculate leakoff from the PHF to the NSR (Fig. 6b). Reservoir properties were adopted from the flowback modeling of Clarkson et al. (2016b) (Table 3).</anchoringText>
+<label>Table 3</label>
+<caption>Summary of Leakoff Model Input</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Summary of Leakoff Model Input</caption-text>
+</formatted-caption>
+<table id="102118185724MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Parameter</th>
+<th valign="top" align="center">NSR</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Initial pressure (psia)</td>
+<td valign="top" align="center">3700</td>
+</tr>
+<tr>
+<td valign="top" align="left">Reservoir temperature (F)</td>
+<td valign="top" align="center">140</td>
+</tr>
+<tr>
+<td valign="top" align="left">Initial water saturation (fraction)</td>
+<td valign="top" align="center">0.0100</td>
+</tr>
+<tr>
+<td valign="top" align="left">Initial oil saturation (fraction)</td>
+<td valign="top" align="center">0.99</td>
+</tr>
+<tr>
+<td valign="top" align="left">Permeability (md)</td>
+<td valign="top" align="center">0.0003</td>
+</tr>
+<tr>
+<td valign="top" align="left">Permeability modulus (1/psi)</td>
+<td valign="top" align="center">0</td>
+</tr>
+<tr>
+<td valign="top" align="left">Porosity (fraction)</td>
+<td valign="top" align="center">0.04</td>
+</tr>
+<tr>
+<td valign="top" align="left">Compressibility (1/psi)</td>
+<td valign="top" align="center">4×10<sup>-6</sup>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Bubble point pressure (psia)</td>
+<td valign="top" align="center">2700</td>
+</tr>
+<tr>
+<td valign="top" align="left">Undersaturated oil compressibility (1/psi)</td>
+<td valign="top" align="center">1.45×10<sup>-5</sup>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil API Gravity</td>
+<td valign="top" align="center">52</td>
+</tr>
+<tr>
+<td valign="top" align="left">Thickness (ft)</td>
+<td valign="top" align="center">197</td>
+</tr>
+<tr>
+<td valign="top" align="left">Number of fractures</td>
+<td valign="top" align="center">18</td>
+</tr>
+<tr>
+<td valign="top" align="left">Individual fracture half-length (ft)</td>
+<td valign="top" align="center">450</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="13" table-order="4" data-type-order="11">
+<table-wrap id="102118185724MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">As noted above, because of the small amount of fluid leakoff, and current limitations of the DDA model, the calculated increase in water saturation in the NSR post-fracture treatment is negligible, meaning that the resulting flowback data match with the DDA model is similar to the original provided by Clarkson et al. (2016b) –for completeness, the match to flowback water, oil and gas rates is shown in Fig. 8, using input data provided in Table 4.</anchoringText>
+<label>Table 4</label>
+<caption>Summary of Flowback Model Input</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Summary of Flowback Model Input</caption-text>
+</formatted-caption>
+<table id="102118185724MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Parameter</th>
+<th valign="top" align="center">PHF</th>
+<th valign="top" align="center">NSR</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Initial pressure (psia)</td>
+<td valign="top" align="center">5000</td>
+<td valign="top" align="center">3700</td>
+</tr>
+<tr>
+<td valign="top" align="left">Reservoir temperature (F)</td>
+<td valign="top" align="center">140</td>
+<td valign="top" align="center">140</td>
+</tr>
+<tr>
+<td valign="top" align="left">Initial water saturation (fraction)</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">0.01002</td>
+</tr>
+<tr>
+<td valign="top" align="left">Initial oil saturation (fraction)</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">0.98998</td>
+</tr>
+<tr>
+<td valign="top" align="left">Permeability (md)</td>
+<td valign="top" align="center">3500</td>
+<td valign="top" align="center">0.0003</td>
+</tr>
+<tr>
+<td valign="top" align="left">Permeability modulus (1/psi)</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">0</td>
+</tr>
+<tr>
+<td valign="top" align="left">Porosity (fraction)</td>
+<td valign="top" align="center">0.31</td>
+<td valign="top" align="center">0.04</td>
+</tr>
+<tr>
+<td valign="top" align="left">Compressibility (1/psi)</td>
+<td valign="top" align="center">1×10<sup>-4</sup>
+</td>
+<td valign="top" align="center">4×10<sup>-6</sup>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Bubble point pressure (psia)</td>
+<td valign="top" align="center">2700</td>
+<td valign="top" align="center">2700</td>
+</tr>
+<tr>
+<td valign="top" align="left">Undersaturated oil compressibility (1/psi)</td>
+<td valign="top" align="center">1.45×10<sup>-5</sup>
+</td>
+<td valign="top" align="center">1.45×10<sup>-5</sup>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil API Gravity</td>
+<td valign="top" align="center">52</td>
+<td valign="top" align="center">52</td>
+</tr>
+<tr>
+<td valign="top" align="left">Thickness (ft)</td>
+<td valign="top" align="center">197</td>
+<td valign="top" align="center">197</td>
+</tr>
+<tr>
+<td valign="top" align="left">Number of fractures</td>
+<td valign="top" align="center">18</td>
+<td valign="top" align="center">18</td>
+</tr>
+<tr>
+<td valign="top" align="left">Total fracture half-length (ft)</td>
+<td valign="top" align="center">
+</td>
+<td rowspan="2" valign="top" align="center">8100</td>
+</tr>
+<tr>
+<td valign="top" align="left">Total fracture width (ft)</td>
+<td valign="top" align="center">0.75</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

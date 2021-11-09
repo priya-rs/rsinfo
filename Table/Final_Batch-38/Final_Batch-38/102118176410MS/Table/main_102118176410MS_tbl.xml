@@ -1,0 +1,1595 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118176410MS.txt" extractionDate="2021-03-15T17:14:20Z">
+<doi>10.2118/176410-MS</doi>
+<pii>10.2118/176410-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="4" table-order="1" data-type-order="3">
+<table-wrap id="102118176410MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Based on the typical thick heavy oil reservoir from Bohai offshore oilfield, China, we established a numerical model, as shown in Figure 2. The basic physical parameters of this model are shown in Table 1. The horizontal injector was placed 6 m above the producer. The water-oil relative permeability curve and liquid-gas relative permeability curve are respectively shown in Figure 3.</anchoringText>
+<label>Table 1</label>
+<caption>Basic physical parameters of simulation model</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Basic physical parameters of simulation model</caption-text>
+</formatted-caption>
+<table id="102118176410MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Parameter</th>
+<th valign="bottom" align="center">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Grid Numbers</td>
+<td valign="bottom" align="center">6 × 51 × 30</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Dimension</td>
+<td align="center">300m × 102m × 50m</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Top depth / m</td>
+<td valign="bottom" align="center">950</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Porosity / %</td>
+<td valign="bottom" align="center">0.35</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Kh/ 10 <i>μ</i>m<sup>2</sup>
+</td>
+<td valign="bottom" align="center">2800</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Kv/Kh / decimal</td>
+<td valign="bottom" align="center">0.3</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Reservoir thickness / m</td>
+<td valign="bottom" align="center">50</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" align="left">NTG / decimal</td>
+<td valign="bottom" align="center">0.80</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">10000@50°C</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Oil viscosity / cp</td>
+<td valign="bottom" align="center">8.1@200°C</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Horizontal well length / m</td>
+<td valign="bottom" align="center">300</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Initial oil saturation / %</td>
+<td valign="bottom" align="center">72.0</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Reservoir temperature/¼C</td>
+<td valign="bottom" align="center">47</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Rock compressibility / kPa<sup>-1</sup>
+</td>
+<td valign="bottom" align="center">7.75 × 10<sup>-</sup>
+<sup>6</sup>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil compressibility / kPa<sup>-1</sup>
+</td>
+<td valign="top" align="center">1.42 × 10<sup>-</sup>
+<sup>6</sup>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Water compressibility / kPa<sup>-1</sup>
+</td>
+<td valign="bottom" align="center">6.2 × 10<sup>-7</sup>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Rock heat capacity / J/m<sup>3</sup>°C</td>
+<td valign="bottom" align="center">2.347 × 10<sup>6</sup>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Rock conductivity / J/m°C</td>
+<td valign="bottom" align="center">1.634 × 10<sup>5</sup>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Steam quality / decimal</td>
+<td valign="bottom" align="center">0.9</td>
+</tr>
+<tr>
+<td valign="top" align="left">Steam temperature /°C</td>
+<td valign="top" align="center">340</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="5" table-order="2" data-type-order="6">
+<table-wrap id="102118176410MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The parameters to impact the SAGD performance include reservoir parameters (thickness, porosity, permeability etc.), fluid parameters (movable oil saturation, oil viscosity, relative permeability etc.) and operation parameters (operation pressure, injection rate, steam trap etc.) (Barillas 2006; Gates and Chakrabarty 2006; Heidari et al. 2009; Hashemi-Kiasari 2014; Xu et al. 2014). Based on the numerical model above, using the orthogonal design method, we developed 50 orthogonal plans to analyze the influence of each parameter on SAGD performance. The parameters and levels are show in Table 2.</anchoringText>
+<label>Table 2</label>
+<caption>The sensitive factors and level</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>The sensitive factors and level</caption-text>
+</formatted-caption>
+<table id="102118176410MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="left">Parameter</th>
+<th valign="bottom" align="center">H (m)</th>
+<th valign="bottom" align="center">NTG (decimal)</th>
+<th valign="bottom" align="center">ΔS<sub>o</sub> (%)</th>
+<th valign="bottom" align="center">K<sub>v</sub>/K<sub>h</sub> (decimal)</th>
+<th valign="bottom" align="center">K<sub>h</sub>(10<sup>-3</sup>
+<i>μ</i>m<sup>2</sup>)</th>
+<th valign="bottom" align="center">
+<i>ϕ</i> (decimal)</th>
+<th valign="bottom" align="center">
+<i>μ</i>
+<sub>o</sub>(10<sup>4</sup>cp</th>
+<th valign="bottom" align="center">P(MPa)</th>
+<th valign="bottom" align="center">V<sub>s</sub>(t/d)</th>
+<th valign="bottom" align="center">T<sub>s</sub>(°C)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Level 1</td>
+<td valign="bottom" align="center">20</td>
+<td valign="bottom" align="center">0.5</td>
+<td valign="bottom" align="center">0.6282</td>
+<td valign="bottom" align="center">0.15</td>
+<td valign="bottom" align="center">1000</td>
+<td valign="bottom" align="center">0.20</td>
+<td valign="bottom" align="center">0.5</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">150</td>
+<td valign="bottom" align="center">5</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Level 2</td>
+<td valign="bottom" align="center">30</td>
+<td valign="bottom" align="center">0.6</td>
+<td valign="bottom" align="center">0.5882</td>
+<td valign="bottom" align="center">0.25</td>
+<td valign="bottom" align="center">2000</td>
+<td valign="bottom" align="center">0.25</td>
+<td valign="bottom" align="center">1.0</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">10</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Level 3</td>
+<td valign="bottom" align="center">40</td>
+<td valign="bottom" align="center">0.7</td>
+<td valign="bottom" align="center">0.5482</td>
+<td valign="bottom" align="center">0.35</td>
+<td valign="bottom" align="center">3000</td>
+<td valign="bottom" align="center">0.30</td>
+<td valign="bottom" align="center">3.0</td>
+<td valign="bottom" align="center">4</td>
+<td valign="bottom" align="center">250</td>
+<td valign="bottom" align="center">15</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Level 4</td>
+<td valign="bottom" align="center">50</td>
+<td valign="bottom" align="center">0.8</td>
+<td valign="bottom" align="center">0.5082</td>
+<td valign="bottom" align="center">0.45</td>
+<td valign="bottom" align="center">4000</td>
+<td valign="bottom" align="center">0.35</td>
+<td valign="bottom" align="center">6.0</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">300</td>
+<td valign="bottom" align="center">20</td>
+</tr>
+<tr>
+<td align="left">Level 5</td>
+<td align="center">60</td>
+<td align="center">0.9</td>
+<td align="center">0.4682</td>
+<td align="center">0.55</td>
+<td align="center">5000</td>
+<td align="center">0.40</td>
+<td align="center">10.0</td>
+<td align="center">6</td>
+<td align="center">350</td>
+<td align="center">25</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="6" table-order="3" data-type-order="7">
+<table-wrap id="102118176410MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">These parameters include reservoir thickness (H), net-to-gross (NTG), movable oil saturation (ΔSo), horizontal permeability (Kh), Kv/Kh ratio, porosity (ϕ), oil viscosity (μo@50°C), operation pressure (P), steam injection rate (VS) and steam trap (TS). In this simulation model, we set the oil production rate less than 10 t/d as the drainage stop-condition. The 50 orthogonal test plans and simulation results are shown in Table 3. We collected the oil recovery factor, recovery rate and cumulative oil steam ratio (COSR) of each test plan. Then the grey relational analysis process is used to comprehensively evaluate the influence of each parameter and obtain the sensitive sequence.</anchoringText>
+<label>Table 3</label>
+<caption>The sensitive factors and level</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>The sensitive factors and level</caption-text>
+</formatted-caption>
+<table id="102118176410MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th align="center">Plans</th>
+<th valign="bottom" align="center">H (m)</th>
+<th align="center">NTG</th>
+<th valign="bottom" align="center">ΔS<sub>0 </sub>(decimal)</th>
+<th align="center">K<sub>v</sub>/K<sub>h</sub>
+</th>
+<th valign="bottom" align="center">K<sub>h </sub>(10<sup>–3</sup>μm<sup>2</sup>)</th>
+<th align="center">φ</th>
+<th valign="bottom" align="center">μ<sub>o </sub>(10<sup>4</sup>cp)</th>
+<th valign="bottom" align="center">P (MPa)</th>
+<th valign="bottom" align="center">Vs (t/d)</th>
+<th valign="bottom" align="center">T<sub>s</sub>
+<sub>
+</sub>(°C)</th>
+<th valign="bottom" align="center">Recovery factor (%)</th>
+<th valign="bottom" align="center">Recovery rate (%)</th>
+<th valign="bottom" align="center">COSR (m<sup>3</sup>/ m<sup>3</sup>)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">20</td>
+<td align="center">0.5</td>
+<td valign="bottom" align="center">0.6282</td>
+<td align="center">0.45</td>
+<td valign="bottom" align="center">1000</td>
+<td valign="bottom" align="center">0.2</td>
+<td align="center">0.5</td>
+<td align="center">3</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">20</td>
+<td align="center">49.25</td>
+<td align="center">4.16</td>
+<td align="center">0.084</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">20</td>
+<td align="center">0.6</td>
+<td align="center">0.5882</td>
+<td align="center">0.35</td>
+<td align="center">5000</td>
+<td align="center">0.35</td>
+<td align="center">10</td>
+<td align="center">2</td>
+<td align="center">350</td>
+<td align="center">25</td>
+<td align="center">58.91</td>
+<td align="center">6.40</td>
+<td align="center">0.218</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">20</td>
+<td align="center">0.7</td>
+<td align="center">0.5482</td>
+<td align="center">0.25</td>
+<td align="center">4000</td>
+<td align="center">0.25</td>
+<td align="center">3</td>
+<td align="center">6</td>
+<td align="center">150</td>
+<td align="center">10</td>
+<td align="center">71.16</td>
+<td align="center">6.98</td>
+<td align="center">0.134</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">20</td>
+<td align="center">0.8</td>
+<td align="center">0.4682</td>
+<td align="center">0.55</td>
+<td align="center">3000</td>
+<td align="center">0.3</td>
+<td align="center">1</td>
+<td align="center">5</td>
+<td align="center">300</td>
+<td align="center">15</td>
+<td align="center">63</td>
+<td align="center">8.73</td>
+<td align="center">0.169</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center">20</td>
+<td align="center">0.9</td>
+<td align="center">0.5082</td>
+<td align="center">0.15</td>
+<td align="center">2000</td>
+<td align="center">0.4</td>
+<td align="center">6</td>
+<td align="center">4</td>
+<td align="center">250</td>
+<td align="center">5</td>
+<td align="center">59.52</td>
+<td align="center">3.53</td>
+<td align="center">0.198</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="center">30</td>
+<td align="center">0.5</td>
+<td align="center">0.5882</td>
+<td align="center">0.55</td>
+<td align="center">4000</td>
+<td align="center">0.4</td>
+<td align="center">10</td>
+<td align="center">6</td>
+<td align="center">300</td>
+<td align="center">5</td>
+<td align="center">77.53</td>
+<td align="center">8.67</td>
+<td align="center">0.179</td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td align="center">30</td>
+<td align="center">0.6</td>
+<td align="center">0.5482</td>
+<td align="center">0.15</td>
+<td align="center">3000</td>
+<td align="center">0.2</td>
+<td align="center">3</td>
+<td align="center">5</td>
+<td align="center">250</td>
+<td align="center">20</td>
+<td align="center">66.82</td>
+<td align="center">6.56</td>
+<td align="center">0.101</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">30</td>
+<td align="center">0.7</td>
+<td align="center">0.4682</td>
+<td align="center">0.45</td>
+<td align="center">2000</td>
+<td align="center">0.35</td>
+<td align="center">1</td>
+<td align="center">4</td>
+<td align="center">200</td>
+<td align="center">25</td>
+<td align="center">62.12</td>
+<td align="center">5.66</td>
+<td align="center">0.206</td>
+</tr>
+<tr>
+<td align="center">9</td>
+<td align="center">30</td>
+<td align="center">0.8</td>
+<td align="center">0.5082</td>
+<td align="center">0.35</td>
+<td align="center">1000</td>
+<td align="center">0.25</td>
+<td align="center">6</td>
+<td align="center">3</td>
+<td align="center">350</td>
+<td align="center">10</td>
+<td align="center">60.44</td>
+<td align="center">3.90</td>
+<td align="center">0.167</td>
+</tr>
+<tr>
+<td align="center">10</td>
+<td align="center">30</td>
+<td align="center">0.9</td>
+<td align="center">0.6282</td>
+<td align="center">0.25</td>
+<td align="center">5000</td>
+<td align="center">0.3</td>
+<td align="center">0.5</td>
+<td align="center">2</td>
+<td align="center">150</td>
+<td align="center">15</td>
+<td align="center">78.87</td>
+<td align="center">7.43</td>
+<td align="center">0.375</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">11</td>
+<td align="center">40</td>
+<td align="center">0.5</td>
+<td align="center">0.5482</td>
+<td align="center">0.35</td>
+<td valign="bottom" align="center">2000</td>
+<td align="center">0.3</td>
+<td valign="bottom" align="center">6</td>
+<td valign="bottom" align="center">2</td>
+<td align="center">300</td>
+<td valign="bottom" align="center">20</td>
+<td align="center">63.13</td>
+<td align="center">3.23</td>
+<td align="center">0.173</td>
+</tr>
+<tr>
+<td align="center">12</td>
+<td align="center">40</td>
+<td align="center">0.6</td>
+<td align="center">0.4682</td>
+<td align="center">0.25</td>
+<td align="center">1000</td>
+<td align="center">0.4</td>
+<td align="center">0.5</td>
+<td align="center">6</td>
+<td align="center">250</td>
+<td align="center">25</td>
+<td align="center">61.09</td>
+<td align="center">2.67</td>
+<td align="center">0.154</td>
+</tr>
+<tr>
+<td align="center">13</td>
+<td align="center">40</td>
+<td align="center">0.7</td>
+<td align="center">0.5082</td>
+<td align="center">0.55</td>
+<td align="center">5000</td>
+<td align="center">0.2</td>
+<td align="center">10</td>
+<td align="center">5</td>
+<td align="center">200</td>
+<td align="center">10</td>
+<td align="center">70.87</td>
+<td align="center">6.54</td>
+<td align="center">0.149</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">14</td>
+<td valign="bottom" align="center">40</td>
+<td valign="bottom" align="center">0.8</td>
+<td valign="bottom" align="center">0.6282</td>
+<td valign="bottom" align="center">0.15</td>
+<td valign="bottom" align="center">4000</td>
+<td valign="bottom" align="center">0.35</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">4</td>
+<td valign="bottom" align="center">350</td>
+<td valign="bottom" align="center">15</td>
+<td valign="bottom" align="center">79.14</td>
+<td valign="bottom" align="center">5.07</td>
+<td valign="bottom" align="center">0.284</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">15</td>
+<td valign="bottom" align="center">40</td>
+<td valign="bottom" align="center">0.9</td>
+<td valign="bottom" align="center">0.5882</td>
+<td valign="bottom" align="center">0.45</td>
+<td valign="bottom" align="center">3000</td>
+<td valign="bottom" align="center">0.25</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">150</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">77.56</td>
+<td valign="bottom" align="center">5.99</td>
+<td valign="bottom" align="center">0.291</td>
+</tr>
+<tr>
+<td align="center">16</td>
+<td align="center">50</td>
+<td align="center">0.5</td>
+<td align="center">0.4682</td>
+<td align="center">0.15</td>
+<td align="center">5000</td>
+<td align="center">0.25</td>
+<td align="center">6</td>
+<td align="center">6</td>
+<td align="center">200</td>
+<td align="center">15</td>
+<td align="center">66.1</td>
+<td align="center">4.67</td>
+<td align="center">0.11</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">17</td>
+<td valign="bottom" align="center">50</td>
+<td valign="bottom" align="center">0.6</td>
+<td valign="bottom" align="center">0.5082</td>
+<td valign="bottom" align="center">0.45</td>
+<td valign="bottom" align="center">4000</td>
+<td valign="bottom" align="center">0.3</td>
+<td valign="bottom" align="center">0.5</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">350</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">71.98</td>
+<td valign="bottom" align="center">7.68</td>
+<td valign="bottom" align="center">0.193</td>
+</tr>
+<tr>
+<td align="center">18</td>
+<td align="center">50</td>
+<td align="center">0.7</td>
+<td align="center">0.6282</td>
+<td align="center">0.35</td>
+<td align="center">3000</td>
+<td align="center">0.4</td>
+<td align="center">10</td>
+<td align="center">4</td>
+<td align="center">150</td>
+<td align="center">20</td>
+<td align="center">80.25</td>
+<td align="center">4.22</td>
+<td align="center">0.325</td>
+</tr>
+<tr>
+<td align="center">19*</td>
+<td align="center">50</td>
+<td valign="bottom" align="center">0.8</td>
+<td align="center">0.5882</td>
+<td align="center">0.25</td>
+<td valign="bottom" align="center">2000</td>
+<td valign="bottom" align="center">0.2</td>
+<td align="center">3</td>
+<td align="center">3</td>
+<td align="center">300</td>
+<td align="center">25</td>
+<td align="center">
+<b>—</b>
+</td>
+<td align="center">
+<b>—</b>
+</td>
+<td align="center">
+<b>—</b>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">20</td>
+<td align="center">50</td>
+<td align="center">0.9</td>
+<td align="center">0.5482</td>
+<td align="center">0.55</td>
+<td valign="bottom" align="center">1000</td>
+<td align="center">0.35</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">2</td>
+<td align="center">250</td>
+<td valign="bottom" align="center">10</td>
+<td align="center">68.19</td>
+<td valign="bottom" align="center">2.26</td>
+<td align="center">0.357</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">21</td>
+<td valign="bottom" align="center">60</td>
+<td valign="bottom" align="center">0.5</td>
+<td valign="bottom" align="center">0.5082</td>
+<td valign="bottom" align="center">0.25</td>
+<td valign="bottom" align="center">3000</td>
+<td valign="bottom" align="center">0.35</td>
+<td valign="bottom" align="center">10</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">250</td>
+<td valign="bottom" align="center">15</td>
+<td valign="bottom" align="center">67.24</td>
+<td valign="bottom" align="center">3.16</td>
+<td valign="bottom" align="center">0.192</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">22</td>
+<td valign="bottom" align="center">60</td>
+<td valign="bottom" align="center">0.6</td>
+<td valign="bottom" align="center">0.6282</td>
+<td align="center">0.55</td>
+<td valign="bottom" align="center">2000</td>
+<td align="center">0.25</td>
+<td align="center">3</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">200</td>
+<td align="center">5</td>
+<td align="center">79.06</td>
+<td align="center">4.01</td>
+<td align="center">0.225</td>
+</tr>
+<tr>
+<td align="center">23*</td>
+<td valign="bottom" align="center">60</td>
+<td align="center">0.7</td>
+<td align="center">0.5882</td>
+<td align="center">0.15</td>
+<td valign="bottom" align="center">1000</td>
+<td align="center">0.3</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">6</td>
+<td align="center">350</td>
+<td valign="bottom" align="center">20</td>
+<td align="center">—</td>
+<td align="center">—</td>
+<td align="center">—</td>
+</tr>
+<tr>
+<td align="center">24</td>
+<td align="center">60</td>
+<td align="center">0.8</td>
+<td align="center">0.5482</td>
+<td align="center">0.45</td>
+<td align="center">5000</td>
+<td align="center">0.4</td>
+<td align="center">6</td>
+<td align="center">5</td>
+<td align="center">150</td>
+<td align="center">25</td>
+<td align="center">77.5</td>
+<td align="center">3.72</td>
+<td align="center">0.359</td>
+</tr>
+<tr>
+<td align="center">25</td>
+<td align="center">60</td>
+<td align="center">0.9</td>
+<td align="center">0.4682</td>
+<td align="center">0.35</td>
+<td align="center">4000</td>
+<td align="center">0.2</td>
+<td align="center">0.5</td>
+<td align="center">4</td>
+<td align="center">300</td>
+<td align="center">10</td>
+<td align="center">66.97</td>
+<td align="center">6.32</td>
+<td align="center">0.205</td>
+</tr>
+<tr>
+<td align="center">26</td>
+<td align="center">20</td>
+<td align="center">0.5</td>
+<td align="center">0.5882</td>
+<td align="center">0.15</td>
+<td align="center">2000</td>
+<td align="center">0.35</td>
+<td align="center">0.5</td>
+<td align="center">5</td>
+<td align="center">150</td>
+<td align="center">10</td>
+<td align="center">63.58</td>
+<td align="center">5.31</td>
+<td align="center">0.11</td>
+</tr>
+<tr>
+<td align="center">27</td>
+<td align="center">20</td>
+<td align="center">0.6</td>
+<td align="center">0.5482</td>
+<td align="center">0.45</td>
+<td align="center">1000</td>
+<td align="center">0.25</td>
+<td align="center">10</td>
+<td align="center">4</td>
+<td align="center">300</td>
+<td align="center">15</td>
+<td align="center">57.92</td>
+<td align="center">3.25</td>
+<td align="center">0.083</td>
+</tr>
+<tr>
+<td align="center">28</td>
+<td align="center">20</td>
+<td align="center">0.7</td>
+<td align="center">0.4682</td>
+<td align="center">0.35</td>
+<td align="center">5000</td>
+<td align="center">0.3</td>
+<td align="center">3</td>
+<td align="center">3</td>
+<td align="center">250</td>
+<td align="center">5</td>
+<td align="center">61.01</td>
+<td align="center">8.17</td>
+<td align="center">0.173</td>
+</tr>
+<tr>
+<td align="center">29</td>
+<td valign="bottom" align="center">20</td>
+<td valign="bottom" align="center">0.8</td>
+<td align="center">0.5082</td>
+<td align="center">0.25</td>
+<td align="center">4000</td>
+<td align="center">0.4</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">20</td>
+<td align="center">58.1</td>
+<td align="center">5.91</td>
+<td align="center">0.293</td>
+</tr>
+<tr>
+<td align="center">30</td>
+<td valign="bottom" align="center">20</td>
+<td align="center">0.9</td>
+<td valign="bottom" align="center">0.6282</td>
+<td align="center">0.55</td>
+<td align="center">3000</td>
+<td valign="bottom" align="center">0.2</td>
+<td valign="bottom" align="center">6</td>
+<td valign="bottom" align="center">6</td>
+<td align="center">350</td>
+<td align="center">25</td>
+<td align="center">78.14</td>
+<td align="center">10.45</td>
+<td align="center">0.147</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">31</td>
+<td valign="bottom" align="center">30</td>
+<td valign="bottom" align="center">0.5</td>
+<td valign="bottom" align="center">0.5482</td>
+<td valign="bottom" align="center">0.25</td>
+<td valign="bottom" align="center">5000</td>
+<td valign="bottom" align="center">0.2</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">4</td>
+<td valign="bottom" align="center">350</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">71.18</td>
+<td valign="bottom" align="center">10.19</td>
+<td valign="bottom" align="center">0.105</td>
+</tr>
+<tr>
+<td align="center">32</td>
+<td align="center">30</td>
+<td align="center">0.6</td>
+<td align="center">0.4682</td>
+<td align="center">0.55</td>
+<td align="center">4000</td>
+<td align="center">0.35</td>
+<td align="center">6</td>
+<td align="center">3</td>
+<td align="center">150</td>
+<td align="center">20</td>
+<td align="center">62.05</td>
+<td align="center">5.94</td>
+<td align="center">0.212</td>
+</tr>
+<tr>
+<td align="center">33*</td>
+<td align="center">30</td>
+<td align="center">0.7</td>
+<td align="center">0.5082</td>
+<td align="center">0.15</td>
+<td align="center">3000</td>
+<td align="center">0.25</td>
+<td align="center">0.5</td>
+<td valign="bottom" align="center">2</td>
+<td align="center">300</td>
+<td align="center">25</td>
+<td align="center">—</td>
+<td align="center">—</td>
+<td align="center">—</td>
+</tr>
+<tr>
+<td align="center">34</td>
+<td align="center">30</td>
+<td valign="bottom" align="center">0.8</td>
+<td valign="bottom" align="center">0.6282</td>
+<td align="center">0.45</td>
+<td valign="bottom" align="center">2000</td>
+<td align="center">0.3</td>
+<td valign="bottom" align="center">10</td>
+<td valign="bottom" align="center">6</td>
+<td align="center">250</td>
+<td valign="bottom" align="center">10</td>
+<td align="center">79.86</td>
+<td align="center">6.58</td>
+<td align="center">0.19</td>
+</tr>
+<tr>
+<td valign="top" align="center">35</td>
+<td valign="top" align="center">30</td>
+<td valign="top" align="center">0.9</td>
+<td valign="top" align="center">0.5882</td>
+<td valign="top" align="center">0.35</td>
+<td valign="bottom" align="center">1000</td>
+<td valign="top" align="center">0.4</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">5</td>
+<td valign="bottom" align="center">200</td>
+<td valign="top" align="center">15</td>
+<td valign="top" align="center">70.78</td>
+<td valign="top" align="center">3.25</td>
+<td valign="top" align="center">0.245</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">36</td>
+<td valign="bottom" align="center">40</td>
+<td valign="bottom" align="center">0.5</td>
+<td valign="bottom" align="center">0.4682</td>
+<td valign="bottom" align="center">0.45</td>
+<td valign="bottom" align="center">3000</td>
+<td valign="bottom" align="center">0.4</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">350</td>
+<td valign="bottom" align="center">10</td>
+<td valign="bottom" align="center">60.67</td>
+<td valign="bottom" align="center">4.51</td>
+<td valign="bottom" align="center">0.224</td>
+</tr>
+<tr>
+<td align="center">37</td>
+<td align="center">40</td>
+<td align="center">0.6</td>
+<td align="center">0.5082</td>
+<td align="center">0.35</td>
+<td align="center">2000</td>
+<td align="center">0.2</td>
+<td align="center">1</td>
+<td align="center">6</td>
+<td align="center">150</td>
+<td align="center">15</td>
+<td align="center">69.31</td>
+<td align="center">4.61</td>
+<td align="center">0.108</td>
+</tr>
+<tr>
+<td align="center">38</td>
+<td align="center">40</td>
+<td align="center">0.7</td>
+<td align="center">0.6282</td>
+<td align="center">0.25</td>
+<td align="center">1000</td>
+<td align="center">0.35</td>
+<td align="center">6</td>
+<td align="center">5</td>
+<td align="center">300</td>
+<td align="center">5</td>
+<td align="center">72.5</td>
+<td align="center">5.49</td>
+<td align="center">0.275</td>
+</tr>
+<tr>
+<td align="center">39</td>
+<td align="center">40</td>
+<td align="center">0.8</td>
+<td align="center">0.5882</td>
+<td align="center">0.55</td>
+<td align="center">5000</td>
+<td align="center">0.2</td>
+<td align="center">0.5</td>
+<td align="center">4</td>
+<td align="center">250</td>
+<td align="center">20</td>
+<td align="center">80</td>
+<td align="center">8.78</td>
+<td align="center">0.266</td>
+</tr>
+<tr>
+<td align="center">40*</td>
+<td align="center">40</td>
+<td align="center">0.9</td>
+<td align="center">0.5482</td>
+<td align="center">0.15</td>
+<td align="center">4000</td>
+<td align="center">0.25</td>
+<td valign="bottom" align="center">10</td>
+<td align="center">3</td>
+<td valign="bottom" align="center">200</td>
+<td align="center">25</td>
+<td align="center">—</td>
+<td align="center">—</td>
+<td align="center">—</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">41</td>
+<td valign="bottom" align="center">50</td>
+<td valign="bottom" align="center">0.5</td>
+<td valign="bottom" align="center">0.5082</td>
+<td valign="bottom" align="center">0.55</td>
+<td valign="bottom" align="center">1000</td>
+<td valign="bottom" align="center">0.25</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">4</td>
+<td valign="bottom" align="center">150</td>
+<td valign="bottom" align="center">25</td>
+<td valign="bottom" align="center">63.3</td>
+<td valign="bottom" align="center">2.81</td>
+<td valign="bottom" align="center">0.137</td>
+</tr>
+<tr>
+<td align="center">42</td>
+<td align="center">50</td>
+<td align="center">0.6</td>
+<td align="center">0.6282</td>
+<td align="center">0.15</td>
+<td align="center">5000</td>
+<td align="center">0.4</td>
+<td align="center">1</td>
+<td align="center">3</td>
+<td align="center">300</td>
+<td align="center">10</td>
+<td align="center">80.42</td>
+<td align="center">5.16</td>
+<td align="center">0.298</td>
+</tr>
+<tr>
+<td align="center">43</td>
+<td align="center">50</td>
+<td align="center">0.7</td>
+<td align="center">0.5882</td>
+<td align="center">0.45</td>
+<td align="center">4000</td>
+<td align="center">0.2</td>
+<td align="center">6</td>
+<td align="center">2</td>
+<td align="center">250</td>
+<td align="center">15</td>
+<td align="center">75.91</td>
+<td align="center">6.21</td>
+<td align="center">0.214</td>
+</tr>
+<tr>
+<td align="center">44</td>
+<td align="center">50</td>
+<td align="center">0.8</td>
+<td align="center">0.5482</td>
+<td align="center">0.35</td>
+<td align="center">3000</td>
+<td align="center">0.35</td>
+<td align="center">0.5</td>
+<td align="center">6</td>
+<td align="center">200</td>
+<td align="center">5</td>
+<td align="center">76.88</td>
+<td align="center">5.12</td>
+<td align="center">0.28</td>
+</tr>
+<tr>
+<td align="center">45</td>
+<td align="center">50</td>
+<td align="center">0.9</td>
+<td align="center">0.4682</td>
+<td align="center">0.25</td>
+<td align="center">2000</td>
+<td align="center">0.3</td>
+<td align="center">10</td>
+<td align="center">5</td>
+<td align="center">350</td>
+<td align="center">20</td>
+<td align="center">63.25</td>
+<td align="center">3.46</td>
+<td align="center">0.181</td>
+</tr>
+<tr>
+<td align="center">46</td>
+<td align="center">60</td>
+<td align="center">0.5</td>
+<td align="center">0.6282</td>
+<td align="center">0.35</td>
+<td align="center">4000</td>
+<td align="center">0.25</td>
+<td align="center">1</td>
+<td align="center">5</td>
+<td align="center">250</td>
+<td align="center">25</td>
+<td align="center">85.54</td>
+<td align="center">6.62</td>
+<td align="center">0.162</td>
+</tr>
+<tr>
+<td align="center">47</td>
+<td align="center">60</td>
+<td align="center">0.6</td>
+<td align="center">0.5882</td>
+<td align="center">0.25</td>
+<td align="center">3000</td>
+<td align="center">0.3</td>
+<td align="center">6</td>
+<td align="center">4</td>
+<td align="center">200</td>
+<td align="center">10</td>
+<td align="center">77.42</td>
+<td align="center">4.27</td>
+<td align="center">0.199</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">48</td>
+<td valign="bottom" align="center">60</td>
+<td valign="bottom" align="center">0.7</td>
+<td valign="bottom" align="center">0.5482</td>
+<td valign="bottom" align="center">0.55</td>
+<td valign="bottom" align="center">2000</td>
+<td valign="bottom" align="center">0.4</td>
+<td valign="bottom" align="center">0.5</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">350</td>
+<td valign="bottom" align="center">15</td>
+<td valign="bottom" align="center">74.3</td>
+<td valign="bottom" align="center">4.33</td>
+<td valign="bottom" align="center">0.346</td>
+</tr>
+<tr>
+<td align="center">49*</td>
+<td valign="bottom" align="center">60</td>
+<td valign="bottom" align="center">0.8</td>
+<td align="center">0.4682</td>
+<td align="center">0.15</td>
+<td valign="bottom" align="center">1000</td>
+<td valign="bottom" align="center">0.2</td>
+<td valign="bottom" align="center">10</td>
+<td valign="bottom" align="center">2</td>
+<td align="center">150</td>
+<td align="center">5</td>
+<td align="center">—</td>
+<td align="center">—</td>
+<td align="center">—</td>
+</tr>
+<tr>
+<td valign="top" align="center">50</td>
+<td align="center">60</td>
+<td valign="top" align="center">0.9</td>
+<td valign="top" align="center">0.5082</td>
+<td valign="top" align="center">0.45</td>
+<td valign="top" align="center">5000</td>
+<td valign="top" align="center">0.35</td>
+<td valign="top" align="center">3</td>
+<td align="center">6</td>
+<td valign="top" align="center">300</td>
+<td align="center">20</td>
+<td valign="top" align="center">74.34</td>
+<td valign="top" align="center">5.74</td>
+<td valign="top" align="center">0.320</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="8" table-order="4" data-type-order="8">
+<table-wrap id="102118176410MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">Based on the grey relational analysis of the simulation results in Table 3, we can get the grey correlation of each parameters, as shown in Table 4. Thus, a sensitive sequence of each parameter to reflect the sensitive degree. From the grey correlation results of the three indicators in Table 4, we can see that the SAGD recovery performance is less influenced by the oil viscosity. For the recovery factor results of SAGD process, the influence of movable oil saturation is the most significant. For recovery rate, the influence of horizontal permeability is the most significant, and for COSR, the influence of porosity is the most significant.</anchoringText>
+<label>Table 4</label>
+<caption>The grey correlations and sensitive sequence of each parameters</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>The grey correlations and sensitive sequence of each parameters</caption-text>
+</formatted-caption>
+<table id="102118176410MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" valign="bottom" align="center">Parameter</th>
+<th valign="bottom" align="center">H</th>
+<th valign="bottom" align="center">NTG</th>
+<th align="center">ΔS<sub>o</sub>
+</th>
+<th valign="bottom" align="center">K<sub>v</sub>/K<sub>h</sub>
+</th>
+<th valign="bottom" align="center">k<sub>h</sub>
+</th>
+<th valign="top" align="center">
+<i>ϕ</i>
+</th>
+<th align="center">
+<i>μ</i>
+<sub>0</sub>
+</th>
+<th valign="bottom" align="center">P</th>
+<th valign="bottom" align="center">Vs</th>
+<th valign="bottom" align="center">Ts</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2" align="left">Oil recovery factor</td>
+<td valign="bottom" align="center">Grey correlation</td>
+<td valign="bottom" align="center">0.687</td>
+<td valign="bottom" align="center">0.658</td>
+<td valign="bottom" align="center">0.722</td>
+<td valign="bottom" align="center">0.660</td>
+<td valign="bottom" align="center">0.677</td>
+<td valign="bottom" align="center">0.635</td>
+<td valign="bottom" align="center">0.601</td>
+<td valign="bottom" align="center">0.652</td>
+<td valign="bottom" align="center">0.625</td>
+<td valign="bottom" align="center">0.629</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Sensitive sequence</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">4</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">7</td>
+<td valign="bottom" align="center">10</td>
+<td valign="bottom" align="center">6</td>
+<td valign="bottom" align="center">9</td>
+<td valign="bottom" align="center">8</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" align="left">Recovery rate</td>
+<td valign="bottom" align="center">Grey correlation</td>
+<td valign="bottom" align="center">0.636</td>
+<td valign="bottom" align="center">0.628</td>
+<td valign="bottom" align="center">0.583</td>
+<td valign="bottom" align="center">0.645</td>
+<td valign="bottom" align="center">0.714</td>
+<td valign="bottom" align="center">0.670</td>
+<td valign="bottom" align="center">0.604</td>
+<td valign="bottom" align="center">0.656</td>
+<td valign="bottom" align="center">0.678</td>
+<td valign="bottom" align="center">0.580</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Sensitive sequence</td>
+<td valign="bottom" align="center">6</td>
+<td valign="bottom" align="center">7</td>
+<td valign="bottom" align="center">9</td>
+<td valign="bottom" align="center">5</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">3</td>
+<td valign="bottom" align="center">8</td>
+<td valign="bottom" align="center">4</td>
+<td valign="bottom" align="center">2</td>
+<td valign="bottom" align="center">10</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" align="left">COSR</td>
+<td valign="bottom" align="center">Grey correlation</td>
+<td valign="bottom" align="center">0.687</td>
+<td valign="bottom" align="center">0.701</td>
+<td valign="bottom" align="center">0.6352</td>
+<td valign="bottom" align="center">0.655</td>
+<td valign="bottom" align="center">0.670</td>
+<td valign="bottom" align="center">0.706</td>
+<td valign="bottom" align="center">0.613</td>
+<td valign="bottom" align="center">0.584</td>
+<td valign="bottom" align="center">0.632</td>
+<td valign="bottom" align="center">0.6351</td>
+</tr>
+<tr>
+<td align="center">Sensitive sequence</td>
+<td align="center">3</td>
+<td align="center">2</td>
+<td align="center">6</td>
+<td align="center">5</td>
+<td align="center">4</td>
+<td align="center">1</td>
+<td align="center">9</td>
+<td align="center">10</td>
+<td align="center">8</td>
+<td align="center">7</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="11" table-order="5" data-type-order="14">
+<table-wrap id="102118176410MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">In order to vidate the correlations above, in this section, we predict the SAGD recovery performance of a typical potential thick heavy oil reservoirs in Bohai oilfield using the correlations. LD block is a typical thick heavy oil reservoir in Bohai oilfield. The physical parameters of LD block are shown in Table 5.</anchoringText>
+<label>Table 5</label>
+<caption>The physical parameters of LD heavy oil block in Bohai oilfield</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>The physical parameters of LD heavy oil block in Bohai oilfield</caption-text>
+</formatted-caption>
+<table id="102118176410MS-Tbl_SPi-5" frame="hsides">
+<tbody>
+<tr>
+<td valign="bottom" align="left">Parameter</td>
+<td valign="bottom" align="center">H (m)</td>
+<td valign="bottom" align="center">NTG</td>
+<td valign="bottom" align="center">ΔS<sub>o</sub> (%)</td>
+<td valign="bottom" align="center">K<sub>h</sub>(<i>μ</i>
+<sup>2</sup>)</td>
+<td valign="bottom" align="center">K<sub>v</sub>/K<sub>h</sub>
+</td>
+<td valign="bottom" align="center">
+<i>ϕ</i> (%)</td>
+<td valign="bottom" align="center">P (MPa)</td>
+<td valign="bottom" align="center">V<sub>s</sub> (t/d)</td>
+</tr>
+<tr>
+<td align="left">Value</td>
+<td align="center">40~60</td>
+<td align="center">0.7~0.8</td>
+<td align="center">55-65</td>
+<td align="center">2.8~3.5</td>
+<td align="center">0.3~0.4</td>
+<td align="center">0.35</td>
+<td align="center">2~4</td>
+<td align="center">250~350</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="11" table-order="6" data-type-order="15">
+<table-wrap id="102118176410MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6">In order to vidate the correlations above, in this section, we predict the SAGD recovery performance of a typical potential thick heavy oil reservoirs in Bohai oilfield using the correlations. LD block is a typical thick heavy oil reservoir in Bohai oilfield. The physical parameters of LD block are shown in Table 5. Using the linear correlation and nonlinear correlation above, we predicted the recovery performance of this heavy oil reservoir. The prediction results are shown in Table 6.</anchoringText>
+<label>Table 6</label>
+<caption>The prediction results of SAGD process in LD heavy oil block</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>6</caption-order>
+<caption-text>The prediction results of SAGD process in LD heavy oil block</caption-text>
+</formatted-caption>
+<table id="102118176410MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="left">Indicator</th>
+<th valign="bottom" align="center">Linear correlation</th>
+<th valign="bottom" align="center">Nonlinear correlation</th>
+<th valign="bottom" align="center">Numerical simulation</th>
+<th valign="bottom" align="center">Best method</th>
+<th valign="bottom" align="center">Error</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Oil recovery factor</td>
+<td valign="bottom" align="center">64%~82%</td>
+<td valign="bottom" align="center">73%~91%</td>
+<td valign="bottom" align="center">68%~75%</td>
+<td valign="bottom" align="center">Linear</td>
+<td align="center">±10%</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Oil recovery rate</td>
+<td valign="bottom" align="center">2.8%~6.2%</td>
+<td valign="bottom" align="center">3.3%~6.0%</td>
+<td valign="bottom" align="center">3.2%~4.5%</td>
+<td valign="bottom" align="center">Nonlinear</td>
+<td valign="top" align="center">±20%</td>
+</tr>
+<tr>
+<td align="left">COSR</td>
+<td align="center">0.23~0.37</td>
+<td align="center">0.24~0.38</td>
+<td align="center">0.22~0.40</td>
+<td align="center">Nonlinear</td>
+<td valign="top" align="center">±10%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="12" table-order="7" data-type-order="16">
+<table-wrap id="102118176410MS-tblwrp-7" content-type="structured">
+<anchoringText id="Ancr7">Furthermore, we also make a survey on some successful SAGD projects around the world, as shown in Table 7 and Table 8. Using the correlations we proposed above, we estimate the recovery performance of these SAGD projects. For some other variables (NTG, Sor, VS and Kv/Kh) which are not listed in Table 8, we adopt the same value for all of the cases to unify the influence of these parameters. The results are shown in Table 9.</anchoringText>
+<label>Table 7</label>
+<caption>Some SAGD projects around the world</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Some SAGD projects around the world</caption-text>
+</formatted-caption>
+<table id="102118176410MS-Tbl_SPi-7" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="left">SAGD project</th>
+<th valign="bottom" align="left">Location</th>
+<th valign="bottom" align="left">Dates and wellpairs</th>
+<th valign="bottom" align="left">References</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">AOSTRA's UTF project</td>
+<td valign="bottom" align="left">Alberta, Canada</td>
+<td valign="bottom" align="left">Dates from 1987.</td>
+<td valign="bottom" align="left">Good et al. 1994; Jimenez 2008; Azad and Chalaturnyk 2013.</td>
+</tr>
+<tr>
+<td valign="top" align="left">JACOS’ Hangingstone</td>
+<td align="left">Alberta, Canada</td>
+<td valign="bottom" align="left">24 wellpairs; operating since 2004.</td>
+<td valign="bottom" align="left">Ito and Suzuki 1999; Bulter 2001a &amp; 2001b; Jimenez 2008; Nguyen et al. 2015.</td>
+</tr>
+<tr>
+<td valign="top" align="left">Athabasca Cenovus Foster Creek</td>
+<td valign="top" align="left">Alberta, Canada</td>
+<td valign="bottom" align="left">The largest SAGD operation in Canada; 54 wellpairs in 8 pads.</td>
+<td align="left">Bulter 2001a &amp; 2001b; Jimenez 2008; Tavallali et al. 2011.</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Suncor's (Formly Petro-Canada) MacKay River</td>
+<td align="left">Alberta, Canada</td>
+<td align="left">98 wellpairs in total.</td>
+<td valign="bottom" align="left">Bulter 2001a; Miller and Osmak 2003; Jimenez 2008.</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Nexxen's Long lake</td>
+<td valign="bottom" align="left">Alberta, Canada</td>
+<td valign="bottom" align="left">Dates from 2003; 18 wellpairs,</td>
+<td valign="bottom" align="left">Kerr et al. 2002; Xu et al. 2014.</td>
+</tr>
+<tr>
+<td align="left">Shell's Peace River</td>
+<td align="left">Alberta, Canada</td>
+<td align="left">Dates from 1993;</td>
+<td valign="bottom" align="left">Good et al. 1994; Bulter 2001a and 2001b.</td>
+</tr>
+<tr>
+<td align="left">Suncor's Firebag</td>
+<td align="left">Alberta, Canada</td>
+<td align="left">40 wellpairs in 4 pads till 2006.</td>
+<td valign="bottom" align="left">Bulter 2001a &amp; 2001b; Jimenez 2008.</td>
+</tr>
+<tr>
+<td valign="top" align="left">Mobil's Celtic field</td>
+<td valign="top" align="left">Sask., Canada</td>
+<td valign="top" align="left">Dates from 1997;</td>
+<td valign="bottom" align="left">Saltuklaroglu et al. 1999; Bulter 2001a; Kamran and Brendan 2013;</td>
+</tr>
+<tr>
+<td align="left">Tia Juana Field</td>
+<td align="left">Western Venez.</td>
+<td align="left">Pilot test dates from 1997;</td>
+<td valign="bottom" align="left">Mendoza et al. 1999; Dusseault 2001.</td>
+</tr>
+<tr>
+<td align="left">Fengcheng oilfield</td>
+<td align="left">Xinjiang, China</td>
+<td valign="bottom" align="left">Dates from 2003, two SAGD pilots, 50 operating wellpairs.</td>
+<td valign="bottom" align="left">Jiang et al. 2013; Zhou et al. 2013; Wu er al. 2015.</td>
+</tr>
+<tr>
+<td valign="top" align="left">Du 84 block, Liaohe oilfield</td>
+<td valign="top" align="left">Liaoning, China</td>
+<td align="left">Dates from 2003; Using vertical-horizontal wells.</td>
+<td align="left">Yang 2007; Pang et al. 2010; Bao et al. 2012.</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="12" table-order="8" data-type-order="17">
+<table-wrap id="102118176410MS-tblwrp-8" content-type="structured">
+<anchoringText id="Ancr8">Furthermore, we also make a survey on some successful SAGD projects around the world, as shown in Table 7 and Table 8. Using the correlations we proposed above, we estimate the recovery performance of these SAGD projects. For some other variables (NTG, Sor, VS and Kv/Kh) which are not listed in Table 8, we adopt the same value for all of the cases to unify the influence of these parameters. The results are shown in Table 9.</anchoringText>
+<label>Table 8</label>
+<caption>The reservoir properties of these SAGD projects</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>8</caption-order>
+<caption-text>The reservoir properties of these SAGD projects</caption-text>
+</formatted-caption>
+<table id="102118176410MS-Tbl_SPi-8" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">SAGD project</th>
+<th valign="top" align="center">Depth (m)</th>
+<th valign="top" align="center">Porosity (%)</th>
+<th align="center">Permeability (<i>μ</i>
+<sup>2</sup>)</th>
+<th align="center">Oil viscosity (10<sup>4</sup>cp)</th>
+<th valign="top" align="center">Thickness (m)</th>
+<th valign="bottom" align="center">Initial oil saturation (%)</th>
+<th valign="bottom" align="center">Operation pressure (kPa)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">AOSTRA’s UTF project</td>
+<td valign="top" align="center">180</td>
+<td valign="top" align="center">33</td>
+<td valign="top" align="center">3~5</td>
+<td valign="top" align="center">200~300</td>
+<td valign="top" align="center">21</td>
+<td valign="top" align="center">85</td>
+<td valign="top" align="center">2250</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">JACOS’ Hangingstone</td>
+<td valign="top" align="center">255~280</td>
+<td valign="top" align="center">30</td>
+<td valign="top" align="center">2.4</td>
+<td valign="top" align="center">&#x003E;100</td>
+<td valign="top" align="center">30~50</td>
+<td valign="top" align="center">85</td>
+<td valign="top" align="center">4500</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Athabasca Cenovus Foster Creek</td>
+<td valign="top" align="center">180~225</td>
+<td valign="top" align="center">33</td>
+<td valign="top" align="center">3~5</td>
+<td valign="top" align="center">6~8</td>
+<td valign="top" align="center">25</td>
+<td valign="top" align="center">85</td>
+<td valign="top" align="center">2700</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Suncor’s MacKay River</td>
+<td valign="top" align="center">98~145</td>
+<td valign="top" align="center">31</td>
+<td valign="top" align="center">3~5</td>
+<td valign="top" align="center">&#x003E;100</td>
+<td valign="top" align="center">15~25</td>
+<td valign="top" align="center">84</td>
+<td valign="top" align="center">1700</td>
+</tr>
+<tr>
+<td align="left">Nexxen’s Long lake</td>
+<td align="center">210</td>
+<td valign="top" align="center">30</td>
+<td align="center">2</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">30</td>
+<td align="center">80</td>
+<td valign="top" align="center">2500</td>
+</tr>
+<tr>
+<td valign="top" align="left">Shell’s Peace River</td>
+<td valign="top" align="center">550~600</td>
+<td align="center">28</td>
+<td valign="top" align="center">1.5</td>
+<td valign="top" align="center">1~100</td>
+<td valign="top" align="center">29</td>
+<td valign="top" align="center">77</td>
+<td valign="top" align="center">3000</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Suncor’s Firebag</td>
+<td valign="top" align="center">270~325</td>
+<td valign="top" align="center">32</td>
+<td valign="top" align="center">7</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">37</td>
+<td valign="top" align="center">84</td>
+<td valign="top" align="center">2000</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Mobil’s Celtic field</td>
+<td valign="top" align="center">470</td>
+<td valign="top" align="center">30~40</td>
+<td valign="top" align="center">2~13</td>
+<td valign="top" align="center">1.5</td>
+<td align="center">20</td>
+<td align="center">80</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Tia Juana Field</td>
+<td valign="top" align="center">305</td>
+<td valign="top" align="center">38</td>
+<td valign="top" align="center">1.5</td>
+<td align="center">2</td>
+<td align="center">26</td>
+<td valign="top" align="center">85</td>
+<td valign="top" align="center">2000~</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Fengcheng oilfield</td>
+<td valign="top" align="center">100~230</td>
+<td valign="top" align="center">33</td>
+<td align="center">1.8</td>
+<td valign="top" align="center">1.4</td>
+<td valign="top" align="center">33</td>
+<td valign="top" align="center">75</td>
+<td valign="top" align="center">2200~3000</td>
+</tr>
+<tr>
+<td align="left">Du 84 block, Liaohe oilfield</td>
+<td valign="top" align="center">530~640</td>
+<td valign="top" align="center">36.3</td>
+<td valign="top" align="center">5.5</td>
+<td valign="top" align="center">23.19</td>
+<td valign="top" align="center">91</td>
+<td valign="top" align="center">&#x003E;65</td>
+<td valign="top" align="center">3000</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="13" table-order="9" data-type-order="18">
+<table-wrap id="102118176410MS-tblwrp-9" content-type="structured">
+<anchoringText id="Ancr9">Furthermore, we also make a survey on some successful SAGD projects around the world, as shown in Table 7 and Table 8. Using the correlations we proposed above, we estimate the recovery performance of these SAGD projects. For some other variables (NTG, Sor, VS and Kv/Kh) which are not listed in Table 8, we adopt the same value for all of the cases to unify the influence of these parameters. The results are shown in Table 9.</anchoringText>
+<label>Table 9</label>
+<caption>The prediction results of SAGD recovery performance</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>9</caption-order>
+<caption-text>The prediction results of SAGD recovery performance</caption-text>
+</formatted-caption>
+<table id="102118176410MS-Tbl_SPi-9" frame="hsides">
+<thead>
+<tr>
+<th align="left">SAGD project</th>
+<th align="center">UTF project</th>
+<th align="center">Hanging stone</th>
+<th align="center">Foster Creek</th>
+<th align="center">MacKay River</th>
+<th align="center">Long lake</th>
+<th align="center">Peace River</th>
+<th align="center">Firebag</th>
+<th align="center">Celtic field</th>
+<th valign="bottom" align="center">Tia Juana Field</th>
+<th align="center">Fengcheng oilfield</th>
+<th align="center">Du 84 block</th>
+<th align="center">Error</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Recovery factor (linear, %)</td>
+<td valign="top" align="center">72.91</td>
+<td valign="top" align="center">78.23</td>
+<td valign="top" align="center">74.51</td>
+<td valign="top" align="center">70.87</td>
+<td valign="top" align="center">67.42</td>
+<td valign="top" align="center">64.27</td>
+<td valign="top" align="center">79.80</td>
+<td valign="top" align="center">72.03</td>
+<td valign="top" align="center">71.74</td>
+<td valign="top" align="center">62.93</td>
+<td valign="top" align="center">72.64</td>
+<td valign="top" align="center">±10%</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Recovery rate (nonlinear, %)</td>
+<td valign="top" align="center">6.51</td>
+<td valign="top" align="center">4.26</td>
+<td valign="top" align="center">6.24</td>
+<td valign="top" align="center">6.68</td>
+<td valign="top" align="center">4.27</td>
+<td valign="top" align="center">3.91</td>
+<td valign="top" align="center">7.85</td>
+<td valign="top" align="center">8.52</td>
+<td valign="top" align="center">3.44</td>
+<td valign="top" align="center">3.87</td>
+<td valign="top" align="center">0.94</td>
+<td valign="top" align="center">±20%</td>
+</tr>
+<tr>
+<td align="left">COSR (nonlinear, m<sup>3</sup>/m<sup>3</sup>)</td>
+<td valign="top" align="center">0.26</td>
+<td valign="top" align="center">0.23</td>
+<td valign="top" align="center">0.26</td>
+<td valign="top" align="center">0.26</td>
+<td valign="top" align="center">0.22</td>
+<td valign="top" align="center">0.18</td>
+<td valign="top" align="center">0.32</td>
+<td valign="top" align="center">0.28</td>
+<td valign="top" align="center">0.28</td>
+<td valign="top" align="center">0.22</td>
+<td valign="top" align="center">0.34</td>
+<td valign="top" align="center">±10%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

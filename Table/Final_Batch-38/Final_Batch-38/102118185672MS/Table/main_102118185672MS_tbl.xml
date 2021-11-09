@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185672MS.txt" extractionDate="2021-03-27T12:30:26Z">
+<doi>10.2118/185672-MS</doi>
+<pii>10.2118/185672-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="9" table-order="1" data-type-order="10">
+<table-wrap id="102118185672MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The single horizontal well calibration with microseismic data, treating pressure trends, ISIP, and production history discussed in the previous sections provided a calibrated model that is used for completion and stimulation sensitivities for hydraulic fracture geometry and production performance evaluation. Over the years, stimulation design in unconventional reservoirs has evolved from conservative to radical designs. The parameter sensitivities investigated include proppant job size, cluster spacing, and maximum proppant concentration. Proppant job size and fluid volumes are among the top critical design parameters in hydraulic fracturing design. The details of the different sensitivity scenarios are shown in Table 1.</anchoringText>
+<label>Table 1</label>
+<caption>Completion and stimulation design sensitivities</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Completion and stimulation design sensitivities</caption-text>
+</formatted-caption>
+<table id="102118185672MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" valign="top" align="center">Sensitivities</th>
+<th valign="top" align="center">No. of Stages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4" valign="top" align="center">
+<b>Category 1 Proppant Job Size</b>
+</td>
+<td valign="top" align="center">370 lbm/lateral.ft</td>
+<td valign="top" align="center">11</td>
+</tr>
+<tr>
+<td valign="top" align="center">500 lbm/lateral.ft</td>
+<td valign="top" align="center">11</td>
+</tr>
+<tr>
+<td valign="top" align="center">750 lbm/lateral.ft</td>
+<td valign="top" align="center">11</td>
+</tr>
+<tr>
+<td valign="top" align="center">1000 lbm/lateral.ft</td>
+<td valign="top" align="center">11</td>
+</tr>
+<tr>
+<td rowspan="3" valign="top" align="center">
+<b>Category 2 Max. Proppant Concentration</b>
+</td>
+<td valign="top" align="center">2.8ppa</td>
+<td valign="top" align="center">11</td>
+</tr>
+<tr>
+<td valign="top" align="center">3 ppa</td>
+<td valign="top" align="center">11</td>
+</tr>
+<tr>
+<td valign="top" align="center">3.5 ppa</td>
+<td valign="top" align="center">11</td>
+</tr>
+<tr>
+<td rowspan="4" valign="top" align="center">
+<b>Category 3 Cluster Spacing</b>
+</td>
+<td valign="top" align="center">150 ft</td>
+<td valign="top" align="center">11</td>
+</tr>
+<tr>
+<td valign="top" align="center">100 ft</td>
+<td valign="top" align="center">14</td>
+</tr>
+<tr>
+<td valign="top" align="center">50 ft</td>
+<td valign="top" align="center">28</td>
+</tr>
+<tr>
+<td valign="top" align="center">30 ft</td>
+<td valign="top" align="center">46</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

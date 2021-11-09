@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190369MS.txt" extractionDate="2021-03-26T19:51:30Z">
+<doi>10.2118/190369-MS</doi>
+<pii>10.2118/190369-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="10" table-order="1" data-type-order="6">
+<table-wrap id="102118190369MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">During the dynamic modelling, the physical properties of cores and saturating fluids were modelled first. The simulator is applicable only at least 1 m order of magnitude in case of field scale model, therefore 100 as a multiplier factor was used to transform the laboratory core size (105 cm) to simulator scale (100 m). Then during the initialization phase, the parameters like temperature, pressure and saturations were set up in the model. These parameters were specific for the AlgyoAlgyo-2 reservoir in 1966 when the production started. Thereafter the water flooding was simulated and the difference between the saturations of simulation and laboratory measurement results were defined. The best match was reached according data listed in Table 1. It meant that fluid flow in cores was modelled with sufficient accuracy so the model could be used in up-scaled simulation of surfactant-polymer flooding.</anchoringText>
+<label>Table 1</label>
+<caption>Comparison of laboratory measured and simulated results of water flooding</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Comparison of laboratory measured and simulated results of water flooding</caption-text>
+</formatted-caption>
+<table id="102118190369MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">Laboratory results</th>
+<th valign="top" align="center">Simulation results</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">S<sub>
+<sub>oi</sub>
+</sub>
+<sub>
+</sub>(Initial oil saturation)</td>
+<td valign="top" align="center">0.530</td>
+<td valign="top" align="left">0.531</td>
+</tr>
+<tr>
+<td valign="top" align="left">S<sub>
+<sub>wi</sub>
+</sub>
+<sub>
+</sub>(Initial water saturation)</td>
+<td valign="top" align="center">0.470</td>
+<td valign="top" align="left">0.469</td>
+</tr>
+<tr>
+<td valign="top" align="left">Injected volume</td>
+<td valign="top" align="left">330 cm<sup>
+<sup>3</sup>
+</sup>
+<sup>
+</sup>(1 Vp)</td>
+<td valign="top" align="left">330 m<sup>
+<sup>3</sup>
+</sup>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Cumulated oil production</td>
+<td valign="top" align="center">68.0 cm<sup>
+<sup>3</sup>
+</sup>
+</td>
+<td valign="top" align="left">68.5 m<sup>
+<sup>3</sup>
+</sup>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">S<sub>o</sub>
+<sub>
+</sub>(Oil saturation after water flooding)</td>
+<td valign="top" align="center">0.318</td>
+<td valign="top" align="left">0.324</td>
+</tr>
+<tr>
+<td valign="top" align="left">S<sub>
+<sub>w</sub>
+</sub>
+<sub>
+</sub>(Water saturation after water flooding)</td>
+<td valign="top" align="center">0.682</td>
+<td valign="top" align="left">0.676</td>
+</tr>
+<tr>
+<td valign="top" align="left">RF (Recovery factor), %</td>
+<td valign="top" align="center">0.389</td>
+<td valign="top" align="left">0.391</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="10" table-order="2" data-type-order="7">
+<table-wrap id="102118190369MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Many parameters were built into the model to characterize the surfactant-polymer solution like polymer and surfactant solution viscosity, adsorption of polymer and surfactants on reservoir rock, water-oil surface tension, capillary number and relative permeability change due to surfactants and its alterations during SP flooding. Simulation results of SP flooding in laboratory core test are listed in Table 2.</anchoringText>
+<label>Table 2</label>
+<caption>Incremental oil production of SP flooding measured in laboratory core test and simulated using Eclipse™ simulator</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Incremental oil production of SP flooding measured in laboratory core test and simulated using Eclipse™ simulator</caption-text>
+</formatted-caption>
+<table id="102118190369MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Surfactant-polymer slugs</th>
+<th valign="top" align="center">Incremental recovery factor of laboratory core test ΔRF LAB</th>
+<th valign="top" align="center">Incremental recovery factor of simulation ΔRF SIM</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">2</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">0.007</td>
+</tr>
+<tr>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">0.015</td>
+<td valign="top" align="center">0.043</td>
+</tr>
+<tr>
+<td valign="top" align="center">4</td>
+<td valign="top" align="center">0.054</td>
+<td valign="top" align="center">0.036</td>
+</tr>
+<tr>
+<td valign="top" align="center">5</td>
+<td valign="top" align="center">0.011</td>
+<td valign="top" align="center">0.025</td>
+</tr>
+<tr>
+<td valign="top" align="center">6</td>
+<td valign="top" align="center">0.029</td>
+<td valign="top" align="center">0.026</td>
+</tr>
+<tr>
+<td valign="top" align="center">7</td>
+<td valign="top" align="center">0.016</td>
+<td valign="top" align="center">0.019</td>
+</tr>
+<tr>
+<td valign="top" align="center">8</td>
+<td valign="top" align="center">0.010</td>
+<td valign="top" align="center">0.009</td>
+</tr>
+<tr>
+<td valign="top" align="center">9</td>
+<td valign="top" align="center">0.009</td>
+<td valign="top" align="center">0.003</td>
+</tr>
+<tr>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">0.031</td>
+<td valign="top" align="center">0.001</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>Cu</b>
+<b>mulative recovery factor:</b>
+</td>
+<td valign="top" align="center">
+<b>0.175</b>
+</td>
+<td valign="top" align="center">
+<b>0.169</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

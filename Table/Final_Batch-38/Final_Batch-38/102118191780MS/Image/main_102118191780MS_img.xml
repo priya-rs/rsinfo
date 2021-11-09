@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191780MS.txt" extractionDate="2021-03-30T18:02:41Z">
+<doi>10.2118/191780-MS</doi>
+<pii>10.2118/191780-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr4">This is also sometimes called a huff-n-puff process. The technique typically includes three steps: first is the injection phase; then the well is shut in for the soak phase; and, finally, the well is turned back on for the production phase (Fig. 1). This has had the most success in steam injection, but it has also been used to a limited extent during CO2 injection in conventional reservoirs.</anchoringText>
+<image-wrap id="102118191780MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118191780MS_i_1.tif" id="ImgLink-1" />
+<caption>Huff-n-puff technique using CO<sub>2</sub> injection for enhanced oil recovery (EOR).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Huff-n-puff technique using CO<sub>2</sub> injection for enhanced oil recovery (EOR).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr5">Our goal is to create a coupled hydraulic fracture model and numerical reservoir simulation model based on representative Eagle Ford volatile oil window fluid data to evaluate the technical and economic feasibility for huff-n-puff injection of CO2into a horizontal well hydraulically fractured in multiple stages. Further, we investigate the preferable cyclic injection scheme with the fracture network complexity resulting from stimulation treatment scenarios. The general workflow for the study is represented in Fig. 2.</anchoringText>
+<image-wrap id="102118191780MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118191780MS_i_2.tif" id="ImgLink-2" />
+<caption>General workflow for the EOR application evaluation for unconventional reservoirs.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>General workflow for the EOR application evaluation for unconventional reservoirs.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr6">The study is carried out using a representative Eagle Ford data set that was used by Gakhar et al. (2017). A geological and geocellular model around the wellbore has been created. Petrophysical and geomechanical properties are distributed for the region around the wellbore in the depths between the Austin Chalk and Buda limestone (Fig. 3).</anchoringText>
+<image-wrap id="102118191780MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118191780MS_i_3.tif" id="ImgLink-3" />
+<caption>Wellbore landed in the lower Eagle Ford and a geomodel constructed around the wellbore with geomechanical and petrophysical properties.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Wellbore landed in the lower Eagle Ford and a geomodel constructed around the wellbore with geomechanical and petrophysical properties.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr7">The hydraulic fracture may also cross the natural fracture and proceed with propagation along the maximum horizontal stress direction (Weng et al. 2011). Depending on the density and properties of the natural fracture network, the hydraulic fractures may create greater complexity when the natural fractures are more densely populated. The hydraulic fracture footprint for the well in our study is shown in Fig. 4. The well was completed with 19 stages and 1,800 lbm of proppant pumped per feet of the wellbore in the simulation model</anchoringText>
+<image-wrap id="102118191780MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118191780MS_i_4.tif" id="ImgLink-4" />
+<caption>Hydraulic fractures and natural fracture in a top view. As the natural fracture density changes, the hydraulic fracture footprint may vary.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Hydraulic fractures and natural fracture in a top view. As the natural fracture density changes, the hydraulic fracture footprint may vary.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr8">Fig. 5 shows the configuration of well and the hydraulic fractures in the well from a side view. Moreover, Fig. 5 demonstrates the unstructured grid created for reservoir simulation. The unstructured PEBI grid captures the variability and complexity of the hydraulic fractures and the distribution of permeability as a granular representation because the proppants in the hydraulic fractures may have settled towards the bottom of the fractures.</anchoringText>
+<image-wrap id="102118191780MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118191780MS_i_5.tif" id="ImgLink-5" />
+<caption>Hydraulic fractures and unstructured grid properties used for the reservoir simulation.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Hydraulic fractures and unstructured grid properties used for the reservoir simulation.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr9">History matching results in Fig. 6 show good agreement of simulated and measured BHP after several iterations. The GOR match can potentially be improved by considering the possibility of higher estimated matrix permeability near the fracture conduit area to create an undersaturated drainage local region. A final depletion field was obtained, reflecting the pressure state at the end of production depletion (Fig. 7). The history match obtained in this case is nonunique; however, it provides confidence for further predictions that are detailed in later sections of this paper.</anchoringText>
+<image-wrap id="102118191780MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118191780MS_i_6.tif" id="ImgLink-6" />
+<caption>Production history match.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Production history match.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr10">This is the typical trend to what is happening in most, if not all, the unconventional reservoirs of North America. As we investigate the pressure distribution in the reservoir model as shown in Fig. 7, we find that the main reason for the fast reduction in production rate is the pressure depletion in the area close to the production well. However, the reservoir pressure is still high in the areas that are far away from the production well. This is explained by the fact that the reservoir matrix is extremely low permeability and does not have large deliverability beyond the stimulated rock volume.</anchoringText>
+<image-wrap id="102118191780MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118191780MS_i_7.tif" id="ImgLink-7" />
+<caption>Pressure depletion after stimulation (no depletion) and at 12 and 24 months.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Pressure depletion after stimulation (no depletion) and at 12 and 24 months.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr11">Given the complex geologic conditions of the reservoir, induced fracture geometry, and traits of the reservoir fluid composition, there is a limit of crude oil that could be extracted by EOR process, including CO2 huff-n-puff. Each cycle consists of 4 weeks of injection, 2 weeks of soaking, and 3 months of production. The beginning of the huff-n-puff was selected to be at the end of the historical period (2 years of production). The natural depletion of the parent wellbore was approximated by producing it without changing operating conditions. The comparison of results is shown in Fig. 8. A 3% increase of in cumulative oil was observed comparing natural depletion case over the time frame of 2 years. Although more cycles yield additional incremental recovery, their impact on incremental production is progressively diminished.</anchoringText>
+<image-wrap id="102118191780MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118191780MS_i_8.tif" id="ImgLink-8" />
+<caption>Cumulative oil production comparison under natural depletion vs. huff-n-puff.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Cumulative oil production comparison under natural depletion vs. huff-n-puff.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr12">The next sensitivity study was carried related to effect of different treatment sizes under the same production management strategy (Fig. 9).</anchoringText>
+<image-wrap id="102118191780MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118191780MS_i_9.tif" id="ImgLink-9" />
+<caption>Fracture geometry in plan view for different treatment size.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Fracture geometry in plan view for different treatment size.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr13">It was observed that higher treatment sizes lead to greater network complexity, which favors gas contacting a larger fracture surface area, which, in turn, leads to higher efficiency in terms of incremental production (Fig. 10 and Table 3). The hydraulic fracture network complexity favors the natural depletion as well due to the additional reservoir surface area contact created.</anchoringText>
+<image-wrap id="102118191780MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118191780MS_i_10.tif" id="ImgLink-10" />
+<caption>Incremental production gain with huff-n-puff for different treatment size.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Incremental production gain with huff-n-puff for different treatment size.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="11" data-type-order="14">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr14">If we assume USD 2.5/Mscf cost for CO2, the breakeven point at a USD 50/bbl price of oil would be achieved at 3.3 years with the current EOR design studied in the well with stimulation done at 1,800 lbm/ft if the EOR is started after 12 years of well’s natural production. The breakeven may be longer if the EOR is started earlier (Fig. 11).</anchoringText>
+<image-wrap id="102118191780MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118191780MS_i_11.tif" id="ImgLink-11" />
+<caption>Cash flow curve with EOR methods applied on the 1,800-lbm/ft well completions design for the hydraulic fracture.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Cash flow curve with EOR methods applied on the 1,800-lbm/ft well completions design for the hydraulic fracture.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

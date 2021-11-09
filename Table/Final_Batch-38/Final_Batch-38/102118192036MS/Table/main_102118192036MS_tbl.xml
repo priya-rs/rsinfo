@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118192036MS.txt" extractionDate="2021-03-30T15:45:03Z">
+<doi>10.2118/192036-MS</doi>
+<pii>10.2118/192036-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="3" table-order="1" data-type-order="1">
+<table-wrap id="102118192036MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">This paper presents a method of integrating time-of-flight for well placement optimisation to assist in the estimation of HC drainage volume around each producer. The workflow of this algorithm will be presented with the case of a synthetic 2D reservoir simulation model size with the assumptions in Table 1. The overall workflow of this methodology can be categorized into two main steps: (i) calculate effective drainage and (ii) optimisation with heuristic search.</anchoringText>
+<label>Table 1</label>
+<caption>Assumptions for 2D synthetic model</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Assumptions for 2D synthetic model</caption-text>
+</formatted-caption>
+<table id="102118192036MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">
+<a id="Methodology:_Streamline-based_method">
+</a>
+<a id="bookmark0">
+</a>Parameter</th>
+<th valign="top" align="center">Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Grid size</td>
+<td valign="top" align="left">101 × 101 = 10201 cells</td>
+</tr>
+<tr>
+<td valign="top" align="left">Fluid</td>
+<td valign="top" align="left">2 Phases Oil &amp; Water</td>
+</tr>
+<tr>
+<td valign="top" align="left">Reservoir pressure</td>
+<td valign="top" align="left">4000 psi</td>
+</tr>
+<tr>
+<td valign="top" align="left">Control</td>
+<td valign="top" align="left">BHP = 100 psi</td>
+</tr>
+<tr>
+<td valign="top" align="left">Porosity</td>
+<td valign="top" align="left">0.2</td>
+</tr>
+<tr>
+<td valign="top" align="left">Permeability</td>
+<td valign="top" align="left">50 md</td>
+</tr>
+<tr>
+<td valign="top" align="left">NTG</td>
+<td valign="top" align="left">1.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">Production period</td>
+<td valign="top" align="left">1 year</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="6" table-order="2" data-type-order="7">
+<table-wrap id="102118192036MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">In this example comprising 121 wells, the total combination for selection of 1-5 wells is shown in Table 2. Examples of selecting well groups for 3 from 121 wells are shown in Fig. 6.</anchoringText>
+<label>Table 2</label>
+<caption>Total possible combinations for an example case of 121 wells: select 1 to 5 wells</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Total possible combinations for an example case of 121 wells: select 1 to 5 wells</caption-text>
+</formatted-caption>
+<table id="102118192036MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Total Pool</th>
+<th colspan="5" valign="top" align="center">Number of Selections</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">2</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">4</td>
+<td valign="top" align="center">5</td>
+</tr>
+<tr>
+<td valign="top" align="center">121</td>
+<td valign="top" align="center">121</td>
+<td valign="top" align="center">7,260</td>
+<td valign="top" align="center">287,980</td>
+<td valign="top" align="center">8,495,410</td>
+<td valign="top" align="center">198,792,594</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="12" table-order="3" data-type-order="19">
+<table-wrap id="102118192036MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Preparation of the proxy required some calculation time to run the streamline simulation and digitize time-of-flight to gridcell. Once the proxy was prepared, the calculation was significantly time-expedited from 300 minutes to 0.0005 minutes (0.03 second) for one iteration. With this increased speed, all possible combinations, selecting 12 wells from 23 wells in the well pool (total = 1,352,078 cases), could be performed. A comparison between manual optimisation with the same total calculation time with SMARTDRAIN is shown in Table 3. With this calculation efficiency, the real global optimal point can be searched.</anchoringText>
+<label>Table 3</label>
+<caption>Comparison of calculation time between manual method and SMARTDRAIN</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Comparison of calculation time between manual method and SMARTDRAIN</caption-text>
+</formatted-caption>
+<table id="102118192036MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">
+<a id="Computational_time">
+</a>
+<a id="bookmark1">
+</a>Task</th>
+<th valign="top" align="center">SMART DRAIN</th>
+<th valign="top" align="center">Manual Run</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td id="tfn-1" colspan="4" align="left">
+<a id="Conclusion">
+</a>* Time in minutes</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td valign="top" align="center">Proxy</td>
+<td valign="top" align="center">Total time for proxy preparation</td>
+<td valign="top" align="center">1,380</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td rowspan="4" valign="top" align="center">Optimisation</td>
+<td valign="top" align="center">Time for one iteration (1 Simulation run)</td>
+<td valign="top" align="center">0.0005</td>
+<td valign="top" align="center">300</td>
+</tr>
+<tr>
+<td valign="top" align="center">Search space, percentage</td>
+<td valign="top" align="center">100%</td>
+<td valign="top" align="center">0.0005%</td>
+</tr>
+<tr>
+<td valign="top" align="center">Search space total</td>
+<td valign="top" align="center">1,352,078</td>
+<td valign="top" align="center">6.8</td>
+</tr>
+<tr>
+<td valign="top" align="center">Total time for optimisation</td>
+<td valign="top" align="center">676</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">Proxy + Optimisation</td>
+<td valign="top" align="center">Total time</td>
+<td valign="top" align="center">2,056</td>
+<td valign="top" align="center">2,056</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

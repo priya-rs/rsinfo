@@ -1,0 +1,312 @@
+﻿<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8" ></head><div>
+<div><b>Meta Informations:</b><p>SPE_Society_of_Petroleum_Engineers</p><p>DOI: 10.2118/190170-MS<br>PII: 10.2118/190170-MS<br></p></div>
+<div>
+<div pdf-page="8" table-order="1" data-type-order="6">
+<div id="102118190170MS-tblwrp-1" content-type="structured"><p>Raw data from 3 wells (ESSAU 70, Lindoss 31, and the ESSAU 56W) collected at 1 ft depth intervals were gathered from the following well log curves: GR, CNC, PE, DEN, RD, RS and RMML. Based on 366 log readings, 205 from the MP and 161 from the ROZ, the basic statistics of the log data are given in Table 1.</p><p><b>Table 1</b> Basic statistics of the raw log readings from 3 wells</p><p>Table 1 Basic statistics of the raw log readings from 3 wells</p><table id="102118190170MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th align="center">Variable</th>
+<th align="center">Exemplars</th>
+<th align="center">Min.</th>
+<th align="center">Max.</th>
+<th align="center">Mean</th>
+<th align="center">Std. Dev.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">GR</td>
+<td align="right">366</td>
+<td align="right">11.245</td>
+<td align="right">43.218</td>
+<td align="right">23.799</td>
+<td align="right">5.171</td>
+</tr>
+<tr>
+<td align="left">CNC</td>
+<td align="right">366</td>
+<td align="right">0.082</td>
+<td align="right">0.273</td>
+<td align="right">0.144</td>
+<td align="right">0.029</td>
+</tr>
+<tr>
+<td align="left">PE</td>
+<td align="right">366</td>
+<td align="right">2.551</td>
+<td align="right">4.260</td>
+<td align="right">3.292</td>
+<td align="right">0.288</td>
+</tr>
+<tr>
+<td align="left">DEN</td>
+<td align="right">366</td>
+<td align="right">2.442</td>
+<td align="right">2.808</td>
+<td align="right">2.675</td>
+<td align="right">0.059</td>
+</tr>
+<tr>
+<td align="left">RD</td>
+<td align="right">366</td>
+<td align="right">10.335</td>
+<td align="right">517.565</td>
+<td align="right">83.007</td>
+<td align="right">63.141</td>
+</tr>
+<tr>
+<td align="left">RS</td>
+<td align="right">366</td>
+<td align="right">9.801</td>
+<td align="right">360.115</td>
+<td align="right">60.160</td>
+<td align="right">40.835</td>
+</tr>
+<tr>
+<td align="left">RMML</td>
+<td align="right">366</td>
+<td align="right">3.585</td>
+<td align="right">431.339</td>
+<td align="right">37.849</td>
+<td align="right">43.400</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="9" table-order="2" data-type-order="8">
+<div id="102118190170MS-tblwrp-2" content-type="structured"><p>Table 2 shows the testing performance of the final network with the testing data set. The classification performance is good but not exact. The MSE is not zero and represents the magnitude of the error. This table shows the "true" and "false" for classification of MP and ROZ, and the accuracies achieved by the model with inputs from the well logs. The network identified 2 cases out of 32 MP exemplars falsely, with an accuracy of 93.75%. On the other hand, the model correctly identified 21 ROZ cases out of 23, with an accuracy of 91.3%, while proposing 2 as MP.</p><p><b>Table 2</b> Classification performance of the network for MP and ROZ of 3 wellsfor testing data.</p><p>Table 2 Classification performance of the network for MP and ROZ of 3 wellsfor testing data.</p><table id="102118190170MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th align="left">Output / Desired output</th>
+<th align="left">Zone (MP)</th>
+<th align="left">Zone (ROZ)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Zone (MP)</td>
+<td align="left">30</td>
+<td align="left">2</td>
+</tr>
+<tr>
+<td align="left">Zone (ROZ)</td>
+<td align="left">2</td>
+<td align="left">21</td>
+</tr>
+<tr>
+<td align="left">MSE</td>
+<td align="left">0.0438240</td>
+<td align="left">0.0449352</td>
+</tr>
+<tr>
+<td align="left">Min Absolute Error</td>
+<td align="left">0.0007843</td>
+<td align="left">0.0007174</td>
+</tr>
+<tr>
+<td align="left">Max Absolute Error</td>
+<td align="left">0.8751069</td>
+<td align="left">0.8411661</td>
+</tr>
+<tr>
+<td align="left">Percent Correct</td>
+<td align="left">93.75</td>
+<td align="left">91.30</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="10" table-order="3" data-type-order="9">
+<div id="102118190170MS-tblwrp-3" content-type="structured"><p>To further test the network and to measure the relative importance of the inputs of the ANN model on output performance, a sensitivity analysis about the mean of each of the inputs was carried out. This analysis demonstrates how the model output varies in response to variation of an input. During this analysis, the inputs were varied around their mean by adding and subtracting one standard deviation, while keeping all other inputs at their respective mean values. The output was computed for 50 steps greater than and less than the mean value of the varied input. The results of the test are shown in Table 3 and in Fig. 7.</p><p><b>Table 3</b> Sensitivity of outputs to the variations inputs around their mean values based on well log data from 3 wells.</p><p>Table 3 Sensitivity of outputs to the variations inputs around their mean values based on well log data from 3 wells.</p><table id="102118190170MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th align="left">Sensitivity</th>
+<th align="center">Zone (MP)</th>
+<th align="center">Zone (ROZ)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">GR</td>
+<td align="center">0.018</td>
+<td align="center">0.016</td>
+</tr>
+<tr>
+<td align="left">CNC</td>
+<td align="center">11.467</td>
+<td align="center">11.888</td>
+</tr>
+<tr>
+<td align="left">PE</td>
+<td align="center">0.106</td>
+<td align="center">0.077</td>
+</tr>
+<tr>
+<td align="left">DEN</td>
+<td align="center">2.151</td>
+<td align="center">2.271</td>
+</tr>
+<tr>
+<td align="left">RD</td>
+<td align="center">0.008</td>
+<td align="center">0.007</td>
+</tr>
+<tr>
+<td align="left">RS</td>
+<td align="center">0.001</td>
+<td align="center">0.001</td>
+</tr>
+<tr>
+<td align="left">RMML</td>
+<td align="center">0.002</td>
+<td align="center">0.002</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="11" table-order="4" data-type-order="11">
+<div id="102118190170MS-tblwrp-4" content-type="structured"><p>The tree generated during CART evolved through 127 nodes, and thus had 127 rules. The confusion matrix based on testing 366 exemplars with the CART model is shown in Table 4. This table shows that the classification performance of CART is close to ANN, with 84.4% accuracy for MP and 91.3% accuracy for ROZ. Overall, classification performance was approximately 88%.</p><p><b>Table 4</b> Confusion matrix for the estimation of dataset from 3 wells.</p><p>Table 4 Confusion matrix for the estimation of dataset from 3 wells.</p><table id="102118190170MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th align="center">Output \ Desired output</th>
+<th align="center">MP</th>
+<th align="center">ROZ</th>
+<th align="center">Total</th>
+<th align="center">Percent correct</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">Zone (MP)</td>
+<td align="center">154.4</td>
+<td align="center">28.5</td>
+<td align="center">183</td>
+<td align="center">84.39%</td>
+</tr>
+<tr>
+<td align="center">Zone (ROZ)</td>
+<td align="center">15.9</td>
+<td align="center">167.9</td>
+<td align="center">183</td>
+<td align="center">91.30%</td>
+</tr>
+<tr>
+<td align="center">Total</td>
+<td align="center">170.3</td>
+<td align="center">195.4</td>
+<td align="center">366</td>
+<td align="center">87.85%</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="11" table-order="5" data-type-order="12">
+<div id="102118190170MS-tblwrp-5" content-type="structured"><p>Due to its flexibility in nonlinearities, ANN’s prediction capability is a little better than CART. However, CART provides rules that lead to the predicted result, which are valuable as decision tools. For instance, Table 5 gives the rules that lead to 100% ROZ purity in each node in the CART and the input types with their ranges for East Seminole Field. A selection of a different threshold for purity, e.g. 90% for ROZ or MP, will present different rules for inputs and their ranges. It should be noted that these rules are complementary, i.e. if a zone purity is 100%, the other is 0% for the same rules.</p><p><b>Table 5</b> CART rules with input variables and their ranges that present 100% ROZ purity in nodes</p><p>Table 5 CART rules with input variables and their ranges that present 100% ROZ purity in nodes</p><table id="102118190170MS-Tbl_SPi-5" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="left">1.</td>
+<td valign="top" align="left">If CNC in [0.145, 0.169] and GR in [15.759, 23.37] and DEN in [2.442, 2.634] and RD in [10.335, 54.749]</td>
+</tr>
+<tr>
+<td valign="top" align="left">2.</td>
+<td valign="top" align="left">If DEN in [2.565, 2.634] and CNC in [0.169, 0.243] and GR in [15.759, 23.37] and RD in [10.335, 54.749]</td>
+</tr>
+<tr>
+<td valign="top" align="left">3.</td>
+<td valign="top" align="left">If GR in [21.305, 23.37] and DEN in [2.442, 2.565] and CNC in [0.169, 0.243] and RD in [10.335, 54.749]</td>
+</tr>
+<tr>
+<td valign="top" align="left">4.</td>
+<td valign="top" align="left">If DEN in [2.442, 2.566] and GR in [23.37, 27.379] and RD in [10.335, 54.749]</td>
+</tr>
+<tr>
+<td valign="top" align="left">5.</td>
+<td valign="top" align="left">If CNC in [0.139, 0.164] and DEN in [2.566, 2.634] and GR in [23.37, 27.379] and RD in [10.335, 54.749]</td>
+</tr>
+<tr>
+<td valign="top" align="left">6.</td>
+<td valign="top" align="left">If GR in [16.307, 21.42] and CNC in [0.129, 0.153] and DEN in [2.634, 2.675] and RD in [10.335, 54.749]</td>
+</tr>
+<tr>
+<td valign="top" align="left">7.</td>
+<td valign="top" align="left">If CNC in [0.106, 0.126] and PE in [3.168, 3.362] and RS in [20.323, 45.754] and RMML in [3.585, 35.178] and DEN in [2.675, 2.808]</td>
+</tr>
+<tr>
+<td valign="top" align="left">8.</td>
+<td valign="top" align="left">If CNC in [0.101, 0.112] and PE in [3.185, 3.603] and GR in [25.214, 43.218] and RD in [32.12, 100.884] and RMML in [35.178, 431.339] and DEN in [2.675, 2.808]</td>
+</tr>
+<tr>
+<td valign="top" align="left">9.</td>
+<td valign="top" align="left">If PE in [3.235, 3.55] and GR in [18.603, 23.657] and CNC in [0.128, 0.148] and RD in [32.12, 100.884] and RMML in [35.178, 431.339] and DEN in [2.675, 2.808]</td>
+</tr>
+<tr>
+<td valign="top" align="left">10.</td>
+<td valign="top" align="left">If PE in [3.386, 3.488] and GR in [15.714, 19.111] and DEN in [2.675, 2.725] and RD in [100.884, 517.565] and RMML in [35.178, 431.339]</td>
+</tr>
+<tr>
+<td valign="top" align="left">11.</td>
+<td valign="top" align="left">If GR in [19.111, 21.131] and DEN in [2.675, 2.725] and RD in [100.884, 517.565] and RMML in [35.178, 431.339]</td>
+</tr>
+<tr>
+<td valign="top" align="left">12.</td>
+<td valign="top" align="left">If GR in [15.714, 18.361] and RS in [65.888, 156.76] and DEN in [2.725, 2.808] and RD in [100.884, 517.565] and RMML in [35.178, 431.339]</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="12" table-order="6" data-type-order="14">
+<div id="102118190170MS-tblwrp-6" content-type="structured"><p>A sensitivity study around the mean values of the inputs shows that the predicted ROS are most sensitive to the values of neutron porosity, density, and photoelectric log readings, as well as the zone identification entered as an input value to predict ROS. It is also notable that the saturations are not sensitive to the variations in resistivity log readings, possibly due to the fact that this is a waterflooded field and salinity, and thus resistivity, is not a good indicator for saturation. Table 6 shows the sensitivities of oil saturation, when input values are varied one standard deviation around their mean values.</p><p><b>Table 6</b> Sensitivity of oil saturation to the variations inputs around their mean values for three wells.</p><p>Table 6 Sensitivity of oil saturation to the variations inputs around their mean values for three wells.</p><table id="102118190170MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th align="left">Sensitivity</th>
+<th align="center">So</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">GR</td>
+<td align="center">0.286</td>
+</tr>
+<tr>
+<td align="left">CNC</td>
+<td align="center">439.690</td>
+</tr>
+<tr>
+<td align="left">PE</td>
+<td align="center">23.528</td>
+</tr>
+<tr>
+<td align="left">DEN</td>
+<td align="center">122.123</td>
+</tr>
+<tr>
+<td align="left">RD</td>
+<td align="center">0.143</td>
+</tr>
+<tr>
+<td align="left">RS</td>
+<td align="center">0.223</td>
+</tr>
+<tr>
+<td align="left">RMML</td>
+<td align="center">0.067</td>
+</tr>
+<tr>
+<td align="left">Zone(MP)</td>
+<td align="center">6.069</td>
+</tr>
+<tr>
+<td align="left">Zone(ROZ)</td>
+<td align="center">10.237</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+</div>
+</div></html>

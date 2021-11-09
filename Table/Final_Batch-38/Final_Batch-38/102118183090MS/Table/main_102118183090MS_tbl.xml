@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118183090MS.txt" extractionDate="2021-03-25T19:49:14Z">
+<doi>10.2118/183090-MS</doi>
+<pii>10.2118/183090-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="8" table-order="1" data-type-order="12">
+<table-wrap id="102118183090MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Table 1 shows the adjusted PLT results. The PLT data are then used for simulation purposes to formulate the outflow curve at a series of known surface choke settings corresponding to wellhead pressures (WHP) and for compositional fluid characterization along with the zonal IPR to history match actual well data at surface.</anchoringText>
+<label>Table 1</label>
+<caption>PLT summary of trial well (comingled completion) before ICD installation</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>PLT summary of trial well (comingled completion) before ICD installation</caption-text>
+</formatted-caption>
+<table id="102118183090MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" align="center">Summary</th>
+<th colspan="7" valign="top" align="center">Split of Total Flow Adjusted from the PLT and Surface Well Testing Data</th>
+</tr>
+<tr>
+<th align="center">Condition</th>
+<th align="center">Zone</th>
+<th valign="bottom" align="center">Total Fluid Split, %</th>
+<th valign="bottom" align="center">Oil Split,%</th>
+<th align="center">Oil Cut, %</th>
+<th valign="bottom" align="center">Water Split, %</th>
+<th valign="bottom" align="center">Water Cut, %</th>
+<th valign="bottom" align="center">Gas Split, %</th>
+<th valign="bottom" align="center">GOR, scf/sbb</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3" align="center">
+<b>Average Split (Adjusted)</b>
+</td>
+<td align="center">
+<b>M1</b>
+</td>
+<td align="center">1%</td>
+<td align="center">1%</td>
+<td align="center">2.3%</td>
+<td align="center">1%</td>
+<td align="center">97.7%</td>
+<td align="center">1%</td>
+<td valign="bottom" align="center">6,800</td>
+</tr>
+<tr>
+<td align="center">
+<b>M2</b>
+</td>
+<td align="center">16%</td>
+<td align="center">64%</td>
+<td align="center">8.8%</td>
+<td align="center">15%</td>
+<td align="center">91.2%</td>
+<td align="center">55%</td>
+<td align="center">5,300</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>M3</b>
+</td>
+<td valign="bottom" align="center">83%</td>
+<td valign="bottom" align="center">35%</td>
+<td valign="bottom" align="center">0.9%</td>
+<td valign="bottom" align="center">84%</td>
+<td valign="bottom" align="center">99.1%</td>
+<td valign="bottom" align="center">44%</td>
+<td valign="bottom" align="center">7,800</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<b>Total</b>
+</td>
+<td align="center"><b>100%</b></td>
+<td align="center"><b>100%</b></td>
+<td align="center"><b>2.2%</b></td>
+<td align="center"><b>100%</b></td>
+<td align="center"><b>97.8%</b></td>
+<td align="center"><b>100%</b></td>
+<td valign="bottom" align="center"><b>6,200</b></td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="15" table-order="2" data-type-order="21">
+<table-wrap id="102118183090MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Table 2 summarizes the results of the optimization study considering a restriction to produce a given maximum gas production rate and another case without restrictions in the separator. Each case resulted in a different set of ICD nozzle orifices that maximized the financial function. A color scale was added (red the lowest, green the highest) to identify the best performance of the financial function with and without production gas rate constraint.</anchoringText>
+<label>Table 2</label>
+<caption>Optimization of the financial function for different WHPs.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Optimization of the financial function for different WHPs.</caption-text>
+</formatted-caption>
+<table id="102118183090MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th colspan="3" valign="bottom" align="left" />
+<th colspan="5" valign="bottom" align="right" bgcolor="#4472C4">Financial Function ($/d) per WHP (kPag)</th>
+</tr>
+<tr>
+<th valign="bottom" align="left" bgcolor="#4472C4">Case Name</th>
+<th valign="bottom" align="left" bgcolor="#4472C4">Case Description</th>
+<th valign="bottom" align="left" bgcolor="#4472C4">Constraints</th>
+<th valign="bottom" align="right" bgcolor="#4472C4">500</th>
+<th valign="bottom" align="right" bgcolor="#4472C4">2000</th>
+<th valign="bottom" align="right" bgcolor="#4472C4">3500</th>
+<th valign="bottom" align="right" bgcolor="#4472C4">5000</th>
+<th valign="bottom" align="right" bgcolor="#4472C4">6000</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">MAX-001</td>
+<td valign="bottom" align="left">Maximization $</td>
+<td valign="bottom" align="left">0.5 MMSCFD @ WH</td>
+<td valign="bottom" align="right" bgcolor="#F8696B">-202.3</td>
+<td valign="bottom" align="right" bgcolor="#F98871">25.9</td>
+<td valign="bottom" align="right" bgcolor="#FBB178">318.7</td>
+<td valign="bottom" align="right" bgcolor="#FDD37F">564.4</td>
+<td valign="bottom" align="right" bgcolor="#FDD07E">541.3</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">MAX-002</td>
+<td valign="bottom" align="left">Maximization $</td>
+<td valign="bottom" align="left">No Constraint</td>
+<td valign="bottom" align="right" bgcolor="#63BE7B">2407.6</td>
+<td valign="bottom" align="right" bgcolor="#72C37C">2249.4</td>
+<td valign="bottom" align="right" bgcolor="#81C77D">2092.8</td>
+<td valign="bottom" align="right" bgcolor="#A8D27F">1667.2</td>
+<td valign="bottom" align="right" bgcolor="#F0E784">894.2</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="18" table-order="3" data-type-order="25">
+<table-wrap id="102118183090MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">The second ICD device can also be used for other applications outside the scope of this paper. Since M2 is the zone bearing the most movable oil, the decision has been taken to allow for maximization of M2 production by installing a special size ICD of 198.6 mm2 that is erosion resistant. Table 3 is a summary the final ICD nozzle configuration. This maximum throat area was designed considering future elimination of the existing surface constraints, so the well could be tested and produced at its full potential.</anchoringText>
+<label>Table 3</label>
+<caption>ICD settings for each valve and each zone.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>ICD settings for each valve and each zone.</caption-text>
+</formatted-caption>
+<table id="102118183090MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th align="center">Zone #s</th>
+<th valign="bottom" align="center">Nozzle Ports (PP) open</th>
+<th align="center"># of CFN1</th>
+<th align="center"># of CFN2</th>
+<th align="center"># of SFN</th>
+<th align="center"># of Plugs</th>
+<th valign="bottom" align="center">Throat Area (mm<sup>^</sup>2)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3" align="center"><b>M1</b></td>
+<td valign="bottom" align="center"><b>PP1</b></td>
+<td valign="top" align="center"><b>
+</b></td>
+<td valign="bottom" align="center"><b>4</b></td>
+<td valign="top" align="center"><b>
+</b></td>
+<td valign="top" align="center"><b>
+</b></td>
+<td valign="bottom" align="center"><b>103.2</b></td>
+</tr>
+<tr>
+<td valign="bottom" align="center"><b>PP2</b></td>
+<td valign="bottom" align="center"><b>3</b></td>
+<td valign="top" align="center"><b>
+</b></td>
+<td valign="top" align="center"><b>
+</b></td>
+<td valign="bottom" align="center"><b>1</b></td>
+<td valign="bottom" align="center"><b>25.6</b></td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#FFFF00"><b>Both</b></td>
+<td valign="bottom" align="center" bgcolor="#FFFF00"><b>3</b></td>
+<td valign="bottom" align="center" bgcolor="#FFFF00"><b>4</b></td>
+<td valign="bottom" align="center" bgcolor="#FFFF00"><b>0</b></td>
+<td valign="bottom" align="center" bgcolor="#FFFF00"><b>1</b></td>
+<td valign="bottom" align="center" bgcolor="#FFFF00"><b>128.9</b></td>
+</tr>
+<tr>
+<td valign="top" align="center"><b>
+</b></td>
+<td colspan="6" valign="top" align="center"><b>
+</b></td>
+</tr>
+<tr>
+<td rowspan="3" align="center"><b>M2</b></td>
+<td valign="bottom" align="center"><b>PP1</b></td>
+<td valign="top" align="center"><b>
+</b></td>
+<td valign="bottom" align="center"><b>4</b></td>
+<td valign="top" align="center"><b>
+</b></td>
+<td valign="top" align="center"><b>
+</b></td>
+<td valign="bottom" align="center"><b>103.2</b></td>
+</tr>
+<tr>
+<td valign="bottom" align="center"><b>PP2</b></td>
+<td valign="top" align="center"><b>
+</b></td>
+<td valign="top" align="center"><b>
+</b></td>
+<td valign="bottom" align="center"><b>4</b></td>
+<td valign="bottom" align="center"><b>0</b></td>
+<td valign="bottom" align="center"><b>198.6</b></td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#FFFF00"><b>Both</b></td>
+<td valign="bottom" align="center" bgcolor="#FFFF00"><b>0</b></td>
+<td valign="bottom" align="center" bgcolor="#FFFF00"><b>4</b></td>
+<td valign="bottom" align="center" bgcolor="#FFFF00"><b>4</b></td>
+<td valign="bottom" align="center" bgcolor="#FFFF00"><b>0</b></td>
+<td valign="bottom" align="center" bgcolor="#FFFF00"><b>301.8</b></td>
+</tr>
+<tr>
+<td colspan="7" valign="top" align="center"><b>
+</b></td>
+</tr>
+<tr>
+<td rowspan="3" align="center"><b>M3</b></td>
+<td valign="bottom" align="center"><b>PP1</b></td>
+<td valign="top" align="center"><b>
+</b></td>
+<td valign="bottom" align="center"><b>4</b></td>
+<td valign="top" align="center"><b>
+</b></td>
+<td valign="top" align="center"><b>
+</b></td>
+<td valign="bottom" align="center"><b>103.2</b></td>
+</tr>
+<tr>
+<td valign="bottom" align="center"><b>PP2</b></td>
+<td valign="bottom" align="center"><b>3</b></td>
+<td valign="top" align="center"><b>
+</b></td>
+<td valign="top" align="center"><b>
+</b></td>
+<td valign="bottom" align="center"><b>1</b></td>
+<td valign="bottom" align="center"><b>25.6</b></td>
+</tr>
+<tr>
+<td valign="bottom" align="center" bgcolor="#FFFF00"><b>Both</b></td>
+<td valign="bottom" align="center" bgcolor="#FFFF00"><b>3</b></td>
+<td valign="bottom" align="center" bgcolor="#FFFF00"><b>4</b></td>
+<td valign="bottom" align="center" bgcolor="#FFFF00"><b>0</b></td>
+<td valign="bottom" align="center" bgcolor="#FFFF00"><b>1</b></td>
+<td valign="bottom" align="center" bgcolor="#FFFF00"><b>128.9</b></td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="19" table-order="4" data-type-order="27">
+<table-wrap id="102118183090MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">The ICD sizes were determined based on technical analysis and the financial function stipulating the best economic outcome is achieved by maximizing the oil rate, which only increased significantly at high production rates with the net effect of choking back production from M3. Table 4 summarizes the outcome of the well test results of the ICDs (only PP1 in ICD mode) in comparison to the well test results prior to recompletion (no ICDs, no AICVs).</anchoringText>
+<label>Table 4</label>
+<caption>Well performance summary, ICD (PP1 per zone) vs. no-ICD modes.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Well performance summary, ICD (PP1 per zone) vs. no-ICD modes.</caption-text>
+</formatted-caption>
+<table id="102118183090MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th rowspan="3" align="center">Results Summary</th>
+<th colspan="2" rowspan="3" align="center">
+<i>Comparison </i>
+<i>vs Baseline</i>
+</th>
+<th colspan="2" align="center">Highest Rates</th>
+<th colspan="6" align="center">Averages</th>
+</tr>
+<tr>
+<th align="center">Liquid</th>
+<th align="center">Oil</th>
+<th align="center">Liquid</th>
+<th align="center">Oil</th>
+<th align="center">GOR</th>
+<th align="center">THP</th>
+<th align="center">Oil Cut</th>
+<th align="center">Water</th>
+</tr>
+<tr>
+<th align="center">bpd</th>
+<th align="center">bopd</th>
+<th align="center">bpd</th>
+<th align="center">bopd</th>
+<th align="center">scf/bbl</th>
+<th align="center">Kpa</th>
+<th align="center">%</th>
+<th align="center">%</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td colspan="3" align="right"><b>BaseLine: Commingled in Ml, M2 &amp; M3 (No ICDs/AICVs)</b></td>
+<td align="center"><b>2,050</b></td>
+<td align="center"><b>10</b></td>
+<td align="center"><b>1,100</b></td>
+<td align="center"><b>5</b></td>
+<td align="center"><b>32,000</b></td>
+<td align="center"><b>7100</b></td>
+<td align="center"><b>0.4</b></td>
+<td align="center"><b>99.6</b></td>
+</tr>
+<tr>
+<td colspan="3" align="right"><b>3 ICDs in Ml, M2 &amp; M3</b></td>
+<td align="center"><b>4,200</b></td>
+<td align="center"><b>72</b></td>
+<td align="center"><b>3,500</b></td>
+<td align="center"><b>45</b></td>
+<td align="center"><b>10,500</b></td>
+<td align="center"><b>3,500</b></td>
+<td align="center"><b>1.3</b></td>
+<td align="center"><b>98.7</b></td>
+</tr>
+<tr>
+<td colspan="2" rowspan="2" align="right"><i>Improvement</i></td>
+<td align="right">
+<i>Units</i>
+</td>
+<td align="center">
+<i>2,150</i>
+</td>
+<td align="center">
+<i>62</i>
+</td>
+<td align="center">
+<i>2,400</i>
+</td>
+<td align="center">
+<i>40</i>
+</td>
+<td align="center">
+<i>-21,500</i>
+</td>
+<td align="center">
+<i>-3,600</i>
+</td>
+<td align="center">
+<i>0.8</i>
+</td>
+<td align="center">
+<i>-0.9</i>
+</td>
+</tr>
+<tr>
+<td align="right">
+<i>%</i>
+</td>
+<td align="center">
+<i>100%</i>
+</td>
+<td align="center">
+<i>600%</i>
+</td>
+<td align="center">
+<i>220%</i>
+</td>
+<td align="center">
+<i>810%</i>
+</td>
+<td align="center">
+<i>-70%</i>
+</td>
+<td align="center">
+<i>-50%</i>
+</td>
+<td align="center">
+<i>190%</i>
+</td>
+<td align="center">
+<i>-0.9%</i>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

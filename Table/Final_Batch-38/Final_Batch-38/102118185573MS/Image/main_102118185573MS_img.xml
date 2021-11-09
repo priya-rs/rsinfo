@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185573MS.txt" extractionDate="2021-03-26T11:52:36Z">
+<doi>10.2118/185573-MS</doi>
+<pii>10.2118/185573-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr17">From there, we can choose among three estimation alternatives. They are schematized in Fig. Nº 1; the third column corresponds to the hybrid model.</anchoringText>
+<image-wrap id="102118185573MS-Img_SPi-1">
+<label>Figure Nº 1</label>
+<imageLink type="mediaResource" href="102118185573MS_i_1.tif" id="ImgLink-1" />
+<caption> Scheme of the three estimation alternatives</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>Nº 1</caption-order>
+<caption-text> Scheme of the three estimation alternatives</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr18">As a result of this procedure, a new CDF for the Proved Reserves is obtained and, consequently, the limit (PX) where the probable reserves become proved reserves can be estimated. Here “X” is the minimum condition of probability (%) to become 1P reserves. Fig. Nº 2 illustrates this procedure. In this way, the Proved Reserves will be estimated with less uncertainty for each drilling project (see third column of Fig. Nº1).</anchoringText>
+<image-wrap id="102118185573MS-Img_SPi-2">
+<label>Figure Nº 2</label>
+<imageLink type="mediaResource" href="102118185573MS_i_2.tif" id="ImgLink-2" />
+<caption> Scheme of CDF´s de integration for the Hybrid Method</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>Nº 2</caption-order>
+<caption-text> Scheme of CDF´s de integration for the Hybrid Method</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr19">Block XYZ is a “Typical Block” that represents the actual operation conditions in Talara Basin, City of Talara – Regional Department Piura – Region Grau. The geographical location is shown in Fig. N°3.</anchoringText>
+<image-wrap id="102118185573MS-Img_SPi-3">
+<label>Figure Nº 3</label>
+<imageLink type="mediaResource" href="102118185573MS_i_3.tif" id="ImgLink-3" />
+<caption> Case study - Block XYZ in Talara Basin – Peruvian N.O.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>Nº 3</caption-order>
+<caption-text> Case study - Block XYZ in Talara Basin – Peruvian N.O.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr20">The history production evaluation by the declined curves analysis is relevant in reserves estimation and production forecasts. Fig. N°4 shows that Block XYZ has enough information of the available production. The decline curve analysis technique is based on the assumption that the past production tendencies and their control factors will continue in the future, and, therefore, they can be extrapolated and described by a mathematical equation.</anchoringText>
+<image-wrap id="102118185573MS-Img_SPi-4">
+<label>Figure Nº 4</label>
+<imageLink type="mediaResource" href="102118185573MS_i_4.tif" id="ImgLink-4" />
+<caption> Production history of Block XYZ.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>Nº 4</caption-order>
+<caption-text> Production history of Block XYZ.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr21">Fig. N°5 shows the three generated scenarios by the hyperbolic and exponential equations.</anchoringText>
+<image-wrap id="102118185573MS-Img_SPi-5">
+<label>Figure N°5</label>
+<imageLink type="mediaResource" href="102118185573MS_i_5.tif" id="ImgLink-5" />
+<caption> Forecast computed by the three Deterministic Basic Decline Curves (2016–2035).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>N°5</caption-order>
+<caption-text> Forecast computed by the three Deterministic Basic Decline Curves (2016–2035).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="6" data-type-order="15">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr22">Then, the probabilistic approach is included by applying the Monte Carlo simulation. The “b” and “D” parameters follow the “Betapert” PDFs shown in Figs. N° 6 and N° 7. Again, a correlation between both parameters is considered. For each project, using these PDFs, the initial flow rates shown in Table N° 4 and the Monte Carlo simulation with the hyperbolic equations, we can estimate a range of percentiles-associated flow rates.</anchoringText>
+<image-wrap id="102118185573MS-Img_SPi-6">
+<label>Figure Nº 6</label>
+<imageLink type="mediaResource" href="102118185573MS_i_6.tif" id="ImgLink-6" />
+<caption> Betapert PDF for “b” parameter of the decline Type Curve.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>Nº 6</caption-order>
+<caption-text> Betapert PDF for “b” parameter of the decline Type Curve.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="7" data-type-order="16">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr23">Then, the probabilistic approach is included by applying the Monte Carlo simulation. The “b” and “D” parameters follow the “Betapert” PDFs shown in Figs. N° 6 and N° 7. Again, a correlation between both parameters is considered. For each project, using these PDFs, the initial flow rates shown in Table N° 4 and the Monte Carlo simulation with the hyperbolic equations, we can estimate a range of percentiles-associated flow rates.</anchoringText>
+<image-wrap id="102118185573MS-Img_SPi-7">
+<label>Figure Nº 7</label>
+<imageLink type="mediaResource" href="102118185573MS_i_7.tif" id="ImgLink-7" />
+<caption> Betapert PDF for “D” parameter of the decline type curve.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>Nº 7</caption-order>
+<caption-text> Betapert PDF for “D” parameter of the decline type curve.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="8" data-type-order="19">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr24">Fig. N° 8 displays the CDF of the PND reserves for the 1PX Project, estimated by the probabilistic decline curve method.</anchoringText>
+<image-wrap id="102118185573MS-Img_SPi-8">
+<label>Figure Nº 8</label>
+<imageLink type="mediaResource" href="102118185573MS_i_8.tif" id="ImgLink-8" />
+<caption> CDF of the PND Reserves for the 1PX Project</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>Nº 8</caption-order>
+<caption-text> CDF of the PND Reserves for the 1PX Project</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="9" data-type-order="20">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr25">According to the Hybrid Model, the CDF of the reserves (1P, 2P and 3P) estimated by the probabilistic volumetric method and the CDF of the PND reserves obtained by the probabilistic decline curve method must be integrated. In this way, both probabilistic distributions are correlated and normalized in order to find a unique CDF of reserves. Fig. N° 9 and Table N° 12 illustrate how the reserves estimated by probabilistic decline curve method are coupled coherently with those obtained by the probabilistic volumetric method.</anchoringText>
+<image-wrap id="102118185573MS-Img_SPi-9">
+<label>Figure Nº 9</label>
+<imageLink type="mediaResource" href="102118185573MS_i_9.tif" id="ImgLink-9" />
+<caption> Normalization and Correlation of probabilistic distributions obtained by the Volumetric (1P, 2P and 3P) and Decline Curve (1P) Methods</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>Nº 9</caption-order>
+<caption-text> Normalization and Correlation of probabilistic distributions obtained by the Volumetric (1P, 2P and 3P) and Decline Curve (1P) Methods</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="10" data-type-order="22">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr26">The CDF of Reserves for Project 1PX is shown in Fig. N°10. Using this probabilistic distribution, the proved non-developed reserves are estimated. From Table N°12 and Fig. N°10 we can see that the limit between proved and probable reserves is 102.64 M STB with a probability of 61 % (certainty minimum condition). These values are obtained inserting the reserves estimated by the decline curve method up to the maximum (102.64 M STB) into the 1P, 2P and 3P reserves estimated by the volumetric method (105.1 M STB in the 40 % percentile). Therefore, for 1PX project, Proved reserves are determined using P61 percentile with the Hybrid method instead of using P90 percentile according the PRMS classification.</anchoringText>
+<image-wrap id="102118185573MS-Img_SPi-10">
+<label>Figure Nº 10</label>
+<imageLink type="mediaResource" href="102118185573MS_i_10.tif" id="ImgLink-10" />
+<caption> CDF of Reserves estimated by the Hybrid Method for 1PX project</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>Nº 10</caption-order>
+<caption-text> CDF of Reserves estimated by the Hybrid Method for 1PX project</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="11" data-type-order="25">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr27">Fig. N°11 and Fig. N°12 display the percentile distribution estimated by the Hybrid Method of oil flow rate and cumulative oil production, respectively. Fig. N°11 shows peaks when planned wells are incorporated and abrupt falls when wells are abandoned.</anchoringText>
+<image-wrap id="102118185573MS-Img_SPi-11">
+<label>Figure Nº 11</label>
+<imageLink type="mediaResource" href="102118185573MS_i_11.tif" id="ImgLink-11" />
+<caption> Oil rate forecast by percentiles estimated by the Hybrid Method</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>Nº 11</caption-order>
+<caption-text> Oil rate forecast by percentiles estimated by the Hybrid Method</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="12" data-type-order="26">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr28">Fig. N°11 and Fig. N°12 display the percentile distribution estimated by the Hybrid Method of oil flow rate and cumulative oil production, respectively. Fig. N°11 shows peaks when planned wells are incorporated and abrupt falls when wells are abandoned.</anchoringText>
+<image-wrap id="102118185573MS-Img_SPi-12">
+<label>Figure Nº 12</label>
+<imageLink type="mediaResource" href="102118185573MS_i_12.tif" id="ImgLink-12" />
+<caption> Cumulative oil production forecast by percentiles estimated by the Hybrid Method (Total Proved Reserves 1P)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>Nº 12</caption-order>
+<caption-text> Cumulative oil production forecast by percentiles estimated by the Hybrid Method (Total Proved Reserves 1P)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185701MS.txt" extractionDate="2021-03-27T15:15:44Z">
+<doi>10.2118/185701-MS</doi>
+<pii>10.2118/185701-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="13" table-order="1" data-type-order="8">
+<table-wrap id="102118185701MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The six operational decision parameters investigated for the immiscible GAGD production optimization are: maximum oil production rates (MAXJSTO), minimum bottom hole pressure (MIN_BHP), water-cut (MAX_WCUT), and skin factor in production wells, along with maximum gas rate (MAX_BHG) and minimum bottom hole injection pressure (MAX_BHP) in injection wells. Table 1 illustrates the values of the base case simulation of the GAGD process in addition to the ranges of each parameter (minimum and maximum levels) in the optimization process.</anchoringText>
+<label>Table 1</label>
+<caption>Parameters of the GAGD Production Optimization</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Parameters of the GAGD Production Optimization</caption-text>
+</formatted-caption>
+<table id="102118185701MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th align="right">Response</th>
+<th align="right">Min</th>
+<th align="right">Base Case</th>
+<th align="right">Max</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">CumOilProd, STB</td>
+<td align="right">4.2208E09</td>
+<td align="right">4.3887E09</td>
+<td align="right">4.6039E09</td>
+</tr>
+<tr>
+<td align="right">Factor</td>
+<td align="right">Min</td>
+<td align="right">Base Case</td>
+<td align="right">Max</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">MAXJSTO, STB/ DAY</td>
+<td align="right">350000</td>
+<td valign="top" align="right">750000</td>
+<td align="right">625000</td>
+</tr>
+<tr>
+<td align="left">MIN_BHP, Psia</td>
+<td valign="bottom" align="right">2000</td>
+<td valign="bottom" align="right">2660</td>
+<td align="right">3500</td>
+</tr>
+<tr>
+<td align="left">MAXWCUT</td>
+<td align="right">0.7</td>
+<td align="right">0.95</td>
+<td align="right">0.9</td>
+</tr>
+<tr>
+<td align="left">Skin Factor</td>
+<td valign="bottom" align="right">5</td>
+<td valign="bottom" align="right">0</td>
+<td valign="bottom" align="right">15</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">MAXBHG, <i>/t<sup>3</sup>/ DAY</i>
+</td>
+<td valign="top" align="right">7.5E06</td>
+<td valign="top" align="right">10E06</td>
+<td valign="top" align="right">15E06</td>
+</tr>
+<tr>
+<td align="left">MAXBHP, Psia</td>
+<td align="right">2000</td>
+<td align="right">3000</td>
+<td align="right">3500</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="18" table-order="2" data-type-order="17">
+<table-wrap id="102118185701MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The cumulative oil production by the end of the prediction period through base case-GAGD process was 4.3887 billion STB. However, the optimal solution, obtained from LHS-based proxy pptimization (OptimalCase), led to increase the cumulative oil production to 4.6039 billion STB. The incremental oil recovery is 215.2 million STB, as illustrated in Figure 15, which compares the base case and optimal GAGD process performance along with the primary production case of no injection. The optimal cumulative oil production was acquired by obtaining the optimal levels of all the production control factors, which are illustrated in Table 2.</anchoringText>
+<label>Table 2</label>
+<caption>Optimal Levels of the Operational Decision Factors in Comparison with the Base Case</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Optimal Levels of the Operational Decision Factors in Comparison with the Base Case</caption-text>
+</formatted-caption>
+<table id="102118185701MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th align="right">Response</th>
+<th align="right">Base Case</th>
+<th align="right">Optimal</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="right">CumOilProd, STB</td>
+<td valign="bottom" align="right">4.3887E09</td>
+<td valign="bottom" align="right">4.6039E09</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Factor</td>
+<td valign="bottom" align="right">Base Case</td>
+<td valign="bottom" align="right">Optimal</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">MAXSTO, STB/DAY</td>
+<td valign="bottom" align="right">750000</td>
+<td valign="bottom" align="right">500000</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">MIN_BHP, Psia</td>
+<td valign="bottom" align="right">2660</td>
+<td valign="bottom" align="right">2000</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">MAXWCUT</td>
+<td valign="bottom" align="right">0.95</td>
+<td valign="bottom" align="right">0.9</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Skin Factor</td>
+<td valign="bottom" align="right">0</td>
+<td valign="bottom" align="right">5</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">MAXJBHG, <i>ft<sup>3</sup>/DAY</i>
+</td>
+<td valign="bottom" align="right">10E06</td>
+<td valign="bottom" align="right">15E06</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">MAXBHP, Psia</td>
+<td valign="bottom" align="right">3000</td>
+<td valign="bottom" align="right">3500</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

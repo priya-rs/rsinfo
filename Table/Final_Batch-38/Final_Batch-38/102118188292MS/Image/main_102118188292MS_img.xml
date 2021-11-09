@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118188292MS.txt" extractionDate="2021-03-25T19:18:16Z">
+<doi>10.2118/188292-MS</doi>
+<pii>10.2118/188292-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr4">The subject reservoir is the largest and thickest reservoir having the most oil in place (OIP) in the field and extends around 35 km in the East-West direction, 20 km in the North-South direction and has an average thickness of 140 ft. The reservoir is subdivided into 6 minor sub-reservoirs (Layer A to Layer F) and stylolite layers are intercalated between sub-reservoirs. The stylolite layers are tight but not zero-permeable and the communications between sub-reservoirs are observed by the data obtained from log and dynamic testing throughout the whole field. As shown in Fig. 1, this reservoir is sectorized into five areas based on geological similarity – North East, Heterogeneous, Homogeneous, Near West and West area. The North East area is fractured and faulted, having high heterogeneity and uncertainty of geology. The Near West area is relatively tight and homogeneous.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118188292MS_i_1.tif" id="ImgLink-1" />
+<caption>Geological Similar Area</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Geological Similar Area</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr5">The Heterogeneous area is permeable and heterogeneous with high-perm streaks (HKS) in the upper layers (i.e. Layer A to C). HKS have several hundred mD permeability compared with 5-20 mD matrix (non-HKS) permeability. Fig. 2 shows the HKS distribution in the reservoir with boundaries of Heterogeneous and Homogeneous area. Due to the high permeability contrast with non-HKS layers, HKS has a significant impact on the fluid behavior in the reservoir for both water injection and gas injection; hence, the assessment of this impact is a key criterion for successful miscible EOR implementation. We previously conducted a multi-year screening study to select the primary target areas for miscible EOR (Willingham et al. 2016).</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118188292MS_i_2.tif" id="ImgLink-2" />
+<caption>HKS Distribution Map with EOR Target Area Boundaries</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>HKS Distribution Map with EOR Target Area Boundaries</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr6">For the subject field, in the early 2000s, a series of laboratory tests including conventional and special PVT tests (e.g. slimtube test, swelling test) and conventional and special core analysis (e.g. miscible gas coreflood tests) was initiated. As a result of the laboratory test, the MMP (Minimum Miscible Pressure) for HC (hydrocarbon) gas and CO2 gas was estimated as 3750 psi and 2500 psi, respectively, by the slimtube test. Fig. 3 shows slimtube test results (plot of RF with pressure).</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118188292MS_i_3.tif" id="ImgLink-3" />
+<caption>MMP Estimation from Slimtube Test Result</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>MMP Estimation from Slimtube Test Result</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="4" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr7">EOS (Equation of State) is one of the most important input parameters for compositional simulation to replicate fluid behavior under the reservoir condition. For the subject field, the EOS had been tuned to match the laboratory test of HC gas injection but had not been tuned to match the laboratory test of CO2 injection. The MMP of CO2 estimated by slimtube test was 2570 psi but the MMP of CO2 estimated by simulation was 3770 psi, while the MMP of HC gas estimated by slimtube test was 3770 psi and the MMP of HC gas estimated by simulation was 3670 psi as shown in Fig. 4. Hence, 1D simulations replicating the slimtube test were developed and the EOS parameters were tuned to match simulation result with actual lab test results.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-4">
+<label>Figure 4</label>
+<imageLink type="mediaResource" href="102118188292MS_i_4.tif" id="ImgLink-4" />
+<caption>MMP Comparison of Experimental Result with Simulation Result before EOS Tuning</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>MMP Comparison of Experimental Result with Simulation Result before EOS Tuning</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118188292MS_i_4a.tif" id="ImgLink-4a" />
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118188292MS_i_4b.tif" id="ImgLink-4b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr8">Fig. 5 shows the plot for the pressure with recovery factor and MMP estimated from the lab test and simulation results with tuned EOS. The MMP of CO2 with tuned EOS (2880 psi) is close to the actual laboratory test result compared with pre-tuned EOS result (3770 psi). Although the MMP with tuned EOS is still not exactly matched with the lab test result (2570 psi), it deviates to the ‘conservative’ side. In the near miscible region (i.e. in the region below the calculated MMP), simulation results will be conservative, which bodes well for our predictions. The impact of EOS tuning on the MMP of HC gas was limited because only parameters related to the CO2 component were tuned and the CO2 composition in HC gas is only 3%as shown in Table 1.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118188292MS_i_5.tif" id="ImgLink-5" />
+<caption>CO<sub>2</sub> MMP Comparison of Experimental Result with Simulation Result after EOS Tuning</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>CO<sub>2</sub> MMP Comparison of Experimental Result with Simulation Result after EOS Tuning</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="5" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr9">In order to understand the injected gas behavior and optimize the gas injection scheme, a simulation study using sector models was conducted. First, the impact of simulation grid size was investigated. Fig. 6 and Fig. 7 shows the impact of the grid size on the injected gas behavior and oil recovery in miscible CO2 flooding simulation. The injected gas in the fine grid model overrides more sharply relative to the coarse grid model and hence the recovery of the coarse grid model is higher than the fine grid model result (i.e. the coarse grid model overestimate the recovery). Hence, it is important to use a fine grid model to minimize the grid size effect. However, a fine grid model increases the number of total grids resulting in a significant increase of simulation run time.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-6">
+<label>Figure 6</label>
+<imageLink type="mediaResource" href="102118188292MS_i_6.tif" id="ImgLink-6" />
+<caption>Cross-sections of CO<sub>2</sub> Mole Fraction</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Cross-sections of CO<sub>2</sub> Mole Fraction</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118188292MS_i_6a.tif" id="ImgLink-6a" />
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118188292MS_i_6b.tif" id="ImgLink-6b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr10">In order to understand the injected gas behavior and optimize the gas injection scheme, a simulation study using sector models was conducted. First, the impact of simulation grid size was investigated. Fig. 6 and Fig. 7 shows the impact of the grid size on the injected gas behavior and oil recovery in miscible CO2 flooding simulation. The injected gas in the fine grid model overrides more sharply relative to the coarse grid model and hence the recovery of the coarse grid model is higher than the fine grid model result (i.e. the coarse grid model overestimate the recovery). Hence, it is important to use a fine grid model to minimize the grid size effect. However, a fine grid model increases the number of total grids resulting in a significant increase of simulation run time.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118188292MS_i_7.tif" id="ImgLink-7" />
+<caption>Recovery Factor Comparison of Fine Grid Model with Coarse Grid Model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Recovery Factor Comparison of Fine Grid Model with Coarse Grid Model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr11">For the subject field, it is well known that the HKS in the upper layers have a significant impact on the behavior of water injection. Fig. 8-(a) shows an example of typical water distribution after several years of water injection. The injected water overrides towards the HKS flooding the upper layers selectively. In theory, the water in upper layers will slump due to gravity; however, in the reservoir, the water is held in the upper layers against the gravity force due to the capillary force. Fig. 8-(b) shows the capillary pressure curves of HKS layer and matrix (non-HKS) layer.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-8">
+<label>Figure 8</label>
+<imageLink type="mediaResource" href="102118188292MS_i_8.tif" id="ImgLink-8" />
+<caption>Mechanism of Capillary Holding (a) Water Saturation after Several Years Water Flooding, (b) Capillary Pressure Curves of HKS and non-HKS Layers</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Mechanism of Capillary Holding (a) Water Saturation after Several Years Water Flooding, (b) Capillary Pressure Curves of HKS and non-HKS Layers</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118188292MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Water Saturation after Several Years Water Flooding</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118188292MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Capillary Pressure Curves of HKS and non-HKS Layers</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr12">The producer was controlled to sustain the target oil rate and injectors were controlled to maintain the average reservoir pressure at 4200 psi which is higher than the MMP of CO2 and HC gas. The WAG injection started after 45 years and 72 years water injection for Heterogeneous and Homogeneous model, respectively, in order to be matured for the tertiary mode WAG injection. The simulation models are shown in Fig. 9 and Table 2 summarizes the model characteristics.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118188292MS_i_9.tif" id="ImgLink-9" />
+<caption>2D Simulation Models</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>2D Simulation Models</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr13">Firstly, WAG ratio was investigated in order to determine an optimal injection scheme. WAG operations with constant ratios of 4:1 (4 years water injection to 1 year gas injection), 2:1 and 1:1 were evaluated. Fig. 10 and Fig. 11 show the impact of using various constant CO2 WAG ratios for the Heterogeneous and Homogeneous models, respectively. Here, a shorter WAG ratio (1:1) provides faster response and gas breakthrough but less overall recovery due to the wells shutting in due to high GOR. Longer WAG ratio (4:1) has a slower oil recovery response and gas breakthrough but overall higher recovery.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-10">
+<label>Figure 10</label>
+<imageLink type="mediaResource" href="102118188292MS_i_10.tif" id="ImgLink-10" />
+<caption>Sensitivity of WAG ratio –Heterogeneous Model (a) Oil Recovery, (b) GOR</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Sensitivity of WAG ratio –Heterogeneous Model (a) Oil Recovery, (b) GOR</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118188292MS_i_10a.tif" id="ImgLink-10a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Oil Recovery</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118188292MS_i_10b.tif" id="ImgLink-10b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>GOR</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="11" data-type-order="13">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr14">Firstly, WAG ratio was investigated in order to determine an optimal injection scheme. WAG operations with constant ratios of 4:1 (4 years water injection to 1 year gas injection), 2:1 and 1:1 were evaluated. Fig. 10 and Fig. 11 show the impact of using various constant CO2 WAG ratios for the Heterogeneous and Homogeneous models, respectively. Here, a shorter WAG ratio (1:1) provides faster response and gas breakthrough but less overall recovery due to the wells shutting in due to high GOR. Longer WAG ratio (4:1) has a slower oil recovery response and gas breakthrough but overall higher recovery.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-11">
+<label>Figure 11</label>
+<imageLink type="mediaResource" href="102118188292MS_i_11.tif" id="ImgLink-11" />
+<caption>Sensitivity of WAG ratio –Homogeneous Model (a) Oil Recovery, (b) GOR</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Sensitivity of WAG ratio –Homogeneous Model (a) Oil Recovery, (b) GOR</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118188292MS_i_11a.tif" id="ImgLink-11a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Oil Recovery</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118188292MS_i_11b.tif" id="ImgLink-11b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>GOR</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="12" data-type-order="15">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr15">In order to resolve the disadvantage of these cases, the concept of ‘Tapered’ WAG was utilized (Khan et al. 2016). In the Tapered WAG, the durations of gas injection vary over time with longer gas injection cycles occurring earlier while shorter gas cycles occur later (Table 3 and Fig. 12). The goal of using a Tapered WAG process is to accelerate the response time and optimize gas utilization without adversely impacting oil recovery. Fig. 13 and Fig. 14 show the comparison of Tapered CO2 WAG with constant CO2 WAG (4:1) and the effects on recovery factor and GOR for Heterogeneous and Homogeneous model, respectively.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-12">
+<label>Figure 12</label>
+<imageLink type="mediaResource" href="102118188292MS_i_12.tif" id="ImgLink-12" />
+<caption>Tapered WAG Injection Rate Profile for "Constant" WAG \&amp; "Tapered WAG", Red: Gas Blue: Water Green: Oil</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Tapered WAG Injection Rate Profile for "Constant" WAG \&amp; "Tapered WAG", Red: Gas Blue: Water Green: Oil</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118188292MS_i_12a.tif" id="ImgLink-12a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Injection Rate Profile for "Constant" WAG \&amp; "Tapered WAG"</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118188292MS_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Red: Gas Blue: Water Green: Oil</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="9" figure-order="13" data-type-order="16">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr16">In order to resolve the disadvantage of these cases, the concept of ‘Tapered’ WAG was utilized (Khan et al. 2016). In the Tapered WAG, the durations of gas injection vary over time with longer gas injection cycles occurring earlier while shorter gas cycles occur later (Table 3 and Fig. 12). The goal of using a Tapered WAG process is to accelerate the response time and optimize gas utilization without adversely impacting oil recovery. Fig. 13 and Fig. 14 show the comparison of Tapered CO2 WAG with constant CO2 WAG (4:1) and the effects on recovery factor and GOR for Heterogeneous and Homogeneous model, respectively.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-13">
+<label>Figure 13</label>
+<imageLink type="mediaResource" href="102118188292MS_i_13.tif" id="ImgLink-13" />
+<caption>Tapered WAG Injection –Heterogeneous Model (a) Oil Recovery, (b) GOR, (c) Cumulative Gas Usage</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Tapered WAG Injection –Heterogeneous Model (a) Oil Recovery, (b) GOR, (c) Cumulative Gas Usage</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118188292MS_i_13a.tif" id="ImgLink-13a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Oil Recovery</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118188292MS_i_13b.tif" id="ImgLink-13b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>GOR</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-13c">
+<imageLink type="mediaResource" href="102118188292MS_i_13c.tif" id="ImgLink-13c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Cumulative Gas Usage</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="10" figure-order="14" data-type-order="17">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr17">In order to resolve the disadvantage of these cases, the concept of ‘Tapered’ WAG was utilized (Khan et al. 2016). In the Tapered WAG, the durations of gas injection vary over time with longer gas injection cycles occurring earlier while shorter gas cycles occur later (Table 3 and Fig. 12). The goal of using a Tapered WAG process is to accelerate the response time and optimize gas utilization without adversely impacting oil recovery. Fig. 13 and Fig. 14 show the comparison of Tapered CO2 WAG with constant CO2 WAG (4:1) and the effects on recovery factor and GOR for Heterogeneous and Homogeneous model, respectively.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-14">
+<label>Figure 14</label>
+<imageLink type="mediaResource" href="102118188292MS_i_14.tif" id="ImgLink-14" />
+<caption>Tapered WAG Injection –Homogeneous Model (a) Oil Recovery, (b) GOR, (c) Cumulative Gas Usage</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Tapered WAG Injection –Homogeneous Model (a) Oil Recovery, (b) GOR, (c) Cumulative Gas Usage</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118188292MS_i_14a.tif" id="ImgLink-14a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Oil Recovery</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118188292MS_i_14b.tif" id="ImgLink-14b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>GOR</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-14c">
+<imageLink type="mediaResource" href="102118188292MS_i_14c.tif" id="ImgLink-14c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Cumulative Gas Usage</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="15" data-type-order="18">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr18">A WAG injectant study utilizing CO2 and HC gas was completed in order to evaluate the effectiveness of different injectants. Results indicate both injectants accelerate recovery relative to water flood and increase ultimate recovery (Fig. 15). HC gas shows a slightly less recovery for the Heterogeneous model and less recovery because of the early shut-in due to the high GOR for the Homogeneous model.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-15">
+<label>Figure 15</label>
+<imageLink type="mediaResource" href="102118188292MS_i_15.tif" id="ImgLink-15" />
+<caption>Sensitivity of Injection Fluid (a) Heterogeneous Model, (b) Homogeneous Model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Sensitivity of Injection Fluid (a) Heterogeneous Model, (b) Homogeneous Model</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-15a">
+<imageLink type="mediaResource" href="102118188292MS_i_15a.tif" id="ImgLink-15a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Heterogeneous Model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-15b">
+<imageLink type="mediaResource" href="102118188292MS_i_15b.tif" id="ImgLink-15b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Homogeneous Model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="16" data-type-order="19">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr19">In the first case, infill wells at 500m spacing were added at a 10% recovery factor and CO2 WAG was started at a 22% recovery factor for the "Infill First" case, while CO2 WAG was started at a 10%recovery factor prior to infill drilling to 500m at a 22% recovery factor in a "WAG First" case. The simulation results in Fig. 16 demonstrate that an "Infill First" strategy is preferred to maintain plateau because the WAG response with 500m spacing (i.e. "Infill First") is much faster than 1km spacing (i.e. "WAG First").</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-16">
+<label>Figure 16</label>
+<imageLink type="mediaResource" href="102118188292MS_i_16.tif" id="ImgLink-16" />
+<caption>Comparison of "Infill First" with "WAG First" Cases</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Comparison of "Infill First" with "WAG First" Cases</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-16a">
+<imageLink type="mediaResource" href="102118188292MS_i_16a.tif" id="ImgLink-16a" />
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-16b">
+<imageLink type="mediaResource" href="102118188292MS_i_16b.tif" id="ImgLink-16b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="12" figure-order="17" data-type-order="20">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr20">Fig. 17 shows the cross-sections of the CO2 mole fraction in the Tapered CO2 WAG simulation case for Heterogeneous and Homogeneous model. Gas gravity override occurred in both models but the Heterogeneous model shows more gas override in early stage due to the HKS in upper layers. This results in the faster oil recovery response and gas breakthrough in the Heterogeneous model. However, finally, both models show similar level of gas override after long time gas injection and the ultimate oil recovery uplift is also similar (8% in Heterogeneous model and 9% in Homogeneous model).</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-17">
+<label>Figure 17</label>
+<imageLink type="mediaResource" href="102118188292MS_i_17.tif" id="ImgLink-17" />
+<caption>Comparison of Gas Override for Different Geology</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Comparison of Gas Override for Different Geology</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-17a">
+<imageLink type="mediaResource" href="102118188292MS_i_17a.tif" id="ImgLink-17a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Heterogeneous Model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-17b">
+<imageLink type="mediaResource" href="102118188292MS_i_17b.tif" id="ImgLink-17b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Heterogeneous Model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="18" data-type-order="21">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr21">These models were not sector models cut from full field simulation model but synthetic models generated by populating the geological properties using a geological concept which is used in full field model as well into a simple flat structure as shown in Fig. 18. As with the 2D simulation model, two horizontal injectors with 3 km length were located at the boundaries of the model to ensure limited influence of the adjoining producing patterns and one horizontal producer with 3 km length was located at the center of injectors with 500 m spacing. The producer was controlled to sustain the target production rate and injectors were controlled to maintain the average reservoir pressure at 4200 psi.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-18">
+<label>Figure 18</label>
+<imageLink type="mediaResource" href="102118188292MS_i_18.tif" id="ImgLink-18" />
+<caption>3D Synthetic Models (a) Heterogeneous Model, (b) Homogeneous Model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>3D Synthetic Models (a) Heterogeneous Model, (b) Homogeneous Model</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-18a">
+<imageLink type="mediaResource" href="102118188292MS_i_18a.tif" id="ImgLink-18a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Heterogeneous Model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-18b">
+<imageLink type="mediaResource" href="102118188292MS_i_18b.tif" id="ImgLink-18b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Homogeneous Model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="13" figure-order="19" data-type-order="22">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr22">Fig. 19 and Fig. 20 show the performance (as measured by recovery, GOR, and gas utility) of 4:1 WAG and Tapered WAG with the Heterogeneous and Homogenous models, respectively.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-19">
+<label>Figure 19</label>
+<imageLink type="mediaResource" href="102118188292MS_i_19.tif" id="ImgLink-19" />
+<caption>3D Miscible WAG Simulation Results – Heterogeneous Synthetic Model (a) Recovery Factor, (b) Gas Oil Ratio, (c) Gas HCPVI</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>3D Miscible WAG Simulation Results – Heterogeneous Synthetic Model (a) Recovery Factor, (b) Gas Oil Ratio, (c) Gas HCPVI</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-19a">
+<imageLink type="mediaResource" href="102118188292MS_i_19a.tif" id="ImgLink-19a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Recovery Factor</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-19b">
+<imageLink type="mediaResource" href="102118188292MS_i_19b.tif" id="ImgLink-19b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Gas Oil Ratio</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-19c">
+<imageLink type="mediaResource" href="102118188292MS_i_19c.tif" id="ImgLink-19c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Gas HCPVI</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="14" figure-order="20" data-type-order="23">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr23">Fig. 19 and Fig. 20 show the performance (as measured by recovery, GOR, and gas utility) of 4:1 WAG and Tapered WAG with the Heterogeneous and Homogenous models, respectively.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-20">
+<label>Figure 20</label>
+<imageLink type="mediaResource" href="102118188292MS_i_20.tif" id="ImgLink-20" />
+<caption>3D Miscible WAG Simulation Results – Homogeneous Synthetic Model (a) Recovery Factor, (b) Gas Oil Ratio, (c) Gas HCPVI</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>3D Miscible WAG Simulation Results – Homogeneous Synthetic Model (a) Recovery Factor, (b) Gas Oil Ratio, (c) Gas HCPVI</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-20a">
+<imageLink type="mediaResource" href="102118188292MS_i_20a.tif" id="ImgLink-20a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Recovery Factor</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-20b">
+<imageLink type="mediaResource" href="102118188292MS_i_20b.tif" id="ImgLink-20b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Gas Oil Ratio</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-20c">
+<imageLink type="mediaResource" href="102118188292MS_i_20c.tif" id="ImgLink-20c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Gas HCPVI</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="14" figure-order="21" data-type-order="24">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr24">WAG response timing for the 3D Heterogeneous model (3 years) is faster than the response time for the 3D Homogeneous model (8 years) and the 2D Heterogeneous model (8 years) and captures the faster gas movement in the 3D Heterogeneous case relative to the two other cases. Fig. 21 compares the sweep efficiency between the 3D Heterogeneous case with the 3D Homogeneous case and the 2D Heterogeneous case.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-21">
+<label>Figure 21</label>
+<imageLink type="mediaResource" href="102118188292MS_i_21.tif" id="ImgLink-21" />
+<caption>Gas Volumetric Sweep Efficiency Comparison (a) 3D Heterogeneous Model, (b) 3D Homogeneous Model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>21</caption-order>
+<caption-text>Gas Volumetric Sweep Efficiency Comparison (a) 3D Heterogeneous Model, (b) 3D Homogeneous Model, (c) 2D Heterogeneous Model</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-21a">
+<imageLink type="mediaResource" href="102118188292MS_i_21a.tif" id="ImgLink-21a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>3D Heterogeneous Model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-21b">
+<imageLink type="mediaResource" href="102118188292MS_i_21b.tif" id="ImgLink-21b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>3D Homogeneous Model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-21c">
+<imageLink type="mediaResource" href="102118188292MS_i_21c.tif" id="ImgLink-21c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>2D Heterogeneous Model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="15" figure-order="22" data-type-order="25">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr25">Fig. 22 shows simulation results of miscible HC gas and miscible CO2 Tapered WAG compared to water injection for the Heterogeneous Model. Hydrocarbon gas injection results in 10% OOIP incremental versus 13% for CO2. As for the Homogeneous model, miscible hydrocarbon gas injection improves recovery by 13% OOIP versus 15% for CO2 as shown in Fig. 22. The small loss in recovery using hydrocarbon gas versus CO2 will likely be acceptable given the higher costs of CO2, increased facility costs and complexity, increased costs in tubulars including metallurgy and associated work-overs, and potential loss of hydrocarbon sales due to production of CO2 along with the associated hydrocarbon gas.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-22">
+<label>Figure 22</label>
+<imageLink type="mediaResource" href="102118188292MS_i_22.tif" id="ImgLink-22" />
+<caption>3D Miscible Tapered WAG Simulation Results with Different Injectant (a) Heterogeneous Model, (b) Homogeneous Model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>22</caption-order>
+<caption-text>3D Miscible Tapered WAG Simulation Results with Different Injectant (a) Heterogeneous Model, (b) Homogeneous Model</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-22a">
+<imageLink type="mediaResource" href="102118188292MS_i_22a.tif" id="ImgLink-22a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Heterogeneous Model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-22b">
+<imageLink type="mediaResource" href="102118188292MS_i_22b.tif" id="ImgLink-22b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Homogeneous Model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="23" data-type-order="26">
+<link href="link-23" type="image" />
+<appendix>
+<linkTarget id="link-23" type="image">
+<anchoringText id="Ancr26">Then, the simulation results of incremental oil production (stb), injected gas volume under reservoir condition (rb) and reproduced (i.e. breakthrough) gas volume (scf) were normalized to Recovery Factor (RF), Hydrocarbon Pore Volume Injected (HCPVI) and Cumulative Breakthrough Gas % based on original oil in place (OOIP), Initial Hydrocarbon Pore Volume (HCPV), and cumulative gas injection volume, respectively and two type curves which were the correlation of HCPVI with Incremental RF and HCPVI with Breakthrough Solvent % were plotted. In Step 3, the oil and gas production and injection profiles for each single-pattern were generated by denormalizing the type curves for each line drive injection pattern of full field, where 28 and 14 patterns were located in Heterogeneous and Homogeneous area, respectively, as shown in Fig. 23.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-23">
+<label>Figure 23 </label>
+<imageLink type="mediaResource" href="102118188292MS_i_23.tif" id="ImgLink-23" />
+<caption>Blocks of Single-Patterns for Miscible WAG Target Area</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>23</caption-order>
+<caption-text>Blocks of Single-Patterns for Miscible WAG Target Area</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="1" figure-order="24" data-type-order="27">
+<link href="link-24" type="image" />
+<appendix>
+<linkTarget id="link-24" type="image">
+<anchoringText id="Ancr27">Two sector models were generated from the history-matched full field simulation model for the Homogeneous and Heterogeneous geologic areas as shown in Fig. 24. In the Heterogeneous model, two injectors and one producer is located with 1 km well spacing originally and after 8 years of water injection to maintain plateau production, two infill producers are added at the center of original injector and producer with 500 m spacing and original producer is converted to injector at same timing.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-24">
+<label>Figure 24 </label>
+<imageLink type="mediaResource" href="102118188292MS_i_24.tif" id="ImgLink-24" />
+<caption>Sector Models for Commercial Scale Miscible WAG Evaluation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>24</caption-order>
+<caption-text>Sector Models for Commercial Scale Miscible WAG Evaluation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="18" figure-order="25" data-type-order="28">
+<link href="link-25" type="image" />
+<appendix>
+<linkTarget id="link-25" type="image">
+<anchoringText id="Ancr28">As a result of the simulation, two normalized type curves for each model were obtained as shown in Fig. 25 and Fig. 26. The Heterogeneous model shows 12% and 11% incremental recovery by CO2 and HC WAG over water injection at 0.75 HCPVI, respectively, and the Homogeneous model shows 7%and 6.5% incremental recovery by CO2 and HC WAG over water injection at 0.8 HCPVI, respectively.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-25">
+<label>Figure 25</label>
+<imageLink type="mediaResource" href="102118188292MS_i_25.tif" id="ImgLink-25" />
+<caption>Miscible WAG Type Curves for Heterogeneous Model (a) Incremental Recovery Factor over Water Injection, (b) Cumulative Breakthrough Gas %</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>25</caption-order>
+<caption-text>Miscible WAG Type Curves for Heterogeneous Model (a) Incremental Recovery Factor over Water Injection, (b) Cumulative Breakthrough Gas %</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-25a">
+<imageLink type="mediaResource" href="102118188292MS_i_25a.tif" id="ImgLink-25a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Incremental Recovery Factor over Water Injection</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-25b">
+<imageLink type="mediaResource" href="102118188292MS_i_25b.tif" id="ImgLink-25b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Cumulative Breakthrough Gas %</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="19" figure-order="26" data-type-order="29">
+<link href="link-26" type="image" />
+<appendix>
+<linkTarget id="link-26" type="image">
+<anchoringText id="Ancr29">As a result of the simulation, two normalized type curves for each model were obtained as shown in Fig. 25 and Fig. 26. The Heterogeneous model shows 12% and 11% incremental recovery by CO2 and HC WAG over water injection at 0.75 HCPVI, respectively, and the Homogeneous model shows 7%and 6.5% incremental recovery by CO2 and HC WAG over water injection at 0.8 HCPVI, respectively.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-26">
+<label>Figure 26</label>
+<imageLink type="mediaResource" href="102118188292MS_i_26.tif" id="ImgLink-26" />
+<caption>Miscible WAG Type Curves for Homogeneous Model (a) Incremental Recovery Factor over Water Injection, (b) Cumulative Breakthrough Gas %</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>26</caption-order>
+<caption-text>Miscible WAG Type Curves for Homogeneous Model (a) Incremental Recovery Factor over Water Injection, (b) Cumulative Breakthrough Gas %</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-26a">
+<imageLink type="mediaResource" href="102118188292MS_i_26a.tif" id="ImgLink-26a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Incremental Recovery Factor over Water Injection</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-26b">
+<imageLink type="mediaResource" href="102118188292MS_i_26b.tif" id="ImgLink-26b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Cumulative Breakthrough Gas %</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="27" data-type-order="30">
+<link href="link-27" type="image" />
+<appendix>
+<linkTarget id="link-27" type="image">
+<anchoringText id="Ancr30">A simulation for Heterogeneous model with 1km well spacing (i.e. no infill drilled) was conducted to investigate the impact of the well spacing and Fig. 27 shows the comparison of 500 m spacing with 1km spacing for HC WAG injection. The incremental oil recovery of 1km spacing is 5.5% at 0.75 HCPVI as well as the Homogeneous model with 1km spacing. In addition, the other difference between the type curves of two models is the timing of the recovery response (i.e. timing of the incremental recovery rising).</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-27">
+<label>Figure 27 </label>
+<imageLink type="mediaResource" href="102118188292MS_i_27.tif" id="ImgLink-27" />
+<caption>Impact of the Well Spacing on the Incremental Recovery for Heterogeneous Model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>27</caption-order>
+<caption-text>Impact of the Well Spacing on the Incremental Recovery for Heterogeneous Model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="28" data-type-order="31">
+<link href="link-28" type="image" />
+<appendix>
+<linkTarget id="link-28" type="image">
+<anchoringText id="Ancr31">The incremental oil, breakthrough gas volume and injected gas volume profile for each pattern were generated by denormalizing the type curves based on the OOIP, number of well and HCPV of each pattern. Fig. 28 shows an example of denormalized profile for a pattern in the Heterogeneous area.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-28">
+<label>Figure 28 </label>
+<imageLink type="mediaResource" href="102118188292MS_i_28.tif" id="ImgLink-28" />
+<caption>Production Profile of a Pattern in Heterogeneous Area Generated by Denormalizing the Type Curves</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>28</caption-order>
+<caption-text>Production Profile of a Pattern in Heterogeneous Area Generated by Denormalizing the Type Curves</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="20" figure-order="29" data-type-order="32">
+<link href="link-29" type="image" />
+<appendix>
+<linkTarget id="link-29" type="image">
+<anchoringText id="Ancr32">Fig. 29 shows incremental oil, breakthrough gas volume, gas injection volume and net gas requirement (i.e. gas injection volume minus breakthrough gas volume) profiles for full field HC gas injection and CO2 injection case, respectively. In addition, Fig. 30 shows comparison for incremental oil volume of HC gas with CO2 injection.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-29">
+<label>Figure 29</label>
+<imageLink type="mediaResource" href="102118188292MS_i_29.tif" id="ImgLink-29" />
+<caption>Profiles for Miscible EOR Full Field Development (a) HC Gas, (b) CO<sub>2</sub>
+</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>29</caption-order>
+<caption-text>Profiles for Miscible EOR Full Field Development (a) HC Gas, (b) CO<sub>2</sub>
+</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-29a">
+<imageLink type="mediaResource" href="102118188292MS_i_29a.tif" id="ImgLink-29a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>HC Gas</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118188292MS-Img_SPi-29b">
+<imageLink type="mediaResource" href="102118188292MS_i_29b.tif" id="ImgLink-29b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>CO<sub>2</sub></caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="20" figure-order="30" data-type-order="33">
+<link href="link-30" type="image" />
+<appendix>
+<linkTarget id="link-30" type="image">
+<anchoringText id="Ancr33">Fig. 29 shows incremental oil, breakthrough gas volume, gas injection volume and net gas requirement (i.e. gas injection volume minus breakthrough gas volume) profiles for full field HC gas injection and CO2 injection case, respectively. In addition, Fig. 30 shows comparison for incremental oil volume of HC gas with CO2 injection.</anchoringText>
+<image-wrap id="102118188292MS-Img_SPi-30">
+<label>Figure 30 </label>
+<imageLink type="mediaResource" href="102118188292MS_i_30.tif" id="ImgLink-30" />
+<caption>Comparison of CO<sub>2</sub> with HC Gas Injection for Incremental Oil Recovery Profile</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>30</caption-order>
+<caption-text>Comparison of CO<sub>2</sub> with HC Gas Injection for Incremental Oil Recovery Profile</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

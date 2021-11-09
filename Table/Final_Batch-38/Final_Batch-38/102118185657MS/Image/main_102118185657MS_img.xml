@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185657MS.txt" extractionDate="2021-03-26T18:16:31Z">
+<doi>10.2118/185657-MS</doi>
+<pii>10.2118/185657-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="5" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr3">The Pyramid Hills field as shown in Fig. 1 (DOGGR) is a truncated anticlinal structure in the San Joaquin basin of central California. It is located in Township 24S, Range 18E, Mount Diablo Base Meridian (MDBM) in Kings County. The Kreyenhagen (KR) formation (Eocene age) contains three different sands, the KR-1, KR-2, and the KR-3 sands. The KR-1 and KR-2 sands are truncated unconformably by the base of the Miocene. The Eocene KR beds are steeply dipping (~ 60-70°) to the southeast. The base of the Miocene surface is relatively flat overlying the KR-2 sand beds on the Pyramid Hills field, but increases in dip to the southeast. The porosity fraction of the reservoir ranges from 0.03 to 0.38 and the average porosity is 0.26.</anchoringText>
+<image-wrap id="102118185657MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118185657MS_i_1.tif" id="ImgLink-1" />
+<caption>Pyramid Hills Field Location and Base Map (from DOGGR).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Pyramid Hills Field Location and Base Map (from DOGGR).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr4">The permeability is estimated from a porosity permeability transform and it ranges from 100 md to 7000 md with an average of 700 md. The geomodel as shown in Fig. 2 was constructed in the Petrel software (Schlumberger) using available well logs and surface maps.</anchoringText>
+<image-wrap id="102118185657MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118185657MS_i_2.tif" id="ImgLink-2" />
+<caption>Pyramid Hills Field Structure: Geomodel graphical presentation where zero depth refers to Sea Level (SL) and where positive values indicate increasing depth below SL.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Pyramid Hills Field Structure: Geomodel graphical presentation where zero depth refers to Sea Level (SL) and where positive values indicate increasing depth below SL.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr5">The Computer Modeling Group (CMG) STARS software was used in isothermal mode to conduct the simulation study. Structure and model properties as built in Petrel were imported into STARS. PVT was modeled in CMG PVT Package WinProp software. Basic reservoir simulation data were either obtained from the field Operator or constructed from correlation. Initial water-oil relative permeability is shown in Fig. 3. These lab curves were obtained from Core Laboratories where Pyramid Hills field cores, synthetic field water and lab oil (10~12 cp) were used in the experiments.</anchoringText>
+<image-wrap id="102118185657MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118185657MS_i_3.tif" id="ImgLink-3" />
+<caption>Water oil relative permeability measured in the laboratory for Pyramid Hills.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Water oil relative permeability measured in the laboratory for Pyramid Hills.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr6">However after adjustment to the water-oil relative permeability relationship considering our approach, we found a satisfactory and acceptable history match. Fig. 4 and Fig. 5 shows oil and water production from the field history and simulation run. Some of the minor mismatch may be attributed to inaccurate historical production allocation resulting from commingled wells present in the study area. There are no field gas production data available. The produced gas is only a small amount of solution gas and therefore this reservoir is behaving like a water-oil system. Fig. 6 shows field average reservoir pressure output from the history match simulation run.</anchoringText>
+<image-wrap id="102118185657MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118185657MS_i_4.tif" id="ImgLink-4" />
+<caption>Oil Production History Match.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Oil Production History Match.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr7">However after adjustment to the water-oil relative permeability relationship considering our approach, we found a satisfactory and acceptable history match. Fig. 4 and Fig. 5 shows oil and water production from the field history and simulation run. Some of the minor mismatch may be attributed to inaccurate historical production allocation resulting from commingled wells present in the study area. There are no field gas production data available. The produced gas is only a small amount of solution gas and therefore this reservoir is behaving like a water-oil system. Fig. 6 shows field average reservoir pressure output from the history match simulation run.</anchoringText>
+<image-wrap id="102118185657MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118185657MS_i_5.tif" id="ImgLink-5" />
+<caption>Water Production History Match.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Water Production History Match.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr8">However after adjustment to the water-oil relative permeability relationship considering our approach, we found a satisfactory and acceptable history match. Fig. 4 and Fig. 5 shows oil and water production from the field history and simulation run. Some of the minor mismatch may be attributed to inaccurate historical production allocation resulting from commingled wells present in the study area. There are no field gas production data available. The produced gas is only a small amount of solution gas and therefore this reservoir is behaving like a water-oil system. Fig. 6 shows field average reservoir pressure output from the history match simulation run.</anchoringText>
+<image-wrap id="102118185657MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118185657MS_i_6.tif" id="ImgLink-6" />
+<caption>Simulated hydrocarbon pore volume average reservoir pressure with time.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Simulated hydrocarbon pore volume average reservoir pressure with time.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr9">The history match water and oil relative permeability curves are shown in Fig. 7 together with lab obtained curves. Notice the shape of the history matched curves is in most part convex upward, which is a significant departure from the traditional Corey relative permeability type curves.</anchoringText>
+<image-wrap id="102118185657MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118185657MS_i_7.tif" id="ImgLink-7" />
+<caption>Heavy oil water relative permeability – lab vs. history match.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Heavy oil water relative permeability – lab vs. history match.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr10">From the history match, the left hand side of Eq. 8a is known for all water saturations (Sw), the right hand side then becomes a function of apparent water saturation (S′w) only. A simple iterative scheme (Excel Goal Seek) was used to solve Eq. 8a where emulsion viscosity (Eq. 9) and saturation constrain (Eq. 2) were used as auxiliary equations. The results of the calculation are shown in Table 1. Notice flowing cold oil viscosity is assumed constant and has no pressure dependency.</anchoringText>
+<image-wrap id="102118185657MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118185657MS_i_8.tif" id="ImgLink-8" />
+<caption>Emulsion oil volume fraction in situ vs. Swn.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Emulsion oil volume fraction in situ vs. Swn.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr11">From the history match, the left hand side of Eq. 8a is known for all water saturations (Sw), the right hand side then becomes a function of apparent water saturation (S′w) only. A simple iterative scheme (Excel Goal Seek) was used to solve Eq. 8a where emulsion viscosity (Eq. 9) and saturation constrain (Eq. 2) were used as auxiliary equations. The results of the calculation are shown in Table 1. Notice flowing cold oil viscosity is assumed constant and has no pressure dependency.</anchoringText>
+<image-wrap id="102118185657MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118185657MS_i_9.tif" id="ImgLink-9" />
+<caption>Ratio of krwh(Sw) (history matched/Eq.8b) vs. Swn.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Ratio of krwh(Sw) (history matched/Eq.8b) vs. Swn.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

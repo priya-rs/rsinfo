@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118177380MS.txt" extractionDate="2021-03-20T08:19:31Z">
+<doi>10.2118/177380-MS</doi>
+<pii>10.2118/177380-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="9" table-order="1" data-type-order="9">
+<table-wrap id="102118177380MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">After that, the Design of Experiments model was constructed through multiple linear regression in order to be validated by Analysis of Variance (ANOVA) and to achieve stepwise elimination tool. The model was fitted including all the 13 factors and ANOVA table was computed that shows there are more than one factors failed to reject null hypothesis of coefficient being zero as shown in Table 1. The basic-diagnostic plots (Normal Q-Q, Residual vs. Fitted, Scale-Location, and Residual vs. Leverage) for full linear response model were illustrated in Figure 9.</anchoringText>
+<label>Table 1</label>
+<caption>Analysis of Variance (ANOVA) for Full Linear Model</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Analysis of Variance (ANOVA) for Full Linear Model</caption-text>
+</formatted-caption>
+<table id="102118177380MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">
+<a id="bookmark0">
+</a>Df</th>
+<th valign="top" align="center">Sum Sq</th>
+<th valign="top" align="center">Mean Sq</th>
+<th valign="top" align="center">F value</th>
+<th valign="top" align="center">Pr(&#x003E;F)</th>
+<th rowspan="2" valign="top" align="center" />
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">AQUIFER</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">0.06</td>
+<td valign="top" align="center">0.06</td>
+<td valign="top" align="center">0.37</td>
+<td valign="top" align="center">0.5443882</td>
+</tr>
+<tr>
+<td valign="top" align="left">COMPRESS</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">2.41</td>
+<td valign="top" align="center">2.41</td>
+<td valign="top" align="center">13.86</td>
+<td valign="top" align="center">0.0002405</td>
+<td valign="top" align="center">***</td>
+</tr>
+<tr>
+<td valign="top" align="left">MAX-BHP</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">0.00</td>
+<td valign="top" align="center">0.00</td>
+<td valign="top" align="center">0,02</td>
+<td valign="top" align="center">0.8830345</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">MAX-STO</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">15,89</td>
+<td valign="top" align="center">15.89</td>
+<td valign="top" align="center">91,40</td>
+<td valign="top" align="center">&#x003C; 2.2e-16</td>
+<td valign="top" align="center">***</td>
+</tr>
+<tr>
+<td valign="top" align="left">MAX.STW</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">0.09</td>
+<td valign="top" align="center">0.09</td>
+<td valign="top" align="center">0.55</td>
+<td valign="top" align="center">0.4605950</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">MAX-WCUT</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">2.19</td>
+<td valign="top" align="center">2.19</td>
+<td valign="top" align="center">12.62</td>
+<td valign="top" align="center">0.0004523</td>
+<td valign="top" align="center">***</td>
+</tr>
+<tr>
+<td valign="top" align="left">MIN-BHP</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">0.30</td>
+<td valign="top" align="center">0.30</td>
+<td valign="top" align="center">1.72</td>
+<td valign="top" align="center">0.1907995</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">PERMI</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">13.12</td>
+<td valign="top" align="center">13.12</td>
+<td valign="top" align="center">75.48</td>
+<td valign="top" align="center">3.888e-16</td>
+<td valign="top" align="center">***</td>
+</tr>
+<tr>
+<td valign="top" align="left">PERMIK</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">2.68</td>
+<td valign="top" align="center">2.68</td>
+<td valign="top" align="center">15.42</td>
+<td valign="top" align="center">0.0001099</td>
+<td valign="top" align="center">***</td>
+</tr>
+<tr>
+<td valign="top" align="left">POR</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">194.37</td>
+<td valign="top" align="center">194.37</td>
+<td valign="top" align="center">1118.03</td>
+<td valign="top" align="center">&#x003C; 2.2e-16</td>
+<td valign="top" align="center">***</td>
+</tr>
+<tr>
+<td valign="top" align="left">SKIN</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">0.01</td>
+<td valign="top" align="center">0.01</td>
+<td valign="top" align="center">0.07</td>
+<td valign="top" align="center">0.7874912</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">SQUAL</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">0.03</td>
+<td valign="top" align="center">0.03</td>
+<td valign="top" align="center">0.19</td>
+<td valign="top" align="center">0.6672273</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">TINJW</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">0.47</td>
+<td valign="top" align="center">0.47</td>
+<td valign="top" align="center">2.71</td>
+<td valign="top" align="center">0.1008097</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Residuals</td>
+<td valign="top" align="center">265</td>
+<td valign="top" align="center">46.07</td>
+<td valign="top" align="center">0.17</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="10" table-order="2" data-type-order="12">
+<table-wrap id="102118177380MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The basic-diagnostic plots (Normal Q-Q, Residual vs. Fitted, Scale-Location, and Residual vs. Leverage) for full linear response model were illustrated in Figure 9.Figure 10 shows the influential factors from full DoE model. All plots in Figure 9 provide a validity for the fitted model; however, the non-influential factors should be eliminated. Thus, the model was refined by stepwise elimination in order to perform p-value for all remaining factors less than 0.05 (reject null hypothesis). Table 2 shows ANOVA for the reduced DoE model and all remained factors should have influential on flow response by rejecting null hypothesis; however, there is three factors left in the model and were not eliminated even though they failed to reject null hypothesis as shown in Figure 12. That reflects the weakness of stepwise regression to fix complex physical processes. Figure 11 illustrates the basic diagnostic plots from reduced DoE model.</anchoringText>
+<label>Table 2</label>
+<caption>Analysis of Variance (ANOVA) for Reduced Linear Model through Stepwise Elimination</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Analysis of Variance (ANOVA) for Reduced Linear Model through Stepwise Elimination</caption-text>
+</formatted-caption>
+<table id="102118177380MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">Df</th>
+<th valign="top" align="center">Sum Sq</th>
+<th valign="top" align="center">Mean Sq</th>
+<th valign="top" align="center">F value</th>
+<th valign="top" align="center">Pr(&#x003E;F)</th>
+<th rowspan="2" valign="top" align="center" />
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">AQUIFER</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">0.06</td>
+<td valign="top" align="center">0.06</td>
+<td valign="top" align="center">0.37</td>
+<td valign="top" align="center">0.5432271</td>
+</tr>
+<tr>
+<td valign="top" align="left">COMPRESS</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">2.41</td>
+<td valign="top" align="center">2.41</td>
+<td valign="top" align="center">13.94</td>
+<td valign="top" align="center">0.0002303</td>
+<td valign="top" align="center">***</td>
+</tr>
+<tr>
+<td valign="top" align="left">MAX.STO</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">15.88</td>
+<td valign="top" align="center">15.88</td>
+<td valign="top" align="center">91.86</td>
+<td valign="top" align="center">&#x003C; 2.2e-16</td>
+<td valign="top" align="center">***</td>
+</tr>
+<tr>
+<td valign="top" align="left">MAX_WCUT</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">2.18</td>
+<td valign="top" align="center">2.18</td>
+<td valign="top" align="center">12.63</td>
+<td valign="top" align="center">0.0004487</td>
+<td valign="top" align="center">***</td>
+</tr>
+<tr>
+<td valign="top" align="left">MIN.BHP</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">0.30</td>
+<td valign="top" align="center">0.30</td>
+<td valign="top" align="center">1.74</td>
+<td valign="top" align="center">0.1881832</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">PERMI</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">12.89</td>
+<td valign="top" align="center">12.89</td>
+<td valign="top" align="center">74.55</td>
+<td valign="top" align="center">5.290e-16</td>
+<td valign="top" align="center">***</td>
+</tr>
+<tr>
+<td valign="top" align="left">PERMIK</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">2.75</td>
+<td valign="top" align="center">2.75</td>
+<td valign="top" align="center">15.90</td>
+<td valign="top" align="center">8.604e-05</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">POR</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">194.36</td>
+<td valign="top" align="center">194.36</td>
+<td valign="top" align="center">1124.37</td>
+<td valign="top" align="center">&#x003C; 2.2e-16</td>
+<td valign="top" align="center">* * *</td>
+</tr>
+<tr>
+<td valign="top" align="left">TIN.JW</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">0.39</td>
+<td valign="top" align="center">0.39</td>
+<td valign="top" align="center">2.25</td>
+<td valign="top" align="center">0.1346067</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Residuals</td>
+<td valign="top" align="center">269</td>
+<td valign="top" align="center">46.50</td>
+<td valign="top" align="center">0.17</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="12" table-order="3" data-type-order="16">
+<table-wrap id="102118177380MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">The maximum poster probability reflects the optimal model that has removed all non-influential factors as shown in the computed Occam window in Table 3. Figure 14 shows the best model (model #1) that achieves maximum posterior probability and minimum BIC. From Figure 15 of BMA factors elimination process, it is clearly noticeable that reservoir characteristics of permeability, porosity, and anisotropy ratio along with water cut and oil production constrains are the most influential factors affecting Steamflooding process.</anchoringText>
+<label>Table 3</label>
+<caption>Occam Window of Bayesian Model Averaging</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Occam Window of Bayesian Model Averaging</caption-text>
+</formatted-caption>
+<table id="102118177380MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">p!=0</th>
+<th valign="top" align="center">EV</th>
+<th valign="top" align="center">SD</th>
+<th valign="top" align="center">model 1</th>
+<th valign="top" align="center">model 2</th>
+<th valign="top" align="center">model 3</th>
+<th valign="top" align="center">model 4</th>
+<th valign="top" align="center">model 5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Intercept</td>
+<td valign="top" align="center">100 0</td>
+<td valign="top" align="center">-4.056e+00</td>
+<td valign="top" align="center">2.663e"01</td>
+<td valign="top" align="center">-4.126e+00</td>
+<td valign="top" align="center">-3.670e+00</td>
+<td valign="top" align="center">-4.017e+00</td>
+<td valign="top" align="center">-4.147e+00</td>
+<td valign="top" align="center">-3.960e+00</td>
+</tr>
+<tr>
+<td valign="top" align="left">AQUIFER</td>
+<td valign="top" align="center">7.9</td>
+<td valign="top" align="center">6.423e-10</td>
+<td valign="top" align="center">2.747e-09</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">8.086e-09</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">COMPRESS</td>
+<td valign="top" align="center">100.0</td>
+<td valign="top" align="center">1.732c+04</td>
+<td valign="top" align="center">2.994c+03</td>
+<td valign="top" align="center">1.733c+04</td>
+<td valign="top" align="center">1.729C+04</td>
+<td valign="top" align="center">1.724c+04</td>
+<td valign="top" align="center">1.7350+04</td>
+<td valign="top" align="center">1.733C+04</td>
+</tr>
+<tr>
+<td valign="top" align="left">MAX.BHP</td>
+<td valign="top" align="center">5.1</td>
+<td valign="top" align="center">-1.557O-06</td>
+<td valign="top" align="center">9.660C-06</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">MAX_STO</td>
+<td valign="top" align="center">100.0</td>
+<td valign="top" align="center">3.662e-05</td>
+<td valign="top" align="center">3.056e-06</td>
+<td valign="top" align="center">3.661e-05</td>
+<td valign="top" align="center">3.660o-05</td>
+<td valign="top" align="center">3.664e-05</td>
+<td valign="top" align="center">3.654e-05</td>
+<td valign="top" align="center">3.671 e-05</td>
+</tr>
+<tr>
+<td valign="top" align="left">MAX.STW</td>
+<td valign="top" align="center">4.0</td>
+<td valign="top" align="center">-1.746e-07</td>
+<td valign="top" align="center">1.484e-06</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">MAX AVCUT</td>
+<td valign="top" align="center">00.5</td>
+<td valign="top" align="center">5.492o-01</td>
+<td valign="top" align="center">2.637e-01</td>
+<td valign="top" align="center">6.103e-01</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">5.889O-0I</td>
+<td valign="top" align="center">5.873O-01</td>
+<td valign="top" align="center">6.118.-01</td>
+</tr>
+<tr>
+<td valign="top" align="left">MIN BIIP</td>
+<td valign="top" align="center">9.1</td>
+<td valign="top" align="center">-3.882o-06</td>
+<td valign="top" align="center">1.514e-05</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">-4.286O-05</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">PERMI</td>
+<td valign="top" align="center">100,0</td>
+<td valign="top" align="center">3.157o-01</td>
+<td valign="top" align="center">4.043e-02</td>
+<td valign="top" align="center">3.1520-01</td>
+<td valign="top" align="center">3 1 ’i|</td>
+<td valign="top" align="center">3.152O-01</td>
+<td valign="top" align="center">3.152O-01</td>
+<td valign="top" align="center">3.157C-01</td>
+</tr>
+<tr>
+<td valign="top" align="left">PERMIK</td>
+<td valign="top" align="center">100.0</td>
+<td valign="top" align="center">1.913O-01</td>
+<td valign="top" align="center">4.140o-02</td>
+<td valign="top" align="center">1.919o-01</td>
+<td valign="top" align="center">1.903cv01</td>
+<td valign="top" align="center">1.868C-01</td>
+<td valign="top" align="center">1.9360-01</td>
+<td valign="top" align="center">1.916e-v01</td>
+</tr>
+<tr>
+<td valign="top" align="left">POR</td>
+<td valign="top" align="center">100.0</td>
+<td valign="top" align="center">1.389o+00</td>
+<td valign="top" align="center">4.1760-02</td>
+<td valign="top" align="center">1.388e+00</td>
+<td valign="top" align="center">1.389e+00</td>
+<td valign="top" align="center">1.389O+00</td>
+<td valign="top" align="center">1.392O+00</td>
+<td valign="top" align="center">1.389o-t-00</td>
+</tr>
+<tr>
+<td valign="top" align="left">SKIN</td>
+<td valign="top" align="center">3.1</td>
+<td valign="top" align="center">-3.1 nr,. 05</td>
+<td valign="top" align="center">7.34 lo-04</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">SQUAL TINJW</td>
+<td valign="top" align="center">3.2</td>
+<td valign="top" align="center">2.275C-03</td>
+<td valign="top" align="center">3.838o-02</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">-3.249O-04</td>
+</tr>
+<tr>
+<td valign="top" align="left">TINJW</td>
+<td valign="top" align="center">7.f&#x003E;</td>
+<td valign="top" align="center">-2.457O-05</td>
+<td valign="top" align="center">1.0890-04</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">nVar</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">6</td>
+<td valign="top" align="center">5</td>
+<td valign="top" align="center">7</td>
+<td valign="top" align="center">7</td>
+<td valign="top" align="center">7</td>
+</tr>
+<tr>
+<td valign="top" align="left">r2</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">0.829</td>
+<td valign="top" align="center">0.823</td>
+<td valign="top" align="center">0.830</td>
+<td valign="top" align="center">0.830</td>
+<td valign="top" align="center">0.830</td>
+</tr>
+<tr>
+<td valign="top" align="left">DlC</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">-4.583c+02</td>
+<td valign="top" align="center">-4.550C+02</td>
+<td valign="top" align="center">-4.549C+02</td>
+<td valign="top" align="center">-4.546C+02</td>
+<td valign="top" align="center">-4.545C+02</td>
+</tr>
+<tr>
+<td valign="top" align="left">post prob</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">0.506</td>
+<td valign="top" align="center">0.095</td>
+<td valign="top" align="center">0.091</td>
+<td valign="top" align="center">0.079</td>
+<td valign="top" align="center">0.076</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

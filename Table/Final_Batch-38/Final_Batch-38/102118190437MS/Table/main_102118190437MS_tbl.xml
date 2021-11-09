@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190437MS.txt" extractionDate="2021-03-27T13:06:22Z">
+<doi>10.2118/190437-MS</doi>
+<pii>10.2118/190437-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="4">
+<table-wrap id="102118190437MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">To achieve the objectives of the pilot, a comprehensive surveillance plan was proposed1. This plan is now under execution and the data collection and quality control is being carried out. All sort of data are being collected in a regular basis in various points in the pilot. Table 1 shows the list of routine data collection excluding the separation facility data. In addition to the regular data acquisition, pressure and temperature surveys are normally run at the end of soak period to provide information for reservoir heat management.</anchoringText>
+<label>Table 1</label>
+<caption>Routine Data Measurements for the Pilot</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Routine Data Measurements for the Pilot</caption-text>
+</formatted-caption>
+<table id="102118190437MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="left">Point of Measurement</th>
+<th valign="top" align="center">Salinity</th>
+<th valign="top" align="center">TDS</th>
+<th valign="top" align="center">Hardness</th>
+<th valign="top" align="center">PH</th>
+<th valign="top" align="center">Volume</th>
+<th valign="top" align="center">Pressure</th>
+<th valign="top" align="center">Temperature</th>
+<th valign="bottom" align="center">Steam Quality</th>
+<th valign="bottom" align="center">Casing Pressure</th>
+<th valign="bottom" align="center">Casing Gas</th>
+<th valign="top" align="center">WCUT</th>
+<th valign="bottom" align="center">Sand Cut</th>
+<th valign="top" align="center">API</th>
+<th valign="top" align="center">Fuel</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td id="tfn-1" colspan="16" align="left">+ Tests are done twice a month for each well</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td rowspan="3" valign="top" align="left">Wells</td>
+<td valign="top" align="left">Injection</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">✓</td>
+<td valign="top" align="center">✓</td>
+<td valign="top" align="center">✓</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Soaking</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">✓</td>
+<td valign="top" align="center">✓</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Production</td>
+<td valign="top" align="center">✓</td>
+<td valign="top" align="center">✓</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">✓</td>
+<td valign="top" align="center">✓<sup>+</sup>
+</td>
+<td valign="top" align="center">✓</td>
+<td valign="top" align="center">✓</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">✓</td>
+<td valign="top" align="center">✓</td>
+<td valign="top" align="center">✓</td>
+<td valign="top" align="center">✓</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td rowspan="4" valign="top" align="left">Water Treatment</td>
+<td valign="top" align="center">Source Water</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">✓</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">✓</td>
+<td valign="top" align="center">✓</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Rejected Water to Disposal</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">✓</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Outlet to Steam Generator</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">✓</td>
+<td valign="top" align="center">✓</td>
+<td valign="top" align="center">✓</td>
+<td valign="top" align="center">✓</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Disposal Water Injection</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">✓</td>
+<td valign="top" align="center">✓</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" align="left">Steam Gen.</td>
+<td valign="bottom" align="left">Inlet</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">✓</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">✓</td>
+<td valign="bottom" align="center">✓</td>
+<td valign="bottom" align="center">✓</td>
+<td valign="bottom" align="center">✓</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Outlet</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">✓</td>
+<td valign="bottom" align="center">✓</td>
+<td valign="bottom" align="center">✓</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="bottom" align="center">✓</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

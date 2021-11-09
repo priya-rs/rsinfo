@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118180739MS.txt" extractionDate="2021-04-19T17:01:45Z">
+<doi>10.2118/180739-MS</doi>
+<pii>10.2118/180739-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="4">
+<table-wrap id="102118180739MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">As mentioned above reservoir salinity is low; in addition, the polymer is injected in relatively fresh water (500 ppm Total Dissolved Solids – TDS). Table 1 shows the composition of reservoir and injection water (Wassmuth, Hodgins and Green 2002).</anchoringText>
+<label>Table 1</label>
+<caption>Average water composition</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Average water composition</caption-text>
+</formatted-caption>
+<table id="102118180739MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Ion (mg/L)</th>
+<th valign="top" align="center">Reservoir water</th>
+<th valign="top" align="center">Injection water</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Na</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="left">Ca</td>
+<td valign="top" align="center">92.0</td>
+<td valign="top" align="center">4.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">Mg</td>
+<td valign="top" align="center">49.0</td>
+<td valign="top" align="center">22.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">K</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="left">Cl</td>
+<td valign="top" align="center">4,075.0</td>
+<td valign="top" align="center">128.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">SO4</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">118.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">CO3</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="left">HCO3</td>
+<td valign="top" align="center">340.0</td>
+<td valign="top" align="center">90.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">OH</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="left">TDS</td>
+<td valign="top" align="center">4,556.0</td>
+<td valign="top" align="center">362.0</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="10" table-order="2" data-type-order="9">
+<table-wrap id="102118180739MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">As discussed by Moe Soe Let et al. (Moe Soe Let, Manichand and Seright 2012) a viscosity of 40–45 cp was initially injected in the pilot. However subsequent analysis suggested that a better sweep efficiency could be achieved by increasing the injected polymer viscosity thus viscosity was first increased to 85 cp (in November-December 2011) then to 125 cp in February 2013 (Figure 7). In total 0.75 PV of polymer solution were injected in pattern 1M101, 0.64 PV in pattern 1N062 and 0.56 PV in pattern 1M052 (Table 2).</anchoringText>
+<label>Table 2</label>
+<caption>Summary of injected volumes/viscosity by pattern</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Summary of injected volumes/viscosity by pattern</caption-text>
+</formatted-caption>
+<table id="102118180739MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Pattern</th>
+<th valign="top" align="center">1M101</th>
+<th valign="top" align="center">1N062</th>
+<th valign="top" align="center">1M052</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Injected volume (PV) @ 45 cP</td>
+<td valign="top" align="center">0.32</td>
+<td valign="top" align="center">0.21</td>
+<td valign="top" align="center">0.04</td>
+</tr>
+<tr>
+<td valign="top" align="left">Injected volume (PV) @ 85 cP</td>
+<td valign="top" align="center">0.16</td>
+<td valign="top" align="center">0.18</td>
+<td valign="top" align="center">0.16</td>
+</tr>
+<tr>
+<td valign="top" align="left">Injected volume (PV) @ 125 cP</td>
+<td valign="top" align="center">0.27</td>
+<td valign="top" align="center">0.25</td>
+<td valign="top" align="center">0.36</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="13" table-order="3" data-type-order="15">
+<table-wrap id="102118180739MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Incremental oil recovery was estimated for each well using decline curve analysis; as showed in Table 3 incremental recovery varied from 5.9% to 20.5% STOOIP depending on the pattern.</anchoringText>
+<label>Table 3</label>
+<caption>Summary of incremental oil recovery by pattern</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Summary of incremental oil recovery by pattern</caption-text>
+</formatted-caption>
+<table id="102118180739MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Pattern</th>
+<th valign="top" align="center">1M101</th>
+<th valign="top" align="center">1N062</th>
+<th valign="top" align="center">1M052</th>
+<th valign="top" align="center">TOTAL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">STOOIP (Mbbl)</td>
+<td valign="top" align="center">415.0</td>
+<td valign="top" align="center">360.0</td>
+<td valign="top" align="center">280.0</td>
+<td valign="top" align="center">1,055.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">Primary production @ beginning of pilot (Mbbl)</td>
+<td valign="top" align="center">70.1</td>
+<td valign="top" align="center">68.4</td>
+<td valign="top" align="center">95.6</td>
+<td valign="top" align="center">234.2</td>
+</tr>
+<tr>
+<td valign="top" align="left">Primary recovery @ beginning of pilot (%STOOIP)</td>
+<td valign="top" align="center">16.9</td>
+<td valign="top" align="center">19.0</td>
+<td valign="top" align="center">34.1</td>
+<td valign="top" align="center">22.2</td>
+</tr>
+<tr>
+<td valign="top" align="left">Incremental recovery over primary to March 2015 (Mbbl)</td>
+<td valign="top" align="center">40.7</td>
+<td valign="top" align="center">21.2</td>
+<td valign="top" align="center">57.5</td>
+<td valign="top" align="center">119.4</td>
+</tr>
+<tr>
+<td valign="top" align="left">Incremental recovery over primary to March 2015 (%STOOIP)</td>
+<td valign="top" align="center">9.8</td>
+<td valign="top" align="center">5.9</td>
+<td valign="top" align="center">20.5</td>
+<td valign="top" align="center">11.3</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118179172MS.txt" extractionDate="2021-03-18T16:40:43Z">
+<doi>10.2118/179172-MS</doi>
+<pii>10.2118/179172-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">The Wattenberg Field is a basin-center petroleum accumulation located northeast of Denver, CO (Figure 1) (Nelson et al. 2011) from which hydrocarbons have been extracted over the last 50 years. Target horizons include the Dakota-Lakota, J sandstone, D sandstone, Greenhorn, Codell, Niobrara (A, B, C, and Fort Hays), Shannon, Sussex, and Parkman. Development in Wattenberg field began in 1970 from vertical J sandstone wells with production of the Niobrara following in 1976.</anchoringText>
+<image-wrap id="102118179172MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118179172MS_i_1.tif" id="ImgLink-1" />
+<caption>Outline map of the Wattenberg field in the Denver Basin, Colorado.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Outline map of the Wattenberg field in the Denver Basin, Colorado.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="2" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">The upper Cretaceous sequence from Codell to Niobrara is the current focus of horizontal development in Wattenberg field. The formations were deposited in the Cretaceous interior seaway (Longman et al. 1998) and vary in lithology from silty sand (Codell) to limestone (Ft Hays) to interbedded chalks and marls (Niobrara). The stratigraphic column from Sonnenberg (2013), Figure 2, shows the depositional sequence and approximate thickness of each formation. Published estimates of resource in place of the Niobrara formation are between 2 and 4 billion barrels equivalent of oil (Sonnenberg, 2013).</anchoringText>
+<image-wrap id="102118179172MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118179172MS_i_2.tif" id="ImgLink-2" />
+<caption>Wattenberg stratigraphic column modified from <link href="BIB1">Sonnenberg (2013)</link>  .</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Wattenberg stratigraphic column modified from <link href="BIB1">Sonnenberg (2013)</link>  .</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-19" type="bib">
+<bib id="BIB1">
+<label>Sonnenberg, 2013</label>
+<author>
+<first-name>S. A.</first-name>
+<last-name>Sonnenberg</last-name>
+</author>
+<pubDate>2013</pubDate>. <article-title>New Reserves in an Old Field, the Niobrara Resource Play in the Wattenberg Field, Denver Basin, Colorado. Presented at the Unconventional Resources Technology Conference, Denver, Colorado, 12–14 August </article-title>. SPE-168682-MS. http://dx.doi.org/10.1190/URTEC2013-098.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Using a horizontal exposure of the Niobrara formation, a 2D map of the natural fracture system was generated (Figure 3). This image was digitized and compared to natural fracture interpretations from 11 vertical and 5 horizontal formation microimager logs to confirm that the general orientation and spacing/density of natural fractures observed at the surface were representative of the reservoir at depth and did not contain a significant exhumation overprint.</anchoringText>
+<image-wrap id="102118179172MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118179172MS_i_3.tif" id="ImgLink-3" />
+<caption>Right, mapped natural fractures in Niobrara from horizontal surface exposure; left, simplified 2D DFN rotated 60° to match focal mechanism observations and used as model input.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Right, mapped natural fractures in Niobrara from horizontal surface exposure; left, simplified 2D DFN rotated 60° to match focal mechanism observations and used as model input.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118179172MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Outcrop</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118179172MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">To construct a proper reservoir simulation grid that honors the resolution of the complex hydraulic fractures and the 3D mechanical earth model (MEM), the following gridding parameters were tuned: number of reservoir layers, fracture cell width, vertical layering factor (refinement of the 3D MEM based on hydraulic fracture results contrast) and zone height. The final grid used during this project included hydraulic fracture results from eight wells, had 14 layers, and consisted of approximately two and a half million cells (Figure 4)</anchoringText>
+<image-wrap id="102118179172MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118179172MS_i_4.tif" id="ImgLink-4" />
+<caption>a) 3D reservoir simulation grid for the history matching process. b) Top view, and c) grid cell for hydraulic fracture results</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>a) 3D reservoir simulation grid for the history matching process. b) Top view, and c) grid cell for hydraulic fracture results</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118179172MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>a)</caption-order>
+<caption-text>3D reservoir simulation grid for the history matching process</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118179172MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>b)</caption-order>
+<caption-text>Top view</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-4c">
+<imageLink type="mediaResource" href="102118179172MS_i_4c.tif" id="ImgLink-4c" />
+<figure-specific-caption>
+<caption-order>c)</caption-order>
+<caption-text>grid cell for hydraulic fracture results</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">As described above, in the process, the software combines production attributes with the mechanical earth model and the complex fracture planes to create a non-uniform, locally refined, cellular description of the stimulated reservoir (Figures 4 and 5). Cells are divided into regions defined by proppant type, i.e. matrix, unpropped and propped regions. In addition to the properties carried from the mechanical earth model, each of these regions can be defined by unique set of relative permeability and pressure-dependent permeability curves, as well as fluid/pressure initializations.</anchoringText>
+<image-wrap id="102118179172MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118179172MS_i_5.tif" id="ImgLink-5" />
+<caption>Unstructured grid colored by region for a single cluster in a Niobrara simulation.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Unstructured grid colored by region for a single cluster in a Niobrara simulation.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">Different reservoir fluids with different petrophysical properties were included in the simulation. Multiple vertical wells were drilled and produced prior to the completion of the eight wells referred above; the effect of depleted areas was incorporated into the reservoir simulation model. Finally, compaction tables for each proppant region within the production grid were used to account for the loss of transmissibility associated to the decreasing pore pressure experienced during production. See Figure 6 for the initial grid states of both reservoirs.</anchoringText>
+<image-wrap id="102118179172MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118179172MS_i_6.tif" id="ImgLink-6" />
+<caption>Niobrara (top) and Codell (bottom) initial pressure grid state with depletion effect included.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Niobrara (top) and Codell (bottom) initial pressure grid state with depletion effect included.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-6-6">
+<imageLink type="mediaResource" href="102118179172MS_i_6-1.tif" id="ImgLink-6-1" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Niobrara</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118179172MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Codell</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">Our study area is an eight-well pad in Wattenberg field targeting the Niobrara, Codell, and Ft Hays formations (Figure 2). The wells are drilled horizontally with ~7500-ft lateral lengths and ~330-ft interwell spacing with staggered targeting (making interwell spacing between like formations ~660 ft)(Fig. 7). Existing vertical wells typically target the J sandstone, Niobrara, and Codell formations and are relatively densely distributed throughout the pad.</anchoringText>
+<image-wrap id="102118179172MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118179172MS_i_7.tif" id="ImgLink-7" />
+<caption>Diagram of wells on case study pad.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Diagram of wells on case study pad.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">Local refinements were made to the regional mechanical earth model over this location. Using the geosteering solution in conjunction with 3D seismic and offset vertical wells, an enhanced structural model was produced. Three DFITs from horizontal wells were collected within one mile of the study pad and analyzed for pore pressure and minimum horizontal stress magnitude. A 3D seismic volume was inverted for Poisson’s ratio, Young’s modulus, and porosity and sampled to the mechanical earth model (Figure 8). The regional DFN was supplemented with additional observations of fracture orientation inferred from microseismic focal mechanisms inverted from surface recording (Figure 9). Specifically, the primary fracture set was rotated 60° (Figure 3).</anchoringText>
+<image-wrap id="102118179172MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118179172MS_i_8.tif" id="ImgLink-8" />
+<caption>Mechanical earth model colored by Poisson’s ratio.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Mechanical earth model colored by Poisson’s ratio.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="10" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">Local refinements were made to the regional mechanical earth model over this location. Using the geosteering solution in conjunction with 3D seismic and offset vertical wells, an enhanced structural model was produced. Three DFITs from horizontal wells were collected within one mile of the study pad and analyzed for pore pressure and minimum horizontal stress magnitude. A 3D seismic volume was inverted for Poisson’s ratio, Young’s modulus, and porosity and sampled to the mechanical earth model (Figure 8). The regional DFN was supplemented with additional observations of fracture orientation inferred from microseismic focal mechanisms inverted from surface recording (Figure 9). Specifically, the primary fracture set was rotated 60° (Figure 3).</anchoringText>
+<image-wrap id="102118179172MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118179172MS_i_9.tif" id="ImgLink-9" />
+<caption>Comparison of Niobrara fractures from outcrop, 5 horizontal and 11 vertical formation micro images, and focal mechanisms for the eight wells in the study area.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Comparison of Niobrara fractures from outcrop, 5 horizontal and 11 vertical formation micro images, and focal mechanisms for the eight wells in the study area.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118179172MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>outcrop</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118179172MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>formation micro images</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-9c">
+<imageLink type="mediaResource" href="102118179172MS_i_9c.tif" id="ImgLink-9c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>focal mechanisms</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="10" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">The wells were stimulated using a high-yield friction-reducing fluid with a viscosity similar to slick water and 40/70 mesh sand for proppant. Job size varied across the pad where Codell and Ft Hays wells were treated with 600 pounds of proppant per foot of lateral length (lb/ft) and Niobrara wells were treated with either 800 lbs/ft (small job) or 1600 lbs/ft (large job) as denoted in Fig. 10. Fluid job sizes on Codell/Ft Hays, small Niobrara, and large Niobrara treatments were 2300, 2700, and 4500 barrels/stage respectively.</anchoringText>
+<image-wrap id="102118179172MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118179172MS_i_10.tif" id="ImgLink-10" />
+<caption>Hydraulic fracture geometry history match for large Niobrara, small Niobrara, Codell, and Ft Hays wells (from top down).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Hydraulic fracture geometry history match for large Niobrara, small Niobrara, Codell, and Ft Hays wells (from top down).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118179172MS_i_10a.tif" id="ImgLink-10a" />
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118179172MS_i_10b.tif" id="ImgLink-10b" />
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-10c">
+<imageLink type="mediaResource" href="102118179172MS_i_10c.tif" id="ImgLink-10c" />
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-10d">
+<imageLink type="mediaResource" href="102118179172MS_i_10d.tif" id="ImgLink-10d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">The actual rate and proppant concentration for each of the 388 stages on the 8 wells was used as the input for the hydraulic fracture simulator. The simulation was run in a multi-well mode that accounted for stress shadowing between stages and between wells as a function of time and distance between proximal stages. The quality of treating pressure and ISIP matches varied from stage to stage, with a typical example shown in Fig. 11.</anchoringText>
+<image-wrap id="102118179172MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118179172MS_i_11.tif" id="ImgLink-11" />
+<caption>Actual vs. modeled treating plot for a typical stage.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Actual vs. modeled treating plot for a typical stage.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="12" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">Fig. 12 shows the aggregated microseismic data in the XZ plane for large Niobrara completions, small Niobrara completions, Codell, and Ft Hays completions in the form of a heat map of microseismic frequency. Figure 10 shows several wells history matched to microseismic data. The model encompasses multiple targets and job sizes within a single mechanical earth model description and, without well-to-well modification, produces relatively close matches to the observed geometry.</anchoringText>
+<image-wrap id="102118179172MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118179172MS_i_12.tif" id="ImgLink-12" />
+<caption>aggregated microseismic heat maps for each job size/target.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>aggregated microseismic heat maps for each job size/target.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118179172MS_i_12a.tif" id="ImgLink-12a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Small Niobrara Job</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118179172MS_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Large Niobrara Job</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-12c">
+<imageLink type="mediaResource" href="102118179172MS_i_12c.tif" id="ImgLink-12c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Ft Hays</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-12d">
+<imageLink type="mediaResource" href="102118179172MS_i_12d.tif" id="ImgLink-12d" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Codell</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">Interpretation of these interference signals indicates what is likely an average propped fracture half length of ~200’ in the Niobrara and ~330’ in the Codell/Ft Hays. Figure 13 shows the comparison of modelled fracture conductivity stacked along the well bore in an E-W cross sectional view to interpreted conductive lengths from pressure interference testing. In general, the model tends to show similar conductive lengths to interference test observations. The difference in modelled conductivity between large and small Niobrara completions and between Codell and Ft Hays targets is apparent, but relatively minor.</anchoringText>
+<image-wrap id="102118179172MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118179172MS_i_13.tif" id="ImgLink-13" />
+<caption>Cross-sectional heat map view of modeled fracture conductivity stacked along the wellbore for each of the Ft Hays (upper left), Codell (upper right), large Niobrara (lower right), and small Niobrara (lower left) wells. Below each plot is the corresponding scatter plot of pressure interference. Each plot shows the interpreted extent of conductivity in red.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Cross-sectional heat map view of modeled fracture conductivity stacked along the wellbore for each of the Ft Hays (upper left), Codell (upper right), large Niobrara (lower right), and small Niobrara (lower left) wells. Below each plot is the corresponding scatter plot of pressure interference. Each plot shows the interpreted extent of conductivity in red.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="8" pdf-page="14" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr14">Depletion was characterized around vertical wells by assuming an ellipse of pore pressure drawdown with dimensions similar to the microseismic ellipses measured in the neighboring horizontal wells. The magnitude of pore pressure drawdown was assumed to be related to the cumulative production of the well and was disproportionately attributed to the Codell to match observations of lower initial pressure and higher gas-oil-ratio in horizontal Codell wells. Figures 14 to 17 show the results of the history match process for the Niobrara and Codell, with curves for the base case, matrix permeability calibrations, vertical permeability calibration and depletion effects respectively.</anchoringText>
+<image-wrap id="102118179172MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118179172MS_i_14.tif" id="ImgLink-14" />
+<caption>Oil rates history match for the Niobrara and Codell wells.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Oil rates history match for the Niobrara and Codell wells.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118179172MS_i_14a.tif" id="ImgLink-14a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Niobrara Well A</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118179172MS_i_14b.tif" id="ImgLink-14b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Niobrara Well B</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-14c">
+<imageLink type="mediaResource" href="102118179172MS_i_14c.tif" id="ImgLink-14c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Niobrara Well E</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-14d">
+<imageLink type="mediaResource" href="102118179172MS_i_14d.tif" id="ImgLink-14d" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Niobrara Well G</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-14e">
+<imageLink type="mediaResource" href="102118179172MS_i_14e.tif" id="ImgLink-14e" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Ft Hays Well B</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-14f">
+<imageLink type="mediaResource" href="102118179172MS_i_14f.tif" id="ImgLink-14f" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Ft Hays Well D</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-14g">
+<imageLink type="mediaResource" href="102118179172MS_i_14g.tif" id="ImgLink-14g" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Codell Well F</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-14h">
+<imageLink type="mediaResource" href="102118179172MS_i_14h.tif" id="ImgLink-14h" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Codell Well H</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="8" pdf-page="15" figure-order="15" data-type-order="15">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr15">Depletion was characterized around vertical wells by assuming an ellipse of pore pressure drawdown with dimensions similar to the microseismic ellipses measured in the neighboring horizontal wells. The magnitude of pore pressure drawdown was assumed to be related to the cumulative production of the well and was disproportionately attributed to the Codell to match observations of lower initial pressure and higher gas-oil-ratio in horizontal Codell wells. Figures 14 to 17 show the results of the history match process for the Niobrara and Codell, with curves for the base case, matrix permeability calibrations, vertical permeability calibration and depletion effects respectively.</anchoringText>
+<image-wrap id="102118179172MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118179172MS_i_15.tif" id="ImgLink-15" />
+<caption>Gas oil ratio history match for the Niobrara and Codell wells.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Gas oil ratio history match for the Niobrara and Codell wells.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-15a">
+<imageLink type="mediaResource" href="102118179172MS_i_15a.tif" id="ImgLink-15a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Niobrara Well A</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-15b">
+<imageLink type="mediaResource" href="102118179172MS_i_15b.tif" id="ImgLink-15b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Niobrara Well C</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-15c">
+<imageLink type="mediaResource" href="102118179172MS_i_15c.tif" id="ImgLink-15c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Niobrara Well E</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-15d">
+<imageLink type="mediaResource" href="102118179172MS_i_15d.tif" id="ImgLink-15d" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Niobrara Well G</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-15e">
+<imageLink type="mediaResource" href="102118179172MS_i_15e.tif" id="ImgLink-15e" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Ft Hays Well B</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-15f">
+<imageLink type="mediaResource" href="102118179172MS_i_15f.tif" id="ImgLink-15f" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Ft Hays Well D</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-15g">
+<imageLink type="mediaResource" href="102118179172MS_i_15g.tif" id="ImgLink-15g" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Codell Well F</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-15h">
+<imageLink type="mediaResource" href="102118179172MS_i_15h.tif" id="ImgLink-15h" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Codell Well H</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="16" figure-order="16" data-type-order="16">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr16">Depletion was characterized around vertical wells by assuming an ellipse of pore pressure drawdown with dimensions similar to the microseismic ellipses measured in the neighboring horizontal wells. The magnitude of pore pressure drawdown was assumed to be related to the cumulative production of the well and was disproportionately attributed to the Codell to match observations of lower initial pressure and higher gas-oil-ratio in horizontal Codell wells. Figures 14 to 17 show the results of the history match process for the Niobrara and Codell, with curves for the base case, matrix permeability calibrations, vertical permeability calibration and depletion effects respectively.</anchoringText>
+<image-wrap id="102118179172MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118179172MS_i_16.tif" id="ImgLink-16" />
+<caption>Niobrara and Codell wells history match results</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Niobrara and Codell wells history match results</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-16a">
+<imageLink type="mediaResource" href="102118179172MS_i_16a.tif" id="ImgLink-16a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Niobrara All Wells History Match</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-16b">
+<imageLink type="mediaResource" href="102118179172MS_i_16b.tif" id="ImgLink-16b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Ft Hays-Codell All Wells History Match</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="" figure-order="17" data-type-order="17">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr17">Depletion was characterized around vertical wells by assuming an ellipse of pore pressure drawdown with dimensions similar to the microseismic ellipses measured in the neighboring horizontal wells. The magnitude of pore pressure drawdown was assumed to be related to the cumulative production of the well and was disproportionately attributed to the Codell to match observations of lower initial pressure and higher gas-oil-ratio in horizontal Codell wells. Figures 14 to 17 show the results of the history match process for the Niobrara and Codell, with curves for the base case, matrix permeability calibrations, vertical permeability calibration and depletion effects respectively.</anchoringText>
+<label>Figure 17 </label>
+<image-wrap id="102118179172MS-Img_SPi-17">
+<imageLink type="mediaResource" href="102118179172MS_i_17.tif" id="ImgLink-17" />
+<caption>Selected well history match</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Selected well history match</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-17a">
+<imageLink type="mediaResource" href="102118179172MS_i_17a.tif" id="ImgLink-17a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Niobrara Well D History Match</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-17b">
+<imageLink type="mediaResource" href="102118179172MS_i_17b.tif" id="ImgLink-17b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Codell Well H History Match</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="18" figure-order="18" data-type-order="18">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr18">Figure 18 shows the depletion response after the full actual production match of the wells, notice the existence of “pockets” or areas where inefficient drainage is observed after several months of production, therefore suggesting modifications on the well spacing strategy.</anchoringText>
+<image-wrap id="102118179172MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118179172MS_i_18.tif" id="ImgLink-18" />
+<caption>Pressure depletion profiles a) Niobrara response b) Codell response.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Pressure depletion profiles a) Niobrara response b) Codell response.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-18a">
+<imageLink type="mediaResource" href="102118179172MS_i_18a.tif" id="ImgLink-18a" />
+<figure-specific-caption>
+<caption-order>a)</caption-order>
+<caption-text>Niobrara response</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179172MS-Img_SPi-18b">
+<imageLink type="mediaResource" href="102118179172MS_i_18b.tif" id="ImgLink-18b" />
+<figure-specific-caption>
+<caption-order>b)</caption-order>
+<caption-text>Codell response</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

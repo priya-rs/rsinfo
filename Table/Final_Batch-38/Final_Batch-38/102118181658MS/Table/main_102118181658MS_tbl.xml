@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118181658MS.txt" extractionDate="2021-03-22T20:43:20Z">
+<doi>10.2118/181658-MS</doi>
+<pii>10.2118/181658-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="6" table-order="1" data-type-order="5">
+<table-wrap id="102118181658MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The fields include eight (8) wells and thirteen (13) completion intervals. A summary of the wells and completion parameters are detailed below in Table 1.</anchoringText>
+<label>Table 1</label>
+<caption>Completion Summary and Well Parameters</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Completion Summary and Well Parameters</caption-text>
+</formatted-caption>
+<table id="102118181658MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center" bgcolor="#5C9AD4">Well#</th>
+<th valign="bottom" align="center" bgcolor="#5C9AD4">Well Name</th>
+<th valign="bottom" align="center" bgcolor="#5C9AD4">Block Well Number</th>
+<th valign="bottom" align="center" bgcolor="#5C9AD4">Reservoir</th>
+<th valign="bottom" align="center" bgcolor="#5C9AD4">Water Depth (ft)</th>
+<th valign="bottom" align="center" bgcolor="#5C9AD4">Completion Depth (ft-TVD)</th>
+<th valign="bottom" align="center" bgcolor="#5C9AD4">Angle thru Perfs (Deg)</th>
+<th valign="bottom" align="center" bgcolor="#5C9AD4">Net Pay (ft)</th>
+<th valign="bottom" align="center" bgcolor="#5C9AD4">Transmissibility (md-ft/cp)</th>
+<th valign="bottom" align="center" bgcolor="#5C9AD4">Initial Pressure (psi)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2" bgcolor="#5C9AD4" align="left">1</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">Santa</td>
+<td rowspan="2" bgcolor="#D2DEF1" align="left">MC 519 #1</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">M55</td>
+<td rowspan="2" bgcolor="#D2DEF1" align="left">6616</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">18,743</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">17</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">49</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">46,994</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">12,200</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">Cruz</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">M56L</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">18,231</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">17</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">78</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">166,230</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">11,893</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#5C9AD4" align="left">2</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">Isabela</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">MC 562 #1</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">M55</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">6435</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">18,792</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">25</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">92</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">58,723</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">12,203</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#5C9AD4" align="left">3</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">Santiago</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">MC 519 #2</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">M55</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">6500</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">18,474</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">0</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">61</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">52,835</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">12,105</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#5C9AD4" align="left">4</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">Big Bend</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">MC 698 #1</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">M55</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">7221</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">15,458</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">20</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">124</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">116,824</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">8,180</td>
+</tr>
+<tr>
+<td rowspan="2" bgcolor="#5C9AD4" align="left">5</td>
+<td rowspan="2" bgcolor="#D2DEF1" align="left">Dantzler</td>
+<td rowspan="2" bgcolor="#D2DEF1" align="left">MC 782 #1</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">U5</td>
+<td rowspan="2" bgcolor="#D2DEF1" align="left">6565</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">17,367</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">0</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">80</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">914,286</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">10,500</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">U6</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">16,745</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">0</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">41</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">50,919</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">10,204</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#5C9AD4" align="left">6</td>
+<td rowspan="2" bgcolor="#D2DEF1" align="left">Dantzler</td>
+<td rowspan="2" bgcolor="#D2DEF1" align="left">MC 782 #2</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">U5</td>
+<td rowspan="2" bgcolor="#D2DEF1" align="left">6569</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">17,430</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">18</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">75</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">45,095</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">10,562</td>
+</tr>
+<tr>
+<td valign="top" align="center" bgcolor="#5C9AD4">
+</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">U6</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">16,806</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">18</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">47</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">25,097</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">10,218</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#5C9AD4" align="left">7</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">Gunflint</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">MC 948 #4</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">Blue E</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">6094</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">26,653</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">10</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">124</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">37,576</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">18,692</td>
+</tr>
+<tr>
+<td rowspan="2" bgcolor="#5C9AD4" align="left">8</td>
+<td rowspan="2" bgcolor="#D2DEF1" align="left">Gunflint</td>
+<td rowspan="2" bgcolor="#D2DEF1" align="left">MC 948 #2</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">Green B</td>
+<td rowspan="2" bgcolor="#D2DEF1" align="left">6095</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">24,175</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">20</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">107</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">69,783</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">17,469</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">Green C</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">24,312</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">20</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">67</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">49,894</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">17,431</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="8" table-order="2" data-type-order="7">
+<table-wrap id="102118181658MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2"> </anchoringText>
+<caption>
+</caption>
+<formatted-caption />
+<table id="102118181658MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" bgcolor="#5C9AD4">Stage</th>
+<th valign="top" align="center" bgcolor="#5C9AD4">Tracer</th>
+<th valign="top" align="center" bgcolor="#5C9AD4">Proppant</th>
+<th valign="top" align="center" bgcolor="#5C9AD4">Fluid</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" bgcolor="#6296DB" align="left">
+<b>Pad</b>
+</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">None</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">None</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">750-gals</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#6296DB" align="left">
+<b>0 – 10-ppa</b>
+</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">Scandium</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">21,125-lbs</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">500-gals (Clean)</td>
+</tr>
+<tr>
+<td valign="bottom" bgcolor="#6296DB" align="left">
+<b>10 – 12-ppa</b>
+</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">Iridium</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">39,000-lbs</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">3,250-gal (Clean)</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="25" table-order="3" data-type-order="23">
+<table-wrap id="102118181658MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3"> </anchoringText>
+<caption>
+</caption>
+<formatted-caption />
+<table id="102118181658MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center" bgcolor="#5C9AD4">Metric</th>
+<th valign="bottom" align="center" bgcolor="#5C9AD4">Unit</th>
+<th valign="bottom" align="center" bgcolor="#5C9AD4">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left" bgcolor="#6296DB">
+<b>Fields</b>
+</td>
+<td valign="top" align="center" bgcolor="#D2DEF1">
+</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">6</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#6296DB">
+<b>Wells</b>
+</td>
+<td valign="top" align="center" bgcolor="#D2DEF1">
+</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">8</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" bgcolor="#6296DB">
+<b>Logs Evaluated</b>
+</td>
+<td valign="top" align="center" bgcolor="#D2DEF1">
+</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">17</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" bgcolor="#6296DB">
+<b>Log Conveyance Methods</b>
+</td>
+<td valign="top" align="center" bgcolor="#D2DEF1">
+</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">3</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" bgcolor="#6296DB">
+<b>Disasters Adverted</b>
+</td>
+<td valign="top" align="center" bgcolor="#D2DEF1">
+</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">3</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" bgcolor="#6296DB">
+<b>Pumping Companies</b>
+</td>
+<td valign="top" align="center" bgcolor="#D2DEF1">
+</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">3</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" bgcolor="#6296DB">
+<b>Hardware Companies</b>
+</td>
+<td valign="top" align="center" bgcolor="#D2DEF1">
+</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">4</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#6296DB">
+<b>Cumulative Production</b>
+</td>
+<td bgcolor="#D2DEF1" align="left">MMBOE</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">60</td>
+</tr>
+<tr>
+<td valign="top" align="left" bgcolor="#6296DB">
+<b>Cumulative Initial Production Rate</b>
+</td>
+<td valign="top" bgcolor="#D2DEF1" align="left">MBOEPD</td>
+<td valign="top" bgcolor="#D2DEF1" align="left">225</td>
+</tr>
+<tr>
+<td align="left" bgcolor="#6296DB">
+<b>Current Production Rate</b>
+</td>
+<td bgcolor="#D2DEF1" align="left">MBOED</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">60</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" bgcolor="#6296DB">
+<b>Average Initial Rate</b>
+</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">MBOED</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">18</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" bgcolor="#6296DB">
+<b>Average Skin</b>
+</td>
+<td valign="top" align="center" bgcolor="#D2DEF1">
+</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">5.0</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" bgcolor="#6296DB">
+<b>Average PI</b>
+</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">Bbl/psi/d</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">22.0</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" bgcolor="#6296DB">
+<b>Max Depth</b>
+</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">ft-MD</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">27,000</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" bgcolor="#6296DB">
+<b>Max Pressure</b>
+</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">psi</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">18,700</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" bgcolor="#6296DB">
+<b>Max Fluid Density</b>
+</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">ppg</td>
+<td valign="bottom" bgcolor="#D2DEF1" align="left">14.2</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

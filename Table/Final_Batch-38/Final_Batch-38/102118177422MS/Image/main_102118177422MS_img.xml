@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118177422MS.txt" extractionDate="2021-03-16T19:06:04Z">
+<doi>10.2118/177422-MS</doi>
+<pii>10.2118/177422-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="4" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">This is illustrated in Fig. 1, showing the mass attenuation of various molecules as a function of the energy level of incident gamma-rays, highlighting a sizeable contrast between the response of H2S molecules and that from hydrocarbon chains or water phases.</anchoringText>
+<image-wrap id="102118177422MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118177422MS_i_1.tif" id="ImgLink-1" />
+<caption>Mass attenuation of various components as a function of photon energy.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Mass attenuation of various components as a function of photon energy.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">A more comprehensive set of simulations were run considering the effect of combined changes in composition in all fluids due to sour gas injection and water breakthrough. A number of flow conditions evolutions were built from compositional numerical models to test the methodology in conditions that would be representative of field conditions (Akbayev, 2010) and used to generate synthetic data for testing. The basic model geometry is shown on Fig. 2, with several formation property distributions used for sensitivity analysis and considering re-injection of gas from a three-stage separation process.</anchoringText>
+<image-wrap id="102118177422MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118177422MS_i_2.tif" id="ImgLink-2" />
+<caption>Reservoir model used, the colored circle represent the sources of pressure support (blue - aquifer, red - gas injection, green - reservoir).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Reservoir model used, the colored circle represent the sources of pressure support (blue - aquifer, red - gas injection, green - reservoir).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Flow-rates, phase fractions at metering point and well effluent compositions were taken from the compositional model outputs and used to generate synthetic counts data used for interpretation after adding measurement noise. As shown on Fig. 3, even with significant variations in composition over time on all components, the H2S measurement obtained does not show a significant error and properly trends the evolution of produced H2S even without any correction in fluid composition being applied in this case. The various synthetic cases considered proved that the measurement could theoretically provide enough accuracy and robustness to yield valuable information.</anchoringText>
+<image-wrap id="102118177422MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118177422MS_i_3.tif" id="ImgLink-3" />
+<caption>Example evolution of produced fluids composition and calculated H<sub>2</sub>S fraction (yellow) versus true H<sub>2</sub>S fraction (red).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Example evolution of produced fluids composition and calculated H<sub>2</sub>S fraction (yellow) versus true H<sub>2</sub>S fraction (red).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">The production conditions experienced in the Tengiz field in Kazakhstan are particularly adapted to demonstrate the value of the in-line H2S measurement. The Tengiz field is a super-giant carbonate oilfield located in the north east of the Caspian Sea (Fig. 4). Wu et al., 2014, offer a good description of the key characteristics of this reservoir. Despite its large extent, between 110 km2 at the top and 400 km2 at its base, it is characterized by a compositionally homogeneous oil, containing approximately 8% H2Sby mass.</anchoringText>
+<image-wrap id="102118177422MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118177422MS_i_4.tif" id="ImgLink-4" />
+<caption>Location of Tengiz Field.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Location of Tengiz Field.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">The resolution, repeatability and accuracy of the measurements were investigated by using an existing MPFM, installed at a metering station with 8 wells connected. Samples of flowing fluids (pressurized oil and gas samples) from each well were taken in parallel with MPFM measurements using a dedicated equipment designed for the capture of single-phase gas and oil samples from multiphase flow (Afanasyev et al., 2008). Fig. 5 shows the MPFM used during that test, as well as the added sampling tool.</anchoringText>
+<image-wrap id="102118177422MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118177422MS_i_5.tif" id="ImgLink-5" />
+<caption>Picture of the meter used for testing with the attached sampling kit.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Picture of the meter used for testing with the attached sampling kit.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">The sequence of tests is illustrated on Fig. 6, showing the operating conditions of the meter (pressure, temperature and differential pressure representative of total flow rate) during each test for individual wells. Out of the 5 wells tested, well 1 was tested at four different rates, starting at nominal rate (flow period 1, FP1), then at an increased rate (FP2), then with a short repeat test under unstable conditions a few days later (FP3) and finally at lower rates (FP4) following a restart (as indicated by the gradual increase in flowing temperature) nearly 10 days after the initial test.</anchoringText>
+<image-wrap id="102118177422MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118177422MS_i_6.tif" id="ImgLink-6" />
+<caption>Sequence of test followed for metrological validation.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Sequence of test followed for metrological validation.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">The first checkpoint was to confirm that a stable H2S content and GOR were obtained from the various wells and under different conditions. In this area of the field away from the SGI area consistent properties were expected across wells and this what was observed as shown on Fig. 7, with a GOR in accordance with expected value and an H2S content stable across wells with variations of 0.1% by mass or less observed over the entire test period when considering averages over stable periods.</anchoringText>
+<image-wrap id="102118177422MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118177422MS_i_7.tif" id="ImgLink-7" />
+<caption>Gas/oil ratio and H<sub>2</sub>S content measured by the MPFM during the test period.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Gas/oil ratio and H<sub>2</sub>S content measured by the MPFM during the test period.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">This proved the robustness of the MPFM measurements both in terms of flowing GOR and of the inline H2S measurement. When compared with sample analysis results (Fig. 8), the in-line H2S measurement again proved repeatable and was found within specifications (0.5% MPFM accuracy+0.25% PVT accuracy).</anchoringText>
+<image-wrap id="102118177422MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118177422MS_i_8.tif" id="ImgLink-8" />
+<caption>Comparison of H<sub>2</sub>S content in the various wells between sample analysis results and MPFM readings with its associated uncertainty band.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Comparison of H<sub>2</sub>S content in the various wells between sample analysis results and MPFM readings with its associated uncertainty band.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">Following the initial validation phase, the measurement was implemented in a meter located within the SGI area, in a well located in the Eastern section (Fig. 9).</anchoringText>
+<image-wrap id="102118177422MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118177422MS_i_9.tif" id="ImgLink-9" />
+<caption>SGI area with results from chemical injection tests showing fluids communication.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>SGI area with results from chemical injection tests showing fluids communication.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">Fig. 10 shows the measured GOR and H2S mass fractions in that well. The first observation is that the solvent concentration increase in production is easily confirmed by the increased values in both param-eters compared to the baseline observed in wells which have not yet seen solvent breakthrough. Over the test period it is also possible to observe a clear trend of increase in both GOR and H2S content, showing the increase in miscible injected gas content in produced fluids.</anchoringText>
+<image-wrap id="102118177422MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118177422MS_i_10.tif" id="ImgLink-10" />
+<caption>History of GOR and H<sub>2</sub>S measured in a well experiencing increased solvent content and Injection Rate in the East Area.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>History of GOR and H<sub>2</sub>S measured in a well experiencing increased solvent content and Injection Rate in the East Area.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">The overall trend shows increasing GOR and H2S content as is expected with the continued solvent dilution and breakthrough. The dips in GOR and H2S align with the changes of production rates causing varying inflow ratios from the differently saturated reservoir flow units (Fig. 11). As it can be seen from Fig. 11 when choke was increased injected solvent content is decreased and thus GOR and H2S.</anchoringText>
+<image-wrap id="102118177422MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118177422MS_i_11.tif" id="ImgLink-11" />
+<caption>Oil rate, GOR and H<sub>2</sub>S fraction during the multi-rate test period.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Oil rate, GOR and H<sub>2</sub>S fraction during the multi-rate test period.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">The secondary benefit of the continuous inline H2S measurement is that it allows for automated update of the calculation reference inputs (mass attenuation) used for multiphase rate calculations. This is illustrated in Fig. 12 showing the difference in meter readings when applying those updates against reliance on constant compositions, showing a more stable and representative response when accounting for variations in produced fluids phase H2S composition.</anchoringText>
+<image-wrap id="102118177422MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118177422MS_i_12.tif" id="ImgLink-12" />
+<caption>Comparison of water cut and GOR stability with an automatic update of fluid compositions against fixed inputs.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Comparison of water cut and GOR stability with an automatic update of fluid compositions against fixed inputs.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">Fig. 13 presents the graph of GOR from PVT modelling with changing H2S mass percentage (increasing solvent content), and has MPFM measurements results from six wells plotted. The PVT model was built using an Equation Of State (EOS) based upon multiple PVT. The GOR curve was obtained from modelling two stage separator tests (Stage #1 being average SGI gathering system conditions, Stage #2 is standard conditions) and shows the trend (blue curve on Fig. 13) as a function of H2S mass fraction in the produced mixture.</anchoringText>
+<image-wrap id="102118177422MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118177422MS_i_13.tif" id="ImgLink-13" />
+<caption>Comparison of trends between H<sub>2</sub>S content and GOR from MPFM measurements and PVT modeling.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Comparison of trends between H<sub>2</sub>S content and GOR from MPFM measurements and PVT modeling.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

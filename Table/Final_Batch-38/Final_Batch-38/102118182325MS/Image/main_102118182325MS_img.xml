@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118182325MS.txt" extractionDate="2021-03-22T09:13:07Z">
+<doi>10.2118/182325-MS</doi>
+<pii>10.2118/182325-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">Gas and condensate will be transported approximately 225 km to the LNG facilities onshore via a 44" trunkline. The Final Investment Decision (FID) for the Wheatstone Project was reached in September 2011. At time of writing, all nine foundation development wells have been drilled, completed and are ready for subsea hookup and commissioning. A location map of the Wheatstone and Iago fields and the Wheatstone Project is shown as Figure 1.Figure 2 shows the conceptual subsea development for the Wheatstone and Iago fields, with location of development wells and production lines to the Wheatstone platform.</anchoringText>
+<image-wrap id="102118182325MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118182325MS_i_1.tif" id="ImgLink-1" />
+<caption>Location Map of the Wheatstone and Iago fields as part of the Wheatstone LNG Project</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Location Map of the Wheatstone and Iago fields as part of the Wheatstone LNG Project</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">Gas and condensate will be transported approximately 225 km to the LNG facilities onshore via a 44" trunkline. The Final Investment Decision (FID) for the Wheatstone Project was reached in September 2011. At time of writing, all nine foundation development wells have been drilled, completed and are ready for subsea hookup and commissioning. A location map of the Wheatstone and Iago fields and the Wheatstone Project is shown as Figure 1.Figure 2 shows the conceptual subsea development for the Wheatstone and Iago fields, with location of development wells and production lines to the Wheatstone platform.</anchoringText>
+<image-wrap id="102118182325MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118182325MS_i_2.tif" id="ImgLink-2" />
+<caption>Subsea development concept for Wheatstone and Iago fields with foundation development wells</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Subsea development concept for Wheatstone and Iago fields with foundation development wells</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">The work of Earlougher (1977) discusses the classical interference analysis approach using the notion of "time lag" in order to determine mean reservoir properties. For an interference pulse test, the time lag is the time taken for the observing well to respond to change in active well behaviour, particularly for the period from when the active well ceases to flow until response in behaviour is observed at the observation well. The concept of time lag is shown as Figure 3, with the phenomena of time lag being the time for an observing well to change from an established trend when active well ceases to produce.</anchoringText>
+<image-wrap id="102118182325MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118182325MS_i_3.tif" id="ImgLink-3" />
+<caption>The concept of time lag in observation well downhole pressure response after production ceases at an active well, adapted from Earlougher.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>The concept of time lag in observation well downhole pressure response after production ceases at an active well, adapted from Earlougher.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">Well flowbacks were simulated from multiple reservoir dynamic models. Each dynamic model had the same flowback profile applied to flowing the active well, being an initial rate of 30 MMScf/d scaling up to 80 MMScf/d at 2% rate every 30 minutes, with a total flow period of 18 hours. The active well was then shut in and pressure pulse propagation to the observation well simulated in the model for a period of 30 days. The gas production profile representing the well unloading for the active well in the simulation model is shown as Figure 4. All other wells in the model are shut-in with down-hole pressure monitored.</anchoringText>
+<image-wrap id="102118182325MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118182325MS_i_4.tif" id="ImgLink-4" />
+<caption>Well unloading flow schedule for active well used in dynamic modelling.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Well unloading flow schedule for active well used in dynamic modelling.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">The changes in reservoir pore volume, derived from changes in netto- gross ratio, and reservoir petrophysics (permeability, fluid saturation and porosity) in the model suite, allows the assessment of these uncertainties on the observed pressure wave at the observation well from the same active well signature being applied in every simulation run. The following metrics were evaluated in the observation well; signal detectability, timing of pressure signal peak, and the height of pressure signal. A selection of the results for the simulation study of well unloading of the WST-1C well observed at the WST-1A are shown in Figures 5 and 6.</anchoringText>
+<image-wrap id="102118182325MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118182325MS_i_5.tif" id="ImgLink-5" />
+<caption>Comparison of signals observed at the WST-1A location from flowback at WST-1C with changes in pore volume/reservoir net to gross applied with mid permeability maintained</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Comparison of signals observed at the WST-1A location from flowback at WST-1C with changes in pore volume/reservoir net to gross applied with mid permeability maintained</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">The changes in reservoir pore volume, derived from changes in netto- gross ratio, and reservoir petrophysics (permeability, fluid saturation and porosity) in the model suite, allows the assessment of these uncertainties on the observed pressure wave at the observation well from the same active well signature being applied in every simulation run. The following metrics were evaluated in the observation well; signal detectability, timing of pressure signal peak, and the height of pressure signal. A selection of the results for the simulation study of well unloading of the WST-1C well observed at the WST-1A are shown in Figures 5 and 6.</anchoringText>
+<image-wrap id="102118182325MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118182325MS_i_6.tif" id="ImgLink-6" />
+<caption>Comparison of signals observed at the WST-1A location from flowback at WST-1C with changes in permeability realisation, with mid pore volume</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Comparison of signals observed at the WST-1A location from flowback at WST-1C with changes in permeability realisation, with mid pore volume</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">Ranges of permeability simulated ran from 250 md through to 1000 md, 2000 md, and 5000 md to cover a wide range of permeability and connectivity outcomes. Water saturation was calculated for each permeability band used. The well unloading production profile used in the preceding Wheatstone interference screening study was applied to the WST-1C well in the southern manifold, with observation again at the WST-1A well. From the range of porosity and permeability combinations, a series of simulation runs were completed, covering the ranges of porosity and permeability described above, some 20 in total. Sample results of various changes in model porosity and permeability are shown in Figures 7 and 8.</anchoringText>
+<image-wrap id="102118182325MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118182325MS_i_7.tif" id="ImgLink-7" />
+<caption>Sample observed pressure type curves generated from WST-1C flowback observed signal at the WST-1A well for varying homogeneous porosity from 10% through to 28% for constant permeability of 1000 md.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Sample observed pressure type curves generated from WST-1C flowback observed signal at the WST-1A well for varying homogeneous porosity from 10% through to 28% for constant permeability of 1000 md.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">Ranges of permeability simulated ran from 250 md through to 1000 md, 2000 md, and 5000 md to cover a wide range of permeability and connectivity outcomes. Water saturation was calculated for each permeability band used. The well unloading production profile used in the preceding Wheatstone interference screening study was applied to the WST-1C well in the southern manifold, with observation again at the WST-1A well. From the range of porosity and permeability combinations, a series of simulation runs were completed, covering the ranges of porosity and permeability described above, some 20 in total. Sample results of various changes in model porosity and permeability are shown in Figures 7 and 8.</anchoringText>
+<image-wrap id="102118182325MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118182325MS_i_8.tif" id="ImgLink-8" />
+<caption>Pressure type curves generated from the WST1-C flowback observed signal at WST-1A for varying permeability from 250 md through to 5000md with constant porosity of 20% used</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Pressure type curves generated from the WST1-C flowback observed signal at WST-1A for varying permeability from 250 md through to 5000md with constant porosity of 20% used</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">This process is illustrated in Figures 9 and 10 for the reference mid case Wheatstone model signal from the WST-1C well unloading flow being observed at the WST-1A well. On observation of the overlay of homogeneous type curves in Figure 9, an appropriate model match for wave amplitude seems to lie between homogeneous properties of 20% and 25%. The permeability required to match is greater than the 1000 md cases shown in Figure 9.Figure 10 shows the refinement of this match with further iterations of the homogeneous model properties with between 20% and 25% porosity and permeability between 2000 md and 5000 md.</anchoringText>
+<image-wrap id="102118182325MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118182325MS_i_9.tif" id="ImgLink-9" />
+<caption>Homogeneous reservoir parameter match process illustrating the reference case model signal to be matched (in black from the WST-1C well flowed, with observation at WST-1A). Homogeneous type curves on this plot all set at permeability of 1000 md.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Homogeneous reservoir parameter match process illustrating the reference case model signal to be matched (in black from the WST-1C well flowed, with observation at WST-1A). Homogeneous type curves on this plot all set at permeability of 1000 md.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">This process is illustrated in Figures 9 and 10 for the reference mid case Wheatstone model signal from the WST-1C well unloading flow being observed at the WST-1A well. On observation of the overlay of homogeneous type curves in Figure 9, an appropriate model match for wave amplitude seems to lie between homogeneous properties of 20% and 25%. The permeability required to match is greater than the 1000 md cases shown in Figure 9.Figure 10 shows the refinement of this match with further iterations of the homogeneous model properties with between 20% and 25% porosity and permeability between 2000 md and 5000 md.</anchoringText>
+<image-wrap id="102118182325MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118182325MS_i_10.tif" id="ImgLink-10" />
+<caption>Homogeneous model match process to completion. Final selection for match, model porosity of 22.5% and with permeability of 3000 md.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Homogeneous model match process to completion. Final selection for match, model porosity of 22.5% and with permeability of 3000 md.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">The low pore volume model was simulated for interference signals from WST-1C well unloading profile with observation at the WST-1A well location. The interference matching process for matching the low reservoir pore volume model case was applied and the results are shown as Figures 11 and 12.</anchoringText>
+<image-wrap id="102118182325MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118182325MS_i_11.tif" id="ImgLink-11" />
+<caption>Initial amplitude match with the low reservoir pore volume signal for the WST-1C flowback observed at WST-1A with homogeneous models. Homogeneous models in this Figure all set to permeability of 1000 md.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Initial amplitude match with the low reservoir pore volume signal for the WST-1C flowback observed at WST-1A with homogeneous models. Homogeneous models in this Figure all set to permeability of 1000 md.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">The low pore volume model was simulated for interference signals from WST-1C well unloading profile with observation at the WST-1A well location. The interference matching process for matching the low reservoir pore volume model case was applied and the results are shown as Figures 11 and 12.</anchoringText>
+<image-wrap id="102118182325MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118182325MS_i_12.tif" id="ImgLink-12" />
+<caption>Iterated homogeneous type curve model match for the low reservoir pore volume signal. Selected properties for match: porosity 14% and permeability 1800 md.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Iterated homogeneous type curve model match for the low reservoir pore volume signal. Selected properties for match: porosity 14% and permeability 1800 md.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">The approach for the transient map based numerical modelling method was to extract a representative map from the reservoir interval that both active and observer wells intersected in the Wheatstone reference dynamic model and transfer this map into the transient numerical model. The resulting map shows representative boundaries of net reservoir and variations in the net reservoir thickness. An active well and observer well were then placed per their respective locations in the transient numerical model. The scale for the transient model was set correctly to the distance between the two wells at ~1.6 km. This map based numerical modelling process is shown in Figure 13.</anchoringText>
+<image-wrap id="102118182325MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118182325MS_i_13.tif" id="ImgLink-13" />
+<caption>Creation of numerical model in the transient model software around the WST-1 location for this reservoir section of the Wheatstone field.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Creation of numerical model in the transient model software around the WST-1 location for this reservoir section of the Wheatstone field.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr14">A net thickness constraint was applied to the transient numerical model, adapted from a net thickness map in the reference static model of the main reservoir section between the two wells. This is shown in Figure 14.</anchoringText>
+<image-wrap id="102118182325MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118182325MS_i_14.tif" id="ImgLink-14" />
+<caption>Creation of net thickness property from the reference mid static model for the transient map based numerical model.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Creation of net thickness property from the reference mid static model for the transient map based numerical model.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="15" data-type-order="15">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr15">The transient map based numerical model was used to match the observed well unloading pulse at the WST-1A observation well from the WST-1C active well flowback profile. The match was determined by varying porosity for amplitude and permeability thickness in the numerical model until a suitable response in the numerical model was aligned to the original signal. The net thickness field was used as a constraint. The transient model match is shown as Figure 15.</anchoringText>
+<image-wrap id="102118182325MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118182325MS_i_15.tif" id="ImgLink-15" />
+<caption>History plot of the transient numerical model match (red) to the simulation model reference mid case (green) for the WST-1C well unloading being observed from WST-1A. Inset shows the boundaries of transient numerical model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>History plot of the transient numerical model match (red) to the simulation model reference mid case (green) for the WST-1C well unloading being observed from WST-1A. Inset shows the boundaries of transient numerical model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="16" data-type-order="16">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr16">The transient numerical model match for the low reservoir pore volume model is shown in Figure 16. This figure shows that a good match of the observed pulse signal is made with the homogeneous reservoir porosity of 15% and reservoir permeability of 1510 md.</anchoringText>
+<image-wrap id="102118182325MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118182325MS_i_16.tif" id="ImgLink-16" />
+<caption>Transient numerical model match for the low reservoir pore volume model. Selected properties for match: 15% porosity and 1510 md permeability.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Transient numerical model match for the low reservoir pore volume model. Selected properties for match: 15% porosity and 1510 md permeability.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

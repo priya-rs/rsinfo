@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118178880MS.txt" extractionDate="2021-03-20T15:32:22Z">
+<doi>10.2118/178880-MS</doi>
+<pii>10.2118/178880-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure composite="true" composite-count="2" pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr3">The purpose of this feature is to align the blade angle more with the resultant force from cutting the formation and thus improve the blade strength. Fig.1, shows the first principal stress comparison for a bit with zero lean blade on the left versus forward lean version of the same design on the right. Note that to add the lean to the design the root of the blades were shifted back to maintain tip geometry and thus loading conditions identical. As can be seen stress concentration at the blade root for the optimized blade geometry was reduced by at least 30%. This increases the safety factor against blade breakage and allows for taller and thinner blades without jeopardizing blade integrity.</anchoringText>
+<image-wrap id="102118178880MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118178880MS_i_1.tif" id="ImgLink-1" />
+<caption>First principal stress comparison between no lean blade (left) vs. forward lean blade (right) in psi.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>First principal stress comparison between no lean blade (left) vs. forward lean blade (right) in psi.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118178880MS-Img_SPi-1a">
+<imageLink type="mediaResource" href="102118178880MS_i_1a.tif" id="ImgLink-1a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>lean blade</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178880MS-Img_SPi-1b">
+<imageLink type="mediaResource" href="102118178880MS_i_1b.tif" id="ImgLink-1b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>forward lean blade</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr4">This was addressed with the flow guide feature which is a protrusion on the blade front that provides a conduit for the flow from nozzles to pass over the cutters. CFD indicated an average increase of 15-30% in both velocity (Fig. 2) and shear stress on the face of the cutters that helps with cleaning and cooling. The use of flow guide also reduces flow recirculation in the junk slot area which also improves cuttings evacuation. Full scale pressurized testing (Moslemi et al 2014) indicated an increase in ROP and reduction in bit balling for drilling in Catoosa shale, due to the use of the flow guide feature.</anchoringText>
+<image-wrap id="102118178880MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118178880MS_i_2.tif" id="ImgLink-2" />
+<caption>Flow velocity on blade front and on cutters face in absence (left) and presence (right) of flow guide.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Flow velocity on blade front and on cutters face in absence (left) and presence (right) of flow guide.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118178880MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118178880MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>absence</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178880MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118178880MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>presence</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr5">Therefore, extensive research was conducted on this topic leading to develop-ment of new modeling software to analyze the dynamic behavior of a PDC bit on bent motors with variable bent angles and stabilizer configurations. The software enables the designer to analyze and smooth the bit torque and WOB response to varying depth of cut and RPM ratios between the surface and downhole motor by making the required changes to the cutting structure (Fig. 3 and 4). The software is also capable of modeling the blade-formation rubbing under the eccentric bit motion which assists the designer to control the level of engagement between the bit and the formation using the available options.</anchoringText>
+<image-wrap id="102118178880MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118178880MS_i_3.tif" id="ImgLink-3" />
+<caption>The BHM software workflow.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>The BHM software workflow.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr6">Therefore, extensive research was conducted on this topic leading to develop-ment of new modeling software to analyze the dynamic behavior of a PDC bit on bent motors with variable bent angles and stabilizer configurations. The software enables the designer to analyze and smooth the bit torque and WOB response to varying depth of cut and RPM ratios between the surface and downhole motor by making the required changes to the cutting structure (Fig. 3 and 4). The software is also capable of modeling the blade-formation rubbing under the eccentric bit motion which assists the designer to control the level of engagement between the bit and the formation using the available options.</anchoringText>
+<image-wrap id="102118178880MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118178880MS_i_4.tif" id="ImgLink-4" />
+<caption>Software output indicating torque response versus bit rotation angle before (red) and after (green), following adjustment to the cutting structure.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Software output indicating torque response versus bit rotation angle before (red) and after (green), following adjustment to the cutting structure.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr7">The Williston Basin is located in North Dakota, USA (Fig. 5). The Bakken formation consists of three sections: Upper Bakken, Middle Bakken and Lower Bakken. The Middle Bakken is composed of siltstone cemented with calcite, dolomite and silica while the Upper and Lower Bakken are composed of hard siliceous shales. The Middle Bakken reaches a maximum thickness of 90 ft near the center of the basin (Gaswirth et al 2013).</anchoringText>
+<image-wrap id="102118178880MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118178880MS_i_5.tif" id="ImgLink-5" />
+<caption>Williston Basin Map (Schaefer K. 2012).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Williston Basin Map (<link href = "BIB1">Schaefer K. 2012</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+<linkTarget id="link-1" type="bib">
+<bib id="BIB1">
+<label></label>
+<label>Schaefer K. 2012</label>
+<author>
+<first-name>K.</first-name>
+<last-name>Schaefer</last-name>
+</author>, <pubDate>Dec 2012</pubDate>, <article-title>Article, The Montana Bakken Oil Play: "Great News for a Great Play"</article-title> http://oilandgasinvestments.
+com/2012/investing/the-montana-bakken-oil-play/.</bib>
+</linkTarget>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr8">The typical lateral section of a Bakken well has an average of 10,000 ft in length through the middle Bakken formation drilled at 90° inclination after setting 7” casing string (Fig. 6).</anchoringText>
+<image-wrap id="102118178880MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118178880MS_i_6.tif" id="ImgLink-6" />
+<caption>An image of a typical Bakken producing well schematic.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>An image of a typical Bakken producing well schematic.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr9">The first 6” 5-bladed, 16 mm cutter drill bit was run at a depth of 11,725 ft and drilled 7,406 ft before being pulled for downhole tool failure. The average ROP was 194.9 ft/h and was dull graded 1-2-WT-A-X-I-NO-BHA (Fig. 7).</anchoringText>
+<image-wrap id="102118178880MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118178880MS_i_7.tif" id="ImgLink-7" />
+<caption>The 6” 5-bladed, 16 mm cutter drill bit dull, run one.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>The 6” 5-bladed, 16 mm cutter drill bit dull, run one.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr10">The closest offsets from April 2015 from McKenzie County are shown below in Fig. 8.</anchoringText>
+<image-wrap id="102118178880MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118178880MS_i_8.tif" id="ImgLink-8" />
+<caption>McKenzie County run one offset comparison.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>McKenzie County run one offset comparison.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr11">This run resulted in a record run set for the longest lateral section drilled with a single BHA for the operator in McKenzie County. Fig. 9 summarizes the performance results.</anchoringText>
+<image-wrap id="102118178880MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118178880MS_i_9.tif" id="ImgLink-9" />
+<caption>The second performance comparison in McKenzie County.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>The second performance comparison in McKenzie County.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr12">The steel bodied 6-bladed, 16 mm cutting structure design was run on a rotary assembly with water based mud and went in at 1,077 m and drilled through carbonate sequences interbedded with shales before reaching the top of the very hard and abrasive sandstone sequence of Al Khalata formation of approxi-mately 130 m thickness. It reached a total depth at 3,684 m, having drilled a total of 2,607 m at 15.4 m/h. The bit was graded 1-2-WT-N-X-I-CT-TD (Fig 10).</anchoringText>
+<image-wrap id="102118178880MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118178880MS_i_10.tif" id="ImgLink-10" />
+<caption>A top view of the 12 <sup>2</sup>⁄<sub>4</sub>” 6 bladed, 16 mm cutter dull.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>A top view of the 12 <sup>2</sup>⁄<sub>4</sub>” 6 bladed, 16 mm cutter dull.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="11" data-type-order="13">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr13">The run resulted in a 29% ROP improvement versus direct offsets (Fig. 11) with its first iteration.</anchoringText>
+<image-wrap id="102118178880MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118178880MS_i_11.tif" id="ImgLink-11" />
+<caption>The 12 <sup>2</sup>⁄<sub>4</sub>” performance comparison vs. direct offsets, Khazzan field.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>The 12 <sup>2</sup>⁄<sub>4</sub>” performance comparison vs. direct offsets, Khazzan field.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="12" data-type-order="14">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr14">The8¾” 6-bladed design with 16 mm cutters went in at 604 m and drilled 878 m at 54.88 m/h. It drilled mostly through hard shales and sandstones with traces of siltstones, and a sandstone sequence with chert stringers in the bottom section, with UCS values ranging from 15-25 Kpsi (Fig 12).</anchoringText>
+<image-wrap id="102118178880MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118178880MS_i_12.tif" id="ImgLink-12" />
+<caption>Rock strength analysis, lower 8 <sup>3</sup>⁄<sub>4</sub>” section.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Rock strength analysis, lower 8 <sup>3</sup>⁄<sub>4</sub>” section.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="13" data-type-order="15">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr15">The bit drilled vertically after drilling out the casing shoe and was graded 2-2-CT-S-X-I-BT-PR (Fig. 13). The section total depth was called 23 meters deeper. The bit achieved 23% increased ROP versus direct offsets within a 10 km radius, with an increased interval of more than 200 m (Fig. 14).</anchoringText>
+<image-wrap id="102118178880MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118178880MS_i_13.tif" id="ImgLink-13" />
+<caption>The 8 <sup>3</sup>⁄<sub>4</sub>” 6-bladed dull bit with 16 mm cutters.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>The 8 <sup>3</sup>⁄<sub>4</sub>” 6-bladed dull bit with 16 mm cutters.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="14" data-type-order="16">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr16">The bit drilled vertically after drilling out the casing shoe and was graded 2-2-CT-S-X-I-BT-PR (Fig. 13). The section total depth was called 23 meters deeper. The bit achieved 23% increased ROP versus direct offsets within a 10 km radius, with an increased interval of more than 200 m (Fig. 14).</anchoringText>
+<image-wrap id="102118178880MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118178880MS_i_14.tif" id="ImgLink-14" />
+<caption>ROP comparison, 8 <sup>3</sup>⁄<sub>4</sub>” drillout section.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>ROP comparison, 8 <sup>3</sup>⁄<sub>4</sub>” drillout section.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

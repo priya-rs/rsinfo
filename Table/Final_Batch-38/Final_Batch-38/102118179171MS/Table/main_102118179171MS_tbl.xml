@@ -1,0 +1,2223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118179171MS.txt" extractionDate="2021-03-22T17:40:14Z">
+<doi>10.2118/179171-MS</doi>
+<pii>10.2118/179171-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="7" table-order="1" data-type-order="3">
+<table-wrap id="102118179171MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Table 1 shows correlation coefficients among several variables in the Rough Rider Middle Bakken database. As an example, 180-day cumulative oil/ft is negatively correlated to water cut with a correlation coefficient (r) of – 0.44. One hundred eighty-day cumulative oil/ft and frac fluid pumped (bbl/ft) are positively correlated (r – 0.34).</anchoringText>
+<label>Table 1</label>
+<caption>Correlation coefficients for the Middle Bakken laterals (Rough Rider Area)</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Correlation coefficients for the Middle Bakken laterals (Rough Rider Area)</caption-text>
+</formatted-caption>
+<table id="102118179171MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">FtperStage</th>
+<th valign="top" align="center">Cemented</th>
+<th valign="top" align="center">Stages</th>
+<th valign="top" align="center">AvgPPG</th>
+<th valign="top" align="center">PctCeramic</th>
+<th valign="top" align="center">LbperFt</th>
+<th valign="top" align="center">BblperFt</th>
+<th valign="top" align="center">MaxRate</th>
+<th valign="top" align="center">WaterCut</th>
+<th valign="top" align="center">GrossThick</th>
+<th valign="top" align="center">OilGravity</th>
+<th valign="top" align="center">LBSTOC</th>
+<th valign="top" align="center">UBSTOC</th>
+<th valign="top" align="center">TVD</th>
+<th valign="top" align="center">180DayCumOilperFt</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">FtperStage</td>
+<td valign="top" align="center" bgcolor="#D9D9D9">1.00</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.04</td>
+<td valign="top" align="center" >-0.71</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.02</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.06</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.33</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.23</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.07</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.18</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.04</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.12</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.04</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.07</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.10</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.21</td>
+</tr>
+<tr>
+<td valign="top" align="center">Cemented</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.04</td>
+<td valign="top" align="center" bgcolor="#D9D9D9">1.00</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.06</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.03</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.23</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.23</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.02</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.09</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.11</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.04</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.14</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.17</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.16</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.07</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.14</td>
+</tr>
+<tr>
+<td valign="top" align="center">Stages</td>
+<td valign="top" align="center" >-0.71</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.05</td>
+<td valign="top" align="center" bgcolor="#D9D9D9">1.00</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.01</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.03</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.22</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.13</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.04</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.17</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.03</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.12</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.12</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.13</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.17</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.09</td>
+</tr>
+<tr>
+<td valign="top" align="center">AvgPPG</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.02</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.03</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.01</td>
+<td valign="top" align="center" bgcolor="#D9D9D9">1.00</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.42</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.12</td>
+<td valign="top" align="center" >-0.72</td>
+<td valign="top" align="center" >-0.62</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.06</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.03</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.13</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.14</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.06</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.05</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.24</td>
+</tr>
+<tr>
+<td valign="top" align="center">PctCeramic</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.06</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.23</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.03</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.42</td>
+<td valign="top" align="center" bgcolor="#D9D9D9">1.00</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.17</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.44</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.26</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.08</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.02</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.18</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.05</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.02</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.15</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.26</td>
+</tr>
+<tr>
+<td valign="top" align="center">LbperFt</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.33</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.23</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.22</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.12</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.17</td>
+<td valign="top" align="center" bgcolor="#D9D9D9">1.00</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.41</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.17</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.28</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.09</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.09</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.12</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.10</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.05</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.29</td>
+</tr>
+<tr>
+<td valign="top" align="center">BblperFt</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.23</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.02</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.13</td>
+<td valign="top" align="center" >-0.72</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.44</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.41</td>
+<td valign="top" align="center" bgcolor="#D9D9D9">1.00</td>
+<td valign="top" align="center" >0.82</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.30</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.07</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.05</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.20</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.16</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.06</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.34</td>
+</tr>
+<tr>
+<td valign="top" align="center">MaxRate</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.07</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.09</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.04</td>
+<td valign="top" align="center" >-0.62</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.26</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.17</td>
+<td valign="top" align="center" >0.82</td>
+<td valign="top" align="center" bgcolor="#D9D9D9">1.00</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.25</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.11</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.16</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.18</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.11</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.07</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.23</td>
+</tr>
+<tr>
+<td valign="top" align="center">WaterCut</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.18</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.11</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.17</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.06</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.08</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.28</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.30</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.25</td>
+<td valign="top" align="center" bgcolor="#D9D9D9">1.00</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.30</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.38</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.12</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.31</td>
+<td valign="top" align="center" >-0.51</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.44</td>
+</tr>
+<tr>
+<td valign="top" align="center">GrossThick</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.04</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.04</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.03</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.03</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.02</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.09</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.07</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.11</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.30</td>
+<td valign="top" align="center" bgcolor="#D9D9D9">1.00</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.18</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.01</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.27</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.14</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.17</td>
+</tr>
+<tr>
+<td valign="top" align="center">OilGravity</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.12</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.14</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.12</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.13</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.18</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.09</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.05</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.16</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.38</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.18</td>
+<td valign="top" align="center" bgcolor="#D9D9D9">1.00</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.31</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.39</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.47</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.21</td>
+</tr>
+<tr>
+<td valign="top" align="center">LBSTOC</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.04</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.17</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.12</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.14</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.05</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.12</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.20</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.18</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.12</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.01</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.31</td>
+<td valign="top" align="center" bgcolor="#D9D9D9">1.00</td>
+<td valign="top" align="center" >0.73</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.36</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.10</td>
+</tr>
+<tr>
+<td valign="top" align="center">UBSTOC</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.07</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.16</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.13</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.06</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.02</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.10</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.16</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.11</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.31</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.27</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.39</td>
+<td valign="top" align="center" >0.73</td>
+<td valign="top" align="center" bgcolor="#D9D9D9">1.00</td>
+<td valign="top" align="center" >-0.58</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.10</td>
+</tr>
+<tr>
+<td valign="top" align="center">TVD</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.10</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.07</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.17</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.05</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.15</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.05</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.06</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.07</td>
+<td valign="top" align="center" >-0.51</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.14</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.47</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.36</td>
+<td valign="top" align="center" >-0.58</td>
+<td valign="top" align="center" bgcolor="#D9D9D9">1.00</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.34</td>
+</tr>
+<tr>
+<td valign="top" align="center">180DayCumOilperFt</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.21</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.14</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.09</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.24</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.26</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.29</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.34</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.23</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.44</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.17</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.21</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.10</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">-0.10</td>
+<td valign="top" align="center" bgcolor="#C5E0B3">0.34</td>
+<td valign="top" align="center" bgcolor="#D9D9D9">1.00</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="13" table-order="2" data-type-order="8">
+<table-wrap id="102118179171MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Table 2 compares the R-squared, training RMSE, and test RMSE values of all the models using the Rough Rider Middle Bakken data. The RMSE is in BO/ft. As expected, the test RMSEs are higher than the training RMSEs for all the models Again, a training RMSE of 1.527 BO/ft, for example, means that on average there is about a 15,270 barrel-of-oil uncertainty in the predicted 180-day cumulative oil/10,000-ft lateral.</anchoringText>
+<label>Table 2</label>
+<caption>Overall regression results, Rough Rider Middle Bakken data</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Overall regression results, Rough Rider Middle Bakken data</caption-text>
+</formatted-caption>
+<table id="102118179171MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Model</th>
+<th valign="top" align="center">R<sup>2</sup>
+</th>
+<th valign="top" align="center">Training RMSE</th>
+<th valign="top" align="center">Test RMSE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Multiple Regr. Model 1</td>
+<td valign="top" align="center">0.57</td>
+<td valign="top" align="center">1.632</td>
+<td valign="top" align="center">1.641</td>
+</tr>
+<tr>
+<td valign="top" align="left">Multiple Regr. Model 2</td>
+<td valign="top" align="center">0.63</td>
+<td valign="top" align="center">1.521</td>
+<td valign="top" align="center">1.595</td>
+</tr>
+<tr>
+<td valign="top" align="left">BIC Chosen</td>
+<td valign="top" align="center">0.62</td>
+<td valign="top" align="center">1.545</td>
+<td valign="top" align="center">1.570</td>
+</tr>
+<tr>
+<td valign="top" align="left">AIC Chosen</td>
+<td valign="top" align="center">0.63</td>
+<td valign="top" align="center">1.527</td>
+<td valign="top" align="center">1.565</td>
+</tr>
+<tr>
+<td valign="top" align="left">Random Forests</td>
+<td valign="top" align="center">0.63</td>
+<td valign="top" align="center">1.538</td>
+<td valign="top" align="center">1.544</td>
+</tr>
+<tr>
+<td valign="top" align="left">GBM</td>
+<td valign="top" align="center">0.89</td>
+<td valign="top" align="center">0.836</td>
+<td valign="top" align="center">1.543</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="14" table-order="3" data-type-order="9">
+<table-wrap id="102118179171MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Table 3 is an example of the sensitivities of only completion-related variables on the predicted 180-day cumulative oil/ft using the AIC chosen model shown previously (due to space constraints, we will show the sensitivity results of the other models in Figure 7). These sensitivities were performed by holding all of the predictors constant (at their mean values) except for the predictor of interest. The change in the predicted 180- day cumulative oil/ft is noted and compared to the base case (in green).</anchoringText>
+<label>Table 3</label>
+<caption>A sensitivity of completion parameters on the predicted 180-day cumulative oil/ft using the AIC chosen model, Rough Rider Middle Bakken data</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>A sensitivity of completion parameters on the predicted 180-day cumulative oil/ft using the AIC chosen model, Rough Rider Middle Bakken data</caption-text>
+</formatted-caption>
+<table id="102118179171MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Bbl/ft</th>
+<th valign="top" align="left">180 Day Cum BO/ft</th>
+<th valign="top" align="left">% Change</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="right">5.0</td>
+<td valign="top" align="right">6.654</td>
+<td valign="top" align="right">-12%</td>
+</tr>
+<tr>
+<td valign="top" align="right">7.5</td>
+<td valign="top" align="right">7.096</td>
+<td valign="top" align="right">-6%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#8FD151">10.0</td>
+<td valign="top" align="right" bgcolor="#8FD151">7.538</td>
+<td valign="top" align="right" bgcolor="#8FD151">0%</td>
+</tr>
+<tr>
+<td valign="top" align="right">12.5</td>
+<td valign="top" align="right">7.979</td>
+<td valign="top" align="right">6%</td>
+</tr>
+<tr>
+<td valign="top" align="right">15.0</td>
+<td valign="top" align="right">8.421</td>
+<td valign="top" align="right">12%</td>
+</tr>
+<tr>
+<td valign="top" align="right">17.5</td>
+<td valign="top" align="right">8.863</td>
+<td valign="top" align="right">18%</td>
+</tr>
+<tr>
+<td valign="top" align="right">20.0</td>
+<td valign="top" align="right">9.304</td>
+<td valign="top" align="right">23%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">22.5</td>
+<td valign="top" align="right" bgcolor="#F1B086">9.746</td>
+<td valign="top" align="right" bgcolor="#F1B086">29%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">25.0</td>
+<td valign="top" align="right" bgcolor="#F1B086">10.188</td>
+<td valign="top" align="right" bgcolor="#F1B086">35%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">27.5</td>
+<td valign="top" align="right" bgcolor="#F1B086">10.629</td>
+<td valign="top" align="right" bgcolor="#F1B086">41%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">30.0</td>
+<td valign="top" align="right" bgcolor="#F1B086">11.071</td>
+<td valign="top" align="right" bgcolor="#F1B086">4796</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">32.5</td>
+<td valign="top" align="right" bgcolor="#F1B086">11.513</td>
+<td valign="top" align="right" bgcolor="#F1B086">53%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">35.0</td>
+<td valign="top" align="right" bgcolor="#F1B086">11.955</td>
+<td valign="top" align="right" bgcolor="#F1B086">59%</td>
+</tr>
+</tbody>
+</table>
+<table id="102118179171MS-Tbl_SPi-4" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="left">
+<b>Lb/ft</b>
+</td>
+<td valign="top" align="left">
+<b>180 Day Cum BO/ft</b>
+</td>
+<td valign="top" align="left">
+<b>% Change</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">100</td>
+<td valign="top" align="right" bgcolor="#F1B086">6.554</td>
+<td valign="top" align="right" bgcolor="#F1B086">-13%</td>
+</tr>
+<tr>
+<td valign="top" align="right">200</td>
+<td valign="top" align="right">6.882</td>
+<td valign="top" align="right">-9%</td>
+</tr>
+<tr>
+<td valign="top" align="right">300</td>
+<td valign="top" align="right">7.210</td>
+<td valign="top" align="right">-4%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#8FD151">400</td>
+<td valign="top" align="right" bgcolor="#8FD151">7.538</td>
+<td valign="top" align="right" bgcolor="#8FD151">0%</td>
+</tr>
+<tr>
+<td valign="top" align="right">500</td>
+<td valign="top" align="right">7.866</td>
+<td valign="top" align="right">4%</td>
+</tr>
+<tr>
+<td valign="top" align="right">600</td>
+<td valign="top" align="right">8.194</td>
+<td valign="top" align="right">9%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">700</td>
+<td valign="top" align="right" bgcolor="#F1B086">8.522</td>
+<td valign="top" align="right" bgcolor="#F1B086">13%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">800</td>
+<td valign="top" align="right" bgcolor="#F1B086">8.850</td>
+<td valign="top" align="right" bgcolor="#F1B086">17%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">900</td>
+<td valign="top" align="right" bgcolor="#F1B086">9.178</td>
+<td valign="top" align="right" bgcolor="#F1B086">22%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">1000</td>
+<td valign="top" align="right" bgcolor="#F1B086">9.506</td>
+<td valign="top" align="right" bgcolor="#F1B086">26%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">1200</td>
+<td valign="top" align="right" bgcolor="#F1B086">10.162</td>
+<td valign="top" align="right" bgcolor="#F1B086">35%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">1300</td>
+<td valign="top" align="right" bgcolor="#F1B086">10.490</td>
+<td valign="top" align="right" bgcolor="#F1B086">39%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">1400</td>
+<td valign="top" align="right" bgcolor="#F1B086">10.818</td>
+<td valign="top" align="right" bgcolor="#F1B086">44%</td>
+</tr>
+</tbody>
+</table>
+<table id="102118179171MS-Tbl_SPi-5" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="left">
+<b>% Ceramic</b>
+</td>
+<td valign="top" align="left">
+<b>180 Day Cum BO/ft</b>
+</td>
+<td valign="top" align="left">
+<b>% Change</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="right">0%</td>
+<td valign="top" align="right">7.377</td>
+<td valign="top" align="right">-2%</td>
+</tr>
+<tr>
+<td valign="top" align="right">10%</td>
+<td valign="top" align="right">7.417</td>
+<td valign="top" align="right">-2%</td>
+</tr>
+<tr>
+<td valign="top" align="right">20%</td>
+<td valign="top" align="right">7.457</td>
+<td valign="top" align="right">-1%</td>
+</tr>
+<tr>
+<td valign="top" align="right">30%</td>
+<td valign="top" align="right">7.497</td>
+<td valign="top" align="right">-1%</td>
+</tr>
+<tr>
+<td valign="top" align="right">35%</td>
+<td valign="top" align="right">7.518</td>
+<td valign="top" align="right">0%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#8FD151">40%</td>
+<td valign="top" align="right" bgcolor="#8FD151">7.538</td>
+<td valign="top" align="right" bgcolor="#8FD151">0%</td>
+</tr>
+<tr>
+<td valign="top" align="right">45%</td>
+<td valign="top" align="right">7.558</td>
+<td valign="top" align="right">0%</td>
+</tr>
+<tr>
+<td valign="top" align="right">50%</td>
+<td valign="top" align="right">7.578</td>
+<td valign="top" align="right">1%</td>
+</tr>
+<tr>
+<td valign="top" align="right">60%</td>
+<td valign="top" align="right">7.618</td>
+<td valign="top" align="right">1%</td>
+</tr>
+<tr>
+<td valign="top" align="right">70%</td>
+<td valign="top" align="right">7.659</td>
+<td valign="top" align="right">2%</td>
+</tr>
+<tr>
+<td valign="top" align="right">80%</td>
+<td valign="top" align="right">7.699</td>
+<td valign="top" align="right">2%</td>
+</tr>
+<tr>
+<td valign="top" align="right">90%</td>
+<td valign="top" align="right">7.739</td>
+<td valign="top" align="right">3%</td>
+</tr>
+<tr>
+<td valign="top" align="right">100%</td>
+<td valign="top" align="right">7.779</td>
+<td valign="top" align="right">3%</td>
+</tr>
+</tbody>
+</table>
+<table id="102118179171MS-Tbl_SPi-6" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="left">
+<b>Max Rate, bpm</b>
+</td>
+<td valign="top" align="left">
+<b>180 Day Cum BO/ft</b>
+</td>
+<td valign="top" align="left">
+<b>% Change</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="right">20</td>
+<td valign="top" align="right">6.926</td>
+<td valign="top" align="right">-8%</td>
+</tr>
+<tr>
+<td valign="top" align="right">25</td>
+<td valign="top" align="right">7.079</td>
+<td valign="top" align="right">-6%</td>
+</tr>
+<tr>
+<td valign="top" align="right">30</td>
+<td valign="top" align="right">7.232</td>
+<td valign="top" align="right">-4%</td>
+</tr>
+<tr>
+<td valign="top" align="right">35</td>
+<td valign="top" align="right">7.385</td>
+<td valign="top" align="right">-2%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#8FD151">40</td>
+<td valign="top" align="right" bgcolor="#8FD151">7.538</td>
+<td valign="top" align="right" bgcolor="#8FD151">0%</td>
+</tr>
+<tr>
+<td valign="top" align="right">45</td>
+<td valign="top" align="right">7.691</td>
+<td valign="top" align="right">2%</td>
+</tr>
+<tr>
+<td valign="top" align="right">50</td>
+<td valign="top" align="right">7.843</td>
+<td valign="top" align="right">4%</td>
+</tr>
+<tr>
+<td valign="top" align="right">55</td>
+<td valign="top" align="right">7.996</td>
+<td valign="top" align="right">6%</td>
+</tr>
+<tr>
+<td valign="top" align="right">60</td>
+<td valign="top" align="right">8.149</td>
+<td valign="top" align="right">8%</td>
+</tr>
+<tr>
+<td valign="top" align="right">65</td>
+<td valign="top" align="right">8.302</td>
+<td valign="top" align="right">10%</td>
+</tr>
+<tr>
+<td valign="top" align="right">70</td>
+<td valign="top" align="right">8.455</td>
+<td valign="top" align="right">12%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">75</td>
+<td valign="top" align="right" bgcolor="#F1B086">8.608</td>
+<td valign="top" align="right" bgcolor="#F1B086">14%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">80</td>
+<td valign="top" align="right" bgcolor="#F1B086">8.761</td>
+<td valign="top" align="right" bgcolor="#F1B086">16%</td>
+</tr>
+</tbody>
+</table>
+<table id="102118179171MS-Tbl_SPi-7" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="left">
+<b>Ft/stage, ft</b>
+</td>
+<td valign="top" align="left">
+<b>180 Day Cum BO/ft</b>
+</td>
+<td valign="top" align="left">
+<b>% Change</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">100</td>
+<td valign="top" align="right" bgcolor="#F1B086">9.201</td>
+<td valign="top" align="right" bgcolor="#F1B086">22%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">125</td>
+<td valign="top" align="right" bgcolor="#F1B086">8.993</td>
+<td valign="top" align="right" bgcolor="#F1B086">19%</td>
+</tr>
+<tr>
+<td valign="top" align="right">150</td>
+<td valign="top" align="right">8.785</td>
+<td valign="top" align="right">17%</td>
+</tr>
+<tr>
+<td valign="top" align="right">175</td>
+<td valign="top" align="right">8.577</td>
+<td valign="top" align="right">14%</td>
+</tr>
+<tr>
+<td valign="top" align="right">200</td>
+<td valign="top" align="right">8.369</td>
+<td valign="top" align="right">11%</td>
+</tr>
+<tr>
+<td valign="top" align="right">225</td>
+<td valign="top" align="right">8.161</td>
+<td valign="top" align="right">8%</td>
+</tr>
+<tr>
+<td valign="top" align="right">250</td>
+<td valign="top" align="right">7.953</td>
+<td valign="top" align="right">6%</td>
+</tr>
+<tr>
+<td valign="top" align="right">275</td>
+<td valign="top" align="right">7.746</td>
+<td valign="top" align="right">3%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#8FD151">300</td>
+<td valign="top" align="right" bgcolor="#8FD151">7.538</td>
+<td valign="top" align="right" bgcolor="#8FD151">0%</td>
+</tr>
+<tr>
+<td valign="top" align="right">325</td>
+<td valign="top" align="right">7.330</td>
+<td valign="top" align="right">-3%</td>
+</tr>
+<tr>
+<td valign="top" align="right">350</td>
+<td valign="top" align="right">7.122</td>
+<td valign="top" align="right">-6%</td>
+</tr>
+<tr>
+<td valign="top" align="right">375</td>
+<td valign="top" align="right">6.914</td>
+<td valign="top" align="right">-8%</td>
+</tr>
+<tr>
+<td valign="top" align="right">400</td>
+<td valign="top" align="right">6.706</td>
+<td valign="top" align="right">-11%</td>
+</tr>
+</tbody>
+</table>
+<table id="102118179171MS-Tbl_SPi-8" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="left">
+<b>Water Cut, %</b>
+</td>
+<td valign="top" align="left">
+<b>180 Day Cum BO/ft</b>
+</td>
+<td valign="top" align="left">
+<b>% Change</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">0%</td>
+<td valign="top" align="right" bgcolor="#F1B086">12.128</td>
+<td valign="top" align="right" bgcolor="#F1B086">61%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">10%</td>
+<td valign="top" align="right" bgcolor="#F1B086">10.980</td>
+<td valign="top" align="right" bgcolor="#F1B086">46%</td>
+</tr>
+<tr>
+<td valign="top" align="right">20%</td>
+<td valign="top" align="right">9.833</td>
+<td valign="top" align="right">30%</td>
+</tr>
+<tr>
+<td valign="top" align="right">30%</td>
+<td valign="top" align="right">8.685</td>
+<td valign="top" align="right">15%</td>
+</tr>
+<tr>
+<td valign="top" align="right">35%</td>
+<td valign="top" align="right">8.111</td>
+<td valign="top" align="right">8%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#8FD151">40%</td>
+<td valign="top" align="right" bgcolor="#8FD151">7.538</td>
+<td valign="top" align="right" bgcolor="#8FD151">0%</td>
+</tr>
+<tr>
+<td valign="top" align="right">45%</td>
+<td valign="top" align="right">6.964</td>
+<td valign="top" align="right">-8%</td>
+</tr>
+<tr>
+<td valign="top" align="right">50%</td>
+<td valign="top" align="right">6.390</td>
+<td valign="top" align="right">-15%</td>
+</tr>
+<tr>
+<td valign="top" align="right">60%</td>
+<td valign="top" align="right">5.243</td>
+<td valign="top" align="right">-30%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">70%</td>
+<td valign="top" align="right" bgcolor="#F1B086">4.095</td>
+<td valign="top" align="right" bgcolor="#F1B086">-46%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">80%</td>
+<td valign="top" align="right" bgcolor="#F1B086">2.948</td>
+<td valign="top" align="right" bgcolor="#F1B086">-61%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">90%</td>
+<td valign="top" align="right" bgcolor="#F1B086">1.800</td>
+<td valign="top" align="right" bgcolor="#F1B086">-76%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">100%</td>
+<td valign="top" align="right" bgcolor="#F1B086">0.652</td>
+<td valign="top" align="right" bgcolor="#F1B086">-91%</td>
+</tr>
+</tbody>
+</table>
+<table id="102118179171MS-Tbl_SPi-9" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="left">
+<b>Cemented/Open</b>
+</td>
+<td valign="top" align="left">
+<b>180 Day Cum BO/ft</b>
+</td>
+<td valign="top" align="left">
+<b>% Change</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#8FD151">0</td>
+<td valign="top" align="right" bgcolor="#8FD151">7.538</td>
+<td valign="top" align="right" bgcolor="#8FD151">0%</td>
+</tr>
+<tr>
+<td valign="top" align="right">1</td>
+<td valign="top" align="right">9.446</td>
+<td valign="top" align="right">25%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="19" table-order="4" data-type-order="15">
+<table-wrap id="102118179171MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">The multiple regression model 1 consisting of eight predictors results in an R-squared of 0.54 and a training RMSE of 1.745 BO/ft whereas the multiple regression model 2 gives an R-squared of 0.70 with training RMSE of 1.408 BO/ft. Figure 10 is the predicted versus observed 180-day cumulative oil/ft for the BIC and AIC chosen models, and Figure 11 is the same plot for the random forests and GBM. The R-squared, training RMSE, and test RMSE values of all the models for the Three Forks data are given in Table 4.</anchoringText>
+<label>Table 4</label>
+<caption>Overall regression results, Rough Rider Three Forks data</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Overall regression results, Rough Rider Three Forks data</caption-text>
+</formatted-caption>
+<table id="102118179171MS-Tbl_SPi-10" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Model</th>
+<th valign="top" align="center">R<sup>2</sup>
+</th>
+<th valign="top" align="center">Training RMSE</th>
+<th valign="top" align="center">Test RMSE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Multiple Regr. Model 1</td>
+<td valign="top" align="center">0.54</td>
+<td valign="top" align="center">1.745</td>
+<td valign="top" align="center">1.897</td>
+</tr>
+<tr>
+<td valign="top" align="center">Multiple Regr. Model 2</td>
+<td valign="top" align="center">0.70</td>
+<td valign="top" align="center">1.408</td>
+<td valign="top" align="center">1.802</td>
+</tr>
+<tr>
+<td valign="top" align="center">BIC Chosen</td>
+<td valign="top" align="center">0.67</td>
+<td valign="top" align="center">1.438</td>
+<td valign="top" align="center">1.692</td>
+</tr>
+<tr>
+<td valign="top" align="center">AIC Chosen</td>
+<td valign="top" align="center">0.69</td>
+<td valign="top" align="center">1.421</td>
+<td valign="top" align="center">1.688</td>
+</tr>
+<tr>
+<td valign="top" align="center">Random Forests</td>
+<td valign="top" align="center">0.49</td>
+<td valign="top" align="center">1.840</td>
+<td valign="top" align="center">1.959</td>
+</tr>
+<tr>
+<td valign="top" align="center">GBM</td>
+<td valign="top" align="center">0.92</td>
+<td valign="top" align="center">0.757</td>
+<td valign="top" align="center">1.910</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="20" table-order="5" data-type-order="16">
+<table-wrap id="102118179171MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">Table 5 shows the sensitivities of only completion-related variables on the predicted 180-day cumulative oil/ft using the AIC chosen model. Again, these sensitivities were performed by holding all of the predictors constant (at their mean values) except for the predictor of interest. The change in the predicted 180-day cumulative oil/ft is noted and compared to the base case (in green). The numbers in dark orange are greater than two standard deviations from the mean of the predictor of interest.</anchoringText>
+<label>Table 5</label>
+<caption>A sensitivity of completion parameters on the predicted 180-day cumulative oil/ft using the AIC chosen model, Rough Rider Three Forks data</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>A sensitivity of completion parameters on the predicted 180-day cumulative oil/ft using the AIC chosen model, Rough Rider Three Forks data</caption-text>
+</formatted-caption>
+<table id="102118179171MS-Tbl_SPi-11" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Bbl/ft</th>
+<th valign="top" align="left">180 Day Cum BO/ft</th>
+<th valign="top" align="left">% Change</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="right">5.0</td>
+<td valign="top" align="right">5.556</td>
+<td valign="top" align="right">-4%</td>
+</tr>
+<tr>
+<td valign="top" align="right">7.5</td>
+<td valign="top" align="right">5.665</td>
+<td valign="top" align="right">-2%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#8FD151">10.0</td>
+<td valign="top" align="right" bgcolor="#8FD151">5.774</td>
+<td valign="top" align="right" bgcolor="#8FD151">0%</td>
+</tr>
+<tr>
+<td valign="top" align="right">12.5</td>
+<td valign="top" align="right">5.883</td>
+<td valign="top" align="right">2%</td>
+</tr>
+<tr>
+<td valign="top" align="right">15.0</td>
+<td valign="top" align="right">5.992</td>
+<td valign="top" align="right">4%</td>
+</tr>
+<tr>
+<td valign="top" align="right">17.5</td>
+<td valign="top" align="right">6.102</td>
+<td valign="top" align="right">6%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">20.0</td>
+<td valign="top" align="right" bgcolor="#F1B086">6.211</td>
+<td valign="top" align="right" bgcolor="#F1B086">8%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">22.5</td>
+<td valign="top" align="right" bgcolor="#F1B086">6.320</td>
+<td valign="top" align="right" bgcolor="#F1B086">9%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">25.0</td>
+<td valign="top" align="right" bgcolor="#F1B086">6.429</td>
+<td valign="top" align="right" bgcolor="#F1B086">11%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">27.5</td>
+<td valign="top" align="right" bgcolor="#F1B086">6.538</td>
+<td valign="top" align="right" bgcolor="#F1B086">13%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">30.0</td>
+<td valign="top" align="right" bgcolor="#F1B086">6.648</td>
+<td valign="top" align="right" bgcolor="#F1B086">15%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">32.5</td>
+<td valign="top" align="right" bgcolor="#F1B086">6.757</td>
+<td valign="top" align="right" bgcolor="#F1B086">17%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">35.0</td>
+<td valign="top" align="right" bgcolor="#F1B086">6.866</td>
+<td valign="top" align="right" bgcolor="#F1B086">19%</td>
+</tr>
+</tbody>
+</table>
+<table id="102118179171MS-Tbl_SPi-12" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="left">
+<b>Lb/ft</b>
+</td>
+<td valign="top" align="left">
+<b>180 Day Cum BO/ft</b>
+</td>
+<td valign="top" align="left">
+<b>% Change</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">100</td>
+<td valign="top" align="right" bgcolor="#F1B086">3.944</td>
+<td valign="top" align="right" bgcolor="#F1B086">-32%</td>
+</tr>
+<tr>
+<td valign="top" align="right">200</td>
+<td valign="top" align="right">4.554</td>
+<td valign="top" align="right">-21%</td>
+</tr>
+<tr>
+<td valign="top" align="right">300</td>
+<td valign="top" align="right">5.164</td>
+<td valign="top" align="right">-11%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#8FD151">400</td>
+<td valign="top" align="right" bgcolor="#8FD151">5.774</td>
+<td valign="top" align="right" bgcolor="#8FD151">0%</td>
+</tr>
+<tr>
+<td valign="top" align="right">500</td>
+<td valign="top" align="right">6.384</td>
+<td valign="top" align="right">11%</td>
+</tr>
+<tr>
+<td valign="top" align="right">600</td>
+<td valign="top" align="right">6.994</td>
+<td valign="top" align="right">21%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">700</td>
+<td valign="top" align="right" bgcolor="#F1B086">7.604</td>
+<td valign="top" align="right" bgcolor="#F1B086">32%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">800</td>
+<td valign="top" align="right" bgcolor="#F1B086">8.214</td>
+<td valign="top" align="right" bgcolor="#F1B086">42%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">900</td>
+<td valign="top" align="right" bgcolor="#F1B086">8.824</td>
+<td valign="top" align="right" bgcolor="#F1B086">53%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">1000</td>
+<td valign="top" align="right" bgcolor="#F1B086">9.434</td>
+<td valign="top" align="right" bgcolor="#F1B086">63%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">1200</td>
+<td valign="top" align="right" bgcolor="#F1B086">10.654</td>
+<td valign="top" align="right" bgcolor="#F1B086">85%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">1300</td>
+<td valign="top" align="right" bgcolor="#F1B086">11.264</td>
+<td valign="top" align="right" bgcolor="#F1B086">95%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">1400</td>
+<td valign="top" align="right" bgcolor="#F1B086">11.874</td>
+<td valign="top" align="right" bgcolor="#F1B086">106%</td>
+</tr>
+</tbody>
+</table>
+<table id="102118179171MS-Tbl_SPi-13" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="left">
+<b>% Ceramic</b>
+</td>
+<td valign="top" align="left">
+<b>180 Day Cum BO/ft</b>
+</td>
+<td valign="top" align="left">
+<b>% Change</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="right">0%</td>
+<td valign="top" align="right">5.645</td>
+<td valign="top" align="right">-2%</td>
+</tr>
+<tr>
+<td valign="top" align="right">10%</td>
+<td valign="top" align="right">5.677</td>
+<td valign="top" align="right">-2%</td>
+</tr>
+<tr>
+<td valign="top" align="right">20%</td>
+<td valign="top" align="right">5.709</td>
+<td valign="top" align="right">-1%</td>
+</tr>
+<tr>
+<td valign="top" align="right">30%</td>
+<td valign="top" align="right">5.742</td>
+<td valign="top" align="right">-1%</td>
+</tr>
+<tr>
+<td valign="top" align="right">35%</td>
+<td valign="top" align="right">5.758</td>
+<td valign="top" align="right">0%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#8FD151">40%</td>
+<td valign="top" align="right" bgcolor="#8FD151">5.774</td>
+<td valign="top" align="right" bgcolor="#8FD151">0%</td>
+</tr>
+<tr>
+<td valign="top" align="right">45%</td>
+<td valign="top" align="right">5.790</td>
+<td valign="top" align="right">0%</td>
+</tr>
+<tr>
+<td valign="top" align="right">50%</td>
+<td valign="top" align="right">5.806</td>
+<td valign="top" align="right">1%</td>
+</tr>
+<tr>
+<td valign="top" align="right">60%</td>
+<td valign="top" align="right">5.838</td>
+<td valign="top" align="right">1%</td>
+</tr>
+<tr>
+<td valign="top" align="right">70%</td>
+<td valign="top" align="right">5.871</td>
+<td valign="top" align="right">2%</td>
+</tr>
+<tr>
+<td valign="top" align="right">80%</td>
+<td valign="top" align="right">5.903</td>
+<td valign="top" align="right">2%</td>
+</tr>
+<tr>
+<td valign="top" align="right">90%</td>
+<td valign="top" align="right">5.935</td>
+<td valign="top" align="right">3%</td>
+</tr>
+<tr>
+<td valign="top" align="right">100%</td>
+<td valign="top" align="right">5.967</td>
+<td valign="top" align="right">3%</td>
+</tr>
+</tbody>
+</table>
+<table id="102118179171MS-Tbl_SPi-14" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="left">
+<b>Max Rate, bpm</b>
+</td>
+<td valign="top" align="left">
+<b>180 Day Cum BO/ft</b>
+</td>
+<td valign="top" align="left">
+<b>% Change</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="right">20</td>
+<td valign="top" align="right">5.255</td>
+<td valign="top" align="right">-9%</td>
+</tr>
+<tr>
+<td valign="top" align="right">25</td>
+<td valign="top" align="right">5.385</td>
+<td valign="top" align="right">-7%</td>
+</tr>
+<tr>
+<td valign="top" align="right">30</td>
+<td valign="top" align="right">5.515</td>
+<td valign="top" align="right">-4%</td>
+</tr>
+<tr>
+<td valign="top" align="right">35</td>
+<td valign="top" align="right">5.644</td>
+<td valign="top" align="right">-2%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#8FD151">40</td>
+<td valign="top" align="right" bgcolor="#8FD151">5.774</td>
+<td valign="top" align="right" bgcolor="#8FD151">0%</td>
+</tr>
+<tr>
+<td valign="top" align="right">45</td>
+<td valign="top" align="right">5.904</td>
+<td valign="top" align="right">2%</td>
+</tr>
+<tr>
+<td valign="top" align="right">50</td>
+<td valign="top" align="right">6.033</td>
+<td valign="top" align="right">4%</td>
+</tr>
+<tr>
+<td valign="top" align="right">55</td>
+<td valign="top" align="right">6.163</td>
+<td valign="top" align="right">7%</td>
+</tr>
+<tr>
+<td valign="top" align="right">60</td>
+<td valign="top" align="right">6.293</td>
+<td valign="top" align="right">9%</td>
+</tr>
+<tr>
+<td valign="top" align="right">65</td>
+<td valign="top" align="right">6.422</td>
+<td valign="top" align="right">11%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">70</td>
+<td valign="top" align="right" bgcolor="#F1B086">6.552</td>
+<td valign="top" align="right" bgcolor="#F1B086">13%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">75</td>
+<td valign="top" align="right" bgcolor="#F1B086">6.682</td>
+<td valign="top" align="right" bgcolor="#F1B086">16%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">80</td>
+<td valign="top" align="right" bgcolor="#F1B086">6.811</td>
+<td valign="top" align="right" bgcolor="#F1B086">18%</td>
+</tr>
+</tbody>
+</table>
+<table id="102118179171MS-Tbl_SPi-15" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="left">
+<b>Ft/stage, ft</b>
+</td>
+<td valign="top" align="left">
+<b>180 Day Cum BO/ft</b>
+</td>
+<td valign="top" align="left">
+<b>% Change</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">100</td>
+<td valign="top" align="right" bgcolor="#F1B086">7.032</td>
+<td valign="top" align="right" bgcolor="#F1B086">22%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">125</td>
+<td valign="top" align="right" bgcolor="#F1B086">6.875</td>
+<td valign="top" align="right" bgcolor="#F1B086">19%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">150</td>
+<td valign="top" align="right" bgcolor="#F1B086">6.717</td>
+<td valign="top" align="right" bgcolor="#F1B086">16%</td>
+</tr>
+<tr>
+<td valign="top" align="right">175</td>
+<td valign="top" align="right">6.560</td>
+<td valign="top" align="right">14%</td>
+</tr>
+<tr>
+<td valign="top" align="right">200</td>
+<td valign="top" align="right">6.403</td>
+<td valign="top" align="right">11%</td>
+</tr>
+<tr>
+<td valign="top" align="right">225</td>
+<td valign="top" align="right">6.246</td>
+<td valign="top" align="right">8%</td>
+</tr>
+<tr>
+<td valign="top" align="right">250</td>
+<td valign="top" align="right">6.088</td>
+<td valign="top" align="right">5%</td>
+</tr>
+<tr>
+<td valign="top" align="right">275</td>
+<td valign="top" align="right">5.931</td>
+<td valign="top" align="right">3%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#8FD151">300</td>
+<td valign="top" align="right" bgcolor="#8FD151">5.774</td>
+<td valign="top" align="right" bgcolor="#8FD151">0%</td>
+</tr>
+<tr>
+<td valign="top" align="right">325</td>
+<td valign="top" align="right">5.617</td>
+<td valign="top" align="right">-3%</td>
+</tr>
+<tr>
+<td valign="top" align="right">350</td>
+<td valign="top" align="right">5.459</td>
+<td valign="top" align="right">-5%</td>
+</tr>
+<tr>
+<td valign="top" align="right">375</td>
+<td valign="top" align="right">5.302</td>
+<td valign="top" align="right">-8%</td>
+</tr>
+<tr>
+<td valign="top" align="right">400</td>
+<td valign="top" align="right">5.145</td>
+<td valign="top" align="right">-11%</td>
+</tr>
+</tbody>
+</table>
+<table id="102118179171MS-Tbl_SPi-16" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="left">
+<b>Water Cut, %</b>
+</td>
+<td valign="top" align="left">
+<b>1 180 Day Cum BO/ft</b>
+</td>
+<td valign="top" align="left">
+<b>% Change</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">0%</td>
+<td valign="top" align="right" bgcolor="#F1B086">10.536</td>
+<td valign="top" align="right" bgcolor="#F1B086">82%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">10%</td>
+<td valign="top" align="right" bgcolor="#F1B086">9.584</td>
+<td valign="top" align="right" bgcolor="#F1B086">66%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">20%</td>
+<td valign="top" align="right" bgcolor="#F1B086">8.631</td>
+<td valign="top" align="right" bgcolor="#F1B086">49%</td>
+</tr>
+<tr>
+<td valign="top" align="right">30%</td>
+<td valign="top" align="right">7.679</td>
+<td valign="top" align="right">33%</td>
+</tr>
+<tr>
+<td valign="top" align="right">35%</td>
+<td valign="top" align="right">7.203</td>
+<td valign="top" align="right">25%</td>
+</tr>
+<tr>
+<td valign="top" align="right">40%</td>
+<td valign="top" align="right">6.726</td>
+<td valign="top" align="right">16%</td>
+</tr>
+<tr>
+<td valign="top" align="right">45%</td>
+<td valign="top" align="right">6.250</td>
+<td valign="top" align="right">8%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#8FD151">50%</td>
+<td valign="top" align="right" bgcolor="#8FD151">5.774</td>
+<td valign="top" align="right" bgcolor="#8FD151">0%</td>
+</tr>
+<tr>
+<td valign="top" align="right">60%</td>
+<td valign="top" align="right">4.822</td>
+<td valign="top" align="right">-16%</td>
+</tr>
+<tr>
+<td valign="top" align="right">70%</td>
+<td valign="top" align="right">3.869</td>
+<td valign="top" align="right">-33%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">80%</td>
+<td valign="top" align="right" bgcolor="#F1B086">2.917</td>
+<td valign="top" align="right" bgcolor="#F1B086">-49%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">90%</td>
+<td valign="top" align="right" bgcolor="#F1B086">1.964</td>
+<td valign="top" align="right" bgcolor="#F1B086">-66%</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#F1B086">100%</td>
+<td valign="top" align="right" bgcolor="#F1B086">1.012</td>
+<td valign="top" align="right" bgcolor="#F1B086">-82%</td>
+</tr>
+</tbody>
+</table>
+<table id="102118179171MS-Tbl_SPi-17" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="left">
+<b>Cemented/Open</b>
+</td>
+<td valign="top" align="left">
+<b>180 Day Cum BO/ft</b>
+</td>
+<td valign="top" align="left">
+<b>% Change</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="right" bgcolor="#8FD151">0</td>
+<td valign="top" align="right" bgcolor="#8FD151">5.774</td>
+<td valign="top" align="right" bgcolor="#8FD151">0%</td>
+</tr>
+<tr>
+<td valign="top" align="right">1</td>
+<td valign="top" align="right">8.207</td>
+<td valign="top" align="right">42%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="24" table-order="6" data-type-order="18">
+<table-wrap id="102118179171MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6"> </anchoringText>
+<caption>Appendix A-1 Multiple regression model 1 (Middle Bakken)</caption>
+<formatted-caption />
+<table id="102118179171MS-Tbl_SPi-18" frame="hsides">
+<thead>
+<tr>
+<th colspan="5" valign="bottom" align="center">Y: 180-Day Cumulative Oil/ft</th>
+</tr>
+<tr>
+<th valign="bottom" align="left">Coefficients</th>
+<th valign="bottom" align="center">b</th>
+<th valign="bottom" align="center">Std. Error</th>
+<th valign="bottom" align="center">t-value</th>
+<th valign="bottom" align="center">Pr (&#x003E;|t|)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">(Intercept)</td>
+<td valign="bottom" align="center">7.872e+0</td>
+<td valign="bottom" align="center">4.877e-1</td>
+<td valign="bottom" align="center">16.140</td>
+<td valign="bottom" align="center">&#x003C; 2e-16 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">FtperStage</td>
+<td valign="bottom" align="center">-5.182e-3</td>
+<td valign="bottom" align="center">5.376e-4</td>
+<td valign="bottom" align="center">-9.638</td>
+<td valign="bottom" align="center">&#x003C; 2e-16 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Cemented</td>
+<td valign="bottom" align="center">1.304e+0</td>
+<td valign="bottom" align="center">1.500e-1</td>
+<td valign="bottom" align="center">8.691</td>
+<td valign="bottom" align="center">&#x003C; 2e-16 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">PctCeramic</td>
+<td valign="bottom" align="center">5.634e-1</td>
+<td valign="bottom" align="center">1.437e-1</td>
+<td valign="bottom" align="center">3.922</td>
+<td valign="bottom" align="center">9.25e-5 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">LbperFt</td>
+<td valign="bottom" align="center">4.660e-3</td>
+<td valign="bottom" align="center">4.524e-4</td>
+<td valign="bottom" align="center">10.301</td>
+<td valign="bottom" align="center">&#x003C; 2e-16 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">BblperFt</td>
+<td valign="bottom" align="center">9.944e-2</td>
+<td valign="bottom" align="center">1.737e-2</td>
+<td valign="bottom" align="center">5.727</td>
+<td valign="bottom" align="center">1.27e-8 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">MaxRate</td>
+<td valign="bottom" align="center">2.144e-2</td>
+<td valign="bottom" align="center">5.563e-3</td>
+<td valign="bottom" align="center">3.855</td>
+<td valign="bottom" align="center">1.22e-4 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">WaterCut</td>
+<td valign="bottom" align="center">-1.280e+1</td>
+<td valign="bottom" align="center">3.686e-1</td>
+<td valign="bottom" align="center">-34.731</td>
+<td valign="bottom" align="center">&#x003C; 2e-16 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">LBSTOC</td>
+<td valign="bottom" align="center">1.579e-1</td>
+<td valign="bottom" align="center">2.848e-2</td>
+<td valign="bottom" align="center">5.543</td>
+<td valign="bottom" align="center">3.60e-8 ***</td>
+</tr>
+<tr>
+<td colspan="5" valign="bottom" align="left">Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ‘1</td>
+</tr>
+<tr>
+<td colspan="5" valign="bottom" align="left">Residual standard error: 1.638 on 1296 degrees of freedom</td>
+</tr>
+<tr>
+<td colspan="5" valign="bottom" align="left">Multiple R-squared: 0.5738, Adjusted R-squared: 0.5712</td>
+</tr>
+<tr>
+<td colspan="5" valign="top" align="left">F-statistic: 218.1 on 8 and 1296 DF, p-value: &#x003C; 2.2e-16</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="25" table-order="7" data-type-order="19">
+<table-wrap id="102118179171MS-tblwrp-7" content-type="structured">
+<anchoringText id="Ancr7"> </anchoringText>
+<caption>Appendix A-2 Multiple regression model 2 (Middle Bakken</caption>
+<formatted-caption />
+<table id="102118179171MS-Tbl_SPi-19" frame="hsides">
+<thead>
+<tr>
+<th colspan="5" valign="bottom" align="center">Y: 180-Day Cumulative Oil/ft</th>
+</tr>
+<tr>
+<th valign="bottom" align="left">Coefficients</th>
+<th valign="bottom" align="center">b</th>
+<th valign="bottom" align="center">Std. Error</th>
+<th valign="bottom" align="center">t-value</th>
+<th valign="bottom" align="center">Pr (&#x003E;|t|)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">(Intercept)</td>
+<td valign="bottom" align="center">9.780e+0</td>
+<td valign="bottom" align="center">3.123e+0</td>
+<td valign="bottom" align="center">3.132</td>
+<td valign="bottom" align="center">0.00178 **</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">FtperStage</td>
+<td valign="bottom" align="center">-1.711e-2</td>
+<td valign="bottom" align="center">5.950e-3</td>
+<td valign="bottom" align="center">-2.875</td>
+<td valign="bottom" align="center">0.00410 **</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Cemented</td>
+<td valign="bottom" align="center">1.661e+0</td>
+<td valign="bottom" align="center">1.649e+0</td>
+<td valign="bottom" align="center">1.007</td>
+<td valign="bottom" align="center">0.31402</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">PctCeramic</td>
+<td valign="bottom" align="center">-6.497e+0</td>
+<td valign="bottom" align="center">1.571e+0</td>
+<td valign="bottom" align="center">-4.136</td>
+<td valign="bottom" align="center">3.77e-5 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">LbperFt</td>
+<td valign="bottom" align="center">-6.724e-3</td>
+<td valign="bottom" align="center">4.737e-3</td>
+<td valign="bottom" align="center">-1.419</td>
+<td valign="bottom" align="center">0.15603</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">BblperFt</td>
+<td valign="bottom" align="center">6.989e-1</td>
+<td valign="bottom" align="center">1.986e-1</td>
+<td valign="bottom" align="center">3.518</td>
+<td valign="bottom" align="center">0.00045 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">MaxRate</td>
+<td valign="bottom" align="center">-5.414e-2</td>
+<td valign="bottom" align="center">5.727e-2</td>
+<td valign="bottom" align="center">-0.945</td>
+<td valign="bottom" align="center">0.34465</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">WaterCut</td>
+<td valign="bottom" align="center">6.551e+0</td>
+<td valign="bottom" align="center">3.792e+0</td>
+<td valign="bottom" align="center">1.728</td>
+<td valign="bottom" align="center">0.08427 ·</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">LBSTOC</td>
+<td valign="bottom" align="center">-6.252e-3</td>
+<td valign="bottom" align="center">2.073e-1</td>
+<td valign="bottom" align="center">-0.030</td>
+<td valign="bottom" align="center">0.97594</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">FtperStage: Cemented</td>
+<td valign="bottom" align="center">4.106e-4</td>
+<td valign="bottom" align="center">1.789e-3</td>
+<td valign="bottom" align="center">0.230</td>
+<td valign="bottom" align="center">0.81851</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">FtperStage: PctCeramic</td>
+<td align="center">4.726e-3</td>
+<td align="center">1.684e-3</td>
+<td align="center">2.806</td>
+<td align="center">0.00510 **</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">FtperStage: LbperFt</td>
+<td valign="bottom" align="center">-1.283e-5</td>
+<td valign="bottom" align="center">6.195e-6</td>
+<td valign="bottom" align="center">-2.071</td>
+<td valign="bottom" align="center">0.03855 *</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">FtperStage: BblperFt</td>
+<td align="center">-6.447e-4</td>
+<td align="center">3.058e-4</td>
+<td align="center">-2.108</td>
+<td align="center">0.03522 *</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">FtperStage: MaxRate</td>
+<td valign="bottom" align="center">1.356e-4</td>
+<td valign="bottom" align="center">7.519e-5</td>
+<td valign="bottom" align="center">1.803</td>
+<td valign="bottom" align="center">0.07158 ·</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">FtperStage: WaterCut</td>
+<td valign="bottom" align="center">1.606e-2</td>
+<td valign="bottom" align="center">5.109e-3</td>
+<td valign="bottom" align="center">3.143</td>
+<td valign="bottom" align="center">0.00171 **</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">FtperStage: LBSTOC</td>
+<td valign="bottom" align="center">3.308e-4</td>
+<td valign="bottom" align="center">3.363e-4</td>
+<td valign="bottom" align="center">0.983</td>
+<td valign="bottom" align="center">0.32558</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Cemented: PctCeramic</td>
+<td valign="bottom" align="center">-4.192e-1</td>
+<td valign="bottom" align="center">4.490e-1</td>
+<td valign="bottom" align="center">-0.934</td>
+<td valign="bottom" align="center">0.35069</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Cemented: LbperFt</td>
+<td valign="bottom" align="center">2.493e-3</td>
+<td valign="bottom" align="center">1.328e-3</td>
+<td valign="bottom" align="center">1.878</td>
+<td valign="bottom" align="center">0.06058 ·</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Cemented: BblperFt</td>
+<td valign="bottom" align="center">-6.563e-3</td>
+<td valign="bottom" align="center">6.624e-2</td>
+<td valign="bottom" align="center">-0.099</td>
+<td valign="bottom" align="center">0.92110</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Cemented: MaxRate</td>
+<td valign="bottom" align="center">-5.826e-3</td>
+<td valign="bottom" align="center">1.833e-2</td>
+<td valign="bottom" align="center">-0.318</td>
+<td valign="bottom" align="center">0.75061</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Cemented: WaterCut</td>
+<td valign="bottom" align="center">-5.534e+0</td>
+<td valign="bottom" align="center">1.317e+0</td>
+<td valign="bottom" align="center">-4.203</td>
+<td valign="bottom" align="center">2.82e-5 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Cemented: LBSTOC</td>
+<td valign="bottom" align="center">1.232e-1</td>
+<td valign="bottom" align="center">8.481e-2</td>
+<td valign="bottom" align="center">1.453</td>
+<td valign="bottom" align="center">0.14659</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">PctCeramic: LbperFt</td>
+<td valign="bottom" align="center">4.630e-3</td>
+<td valign="bottom" align="center">1.453e-3</td>
+<td valign="bottom" align="center">3.187</td>
+<td valign="bottom" align="center">0.00147 **</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">PctCeramic: BblperFt</td>
+<td valign="bottom" align="center">-7.874e-2</td>
+<td valign="bottom" align="center">4.806e-2</td>
+<td valign="bottom" align="center">-1.638</td>
+<td valign="bottom" align="center">0.10158</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">PctCeramic: MaxRate</td>
+<td valign="bottom" align="center">1.446e-2</td>
+<td valign="bottom" align="center">1.497e-2</td>
+<td valign="bottom" align="center">0.966</td>
+<td valign="bottom" align="center">0.33424</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">PctCeramic: WaterCut</td>
+<td valign="bottom" align="center">1.802e+0</td>
+<td valign="bottom" align="center">1.134e+0</td>
+<td valign="bottom" align="center">1.590</td>
+<td valign="bottom" align="center">0.11215</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">PctCeramic: LBSTOC</td>
+<td align="center">2.126e-1</td>
+<td align="center">9.555e-2</td>
+<td align="center">2.225</td>
+<td align="center">0.02626 *</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">LbperFt: BblperFt</td>
+<td valign="bottom" align="center">-1.096e-4</td>
+<td valign="bottom" align="center">8.389e-5</td>
+<td valign="bottom" align="center">-1.306</td>
+<td valign="bottom" align="center">0.19167</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">LbperFt: MaxRate</td>
+<td valign="bottom" align="center">6.749e-5</td>
+<td valign="bottom" align="center">4.732e-5</td>
+<td valign="bottom" align="center">1.426</td>
+<td valign="bottom" align="center">0.15401</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">LbperFt: WaterCut</td>
+<td valign="bottom" align="center">-2.807e-3</td>
+<td valign="bottom" align="center">3.534e-3</td>
+<td valign="bottom" align="center">-0.794</td>
+<td valign="bottom" align="center">0.42707</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">LbperFt: LBSTOC</td>
+<td valign="bottom" align="center">8.101e-4</td>
+<td valign="bottom" align="center">2.947e-4</td>
+<td valign="bottom" align="center">2.749</td>
+<td valign="bottom" align="center">0.00607 **</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">BblperFt: MaxRate</td>
+<td valign="bottom" align="center">-2.045e-3</td>
+<td valign="bottom" align="center">8.903e-4</td>
+<td valign="bottom" align="center">-2.297</td>
+<td valign="bottom" align="center">0.02177 *</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">BblperFt: WaterCut</td>
+<td valign="bottom" align="center">5.119e-4</td>
+<td valign="bottom" align="center">1.426e-1</td>
+<td valign="bottom" align="center">0.004</td>
+<td valign="bottom" align="center">0.99714</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">BblperFt: LBSTOC</td>
+<td align="center">-1.102e-2</td>
+<td align="center">1.102e-2</td>
+<td align="center">-1.000</td>
+<td align="center">0.31763</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">MaxRate: WaterCut</td>
+<td valign="bottom" align="center">-1.387e-1</td>
+<td valign="bottom" align="center">4.464e-2</td>
+<td valign="bottom" align="center">-3.107</td>
+<td valign="bottom" align="center">0.00193 **</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">MaxRate: LBSTOC</td>
+<td valign="bottom" align="center">-6.563e-3</td>
+<td valign="bottom" align="center">3.452e-3</td>
+<td valign="bottom" align="center">1.781</td>
+<td valign="bottom" align="center">0.07520 ·</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">WaterCut:LBSTOC</td>
+<td valign="bottom" align="center">-1.224e+0</td>
+<td valign="bottom" align="center">2.499e-1</td>
+<td valign="bottom" align="center">-4899</td>
+<td valign="bottom" align="center">1.09e-6 ***</td>
+</tr>
+<tr>
+<td colspan="5" valign="bottom" align="left">Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 <i>’</i> 1</td>
+</tr>
+<tr>
+<td colspan="5" valign="bottom" align="left">Residual standard error: 1.543 on 1268 degrees of freedom</td>
+</tr>
+<tr>
+<td colspan="5" align="left">Multiple R-squared: 0.6301, Adjusted R-squared: 0.6196</td>
+</tr>
+<tr>
+<td colspan="5" valign="top" align="left">F-statistic: 60.01 on 36 and 1268 DF, p-value: &#x003C; 2.2e-16</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="26" table-order="8" data-type-order="20">
+<table-wrap id="102118179171MS-tblwrp-8" content-type="structured">
+<anchoringText id="Ancr8"> </anchoringText>
+<caption>Appendix A-3 BIC chosen regression model (Middle Bakken</caption>
+<formatted-caption />
+<table id="102118179171MS-Tbl_SPi-20" frame="hsides">
+<thead>
+<tr>
+<th colspan="5" valign="bottom" align="center">Y: 180-Day Cumulative Oil/ft</th>
+</tr>
+<tr>
+<th valign="bottom" align="left">Coefficients</th>
+<th valign="bottom" align="center">b</th>
+<th valign="bottom" align="center">Std. Error</th>
+<th valign="bottom" align="center">t-value</th>
+<th valign="bottom" align="center">Pr (&#x003E;|t|)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">(Intercept)</td>
+<td valign="bottom" align="center">3.857e+0</td>
+<td valign="bottom" align="center">1.749e+0</td>
+<td valign="bottom" align="center">2.205</td>
+<td valign="bottom" align="center">0.02762 *</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">FtperStage</td>
+<td valign="bottom" align="center">-6.423e-3</td>
+<td valign="bottom" align="center">1.433e-3</td>
+<td valign="bottom" align="center">-4.484</td>
+<td valign="bottom" align="center">7.99e-6 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Cemented</td>
+<td valign="bottom" align="center">4.135e+0</td>
+<td valign="bottom" align="center">5.640e-1</td>
+<td valign="bottom" align="center">7.332</td>
+<td valign="bottom" align="center">3.99e-13 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">PctCeramic</td>
+<td valign="bottom" align="center">-3.099e+0</td>
+<td valign="bottom" align="center">1.101e+0</td>
+<td valign="bottom" align="center">-2.814</td>
+<td valign="bottom" align="center">0.00496 **</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">LbperFt</td>
+<td valign="bottom" align="center">-1.338e-3</td>
+<td valign="bottom" align="center">3.634e-3</td>
+<td valign="bottom" align="center">-0.368</td>
+<td valign="bottom" align="center">0.71275</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">BblperFt</td>
+<td valign="bottom" align="center">1.214e-1</td>
+<td valign="bottom" align="center">1.708e-2</td>
+<td valign="bottom" align="center">7.106</td>
+<td valign="bottom" align="center">1.97e-12 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">MaxRate</td>
+<td valign="bottom" align="center">8.384e-2</td>
+<td valign="bottom" align="center">1.096e-2</td>
+<td valign="bottom" align="center">7.648</td>
+<td valign="bottom" align="center">3.99e-14 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">WaterCut</td>
+<td valign="bottom" align="center">5.893e+0</td>
+<td valign="bottom" align="center">3.556e+0</td>
+<td valign="bottom" align="center">1.657</td>
+<td valign="bottom" align="center">0.09775 ·</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">LBSTOC</td>
+<td valign="bottom" align="center">2.779e-1</td>
+<td valign="bottom" align="center">1.238e-1</td>
+<td valign="bottom" align="center">2.246</td>
+<td valign="bottom" align="center">0.02490 *</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">FtperStage: LbperFt</td>
+<td valign="bottom" align="center">-1.727e-5</td>
+<td valign="bottom" align="center">3.623e-6</td>
+<td valign="bottom" align="center">-4.765</td>
+<td valign="bottom" align="center">2.10e-06 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">FtperStage: WaterCut</td>
+<td valign="bottom" align="center">1.418e-2</td>
+<td valign="bottom" align="center">4.431e-3</td>
+<td valign="bottom" align="center">3.201</td>
+<td valign="bottom" align="center">0.00140 **</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Cemented: WaterCut</td>
+<td valign="bottom" align="center">-5.658e+0</td>
+<td valign="bottom" align="center">1.139e+0</td>
+<td valign="bottom" align="center">-4.968</td>
+<td valign="bottom" align="center">7.69e-7 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">PctCeramic: LBSTOC</td>
+<td valign="bottom" align="center">2.536e-1</td>
+<td valign="bottom" align="center">7.668e-2</td>
+<td valign="bottom" align="center">3.307</td>
+<td valign="bottom" align="center">0.00097 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">LbperFt: LBSTOC</td>
+<td valign="bottom" align="center">7.300e-4</td>
+<td valign="bottom" align="center">2.400e-4</td>
+<td valign="bottom" align="center">3.041</td>
+<td valign="bottom" align="center">0.00240 **</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">MaxRate: WaterCut</td>
+<td valign="bottom" align="center">-1.336e-1</td>
+<td valign="bottom" align="center">2.072e-2</td>
+<td valign="bottom" align="center">-6.446</td>
+<td valign="bottom" align="center">1.62e-10 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">WaterCut:LBSTOC</td>
+<td valign="bottom" align="center">-1.182e+0</td>
+<td valign="bottom" align="center">2.425e-1</td>
+<td valign="bottom" align="center">-4.874</td>
+<td valign="bottom" align="center">1.23e-6 ***</td>
+</tr>
+<tr>
+<td colspan="5" valign="bottom" align="left">Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1<i>
+</i>‘ ‘1</td>
+</tr>
+<tr>
+<td colspan="5" valign="bottom" align="left">Residual standard error: 1.555 on 1289 degrees of freedom</td>
+</tr>
+<tr>
+<td colspan="5" valign="bottom" align="left">Multiple R-squared: 0.6177, Adjusted R-squared: 0.6133</td>
+</tr>
+<tr>
+<td colspan="5" valign="bottom" align="left">F-statistic: 138.9 on 15 and 1269 DF, p-value: &#x003C; 2.2e-16</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="27" table-order="9" data-type-order="21">
+<table-wrap id="102118179171MS-tblwrp-9" content-type="structured">
+<anchoringText id="Ancr9"> </anchoringText>
+<caption>Appendix A-4 AIC chosen regression model (Middle Bakken)</caption>
+<formatted-caption />
+<table id="102118179171MS-Tbl_SPi-21" frame="hsides">
+<thead>
+<tr>
+<th colspan="5" valign="bottom" align="center">Y: 180-Day Cumulative Oil/ft</th>
+</tr>
+<tr>
+<th valign="bottom" align="left">Coefficients</th>
+<th valign="bottom" align="center">b</th>
+<th valign="bottom" align="center">Std. Error</th>
+<th valign="bottom" align="center">t-value</th>
+<th valign="bottom" align="center">Pr (&#x003E;|t|)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">(Intercept)</td>
+<td valign="bottom" align="center">4.406e+0</td>
+<td valign="bottom" align="center">1.916e+0</td>
+<td valign="bottom" align="center">2.300</td>
+<td valign="bottom" align="center">0.021608 *</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">FtperStage</td>
+<td valign="bottom" align="center">-7.559e-3</td>
+<td valign="bottom" align="center">1.537e-3</td>
+<td valign="bottom" align="center">-4.918</td>
+<td valign="bottom" align="center">9.89e-07 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Cemented</td>
+<td valign="bottom" align="center">1.757E+0</td>
+<td valign="bottom" align="center">1.292e+0</td>
+<td valign="bottom" align="center">1.360</td>
+<td valign="bottom" align="center">0.174069</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">PctCeramic</td>
+<td valign="bottom" align="center">-5.248e+0</td>
+<td valign="bottom" align="center">1.419e+0</td>
+<td valign="bottom" align="center">-3.699</td>
+<td valign="bottom" align="center">0.000226 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">LbperFt</td>
+<td valign="bottom" align="center">-4.940e-4</td>
+<td valign="bottom" align="center">3.792e-3</td>
+<td valign="bottom" align="center">-0.130</td>
+<td valign="bottom" align="center">0.896387</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">BblperFt</td>
+<td valign="bottom" align="center">2.555e-1</td>
+<td valign="bottom" align="center">5.226e-2</td>
+<td valign="bottom" align="center">4.890</td>
+<td valign="bottom" align="center">1.14e-06 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">MaxRate</td>
+<td valign="bottom" align="center">4.963e-2</td>
+<td valign="bottom" align="center">3.124e-2</td>
+<td valign="bottom" align="center">1.589</td>
+<td valign="bottom" align="center">0.112409</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">WaterCut</td>
+<td valign="bottom" align="center">7.437e+0</td>
+<td valign="bottom" align="center">3.603e+0</td>
+<td valign="bottom" align="center">2.064</td>
+<td valign="bottom" align="center">0.039189 *</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">LBSTOC</td>
+<td valign="bottom" align="center">2.470e-1</td>
+<td valign="bottom" align="center">1.362e-1</td>
+<td valign="bottom" align="center">1.814</td>
+<td valign="bottom" align="center">0.069985 ·</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">FtperStage: PctCeramic</td>
+<td valign="bottom" align="center">3.440e-3</td>
+<td valign="bottom" align="center">1.414e-3</td>
+<td valign="bottom" align="center">2.433</td>
+<td valign="bottom" align="center">0.015121 *</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">FtperStage: LbperFt</td>
+<td valign="bottom" align="center">-2.029e-5</td>
+<td valign="bottom" align="center">3.848e-6</td>
+<td valign="bottom" align="center">-5.274</td>
+<td valign="bottom" align="center">1.57e-07 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">FtperStage: WaterCut</td>
+<td valign="bottom" align="center">1.496e-2</td>
+<td valign="bottom" align="center">4.476e-3</td>
+<td valign="bottom" align="center">3.344</td>
+<td valign="bottom" align="center">0.000851 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Cemented: PctCeramic</td>
+<td valign="bottom" align="center">-5.648e-1</td>
+<td valign="bottom" align="center">3.786e-1</td>
+<td valign="bottom" align="center">-1.492</td>
+<td valign="bottom" align="center">0.135996</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Cemented: LbperFt</td>
+<td valign="bottom" align="center">1.512e-3</td>
+<td valign="bottom" align="center">9.091e-4</td>
+<td valign="bottom" align="center">1.663</td>
+<td valign="bottom" align="center">0.096509 ·</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Cemented: WaterCut</td>
+<td valign="bottom" align="center">-6.243e+0</td>
+<td valign="bottom" align="center">1.247e+0</td>
+<td valign="bottom" align="center">-5.005</td>
+<td valign="bottom" align="center">6.38e-07 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Cemented: LBSTOC</td>
+<td valign="bottom" align="center">1.621e-1</td>
+<td valign="bottom" align="center">8.245e-2</td>
+<td valign="bottom" align="center">1.966</td>
+<td valign="bottom" align="center">0.049479 *</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">PctCeramic: LbperFt</td>
+<td valign="bottom" align="center">4.938e-3</td>
+<td valign="bottom" align="center">1.336e-3</td>
+<td valign="bottom" align="center">3.695</td>
+<td valign="bottom" align="center">0.000229 ***</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">PctCeramic: BblperFt</td>
+<td valign="bottom" align="center">-4.566e-2</td>
+<td valign="bottom" align="center">2.724e-2</td>
+<td valign="bottom" align="center">-1.676</td>
+<td valign="bottom" align="center">0.093902 ·</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">PctCeramic: WaterCut</td>
+<td valign="bottom" align="center">1.905e+0</td>
+<td valign="bottom" align="center">1.028e+0</td>
+<td valign="bottom" align="center">1.854</td>
+<td valign="bottom" align="center">0.064032 ·</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">PctCeramic: LBSTOC</td>
+<td valign="bottom" align="center">1.671e-1</td>
+<td valign="bottom" align="center">8.686e-2</td>
+<td valign="bottom" align="center">1.923</td>
+<td valign="bottom" align="center">0.054668 ·</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">LbperFt: LBSTOC</td>
+<td valign="bottom" align="center">5.634e-4</td>
+<td valign="bottom" align="center">2.482e-4</td>
+<td valign="bottom" align="center">2.270</td>
+<td valign="bottom" align="center">0.023360 *</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">MaxRate: MaxRate</td>
+<td valign="bottom" align="center">-1.515e-3</td>
+<td valign="bottom" align="center">7.487e-4</td>
+<td valign="bottom" align="center">-2.023</td>
+<td valign="bottom" align="center">0.043237 *</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">MaxRate: WaterCut</td>
+<td valign="bottom" align="center">-1.484e-1</td>
+<td valign="bottom" align="center">2.473e-2</td>
+<td valign="bottom" align="center">-5.999</td>
+<td valign="bottom" align="center">2.57e-09 ***</td>
+</tr>
+<tr>
+<td align="left">MaxRate: LBSTOC</td>
+<td align="center">3.960e-3</td>
+<td align="center">2.106e-3</td>
+<td align="center">1.881</td>
+<td align="center">0.060211 ·</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">WaterCut:LBSTOC </td>
+<td valign="bottom" align="center">-1.302e+0</td>
+<td valign="bottom" align="center">2.44 e-1</td>
+<td valign="bottom" align="center">-5.337</td>
+<td valign="bottom" align="center">1.12e-7 ***</td>
+</tr>
+<tr>
+<td colspan="5" valign="bottom" align="left">Signif. codes: 0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ‘1</td>
+</tr>
+<tr>
+<td colspan="5" valign="bottom" align="left">Residual standard error: 1.542 on 1280 degrees of freedom</td>
+</tr>
+<tr>
+<td colspan="5" valign="bottom" align="left">Multiple R-squared: 0.6271, Adjusted R-squared: 0.6201</td>
+</tr>
+<tr>
+<td colspan="5" valign="top" align="left">F-statistic: 89.69 on 24 and 1280 DF, p-value: &#x003C; 2.2e-16</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

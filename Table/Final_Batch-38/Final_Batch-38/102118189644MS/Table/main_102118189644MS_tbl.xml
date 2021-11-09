@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189644MS.txt" extractionDate="2021-03-26T19:31:02Z">
+<doi>10.2118/189644-MS</doi>
+<pii>10.2118/189644-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="3">
+<table-wrap id="102118189644MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The predicted pressure for pumping the conventional 14.5-ppg slurry is greater than the pressure limitations of most surface equipment. For this reason, it is important to use a proven cement design with the necessary rheological properties (Table 1). If cement volumes or slurry properties are improperly designed without prejob modeling, the potential of job failure could be heightened. Sufficient prejob design, testing, and modeling helps ensure the cement can be properly placed in this complicated wellbore scenario.</anchoringText>
+<label>Table 1</label>
+<caption>14.5-lbm/gal proprietary latex design rheological properties.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>14.5-lbm/gal proprietary latex design rheological properties.</caption-text>
+</formatted-caption>
+<table id="102118189644MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th align="center" />
+<th colspan="7" align="center">Apparent Viscosity at Various Rev/Min</th>
+<th align="center" />
+<th align="center" />
+</tr>
+<tr>
+<th align="center">Temp (°F)</th>
+<th align="center">300</th>
+<th align="center">200</th>
+<th align="center">100</th>
+<th align="center">60</th>
+<th align="center">30</th>
+<th align="center">6</th>
+<th align="center">3</th>
+<th align="center">PV</th>
+<th align="center">YP</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">80°</td>
+<td align="center">38</td>
+<td align="center">28</td>
+<td align="center">18</td>
+<td align="center">14</td>
+<td align="center">10</td>
+<td align="center">6</td>
+<td align="center">4</td>
+<td align="center">33</td>
+<td align="center">6</td>
+</tr>
+<tr>
+<td align="left">160°</td>
+<td align="center">20</td>
+<td align="center">18</td>
+<td align="center">12</td>
+<td align="center">10</td>
+<td align="center">8</td>
+<td align="center">6</td>
+<td align="center">5</td>
+<td align="center">15</td>
+<td align="center">6</td>
+</tr>
+<tr>
+<td align="left">190°</td>
+<td align="center">20</td>
+<td align="center">16</td>
+<td align="center">12</td>
+<td align="center">10</td>
+<td align="center">8</td>
+<td align="center">6</td>
+<td align="center">5</td>
+<td align="center">15</td>
+<td align="center">6</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

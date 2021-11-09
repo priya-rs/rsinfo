@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118181400MS.txt" extractionDate="2021-03-25T18:33:27Z">
+<doi>10.2118/181400-MS</doi>
+<pii>10.2118/181400-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr10">Recent success of deep gas wells in Pennsylvania and West Virginia has raised the interest in this formation. Some recently reported initial production (IP) rates have set records for the amount of gas from an unconventional formation. These rates have ranged from 59 million scf/day to 73 million scf/day. The graph from the U.S. Energy Information Administration (Figure 1) shows the aggregated gas rate from the Utica has increased by about 10 times over the last 2 years to about 3 BCF/day in 2015.</anchoringText>
+<image-wrap id="102118181400MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118181400MS_i_1.tif" id="ImgLink-1" />
+<caption>Utica Historical Production</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Utica Historical Production</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="2" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr11">A recent Study by West Virginia University estimates technically recoverable volumes from the Utica/ Point Pleasant could be as high as 782 trillion cubic feet of natural gas and nearly 2 billion barrels of oil. The map in Figure 2 shows the aerial extent of the Utica/Point Pleasant deposition.</anchoringText>
+<image-wrap id="102118181400MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118181400MS_i_2.tif" id="ImgLink-2" />
+<caption>Geographic extent of minimum and maximum sweet spots used in resource assessment</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Geographic extent of minimum and maximum sweet spots used in resource assessment</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr12">Three wells were drilled from the same pad in the Utica/Point Pleasant formation located in eastern Ohio. As can be seen in Figure 1, all 3 wells are drilled in the same Azimuth direction (134°) with Well B located in between wells A and C.</anchoringText>
+<image-wrap id="102118181400MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118181400MS_i_3.tif" id="ImgLink-3" />
+<caption>Relative Position of Horizontal Wellbores A, B and C</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Relative Position of Horizontal Wellbores A, B and C</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="6">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr13">As discussed earlier, while evaluating the treatment data for the 3 wells, it became obvious that Well B and Well C experienced more treatment issues than Well A. Figure 4 was generated to visually illustrate the difficulties in performing the individual treatments for the wells. Each frac stage is represented by a vertical bar. The bar color defines the four treatment difficulty categories used in the analysis.</anchoringText>
+<image-wrap id="102118181400MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118181400MS_i_4.tif" id="ImgLink-4" />
+<caption>Treatment Pressure Response Summary</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Treatment Pressure Response Summary</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="8">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr14">The median diameters are slightly larger for the LWC vs. the resin coated sand for the same mesh size classification. Figure 5 shows the difference in sieve distributions and median particle diameters. The ceramic proppants were ~10% larger for the 30/50, and ~20% larger for the 20/40. Although there is some difference in proppant diameter between the wells, this does not fully explain the aborted frac treatments on wells B and C because these stages experienced high treatment pressure issues before proppant reaches the formation.</anchoringText>
+<image-wrap id="102118181400MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118181400MS_i_5.tif" id="ImgLink-5" />
+<caption>Proppant Particle Size Chart</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Proppant Particle Size Chart</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="6" data-type-order="9">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr15">All of the treatments were modeled using a 3-D Fracture Model. To set up the model a mechanical properties log was analyzed and used to build the earth model. The same model and parameters were used consistently on all 3 wells. Each cluster from every stage was then evaluated in the model. Once a pressure match was achieved the fracture geometries were estimated for each cluster. The geometry on all of the fractures for the 3 wells are displayed in Figure 6.</anchoringText>
+<image-wrap id="102118181400MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118181400MS_i_6.tif" id="ImgLink-6" />
+<caption>3-D Fracture Wellbore Diagram</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>3-D Fracture Wellbore Diagram</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="7" data-type-order="13">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr16">Well B has higher average conductivity due to the proppant type, amount, and concentration. Figure 7 contains the baseline conductivities for the proppants used in the treatments for each of these wells. This is the lab-tested conductivity results at API standards. The figure shows lightweight ceramic proppant will yield higher conductivities in all the stress environments.</anchoringText>
+<image-wrap id="102118181400MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118181400MS_i_7.tif" id="ImgLink-7" />
+<caption>API Baseline Conductivity for Propping Agents</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>API Baseline Conductivity for Propping Agents</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="8" data-type-order="14">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr17">A production data analysis is performed to understand the production potential of individual wells. Figure 8 shows daily gas rates on the left and cumulative gas production on right. Directly comparing wel performance, Well B is the best performing well followed closely by Well A and then Well C.</anchoringText>
+<image-wrap id="102118181400MS-Img_SPi-8">
+<label>Figures 8a and 8b</label>
+<imageLink type="mediaResource" href="102118181400MS_i_8.tif" id="ImgLink-8" />
+<caption>Comparison of Well Cumulative Gas Production and Surface Flowing Pressure</caption>
+<formatted-caption>
+<caption-label>Figures</caption-label>
+<caption-order>8a and 8b</caption-order>
+<caption-text>Comparison of Well Cumulative Gas Production and Surface Flowing Pressure</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181400MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118181400MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Comparison of Well Cumulative Gas Production and Surface Flowing Pressure</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181400MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118181400MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Comparison of Well Cumulative Gas Production and Surface Flowing Pressure</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="9" data-type-order="15">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr18">However from a fracture effectiveness perspective, normalizing production on the on the number of active fractures is more relevant. Figure 9 compares the productivity index normalized on the number of fractures for the 3 wells. This information indicates that the hydraulic fractures in Wells B and C, which utilize stronger more conductive proppant, are more effective and outperform the fractures in Well A.</anchoringText>
+<image-wrap id="102118181400MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118181400MS_i_9.tif" id="ImgLink-9" />
+<caption>Well Productivity Index Normalized on the Number of Fractures</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Well Productivity Index Normalized on the Number of Fractures</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="10" figure-order="10" data-type-order="16">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr19">Adequate production history matches were obtained on all 3 wells using comparable reservoir parameters. The rate and cumulative gas production matches are shown in figures 10, 11 and 12. Daily Gas rates are on left hand corner and Cumulative Gas production on right hand corner. The red color dots represent actual data and the black color dots represents the model data.</anchoringText>
+<image-wrap id="102118181400MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118181400MS_i_10.tif" id="ImgLink-10" />
+<caption>PHM Gas Rates, Cumulatives and Flowing Pressures: Well A</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>PHM Gas Rates, Cumulatives and Flowing Pressures: Well A</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181400MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118181400MS_i_10a.tif" id="ImgLink-10a" />
+</image-wrap>
+<image-wrap id="102118181400MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118181400MS_i_10b.tif" id="ImgLink-10b" />
+</image-wrap>
+<image-wrap id="102118181400MS-Img_SPi-10c">
+<imageLink type="mediaResource" href="102118181400MS_i_10c.tif" id="ImgLink-10c" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="10" figure-order="11" data-type-order="17">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr20">Adequate production history matches were obtained on all 3 wells using comparable reservoir parameters. The rate and cumulative gas production matches are shown in figures 10, 11 and 12. Daily Gas rates are on left hand corner and Cumulative Gas production on right hand corner. The red color dots represent actual data and the black color dots represents the model data.</anchoringText>
+<image-wrap id="102118181400MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118181400MS_i_11.tif" id="ImgLink-11" />
+<caption>PHM Gas Rates, Cumulatives and Flowing Pressures: Well B</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>PHM Gas Rates, Cumulatives and Flowing Pressures: Well B</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181400MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118181400MS_i_11a.tif" id="ImgLink-11a" />
+</image-wrap>
+<image-wrap id="102118181400MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118181400MS_i_11b.tif" id="ImgLink-11b" />
+</image-wrap>
+<image-wrap id="102118181400MS-Img_SPi-11c">
+<imageLink type="mediaResource" href="102118181400MS_i_11c.tif" id="ImgLink-11c" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="11" figure-order="12" data-type-order="18">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr21">Adequate production history matches were obtained on all 3 wells using comparable reservoir parameters. The rate and cumulative gas production matches are shown in figures 10, 11 and 12. Daily Gas rates are on left hand corner and Cumulative Gas production on right hand corner. The red color dots represent actual data and the black color dots represents the model data.</anchoringText>
+<image-wrap id="102118181400MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118181400MS_i_12.tif" id="ImgLink-12" />
+<caption>PHM Gas Rates, Cumulatives and Flowing Pressures: Well C</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>PHM Gas Rates, Cumulatives and Flowing Pressures: Well C</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181400MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118181400MS_i_12a.tif" id="ImgLink-12a" />
+</image-wrap>
+<image-wrap id="102118181400MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118181400MS_i_12b.tif" id="ImgLink-12b" />
+</image-wrap>
+<image-wrap id="102118181400MS-Img_SPi-12c">
+<imageLink type="mediaResource" href="102118181400MS_i_12c.tif" id="ImgLink-12c" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="13" data-type-order="22">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr22">An estimate of the stress on the proppant over production time for Well B is shown in the figure 13. As can been seen, early time stress on proppant is about 2,000 psi. However as the production time approaches 200 days the stress on proppant exceeds 7,000 psi due to drawdown or decreased bottom hole flowing pressure. We know from conductivity measurements made in the laboratory with different types of proppants that this change in stress has a profound effect on proppant permeability.</anchoringText>
+<image-wrap id="102118181400MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118181400MS_i_13.tif" id="ImgLink-13" />
+<caption>Well B Production Time vs. Calculated Stress on Proppant</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Well B Production Time vs. Calculated Stress on Proppant</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="14" data-type-order="23">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr23">Laboratory measurements of various proppant conductivities at different stresses along with estimates of stress on proppant over time for Well B were used to construct Figure 14. As can be seen all proppant types have significantly reduced conductivity after 100 days of production. This conductivity degradation continues at 200 days although at a much lessor rate. This information supports incorporating fracture degradation in the production history matching process.</anchoringText>
+<image-wrap id="102118181400MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118181400MS_i_14.tif" id="ImgLink-14" />
+<caption>Conductivity of Various Proppants vs Producing Time</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Conductivity of Various Proppants vs Producing Time</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="15" data-type-order="24">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr24"> </anchoringText>
+<image-wrap id="102118181400MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118181400MS_i_15.tif" id="ImgLink-15" />
+<caption>Forecasted Production</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Forecasted Production</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="16" data-type-order="25">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr25">Using current market frac cost estimates, a discount rate of 10%, net gas price of $2.00/MCF and a water disposal cost of $5.00/BBL, economic comparisons for the two frac designs were constructed in Figure 16. The estimated Well A net present value (NPV) for the as-completed case is $5.97 million vs. $7.17 million for the completion with the more effective fracture.</anchoringText>
+<image-wrap id="102118181400MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118181400MS_i_16.tif" id="ImgLink-16" />
+<caption>Forecasted Economics</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Forecasted Economics</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

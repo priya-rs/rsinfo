@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118192016MS.txt" extractionDate="2021-03-30T16:07:13Z">
+<doi>10.2118/192016-MS</doi>
+<pii>10.2118/192016-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="6" table-order="1" data-type-order="7">
+<table-wrap id="102118192016MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">With this method, the dip angle of the interlayers is calculated along parallel and vertical source direction for the well area with abundant data. The calculation results are shown in Table 1. According the statistical result, the dip angle in the parallel source direction is about 0.4 to 1 °, while the dip angle in the vertical source direction is about 0.4 to 1 °.</anchoringText>
+<label>Table 1</label>
+<caption>Statistics of interlayer dip angle in mouth bar in|oil group of S oilfield</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Statistics of interlayer dip angle in mouth bar in|oil group of S oilfield</caption-text>
+</formatted-caption>
+<table id="102118192016MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" valign="top" align="center">
+<a id="bookmark0">
+</a>
+<a id="bookmark1">
+</a>Well name</th>
+<th valign="top" align="center">L<sub>
+<sub>2</sub>
+</sub>/m</th>
+<th valign="top" align="center">(h<sub>
+<sub>2</sub>
+</sub>-h<sub>
+<sub>3</sub>
+</sub>)/m</th>
+<th valign="top" align="center">Dip angle/°</th>
+<th valign="top" align="center">direction</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">B12</td>
+<td valign="top" align="center">B13</td>
+<td valign="top" align="center">350</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">0.5°</td>
+<td valign="top" align="center">parallel to resource direction</td>
+</tr>
+<tr>
+<td valign="top" align="center">F11</td>
+<td valign="top" align="center">N3</td>
+<td valign="top" align="center">300</td>
+<td valign="top" align="center">1.9</td>
+<td valign="top" align="center">0.4°</td>
+<td valign="top" align="center">parallel to resource direction</td>
+</tr>
+<tr>
+<td valign="top" align="center">N32</td>
+<td valign="top" align="center">F26</td>
+<td valign="top" align="center">175</td>
+<td valign="top" align="center">2.3</td>
+<td valign="top" align="center">0.75°</td>
+<td valign="top" align="center">vertical to resource direction</td>
+</tr>
+<tr>
+<td valign="top" align="center">A29</td>
+<td valign="top" align="center">C32</td>
+<td valign="top" align="center">175</td>
+<td valign="top" align="center">1.5</td>
+<td valign="top" align="center">0.5°</td>
+<td valign="top" align="center">vertical to resource direction</td>
+</tr>
+<tr>
+<td valign="top" align="center">K9</td>
+<td valign="top" align="center">A17</td>
+<td valign="top" align="center">175</td>
+<td valign="top" align="center">1.4</td>
+<td valign="top" align="center">0.4°</td>
+<td valign="top" align="center">vertical to resource direction</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="2" data-type-order="9">
+<table-wrap id="102118192016MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Based on the actual porosity and permeability data of the study area, random simulation of inter-well parameters is performed under the control of reservoir architecture. Then the pore and permeability parameters model is established (Table 2). For the oil saturation, a mean model (SO=78%) equivalent to that in the study area is given.</anchoringText>
+<label>Table 2</label>
+<caption>Parameter of the reservoir conceptual model</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Parameter of the reservoir conceptual model</caption-text>
+</formatted-caption>
+<table id="102118192016MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="center">Architecture unit</th>
+<th rowspan="2" valign="top" align="center">Porosity/%</th>
+<th colspan="2" valign="top" align="center">Permeability/(mD)</th>
+</tr>
+<tr>
+<th valign="top" align="center">Parallel direction</th>
+<th valign="top" align="center">Vertical direction</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">distributary channel</td>
+<td valign="top" align="center">25∼35</td>
+<td valign="top" align="center">800</td>
+<td valign="top" align="center">80</td>
+</tr>
+<tr>
+<td valign="top" align="center">main part of bars</td>
+<td valign="top" align="center">20∼35</td>
+<td valign="top" align="center">500</td>
+<td valign="top" align="center">50</td>
+</tr>
+<tr>
+<td valign="top" align="center">bar fringe</td>
+<td valign="top" align="center">14∼20</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">2</td>
+</tr>
+<tr>
+<td valign="top" align="center">interlayers</td>
+<td valign="top" align="center">0.1</td>
+<td valign="top" align="center">0.001</td>
+<td valign="top" align="center">0.0001</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190383MS.txt" extractionDate="2021-03-27T11:46:19Z">
+<doi>10.2118/190383-MS</doi>
+<pii>10.2118/190383-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="8" table-order="1" data-type-order="10">
+<table-wrap id="102118190383MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The first FO analyzed for the polymer system was recorded after 2 months of injection. The results obtained show two different radial stabilization: it was assumed that the first Infinite Acting Radial Flow (IARF) was referred to the near-wellbore zone flooded by the polymer, while the outlet zone was still saturated by water. The second FO (recorded after 7 months of polymer injection) shows the slope changing of the derivative after the first stabilization but the second IARF was not reached within the radius of investigation. The transmissibility value (kh/μ) was calculated by matching the FO pressure behavior and the Horner plot. Figure 9 reports the interpretation model and the achieved match with the observed data for the two polymer injection FOs. Table 1 lists the numerical results obtained for the conducted interpretations.</anchoringText>
+<label>Table 1</label>
+<caption>Well test analysis results for the interpreted FOs.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Well test analysis results for the interpreted FOs.</caption-text>
+</formatted-caption>
+<table id="102118190383MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Output data</th>
+<th valign="top" align="center">Water inj.</th>
+<th valign="top" align="center">Polymer inj. (03/16)</th>
+<th valign="top" align="center">Polymer inj. (09/16)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">kh/μ, mD·m/cP</td>
+<td valign="top" align="center">600</td>
+<td valign="top" align="center">105</td>
+<td valign="top" align="center">60</td>
+</tr>
+<tr>
+<td valign="top" align="center">Equivalent viscosity, cP</td>
+<td valign="top" align="center">0.5</td>
+<td valign="top" align="center">2.8</td>
+<td valign="top" align="center">5</td>
+</tr>
+<tr>
+<td valign="top" align="center">Well Skin, -</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">-3.2</td>
+<td valign="top" align="center">-3.6</td>
+</tr>
+<tr>
+<td valign="top" align="center">Radial radius, m</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">50</td>
+<td valign="top" align="center">230</td>
+</tr>
+<tr>
+<td valign="top" align="center">Investigation radius, m</td>
+<td valign="top" align="center">330</td>
+<td valign="top" align="center">210</td>
+<td valign="top" align="center">325</td>
+</tr>
+<tr>
+<td valign="top" align="center">Injectivity Index, bbl/d/psi</td>
+<td valign="top" align="center">1.5</td>
+<td valign="top" align="center">0.74</td>
+<td valign="top" align="center">0.58</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

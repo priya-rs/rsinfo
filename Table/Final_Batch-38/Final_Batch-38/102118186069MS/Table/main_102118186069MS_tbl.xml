@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118186069MS.txt" extractionDate="2021-03-27T16:36:30Z">
+<doi>10.2118/186069-MS</doi>
+<pii>10.2118/186069-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="8" table-order="1" data-type-order="10">
+<table-wrap id="102118186069MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">After the history matching process, we further perform production optimization for the this pilot to find the optimal well operating conditions, as for the purpose of testing the performance and effectiveness optimal ANN proxy and CMA-ES. In an example of controlling of the water injection rate and producer bottom hole pressure, we have following control variables list in Table 1. In Table 1, we also provide the variable ranges. Net Present Value (NPV) is used as the objective function in the optimization process. 20 years production is simulated for the optimization. During the optimize process, we also consider the uncertainties lies in the reservoir models. The uncertain parameters are the relative permeabilities. CMA-ES is used as a global optimizer and optimal ANN is used as the proxy.</anchoringText>
+<label>Table 1</label>
+<caption>Well Operating Control Variables</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Well Operating Control Variables</caption-text>
+</formatted-caption>
+<table id="102118186069MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Control Variables</th>
+<th valign="top" align="left">Min</th>
+<th valign="top" align="left">Max</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Injection Rate (Ru-216)</td>
+<td valign="top" align="left">20000 (bbl/day)</td>
+<td valign="top" align="left">30000 (bbl/day)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Injection Rate (Ru-217)</td>
+<td valign="top" align="left">20000 (bbl/day)</td>
+<td valign="top" align="left">30000 (bbl/day)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil Rate (for 13 producers)</td>
+<td valign="top" align="left">5000 (bbl/day)</td>
+<td valign="top" align="left">20000 (bbl/day)</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

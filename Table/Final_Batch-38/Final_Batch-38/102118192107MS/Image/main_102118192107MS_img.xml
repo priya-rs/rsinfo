@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118192107MS.txt" extractionDate="2021-03-29T20:07:19Z">
+<doi>10.2118/192107-MS</doi>
+<pii>10.2118/192107-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr2">The Vostochno-Messoyakhskoe field is the northernmost active continental field in the Russian Federation (Fig. 1). This field is located 250 km from the Arctic Circle, in the arctic climatic zone. Full production drilling only began in 2015 because of the field's geological complexity and lack of transportation structure. Weather conditions, such as strong winds and extremely low temperatures, can be hazardous to personnel and equipment. Additionally, this oil field has permafrost zones (400m from the surface) and low formation temperatures at the production zone. Also, because of permafrost zones, there is a high risk of thawing the wellhead formation.</anchoringText>
+<image-wrap id="102118192107MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118192107MS_i_1.tif" id="ImgLink-1" />
+<caption>Vostochno-Messoyakhskoye field.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Vostochno-Messoyakhskoye field.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="2" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr3">Production is further complicated by a gas layer at 720 to 820m true vertical depth (TVD) and high formation pore pressure. This can make the cement operations with the production casings difficult. While the TVD of the casing landing is not relatively deep, the measured depth (MD) in extended reach drilling (ERD) wells is significant (Fig. 2). ERD wells can challenge cement displacement efficiency (Sabins, 1990). Mud removal efficiency may not be enough to create a high-quality cement barrier and isolate formations from gas migration.</anchoringText>
+<image-wrap id="102118192107MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118192107MS_i_2.tif" id="ImgLink-2" />
+<caption>ERD well schematic.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>ERD well schematic.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr4">To address these challenges, computer modeling of cementing operations was performed with different displacement rates (fast and low) to determine the most effective rate for mud displacement using spacers and cements (Parker, 1965). By the assumption that during low-rate displacement by gravitational force and a large density difference, spacers and cements "fall down" and provide better cement placement at the bottom narrow space of the horizontal section (Fig. 3).</anchoringText>
+<image-wrap id="102118192107MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118192107MS_i_3.tif" id="ImgLink-3" />
+<caption>Fast displacement rate in a horizontal section.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Fast displacement rate in a horizontal section.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr5">Pressure test failure of the annular space between casings is the main issue in this field. Industrial experimental results show the effectiveness of a low-rate displacement method. The results of performed cement jobs were better, particularly in the annular space between casings (Fig. 4). Better cement bonding results in the space between casings can potentially decrease risks of failure pressure tests and extend the life of wells.</anchoringText>
+<image-wrap id="102118192107MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118192107MS_i_4.tif" id="ImgLink-4" />
+<caption>CBL Results Comparison Fast Rate Displacement Low Rate Displacement</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>CBL Results Comparison Fast Rate Displacement Low Rate Displacement</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118192107MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118192107MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Fast Rate Displacement</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118192107MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118192107MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text> Low Rate Displacement</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr6">Simulated cementing operations with 7-in. and 6.6-in production casing in the Vostochno-Messoyakhskoe field showed positive results (Fig. 5). Completed jobs CBL results in the production and surface casing intervals were better when using low-rate displacement compared to using a high rate. However, deviation from the expected pressure during low-rate displacement was observed during the operations on some wells. The final displacement pressure was much higher than modeled (Fig. 6). Because hydraulic packers (and other hydraulic equipment) can activate earlier during displacement, high pressure could affect the success of the operation.</anchoringText>
+<image-wrap id="102118192107MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118192107MS_i_5.tif" id="ImgLink-5" />
+<caption>Job Modeling Pumping Pressure</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Job Modeling Pumping Pressure</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr7">Simulated cementing operations with 7-in. and 6.6-in production casing in the Vostochno-Messoyakhskoe field showed positive results (Fig. 5). Completed jobs CBL results in the production and surface casing intervals were better when using low-rate displacement compared to using a high rate. However, deviation from the expected pressure during low-rate displacement was observed during the operations on some wells. The final displacement pressure was much higher than modeled (Fig. 6). Because hydraulic packers (and other hydraulic equipment) can activate earlier during displacement, high pressure could affect the success of the operation.</anchoringText>
+<image-wrap id="102118192107MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118192107MS_i_6.tif" id="ImgLink-6" />
+<caption>Pumping Pressure During the Job</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Pumping Pressure During the Job</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr8">Completed jobs CBL results in the production and surface casing intervals were better when using low-rate displacement compared to using a high rate. However, deviation from the expected pressure during low-rate displacement was observed during the operations on some wells. The final displacement pressure was much higher than modeled (Fig. 6). Because hydraulic packers (and other hydraulic equipment) can activate earlier during displacement, high pressure could affect the success of the operation. Because of these unexpected results, after the jobs, repeated rheology tests were performed in a laboratory using cement samples from the field and no deviations were identified. The results were the same as pilot tests before the jobs (Fig. 7).</anchoringText>
+<image-wrap id="102118192107MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118192107MS_i_7.tif" id="ImgLink-7" />
+<caption>Pumping Pressure After Recalculation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Pumping Pressure After Recalculation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118182206MS.txt" extractionDate="2021-03-22T08:41:14Z">
+<doi>10.2118/182206-MS</doi>
+<pii>10.2118/182206-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="4">
+<table-wrap id="102118182206MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The latter two cases each have three separate well configuration scenarios to test to achieve the best economic return: all vertical wells, all horizontal wells, and a combination of vertical and horizontal wells. It is assumed that the produced water will be used for waterflooding. Table 1 summarizes all scenarios that were evaluated for economics.</anchoringText>
+<label>Table 1</label>
+<caption>Eight development scenarios for Sam Hill oil field.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Eight development scenarios for Sam Hill oil field.</caption-text>
+</formatted-caption>
+<table id="102118182206MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" bgcolor="#021F61">Scenario</th>
+<th valign="top" align="center" bgcolor="#021F61">Recovery method</th>
+<th valign="top" align="center" bgcolor="#021F61">Vertical producers</th>
+<th valign="top" align="center" bgcolor="#021F61">Horizontal producers</th>
+<th valign="top" align="center" bgcolor="#021F61">Vertical injectors</th>
+<th valign="top" align="center" bgcolor="#021F61">Device</th>
+<th valign="top" align="center" bgcolor="#021F61">Special operations</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">No further action</td>
+<td valign="top" align="center">6</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">2</td>
+<td valign="top" align="center">Primary recovery</td>
+<td valign="top" align="center">12</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">Primary recovery</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">6</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">4</td>
+<td valign="top" align="center">Primary recovery</td>
+<td valign="top" align="center">6</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">5</td>
+<td valign="top" align="center">Waterflood</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">6</td>
+<td valign="top" align="center">Waterflood</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">5</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">-</td>
+</tr>
+<tr>
+<td valign="top" align="center">7</td>
+<td valign="top" align="center">Waterflood</td>
+<td valign="top" align="center">4</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">SH-3, SH-4 converted into injectors</td>
+</tr>
+<tr>
+<td valign="top" align="center">8</td>
+<td valign="top" align="center">Waterflood</td>
+<td valign="top" align="center">6</td>
+<td valign="top" align="center">-</td>
+<td valign="top" align="center">2</td>
+<td valign="top" align="center">ESP on SH wells</td>
+<td valign="top" align="center">-</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

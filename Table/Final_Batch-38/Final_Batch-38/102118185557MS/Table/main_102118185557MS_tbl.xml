@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185557MS.txt" extractionDate="2021-03-23T19:48:00Z">
+<doi>10.2118/185557-MS</doi>
+<pii>10.2118/185557-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="15" table-order="1" data-type-order="19">
+<table-wrap id="102118185557MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">To regionalize Eaton's pore-pressure model, the convergence analysis approach was applied, as it was explained before; however, alpha exponent (α) from Eaton equation was a great unknow until it was evaluated with the resistivity and sonic travel time data from several wells drilled at Mexican Gulf Coast. The results revealed that the alpha exponent is smaller than its original value for both logs; results are showed in table 1.</anchoringText>
+<label>Table 1</label>
+<caption>Values of alpha exponent for wells drilled at Mexican Gulf Coast.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Values of alpha exponent for wells drilled at Mexican Gulf Coast.</caption-text>
+</formatted-caption>
+<table id="102118185557MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Source</th>
+<th valign="top" align="center">Alpha exponent for resistivity</th>
+<th valign="top" align="center">Alpha exponent for sonic transit time</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">
+<link href="BIB4">(Eaton 1975)</link>
+</td>
+<td valign="top" align="center">1.2</td>
+<td valign="top" align="center">3.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">This Work</td>
+<td valign="top" align="center">0.12</td>
+<td valign="top" align="center">0.30</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-25" type="bib">
+<bib id="BIB4">
+<label>Eaton, (1975)</label>
+<author>
+<first-name>B. A.</first-name>
+<last-name>Eaton</last-name>
+</author>
+<pubDate>(1975)</pubDate>. <article-title>
+<i>The Equation for Geopressure Prediction from Well Logs</i>. Society of Petroleum Engineers.</article-title> http://doi:10.2118/5544-MS.</bib>
+</linkTarget>
+</appendix>
+</docTable>
+</docTableList>
+</docTables>

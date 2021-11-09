@@ -1,0 +1,357 @@
+﻿<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8" ></head><div>
+<div><b>Meta Informations:</b><p>SPE_Society_of_Petroleum_Engineers</p><p>DOI: 10.2118/185877-MS<br>PII: 10.2118/185877-MS<br></p></div>
+<div>
+<div pdf-page="3" figure-order="1" data-type-order="1">
+<a href="#link-1"> </a>
+<div>
+<p id="Ancr5">A generalized framework for history matching is schematically described in the following workflow diagram (Fig. 1). Candidate models are sampled from the initial prior distribution (1). Multiple-realizations (2) are generated and simulated in order to evaluate the misfit (3) between simulated and measured production data. The posterior probability distribution (4) is updated based on misfit information. In an iterative approach (5), optimization methods are used to find candidates with an improved match quality. Prediction runs (6) are sampled from the posterior probability distribution.</p><div id="link-1">
+
+<div id="102118185877MS-Img_SPi-1"><figure>
+
+<img id="ImgLink-1" src="102118185877MS_i_1.tif" alt="102118185877MS_i_1" ><br>
+<figcaption><b>Figure 1 </b> Illustration of a generic history matching workflow.</figcaption>
+<p>Figure 1 Illustration of a generic history matching workflow.</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="5" figure-order="2" data-type-order="2">
+<a href="#link-2"> </a>
+<div>
+<p id="Ancr6">Automatic proxy modeling techniques are coupled to the MCMC optimization process. Depending on the expected training data quality, kriging and regression models are used. Fig. 2 shows a representative cross plot which is used to check the proxy quality. Training data (simulated) is plotted against proxy prediction (predicted). High fidelity proxies are built for the best cases, while less accurate proxies representing data sets with a higher objective values are used to identify areas in the search space which are less likely to deliver history matched solutions with an acceptable quality.</p><div id="link-2">
+
+<div id="102118185877MS-Img_SPi-2"><figure>
+
+<img id="ImgLink-2" src="102118185877MS_i_2.tif" alt="102118185877MS_i_2" ><br>
+<figcaption><b>Figure 2 </b> Cross plot for proxy predicted vs. simulated global objective function values. Number of training data sets included in the kriging model is reduced to100 cases with the smallest objective function value. All other cases included in the training data set are modelled with a less accurate regression model.</figcaption>
+<p>Figure 2 Cross plot for proxy predicted vs. simulated global objective function values. Number of training data sets included in the kriging model is reduced to100 cases with the smallest objective function value. All other cases included in the training data set are modelled with a less accurate regression model.</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="7" figure-order="3" data-type-order="3">
+<a href="#link-3"> </a>
+<div>
+<p id="Ancr7">The paper is organized in three main sections: methodology introduction, workflow design, and application. Readers mainly interested in results should screen the workflow design which is summarized in Fig. 3 and Fig. 4 and then jump to the application chapter.</p><div id="link-3">
+
+<div id="102118185877MS-Img_SPi-3"><figure>
+
+<img id="ImgLink-3" src="102118185877MS_i_3.tif" alt="102118185877MS_i_3" ><br>
+<figcaption><b>Figure 3 </b> Generic workflow design for estimation of prediction uncertainty using historical production data.</figcaption>
+<p>Figure 3 Generic workflow design for estimation of prediction uncertainty using historical production data.</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="8" figure-order="4" data-type-order="4">
+<a href="#link-4"> </a>
+<div>
+<p id="Ancr8">The paper is organized in three main sections: methodology introduction, workflow design, and application. Readers mainly interested in results should screen the workflow design which is summarized in Fig. 3 and Fig. 4 and then jump to the application chapter.</p><div id="link-4">
+
+<div id="102118185877MS-Img_SPi-4"><figure>
+
+<img id="ImgLink-4" src="102118185877MS_i_4.tif" alt="102118185877MS_i_4" ><br>
+<figcaption><b>Figure 4 </b> Generic workflow diagram for History Matching</figcaption>
+<p>Figure 4 Generic workflow diagram for History Matching</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="9" figure-order="5" data-type-order="5">
+<a href="#link-5"> </a>
+<div>
+<p id="Ancr9">The following figure (Fig. 5) shows a top view on the reservoir model including the fault structure of the model. All wells are close to the southern crest of the model and are bounded by a major fault (not shown here), which is the only one not included in the uncertainty parameter definition. Other major faults identified in the sensitivity analysis are shown. The north-south trending fault highlighted in magenta color is the De Keyser fault, which divided the field into two regions.</p><div id="link-5">
+
+<div id="102118185877MS-Img_SPi-5"><figure>
+
+<img id="ImgLink-5" src="102118185877MS_i_5.tif" alt="102118185877MS_i_5" ><br>
+<figcaption><b>Figure 5 </b> Reservoir simulation model including well locations and faults. Well names are indicated next to wellheads. Fault names are not shown.</figcaption>
+<p>Figure 5 Reservoir simulation model including well locations and faults. Well names are indicated next to wellheads. Fault names are not shown.</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="2" pdf-page="10" figure-order="6" data-type-order="7">
+<a href="#link-6"> </a>
+<div>
+<p id="Ancr10">Fig. 6 shows base case profiles including historical data for well J1 for match criteria, well bottom hole pressure (WBHP) and well water production rate (WWPR). Well gas production rate was used as a control mode for the simulator, and therefore, is expected to be fully matched. The error metric for this project is built on match points, i.e., individual and trusted measurement points of interest are used. They are shown as red dots in Fig. 6. This approach will also favor proxy-based optimization methods in the history matching phase which automatically build proxies to predict individual simulation points. The global objective function in Eq. 9 can then be easily reconstructed as a high fidelity proxy solution for application in proxy-based MCMC workflows.</p><div id="link-6">
+
+<div id="102118185877MS-Img_SPi-6"><figure>
+
+<img id="ImgLink-6" src="102118185877MS_i_6.tif" alt="102118185877MS_i_6" ><br>
+<figcaption><b>Figure 6</b> Historical well production profiles for well J1, WBHP (left side), WWPR (right side). Simulation data are shown as a solid line, historical data are shown as dots. Selected match points used in an objective function definition are shown as red dots.</figcaption>
+<p>Figure 6 Historical well production profiles for well J1, WBHP (left side), WWPR (right side). Simulation data are shown as a solid line, historical data are shown as dots. Selected match points used in an objective function definition are shown as red dots.</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-6a"><figure>
+<img id="ImgLink-6a" src="102118185877MS_i_6a.tif" alt="102118185877MS_i_6a" ><br>
+<p>left WBHP</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-6b"><figure>
+<img id="ImgLink-6b" src="102118185877MS_i_6b.tif" alt="102118185877MS_i_6b" ><br>
+<p>right WWPR</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="5" pdf-page="12" figure-order="7" data-type-order="9">
+<a href="#link-7"> </a>
+<div>
+<p id="Ancr11">This approach allows to capture main effects which are typically displayed in tornado charts (Fig. 7). High, low and base case values are taken from Table 1, i.e., instead of taking the full initial ranges, we have chosen P10, P90 and P50 values for each uncertainty parameter. This reduces numerical problems when chosen extreme values with a low likeliness.</p><div id="link-7">
+
+<div id="102118185877MS-Img_SPi-7"><figure>
+
+<img id="ImgLink-7" src="102118185877MS_i_7.tif" alt="102118185877MS_i_7" ><br>
+<figcaption><b>Figure 7</b> Tornado charts for OVAT sensitivity runs. The largest parameter effects (y-axis) on all well mismatch responses for BHP in % are shown. BHP J1 BHP J2 BHP J3Y BHP J4 BHP J5</figcaption>
+<p>Figure 7 Tornado charts for OVAT sensitivity runs. The largest parameter effects (y-axis) on all well mismatch responses for BHP in % are shown. BHP J1 BHP J2 BHP J3Y BHP J4 BHP J5</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-7a"><figure>
+<img id="ImgLink-7a" src="102118185877MS_i_7a.tif" alt="102118185877MS_i_7a" ><br>
+<p> BHP J1</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-7b"><figure>
+<img id="ImgLink-7b" src="102118185877MS_i_7b.tif" alt="102118185877MS_i_7b" ><br>
+<p>  BHP J2</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-7c"><figure>
+<img id="ImgLink-7c" src="102118185877MS_i_7c.tif" alt="102118185877MS_i_7c" ><br>
+<p> BHP J3Y</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-7d"><figure>
+<img id="ImgLink-7d" src="102118185877MS_i_7d.tif" alt="102118185877MS_i_7d" ><br>
+<p> BHP J4</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-7e"><figure>
+<img id="ImgLink-7e" src="102118185877MS_i_7e.tif" alt="102118185877MS_i_7e" ><br>
+<p> BHP J5</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="2" pdf-page="14" figure-order="8" data-type-order="12">
+<a href="#link-8"> </a>
+<div>
+<p id="Ancr12">In this work we apply rejection filtering for identifying best cases and before launching a new method listed in Table 4. Applied rejection filters may significantly impact input parameter distributions of remaining simulation cases. Fig. 8 shows an example of an input parameter distribution before and after the rejection filtering. In order to improve the performance of any sampling process which fully screens the input parameter space, input parameter ranges are modified to envelop search areas where history matching solutions are expected. A strong discrepancy between the prior and posterior distribution of an input parameter indicates that the prior assumption is not strongly supported by production measurement data used in the history matching process.</p><div id="link-8">
+
+<div id="102118185877MS-Img_SPi-8"><figure>
+
+<img id="ImgLink-8" src="102118185877MS_i_8.tif" alt="102118185877MS_i_8" ><br>
+<figcaption><b>Figure 8</b> Parameter ranges of a permeability multiplier for the top layer before (left) and after (right) the rejection filtering. Abscissa values are given on a log scale.</figcaption>
+<p>Figure 8 Parameter ranges of a permeability multiplier for the top layer before (left) and after (right) the rejection filtering. Abscissa values are given on a log scale.</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-8a"><figure>
+<img id="ImgLink-8a" src="102118185877MS_i_8a.tif" alt="102118185877MS_i_8a" ><br>
+<p>left Parameter ranges of a permeability multiplier for the top layer before the rejection filtering</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-8b"><figure>
+<img id="ImgLink-8b" src="102118185877MS_i_8b.tif" alt="102118185877MS_i_8b" ><br>
+<p>right Parameter ranges of a permeability multiplier for the top layer after the rejection filtering</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="14" figure-order="9" data-type-order="13">
+<a href="#link-9"> </a>
+<div>
+<p id="Ancr13">The cross plot in Fig. 9 shows which well mismatch contributions fall within the standard deviation. The exclusive focus on the global objective function value may not be sufficient if a threshold for a mismatch error metric is required on a well-by-well basis. Individual contributions may be worse while others show a smaller mismatch error. The plot shows, that the BHP mismatch in well J4 exceeds the expected error metric on average by a factor of 2, while all other contributions are represented within the threshold limit. Rejection filtering allows one to identify cases which meet all history matching criteria.</p><div id="link-9">
+
+<div id="102118185877MS-Img_SPi-9"><figure>
+
+<img id="ImgLink-9" src="102118185877MS_i_9.tif" alt="102118185877MS_i_9" ><br>
+<figcaption><b>Figure 9 </b> Application of a rejection filter. Candidate solutions in the lower left corner meet the history matching criteria.</figcaption>
+<p>Figure 9 Application of a rejection filter. Candidate solutions in the lower left corner meet the history matching criteria.</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="2" pdf-page="15" figure-order="10" data-type-order="14">
+<a href="#link-10"> </a>
+<div>
+<p id="Ancr14">The global objective function value is often not a very good measure to identify problems, e.g., competing objective contributions which cannot be resolved within the given uncertainty parameterization scheme. The following cross plots show mismatch contributions from wells J3Y, J4, and J5. Based on the objective function definition, single objectives are well matched if the numeric objective value falls below 1. This is achievable for all objectives individually as shown in Fig. 10, but not simultaneously. As the pressure match for well J5 improves, the pressure match for well J4 deteriorates and vice versa. This anti-correlation is also observed for pressure and water production for well J3Y, shown in the right hand plot of Fig. 10.</p><div id="link-10">
+
+<div id="102118185877MS-Img_SPi-10"><figure>
+
+<img id="ImgLink-10" src="102118185877MS_i_10.tif" alt="102118185877MS_i_10" ><br>
+<figcaption><b>Figure 10</b> Cross plots showing partial mismatch contributions for different wells and measurements. Each dot represents one simulation case. Anti-correlated trends reveal competing objectives, i.e., reducing one mismatch will increase another and vice versa.</figcaption>
+<p>Figure 10 Cross plots showing partial mismatch contributions for different wells and measurements. Each dot represents one simulation case. Anti-correlated trends reveal competing objectives, i.e., reducing one mismatch will increase another and vice versa.</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-10a"><figure>
+<img id="ImgLink-10a" src="102118185877MS_i_10a.tif" alt="102118185877MS_i_10a" ><br>
+<p> WPR J4</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-10b"><figure>
+<img id="ImgLink-10b" src="102118185877MS_i_10b.tif" alt="102118185877MS_i_10b" ><br>
+<p> WPR J3Y</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="15" figure-order="11" data-type-order="15">
+<a href="#link-11"> </a>
+<div>
+<p id="Ancr15">Revision of the uncertainty matrix, tuning of the objective function, reduction of sampling ranges as well as removal of outliers are part of the preparation steps before launching the MCMC sampling process. Fig. 11 illustrates the prediction capability of the proxy model used in the sampling process.</p><div id="link-11">
+
+<div id="102118185877MS-Img_SPi-11"><figure>
+
+<img id="ImgLink-11" src="102118185877MS_i_11.tif" alt="102118185877MS_i_11" ><br>
+<figcaption><b>Figure 11 </b> Cross plot showing training data from the history matching phase (left side).</figcaption>
+<p>Figure 11 Cross plot showing training data from the history matching phase (left side).</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="5" pdf-page="16" figure-order="12" data-type-order="16">
+<a href="#link-12"> </a>
+<div>
+<p id="Ancr16">All well-based pressure profiles were included in the global objective function definition and are shown below in Fig. 12.</p><div id="link-12">
+
+<div id="102118185877MS-Img_SPi-12"><figure>
+
+<img id="ImgLink-12" src="102118185877MS_i_12.tif" alt="102118185877MS_i_12" ><br>
+<figcaption><b>Figure 12</b> Selected wells included in history matching error metric. BHP J1 BHP J2 BHP J3Y BHP J4 BHP J5</figcaption>
+<p>Figure 12 Selected wells included in history matching error metric. BHP J1 BHP J2 BHP J3Y BHP J4 BHP J5</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-12a"><figure>
+<img id="ImgLink-12a" src="102118185877MS_i_12a.tif" alt="102118185877MS_i_12a" ><br>
+<p> BHP J1</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-12b"><figure>
+<img id="ImgLink-12b" src="102118185877MS_i_12b.tif" alt="102118185877MS_i_12b" ><br>
+<p> BHP J2</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-12c"><figure>
+<img id="ImgLink-12c" src="102118185877MS_i_12c.tif" alt="102118185877MS_i_12c" ><br>
+<p> BHP J3Y</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-12d"><figure>
+<img id="ImgLink-12d" src="102118185877MS_i_12d.tif" alt="102118185877MS_i_12d" ><br>
+<p> BHP J4</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-12e"><figure>
+<img id="ImgLink-12e" src="102118185877MS_i_12e.tif" alt="102118185877MS_i_12e" ><br>
+<p> BHP J5</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="3" pdf-page="17" figure-order="13" data-type-order="17">
+<a href="#link-13"> </a>
+<div>
+<p id="Ancr17">Well water production rate match for selected producers is shown in Fig. 13. Water production of well J5 was included as the only water mismatch contribution in the objective function definition. Water production mismatch in well J3Y defines a problem which was already identified in the initial framing process and could not be resolved during the history matching phase based on the given uncertainty matrix definition.</p><div id="link-13">
+
+<div id="102118185877MS-Img_SPi-13"><figure>
+
+<img id="ImgLink-13" src="102118185877MS_i_13.tif" alt="102118185877MS_i_13" ><br>
+<figcaption><b>Figure 13</b> Water production mismatch for selected wells. Only water production of well J5 is included in the history matching error metric. WPR J3Y WPR J4 WPR J5</figcaption>
+<p>Figure 13 Water production mismatch for selected wells. Only water production of well J5 is included in the history matching error metric. WPR J3Y WPR J4 WPR J5</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-13a"><figure>
+<img id="ImgLink-13a" src="102118185877MS_i_13a.tif" alt="102118185877MS_i_13a" ><br>
+<p> WPR J3Y</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-13b"><figure>
+<img id="ImgLink-13b" src="102118185877MS_i_13b.tif" alt="102118185877MS_i_13b" ><br>
+<p> WPR J4</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-13c"><figure>
+<img id="ImgLink-13c" src="102118185877MS_i_13c.tif" alt="102118185877MS_i_13c" ><br>
+<p> WPR J5</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="17" figure-order="14" data-type-order="18">
+<a href="#link-14"> </a>
+<div>
+<p id="Ancr18">The conflict between pressure and water match was identified as a key concern for the history matching project and is caused by one production well which extends from the head to the tail zone across the De Keyser fault. Water movement over the production life cycle was analyzed based on one single model realization with an acceptable pressure match. Fig. 14 shows water saturation on a cross section around the problematic well J3Y. Early water breakthrough around the year 2000 is observed and indicates modeling problems which could not be consistently solved within the given uncertainty parameterization.</p><div id="link-14">
+
+<div id="102118185877MS-Img_SPi-14"><figure>
+
+<img id="ImgLink-14" src="102118185877MS_i_14.tif" alt="102118185877MS_i_14" ><br>
+<figcaption><b>Figure 14 </b> Water saturation shown for a cross section around well J3Y for different years.</figcaption>
+<p>Figure 14 Water saturation shown for a cross section around well J3Y for different years.</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="2" pdf-page="18" figure-order="15" data-type-order="19">
+<a href="#link-15"> </a>
+<div>
+<p id="Ancr19">This section presents results for a 10 year prediction period using history matching solutions described in the previous section. Typical operating scenarios assume narrow production constraints. In this study, constraints were mostly removed which leads to a high variability of prediction estimates. Fig. 15 shows the production forecast for gas.</p><div id="link-15">
+
+<div id="102118185877MS-Img_SPi-15"><figure>
+
+<img id="ImgLink-15" src="102118185877MS_i_15.tif" alt="102118185877MS_i_15" ><br>
+<figcaption><b>Figure 15</b> Production forecast for cumulative gas (left side), statistical stability plot (right side).</figcaption>
+<p>Figure 15 Production forecast for cumulative gas (left side), statistical stability plot (right side).</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-15a"><figure>
+<img id="ImgLink-15a" src="102118185877MS_i_15a.tif" alt="102118185877MS_i_15a" ><br>
+<p>left Production forecast for cumulative gas</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-15b"><figure>
+<img id="ImgLink-15b" src="102118185877MS_i_15b.tif" alt="102118185877MS_i_15b" ><br>
+<p>right statistical stability plot</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div pdf-page="19" figure-order="16" data-type-order="20">
+<a href="#link-16"> </a>
+<div>
+<p id="Ancr20">Fig. 16 shows results from the GSA and suggest an interpretation regarding the importance of individual and correlated uncertainty parameter contributions for variance estimates of gas production total at different time steps. Linear or first order sensitivity indices represent individual relative contributions to the variance estimate of the total gas production. The most important contributions come from modifications of porosity. Porosity modifications in the top geological layer (PORO1, PORO10) are again more important than modifications in the layer below (PORO2, PORO11).</p><div id="link-16">
+
+<div id="102118185877MS-Img_SPi-16"><figure>
+
+<img id="ImgLink-16" src="102118185877MS_i_16.tif" alt="102118185877MS_i_16" ><br>
+<figcaption><b>Figure 16 </b> Linear and total GSA coefficients for total gas production (FGPT).</figcaption>
+<p>Figure 16 Linear and total GSA coefficients for total gas production (FGPT).</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="2" pdf-page="20" figure-order="17" data-type-order="21">
+<a href="#link-17"> </a>
+<div>
+<p id="Ancr21">The cross-sections of the reservoir in Fig. 17 show the probability of gas saturation being above a threshold of 0.5 (left figure) and 0.7 (right figure). Probabilities for gas saturation are calculated on grid cell level including 100 simulation cases sampled from history-matched posterior distribution.</p><div id="link-17">
+
+<div id="102118185877MS-Img_SPi-17"><figure>
+
+<img id="ImgLink-17" src="102118185877MS_i_17.tif" alt="102118185877MS_i_17" ><br>
+<figcaption><b>Figure 17</b> Cross section based on probability maps for gas saturation in 2017 larger than 0.5 (left side) and larger than 0.7 (right side)</figcaption>
+<p>Figure 17 Cross section based on probability maps for gas saturation in 2017 larger than 0.5 (left side) and larger than 0.7 (right side)</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-17a"><figure>
+<img id="ImgLink-17a" src="102118185877MS_i_17a.tif" alt="102118185877MS_i_17a" ><br>
+<p>left larger than 0.5</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-17b"><figure>
+<img id="ImgLink-17b" src="102118185877MS_i_17b.tif" alt="102118185877MS_i_17b" ><br>
+<p>right larger than 0.7</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="2" pdf-page="20" figure-order="18" data-type-order="22">
+<a href="#link-18"> </a>
+<div>
+<p id="Ancr22">Depth-averaged standard deviation maps (Fig. 18) are based on the same ensemble of 100 simulation cases. They show the depth-averaged standard deviation of hydrocarbon gas at the beginning of the forecast (left) and 5 years later (right), covering the top two geological layers which primarily contribute to production. High variations are seen in the vicinity of wells.</p><div id="link-18">
+
+<div id="102118185877MS-Img_SPi-18"><figure>
+
+<img id="ImgLink-18" src="102118185877MS_i_18.tif" alt="102118185877MS_i_18" ><br>
+<figcaption><b>Figure 18</b> Depth-averaged StDev(SGAS) at two time steps, beginning of forecast (left side) and five years later (right side)</figcaption>
+<p>Figure 18 Depth-averaged StDev(SGAS) at two time steps, beginning of forecast (left side) and five years later (right side)</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-18a"><figure>
+<img id="ImgLink-18a" src="102118185877MS_i_18a.tif" alt="102118185877MS_i_18a" ><br>
+<p>left beginning of forecast</p>
+</figure></div>
+<div id="102118185877MS-Img_SPi-18b"><figure>
+<img id="ImgLink-18b" src="102118185877MS_i_18b.tif" alt="102118185877MS_i_18b" ><br>
+<p>right five years later</p>
+</figure></div>
+</div>
+</div>
+</div>
+</div>
+</div></html>

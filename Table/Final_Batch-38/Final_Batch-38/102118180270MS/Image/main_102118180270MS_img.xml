@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118180270MS.txt" extractionDate="2021-03-19T15:06:01Z">
+<doi>10.2118/180270-MS</doi>
+<pii>10.2118/180270-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr2">Unconventional reservoirs have been an overwhelming success for domestic oil production; the Bakken, Eagle Ford, Niobrara and formations in the Permian have dramatically increased production over the last decade. Figure 1 shows the U.S. oil production since 1920, and there is clearly a significant increase the last few years.</anchoringText>
+<image-wrap id="102118180270MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118180270MS_i_1.tif" id="ImgLink-1" />
+<caption>U.S. domestic oil production from 1920-2015 (from EIA, 2015)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>U.S. domestic oil production from 1920-2015 (from <link href="BIB5">EIA, 2015</link>)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-22" type="bib">
+<bib id="BIB5">
+<label>EIA, 2015</label>
+<author>Energy</author> Information Administration (EIA), <pubDate>(2015)</pubDate>. <i>U.S. Field Production of Crude Oil, </i>http://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&amp;s=MCRFPUS1&amp;f=M</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="2" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr3">Wells start producing at high rates; however, they also decline very quickly. Figure 2 shows the average oil rate for North Dakota wells that came online each year from 2007 through 2014 (Patterson, 2015). These wells were time-shifted so that they all started at time zero on the plot. Production begins at 300-400 barrels per day, but within 2 years, it is less than a quarter of that.</anchoringText>
+<image-wrap id="102118180270MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118180270MS_i_2.tif" id="ImgLink-2" />
+<caption>Oil production rates in North Dakota Bakken (Patterson, 2015)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Oil production rates in North Dakota Bakken (<link href="BIB1">Patterson, 2015</link>)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-22" type="bib">
+<bib id="BIB1">
+<label>Patterson, (2015)</label>
+<author>
+<first-name>R.</first-name>
+<last-name>Patterson</last-name>
+</author>, <pubDate>(2015)</pubDate>. <article-title>Bakken Decline Rates Worrying For Drillers, ” OilPrice.com </article-title>, <journal-title>February </journal-title>
+<pages>
+<first-page>25</first-page>
+</pages>
+</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr4">Data has been collected on 7 pilot projects in the Bakken that have been completed over the last ten years. Two of the pilots were performed in the Elm Coulee field on the Montana portion of the Bakken (MBOG, 2015), and five of the pilots were from the North Dakota part of the Bakken (NDIC, 2015). Figure 3 shows the main part of the Bakken, and the green circles highlight the general area where the pilots took place in Richland County, Montana and Mountrail County, North Dakota.</anchoringText>
+<image-wrap id="102118180270MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118180270MS_i_3.tif" id="ImgLink-3" />
+<caption>General location of seven pilot tests in the Bakken formation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>General location of seven pilot tests in the Bakken formation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr5">Unfortunately, this second objective was not realized in the production data for either well. Figure 4 shows the production response for both wells. For Pilot Test #2, the oil rate is increased once the well goes back on production; however, the increase does not fully offset the production lost during injection and shut-in times. In Pilot Test #1, there is no increase in oil production.</anchoringText>
+<image-wrap id="102118180270MS-Img_SPi-4">
+<label>Figure 4</label>
+<imageLink type="mediaResource" href="102118180270MS_i_4.tif" id="ImgLink-4" />
+<caption>Production from two Bakken wells performing huff-n-puff CO2 injection (Pilot Test #1) (Pilot Test #2)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Production from two Bakken wells performing huff-n-puff CO2 injection (Pilot Test #1) (Pilot Test #2)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118180270MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118180270MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-text>(Pilot Test #1)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118180270MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118180270MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-text>(Pilot Test #2)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr6">If the rock has more affinity to water than oil, then the rock may suck up the water while expelling the oil. This requires the rock to be water wet. Figure 5 shows the fluid production responses from the water huff-n-puff pilot test. The two injection cycles are shown on the figure, and there does not appear to be any additional oil produced after either cycle; however, an increase in production is observed almost a year after these two cycles.</anchoringText>
+<image-wrap id="102118180270MS-Img_SPi-5">
+<label>Figure 5</label>
+<imageLink type="mediaResource" href="102118180270MS_i_5.tif" id="ImgLink-5" />
+<caption>Oil and water production from water huff-n-puff operation in Bakken Oil Rate Water Rate</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Oil and water production from water huff-n-puff operation in Bakken Oil Rate Water Rate</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118180270MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118180270MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-text>Oil Rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118180270MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118180270MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-text>Water Rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr7">The earliest type of pilot where the goal was to increase recovery at an offset well occurred in North Dakota and used water as the injectant (Pilot Test #4). Figure 6 shows the general layout of the pilot. There were offsets to the east and west of the injector that were approximately 2300 feet away. There were also wells north and south of the horizontal injector that were about 900 and 1200 feet away from the heel and toe of the injector, respectively.</anchoringText>
+<image-wrap id="102118180270MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118180270MS_i_6.tif" id="ImgLink-6" />
+<caption>General layout of Pilot Tests #4/7</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>General layout of Pilot Tests #4/7</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr8">If anything, the oil rates may have decreased, but this could be due to the high volumes of water choking off some of the oil. Figure 7 shows oil and water production from the east offset well; the west offset well behaved very similarly. The wells to the north and south did not have any increase in oil or water. Oil, water and gas rates for the 4 offset wells along with the production and injection rates for the injector are provided in the Appendix.</anchoringText>
+<image-wrap id="102118180270MS-Img_SPi-7">
+<label>Figure 7</label>
+<imageLink type="mediaResource" href="102118180270MS_i_7.tif" id="ImgLink-7" />
+<caption>Oil and water production from well Offset-East Oil Rate Water Rate</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Oil and water production from well Offset-East Oil Rate Water Rate</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118180270MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118180270MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-text>Oil Rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118180270MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118180270MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-text>Water Rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr9">The north offset well may be the most intriguing well in the pattern. This well is the closest one to the injection well; the heels of the wells are less than 900 feet apart. Figure 8 has the oil and gas rates from this well. The increase in oil rate during the beginning of 2013 could be explained by a frac-hit from a well to the east of it. The oil increase in mid-2014 could be due to the newly fractured wells to the southwest of the pattern (that are impacting the south and west wells), but those new wells are over 1 mile away, and there are wells between them.</anchoringText>
+<image-wrap id="102118180270MS-Img_SPi-8">
+<label>Figure 8</label>
+<imageLink type="mediaResource" href="102118180270MS_i_8.tif" id="ImgLink-8" />
+<caption>Oil and gas production from well Offset-North Oil Rate Gas Rate</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Oil and gas production from well Offset-North Oil Rate Gas Rate</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118180270MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118180270MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-text>Oil Rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118180270MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118180270MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-text>Gas Rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr10">The closest offset well (about 880 feet away) was clearly impacted by the injection well. This offset had a huge increase in water production, but the oil rate did not increase during this time (Figure 9). The breakthrough happened in about one week, and that might have been one reason the injection rates were reduced. In addition, the average tubing pressure on the injection well started to increase, which also might have contributed to the decrease in injection rate.</anchoringText>
+<image-wrap id="102118180270MS-Img_SPi-9">
+<label>Figure 9</label>
+<imageLink type="mediaResource" href="102118180270MS_i_9.tif" id="ImgLink-9" />
+<caption>Oil and water production rates from offset well in Montana waterflood pilot Oil Rate Water Rate</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Oil and water production rates from offset well in Montana waterflood pilot Oil Rate Water Rate</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118180270MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118180270MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-text>Oil Rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118180270MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118180270MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-text>Water Rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="10" data-type-order="11">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr11">New tools and interpretation methods are being developed to measure flow responses along horizontal wells. In particular, distributed temperature sensing (DTS) and to a lesser extent, distributed acoustic sensing (DAS) have been successfully used to identify areas of high, low and no flows along wells. Recent papers have shown how it can be effective in evaluating injection processes in low permeability reservoirs with horizontal wells (Foo, et al., 2014; Fitzel, et al., 2015), as it is becoming an established technology (Figure 10).</anchoringText>
+<image-wrap id="102118180270MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118180270MS_i_10.tif" id="ImgLink-10" />
+<caption>Distributed temperature sensing (DTS) results from a horizontal, fractured well (Foo, et al., 2014)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Distributed temperature sensing (DTS) results from a horizontal, fractured well (<link href="BIB2">Foo, et al., 2014</link>)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-23" type="bib">
+<bib id="BIB2">
+<label>Foo et al., (2014)</label>
+<author>
+<first-name>D. B.</first-name>
+<last-name>Foo</last-name>
+</author>, <author>
+<first-name>J.</first-name>
+<last-name>Krislock</last-name>
+</author>, <author>
+<first-name>T. J.</first-name>
+<last-name>Meador</last-name>
+</author>, &amp; <author>
+<first-name>T.</first-name>
+<last-name>Cheng</last-name>
+</author>, <pubDate>(2014)</pubDate>. <article-title>Horizontal Well Injection Profiling Using Distributed Temperature Sensing. Society of Petroleum Engineers </article-title>
+<i />. doi: 10.2118/171586</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="11" data-type-order="12">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr12"> </anchoringText>
+<image-wrap id="102118180270MS-Img_SPi-11">
+<imageLink type="mediaResource" href="102118180270MS_i_11.tif" id="ImgLink-11" />
+<caption>Appendix Pilot Tests #4/7 (Injection Well) Production</caption>
+<formatted-caption>
+<caption-text>Appendix Pilot Tests #4/7 (Injection Well) Production</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="12" data-type-order="13">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr13"> </anchoringText>
+<image-wrap id="102118180270MS-Img_SPi-12">
+<imageLink type="mediaResource" href="102118180270MS_i_12.tif" id="ImgLink-12" />
+<caption>Appendix Pilot Tests #4/7 (Injection Well) Injection</caption>
+<formatted-caption>
+<caption-text>Appendix Pilot Tests #4/7 (Injection Well) Injection</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="13" data-type-order="14">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr14"> </anchoringText>
+<image-wrap id="102118180270MS-Img_SPi-13">
+<imageLink type="mediaResource" href="102118180270MS_i_13.tif" id="ImgLink-13" />
+<caption>Appendix Pilot Tests #4/7 (Offset Producers) Offset West</caption>
+<formatted-caption>
+<caption-text>Appendix Pilot Tests #4/7 (Offset Producers) Offset West</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="14" data-type-order="15">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr15"> </anchoringText>
+<image-wrap id="102118180270MS-Img_SPi-14">
+<imageLink type="mediaResource" href="102118180270MS_i_14.tif" id="ImgLink-14" />
+<caption>Appendix Pilot Tests #4/7 (Offset Producers) Offset East</caption>
+<formatted-caption>
+<caption-text>Appendix Pilot Tests #4/7 (Offset Producers) Offset East</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="20" figure-order="15" data-type-order="16">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr16"> </anchoringText>
+<image-wrap id="102118180270MS-Img_SPi-15">
+<imageLink type="mediaResource" href="102118180270MS_i_15.tif" id="ImgLink-15" />
+<caption>Appendix Pilot Tests #4/7 (Offset Producers) Offset North</caption>
+<formatted-caption>
+<caption-text>Appendix Pilot Tests #4/7 (Offset Producers) Offset North</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="20" figure-order="16" data-type-order="17">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr17"> </anchoringText>
+<image-wrap id="102118180270MS-Img_SPi-16">
+<imageLink type="mediaResource" href="102118180270MS_i_16.tif" id="ImgLink-16" />
+<caption>Appendix Pilot Tests #4/7 (Offset Producers) Offset South</caption>
+<formatted-caption>
+<caption-text>Appendix Pilot Tests #4/7 (Offset Producers) Offset South</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="17" data-type-order="18">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr18"> </anchoringText>
+<image-wrap id="102118180270MS-Img_SPi-17">
+<imageLink type="mediaResource" href="102118180270MS_i_17.tif" id="ImgLink-17" />
+<caption>Appendix Pilot Tests #6 (Injection Well) Production</caption>
+<formatted-caption>
+<caption-text>Appendix Pilot Tests #6 (Injection Well) Production</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="18" data-type-order="19">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr19"> </anchoringText>
+<image-wrap id="102118180270MS-Img_SPi-18">
+<imageLink type="mediaResource" href="102118180270MS_i_18.tif" id="ImgLink-18" />
+<caption>Appendix Pilot Tests #6 (Injection Well) Injection</caption>
+<formatted-caption>
+<caption-text>Appendix Pilot Tests #6 (Injection Well) Injection</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="22" figure-order="19" data-type-order="20">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr20"> </anchoringText>
+<image-wrap id="102118180270MS-Img_SPi-19">
+<imageLink type="mediaResource" href="102118180270MS_i_19.tif" id="ImgLink-19" />
+<caption>Appendix Pilot Tests #6 (Offset Producers) Offset West</caption>
+<formatted-caption>
+<caption-text>Appendix Pilot Tests #6 (Offset Producers) Offset West</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="22" figure-order="20" data-type-order="21">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr21"> </anchoringText>
+<image-wrap id="102118180270MS-Img_SPi-20">
+<imageLink type="mediaResource" href="102118180270MS_i_20.tif" id="ImgLink-20" />
+<caption>Appendix Pilot Tests #6 (Offset Producers) Offset East</caption>
+<formatted-caption>
+<caption-text>Appendix Pilot Tests #6 (Offset Producers) Offset East</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

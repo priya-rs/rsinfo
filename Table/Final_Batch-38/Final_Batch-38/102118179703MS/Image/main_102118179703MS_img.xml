@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118179703MS.txt" extractionDate="2021-03-18T20:26:33Z">
+<doi>10.2118/179703-MS</doi>
+<pii>10.2118/179703-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">The geocellular and dynamic models used in the earlier SAMA EOR studies (Koyassan Veedu et al. 2015a) were updated with the available data from the new pilot wells and from new laboratory experiments. The initial location for the planned ASP pilot in the SAMA was moved approximately 1.5 km to the northwest owing to facility and operational constraints. The new pilot area is located inside an existing inverted 9-spot waterflood pattern (Figure 1). Several of the five pilot wells have been drilled and cored.</anchoringText>
+<image-wrap id="102118179703MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118179703MS_i_1.tif" id="ImgLink-1" />
+<caption>SAMA region of interest and boundaries of various sector levels</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>SAMA region of interest and boundaries of various sector levels</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">The development of the sector geocellular model is described in Koyassan Veedu et. al. (2015a).Inthe current study, we updated the geocellular model with well log and core data available from the new pilot wells. The geocellular model update followed a standard workflow that included stratigraphic modeling, structural modeling, property distribution based on petrophysical rock types and volume estimates. The updated sector geocellular model was scaled up using a flow-based algorithm with layer combinations such that the fine-scale pressure profile is preserved. Figure 2 shows a fence diagram that compares the scaled-up and fine-scale porosity distribution and layer thickness.</anchoringText>
+<image-wrap id="102118179703MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118179703MS_i_2.tif" id="ImgLink-2" />
+<caption>Porosity and layer distribution of sector geocelluar and sector simulation models</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Porosity and layer distribution of sector geocelluar and sector simulation models</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">We included a larger area for the geocellular model development in order to include more wells for better control of property distributions. Figure 1 shows the area chosen for the geocellular and simulation models. The location of the pilot area is also shown on the figure. The simulation model was used to history-match the injection and production data available from the waterflood pattern. We used apparent permeability and scaled-up relative permeability curves to achieve a history-match. This included production (Figure 3), PLT (Figure 4), and RFT (Figure 5) data from the sector model area wells. The history-matched simulation model was then used to develop a pilot scale model to perform chemical EOR simulations.</anchoringText>
+<image-wrap id="102118179703MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118179703MS_i_3.tif" id="ImgLink-3" />
+<caption>Example produced fluids history-match for waterflood pattern producer</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Example produced fluids history-match for waterflood pattern producer</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">We included a larger area for the geocellular model development in order to include more wells for better control of property distributions. Figure 1 shows the area chosen for the geocellular and simulation models. The location of the pilot area is also shown on the figure. The simulation model was used to history-match the injection and production data available from the waterflood pattern. We used apparent permeability and scaled-up relative permeability curves to achieve a history-match. This included production (Figure 3), PLT (Figure 4), and RFT (Figure 5) data from the sector model area wells. The history-matched simulation model was then used to develop a pilot scale model to perform chemical EOR simulations.</anchoringText>
+<image-wrap id="102118179703MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118179703MS_i_4.tif" id="ImgLink-4" />
+<caption>Example PLT log history-match of pattern waterflood injector</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Example PLT log history-match of pattern waterflood injector</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">We included a larger area for the geocellular model development in order to include more wells for better control of property distributions. Figure 1 shows the area chosen for the geocellular and simulation models. The location of the pilot area is also shown on the figure. The simulation model was used to history-match the injection and production data available from the waterflood pattern. We used apparent permeability and scaled-up relative permeability curves to achieve a history-match. This included production (Figure 3), PLT (Figure 4), and RFT (Figure 5) data from the sector model area wells. The history-matched simulation model was then used to develop a pilot scale model to perform chemical EOR simulations.</anchoringText>
+<image-wrap id="102118179703MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118179703MS_i_5.tif" id="ImgLink-5" />
+<caption>History-match of MDT/RFT pressure data from waterflood patern injector (left) and newly drilled pilot wells (center, right).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>History-match of MDT/RFT pressure data from waterflood patern injector (left) and newly drilled pilot wells (center, right).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">The initial sector simulation model was too large and coarse to properly model the 4.9 acre interwell ASP pilot, and also included layers not to be targeted during the pilot. Therefore, we developed a smaller sector extracted from the history-matched sector model. The waterflood injector located approximately 240 m from the new pilot area was also included in the model (Figure 6). The pilot simulation model only included zones from MaB-MaE (Figure 11) as they are the most promising EOR targets based on inspection of zone properties and earlier simulations reported by Koyassan Veedu et al. (2015b).</anchoringText>
+<image-wrap id="102118179703MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118179703MS_i_6.tif" id="ImgLink-6" />
+<caption>Top layer water saturation in 2014 in the Sector (left) and the extracted Pilot model (right)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Top layer water saturation in 2014 in the Sector (left) and the extracted Pilot model (right)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179703MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118179703MS_i_6a.tif" id="ImgLink-6a" />
+</image-wrap>
+<image-wrap id="102118179703MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118179703MS_i_6b.tif" id="ImgLink-6b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">The sector simulation model was used to determine boundary conditions for the pilot area – to do this we did a forecast simulation of a polymerflood with the sector simulation model and monitored the pressures at the boundaries of the pilot area. Pseudowells were then added around the periphery of the simulation model, and operating conditions were defined to honor the boundary pressures from the larger sector simulations (Figure 7).</anchoringText>
+<image-wrap id="102118179703MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118179703MS_i_7.tif" id="ImgLink-7" />
+<caption>Initial water saturation in top layer showing well locations and pseudowells</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Initial water saturation in top layer showing well locations and pseudowells</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">Simulations suggest that the impact of the W_I injector on the ASP pilot performance shouldn’t be major, even under injection rate conditions of 9,300 bbls/day water. Figure 8 shows the tracer movement from injector W_I toward the pilot area, which shows that the water injection at the pattern injector moved into the pilot area only during the initial stages of the pilot operations. Once the pressure at the pilot area stabilized, the effect of water injection was minimal. The impact of the producer can be further reduced by decreasing W_I water injection rates. Figure 9 shows the tracer production from Prod_A decreases substantially as the injection rate in W_I decreases from 9,300 to 5,000 bbl/d.</anchoringText>
+<image-wrap id="102118179703MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118179703MS_i_8.tif" id="ImgLink-8" />
+<caption>Tracer distribution in pilot from waterflood injector W_I during simulated polymer flooding at 9,300 bbls/day injection rate in W_I.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Tracer distribution in pilot from waterflood injector W_I during simulated polymer flooding at 9,300 bbls/day injection rate in W_I.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">Simulations suggest that the impact of the W_I injector on the ASP pilot performance shouldn’t be major, even under injection rate conditions of 9,300 bbls/day water. Figure 8 shows the tracer movement from injector W_I toward the pilot area, which shows that the water injection at the pattern injector moved into the pilot area only during the initial stages of the pilot operations. Once the pressure at the pilot area stabilized, the effect of water injection was minimal. The impact of the producer can be further reduced by decreasing W_I water injection rates. Figure 9 shows the tracer production from Prod_A decreases substantially as the injection rate in W_I decreases from 9,300 to 5,000 bbl/d.</anchoringText>
+<image-wrap id="102118179703MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118179703MS_i_9.tif" id="ImgLink-9" />
+<caption>Tracer production at the pilot producer with different injection rates at in waterflood pattern injector W_I.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Tracer production at the pilot producer with different injection rates at in waterflood pattern injector W_I.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="8" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">Preliminary evaluation shows that certain layers of the Mauddud formation are more promising for ASP flooding than others. For example Layers MaA and MaF produce and receive very little fluid based on PLT studies across the field (Koyassan Veedu et al., 2015a, Figure 10). Figure 11 shows the core-derived permeability distribution between wells. The data clearly show that layers below the shaly barrier are lower quality than the layers above it, especially in terms of permeability.</anchoringText>
+<image-wrap id="102118179703MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118179703MS_i_10.tif" id="ImgLink-10" />
+<caption>PLT Data from several wells adapted from Koyassan Veedu et al 2015a.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>PLT Data from several wells adapted from Koyassan Veedu et al 2015a.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179703MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118179703MS_i_10a.tif" id="ImgLink-10a" />
+</image-wrap>
+<image-wrap id="102118179703MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118179703MS_i_10b.tif" id="ImgLink-10b" />
+</image-wrap>
+<image-wrap id="102118179703MS-Img_SPi-10c">
+<imageLink type="mediaResource" href="102118179703MS_i_10c.tif" id="ImgLink-10c" />
+</image-wrap>
+<image-wrap id="102118179703MS-Img_SPi-10d">
+<imageLink type="mediaResource" href="102118179703MS_i_10d.tif" id="ImgLink-10d" />
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-1" type="bib">
+<bib id="BIB1">
+<label></label>
+<label>Koyassan Veedu et al 2015a</label>
+<author>
+<first-name>F. K.</first-name>
+<last-name>Koyassan Veedu</last-name>
+</author>
+<author>
+<first-name>D. E.</first-name> 
+<last-name>Thomas</last-name>
+</author>
+<author>
+<first-name>P.</first-name>
+<last-name>Wang</last-name>
+</author>
+<author>
+<first-name>K.</first-name>
+<last-name>Eskandaridalvand</last-name>
+</author>
+<author>
+<first-name>J.</first-name>
+<last-name>Hornbrook</last-name>
+</author>
+<author>
+<first-name>G. A.</first-name>
+<last-name>Pope</last-name>
+</author>
+<author>
+<first-name>S.</first-name>
+<last-name>Tiwari</last-name>
+</author>
+, <pubDate>2015a,February 23</pubDate>, <article-title>EOR Feasibility Study through an Integrated Laboratory Evaluation and Reservoir Simulation for a Large Carbonate Field in Kuwait</article-title> <journal-title>Society of Petroleum Engineers</journal-title>doi: 10.2118/173255-MS.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">The initial sector simulation model was too large and coarse to properly model the 4.9 acre interwell ASP pilot, and also included layers not to be targeted during the pilot. Therefore, we developed a smaller sector extracted from the history-matched sector model. The waterflood injector located approximately 240 m from the new pilot area was also included in the model (Figure 6). The pilot simulation model only included zones from MaB-MaE (Figure 11) as they are the most promising EOR targets based on inspection of zone properties and earlier simulations reported by Koyassan Veedu et al. (2015b).</anchoringText>
+<image-wrap id="102118179703MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118179703MS_i_11.tif" id="ImgLink-11" />
+<caption>Rock Type Distribution in SAMA, where dark and medium blue are quality limestones</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Rock Type Distribution in SAMA, where dark and medium blue are quality limestones</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">Based on initial scoping simulations, it appears difficult to inject substantial fluid volumes into the upper layers MaB and MaC due to their low permeability and gravity effects, both of which divert fluid down into layer MaD. Therefore, we selected layers MaE and MaD as the target zones for the ASP pilot. Layers MaD and MaE in the EOR pilot have an initial average oil saturation of 71% in the model (Figure 12).</anchoringText>
+<image-wrap id="102118179703MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118179703MS_i_12.tif" id="ImgLink-12" />
+<caption>Permeability of target zones in SAMA ASP Pilot</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Permeability of target zones in SAMA ASP Pilot</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">The pilot will include 2 observation wells to monitor the progress of the ASP fluids. To determine the locations for these wells, we first overlaid a map of the simulation grid with UTM coordinates to verify the locations of the wells in the pilot area. Figure 13 shows the UTM well coordinates and the equivalent locations within the UTCHEM simulation model.</anchoringText>
+<image-wrap id="102118179703MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118179703MS_i_13.tif" id="ImgLink-13" />
+<caption>Simulation grid corresponding to UTM coordinates of inj/prod wells and observation wells.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Simulation grid corresponding to UTM coordinates of inj/prod wells and observation wells.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr14">All injectors were limited to 4900 bbls/day, while the producer was limited to 6000 bbls/day with a minimum BHP of 1800 psi (or slightly above the bubble point pressure of 1770 psi). These high rates enable the pilot to be completed in a short time, and may be optimistic from an implementation perspective. Water was injected in each well for 30 days before tracer was injected. Subsequent simulations showed that reservoir sweep is relatively insensitive to the time at which tracer test is started. The volume swept by water and by ASP fluids was calculated for each injector/producer pair as shown in Figure 14.</anchoringText>
+<image-wrap id="102118179703MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118179703MS_i_14.tif" id="ImgLink-14" />
+<caption>Volume swept by water (left) and ASP fluids (right) calculated from simulated IWTTs</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Volume swept by water (left) and ASP fluids (right) calculated from simulated IWTTs</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179703MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118179703MS_i_14a.tif" id="ImgLink-14a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>water</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179703MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118179703MS_i_14b.tif" id="ImgLink-14b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>ASP fluids</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="15" data-type-order="15">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr15">The sweep efficiency is much higher for the more viscous ASP fluids than for seawater. Also, the more viscous fluids counteract heterogeneity so the difference in the sweep efficiency between the four injectors and the producer is less than for the waterflood. A simple summation of the four well-pair swept volumes can be computed to obtain the total predicted reservoir swept volume for both ASP and waterflooding as shown in Figure 15.</anchoringText>
+<image-wrap id="102118179703MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118179703MS_i_15.tif" id="ImgLink-15" />
+<caption>Total pilot swept volume for waterflooding and ASP flooding</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Total pilot swept volume for waterflooding and ASP flooding</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="16" data-type-order="16">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr16"> </anchoringText>
+<image-wrap id="102118179703MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118179703MS_i_16.tif" id="ImgLink-16" />
+<caption>Pilot wells injection production ratio</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Pilot wells injection production ratio</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="17" data-type-order="17">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr17">At the completion of waterflood (day 90), the oil cut is predicted to be lower than 10%. Figure 17 shows the oil production and surfactant concentration from producer A. The peak surfactant concentration is about 40% of its injected value due to dispersion and retention. An oil bank forms with a peak oil cut of about 63%. ASP incremental oil recovery is predicted to be substantial – on the order of 50% of OOIP - due to both increased volumetric sweep and low residual saturation in the swept zone.</anchoringText>
+<image-wrap id="102118179703MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118179703MS_i_17.tif" id="ImgLink-17" />
+<caption>Oil cut and surfactant concentration in Producer_A</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Oil cut and surfactant concentration in Producer_A</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="18" data-type-order="18">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr18">Figure 18 shows a decrease in the average oil saturation in the target zone with time from 70% to about below 20% for the ASP flood and to about 50% for the extended waterflood. These results are in good agreement with earlier simulations using the Sector Simulation Model by Koyassan Veedu et al. 2015, which suggests final oil saturation of 52% after extended waterflood, and below 28% in the ASP pilot. The ASP simulations reported by Koyassan Veedu et al. ended after less injection volume than those presented here but were still producing substantial oil at the final timestep, meaning the true agreement is likely even better.</anchoringText>
+<image-wrap id="102118179703MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118179703MS_i_18.tif" id="ImgLink-18" />
+<caption>Target volume oil saturation, ASP flood and waterflood</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Target volume oil saturation, ASP flood and waterflood</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="19" data-type-order="19">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr19">As in all chemical floods careful attention to mobility control is required for good performance. The base case in-situ ASP fluid viscosity is 10 –20 cP, with an average of approximately 15 cP near the end of the flood (Figure 19). This includes both the ASP slug and the polymer drive.</anchoringText>
+<image-wrap id="102118179703MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118179703MS_i_19.tif" id="ImgLink-19" />
+<caption>Aqueous phase viscosity distribution of top layer near the end of ASP pilot</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Aqueous phase viscosity distribution of top layer near the end of ASP pilot</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="20" data-type-order="20">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr20">Our results suggest our base case pilot design is near a viscosity ‘sweet spot’ given likely limitations on well injection rates, production rates and pressure controls. Increasing ASP fluid viscosity to 30 –50 cP increases the pilot duration, while decreasing the fluid viscosity would decrease recovery factor. Figure 20 shows the predicted effect of injection fluid viscosity on pilot volume oil saturation with time.</anchoringText>
+<image-wrap id="102118179703MS-Img_SPi-20">
+<label>Figure 20 </label>
+<imageLink type="mediaResource" href="102118179703MS_i_20.tif" id="ImgLink-20" />
+<caption>Effect of ASP fluid viscosity on target oil saturation during pilot</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Effect of ASP fluid viscosity on target oil saturation during pilot</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="21" data-type-order="21">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr21">Decreasing the producer rate limit to 3,000 bbls/day could have substantial negative impacts on the pilot – ASP fluids which would otherwise usefully sweep the target volume are being diverted outside the target volume and total oil recovery suffers as a result (Figure 21). This effect would be even more significant if the oil bank mobility is underestimated, making it more difficult to produce. However, all effects of well injectivity and production will depend on to-be-determined by real world productivity which will updated in the model after completion of the waterflood.</anchoringText>
+<image-wrap id="102118179703MS-Img_SPi-21">
+<label>Figure 21 </label>
+<imageLink type="mediaResource" href="102118179703MS_i_21.tif" id="ImgLink-21" />
+<caption>Effect of maximum production rate in Prod_A on pilot oil saturation during pilot</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>21</caption-order>
+<caption-text>Effect of maximum production rate in Prod_A on pilot oil saturation during pilot</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

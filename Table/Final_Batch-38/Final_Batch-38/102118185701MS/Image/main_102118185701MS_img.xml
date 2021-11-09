@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185701MS.txt" extractionDate="2021-03-27T15:15:44Z">
+<doi>10.2118/185701-MS</doi>
+<pii>10.2118/185701-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="4" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr3">Particularly, the CO2 gas is preferred for injection because it attains high volumetric sweep efficiency with high microscopic displacement efficiency, especially in miscible injection mode. Additionally, the high volumetric sweep efficiency assures delaying CO2 breakthrough to the producer(s) (Rao, 2012). Delaying or eliminating the gas breakthrough results in diminishing concurrent gas-liquid flow, which then leads to increased gas injectivity and maintains the injection pressure. Figure 1 illustrates the basic concepts of the GAGD process(Rao, 2012).</anchoringText>
+<image-wrap id="102118185701MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118185701MS_i_1.tif" id="ImgLink-1" />
+<caption>Schematic Drawing of the GAGD process, Modified from (Satake, 2015)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Schematic Drawing of the GAGD process, Modified from (<link href="BIB1">Satake, 2015</link>)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-20" type="bib">
+<bib id="BIB1">
+<label>Satake, (2015)</label>
+<author>
+<first-name>A. L.</first-name>
+<last-name>Satake</last-name>
+</author>
+<article-title>Newton's Solution. LSU research Magazine </article-title>
+<i />, (20-23) <pubDate>(2015)</pubDate>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr4">South Rumaila field is divided into four sectors. Listed from north to south, the sectors are: Qurainat, Shamiya, Rumaila, and Janubia. The area investigated focused on the Rumaila sector and small parts from Shamiya and Janubia sectors. The choice of this area was made based on the availability of data and the ability to represent the largest part, where the production and injection operations are carried out, shown in Figure 2.</anchoringText>
+<image-wrap id="102118185701MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118185701MS_i_2.tif" id="ImgLink-2" />
+<caption>Field's Sectors, Well Locations, and Isobaric Map of South Rumaila Oil Field, Modified from (Mohammed et al., 2010)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Field's Sectors, Well Locations, and Isobaric Map of South Rumaila Oil Field, Modified from (<link href="BIB2">Mohammed et al., 2010</link>)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-21" type="bib">
+<bib id="BIB2">
+<label>Mohammed et al., (2010)</label>
+<author>
+<first-name>W. J</first-name>
+<last-name>Mohammed</last-name>
+</author>, <author>
+<first-name>M. S.</first-name>
+<last-name>Al Jawad</last-name>
+</author> and <author>
+<first-name>D. A.</first-name>
+<last-name>Al-Shamaa</last-name>
+</author>. <article-title>Reservoir Flow Simulation study for a Sector in Main Pay-South Rumaila Oil Field. SPE Oil and Gas India Conference and Exhibition, Mumbai </article-title>, India <pubDate>(2010)</pubDate>. http://dx.doi.org/10.2118/126427-MS.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr5">Figure 3 shows the locations of injection and production wells that are installed for CO2 flooding in the Gas Assisted Gravity Drainage process. For future field development evaluation, an excellent history matching was obtained through trial and error process with respect to field cumulative oil production and water injection as well as fluid flow rates. The production and injection matching is a good indicator of reservoir and fluid behavior as it reflects the matching of water cut and saturation distributions.</anchoringText>
+<image-wrap id="102118185701MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118185701MS_i_3.tif" id="ImgLink-3" />
+<caption>Production and Injection Well Locations in Sand and Shaly-Sand Zones. The reservoir body is represented by the red color, which denotes to shale zones. However, the perforations of producers and injectors were mainly placed in sand zones (indicator number 2), which have high permeability ranges, as well as shaly-sand zones (indicator number 1).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Production and Injection Well Locations in Sand and Shaly-Sand Zones. The reservoir body is represented by the red color, which denotes to shale zones. However, the perforations of producers and injectors were mainly placed in sand zones (indicator number 2), which have high permeability ranges, as well as shaly-sand zones (indicator number 1).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr6">The production and injection matching is a good indicator of reservoir and fluid behavior as it reflects the matching of water cut and saturation distributions. The entire production history for the simulation period in this study is approximately 56 years. The production and injection flow rates were available until February 2010. Therefore, the history matching was achieved from 1954 until 2010. Figure 4 shows the matching between field production rates and cumulative oil production. Additionally, Figure 5 depicts the matching between field injection rates and cumulative water injection.</anchoringText>
+<image-wrap id="102118185701MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118185701MS_i_4.tif" id="ImgLink-4" />
+<caption>History Matching of Entire Field Production of South Rumaila Oil Field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>History Matching of Entire Field Production of South Rumaila Oil Field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr7">The production and injection matching is a good indicator of reservoir and fluid behavior as it reflects the matching of water cut and saturation distributions. The entire production history for the simulation period in this study is approximately 56 years. The production and injection flow rates were available until February 2010. Therefore, the history matching was achieved from 1954 until 2010. Figure 4 shows the matching between field production rates and cumulative oil production. Additionally, Figure 5 depicts the matching between field injection rates and cumulative water injection.</anchoringText>
+<image-wrap id="102118185701MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118185701MS_i_5.tif" id="ImgLink-5" />
+<caption>History Matching of Entire Field Injection of South Rumaila Oil Field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>History Matching of Entire Field Injection of South Rumaila Oil Field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr8">The Latin Hypercube sampling is one of these efficient designs that produces uniform and low discrepancy observations (McKay et al., 1979). Figure 6 shows the space-filling design by LHS for two variables. In this figure, the sampled data are allocated within the entire space randomly. All the points are uniformly distributed to capture the entire variation of the process being studied, and that is the strength of Latin Hypercube Sampling approach.</anchoringText>
+<image-wrap id="102118185701MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118185701MS_i_6.tif" id="ImgLink-6" />
+<caption>Latin Hypercube Sampling Design given Two Variables(R output)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Latin Hypercube Sampling Design given Two Variables(R output)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr9">Therefore, the proxy model is updated frequently after adding the new set of simulation jobs (verifications) in order to obtain the true optimal solution (Yang et al., 2011). Latin Hypercube Plus Proxy Model was adopted in the optimization of production control parameters through the GAGD process. The complete flowchart for Design of Experiments-Proxy model optimization is shown in Figure 7.</anchoringText>
+<image-wrap id="102118185701MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118185701MS_i_7.tif" id="ImgLink-7" />
+<caption>Flowchart of Design of Experiments-Proxy Optimization Algorithm</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Flowchart of Design of Experiments-Proxy Optimization Algorithm</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr10">The levels of each factors in Table 1 were combined by the Design of Experiments (DoE), Latin Hypercube Sampling (LHS), in order to produce hundreds of computer experiments (simulation jobs). Then, the designed experiments were evaluated through the compositional reservoir simulator to calculate the cumulative oil production by the end of 10 years prediction period (January 1, 2026). The optimal solution referred to the simulation job that results to obtain the maximum cumulative oil production by the end of prediction period, as illustrated in Figure 8.</anchoringText>
+<image-wrap id="102118185701MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118185701MS_i_8.tif" id="ImgLink-8" />
+<caption>Base Case, General and Optimal Cumulative Oil Production through the Latin Hypercube Sampling-based GAGD Process Optimization</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Base Case, General and Optimal Cumulative Oil Production through the Latin Hypercube Sampling-based GAGD Process Optimization</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="15" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr11">More specifically about the optimization procedure, the calculated reservoir flow response, field cumulative oil production, was statistically fitted as function of the six operational decision factors given by the 256 simulation jobs (training jobs). For the training jobs, the proxy model was then built considering the second-order polynomial equation. After that, the verification jobs were iteratively generated and evaluated by the built proxy model and the reservoir simulator to check whether their values lie within the 95%confidence interval, as shown in Figure 9 that depicts the four different iterations of the polynomial proxy model verification.</anchoringText>
+<image-wrap id="102118185701MS-Img_SPi-9">
+<label>Figure 9</label>
+<imageLink type="mediaResource" href="102118185701MS_i_9.tif" id="ImgLink-9" />
+<caption>Iterative Validations of the Constructed Proxy Model by Comparison of the Proxy- and Simulator-based Cumulative Oil Production</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Iterative Validations of the Constructed Proxy Model by Comparison of the Proxy- and Simulator-based Cumulative Oil Production</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185701MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118185701MS_i_9a.tif" id="ImgLink-9a" />
+</image-wrap>
+<image-wrap id="102118185701MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118185701MS_i_9b.tif" id="ImgLink-9b" />
+</image-wrap>
+<image-wrap id="102118185701MS-Img_SPi-9c">
+<imageLink type="mediaResource" href="102118185701MS_i_9c.tif" id="ImgLink-9c" />
+</image-wrap>
+<image-wrap id="102118185701MS-Img_SPi-9d">
+<imageLink type="mediaResource" href="102118185701MS_i_9d.tif" id="ImgLink-9d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="10" data-type-order="11">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr12">The partial t-test was also adopted to validate the polynomial proxy models in order to determine the most influential operational factors that lead to the optimal solution. The non-influential factors are removed from the model when they fail to reject the null hypothesis of non-effect role. Figure 10 shows the tornado plot of most influential production factors inferred from reduced polynomial (Quadratic) proxy model.</anchoringText>
+<image-wrap id="102118185701MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118185701MS_i_10.tif" id="ImgLink-10" />
+<caption>Most Inuential Operational Decision Factors and Interactions from Reduced Polynomial Proxy Model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Most Inuential Operational Decision Factors and Interactions from Reduced Polynomial Proxy Model</caption-text>
+</formatted-caption></image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="11" data-type-order="12">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr13">Figures 11, 12, and 13 decorate the response surface models for MAX_BHP and MIN_BHP, MAX_BHP and WCUT, and MIN_BHP and WCUT, receptively. The bold, red areas in the RSM figures show the optimum regions for obtaining the highest cumulative oil production as function of every two predictors. As a result, the cumulative oil production is getting higher at maximum of MAX_BHP and WCUT and minimum MIN_BHP.</anchoringText>
+<image-wrap id="102118185701MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118185701MS_i_11.tif" id="ImgLink-11" />
+<caption>Response Surface Model between MAX_BHP and MIN_BHP</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Response Surface Model between MAX_BHP and MIN_BHP</caption-text>
+</formatted-caption></image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="12" data-type-order="13">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr14">Figures 11, 12, and 13 decorate the response surface models for MAX_BHP and MIN_BHP, MAX_BHP and WCUT, and MIN_BHP and WCUT, receptively. The bold, red areas in the RSM figures show the optimum regions for obtaining the highest cumulative oil production as function of every two predictors. As a result, the cumulative oil production is getting higher at maximum of MAX_BHP and WCUT and minimum MIN_BHP.</anchoringText>
+<image-wrap id="102118185701MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118185701MS_i_12.tif" id="ImgLink-12" />
+<caption>Response Surface Model between MAX_BHP and WCUT</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Response Surface Model between MAX_BHP and WCUT</caption-text>
+</formatted-caption></image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="13" data-type-order="14">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr15">Figures 11, 12, and 13 decorate the response surface models for MAX_BHP and MIN_BHP, MAX_BHP and WCUT, and MIN_BHP and WCUT, receptively. The bold, red areas in the RSM figures show the optimum regions for obtaining the highest cumulative oil production as function of every two predictors. As a result, the cumulative oil production is getting higher at maximum of MAX_BHP and WCUT and minimum MIN_BHP.</anchoringText>
+<image-wrap id="102118185701MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118185701MS_i_13.tif" id="ImgLink-13" />
+<caption>Response Surface Model between MIN BHP and WCUT</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Response Surface Model between MIN BHP and WCUT</caption-text>
+</formatted-caption></image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="14" data-type-order="15">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr16">After validating the optimization process, verifying the proxy models, and determining the optimal production factors that affect obtaining the maximum flow response, the optimal solution was then identified and visualized with respect to the field cumulative oil production, as were outlines in Figure 14. The optimal solution represents the maximum field cumulative oil production by the end of the 10 years prediction period. The general solutions in Figure 14, represented by the green curves, refer to the least flow response that combine low and/or poor combinations of the factors' levels. Hence, they led to low levels of field cumulative oil production.</anchoringText>
+<image-wrap id="102118185701MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118185701MS_i_14.tif" id="ImgLink-14" />
+<caption>Base Case, General and Optimal Field Cumulative Oil Production through the LHS-based Proxy Optimization</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Base Case, General and Optimal Field Cumulative Oil Production through the LHS-based Proxy Optimization</caption-text>
+</formatted-caption></image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="15" data-type-order="16">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr17">The cumulative oil production by the end of the prediction period through base case-GAGD process was 4.3887 billion STB. However, the optimal solution, obtained from LHS-based proxy pptimization (OptimalCase), led to increase the cumulative oil production to 4.6039 billion STB. The incremental oil recovery is 215.2 million STB, as illustrated in Figure 15, which compares the base case and optimal GAGD process performance along with the primary production case of no injection. The optimal cumulative oil production was acquired by obtaining the optimal levels of all the production control factors, which are illustrated in Table 2.</anchoringText>
+<image-wrap id="102118185701MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118185701MS_i_15.tif" id="ImgLink-15" />
+<caption>Comparison of Oil Production between Primary, Base, and Optimal Cases</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Comparison of Oil Production between Primary, Base, and Optimal Cases</caption-text>
+</formatted-caption></image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="19" figure-order="16" data-type-order="18">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr18">The Root Mean Square Error (RMSE) and the adjusted R2 were then computed to compare between the calculated cumulative oil production from the reservoir simulator and the predicted from the proxy model. Figures 16, 17, 18, and 19 illuminates the matching between the calculated cumulative oil production from the simulator (Observed) and the predicted from the proxy models (Predicted) with respect to the jobs for the QM, MARS, FUzzy-GEnetic, and GBM, respectively.</anchoringText>
+<image-wrap id="102118185701MS-Img_SPi-16">
+<label>Figure 16</label>
+<imageLink type="mediaResource" href="102118185701MS_i_16.tif" id="ImgLink-16" />
+<caption>Comparison of Proxy-Predicted and Simulator Calculated-QM</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Comparison of Proxy-Predicted and Simulator Calculated-QM</caption-text>
+</formatted-caption></image-wrap>
+<image-wrap id="102118185701MS-Img_SPi-16a">
+<imageLink type="mediaResource" href="102118185701MS_i_16a.tif" id="ImgLink-16a" />
+</image-wrap>
+<image-wrap id="102118185701MS-Img_SPi-16b">
+<imageLink type="mediaResource" href="102118185701MS_i_16b.tif" id="ImgLink-16b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="19" figure-order="17" data-type-order="19">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr19">The Root Mean Square Error (RMSE) and the adjusted R2 were then computed to compare between the calculated cumulative oil production from the reservoir simulator and the predicted from the proxy model. Figures 16, 17, 18, and 19 illuminates the matching between the calculated cumulative oil production from the simulator (Observed) and the predicted from the proxy models (Predicted) with respect to the jobs for the QM, MARS, FUzzy-GEnetic, and GBM, respectively.</anchoringText>
+<image-wrap id="102118185701MS-Img_SPi-17">
+<label>Figure 17</label>
+<imageLink type="mediaResource" href="102118185701MS_i_17.tif" id="ImgLink-17" />
+<caption>Comparison of Proxy-Predicted and Simulator Calculated-MARS</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Comparison of Proxy-Predicted and Simulator Calculated-MARS</caption-text>
+</formatted-caption></image-wrap>
+<image-wrap id="102118185701MS-Img_SPi-17a">
+<imageLink type="mediaResource" href="102118185701MS_i_17a.tif" id="ImgLink-17a" />
+</image-wrap>
+<image-wrap id="102118185701MS-Img_SPi-17b">
+<imageLink type="mediaResource" href="102118185701MS_i_17b.tif" id="ImgLink-17b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="20" figure-order="18" data-type-order="20">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr20">The Root Mean Square Error (RMSE) and the adjusted R2 were then computed to compare between the calculated cumulative oil production from the reservoir simulator and the predicted from the proxy model. Figures 16, 17, 18, and 19 illuminates the matching between the calculated cumulative oil production from the simulator (Observed) and the predicted from the proxy models (Predicted) with respect to the jobs for the QM, MARS, FUzzy-GEnetic, and GBM, respectively.</anchoringText>
+<image-wrap id="102118185701MS-Img_SPi-18">
+<label>Figure 18</label>
+<imageLink type="mediaResource" href="102118185701MS_i_18.tif" id="ImgLink-18" />
+<caption>Comparison of Proxy-Predicted and Simulator Calculated-FUzzy-Genetic</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Comparison of Proxy-Predicted and Simulator Calculated-FUzzy-Genetic</caption-text>
+</formatted-caption></image-wrap>
+<image-wrap id="102118185701MS-Img_SPi-18a">
+<imageLink type="mediaResource" href="102118185701MS_i_18a.tif" id="ImgLink-18a" />
+</image-wrap>
+<image-wrap id="102118185701MS-Img_SPi-18b">
+<imageLink type="mediaResource" href="102118185701MS_i_18b.tif" id="ImgLink-18b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="20" figure-order="19" data-type-order="21">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr21">The Root Mean Square Error (RMSE) and the adjusted R2 were then computed to compare between the calculated cumulative oil production from the reservoir simulator and the predicted from the proxy model. Figures 16, 17, 18, and 19 illuminates the matching between the calculated cumulative oil production from the simulator (Observed) and the predicted from the proxy models (Predicted) with respect to the jobs for the QM, MARS, FUzzy-GEnetic, and GBM, respectively.</anchoringText>
+<image-wrap id="102118185701MS-Img_SPi-19">
+<label>Figure 19</label>
+<imageLink type="mediaResource" href="102118185701MS_i_19.tif" id="ImgLink-19" />
+<caption>Comparison of Proxy-Predicted and Simulator Calculated-GBM</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Comparison of Proxy-Predicted and Simulator Calculated-GBM</caption-text>
+</formatted-caption></image-wrap>
+<image-wrap id="102118185701MS-Img_SPi-19a">
+<imageLink type="mediaResource" href="102118185701MS_i_19a.tif" id="ImgLink-19a" />
+</image-wrap>
+<image-wrap id="102118185701MS-Img_SPi-19b">
+<imageLink type="mediaResource" href="102118185701MS_i_19b.tif" id="ImgLink-19b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

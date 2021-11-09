@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189838MS.txt" extractionDate="2021-03-30T10:08:32Z">
+<doi>10.2118/189838-MS</doi>
+<pii>10.2118/189838-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr8">To reduce the uncertainty in model predictions and more reliably optimize Utica development, a comprehensive field experiment was conducted to compare P&amp;P and CEP completions, determine fracture geometry as a function of treatment size and completion strategy, and calibrate hydraulic fracture and reservoir simulation models on a five-well pad in the rich gas (~20 bbl/MMCF) region of the Utica (Fig. 1). The five-well pad consisted of 7000 ft laterals drilled in the Point Pleasant formation with all wells 100%in the target interval.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_1.tif" id="ImgLink-1" />
+<caption>Utica Field Experiment</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Utica Field Experiment</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="2" data-type-order="4">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr9">The Utica Shale consists of several stratigraphic units of Middle Ordovician age in the Appalachian Basin and is composed of calcareous, organic-rich shale (Melick et al. 2016). The primary reservoir target is the Point Pleasant formation, which is directly below the Utica formation and bounded below by the Trenton Lime. Fig. 2 shows a typical log section and geological model for the Utica Shale and bounding rock. The geo-model for this work included rock mechanical properties, pore pressures, and stress data required for hydraulic fracture modeling.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_2.tif" id="ImgLink-2" />
+<caption>Type Log and Geological Model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Type Log and Geological Model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="3" data-type-order="5">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr10">Natural fracture orientations were based on regional image logs and core data, indicating a dominant orientation of 310°, with secondary orientations of 265°and 220°. The spacing and length of the natural fractures were used as a calibrating parameter for hydraulic fracture modeling to match microseismic data. Fig. 3 shows the DFN used for hydraulic fracture modeling, including the spacing and length of each natural fracture set. The geo-model and DFN were used for all subsequent hydraulic fracture modeling and reservoir simulation history matching</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_3.tif" id="ImgLink-3" />
+<caption>DFN used for complex hydraulic fracture modeling</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>DFN used for complex hydraulic fracture modeling</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="6">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr11">The microseismic results for 1H, 2H, 4H (toe stages), and 5H are shown in Fig. 4, colored by well. The variation in fracture treatment designs is highlighted for the 1H and 5H wells for reference. The microseismic results for the 1H well clearly show that increasing treatment volume results in longer hydraulic fractures. Small treatments (265,000 lbm/stage) were pumped in the 2H stages 1-27, with large treatments pumped in only the heel-most stages 28-32.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_4.tif" id="ImgLink-4" />
+<caption>Microseismic Results for 1H, 2H, 4H (toe stages), and 5H: map view</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Microseismic Results for 1H, 2H, 4H (toe stages), and 5H: map view</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr12">Fig. 5 shows the relationship between hydraulic fracture half-length and treatment volume. The volumes are normalized by dividing the total slurry volume (fluid plus proppant) injected by the number of perf clusters. The graph shows the average fracture half-length for each well and each treatment size. There are five P&amp;P data points (green triangles with blue outline) that represent the large treatments in the 1H well, large treatments in the 2H well, small treatments in the 1H well, small treatments in the 2H well, and small treatments in the 5H well (toe section P&amp;P completions).</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_5.tif" id="ImgLink-5" />
+<caption>Hydraulic Fracture Half-Length and Treatment Volume</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Hydraulic Fracture Half-Length and Treatment Volume</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr13">Fig. 6 shows a depth view of the microseismic events in the heel-most stages of the 1H, 2H, and 5H wells (heel stages were not monitored in the 4H). The vast majority of the microseismic events are located in the Utica-Point Pleasant interval denoted in green in Fig. 6. There is a lower density of events immediately above and below the target interval, suggesting limited fracture growth in the Reedsville C and Trenton. There are spurious shallow events that are likely induced due to deformation caused by the hydraulic fracture in the Utica-Point Pleasant.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_6.tif" id="ImgLink-6" />
+<caption>Microseismic Fracture Height Results: 1H, 2H, and 5H (depth view, looking down each lateral or gun barrel orientation)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Microseismic Fracture Height Results: 1H, 2H, and 5H (depth view, looking down each lateral or gun barrel orientation)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr14">A depth view of the microseismic dataset, oriented along the azimuth of the laterals, is shown in Fig. 7, illustrating the difference in event patterns between the horizontal and vertical orientation of the geophone array. The toe of the 1H lateral is shown for reference. The majority of the microseismic data were acquired with the geophone array in the lateral of the 3H well. The microseismic events are almost exclusively concentrated in close proximity to or in the Utica-Point Pleasant interval when the array is positioned solely in the lateral, indicating more confined fracture height growth than when the array is positioned in the vertical section of the observations well.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_7.tif" id="ImgLink-7" />
+<caption>Microseismic: 1H, 2H, 4H, and 5H (depth view, lateral azimuth orientation)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Microseismic: 1H, 2H, 4H, and 5H (depth view, lateral azimuth orientation)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr15">Fig. 8 shows the injection rates and BHP data for one of the nearby DFITs used for this work, showing a very high pressure drop in the first 5 minutes after pump shutdown. This is typical of Utica DFITs and large propped fracture treatments, precluding simple calculations of net pressure based on ISIP data. This very high pressure drop is likely due to severe near wellbore fracture complexity and appears to mostly dissipate within 5 minutes after pump shutdown. Therefore, net pressures are calculated using the pressure 5 minutes after pump shutdown (denoted as the 5-minute ISIP).</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_8.tif" id="ImgLink-8" />
+<caption>DFIT Injection Rates and Pressures</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>DFIT Injection Rates and Pressures</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr16">The G-function graph in Fig. 9 indicates a fracture closure pressure of 7620 psi (0.87 psi/ft). Closure was picked using the classical DFIT analysis technique presented by Barree et al. (2007, 2014). The 5-minute ISIP for this DFIT was 8480 psi, resulting in a net pressure of 860 psi. The Compliance Method for picking fracture closure was introduced by McClure et al. [2016] and suggests that fracture closure occurs at much lower pressures corresponding to the deviation from the first straight line region on the GdP/dG curve.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_9.tif" id="ImgLink-9" />
+<caption>G-function graph, fracture closure ~7620 psi</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>G-function graph, fracture closure ~7620 psi</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr17">The log-log graph of the later portion of the pressure decline is shown in Fig. 10, showing a −1/2 slope region indicative of afterclosure pseudo linear flow and a −1 slope indicative of pseudo radial flow. Reservoir pressure was extrapolated using the radial flow region, indicating a pressure of 6815 psi (0.78 psi/ft). The pseudo linear flow extrapolation indicates a slightly lower reservoir pressure of 6520 psi (0.75 psi/ft). For reference, the last recorded BHP was 6930 psi.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_10.tif" id="ImgLink-10" />
+<caption>Log-Log Graph of DFIT Pressure Decline (100 min to end of test)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Log-Log Graph of DFIT Pressure Decline (100 min to end of test)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="11" data-type-order="13">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr18">Fig. 11 shows an example of three proppant tracers added to the early, middle, and late proppant stages to evaluate proppant placement using limited entry perforating. All three tracers were detected in each perforation cluster, confirming that all perforation clusters broke down and indicating continuous proppant entry into all four perforation clusters throughout the treatment. These results were repeated in five additional stages (two wells, three stages each).</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_11.tif" id="ImgLink-11" />
+<caption>Typical Proppant Tracer Results for Utica P&amp;P Completions with Limited Entry Strategy Similar to the Wells in this Project [Reference Cipolla et al. 2014, Fig. 5]</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Typical Proppant Tracer Results for Utica P&amp;P Completions with Limited Entry Strategy Similar to the Wells in this Project [Reference <link href="BIB1">Cipolla et al. 2014</link>, <link href="102118189838MS-Img_SPi-5">Fig. 5]</link>
+</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-33" type="bib">
+<bib id="BIB1">
+<label>Cipolla and Wallace, 2014</label>
+<author>
+<first-name>C.</first-name>
+<last-name>Cipolla</last-name>
+</author> and <author>
+<first-name>J.</first-name>
+<last-name>Wallace</last-name>
+</author>
+<pubDate>2014</pubDate>. <article-title>Stimulated Reservoir Volume: A Misapplied Concept? SPE 168596 presented at the SPE Hydraulic Fracturing Technology Conference</article-title>, The Woodlands, Texas, USA, 4-6 February.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="12" data-type-order="14">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr19">The model net pressure was increased to match the measured data using modest increases in the system stiffness and pressure drop down the hydraulic fracture. Fig. 12 compares the model-predicted and actual average net pressure for each well. The calibrated model is within 7% of the actual net pressures. The net pressure for the CEP completion showed similar agreement for the 3H and 5H wells, while the calibrated model was approximately 15%low for the 4H well.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_12.tif" id="ImgLink-12" />
+<caption>Net Pressure Comparison: Well Averages</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Net Pressure Comparison: Well Averages</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="13" data-type-order="15">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr20">The distribution of net pressure predicted using the calibrated model is compared to the actual data for the 81 P&amp;P stages in Fig. 13, showing that the calibrated model predicts a similar variation in net pressure. Actual net pressure varied from 300 to 1800 psi, while the model net pressures varied from 700 to 1600 psi. The net pressure comparison for the CEP completions showed similar agreement, with the actual net pressures varying from 700 to 1800 psi and the model net pressures varying from 600 to 1500 psi.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_13.tif" id="ImgLink-13" />
+<caption>Distribution of Net Pressure: Actual and Model-Predicted</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Distribution of Net Pressure: Actual and Model-Predicted</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="14" data-type-order="16">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr21">Fig. 14 and Fig. 15 show examples of the fracture geometry calibration to microseismic data for a P&amp;P and CEP stage, respectively. The general microseismic event pattern is reasonably matched using the complex hydraulic fracture model. The model-predicted fracture height for the CEP completion (Fig. 14) is larger than the microseismic height; as discussed previously, there is more uncertainty in microseismic fracture height due to the location of the geophone array in the lateral of the 3H well.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_14.tif" id="ImgLink-14" />
+<caption>Example Fracture Model Calibration for CEP Completion: 5H, Large Treatment Size</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Example Fracture Model Calibration for CEP Completion: 5H, Large Treatment Size</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="15" data-type-order="17">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr22">Fig. 14 and Fig. 15 show examples of the fracture geometry calibration to microseismic data for a P&amp;P and CEP stage, respectively. The general microseismic event pattern is reasonably matched using the complex hydraulic fracture model. The model-predicted fracture height for the CEP completion (Fig. 14) is larger than the microseismic height; as discussed previously, there is more uncertainty in microseismic fracture height due to the location of the geophone array in the lateral of the 3H well.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_15.tif" id="ImgLink-15" />
+<caption>Example Fracture Model Calibration for P&amp;P Completion: 1H, Small Treatment Size</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Example Fracture Model Calibration for P&amp;P Completion: 1H, Small Treatment Size</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="16" data-type-order="18">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr23">The fracture geometries predicted using the calibrated model for all the stages with microseismic data are compared in Fig. 16, showing good agreement between the model-predicted fracture lengths and the microseismic event patterns for the P&amp;P completions. The model-predicted fracture lengths for the CEP completions are somewhat longer than indicated by the microseismic event patterns. A total of 81 P&amp;P stages 145 CEP stages are compared in Fig. 16.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_16.tif" id="ImgLink-16" />
+<caption>Comparison of Calibrated Fracture Model and Microseismic</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Comparison of Calibrated Fracture Model and Microseismic</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="17" data-type-order="19">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr24">Fig. 17 compares the fracture length-volume relationship for the complex fracture model and microseismic data for the P&amp;P completions. The graph shows the maximum hydraulic fracture length and the average hydraulic fracture length. The model results are grouped by well to be consistent with the microseismic averages, thus there are three data points for the small volume treatments (1H, 2H, and 5H) and two data points for the large treatments (1H and 2H).</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_17.tif" id="ImgLink-17" />
+<caption>Comparison of Calibrated Complex Fracture Model and Microseismic Data for P&amp;P completions: Length-Volume Relationship</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Comparison of Calibrated Complex Fracture Model and Microseismic Data for P&amp;P completions: Length-Volume Relationship</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="18" data-type-order="20">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr25">Fig. 18 compares the fracture lengths predicted using the calibrated complex fracture model to the microseismic data for the CEP stages. The microseismic results for the P&amp;P stages are included for comparison. Note that the same calibrations were used for the CEP and P&amp;P completions. The complex fracture model results for the CEP stages (blue circles) are above the microseismic data for the CEP stages (red squares). The complex fracture model captures the shallow length- volume trend for the CEP completions, but overestimates fracture length.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_18.tif" id="ImgLink-18" />
+<caption>Comparison of Calibrated Complex Fracture Model and Microseismic Data for CEP completions: Length-Volume Relationship</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Comparison of Calibrated Complex Fracture Model and Microseismic Data for CEP completions: Length-Volume Relationship</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="19" data-type-order="22">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr26">Fig. 19 compares the length-volume relationship for the calibrated planar fracture model to the microseismic results, showing excellent agreement. Fig. 20 compares the planar and complex fracture geometries for the 1H Stages 3 and 4 to the microseismic event patterns for those two stages. The fracture lengths for both the planar and complex models are similar. However, the fracture height for the planar model is much larger than the microseismic height.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_19.tif" id="ImgLink-19" />
+<caption>Planar Fracture Model Calibration: Length-Volume Coimparison</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Planar Fracture Model Calibration: Length-Volume Coimparison</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="19" figure-order="20" data-type-order="23">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr27">Fig. 19 compares the length-volume relationship for the calibrated planar fracture model to the microseismic results, showing excellent agreement. Fig. 20 compares the planar and complex fracture geometries for the 1H Stages 3 and 4 to the microseismic event patterns for those two stages. The fracture lengths for both the planar and complex models are similar. However, the fracture height for the planar model is much larger than the microseismic height.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-20">
+<label>Figure 20 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_20.tif" id="ImgLink-20" />
+<caption>Comparison of Planar Fracture Model and Complex Fracture Model Calibrations: 1H Stages 3 and 4</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Comparison of Planar Fracture Model and Complex Fracture Model Calibrations: 1H Stages 3 and 4</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189838MS-Img_SPi-20a">
+<imageLink type="mediaResource" href="102118189838MS_i_20a.tif" id="ImgLink-20a" />
+</image-wrap>
+<image-wrap id="102118189838MS-Img_SPi-20b">
+<imageLink type="mediaResource" href="102118189838MS_i_20b.tif" id="ImgLink-20b" />
+</image-wrap>
+<image-wrap id="102118189838MS-Img_SPi-20c">
+<imageLink type="mediaResource" href="102118189838MS_i_20c.tif" id="ImgLink-20c" />
+</image-wrap>
+<image-wrap id="102118189838MS-Img_SPi-20d">
+<imageLink type="mediaResource" href="102118189838MS_i_20d.tif" id="ImgLink-20d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="20" figure-order="21" data-type-order="24">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr28">Fig. 21 compares the BHFP behavior for the 1H, 2H, 3H, 4H, and 5H wells, showing that the 1H and 2H wells are the best performers and the 3H and 4H wells are the worst performing wells on the pad. The 5H well underperforms the rest of the wells in the first 90 days, but then outperforms the 3H and 4H. The cumulative gas production for the five wells, shown in Fig. 21, suggests the same ranking. In addition, the 1H well required the longest time to reach plateau pressure (~360 days), with the 2H and 5H reaching plateau around 250-270 days and the 3H and 4H reaching plateau pressure in ~200 days.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-21">
+<label>Figure 21 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_21.tif" id="ImgLink-21" />
+<caption>Production Comparison: 1H, 2H, 3H, 4H, and 5H</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>21</caption-order>
+<caption-text>Production Comparison: 1H, 2H, 3H, 4H, and 5H</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="22" data-type-order="25">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr29">Fig. 22 presents a small portion of the reservoir simulation grid showing the hydraulic fracture cells, and it illustrates the complexity of the grid and the location of the un-propped fractures, 100-mesh sand, and 30/50-mesh sand. The geometry of the fractures and location of proppant in the simulation grid match the results from the calibrated complex fracture model. The reservoir simulation grids included the 1H, 2H, 3H, 4H, 5H, and B4H wells and consisted of one layer representing the Point Pleasant interval, 5-ft cell width for the hydraulic fractures, and unstructured grids to accommodate the complex fracture geometries.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-22">
+<label>Figure 22 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_22.tif" id="ImgLink-22" />
+<caption>Reservoir Simulation Fracture Grid Cells: Expanded View of 1H Showing Propped and Un-propped Fractures</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>22</caption-order>
+<caption-text>Reservoir Simulation Fracture Grid Cells: Expanded View of 1H Showing Propped and Un-propped Fractures</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="22" figure-order="23" data-type-order="27">
+<link href="link-23" type="image" />
+<appendix>
+<linkTarget id="link-23" type="image">
+<anchoringText id="Ancr30">Fig. 23 shows the compaction curves used for the case with complex hydraulic fractures. In addition to relative permeability effects, a further decrease in fracture conductivity at the dew-point was approximated using the compaction curves. This creates the "kink" in the fracture conductivity curve around 2500 psi.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-23">
+<label>Figure 23 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_23.tif" id="ImgLink-23" />
+<caption>Compaction Curves for Reservoir Simulation: Complex Hydraulic Fractures</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>23</caption-order>
+<caption-text>Compaction Curves for Reservoir Simulation: Complex Hydraulic Fractures</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="23" figure-order="24" data-type-order="28">
+<link href="link-24" type="image" />
+<appendix>
+<linkTarget id="link-24" type="image">
+<anchoringText id="Ancr31">Fig. 24 shows the pressure distribution for the B4H, just before the completion of the project wells, assuming a connection to low-conductivity natural fractures (left image). Original reservoir pressure is shown in red, with the majority of depletion predicted in the vicinity of the B4H (shown in blue and purple). The simulation predicts approximately 500-1000 psi depletion in the natural fractures around the 5H lateral and 300-500 psi depletion in the natural fractures around the 4H lateral, with higher pressures in the matrix.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-24">
+<label>Figure 24 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_24.tif" id="ImgLink-24" />
+<caption>Depletion Pattern for the B4H with DFN (left) and comparison to microseismic (right)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>24</caption-order>
+<caption-text>Depletion Pattern for the B4H with DFN (left) and comparison to microseismic (right)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189838MS-Img_SPi-24a">
+<imageLink type="mediaResource" href="102118189838MS_i_24a.tif" id="ImgLink-24a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>Depletion Pattern for the B4H with DFN</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189838MS-Img_SPi-24b">
+<imageLink type="mediaResource" href="102118189838MS_i_24b.tif" id="ImgLink-24b" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>comparison to microseismic</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="23" figure-order="25" data-type-order="29">
+<link href="link-25" type="image" />
+<appendix>
+<linkTarget id="link-25" type="image">
+<anchoringText id="Ancr32">The history match for the project wells is shown in Fig. 25, illustrating a good match for all five wells. The matrix permeability is 10 nd, with fracture conductivity varied for each well to fine tune the history match. Table 5 presents the fracture conductivity values that were used in the history match, showing the conductivity at closure stresses of 1000 psi and 6500 psi, which roughly correspond to initial reservoir pressure and the final BHFP. The conductivity as a function of closures stress for 30/50-mesh sand, using the average history match conductivity, is compared to the conductivity estimated using lab data corrected to in-situ conditions in Fig. 27.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-25">
+<label>Figure 25 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_25.tif" id="ImgLink-25" />
+<caption>Production History Match: Complex Fractures, B4H Drainage with DFN</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>25</caption-order>
+<caption-text>Production History Match: Complex Fractures, B4H Drainage with DFN</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="24" figure-order="26" data-type-order="30">
+<link href="link-26" type="image" />
+<appendix>
+<linkTarget id="link-26" type="image">
+<anchoringText id="Ancr33">The conductivity values for 30/50- mesh sand vary by a factor of two, with a general correlation between the amounts of proppant pumped in each well and the history match conductivity. Fig. 26 shows the history match conductivity (30/50- mesh sand) for each well and the total amount of proppant pumped. Excluding the 5H well, which is influenced by depletion from and connection to the B4H, there is an excellent correlation between the amounts of proppant pumped and the history match fracture conductivity.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-26">
+<label>Figure 26 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_26.tif" id="ImgLink-26" />
+<caption>Correlation: Fracture Conductivity and Proppant Pumped</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>26</caption-order>
+<caption-text>Correlation: Fracture Conductivity and Proppant Pumped</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="24" figure-order="27" data-type-order="31">
+<link href="link-27" type="image" />
+<appendix>
+<linkTarget id="link-27" type="image">
+<anchoringText id="Ancr34">The history match for the project wells is shown in Fig. 25, illustrating a good match for all five wells. The matrix permeability is 10 nd, with fracture conductivity varied for each well to fine tune the history match. Table 5 presents the fracture conductivity values that were used in the history match, showing the conductivity at closure stresses of 1000 psi and 6500 psi, which roughly correspond to initial reservoir pressure and the final BHFP. The conductivity as a function of closures stress for 30/50-mesh sand, using the average history match conductivity, is compared to the conductivity estimated using lab data corrected to in-situ conditions in Fig. 27.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-27">
+<label>Figure 27 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_27.tif" id="ImgLink-27" />
+<caption>Fracture Conductivity and Closure Stress: Complex Fractures</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>27</caption-order>
+<caption-text>Fracture Conductivity and Closure Stress: Complex Fractures</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="25" figure-order="28" data-type-order="33">
+<link href="link-28" type="image" />
+<appendix>
+<linkTarget id="link-28" type="image">
+<anchoringText id="Ancr35">An alternate history match was performed to evaluate the impact of limiting the B4H drainage to an area proximal to the hydraulic fractures. Fig. 28 shows the simulated pressure for the B4H, assuming no production from natural fractures. It illustrates the classical depletion pattern for unconventional reservoirs with drainage very proximal to the hydraulic fractures. The contribution of the natural fractures to the early-time B4H production is minor.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-28">
+<label>Figure 28 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_28.tif" id="ImgLink-28" />
+<caption>Histoy Match Assuming Limited B4H Depletion (No DFN): B4H Depletion Pattarn (left), 1H and 5H HM (right)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>28</caption-order>
+<caption-text>Histoy Match Assuming Limited B4H Depletion (No DFN): B4H Depletion Pattarn (left), 1H and 5H HM (right)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189838MS-Img_SPi-28a">
+<imageLink type="mediaResource" href="102118189838MS_i_28a.tif" id="ImgLink-28a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>Histoy Match Assuming Limited B4H Depletion (No DFN): B4H Depletion Pattarn</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189838MS-Img_SPi-28b">
+<imageLink type="mediaResource" href="102118189838MS_i_28b.tif" id="ImgLink-28b" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>1H and 5H HM</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="26" figure-order="29" data-type-order="34">
+<link href="link-29" type="image" />
+<appendix>
+<linkTarget id="link-29" type="image">
+<anchoringText id="Ancr36">To evaluate the impact of fracture complexity on the production modeling and subsequent completion and well spacing optimizations, a production history match was performed using the geometries from the calibrated planar hydraulic fracture model. Fig. 29 presents a portion of the reservoir simulation grid for the planar fracture case, showing the location of 30/50-mesh sand, 100-mesh sand, and un-propped portions of the hydraulic fractures. The grid is much simpler than the complex fracture grid (reference Fig. 22), but overlap of the hydraulic fractures due to stress shadow effects is still predicted by the fracture modeling.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-29">
+<label>Figure 29 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_29.tif" id="ImgLink-29" />
+<caption>Reservoir Simulation Grid: Planar Fractures, expanded view, 1H &amp; 2H</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>29</caption-order>
+<caption-text>Reservoir Simulation Grid: Planar Fractures, expanded view, 1H &amp; 2H</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="27" figure-order="30" data-type-order="37">
+<link href="link-30" type="image" />
+<appendix>
+<linkTarget id="link-30" type="image">
+<anchoringText id="Ancr37">Fig. 30 compares the history match of the 1H and 5H wells for the planar fracture case to the complex fracture case, showing that both cases result in a good match of the actual history. The planar model history match for the interior wells (2H, 3H, and 4H) showed similar agreement to the complex model match for most of the production history, but degraded slightly during the later plateau production period.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-30">
+<label>Figure 30 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_30.tif" id="ImgLink-30" />
+<caption>Comparison of 1H &amp; 5H History Match: Planar and Complex Models</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>30</caption-order>
+<caption-text>Comparison of 1H &amp; 5H History Match: Planar and Complex Models</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="29" figure-order="31" data-type-order="38">
+<link href="link-31" type="image" />
+<appendix>
+<linkTarget id="link-31" type="image">
+<anchoringText id="Ancr38">Fig. 31 compares the normalized 5-year drilling unit gas recovery for the 36 cases simulated. The gas recovery is normalized based on the recovery of the case with 1100 ft well spacing, 55 ft cluster spacing, and small treatments. Five year gas recovery is used for the comparisons because early-time production dominates economic performance. The tightest well spacing studied was 825 ft, which equates to five wells per drilling unit, and shows the highest gas recovery. The largest well spacing of 1467 ft corresponds to three wells per drilling unit and shows the lowest gas recovery.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-31">
+<label>Figure 31 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_31.tif" id="ImgLink-31" />
+<caption>Normalized 5-year Gas Production: Complex Fractures (left) and Planar Fractures (right)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>31</caption-order>
+<caption-text>Normalized 5-year Gas Production: Complex Fractures (left) and Planar Fractures (right)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189838MS-Img_SPi-31a">
+<imageLink type="mediaResource" href="102118189838MS_i_31a.tif" id="ImgLink-31a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>Normalized 5-year Gas Production: Complex Fractures</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189838MS-Img_SPi-31b">
+<imageLink type="mediaResource" href="102118189838MS_i_31b.tif" id="ImgLink-31b" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>Planar Fractures</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="30" figure-order="32" data-type-order="39">
+<link href="link-32" type="image" />
+<appendix>
+<linkTarget id="link-32" type="image">
+<anchoringText id="Ancr39">A detailed economic study was performed using the production forecasts for the 36 optimization cases. Fig. 32 shows an example economic comparison of the optimization cases, illustrating that the maximum net present value (NPV) can vary significantly depending on the fracture geometry assumption. The maximum NPV is predicted for the case with planar hydraulic fractures, 1100-ft well spacing, large treatments, and 30-ft cluster spacing. However, there are a number of cases with similar NPV. Given that complex hydraulic fractures may be more probable than planar fractures, from the NPV projections in Fig. 32, it appears that the 825-ft well spacing, 30-ft cluster spacing, and small treatments is the optimum development strategy.</anchoringText>
+<image-wrap id="102118189838MS-Img_SPi-32">
+<label>Figure 32 </label>
+<imageLink type="mediaResource" href="102118189838MS_i_32.tif" id="ImgLink-32" />
+<caption>Net Present Value for the 36 Optimization Cases</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>32</caption-order>
+<caption-text>Net Present Value for the 36 Optimization Cases</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

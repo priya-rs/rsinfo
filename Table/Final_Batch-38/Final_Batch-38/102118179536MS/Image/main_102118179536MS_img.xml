@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118179536MS.txt" extractionDate="2021-03-18T18:58:23Z">
+<doi>10.2118/179536-MS</doi>
+<pii>10.2118/179536-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">These WIF are not homogenous, planar-like fractures with infinite conductivity but instead in many reservoirs the WIF seem to be complex as shown in Figure 1 below. There are substantial pressure drops in some of these complex fracture systems.</anchoringText>
+<image-wrap id="102118179536MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118179536MS_i_1.tif" id="ImgLink-1" />
+<caption>Fracture system types</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Fracture system types</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">In Figure 2, an idealized view of fracture growth is shown. WIF, as seen by the dotted black ellipses, are compared to a conventional hydraulic fracture treatment, as seen with the yellow elipse. Note the t=2, t=3 may take days or months to reach that effective length due to high leakoff from WIF, while in conventional hydraulic fracture treatments, length is typically reached in the time frame of hours.</anchoringText>
+<image-wrap id="102118179536MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118179536MS_i_2.tif" id="ImgLink-2" />
+<caption>Time dependant fracture growth</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Time dependant fracture growth</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Figure 3 clearly shows the lack of sensitivity of injection rate versu injection pressure in the Wainwright field, which is a heavy oil, sandstone waterflood. Note that this injector even at later stages of waterflood, has minimal changes in reservoir pressure and near wellbore saturations and thus transient effects have dissipated and static reservoir pressure is constant. Also note that large increases in injection rate did not result in increases in injection pressure.</anchoringText>
+<image-wrap id="102118179536MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118179536MS_i_3.tif" id="ImgLink-3" />
+<caption>Injection pressure in red and water injection rate in green.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Injection pressure in red and water injection rate in green.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">Another observation of water injection rates and pressure in certain injectors is their cyclical nature. When we observe frequent injection rates and corresponding wellhead injection pressures we often see a rapid increase in injection pressure with constant injection rates followed by a rapid decline in pressure. Figure 4 shows this cyclic phenomena for a low permeability waterflood within a sandstone rock. Note for this plot the operator was trying to maintain constant rates and pressure. This cyclic phenomena does not appear when the data is taken less frequently say at monthly intervals.</anchoringText>
+<image-wrap id="102118179536MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118179536MS_i_4.tif" id="ImgLink-4" />
+<caption>Injection pressure and water injection rate on a tight low permeability water injector</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Injection pressure and water injection rate on a tight low permeability water injector</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">WIF can often exhibit a very subtle fracture pressure as we can see from Figure 3 and 5. Note that the bulk of the injection pressures are clustered at 4,000 kPa in Figure 3. Monthly injection pressures and injection rates do not seem to correlate. This is most likely due to the negative feedback loop exhibited during fracture extension as mentioned above. Other literature also demonstrates such phenomena29.</anchoringText>
+<image-wrap id="102118179536MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118179536MS_i_5.tif" id="ImgLink-5" />
+<caption>Inter well tracer test <sup>30 </sup>
+</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Inter well tracer test <link href="BIB1">
+<sup>30 </sup>
+</link>
+</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-14" type="bib">
+<bib id="BIB1">
+<label>Baker et al., 1988</label>
+<last-name>Baker</last-name>
+<author>
+<first-name>R.</first-name>
+<last-name>Baker</last-name>
+</author>, <last-name>Gregor</last-name>, <author>
+<first-name>V.</first-name>
+<last-name>Gregor</last-name>
+</author>; “<article-title>Fracture Characterization of the Wainwright Pool”, PETSOC 88-39-45, Cal </article-title>gary, June <pubDate>1988.</pubDate>
+</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">As observed by Wright26, in West Texas using tiltmeter data, the half lengths of the WIF can be 70%to 100% of the well spacing as seen in Figure 6. The next important aspect in understanding the growth of a WIF that needs to be analyzed is the direction of that growth.</anchoringText>
+<image-wrap id="102118179536MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118179536MS_i_6.tif" id="ImgLink-6" />
+<caption>WIF half length <sup>26</sup>
+</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>WIF half length <link href="BIB2">
+<sup>26</sup>
+</link>
+</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-15" type="bib">
+<bib id="BIB2">
+<label>Wright and Wright, 1999</label>
+<last-name>Wright</last-name>
+<author>
+<first-name>C. A.</first-name>
+<last-name>Wright</last-name>
+</author>, <article-title>“Understanding Hydraulic Fracture Growth: Tricky but not Hopefess” </article-title>, 1999 SPE <volume>56724</volume>, Houston, October <pubDate>1999</pubDate>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">This trend seems to fit the majority of Canadian waterfloods and gas floods data24,25. However, not all fractures, including induced fractures, appear to be exclusively in the NE-SW trend.1,26 Please refer to Figure 7 which shows the natural stress trends in Western Canada and the United States based mainly on borehole breakouts. In our experience, in both the USA and Canada we see these stress trends affecting waterfloods/EOR production. However, it is more common to see east-west communication in the USA as you would expect from Figure 7.</anchoringText>
+<image-wrap id="102118179536MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118179536MS_i_7.tif" id="ImgLink-7" />
+<caption>Stress Regime of Western North America</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Stress Regime of Western North America</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">A very interesting study was performed by Penn West in Alberta, Canada27. The example presented In Figure 8 is from a Cardium sandstone pilot with low matrix permeability. These wells were initially fractured by hydraulically induced fractures. The performance of two horizontal well pairs drilled in different orientation, as seen in the figure below, were tested and analyzed. The major stress trend is in the NE-SW direction and will be referred to as the on-trend.</anchoringText>
+<image-wrap id="102118179536MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118179536MS_i_8.tif" id="ImgLink-8" />
+<caption>Cardium Well pair 1 drilled off-trend and Well pair 2 drilled on-trend to the regional fracture orientation.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Cardium Well pair 1 drilled off-trend and Well pair 2 drilled on-trend to the regional fracture orientation.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118179536MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118179536MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Well pair 1</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118179536MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118179536MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Well pair 2</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">Figure 9 shows Well Pair 1 and figure 10 shows well pair 2 performance. Displayed in the top graph are oil rate in green, water injected rate in light blue and liquid production rate in black; the bottom graph shows watercut in dark blue and GOR in red. Well Pair 1 was drilled NW-SE and both wells were hydraulically fractured. Observing the data, the fracture network most likely grew along the major stress direction NE-SW (perpendicular to the wellbore). When observing the production data, after start of injection end of 2009, no response in oil production is seen. However, a sharp increase in watercut is seen at the beginning of injection, suggesting connectivity between injector and producer and potential WIF growth.</anchoringText>
+<image-wrap id="102118179536MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118179536MS_i_9.tif" id="ImgLink-9" />
+<caption>Well Pair 1 Performance</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Well Pair 1 Performance</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">Figure 9 shows Well Pair 1 and figure 10 shows well pair 2 performance. Displayed in the top graph are oil rate in green, water injected rate in light blue and liquid production rate in black; the bottom graph shows watercut in dark blue and GOR in red. Well Pair 1 was drilled NW-SE and both wells were hydraulically fractured. Observing the data, the fracture network most likely grew along the major stress direction NE-SW (perpendicular to the wellbore). When observing the production data, after start of injection end of 2009, no response in oil production is seen. However, a sharp increase in watercut is seen at the beginning of injection, suggesting connectivity between injector and producer and potential WIF growth.</anchoringText>
+<image-wrap id="102118179536MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118179536MS_i_10.tif" id="ImgLink-10" />
+<caption>Well Pair 2 performance</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Well Pair 2 performance</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">Tilt meter and micro seismic tests were also completed by Penn West. Figure 11 shows Well Pair 1 at the bottom left corner and Well Pair 2 at the top right corner along with the tilt meter and microseismic results. With well Pair 1 it can been seen that the tilt meter shows fractures growth perpendicular to the well bore, which supports the direction of the fracture network growth in the NE-SW direction, or the on trend direction. In this case, water communication is observed faster, as seen from the watercut profile in Figure 10, which increased from ~65% to ~85% within months of water injection.</anchoringText>
+<image-wrap id="102118179536MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118179536MS_i_11.tif" id="ImgLink-11" />
+<caption>Tilt meter and microseismic test performed <sup>27</sup>
+</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Tilt meter and microseismic test performed <link href="BIB3">
+<sup>27</sup>
+</link>
+</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-16" type="bib">
+<bib id="BIB3"><article-title>Government of Alberta Energy Department, “05-088 HMS Fracturing for Improved Waterflood Recovery </article-title><volume>2011</volume> <journal-title>Annual Report”, <pubDate>2011</pubDate> IETP Annual and Final Reports</journal-title>., http://www.energy.alberta.ca/3783.asp</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">Induced fractures, as mentioned earlier, are complex and can also grow in the off-trend direction. An example of a Cardium sandstone, tighter oil field in Alberta29, will be presented below. An image of the well configuration, which includes both vertical and horizontal wells, is shown in Figure 12.</anchoringText>
+<image-wrap id="102118179536MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118179536MS_i_12.tif" id="ImgLink-12" />
+<caption>Cardium field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Cardium field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">In this particular example, the waterflood induced fracture growth is observed in the off-trend direction. The focus of the example is the well pair in the North part of the field highlighted in the red ellipse. The associated production data is displayed in Figure 13.</anchoringText>
+<image-wrap id="102118179536MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118179536MS_i_13.tif" id="ImgLink-13" />
+<caption>North Well Pair Production response</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>North Well Pair Production response</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

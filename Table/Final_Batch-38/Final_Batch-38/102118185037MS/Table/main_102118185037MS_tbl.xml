@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185037MS.txt" extractionDate="2021-03-27T11:48:19Z">
+<doi>10.2118/185037-MS</doi>
+<pii>10.2118/185037-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="4" table-order="1" data-type-order="1">
+<table-wrap id="102118185037MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The reservoir had a downward degradation in terms of quality – thus the porosity values were higher in the upper part of the reservoir. In addition, the depositional sequence was in a SW-NE direction leading to a better rock quality in the SW region of the reservoir and poorer rock quality in the NE region of the reservoir. The permeability was dependent on porosity through a poro-perm transform obtained from an analog reservoir. Table 1 shows the average rock properties in the reservoir model. Figure 1 shows the permeability distribution along with one possible well location and fracture placement scenario.</anchoringText>
+<label>Table 1</label>
+<caption>Average Reservoir Properties</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Average Reservoir Properties</caption-text>
+</formatted-caption>
+<table id="102118185037MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Property</th>
+<th valign="top" align="center">Average Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Porosity</td>
+<td valign="top" align="center">0.06</td>
+</tr>
+<tr>
+<td valign="top" align="center">Permeability</td>
+<td valign="top" align="center">0.33 mD</td>
+</tr>
+<tr>
+<td valign="top" align="center">Dykstra Parsons Coefficient</td>
+<td valign="top" align="center">0.27</td>
+</tr>
+<tr>
+<td valign="top" align="center">Water Saturation</td>
+<td valign="top" align="center">0.34</td>
+</tr>
+<tr>
+<td valign="top" align="center">Original Oil in Place (OOIP)</td>
+<td valign="top" align="center">6.8 MMsm<sup>
+<sup>3</sup>
+</sup>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">Areal Extent</td>
+<td valign="top" align="center">4000 m × 1500 m</td>
+</tr>
+<tr>
+<td valign="top" align="center">Thickness</td>
+<td valign="top" align="center">35 m ~45 m</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="5" table-order="2" data-type-order="3">
+<table-wrap id="102118185037MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Slim-tube experiments were simulated to identify the Minimum Miscibility Pressure (MMP) of CO2 in the reservoir oil under constant reservoir temperature. Various reservoir fluid properties are listed in Table 2.</anchoringText>
+<label>Table 2</label>
+<caption>Fluid Data</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Fluid Data</caption-text>
+</formatted-caption>
+<table id="102118185037MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Property</th>
+<th valign="top" align="center">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Oil Density</td>
+<td valign="top" align="center">869.5 kg/m<sup>
+<sup>3</sup>
+</sup>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">Viscosity</td>
+<td valign="top" align="center">0.9431 cP</td>
+</tr>
+<tr>
+<td valign="top" align="center">GOR</td>
+<td valign="top" align="center">102.2 m<sup>
+<sup>3</sup>
+</sup>/m<sup>
+<sup>3</sup>
+</sup>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">Initial Pressure</td>
+<td valign="top" align="center">18195 kPa</td>
+</tr>
+<tr>
+<td valign="top" align="center">Bubble Point</td>
+<td valign="top" align="center">13973 kPa</td>
+</tr>
+<tr>
+<td valign="top" align="center">CO<sub>2</sub>
+miscibility Pressure</td>
+<td valign="top" align="center">~14000 kPa</td>
+</tr>
+<tr>
+<td valign="top" align="center">Reservoir Temperature</td>
+<td valign="top" align="center">60 C</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="6" table-order="3" data-type-order="5">
+<table-wrap id="102118185037MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">For ranking the various scenarios, a comprehensive economic analysis was performed. The income from the oil and gas production was considered, as was the expenditure associated with producing the incremental oil. The data for various incomes and expenses associated is presented in Table 3. The data was based on general industry knowledge as well as the referenced sources.</anchoringText>
+<label>Table 3</label>
+<caption>Costs and Prices Considered</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Costs and Prices Considered</caption-text>
+</formatted-caption>
+<table id="102118185037MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Parameter</th>
+<th valign="top" align="center">Cost</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Oil Price</td>
+<td valign="top" align="center">$40/bbl</td>
+</tr>
+<tr>
+<td valign="top" align="center">Gas Price</td>
+<td valign="top" align="center">$2.5/MSCF</td>
+</tr>
+<tr>
+<td valign="top" align="center">Water Cost</td>
+<td valign="top" align="center">$0.75/bbl <link href="BIB2">(EPAC, 2015)</link></td>
+</tr>
+<tr>
+<td valign="top" align="center">Nitrogen Cost</td>
+<td valign="top" align="center">$1/MSCF <link href="BIB3">(Mitariten, 2009)</link></td>
+</tr>
+<tr>
+<td valign="top" align="center">Carbon Dioxide Cost</td>
+<td valign="top" align="center">$2.25/MSCF <link href="BIB1">(Godec, 2014)</link>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">Oil lift Cost</td>
+<td valign="top" align="center">$10/bbl <link href="BIB2">(EPAC, 2015)</link></td>
+</tr>
+<tr>
+<td valign="top" align="center">Gas Processing Cost</td>
+<td valign="top" align="center">$0.25/MSCF <link href="BIB2">(EPAC, 2015)</link></td>
+</tr>
+<tr>
+<td valign="top" align="center">Water Handling Cost</td>
+<td valign="top" align="center">$0.5/bbl <link href="BIB2">(EPAC, 2015)</link></td>
+</tr>
+<tr>
+<td valign="top" align="center">Drilling Cost</td>
+<td valign="top" align="center">$2000000/well</td>
+</tr>
+<tr>
+<td valign="top" align="center">Completions and Tie in Cost</td>
+<td valign="top" align="center">$1500000/well</td>
+</tr>
+<tr>
+<td valign="top" align="center">Total Fracturing Cost</td>
+<td valign="top" align="center">See figure below.</td>
+</tr>
+<tr>
+<td valign="top" align="center">Discount rate</td>
+<td valign="top" align="center">10%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-19" type="bib">
+<bib id="BIB1">
+<label>Godec, 2014</label>
+<author>
+<first-name>M.</first-name>
+<last-name>Godec</last-name>
+</author>
+<pubDate>2014</pubDate>. <article-title>Carbon Dioxide Enhanced Oil Recovery. American Oil &amp; Gas Reporter </article-title>
+<i />. <journal-title>February </journal-title>
+<pages>
+<first-page>2014</first-page>
+</pages>.</bib>
+</linkTarget>
+<linkTarget id="link-17" type="bib">
+<bib id="BIB2">
+<author>
+<first-name>EPAC.</first-name>
+<last-name>2015</last-name>
+</author>. <pubDate>2015</pubDate> <article-title>Alberta Royalty Review Enhanced Oil Recovery Discussion Paper, Explorers and Producers Association of Canada </article-title>, <journal-title>Alberta (November </journal-title> <volume>16</volume>, <pages><first-page>2015</first-page></pages>).</bib>
+</linkTarget>
+<linkTarget id="link-18" type="bib">
+<bib id="BIB3">
+<author>
+<first-name>M.</first-name>
+<last-name>Mitariten</last-name>
+</author> <article-title>2009 (updated). Economic N2 Removal </article-title>. <i>Hydrocarbon Engineering Magazine</i>. <pubDate>July 2004</pubDate>.</bib>
+</linkTarget>
+</appendix>
+</docTable>
+<docTable pdf-page="13" table-order="4" data-type-order="16">
+<table-wrap id="102118185037MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4"> </anchoringText>
+<label>Table 4</label>
+<caption>Best cases based on oil recovery factor</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Best cases based on oil recovery factor</caption-text>
+</formatted-caption>
+<table id="102118185037MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Process</th>
+<th valign="top" align="center">Well Spacing</th>
+<th valign="top" align="center">Fracture Spacing</th>
+<th valign="top" align="center">Fracture Half-length</th>
+<th valign="top" align="center">Best Cum. Oil (MMm<sup>
+<sup>3</sup>
+</sup>)</th>
+<th valign="top" align="center">Oil Recovery Factor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Natural Depletion</td>
+<td valign="top" align="center">300</td>
+<td valign="top" align="center">25</td>
+<td valign="top" align="center">150</td>
+<td valign="top" align="center">0.77</td>
+<td valign="top" align="center">11%</td>
+</tr>
+<tr>
+<td valign="top" align="center">Water Flooding</td>
+<td valign="top" align="center">300</td>
+<td valign="top" align="center">25</td>
+<td valign="top" align="center">150</td>
+<td valign="top" align="center">1.07</td>
+<td valign="top" align="center">16%</td>
+</tr>
+<tr>
+<td valign="top" align="center">Nitrogen Injection</td>
+<td valign="top" align="center">300</td>
+<td valign="top" align="center">25</td>
+<td valign="top" align="center">100</td>
+<td valign="top" align="center">1.14</td>
+<td valign="top" align="center">17%</td>
+</tr>
+<tr>
+<td valign="top" align="center">CO<sub>2</sub>
+EOR</td>
+<td valign="top" align="center">300</td>
+<td valign="top" align="center">25</td>
+<td valign="top" align="center">80</td>
+<td valign="top" align="center">1.53</td>
+<td valign="top" align="center">23%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="13" table-order="5" data-type-order="17">
+<table-wrap id="102118185037MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5"> </anchoringText>
+<label>Table 5</label>
+<caption>Best cases based on NPV</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Best cases based on NPV</caption-text>
+</formatted-caption>
+<table id="102118185037MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Process</th>
+<th valign="top" align="center">Well Spacing</th>
+<th valign="top" align="center">Fracture Spacing</th>
+<th valign="top" align="center">Fracture Half-length</th>
+<th valign="top" align="center">Best NPV ($MM)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Natural Depletion</td>
+<td valign="top" align="center">400</td>
+<td valign="top" align="center">125</td>
+<td valign="top" align="center">150</td>
+<td valign="top" align="center">60.33</td>
+</tr>
+<tr>
+<td valign="top" align="center">Water Flooding</td>
+<td valign="top" align="center">400</td>
+<td valign="top" align="center">125</td>
+<td valign="top" align="center">150</td>
+<td valign="top" align="center">52.61</td>
+</tr>
+<tr>
+<td valign="top" align="center">Nitrogen Injection</td>
+<td valign="top" align="center">300</td>
+<td valign="top" align="center">125</td>
+<td valign="top" align="center">120</td>
+<td valign="top" align="center">63.64</td>
+</tr>
+<tr>
+<td valign="top" align="center">CO<sub>2</sub>
+EOR</td>
+<td valign="top" align="center">300</td>
+<td valign="top" align="center">125</td>
+<td valign="top" align="center">120</td>
+<td valign="top" align="center">58.36</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118180084MS.txt" extractionDate="2021-03-19T16:58:45Z">
+<doi>10.2118/180084-MS</doi>
+<pii>10.2118/180084-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="5" figure-order="1" data-type-order="2">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr7">Vertical permeability fields for these two geological cases are shown in Figure 1. Within the optimization under uncertainty workflow, Kv/Kh was selected as the uncertain parameter. There are two simulation realizations within each loop in the optimization run. A total of forty realizations were run beyond sensitivity analysis and a combined objective function approach introduced by Couet et al., (2004) was used to present results.</anchoringText>
+<image-wrap id="102118180084MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118180084MS_i_1.tif" id="ImgLink-1" />
+<caption>Two possible vertical permeability scenarios for stochastic reservoir modeling with uncertainty</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Two possible vertical permeability scenarios for stochastic reservoir modeling with uncertainty</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr8">These confidence levels assume outcomes to be normally distributed. A total of forty realizations were run for each risk factor beyond sensitivity analysis. A flow chart summarizing the optimization under uncertainty procedure is shown in Figure 2.</anchoringText>
+<image-wrap id="102118180084MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118180084MS_i_2.tif" id="ImgLink-2" />
+<caption>Flow chart for performing optimization under uncertainty</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Flow chart for performing optimization under uncertainty</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr9">The results from the analysis indicate that sealing formations including the overlying Morrow shale and Thirteen Finger Limestone units are excellent seals capable of providing storage of supercritical CO2 up to a column height of 10,000 ft. The structural model currently used for this work is shown in Figure 3. The well shown in the figure illustrates a typical vertical trajectory of the majority of wells within FWU. Porosity distribution in the reservoir has a range of 9.2% to 24% with a mean of 14.6%. Permeability ranges from 0.01 mD to 181 mD with an average value of 58 mD.</anchoringText>
+<image-wrap id="102118180084MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118180084MS_i_3.tif" id="ImgLink-3" />
+<caption>Structural model for FWU. It contains Thirteen Finger limestone, Morrow shale and Morrow B sand. The sand formation is divided into 3 layers</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Structural model for FWU. It contains Thirteen Finger limestone, Morrow shale and Morrow B sand. The sand formation is divided into 3 layers</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr10">Chaparral Energy acquired FWU in 2009 and began the CO2 flood in December 2010. The preliminary history match for FWU was from 1956 to 2014. During the four-year CO2 history calibration, there were 12 water-alternating gas (WAG) wells and 28 producer wells. These were arranged in an inverted 5-spot pattern. The history match model showed areas where sweep efficiency was not good so 7 water injectors were distributed across less swept areas to to enhance production during commencement of CO2 flood. Figure 4 shows water saturation distribution at the end of history matching. The interior part of the field was swept during waterflood. The deep spots in the figure show locations of WAG wells.</anchoringText>
+<image-wrap id="102118180084MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118180084MS_i_4.tif" id="ImgLink-4" />
+<caption>Water saturation distribution at the end of history matching @ December 2014</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Water saturation distribution at the end of history matching @ December 2014</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr11">A total of 25 WAG wells and 35 producers were introduced into the model by the end of 2018. The WAG wells were divided into four groups with similar operational constraints. The CO2 purchased profile used for this work is shown in Figure 5. The strategy involves continuous injection of 10,000 Mscf/d of purchase CO2 in addition to recycled gas until end of 2021. At year 2022, purchased CO2 was cut to 8,000 Mscf/d representing a 20% reduction.</anchoringText>
+<image-wrap id="102118180084MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118180084MS_i_5.tif" id="ImgLink-5" />
+<caption>UCO<sub>2</sub> plot represents CO<sub>2</sub> purchase profile in Mscf from 2015 to 2036. UCO<sub>2</sub>I is the amount of gas available for injection in Mscf. The red curve represents the actual gas injection rate for baseline case. It is clear that a lot of CO<sub>2</sub> are actually not utilized and therefore classified as lost.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>UCO<sub>2</sub> plot represents CO<sub>2</sub> purchase profile in Mscf from 2015 to 2036. UCO<sub>2</sub>I is the amount of gas available for injection in Mscf. The red curve represents the actual gas injection rate for baseline case. It is clear that a lot of CO<sub>2</sub> are actually not utilized and therefore classified as lost.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr12">In order to reduce the number of control variables in the optimization process, sensitivity analysis was conducted to understand effect of each parameter on the objective function. The uncertain variables include: gas-oil ratio constraints (GOR), group production target rate, bottomhole producer and injector wells’ pressures, and WAG cycles. Details of these parameters and sampling ranges are shown in Table 1. A random sampling with the Latin hypercube technique was utilized. A total of 69 simulations were run. Figure 6 (a-c) shows the sensitivity results of uncertain parameters on cumulative oil production; cumulative CO2 injection and objective function.</anchoringText>
+<image-wrap id="102118180084MS-Img_SPi-6">
+<label>Figure 6a </label>
+<imageLink type="mediaResource" href="102118180084MS_i_6.tif" id="ImgLink-6" />
+<caption>represents sensitivity analysis ranking results as a function of cumulative oil production</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6a</caption-order>
+<caption-text>represents sensitivity analysis ranking results as a function of cumulative oil production</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr13">In order to reduce the number of control variables in the optimization process, sensitivity analysis was conducted to understand effect of each parameter on the objective function. The uncertain variables include: gas-oil ratio constraints (GOR), group production target rate, bottomhole producer and injector wells’ pressures, and WAG cycles. Details of these parameters and sampling ranges are shown in Table 1. A random sampling with the Latin hypercube technique was utilized. A total of 69 simulations were run. Figure 6 (a-c) shows the sensitivity results of uncertain parameters on cumulative oil production; cumulative CO2 injection and objective function.</anchoringText>
+<image-wrap id="102118180084MS-Img_SPi-7">
+<label>Figure 6b </label>
+<imageLink type="mediaResource" href="102118180084MS_i_7.tif" id="ImgLink-7" />
+<caption>represents ranking of uncertain parameters as a function of cumulative gas injection.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6b</caption-order>
+<caption-text>represents ranking of uncertain parameters as a function of cumulative gas injection.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr14">In order to reduce the number of control variables in the optimization process, sensitivity analysis was conducted to understand effect of each parameter on the objective function. The uncertain variables include: gas-oil ratio constraints (GOR), group production target rate, bottomhole producer and injector wells’ pressures, and WAG cycles. Details of these parameters and sampling ranges are shown in Table 1. A random sampling with the Latin hypercube technique was utilized. A total of 69 simulations were run. Figure 6 (a-c) shows the sensitivity results of uncertain parameters on cumulative oil production; cumulative CO2 injection and objective function.</anchoringText>
+<image-wrap id="102118180084MS-Img_SPi-8">
+<label>Figure 6c </label>
+<imageLink type="mediaResource" href="102118180084MS_i_8.tif" id="ImgLink-8" />
+<caption>represents ranking of uncertain parameters as a function of defined objective function</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6c</caption-order>
+<caption-text>represents ranking of uncertain parameters as a function of defined objective function</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="9" data-type-order="13">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr15">The objective function computed for each case within a loop was combined into a single representative outcome based on the risk aversion factor. Figure 7 shows a histogram presentation of cumulative oil production and cumulative CO2 injections as well as the objective function for each geological realization as a function of the risk aversion factor within a loop for the best optimum cases.</anchoringText>
+<image-wrap id="102118180084MS-Img_SPi-9">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118180084MS_i_9.tif" id="ImgLink-9" />
+<caption>A histogram presentation of cumulative oil production and cumulative CO2 injections as well as objective function for each geological realization as a function of risk aversion factor within a loop for the best optimum cases</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>A histogram presentation of cumulative oil production and cumulative CO2 injections as well as objective function for each geological realization as a function of risk aversion factor within a loop for the best optimum cases</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

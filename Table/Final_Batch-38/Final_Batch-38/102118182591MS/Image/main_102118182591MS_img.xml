@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118182591MS.txt" extractionDate="2021-03-23T16:46:22Z">
+<doi>10.2118/182591-MS</doi>
+<pii>10.2118/182591-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="4" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr15">Both CLFD and CLRM have optimization and history matching steps but CLFD includes the evaluation of G1 and G2 in contrast to CLRM that only considers G2 (Shirangi and Durlofsky, 2015; Morosov and Schiozer, 2016). Figure 1 represents a CLFD, and the elements related to model updates and strategy optimizations constitute a decision analysis.</anchoringText>
+<image-wrap id="102118182591MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118182591MS_i_1.tif" id="ImgLink-1" />
+<caption>Closed-loop reservoir development adapted from (Jansen et al., 2009 ; Barros et al., 2016)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Closed-loop reservoir development adapted from (<link href="BIB1">Jansen et al., 2009</link> ; <link href="BIB2">Barros et al., 2016</link> )</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-13" type="bib">
+<bib id="BIB1">
+<label>Jansen et al., 2009</label>
+<last-name>Jansen</last-name>, <author>
+<first-name>J.-D.</first-name>
+<last-name>Jansen</last-name>
+</author>, <last-name>Brouwer</last-name>, <author>
+<first-name>R.</first-name>
+<last-name>Brouwer</last-name>
+</author> and <last-name>Douma</last-name>, <author>
+<first-name>S. G.</first-name>
+<last-name>Douma</last-name>
+</author>
+<pubDate>2009</pubDate>. <article-title>Closed loop reservoir management. <i>SPE Reservoir Simulation Symposium</i>. Society of Petroleum Engineers </article-title>. SPE-119098-MS.</bib>
+</linkTarget>
+<linkTarget id="link-14" type="bib">
+<bib id="BIB2">
+<label>Barros et al., 2016</label>
+<last-name>Barros</last-name>, <author>
+<first-name>E.</first-name>
+<last-name>Barros</last-name>
+</author>, <last-name>Hof</last-name>, <author>
+<first-name>P.</first-name>
+<last-name>Hof</last-name>
+</author> and <last-name>Jansen</last-name>, <author>
+<first-name>J.</first-name>
+<last-name>Jansen</last-name>
+</author>
+<pubDate>2016</pubDate>. <article-title>Value of information in closed-loop reservoir management </article-title>.
+<journal-title>Computational Geosciences </journal-title>
+, <volume>20</volume>
+<issue>(3)</issue>, pp. <pages>
+<first-page>737</first-page>
+<last-page>749</last-page>
+</pages>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr16">Figure 2 shows the flowchart illustrating the connections between all modules used in the proposed methodology. Modules 1 to 4 use only the initial strategy as a reference to evaluate field potential for intelligent wells and prepare the data required to start the intelligent well optimization. Modules 5 to 8 belong to a loop cycle that optimizes each pre-determined time section individually, forward in time, creating new strategies to replace the last reference if the new EMV is higher.</anchoringText>
+<image-wrap id="102118182591MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118182591MS_i_2.tif" id="ImgLink-2" />
+<caption>Flowchart of the main modules of the methodology</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Flowchart of the main modules of the methodology</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr17">Figure 3 presents a complementary diagram to aid the explanation of Module 5, which generates the possible strategies for a given time. It evaluates WMRS potentiality and creates combinations between those that show potential for each model individually. Table 2 exhibits the logic equations required to appraise field, wells and WMRS potential to install ICV. Note that when a WMRS has potential, the respective well and the field must have potential at the considered time.</anchoringText>
+<image-wrap id="102118182591MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118182591MS_i_3.tif" id="ImgLink-3" />
+<caption>Detailed flowchart of Module 5</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Detailed flowchart of Module 5</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="4" data-type-order="6">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr18"> </anchoringText>
+<image-wrap id="102118182591MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118182591MS_i_4.tif" id="ImgLink-4" />
+<caption>Porosity map (2018-06-30) with the well locations</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Porosity map (2018-06-30) with the well locations</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="5" data-type-order="13">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr19">Figure 5 presents the time that PROD007 and ICV close in the conventional strategy and in intelligent strategies with proactive and reactive controls. Note that, when PROD007 closes before the last time of production forecast, the inclusion of WCR1 helps to increase the well production life.</anchoringText>
+<image-wrap id="102118182591MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118182591MS_i_5.tif" id="ImgLink-5" />
+<caption>PROD007 Well and ICV closing times with CW/IW strategies and P1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>PROD007 Well and ICV closing times with CW/IW strategies and P1</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="6" data-type-order="16">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr20">Figure 6 presents four bar graph comparisons of PWEI, ΔPWEI, ΔNp and ΔWp for the producer wells forecast for RM5. This illustrates the effect of the strategy on a specific RM. Botechia et al. (2013) use the Production Well Economic Indicator (PWEI) proposed by Gaspar et al. (2011) to evaluate the economic potential of the wells. Note in Figure 6 that the ICV installed in PROD007 also affects the production and economic performance of other wells, such as PROD023A and PROD024A.</anchoringText>
+<image-wrap id="102118182591MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118182591MS_i_6.tif" id="ImgLink-6" />
+<caption>PWEI, ΔPWEI, ΔNp e ΔWp for producer wells of RM5 with CW/IW strategies and P1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>PWEI, ΔPWEI, ΔNp e ΔWp for producer wells of RM5 with CW/IW strategies and P1</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="15" figure-order="7" data-type-order="17">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr21">Figure 7 and Figure 8 present oil and water rates during the production period for PROD007 and PROD023A, respectively, helping to explain the interaction between these neighboring wells. Figure 7 shows that the ICV closure significantly reduces the water rate without a negative impact on the oil rate for PROD007. Figure 8 shows the water rate rises while the oil rate declines for PROD023A. Note in Figure 7 that the ICV closes sooner on reactive control than on proactive.</anchoringText>
+<image-wrap id="102118182591MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118182591MS_i_7.tif" id="ImgLink-7" />
+<caption>Oil and water rates of PROD007 in RM5 with CW/IW strategies and P1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Oil and water rates of PROD007 in RM5 with CW/IW strategies and P1</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182591MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118182591MS_i_7a.tif" id="ImgLink-7a" />
+</image-wrap>
+<image-wrap id="102118182591MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118182591MS_i_7b.tif" id="ImgLink-7b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="16" figure-order="8" data-type-order="18">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr22">Figure 7 and Figure 8 present oil and water rates during the production period for PROD007 and PROD023A, respectively, helping to explain the interaction between these neighboring wells. Figure 7 shows that the ICV closure significantly reduces the water rate without a negative impact on the oil rate for PROD007. Figure 8 shows the water rate rises while the oil rate declines for PROD023A. Note in Figure 7 that the ICV closes sooner on reactive control than on proactive.</anchoringText>
+<image-wrap id="102118182591MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118182591MS_i_8.tif" id="ImgLink-8" />
+<caption>Oil and water rates of PROD023A in RM5 with CW/IW strategies and P1</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Oil and water rates of PROD023A in RM5 with CW/IW strategies and P1</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182591MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118182591MS_i_8a.tif" id="ImgLink-8a" />
+</image-wrap>
+<image-wrap id="102118182591MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118182591MS_i_8b.tif" id="ImgLink-8b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="17" figure-order="9" data-type-order="20">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr23">The top wells produce the maximum allowed, a swing well respects a production value between the maximum and the minimum and other lower ranked wells are allocated the lowest rates allowed. Figure 9 shows the effect of a smaller platform on RM2. The simulator operates to maintain production at about 91% of the set maximum. In RM2, it restricts water but barely affecting oil production, increasing the NPV by USD 8 million, that is USD 2 million more than the platform saving.</anchoringText>
+<image-wrap id="102118182591MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118182591MS_i_9.tif" id="ImgLink-9" />
+<caption>Platform P1 and P2 oil and water rates in RM2 with CW strategies</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Platform P1 and P2 oil and water rates in RM2 with CW strategies </caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182591MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118182591MS_i_9a.tif" id="ImgLink-9a" />
+</image-wrap>
+<image-wrap id="102118182591MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118182591MS_i_9b.tif" id="ImgLink-9b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="10" data-type-order="22">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr24">We use E9-P2-CW as the reference for the second intelligent well analysis because it had the best EMV of all developed strategies. Table 12 shows an increase in EMV by 2.4 million with proactive control and 2.5 million with reactive control. The ICV closes in the fourteenth year of production in E9-P2-IWP and the optimized WCUT limit is 85% for E9-P2-IWR. Note in Figure 10 that, as in the first analysis, the inclusion of WCR1 also increases well production life.</anchoringText>
+<image-wrap id="102118182591MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118182591MS_i_10.tif" id="ImgLink-10" />
+<caption>PROD007 Well and ICV closing times with CW/IW strategies and P2</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>PROD007 Well and ICV closing times with CW/IW strategies and P2</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="" figure-order="11" data-type-order="24">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr25">Table 13 lists the production data for all RM. In RM1, higher recovery rates mean increased NPV but water production also increased. Figure 11 shows that the ICV closure helps to reduce water rate of PROD007, but they continue to rise, and near the twentieth year, they get closer to the same value of the conventional strategy. However, different to the behavior of E9-P2-CW, in E9-P2-ICP and E9-P2-IWR it postpones the closure of PROD007.</anchoringText>
+<image-wrap id="102118182591MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118182591MS_i_11.tif" id="ImgLink-11" />
+<caption>Oil and water rates of PROD007 in RM1 with CW/IW strategies and P2
+</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Oil and water rates of PROD007 in RM1 with CW/IW strategies and P2
+</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182591MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118182591MS_i_11a.tif" id="ImgLink-11a" />
+</image-wrap>
+<image-wrap id="102118182591MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118182591MS_i_11b.tif" id="ImgLink-11b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="19" figure-order="12" data-type-order="25">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr26">Figure 12 shows that platform P2 does not restrict E9-P2-CW water production, but it does in E9-P2-ICP and E9-P2-ICR. In the last ten years, for the restricted cases, some wells have closed due to high WCUT, so the simulator management readjusts the flow of the remaining producers. This occurs in PROD007 as seen in Figure 11.</anchoringText>
+<image-wrap id="102118182591MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118182591MS_i_12.tif" id="ImgLink-12" />
+<caption>Platform P2 oil and water rates in RM1 with CW/IW strategies and P2</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Platform P2 oil and water rates in RM1 with CW/IW strategies and P2</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182591MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118182591MS_i_12a.tif" id="ImgLink-12a" />
+</image-wrap>
+<image-wrap id="102118182591MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118182591MS_i_12b.tif" id="ImgLink-12b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

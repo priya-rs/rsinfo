@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118178053MS.txt" extractionDate="2021-03-20T10:16:27Z">
+<doi>10.2118/178053-MS</doi>
+<pii>10.2118/178053-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="2">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr5">Geology and testing data show that there exist some micro-fractures in WY. The orientation of fractures varies between NE51° and NE67°, as shown in Fig. 1, mainly determined by the paleomagnetic method, microseismic acoustic emission method, and field outcrop observation.</anchoringText>
+<image-wrap id="102118178053MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118178053MS_i_1.tif" id="ImgLink-1" />
+<caption>The orientation of fractures in WY</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>The orientation of fractures in WY</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="3" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr6">Nine inspection wells were further drilled and completed in well group W16 (W16 representing this well group) since 2009, and many methods were employed to investigate the waterflood direction and front distribution, including the sealed coring, remaining oil testing, pressure drawdown and buildup testing, injection profile testing, etc. The abundant static and dynamic data lay a solid foundation for further research. At present, WY contains thirty-three production wells (red) and ten injection wells (blue), seen in Fig. 2a. Perfor-mance history of WY, including average daily production and injection of each well, average water cut and oil recovery, are shown in Fig. 2b respectively.</anchoringText>
+<image-wrap id="102118178053MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118178053MS_i_2.tif" id="ImgLink-2" />
+<caption>Introduction of WY: (a) well location map, (b) performance history curves</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Introduction of WY: (a) well location map, (b) performance history curves</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118178053MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118178053MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>well location map</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178053MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118178053MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>performance history curves</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr7">The aim of this paper is to develop a workflow, both analytical and numerical methods involved, as shown in Fig. 3. The application of this workflow can further investigate the waterflood direction and front distribution under high water-cut condition based on the reservoir geology and dynamic test data (oil and water production, water injection, BHP, injection profile, core analysis, etc.). The proposed work flow contains two major stages and four steps.</anchoringText>
+<image-wrap id="102118178053MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118178053MS_i_3.tif" id="ImgLink-3" />
+<caption>Sketch of the workflow proposed in this paper</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Sketch of the workflow proposed in this paper</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr8">Because fluctuations in flow rates can reflect the IPRs, and flow rates are significant and abundant data available in a waterflood field, they are generally used to determine the effect of each injector on adjacent producers. Firstly, we discussed the connectivity of Well #W16-15 with nine adjacent producers, and considered the effect of injector #W15-16 on #WJ16- 152, #WJ16-153 and #WJ16-154. Based on the flow rates data, the injection (water) and production (oil and water) history curves are shown in Fig. 4.</anchoringText>
+<image-wrap id="102118178053MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118178053MS_i_4.tif" id="ImgLink-4" />
+<caption>Production and injection history of W16</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Production and injection history of W16</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="6" pdf-page="6" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr9">The fluctuation of production rates of #W16-15 is best consistent with that of #WJ16-151, followed by #WJ16-152, #WJ16-153. It’s the injector #W15-16, instead of #W16-15, contributed more to #WJ16-154 according to the variation tendency of #WJ16-154, whose water cut is 100% all the time in Fig. 5a. Additionally, considering that the individual cumulative producing time of these five wells (i.e., #WJ16- 155, #WJ16-156, #WJ16-157, #WJ16-158, #WJ16-159) is less than one year, other crucial parameters, such as the production rates and water cut, are used to estimate the connectivity, shown from Figs. 5b to 5f. It’s worth noting that the #WJ16-155 and #WJ16-157 were shut in April, 2014 because the water cut reached nearly 100%, seen in Figs. 5b and 5d.</anchoringText>
+<image-wrap id="102118178053MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118178053MS_i_5.tif" id="ImgLink-5" />
+<caption>Production (oil and water) and water cut. (a) #WJ16-154; (b) #WJ16-155; (c) #WJ16-156; (d) #WJ16-157; (e) #WJ16-158; (f) #WJ16-159</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Production (oil and water) and water cut. (a) #WJ16-154; (b) #WJ16-155; (c) #WJ16-156; (d) #WJ16-157; (e) #WJ16-158; (f) #WJ16-159</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118178053MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118178053MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>#WJ16-154</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178053MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118178053MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>#WJ16-155</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178053MS-Img_SPi-5c">
+<imageLink type="mediaResource" href="102118178053MS_i_5c.tif" id="ImgLink-5c" />
+<figure-specific-caption>
+<caption-order>(c)</caption-order>
+<caption-text>#WJ16-156</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178053MS-Img_SPi-5d">
+<imageLink type="mediaResource" href="102118178053MS_i_5d.tif" id="ImgLink-5d" />
+<figure-specific-caption>
+<caption-order>(d)</caption-order>
+<caption-text>#WJ16-157</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178053MS-Img_SPi-5e">
+<imageLink type="mediaResource" href="102118178053MS_i_5e.tif" id="ImgLink-5e" />
+<figure-specific-caption>
+<caption-order>(e)</caption-order>
+<caption-text>#WJ16-158</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178053MS-Img_SPi-5f">
+<imageLink type="mediaResource" href="102118178053MS_i_5f.tif" id="ImgLink-5f" />
+<figure-specific-caption>
+<caption-order>(f)</caption-order>
+<caption-text>#WJ16-159</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr10">Then, the connectivity of #W15-16 with its adjacent producers is analyzed too. The producer #W15-16 was converted to injection well since 2005. The production and injection history curves of well group W15 is shown in Fig. 6. Because the producer #W14-17 has been shut in 2004, the remaining five wells are selected to discuss the relationships with #W15-16. Through Fig. 6, the fluctuations of #W15-16 is best consistent with that of #WJ16-154, #W16-14, #W15-17, followed by #WJ16-152, and the worst is #WJ16-153.</anchoringText>
+<image-wrap id="102118178053MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118178053MS_i_6.tif" id="ImgLink-6" />
+<caption>Production and injection history of well group W15</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Production and injection history of well group W15</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr11">Therefore, the waterflood direction of #W16-15 is towards wells #WJ16-151, #WJ16-155, #WJ16-156, whereas the waterflood direction of #W15-16 is towards wells #WJ16-154, #W16-14 and #W15-17, as shown in Fig. 7. We use blue arrows to represent the preferential flow direction of injectors #W16-15 and #W15-16. The results obtained by dynamic analysis can provide useful information regarding reservoir heterogeneity. For example, relatively high connectivity between a well pair could be a sign of high-permeability channels and a barrier could be reflected in low connectivity between two adjacent wells.</anchoringText>
+<image-wrap id="102118178053MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118178053MS_i_7.tif" id="ImgLink-7" />
+<caption>Representation of the waterflood direction mainly for the injectors (#W16-15 and #W15-16) and adjacent producers</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Representation of the waterflood direction mainly for the injectors (#W16-15 and #W15-16) and adjacent producers</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="8" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr12">Based on the injection and production rates (total liquid production rates) data of WY, interwell connectivity coefficients in 2012, 2013 and 2014 are calculated respectively. Then, interwell connectivity is shown graphically in Fig. 8. What calls for special attention is that green arrows mean that the interwell connectivity is ordinary, whereas blue arrows indicate that interwell connectivity is better.</anchoringText>
+<image-wrap id="102118178053MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118178053MS_i_8.tif" id="ImgLink-8" />
+<caption>Interwell connectivity of WY in (a) 2012, (b) 2013 and (c) 2014</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Interwell connectivity of WY in (a) 2012, (b) 2013 and (c) 2014</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118178053MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118178053MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>2012</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178053MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118178053MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>2013</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178053MS-Img_SPi-8c">
+<imageLink type="mediaResource" href="102118178053MS_i_8c.tif" id="ImgLink-8c" />
+<figure-specific-caption>
+<caption-order>(c)</caption-order>
+<caption-text>2014</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr13">Based on the flow rates and BHP data as well as the properties in Table 2, the pressure and pressure derivative curves of #W16-15 in 2012 and 2013, considering the effects of other surrounding wells, are obtained as shown in Fig. 9, which demonstrates uneven waterflood characteristic of #W16-15 both in 2012 and 2013. The data calculated by numerical well testing matches well with field BHP data, and pressure derivative data, which verifies the feasibility of this method. The pressure distributions in Case 1 and 2 are determined, shown in Fig.10.</anchoringText>
+<image-wrap id="102118178053MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118178053MS_i_9.tif" id="ImgLink-9" />
+<caption>The pressure and pressure derivative curves of #W16-15 in (a) 2012 and (b) 2013)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>The pressure and pressure derivative curves of #W16-15 in (a) 2012 and (b) 2013)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118178053MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118178053MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Case 1  2012</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178053MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118178053MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>Case 2  2013</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr14">Based on the flow rates and BHP data as well as the properties in Table 2, the pressure and pressure derivative curves of #W16-15 in 2012 and 2013, considering the effects of other surrounding wells, are obtained as shown in Fig. 9, which demonstrates uneven waterflood characteristic of #W16-15 both in 2012 and 2013. The data calculated by numerical well testing matches well with field BHP data, and pressure derivative data, which verifies the feasibility of this method. The pressure distributions in Case 1 and 2 are determined, shown in Fig.10.</anchoringText>
+<image-wrap id="102118178053MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118178053MS_i_10.tif" id="ImgLink-10" />
+<caption>Pressure distribution in (a) 2012 and (b) 2013</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Pressure distribution in (a) 2012 and (b) 2013</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118178053MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118178053MS_i_10a.tif" id="ImgLink-10a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Case 1  2012</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178053MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118178053MS_i_10b.tif" id="ImgLink-10b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>Case 2  2013</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="6" pdf-page="12" figure-order="11" data-type-order="14">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr15">Until a successful history match is achieved, streamline simulation can be applied to improve the waterflood management since streamlines change dramatically when flow rates or reservoir properties are adjusted. The interpretation results of pressure transient analysis indicate that fracture closure occurs in some fractures, which still have played an important role in improving formation permeability. Therefore, the permeability around the fractured well should be improved using local grid refinement techniques in streamline simulation model during the process of history matching. After that, saturation distribution of the actual streamline model in different periods are determined and shown in Fig. 11.</anchoringText>
+<image-wrap id="102118178053MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118178053MS_i_11.tif" id="ImgLink-11" />
+<caption>Saturation distribution of WY in different periods</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Saturation distribution of WY in different periods</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118178053MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118178053MS_i_11a.tif" id="ImgLink-11a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Jan,1991</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178053MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118178053MS_i_11b.tif" id="ImgLink-11b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>Sep,1995</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178053MS-Img_SPi-11c">
+<imageLink type="mediaResource" href="102118178053MS_i_11c.tif" id="ImgLink-11c" />
+<figure-specific-caption>
+<caption-order>(c)</caption-order>
+<caption-text>Jun,1999</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178053MS-Img_SPi-11d">
+<imageLink type="mediaResource" href="102118178053MS_i_11d.tif" id="ImgLink-11d" />
+<figure-specific-caption>
+<caption-order>(d)</caption-order>
+<caption-text>Sep,2005</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178053MS-Img_SPi-11e">
+<imageLink type="mediaResource" href="102118178053MS_i_11e.tif" id="ImgLink-11e" />
+<figure-specific-caption>
+<caption-order>(e)</caption-order>
+<caption-text>Nov,2005</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178053MS-Img_SPi-11f">
+<imageLink type="mediaResource" href="102118178053MS_i_11f.tif" id="ImgLink-11f" />
+<figure-specific-caption>
+<caption-order>(f)</caption-order>
+<caption-text>May,2014</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="12" data-type-order="15">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr16">The waterflood direction of #W15-16 is from northeast to southwest, mainly towards #W15-17 and #W16-14. Then, the remaining six inspection wells also began to work at the end of 2012 and 2013. At late stage of waterflood development, the oil saturation is decreased obviously compared with the initial oil saturation shown in Figs. 11f and 11a. Obviously, these wells (#W16-15, #W18-15 and #W15-16) appear linear waterflooding features. In addition, the pressure and pressure derivative curves in the double logarithmic coordinate of #W18-15 in 2011 and #W15-16 in 2013 also show that the waterflood direction is linear, consistent with the streamline simulation results in Fig. 12. Reservoir heterogeneity causes the sweep efficiency very low as well as a mass of remaining oil, which mainly distributed around #WC17-16 and #XW14-20.</anchoringText>
+<image-wrap id="102118178053MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118178053MS_i_12.tif" id="ImgLink-12" />
+<caption>Pressure and pressure derivative curves, (a) #W18-15 in 2011; (b) #W15-16 in 2013</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Pressure and pressure derivative curves, (a) #W18-15 in 2011; (b) #W15-16 in 2013</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118178053MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118178053MS_i_12a.tif" id="ImgLink-12a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>#W18-15 in 2011</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178053MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118178053MS_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>#W15-16 in 2013</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="13" data-type-order="16">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr17">Some preliminary results about waterflood direction and front can be concluded from the streamline simulation and analysis above. The waterflood direction of many injectors gives priority to northeast in different angles, including #W15-16, #W16-15, #W18-15, #W17-13, #W15-193, #W16-17 and #W16- 171. The early waterflood direction of #W14-16 was uniform and then turns to northeast in the late stage of development. For #W14-18, the water flows mainly from east to west. Additionally, relatively uniform flooding characteristics are discovered in #W18-18. Through the analysis above, we can describe the range of waterflood front and high-permeability channels mainly for #W16-15, #W15-16 and #W18-15 as shown in Fig. 13. Then, the size of waterflood front can be obtained according to well spacing, shown in Table 4.</anchoringText>
+<image-wrap id="102118178053MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118178053MS_i_13.tif" id="ImgLink-13" />
+<caption>The range of waterflood front and high-permeability channels estimated by streamline simulation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>The range of waterflood front and high-permeability channels estimated by streamline simulation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="14" data-type-order="18">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr18">Streamline simulation can model whole producing stages and track waterflood front flexibly. However, streamline simulation, based on the flow rates per day or month, has its limitations that it is unable to reflect some tiny changes within a day, which can be solved by numerical well testing technique through BHP data. Then, the distribution of waterflood front and high-permeability channels is determined by streamline simulation and numerical well testing interpretation. The results of waterflood direction and front are basically identical and consistent obtained by different approaches in this work. Eventually, the distribution of waterflood front and high-permeability channels in 2014 on the basis of water cut is shown in Fig. 14</anchoringText>
+<image-wrap id="102118178053MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118178053MS_i_14.tif" id="ImgLink-14" />
+<caption>The distribution of waterflood front and high-permeability channels determined by the workflow</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>The distribution of waterflood front and high-permeability channels determined by the workflow</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

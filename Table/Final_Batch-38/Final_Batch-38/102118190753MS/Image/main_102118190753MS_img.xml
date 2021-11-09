@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190753MS.txt" extractionDate="2021-03-27T16:37:28Z">
+<doi>10.2118/190753-MS</doi>
+<pii>10.2118/190753-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">For example, plots in Figure 1 present comparisons between the calculated seawater fractions from the ion concentrations measured in the produced water samples from 24 wells in a North Sea field as red dots and an ideal tracer simulated a with reservoir simulator (blue lines). Both are plotted against the date. Seawater fraction values are on the scale from 0 (formation brine only is produced) to 1 (injection water).</anchoringText>
+<image-wrap id="102118190753MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118190753MS_i_1.tif" id="ImgLink-1" />
+<caption>Comparison between simulated ideal tracer (blue) and calculated seawater fraction from the measured produced water sample ion compositions (red dots) against Dates.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Comparison between simulated ideal tracer (blue) and calculated seawater fraction from the measured produced water sample ion compositions (red dots) against Dates.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">Nonetheless, as an extension to the typical approach of matching gross water rates, we could also include injection water fractions (Figure 2).</anchoringText>
+<image-wrap id="102118190753MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118190753MS_i_2.tif" id="ImgLink-2" />
+<caption>Blue colour represent water produced rates, red sea water fraction. Lines are used to show simulated values, dots for the observed historical data from a field case.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Blue colour represent water produced rates, red sea water fraction. Lines are used to show simulated values, dots for the observed historical data from a field case.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3"> </anchoringText>
+<image-wrap id="102118190753MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118190753MS_i_3.tif" id="ImgLink-3" />
+<caption>Example of calculated cumulative volumes of injected water (red) and gross cumulative water volumes produced (blue) plotted against time.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Example of calculated cumulative volumes of injected water (red) and gross cumulative water volumes produced (blue) plotted against time.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">In the next step at every sampling date i, the cumulative volume of injected water produced wiiw is plotted against total cumulative water volume produced Wi up to this time for the specific well (Figure 4). Such a representation of the data gives us the contribution of seawater to the overall produced water volume.</anchoringText>
+<image-wrap id="102118190753MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118190753MS_i_4.tif" id="ImgLink-4" />
+<caption>Illustration of the step taken to generate a cross plot of cumulative volumes produced.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Illustration of the step taken to generate a cross plot of cumulative volumes produced.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">Nevertheless, we suggest a further transformation in order to accommodate in one plot the characteristic curves for several wells that produce different cumulative volumes water. For example, in Figure 5 the plot for any well that produced less than 5 MMstb of water would occupy only a small portion of the graph, and comparison of the characteristic profile to identify the contribution of injection water would be difficult to interpret. Thus, normalization is used to make direct comparison easier.</anchoringText>
+<image-wrap id="102118190753MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118190753MS_i_5.tif" id="ImgLink-5" />
+<caption>Cumulative injection water volume produced versus cumulative gross volume of water produced. Dotted lines represent where 100% and where 50% of produced water is injected water.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Cumulative injection water volume produced versus cumulative gross volume of water produced. Dotted lines represent where 100% and where 50% of produced water is injected water.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">In Figure 6, the plot for Well A illustrates a case of seawater breakthrough via the oil leg with a sharp breakthrough profile. By the time the well achieved 10% of its cumulative water production, the greater part of that water was already coming from supporting injector(s) (around 90%). This indicates a very strong contribution from the injection system and good communication through the oil leg between the injectors and Well A.</anchoringText>
+<image-wrap id="102118190753MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118190753MS_i_6.tif" id="ImgLink-6" />
+<caption>Suggested dimensionless characterisation of injector contribution.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Suggested dimensionless characterisation of injector contribution.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">A mineral scaling risk analysis may be performed using the Injector Contribution characteristic plot. Historic data for a field case was analysed to examine potential scaling regimes (Figure 7).</anchoringText>
+<image-wrap id="102118190753MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118190753MS_i_7.tif" id="ImgLink-7" />
+<caption>Scaling risk analysis using Injector Contribution characteristic plot based on historic data for a field case.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Scaling risk analysis using Injector Contribution characteristic plot based on historic data for a field case.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">The injector to producer connectivity plot allows a review of a number of wells in a single plot (Figure 8). The same analysis is much more challenging to achieve using the conventional approach, and we believe the</anchoringText>
+<image-wrap id="102118190753MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118190753MS_i_8.tif" id="ImgLink-8" />
+<caption>Analysis of multiple wells using the injector contribution plot. Line thicknesses used to differentiate cumulative water produced (WWPT). Line colours used only to diffentiate well identities.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Analysis of multiple wells using the injector contribution plot. Line thicknesses used to differentiate cumulative water produced (WWPT). Line colours used only to diffentiate well identities.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9"> </anchoringText>
+<image-wrap id="102118190753MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118190753MS_i_9.tif" id="ImgLink-9" />
+<caption>Field diagram showing degree of injector contribution at production wells.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Field diagram showing degree of injector contribution at production wells.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="11" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">The dimensions of the field are roughly 10 km by 30 km, with an elongated half-dome; total STOIIP is around 775 MMstb of oil. The sandstone reservoir is supported by an aquifer. The field is developed by 20 vertical producers and 10 peripheral vertical water injectors. The total number of geological realisations for field used is 104 (Figure 10).</anchoringText>
+<image-wrap id="102118190753MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118190753MS_i_10.tif" id="ImgLink-10" />
+<caption>Permeability distribution in three selected geological realisations of the Brugge field.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Permeability distribution in three selected geological realisations of the Brugge field.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190753MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118190753MS_i_10a.tif" id="ImgLink-10a" />
+</image-wrap>
+<image-wrap id="102118190753MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118190753MS_i_10b.tif" id="ImgLink-10b" />
+</image-wrap>
+<image-wrap id="102118190753MS-Img_SPi-10c">
+<imageLink type="mediaResource" href="102118190753MS_i_10c.tif" id="ImgLink-10c" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">In the next step each for every well a calculation of injector contribution was performed for each of the 104 reservoir models and plotted on a single plot for comparison (Figure 11).</anchoringText>
+<image-wrap id="102118190753MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118190753MS_i_11.tif" id="ImgLink-11" />
+<caption>A sample of well injector contribution over all geological realisations.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>A sample of well injector contribution over all geological realisations.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">In order to reduce analysis time, only eight geological realisations were chosen that cover most of the uncertainty range (Figure 12).</anchoringText>
+<image-wrap id="102118190753MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118190753MS_i_12.tif" id="ImgLink-12" />
+<caption>Injector contribution for a sample well for a set of five selected geological realisations.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Injector contribution for a sample well for a set of five selected geological realisations.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

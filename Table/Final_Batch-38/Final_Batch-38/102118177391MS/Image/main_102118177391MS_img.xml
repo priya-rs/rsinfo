@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118177391MS.txt" extractionDate="2021-03-16T18:03:56Z">
+<doi>10.2118/177391-MS</doi>
+<pii>10.2118/177391-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure composite="true" composite-count="2" pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">The Azeri-Chirag-Gunashli (ACG) is the oil field located in the Azerbaijan sector of the South Caspian Sea. Production started in 1980 from the shallow water Gunashli (SWG) section of the field, which is currently being operated by the State Oil Company of the Azerbaijan Republic (SOCAR). The other parts of the field came on stream in 1997 – Chirag, 2005 – Azeri, 2008 – deep water Gunashli (DWG) and 2014 – West Chirag, and are operated by BP on the behalf of Azerbaijan International Operating Company (AIOC) (Figure 1).</anchoringText>
+<image-wrap id="102118177391MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118177391MS_i_1.tif" id="ImgLink-1" />
+<caption>a) Azerbaijan sector of the South Caspian Sea and the location of ACG and Shah Deniz fields; b) ACG field: Azeri field is developed from three – East, Central and West Azeri Platforms. CDWG is developed from Chirag, deep water Gunashli and West Chirag platforms</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>a) Azerbaijan sector of the South Caspian Sea and the location of ACG and Shah Deniz fields; b) ACG field: Azeri field is developed from three – East, Central and West Azeri Platforms. CDWG is developed from Chirag, deep water Gunashli and West Chirag platforms </caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118177391MS-Img_SPi-1a">
+<imageLink type="mediaResource" href="102118177391MS_i_1a.tif" id="ImgLink-1a" />
+<figure-specific-caption>
+<caption-order>a)</caption-order>
+<caption-text>Azerbaijan sector of the South Caspian Sea and the location of ACG and Shah Deniz fields</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118177391MS-Img_SPi-1b">
+<imageLink type="mediaResource" href="102118177391MS_i_1b.tif" id="ImgLink-1b" />
+<figure-specific-caption>
+<caption-order>b)</caption-order>
+<caption-text>ACG field: Azeri field is developed from three – East, Central and West Azeri Platforms</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="5" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">One of the important features of the new template is the visualization of injector and producer WAFs through time (Figure 2a) capturing the impact on future wells and losses to the aquifer as well. Such visualization offers the first step health check of the injector before calculating its efficiency. For example, injection water loss to the aquifer would lower down the injection efficiency.</anchoringText>
+<image-wrap id="102118177391MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118177391MS_i_2.tif" id="ImgLink-2" />
+<caption>WAFs for a) injectors and b) producers through time. Different colours correspond to different offset producers or supporting injectors and an aquifer (no well). Injection and production rates provided below for are quality check purposes. They enable to spot potential erroneous streamline simulation results while the wells are shut in and change flow conditions</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>WAFs for a) injectors and b) producers through time. Different colours correspond to different offset producers or supporting injectors and an aquifer (no well). Injection and production rates provided below for are quality check purposes. They enable to spot potential erroneous streamline simulation results while the wells are shut in and change flow conditions </caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118177391MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118177391MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-order>a)</caption-order>
+<caption-text>injectors</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118177391MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118177391MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-order>b)</caption-order>
+<caption-text>producers through time</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">WAFs can be monitored in a map view as well (Figure 3) showing the location of an injector and offset producers (or a producer and supporting injectors) visualizing the area of influence and offering another level of quality checking results. If the injector supports a producer at an unusually far distance, it gives the hint to the viewer to double check the results and simulation model.</anchoringText>
+<image-wrap id="102118177391MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118177391MS_i_3.tif" id="ImgLink-3" />
+<caption>WAFs on a map view. It shows the location of an injector and offset producers or a producer and supporting injectors. If the pairs are located unusually far away from each other, it gives the hint to check the results and simulation model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>WAFs on a map view. It shows the location of an injector and offset producers or a producer and supporting injectors. If the pairs are located unusually far away from each other, it gives the hint to check the results and simulation model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">Since StreamCalc algorithm provides amount of flow through regions (reservoir layers and sectors), it is possible to construct allocation factor plots on a regional basis as well. Figure 4 shows regional allocation factor plot for an injector. It describes the amount of the support or how much of the injected water goes to specific region. Azeri injector (AzE-W03) provides support to Fasila B reservoir of the East and Central Azeri North Flank throughout its life. Similarly, this plot would indicate contribution of the reservoirs and sectors to the production of a producer.</anchoringText>
+<image-wrap id="102118177391MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118177391MS_i_4.tif" id="ImgLink-4" />
+<caption>Regional allocation factors. It shows the supported reservoir and sectors, and the amount of the support for the selected injectors. Injection and production rates provided below for are quality check purposes. They enable to spot potential erroneous streamline simulation results while the wells are shut in and change flow conditions</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Regional allocation factors. It shows the supported reservoir and sectors, and the amount of the support for the selected injectors. Injection and production rates provided below for are quality check purposes. They enable to spot potential erroneous streamline simulation results while the wells are shut in and change flow conditions</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">Another informative plot that the new template offers is a simulated production log (PLT) (Figure 5) where a producer it shows the contribution of supporting injectors to the total production through different layers. According to Figure 5, almost half of the production for AzE-P02 comes from the East Azeri North Flank Fasila B provided by AzE-W04Z and AzE-W01Y injectors. Other half of the production is recovered from the East Azeri North Flank Fasila D reservoir supported by the aquifer.</anchoringText>
+<image-wrap id="102118177391MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118177391MS_i_5.tif" id="ImgLink-5" />
+<caption>Simulated PLT plot. It shows the amount of production provided by injectors through different producing layers</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Simulated PLT plot. It shows the amount of production provided by injectors through different producing layers</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="9" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">One of the key visualizations generated for this study is the Injection Efficiency analysis (Figure 6) consisting of three plots;</anchoringText>
+<image-wrap id="102118177391MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118177391MS_i_6.tif" id="ImgLink-6" />
+<caption>Injection Efficiency plot. The plot on the top describes the amount of the oil recovered by offset producers throughout injector’s life. The plot in the middle shows the injection rate with respect time. Both production and injection rates are in reservoir units for comparison purposes. The plot on the bottom is obtained by dividing previous two plots and called Efficiency Plot. It shows how much oil could be recovered per unit injected volume at a given time</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Injection Efficiency plot. The plot on the top describes the amount of the oil recovered by offset producers throughout injector’s life. The plot in the middle shows the injection rate with respect time. Both production and injection rates are in reservoir units for comparison purposes. The plot on the bottom is obtained by dividing previous two plots and called Efficiency Plot. It shows how much oil could be recovered per unit injected volume at a given time</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118177391MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118177391MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>VoO - Amount of oil pushed towards producers by a certain injector</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118177391MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118177391MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Injection Rate of the selected injector</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118177391MS-Img_SPi-6c">
+<imageLink type="mediaResource" href="102118177391MS_i_6c.tif" id="ImgLink-6c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Efficiency Plot [VoO/Inj Rate]</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">Advantage of StreamCalc™ module in analyzing non-convective flow made it possible to construct such plots for gas injectors as well. Alternatively, injector efficiencies can be visualized instantaneously (Figure 7). Recovered oil volumes are plotted versus injected volumes. Efficiency lines (25 %, 50 %, 75 % and 100 %) are placed on the plot for visual interpretation of results and well ranking. If the well is located on 100 % efficiency line, it would drain the oil rate equal to the 100 % of the injected volume. Similarly, injectors located on 75 % line would drain the oil rate equal to the 75 % of the total injection rate from offset producers.</anchoringText>
+<image-wrap id="102118177391MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118177391MS_i_7.tif" id="ImgLink-7" />
+<caption>Instantaneous injection efficiency plots for a) water and b) gas injectors. 25%, 50 %, 75 % and 100 % efficiency lines represent the amount of oil recovered with respect to the injection rates accordingly. It visualizes the efficiencies instantaneously and helps to rank the wells based on their efficiencies. Efficiencies can be viewed for other available dates as well</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Instantaneous injection efficiency plots for a) water and b) gas injectors. 25%, 50 %, 75 % and 100 % efficiency lines represent the amount of oil recovered with respect to the injection rates accordingly. It visualizes the efficiencies instantaneously and helps to rank the wells based on their efficiencies. Efficiencies can be viewed for other available dates as well </caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118177391MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118177391MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order>a)</caption-order>
+<caption-text>water </caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118177391MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118177391MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order>b)</caption-order>
+<caption-text>gas injectors</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">Another visualization – Ranking Plot (Figure 8) is generated to separate the wells with same efficiencies but different oil recoveries and injection rates. Ranking is calculated based on Eq. 4. Figure 8 shows how the picture changes based on ranking criteria (Eq. 3 or 4). Even though gas injector AzC-G05 has lower efficiency compared to other wells, it becomes more important when Eq. 4 is applied to rank the wells as it recovers more oil from offset producers compared to other injectors.</anchoringText>
+<image-wrap id="102118177391MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118177391MS_i_8.tif" id="ImgLink-8" />
+<caption>Comparison of injection efficiency and injection raking criteria. Even though well may have lower efficiency compared to others, when injection ranking criterion is applied it may appear as a more important injector (AzC-G05)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Comparison of injection efficiency and injection raking criteria. Even though well may have lower efficiency compared to others, when injection ranking criterion is applied it may appear as a more important injector (AzC-G05)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118177391MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118177391MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Injector Efficiency</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118177391MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118177391MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Ranking {[Offset Oil Production]^2/Inj Vol}</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="12" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">One of applications of the tool was based on its ability to visualize injector-producer interaction through time. West Azeri producer – AzW-P04 was going to be shut in for gas lift retrofit intervention job. Conventional surveillance techniques suggested that the well is under the direct influence of AzW-W01 injector (30 mbd injection rate) which was in accordance with streamline simulation results (Figure 9). In order to prevent AzW-P04 area from watering out during the intervention job, decision has to be made to decrease AzW-W01 injection rate by certain amount.</anchoringText>
+<image-wrap id="102118177391MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118177391MS_i_9.tif" id="ImgLink-9" />
+<caption>WAF Plot for AzW-W01 Injector. It shows that for the highlighted period approximately 35-40 % of the support goes to AzW-P04</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>WAF Plot for AzW-W01 Injector. It shows that for the highlighted period approximately 35-40 % of the support goes to AzW-P04</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118177391MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118177391MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Producer - Injector Interactions</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118177391MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118177391MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Production Injection Rates</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">Another application of the tool has been widely discussed in the literature (e.g. Al-Zawawi et al. 2011) is associated with injector placement. It has been used during the future West Azeri injector placement studies (Figure 10). Streamline results with the old and new location of the well revealed that, new proposed location enables to decrease injection loss to the aquifer from 30 to 14 % and supports one additional producer.</anchoringText>
+<image-wrap id="102118177391MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118177391MS_i_10.tif" id="ImgLink-10" />
+<caption>Injector placement study for future West Azeri injector. New location of the injector reduces losses to aquifer from 30 to 14 %</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Injector placement study for future West Azeri injector. New location of the injector reduces losses to aquifer from 30 to 14 %</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118177391MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118177391MS_i_10a.tif" id="ImgLink-10a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Old Location</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118177391MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118177391MS_i_10b.tif" id="ImgLink-10b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>New location</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

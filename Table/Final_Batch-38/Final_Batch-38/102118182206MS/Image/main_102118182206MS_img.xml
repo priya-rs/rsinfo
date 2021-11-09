@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118182206MS.txt" extractionDate="2021-03-22T08:41:14Z">
+<doi>10.2118/182206-MS</doi>
+<pii>10.2118/182206-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr2">The reservoir consists of three partially overlapping turbidite fans (as shown in Fig. 1). All of the turbidite fans consist of two geological facies: sand and shaly sand. The same set of facies are considered for providing saturation tables to the simulator. A major fault divides each of the fans into two halves, thus creating six equilibration regions (Fig. 1).</anchoringText>
+<image-wrap id="102118182206MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118182206MS_i_1.tif" id="ImgLink-1" />
+<caption>Model snapshot showing the three fans, the major fault, equilibration regions identified by numerals, and reservoir dimensions.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Model snapshot showing the three fans, the major fault, equilibration regions identified by numerals, and reservoir dimensions.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr3">The three fans fall in a single pressure/volume/temperature (PVT) region with heavy oil+gas fluid characteristics. The reservoir is undersaturated in equilibrium conditions with initial reservoir pressure of 4,533 psia and saturation pressure of 4,500 psia. For the period of history, the Sam Hill oil field (the hypothetical oil field in consideration) consists of five producers and injectors with 2 years of history. The average water cut of the field is ~0% and average initial gas-oil ratio (GOR) of the field is ~230 v/v. The field is typically characterized by low water cut, low GOR, and high oil production rates, as shown in Fig. 2.</anchoringText>
+<image-wrap id="102118182206MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118182206MS_i_2.tif" id="ImgLink-2" />
+<caption>Historical production rates and ratios of the Sam Hill oil field.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Historical production rates and ratios of the Sam Hill oil field.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr4">Fig. 3 shows the global history match. Overall, the simulated cumulative production for oil and water match that of cumulative history. However, stimulated gas production tends to be slightly higher at the end of year 2002.</anchoringText>
+<image-wrap id="102118182206MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118182206MS_i_3.tif" id="ImgLink-3" />
+<caption>Field history match.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Field history match.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118182206MS_i_3a.tif" id="ImgLink-3a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Field, Gas production cumulative</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118182206MS_i_3b.tif" id="ImgLink-3b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Field, Liquid production cumulative</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-3c">
+<imageLink type="mediaResource" href="102118182206MS_i_3c.tif" id="ImgLink-3c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Field, Oil production cumulative</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-3d">
+<imageLink type="mediaResource" href="102118182206MS_i_3d.tif" id="ImgLink-3d" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Field, Water production cumulative</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr5">Figs. 4 and 5 show the XY permeability cross section and oil saturation height map, respectively. The well locations for the vertical, horizontal, and mixed wells cases for the primary recovery and waterflood scenarios are shown in Figs. 6, 7, and 8, respectively.</anchoringText>
+<image-wrap id="102118182206MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118182206MS_i_4.tif" id="ImgLink-4" />
+<caption>XY permeability cross section.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>XY permeability cross section.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr6">Figs. 4 and 5 show the XY permeability cross section and oil saturation height map, respectively. The well locations for the vertical, horizontal, and mixed wells cases for the primary recovery and waterflood scenarios are shown in Figs. 6, 7, and 8, respectively.</anchoringText>
+<image-wrap id="102118182206MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118182206MS_i_5.tif" id="ImgLink-5" />
+<caption>Oil saturation height map.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Oil saturation height map.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="7" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr7">Figs. 4 and 5 show the XY permeability cross section and oil saturation height map, respectively. The well locations for the vertical, horizontal, and mixed wells cases for the primary recovery and waterflood scenarios are shown in Figs. 6, 7, and 8, respectively.</anchoringText>
+<image-wrap id="102118182206MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118182206MS_i_6.tif" id="ImgLink-6" />
+<caption>Location of vertical wells for primary recovery scenario (left). Location of vertical wells and water injectors for waterflood scenario (right).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Location of vertical wells for primary recovery scenario (left). Location of vertical wells and water injectors for waterflood scenario (right).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118182206MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Location of vertical wells for primary recovery scenario</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118182206MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Location of vertical wells and water injectors for waterflood scenario</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="7" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr8">Figs. 4 and 5 show the XY permeability cross section and oil saturation height map, respectively. The well locations for the vertical, horizontal, and mixed wells cases for the primary recovery and waterflood scenarios are shown in Figs. 6, 7, and 8, respectively.</anchoringText>
+<image-wrap id="102118182206MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118182206MS_i_7.tif" id="ImgLink-7" />
+<caption>Location of horizontal wells for primary recovery scenario (left). Location of horizontal wells and water injectors for waterflood scenario (right).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Location of horizontal wells for primary recovery scenario (left). Location of horizontal wells and water injectors for waterflood scenario (right).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118182206MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Location of horizontal wells for primary recovery scenario</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118182206MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Location of horizontal wells and water injectors for waterflood scenario</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr9">Figs. 4 and 5 show the XY permeability cross section and oil saturation height map, respectively. The well locations for the vertical, horizontal, and mixed wells cases for the primary recovery and waterflood scenarios are shown in Figs. 6, 7, and 8, respectively.</anchoringText>
+<image-wrap id="102118182206MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118182206MS_i_8.tif" id="ImgLink-8" />
+<caption>Location of vertical and horizontal wells for primary recovery scenario (left). Location of vertical wells, horizontal wells, and water injectors for waterflood scenario (right).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Location of vertical and horizontal wells for primary recovery scenario (left). Location of vertical wells, horizontal wells, and water injectors for waterflood scenario (right).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118182206MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Location of vertical and horizontal wells for primary recovery scenario</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118182206MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Location of vertical wells, horizontal wells, and water injectors for waterflood scenario</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr10">Fig. 9 shows modern drilling rigs cladded for noise control in urban environment.</anchoringText>
+<image-wrap id="102118182206MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118182206MS_i_9.tif" id="ImgLink-9" />
+<caption>Modern drilling rigs covered for noise control and aesthetics in urban environment (from www.memebee.com).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Modern drilling rigs covered for noise control and aesthetics in urban environment (from www.memebee.com).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="10" data-type-order="11">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr11">For the simulated Sam Hill oil field, special considerations were made in this regard to select the well pad location and design the trajectory of the well. Figs. 10–12 demonstrate locating the well pad and designing the well trajectory design to mitigate HSE concerns about the effect on the urban population.</anchoringText>
+<image-wrap id="102118182206MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118182206MS_i_10.tif" id="ImgLink-10" />
+<caption>Map view of the proposed well pad in Houston.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Map view of the proposed well pad in Houston.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="11" data-type-order="12">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr12">For the simulated Sam Hill oil field, special considerations were made in this regard to select the well pad location and design the trajectory of the well. Figs. 10–12 demonstrate locating the well pad and designing the well trajectory design to mitigate HSE concerns about the effect on the urban population.</anchoringText>
+<image-wrap id="102118182206MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118182206MS_i_11.tif" id="ImgLink-11" />
+<caption>3D view of the subsurface with the wells from well pad penetrating the reservoir. Well trajectory is planned to exploit the sweet spot without hindering normal activities of the city's population. The black vertical lines represent existing wells.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>3D view of the subsurface with the wells from well pad penetrating the reservoir. Well trajectory is planned to exploit the sweet spot without hindering normal activities of the city's population. The black vertical lines represent existing wells.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="12" data-type-order="13">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr13">For the simulated Sam Hill oil field, special considerations were made in this regard to select the well pad location and design the trajectory of the well. Figs. 10–12 demonstrate locating the well pad and designing the well trajectory design to mitigate HSE concerns about the effect on the urban population.</anchoringText>
+<image-wrap id="102118182206MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118182206MS_i_12.tif" id="ImgLink-12" />
+<caption>Proposed well pad location. The well pad lies in a remote area that will not affect the city population. (Google Maps).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Proposed well pad location. The well pad lies in a remote area that will not affect the city population. (Google Maps).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="14" figure-order="13" data-type-order="14">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr14">A good example of aesthetic but optimal and economically feasible development of oilfield in populated/tourist area is THUMS Island, Long Beach, California. Figs. 13–14 show how aesthetics concern of the societal concerns over asethetics can be combined with oilfield development. Fig. 15 shows that proper aesthetic and urban planning of THUMS island helped optimal exploitation of subsurface reserves.</anchoringText>
+<image-wrap id="102118182206MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118182206MS_i_13.tif" id="ImgLink-13" />
+<caption>THUMS Island from Long Beach, California, is an oilfield set up with concern for aesthetics.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>THUMS Island from Long Beach, California, is an oilfield set up with concern for aesthetics.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118182206MS_i_13a.tif" id="ImgLink-13a" />
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118182206MS_i_13b.tif" id="ImgLink-13b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="14" data-type-order="15">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr15">A good example of aesthetic but optimal and economically feasible development of oilfield in populated/tourist area is THUMS Island, Long Beach, California. Figs. 13–14 show how aesthetics concern of the societal concerns over asethetics can be combined with oilfield development. Fig. 15 shows that proper aesthetic and urban planning of THUMS island helped optimal exploitation of subsurface reserves.</anchoringText>
+<image-wrap id="102118182206MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118182206MS_i_14.tif" id="ImgLink-14" />
+<caption>Night view of THUMS Island. (From www.webecoist.momtastic.com).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Night view of THUMS Island. (From www.webecoist.momtastic.com).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="15" data-type-order="16">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr16">A good example of aesthetic but optimal and economically feasible development of oilfield in populated/tourist area is THUMS Island, Long Beach, California. Figs. 13–14 show how aesthetics concern of the societal concerns over asethetics can be combined with oilfield development. Fig. 15 shows that proper aesthetic and urban planning of THUMS island helped optimal exploitation of subsurface reserves.</anchoringText>
+<image-wrap id="102118182206MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118182206MS_i_15.tif" id="ImgLink-15" />
+<caption>Proper aesthetic and urban planning of THUMS island helpedoptimal exploitation of subsurface reserves. (From: www.emaze.com).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Proper aesthetic and urban planning of THUMS island helpedoptimal exploitation of subsurface reserves. (From: www.emaze.com).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="16" data-type-order="17">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr17">After completing plans to address the HSE concerns and finalizing the reservoir management strategy, each of the prediction scenarios was simulated for next 20 years to classify the scenarios in terms of cumulative production, recovery factors, and economics. Field oil production rates for all the scenarios are shown in Fig. 16, and the oil recovery factor for all the scenarios are shown in Fig. 17. The combined analysis of both shows the mixed wells (horizontal and vertical) case with waterflood and the case with all vertical wells with waterflood as the two best scenarios.</anchoringText>
+<image-wrap id="102118182206MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118182206MS_i_16.tif" id="ImgLink-16" />
+<caption>Field oil production rates for all eight prediction scenarios. (NFA, no further action cenario; WF, waterflood; HZ, horizontal.)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Field oil production rates for all eight prediction scenarios. (NFA, no further action cenario; WF, waterflood; HZ, horizontal.)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="17" data-type-order="18">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr18">After completing plans to address the HSE concerns and finalizing the reservoir management strategy, each of the prediction scenarios was simulated for next 20 years to classify the scenarios in terms of cumulative production, recovery factors, and economics. Field oil production rates for all the scenarios are shown in Fig. 16, and the oil recovery factor for all the scenarios are shown in Fig. 17. The combined analysis of both shows the mixed wells (horizontal and vertical) case with waterflood and the case with all vertical wells with waterflood as the two best scenarios.</anchoringText>
+<image-wrap id="102118182206MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118182206MS_i_17.tif" id="ImgLink-17" />
+<caption>Field oil recovery factors for all eight prediction scenarios.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Field oil recovery factors for all eight prediction scenarios.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="18" data-type-order="19">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr19">The top three scenarios with the highest NPV values were selected for economic limit analysis. In this study, vertical wells with injectors, vertical and horizontal wells with injectors, and vertical wells with electric submersible pumps (ESP) and injectors have the highest NPV (Fig. 18).</anchoringText>
+<image-wrap id="102118182206MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118182206MS_i_18.tif" id="ImgLink-18" />
+<caption>NPV ranking of the eight scenarios.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>NPV ranking of the eight scenarios.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="19" data-type-order="20">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr20">Economic limit analysis is useful because it helps the reservoir engineer to plan for future improved recovery or an enhanced recovery scheme. A plot of cumulative before-tax cash flow (BTCF) was plotted against the forecast timeline. The point where the cumulative BTCF starts to decline is the point where the economic limit is reached, and further decision and analysis must be carried out to ensure maximum hydrocarbon recovery is achieved. Fig. 19 shows the general plot of a cumulative BTCF versus forecast timeline plot.</anchoringText>
+<image-wrap id="102118182206MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118182206MS_i_19.tif" id="ImgLink-19" />
+<caption>Cumulative BTCF versus forecast timeline with the arrows showing the economic limits.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Cumulative BTCF versus forecast timeline with the arrows showing the economic limits.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="20" data-type-order="21">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr21">Once the development scenario has been decided, an economic sensitivity analysis on the after-tax cash flow was carried out. In this project, sensitivity variables included operational costs such as injection water, produced water treatment, and other operating expenditures that are subject to change of up to 50%. The same applies to production variables such as oil and gas price. The final decision will be based on NPV, recovery factor, economic limit, and after-tax cash-flow sensitivity. Fig. 20 shows one such sensitivity analysis of oil prices for different scenarios.</anchoringText>
+<image-wrap id="102118182206MS-Img_SPi-20">
+<label>Figure 20 </label>
+<imageLink type="mediaResource" href="102118182206MS_i_20.tif" id="ImgLink-20" />
+<caption>Impact of oil price sensitivity to NPV for three scenarios.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Impact of oil price sensitivity to NPV for three scenarios.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="20" figure-order="21" data-type-order="22">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr22">Different adjustments in the geological and fluid properties were required to match the observed response of every well. Well SH-1 had a small buildup, which required very small timesteps to accurately match the shut-in period (Fig. A-1). For well SH-2, the local grid must be refined to reduce numerical dispersion and match the gas movement more accurately. Porosity around this well seems to be overestimated by the geologist; hence, a pore volume multiplier of 0.7 was used to reduce the pore volume around the well.</anchoringText>
+<label>Figure A1</label>
+<image-wrap id="102118182206MS-Img_SPi-21">
+<imageLink type="mediaResource" href="102118182206MS_i_21.tif" id="ImgLink-21" />
+<caption>History match plot of SH-1.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>A1</caption-order>
+<caption-text>History match plot of SH-1.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-21a">
+<imageLink type="mediaResource" href="102118182206MS_i_21a.tif" id="ImgLink-21a" />
+<figure-specific-caption>
+<caption-text>SH-1, Bottom hole pressure</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-21b">
+<imageLink type="mediaResource" href="102118182206MS_i_21b.tif" id="ImgLink-21b" />
+<figure-specific-caption>
+<caption-text>SH-1, Gas-oil ratio</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-21c">
+<imageLink type="mediaResource" href="102118182206MS_i_21c.tif" id="ImgLink-21c" />
+<figure-specific-caption>
+<caption-text>SH-1, Oil production rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-21d">
+<imageLink type="mediaResource" href="102118182206MS_i_21d.tif" id="ImgLink-21d" />
+<figure-specific-caption>
+<caption-text>SH-1, Water cut</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="20" figure-order="22" data-type-order="23">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr23">There could be some gas measurement issue because pressure and liquid production rate matched well locally (Fig. A-2). For SH-3, the aquifer exists to provide reservoir support to the well. Local grid refinement is implemented, and porosity and permeabilty around the well are enhanced to yield better match with the historical observed data (Fig. A-3). SH-4 and SH-5 have good local matches after local grid refinement and some minor local multiplier applied to the porosity and permeability around the wells (Fig. A-4 and Fig. A-5).</anchoringText>
+<label>Figure A2</label>
+<image-wrap id="102118182206MS-Img_SPi-22">
+<imageLink type="mediaResource" href="102118182206MS_i_22.tif" id="ImgLink-22" />
+<caption>History match plot of SH-2.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>A2</caption-order>
+<caption-text>History match plot of SH-2.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-22a">
+<imageLink type="mediaResource" href="102118182206MS_i_22a.tif" id="ImgLink-22a" />
+<figure-specific-caption>
+<caption-text>SH-2, Bottom hole pressure</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-22b">
+<imageLink type="mediaResource" href="102118182206MS_i_22b.tif" id="ImgLink-22b" />
+<figure-specific-caption>
+<caption-text>SH-2, Gas-oil ratio</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-22c">
+<imageLink type="mediaResource" href="102118182206MS_i_22c.tif" id="ImgLink-22c" />
+<figure-specific-caption>
+<caption-text>SH-2, Oil production rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-22d">
+<imageLink type="mediaResource" href="102118182206MS_i_22d.tif" id="ImgLink-22d" />
+<figure-specific-caption>
+<caption-text>SH-2, Water cut</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="20" figure-order="23" data-type-order="24">
+<link href="link-23" type="image" />
+<appendix>
+<linkTarget id="link-23" type="image">
+<anchoringText id="Ancr24">There could be some gas measurement issue because pressure and liquid production rate matched well locally (Fig. A-2). For SH-3, the aquifer exists to provide reservoir support to the well. Local grid refinement is implemented, and porosity and permeabilty around the well are enhanced to yield better match with the historical observed data (Fig. A-3). SH-4 and SH-5 have good local matches after local grid refinement and some minor local multiplier applied to the porosity and permeability around the wells (Fig. A-4 and Fig. A-5).</anchoringText>
+<label>Figure A3</label>
+<image-wrap id="102118182206MS-Img_SPi-23">
+<imageLink type="mediaResource" href="102118182206MS_i_23.tif" id="ImgLink-23" />
+<caption>History match plot of SH-3.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>A3</caption-order>
+<caption-text>History match plot of SH-3.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-23a">
+<imageLink type="mediaResource" href="102118182206MS_i_23a.tif" id="ImgLink-23a" />
+<figure-specific-caption>
+<caption-text>SH-3, Bottom hole pressure</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-23b">
+<imageLink type="mediaResource" href="102118182206MS_i_23b.tif" id="ImgLink-23b" />
+<figure-specific-caption>
+<caption-text>SH-3, Gas-oil ratio</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-23c">
+<imageLink type="mediaResource" href="102118182206MS_i_23c.tif" id="ImgLink-23c" />
+<figure-specific-caption>
+<caption-text>SH-3, Oil production rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-23d">
+<imageLink type="mediaResource" href="102118182206MS_i_23d.tif" id="ImgLink-23d" />
+<figure-specific-caption>
+<caption-text>SH-3, Water cut</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="21" figure-order="24" data-type-order="25">
+<link href="link-24" type="image" />
+<appendix>
+<linkTarget id="link-24" type="image">
+<anchoringText id="Ancr25">There could be some gas measurement issue because pressure and liquid production rate matched well locally (Fig. A-2). For SH-3, the aquifer exists to provide reservoir support to the well. Local grid refinement is implemented, and porosity and permeabilty around the well are enhanced to yield better match with the historical observed data (Fig. A-3). SH-4 and SH-5 have good local matches after local grid refinement and some minor local multiplier applied to the porosity and permeability around the wells (Fig. A-4 and Fig. A-5).</anchoringText>
+<label>Figure A4</label>
+<image-wrap id="102118182206MS-Img_SPi-24">
+<imageLink type="mediaResource" href="102118182206MS_i_24.tif" id="ImgLink-24" />
+<caption>History match plot of SH-4.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>A4</caption-order>
+<caption-text>History match plot of SH-4.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-24a">
+<imageLink type="mediaResource" href="102118182206MS_i_24a.tif" id="ImgLink-24a" />
+<figure-specific-caption>
+<caption-text>SH-4, Bottom hole pressure</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-24b">
+<imageLink type="mediaResource" href="102118182206MS_i_24b.tif" id="ImgLink-24b" />
+<figure-specific-caption>
+<caption-text>SH-4, Gas-oil ratio</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-24c">
+<imageLink type="mediaResource" href="102118182206MS_i_24c.tif" id="ImgLink-24c" />
+<figure-specific-caption>
+<caption-text>SH-4, Oil production rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-24d">
+<imageLink type="mediaResource" href="102118182206MS_i_24d.tif" id="ImgLink-24d" />
+<figure-specific-caption>
+<caption-text>SH-4, Water cut</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="21" figure-order="25" data-type-order="26">
+<link href="link-25" type="image" />
+<appendix>
+<linkTarget id="link-25" type="image">
+<anchoringText id="Ancr26">There could be some gas measurement issue because pressure and liquid production rate matched well locally (Fig. A-2). For SH-3, the aquifer exists to provide reservoir support to the well. Local grid refinement is implemented, and porosity and permeabilty around the well are enhanced to yield better match with the historical observed data (Fig. A-3). SH-4 and SH-5 have good local matches after local grid refinement and some minor local multiplier applied to the porosity and permeability around the wells (Fig. A-4 and Fig. A-5).</anchoringText>
+<label>Figure A5</label>
+<image-wrap id="102118182206MS-Img_SPi-25">
+<imageLink type="mediaResource" href="102118182206MS_i_25.tif" id="ImgLink-25" />
+<caption>History match plot of SH-5.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>A5</caption-order>
+<caption-text>History match plot of SH-5.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-25a">
+<imageLink type="mediaResource" href="102118182206MS_i_25a.tif" id="ImgLink-25a" />
+<figure-specific-caption>
+<caption-text>SH-5, Bottom hole pressure</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-25b">
+<imageLink type="mediaResource" href="102118182206MS_i_25b.tif" id="ImgLink-25b" />
+<figure-specific-caption>
+<caption-text>SH-5, Gas-oil ratio</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-25c">
+<imageLink type="mediaResource" href="102118182206MS_i_25c.tif" id="ImgLink-25c" />
+<figure-specific-caption>
+<caption-text>SH-5, Oil production rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182206MS-Img_SPi-25d">
+<imageLink type="mediaResource" href="102118182206MS_i_25d.tif" id="ImgLink-25d" />
+<figure-specific-caption>
+<caption-text>SH-5, Water cut</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

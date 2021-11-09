@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189124MS.txt" extractionDate="2021-03-29T13:23:17Z">
+<doi>10.2118/189124-MS</doi>
+<pii>10.2118/189124-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="3" table-order="1" data-type-order="2">
+<table-wrap id="102118189124MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">A report for American Petroleum Institute states that ‘basically, any kind of oil reservoir that has been water flooded with success is a good candidate for CO2 EOR″. The reservoir rock could be sandstone or carbonate with high residual oil saturation, however for EOR using CO2to be successful, there are certain rock and fluid property requirements. These requirements constitute the screening criteria for EOR using CO2and they are listed on Table 1. The screening criteria were taken from two sources; Report for American Petroleum Institute, and US Department of Energy. Generally the API gravity of the crude should be greater than 22° while the oil viscosity should be less than 10cp and the preferred oil composition should be high in C5 to C12.</anchoringText>
+<label>Table 1</label>
+<caption>Screening Criteria for EOR Using CO<sub>2</sub>
+</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Screening Criteria for EOR Using CO<sub>2</sub>
+</caption-text>
+</formatted-caption>
+<table id="102118189124MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Crude Oil Properties</th>
+<th colspan="2" valign="top" align="left">Taken from Report for American Petroleum Institute</th>
+<th valign="top" align="left">Taken from US Department of Energy</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Gravity, °API</td>
+<td colspan="2" valign="top" align="left">&#x003E;22</td>
+<td valign="top" align="left">&#x003E;27 to 30</td>
+</tr>
+<tr>
+<td valign="top" align="left">Viscosity, cp</td>
+<td colspan="2" valign="top" align="left">&#x003C;10</td>
+<td valign="top" align="left">&#x003C;=10 to 12</td>
+</tr>
+<tr>
+<td valign="top" align="left">Composition</td>
+<td colspan="2" valign="top" align="left">High Percentage of Intermediates, C<sub>5</sub> to C<sub>12</sub>
+</td>
+<td valign="top" align="left">-</td>
+</tr>
+<tr>
+<td valign="top" align="left">Reservoir Properties Rock</td>
+<td colspan="2" valign="top" align="left">Taken from Report for American Petroleum Institute</td>
+<td valign="top" align="left">Taken from US Department of Energy</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil Saturation</td>
+<td colspan="2" valign="top" align="left">&#x003E;0.4</td>
+<td valign="top" align="left">&#x003E;0.25 to 0.30</td>
+</tr>
+<tr>
+<td valign="top" align="left">Type of Formation</td>
+<td colspan="2" valign="top" align="left">Sandstone or carbonate</td>
+<td valign="top" align="left">-</td>
+</tr>
+<tr>
+<td valign="top" align="left">Permeability, md</td>
+<td colspan="2" valign="top" align="left">Not critical if sufficient rates can be applied</td>
+<td valign="top" align="left">1 to 5</td>
+</tr>
+<tr>
+<td valign="top" align="left">Temperature, °F</td>
+<td colspan="2" valign="top" align="left">-</td>
+<td valign="top" align="left">&#x003C;250, but not critical</td>
+</tr>
+<tr>
+<td valign="top" align="left">Pressure, Psia</td>
+<td colspan="2" valign="top" align="left">-</td>
+<td valign="top" align="left">&#x003E;1,200 to 1,500</td>
+</tr>
+<tr>
+<td rowspan="12" valign="top" align="left">Depth, ft</td>
+<td colspan="2" valign="top" align="left">For Miscible CO<sub>2</sub> Flooding</td>
+<td valign="top" align="left">&#x003C;9,800 ft and &#x003E;2,000 ft</td>
+</tr>
+<tr>
+<td valign="top" align="left">Gravity, °API</td><td valign="top" align="left">Depth greater than (ft)</td>
+</tr>
+<tr>
+<td valign="top" align="left">&#x003E;40</td><td valign="top" align="left">2,500</td>
+</tr>
+<tr>
+<td valign="top" align="left">32 to 39.3</td><td valign="top" align="left">2,800</td>
+</tr>
+<tr>
+<td valign="top" align="left">28 to 31.9</td><td valign="top" align="left">3,300</td>
+</tr>
+<tr>
+<td valign="top" align="left">22 to 27.9</td><td valign="top" align="left">4,000</td>
+</tr>
+<tr>
+<td valign="top" align="left">&#x003C;22</td><td valign="top" align="left">Fails CO<sub>2 </sub>Screening</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" align="left">For Immiscible CO<sub>2</sub> Flooding</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" align="left">Gravity, °API Depth greater than (ft)</td>
+</tr>
+<tr>
+<td valign="top" align="left">&#x003E;40</td><td valign="top" align="left">2,500</td>
+</tr>
+<tr>
+<td valign="top" align="left">13 to 21.9</td><td valign="top" align="left">1,800</td>
+</tr>
+<tr>
+<td valign="top" align="left">&#x003C;13</td><td valign="top" align="left">Fails CO<sub>2</sub> Screening</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="2" data-type-order="12">
+<table-wrap id="102118189124MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2"> </anchoringText>
+<label>Table 2</label>
+<caption>Rock and Fluid Data of the Three Reservoirs under Different Drive Mechanisms</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Rock and Fluid Data of the Three Reservoirs under Different Drive Mechanisms</caption-text>
+</formatted-caption>
+<table id="102118189124MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" valign="top" align="center">Reservoir and Fluid Data</th>
+<th colspan="3" valign="top" align="center">Reservoir Drive (Drainage) Mechanism</th>
+</tr>
+<tr>
+<th valign="top" align="left">Parameter</th>
+<th valign="top" align="center">Units</th>
+<th valign="top" align="center">Full Water Drive</th>
+<th valign="top" align="center">Partial Water Drive</th>
+<th valign="top" align="center">Fluid Expansion &amp; Pore Volume Compressibility</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Depth</td>
+<td valign="top" align="center">ft</td>
+<td valign="top" align="center">11600</td>
+<td valign="top" align="center">13700</td>
+<td valign="top" align="center">13206</td>
+</tr>
+<tr>
+<td valign="top" align="left">Initial Pressure</td>
+<td valign="top" align="center">Psia</td>
+<td valign="top" align="center">5045</td>
+<td valign="top" align="center">5991</td>
+<td valign="top" align="center">5520</td>
+</tr>
+<tr>
+<td valign="top" align="left">Initial Temperature</td>
+<td valign="top" align="center">F</td>
+<td valign="top" align="center">207</td>
+<td valign="top" align="center">235</td>
+<td valign="top" align="center">226</td>
+</tr>
+<tr>
+<td valign="top" align="left">Bubble Point</td>
+<td valign="top" align="center">psia</td>
+<td valign="top" align="center">4355</td>
+<td valign="top" align="center">4745</td>
+<td valign="top" align="center">4551</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil Viscosity</td>
+<td valign="top" align="center">cp</td>
+<td valign="top" align="center">0.23</td>
+<td valign="top" align="center">0.17</td>
+<td valign="top" align="center">0.18</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil Gravity</td>
+<td valign="top" align="center">API</td>
+<td valign="top" align="center">41</td>
+<td valign="top" align="center">42</td>
+<td valign="top" align="center">40.9</td>
+</tr>
+<tr>
+<td valign="top" align="left">Rsi</td>
+<td valign="top" align="center">scf/stb</td>
+<td valign="top" align="center">1218</td>
+<td valign="top" align="center">2517</td>
+<td valign="top" align="center">1778</td>
+</tr>
+<tr>
+<td valign="top" align="left">Boi</td>
+<td valign="top" align="center">rb/stb</td>
+<td valign="top" align="center">1.828</td>
+<td valign="top" align="center">2.374</td>
+<td valign="top" align="center">2.098</td>
+</tr>
+<tr>
+<td valign="top" align="left">Average Permeability</td>
+<td valign="top" align="center">Md</td>
+<td valign="top" align="center">415.94</td>
+<td valign="top" align="center">97.13</td>
+<td valign="top" align="center">89.99</td>
+</tr>
+<tr>
+<td valign="top" align="left">Cumulative Oil Production</td>
+<td valign="top" align="center">MMstb</td>
+<td valign="top" align="center">51.987</td>
+<td valign="top" align="center">20.764</td>
+<td valign="top" align="center">4.814</td>
+</tr>
+<tr>
+<td valign="top" align="left">Cumulative Gas Production</td>
+<td valign="top" align="center">Bscf</td>
+<td valign="top" align="center">83.15</td>
+<td valign="top" align="center">66.323</td>
+<td valign="top" align="center">6.35</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

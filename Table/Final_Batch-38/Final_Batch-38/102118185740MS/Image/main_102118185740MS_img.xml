@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185740MS.txt" extractionDate="2021-03-26T10:54:51Z">
+<doi>10.2118/185740-MS</doi>
+<pii>10.2118/185740-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure composite="true" composite-count="2" pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr3">Recent improvements in digital technology (big data implementations) data gathering and management techniques has fostered an important opportunity for the E&amp;P industry. Through the appropriate implementation of knowledge-driven workflows, significant improvements in operational performance and cost efficiencies can be achieved by taking advantage of the big data revolution. Figure 1(a) presents a conceptual evolution of turning raw data in to actionable intelligence utilizing data analytical methods (Holdaway 2014).</anchoringText>
+<image-wrap id="102118185740MS-Img_SPi-1">
+<label>Figure 1a, 1b</label>
+<imageLink type="mediaResource" href="102118185740MS_i_1.tif" id="ImgLink-1" />
+<caption>(a) Analytics lifecycle turning raw data into knowledge and insight. (b) Potential oilfield analytics framework (Holdaway 2014, Kronkosky and Ettehadtavakkol 2016b).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1a, 1b</caption-order>
+<caption-text>(a) Analytics lifecycle turning raw data into knowledge and insight. (b) Potential oilfield analytics framework (<link href="BIB1">Holdaway 2014</link>, Kronkosky and Ettehadtavakkol 2016b).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185740MS-Img_SPi-1a">
+<imageLink type="mediaResource" href="102118185740MS_i_1a.tif" id="ImgLink-1a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Analytics lifecycle turning raw data into knowledge and insight</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185740MS-Img_SPi-1b">
+<imageLink type="mediaResource" href="102118185740MS_i_1b.tif" id="ImgLink-1b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Potential oilfield analytics framework (<link href="BIB1">Holdaway 2014</link>, Kronkosky and Ettehadtavakkol 2016b)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-8" type="bib">
+<bib id="BIB1">
+<label>Holdaway, 2014</label>
+<author>
+<first-name>Keith</first-name>
+<last-name>Holdaway</last-name>
+</author>. <pubDate>2014</pubDate>. <article-title>
+<i>Harness Oil and Gas Big Data with Analytics: Optimize Exploration and Production with Data Driven Models</i>
+</article-title>, <journal-title>John Wiley &amp; Sons (Reprint)</journal-title>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr4">The authors were provided a copy of a digitized version of the RRC Bulletin “82” database; a partial summary of the data fields available in both RRC Bulletin “82” and UIC databases is provided below in Table 1. Unfortunately, the RRC does not have a digital record of the information; what remains is voluminous comb-bound books at RRC district offices and occasionally at public libraries. A sample of the scanned data is shown in Figure 2.</anchoringText>
+<image-wrap id="102118185740MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118185740MS_i_2.tif" id="ImgLink-2" />
+<caption>Example from RRC Bulletin “82” table.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Example from RRC Bulletin “82” table.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185740MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118185740MS_i_2a.tif" id="ImgLink-2a" />
+</image-wrap>
+<image-wrap id="102118185740MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118185740MS_i_2b.tif" id="ImgLink-2b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="3" data-type-order="5">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr5">Figure 3 is an example of a data visualization used to prepare estimates for primary and secondary reserves; these estimates are utilized to prepare S:P ratios. As highlight in the decline curve analysis, numerous predictor and response parameters and be quantified from this visualization. The following are brief descriptions of observations from Table 2:</anchoringText>
+<image-wrap id="102118185740MS-Img_SPi-3">
+<label>Figure 3a, 3b</label>
+<imageLink type="mediaResource" href="102118185740MS_i_3.tif" id="ImgLink-3" />
+<caption>(a.) Oil Rate vs. Time summary plot. (b) Oil Rate vs. Cummulative Oil Production.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3a, 3b</caption-order>
+<caption-text>(a.) Oil Rate vs. Time summary plot. (b) Oil Rate vs. Cummulative Oil Production.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185740MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118185740MS_i_3a.tif" id="ImgLink-3a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Oil Rate vs. Time summary plot</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185740MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118185740MS_i_3b.tif" id="ImgLink-3b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Oil Rate vs. Cummulative Oil Production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="6" pdf-page="9" figure-order="4" data-type-order="6">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr6">Figure 4 is a histogram of various predictor and response parameter (predictors were chosen at random for this toy example) for 522 secondary recovery projects. Secondary to Primary ratios (globally across the Permian Basin) have a median ratio of ~ 0.9; projects with S:P ratios greater than 2 should be evaluated to determine if these projects are outliers (or bad data) or potentially apart of a separate population (e.g. major fields/leases) - for this analysis we have chosen to keep these values in our analysis. Figures 5 and 6 are the summary outputs from our multivariate linear regression analysis (S:P = API Gravity + Injection Well /Production Well Ratio + Injection Pressure Gradient). We observe that while most of the predictor variables are significant (95% confindense level) as well as the overall model; residual standard error is quite high, which will lead to a large confindence band for the response.</anchoringText>
+<image-wrap id="102118185740MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118185740MS_i_4.tif" id="ImgLink-4" />
+<caption>Histograms of Predictor (green) and Response (red) parameters Secondary Recovery to Primary Ratio (S:P) - (Y) Prorosity - (X1) Permeability - (X2) API Gravity - (X3) Injection Well to Production Well Ratio - (X4) Injection Pressure Gradient - (X5)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Histograms of Predictor (green) and Response (red) parameters Secondary Recovery to Primary Ratio (S:P) - (Y) Prorosity - (X1) Permeability - (X2) API Gravity - (X3) Injection Well to Production Well Ratio - (X4) Injection Pressure Gradient - (X5)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185740MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118185740MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Secondary Recovery to Primary Ratio (S:P) - (Y)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185740MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118185740MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Prorosity - (X1)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185740MS-Img_SPi-4c">
+<imageLink type="mediaResource" href="102118185740MS_i_4c.tif" id="ImgLink-4c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Permeability - (X2)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185740MS-Img_SPi-4d">
+<imageLink type="mediaResource" href="102118185740MS_i_4d.tif" id="ImgLink-4d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>API Gravity - (X3)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185740MS-Img_SPi-4e">
+<imageLink type="mediaResource" href="102118185740MS_i_4e.tif" id="ImgLink-4e" />
+<figure-specific-caption>
+<caption-order>e</caption-order>
+<caption-text>Injection Well to Production Well Ratio - (X4)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185740MS-Img_SPi-4f">
+<imageLink type="mediaResource" href="102118185740MS_i_4f.tif" id="ImgLink-4f" />
+<figure-specific-caption>
+<caption-order>f</caption-order>
+<caption-text>Injection Pressure Gradient - (X5)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr7">Figure 4 is a histogram of various predictor and response parameter (predictors were chosen at random for this toy example) for 522 secondary recovery projects. Secondary to Primary ratios (globally across the Permian Basin) have a median ratio of ~ 0.9; projects with S:P ratios greater than 2 should be evaluated to determine if these projects are outliers (or bad data) or potentially apart of a separate population (e.g. major fields/leases) - for this analysis we have chosen to keep these values in our analysis. Figures 5 and 6 are the summary outputs from our multivariate linear regression analysis (S:P = API Gravity + Injection Well /Production Well Ratio + Injection Pressure Gradient). We observe that while most of the predictor variables are significant (95% confindense level) as well as the overall model; residual standard error is quite high, which will lead to a large confindence band for the response.</anchoringText>
+<image-wrap id="102118185740MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118185740MS_i_5.tif" id="ImgLink-5" />
+<caption>Multivariate Linear Model Summary Output from “R”</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Multivariate Linear Model Summary Output from “R”</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="10" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr8">Figure 4 is a histogram of various predictor and response parameter (predictors were chosen at random for this toy example) for 522 secondary recovery projects. Secondary to Primary ratios (globally across the Permian Basin) have a median ratio of ~ 0.9; projects with S:P ratios greater than 2 should be evaluated to determine if these projects are outliers (or bad data) or potentially apart of a separate population (e.g. major fields/leases) - for this analysis we have chosen to keep these values in our analysis. Figures 5 and 6 are the summary outputs from our multivariate linear regression analysis (S:P = API Gravity + Injection Well /Production Well Ratio + Injection Pressure Gradient). We observe that while most of the predictor variables are significant (95% confindense level) as well as the overall model; residual standard error is quite high, which will lead to a large confindence band for the response.</anchoringText>
+<image-wrap id="102118185740MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118185740MS_i_6.tif" id="ImgLink-6" />
+<caption>Linear Model Diaignositc Plot Residuals vs Fitted Normal Q-Q Scale-Locations Residuals vs Leverage</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Linear Model Diaignositc Plot Residuals vs Fitted Normal Q-Q Scale-Locations Residuals vs Leverage</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185740MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118185740MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Residuals vs Fitted</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185740MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118185740MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Normal Q-Q</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185740MS-Img_SPi-6c">
+<imageLink type="mediaResource" href="102118185740MS_i_6c.tif" id="ImgLink-6c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Scale-Locations</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185740MS-Img_SPi-6d">
+<imageLink type="mediaResource" href="102118185740MS_i_6d.tif" id="ImgLink-6d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>Residuals vs Leverage</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr9">The model outline above was a global model (San Andres reservoirs are located accross the entire Permian Basin); we anticipate spatial regression techniques will minimize the residual error, given Walters Law corollary - things tend to be near like things, providing models that are more robust. Figure 7 is provides a pictorial of how spatial distances can act as a weighting (e.g. closer projects have more weight) parameter to our regression model.</anchoringText>
+<image-wrap id="102118185740MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118185740MS_i_7.tif" id="ImgLink-7" />
+<caption>Example of Spatal Regression Concept - Northern project being evaluated utilizing spatial distance weights</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Example of Spatal Regression Concept - Northern project being evaluated utilizing spatial distance weights</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185740MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118185740MS_i_7a.tif" id="ImgLink-7a" />
+</image-wrap>
+<image-wrap id="102118185740MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118185740MS_i_7b.tif" id="ImgLink-7b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

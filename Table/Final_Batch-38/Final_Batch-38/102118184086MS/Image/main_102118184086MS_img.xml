@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118184086MS.txt" extractionDate="2021-03-25T11:54:42Z">
+<doi>10.2118/184086-MS</doi>
+<pii>10.2118/184086-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr4">The numerical model consists of a grid of squared-shape cells extracted from an existing dynamic model covering a part of the South area, as illustrated in Figure 1.</anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118184086MS_i_1.tif" id="ImgLink-1" />
+<caption>Location map of the existing dynamic model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Location map of the existing dynamic model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr5">The cells dimensions are 32.5 ft by 32.5 ft horizontally, and the layers are between 1 ft and 2 ft thick in the reservoir zone. As can be seen in Figure 2, the model represents only the layers 1 (20-ft thick) and 2 (40-ft thick) of the Upper Sand but not the layers of the Lower Sand. In accordance with the existing model from which the sector was extracted, five different rock-types populate the grid, namely:</anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118184086MS_i_2.tif" id="ImgLink-2" />
+<caption>Vertical cross-section of the simulation grid</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Vertical cross-section of the simulation grid</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr6">This curve reflects the reduction in water mobility versus polymer concentration or the increase in water viscosity versus polymer concentration. This mobility reduction curve will be validated using lab data once available. For the simulation work that is presented in this study, the curve displayed in Figure 3 was used based on previous experience considering a salinity and temperature of 30 g/L and 90°F, respectively.</anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118184086MS_i_3.tif" id="ImgLink-3" />
+<caption>Mobility reduction curve</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Mobility reduction curve</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr7">The first one is called the "IFT curve" which represents the evolution of the IFT versus the surfactant concentration. Based on previous experience, the curve displayed in Figure 4 represents the targeted performance of a reservoir-optimised surfactant formulation and was therefore used in this study. It can be noticed from Figure 4 that a target IFT value of 10−3 dyne/cm is reached for surfactant concentrations greater than 350 ppm.</anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118184086MS_i_4.tif" id="ImgLink-4" />
+<caption>Interfacial tension curve</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Interfacial tension curve</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr8">The relative permeability data were extracted from the original dynamic model and are displayed in Figure 5 (curves in plain line) for the main rock-type (RT1 - clean sand).</anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118184086MS_i_5.tif" id="ImgLink-5" />
+<caption>Relative permeability curves depending on the capillary number</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Relative permeability curves depending on the capillary number</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr9">Since the South and South-West areas of the RQLF field are still at an early stage of development, it was possible to investigate different well configurations so that an efficient development plan involving chemical EOR is identified. At first a 90m-spaced inverted 5-spot pattern was tested as illustrated on Figure 6.</anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118184086MS_i_6.tif" id="ImgLink-6" />
+<caption>Inverted 5-spot pattern</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Inverted 5-spot pattern</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr10">Before the water breakthrough that is shown in Figure 7, the injection rate is plateauing at around 100 bpd when injecting chemical-free water. After the water breakthrough, from 2018 onwards, the injection rate is smoothly increasing up to 600 bpd because water is recycled. In the reservoir, the sweep is not efficient at all and water preferential paths are observed. A cross-sectional view of water saturation in the simulation grid is presented in Appendix 2.</anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118184086MS_i_7.tif" id="ImgLink-7" />
+<caption>Waterflood scenario using the 90mspaced inverted 5- spot pattern. Evolution of the water injection rate and the water cut</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Waterflood scenario using the 90mspaced inverted 5- spot pattern. Evolution of the water injection rate and the water cut</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr11">Polymer dissolution in the injected water increases water viscosity and makes it harder to inject. This is reflected by the decrease in the water injection rate during polymer flooding down to 33 bpd as shown in Figure 8. While the sweep efficiency is increased in the reservoir as reflected by the decrease in the production watercut, the overall effect of the polymer remains unpromising using an inverted 5-spot pattern.</anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118184086MS_i_8.tif" id="ImgLink-8" />
+<caption>Polymer flood scenario on the 90m- spaced inverted 5-spot pattern. Water injection rate (in bpd) and water cut for the best scenario (dashed line) compared to the waterflood scenario (continuous line)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Polymer flood scenario on the 90m- spaced inverted 5-spot pattern. Water injection rate (in bpd) and water cut for the best scenario (dashed line) compared to the waterflood scenario (continuous line)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr12">Additional investigation showed that injectivity is not only caused by a relatively low maximum injection pressure, but is additionally a consequence of low fluid outtake. As illustrated in Figure 9, the injection rate follows the liquid production rate. This means that increasing the liquid production rate (outtake) would increase the water injection rate through voidage replacement.</anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118184086MS_i_9.tif" id="ImgLink-9" />
+<caption>Liquid production rate and water injection rate for the waterflood case simulated on the inverted 5-spot pattern</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Liquid production rate and water injection rate for the waterflood case simulated on the inverted 5-spot pattern</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="10" figure-order="10" data-type-order="11">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr13">Following the first set of simulation runs using an inverted 5-spot pattern, improved well configurations were envisioned to increase the fluid outtake rate in order to increase the injected volumes through voidage replacement. Two types of well configurations were investigated as shown in Figures 10 and 11 including:</anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118184086MS_i_10.tif" id="ImgLink-10" />
+<caption>Well configurations using vertical wells</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Well configurations using vertical wells</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118184086MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118184086MS_i_10a.tif" id="ImgLink-10a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>inverted 5-spot pattern</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118184086MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118184086MS_i_10b.tif" id="ImgLink-10b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>inverted 9-spot pattern</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118184086MS-Img_SPi-10c">
+<imageLink type="mediaResource" href="102118184086MS_i_10c.tif" id="ImgLink-10c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>inverted 7-spot pattern</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="11" data-type-order="12">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr14">Following the first set of simulation runs using an inverted 5-spot pattern, improved well configurations were envisioned to increase the fluid outtake rate in order to increase the injected volumes through voidage replacement. Two types of well configurations were investigated as shown in Figures 10 and 11 including:</anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118184086MS_i_11.tif" id="ImgLink-11" />
+<caption>Well configurations using horizontal wells</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Well configurations using horizontal wells</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="12" figure-order="12" data-type-order="14">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr15">As shown in Table 2, the final recovery for the waterflood case varies by approximately 1% only with all the studied patterns using vertical wells. Nonetheless, as illustrated on the right of Figure 12, when improved inverted patterns are used less injected water volume is needed to reach the same recovery factor. This effect is relatively more pronounced when an inverted 7-spot pattern is used.</anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118184086MS_i_12.tif" id="ImgLink-12" />
+<caption>Waterflood recovery factor versus time and cumulative injected volume of water for the inverted 5-, 9- and 7-spot patterns</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Waterflood recovery factor versus time and cumulative injected volume of water for the inverted 5-, 9- and 7-spot patterns</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118184086MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118184086MS_i_12a.tif" id="ImgLink-12a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Recovery Factor [-]</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118184086MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118184086MS_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Recovery Factor [-] vs Water Injection [PV]</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="6" pdf-page="13" figure-order="13" data-type-order="15">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr16">As depicted in Figure 13, by plotting the best polymer flood scenario for each pattern, it is observed that polymer injection decreases the speed of oil recovery during the first years of simulation relative to when polymer-free water is injected. This is due to the decrease in the injection rates caused by the increased viscosity of the water. For the reservoir of interest, the difference between the reservoir and the maximum accepted injection pressures is relatively small (190 psi) and this restricts water injection at high rates especially with dissolved polymer.</anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118184086MS_i_13.tif" id="ImgLink-13" />
+<caption>Polymer flood recovery factor versus time and cumulative injected volume of water for the inverted 5-, 9- and 7-spot patterns</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Polymer flood recovery factor versus time and cumulative injected volume of water for the inverted 5-, 9- and 7-spot patterns</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118184086MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118184086MS_i_13a.tif" id="ImgLink-13a" />
+</image-wrap>
+<image-wrap id="102118184086MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118184086MS_i_13b.tif" id="ImgLink-13b" />
+</image-wrap>
+<image-wrap id="102118184086MS-Img_SPi-13c">
+<imageLink type="mediaResource" href="102118184086MS_i_13c.tif" id="ImgLink-13c" />
+</image-wrap>
+<image-wrap id="102118184086MS-Img_SPi-13d">
+<imageLink type="mediaResource" href="102118184086MS_i_13d.tif" id="ImgLink-13d" />
+</image-wrap>
+<image-wrap id="102118184086MS-Img_SPi-13e">
+<imageLink type="mediaResource" href="102118184086MS_i_13e.tif" id="ImgLink-13e" />
+</image-wrap>
+<image-wrap id="102118184086MS-Img_SPi-13f">
+<imageLink type="mediaResource" href="102118184086MS_i_13f.tif" id="ImgLink-13f" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="6" pdf-page="14" figure-order="14" data-type-order="16">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr17">Figure 14 shows that, relative to the polymer flood cases that are shown in Figure 13, the surfactantpolymer flood scenarios lead to a less significant decrease in the rate of recovery when compared with the corresponding waterflood base cases. This is due to surfactant presence which increases water mobility and injectivity by modifying the water relative permeability.</anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118184086MS_i_14.tif" id="ImgLink-14" />
+<caption>Surfactant-polymer flood recovery factor versus time and cumulative injected volume of water for the inverted 5-, 9- and 7-spot patterns</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Surfactant-polymer flood recovery factor versus time and cumulative injected volume of water for the inverted 5-, 9- and 7-spot patterns</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118184086MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118184086MS_i_14a.tif" id="ImgLink-14a" />
+</image-wrap>
+<image-wrap id="102118184086MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118184086MS_i_14b.tif" id="ImgLink-14b" />
+</image-wrap>
+<image-wrap id="102118184086MS-Img_SPi-14c">
+<imageLink type="mediaResource" href="102118184086MS_i_14c.tif" id="ImgLink-14c" />
+</image-wrap>
+<image-wrap id="102118184086MS-Img_SPi-14d">
+<imageLink type="mediaResource" href="102118184086MS_i_14d.tif" id="ImgLink-14d" />
+</image-wrap>
+<image-wrap id="102118184086MS-Img_SPi-14e">
+<imageLink type="mediaResource" href="102118184086MS_i_14e.tif" id="ImgLink-14e" />
+</image-wrap>
+<image-wrap id="102118184086MS-Img_SPi-14f">
+<imageLink type="mediaResource" href="102118184086MS_i_14f.tif" id="ImgLink-14f" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="15" data-type-order="17">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr18">The inverted 7-spot pattern results were found to be more promising than those from the inverted 9-spot pattern. Figure 15 presents oil recovery versus cumulative water injection and clearly shows that, relative to waterflooding, polymer and surfactant-polymer injection can significantly increase oil recovery for a given volume of injected water.</anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118184086MS_i_15.tif" id="ImgLink-15" />
+<caption>Efficiency curves of the waterflood, polymer (3000 ppm) and surfactantpolymer( 3000 ppm for both chemicals) flood scenarios for the inverted 7-spot pattern</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Efficiency curves of the waterflood, polymer (3000 ppm) and surfactantpolymer( 3000 ppm for both chemicals) flood scenarios for the inverted 7-spot pattern</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="16" figure-order="16" data-type-order="19">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr19">The impact of pattern area was investigated for the pattern that resulted in the highest recovery factor which is the inverted 7-spot pattern. Three different spacing values were tested as illustrated in Figure 16. It should be noted that the previously reported results for the 7-spot pattern were based on a spacing of 80 m.</anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118184086MS_i_16.tif" id="ImgLink-16" />
+<caption>Inverted 7-spot pattern with different pattern areas</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Inverted 7-spot pattern with different pattern areas</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118184086MS-Img_SPi-16a">
+<imageLink type="mediaResource" href="102118184086MS_i_16a.tif" id="ImgLink-16a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>80-m-spaced pattern</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118184086MS-Img_SPi-16b">
+<imageLink type="mediaResource" href="102118184086MS_i_16b.tif" id="ImgLink-16b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>100-m-spaced pattern</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118184086MS-Img_SPi-16c">
+<imageLink type="mediaResource" href="102118184086MS_i_16c.tif" id="ImgLink-16c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>140-m-spaced pattern</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="17" data-type-order="20">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr20">Figures 17 and 18 present efficiency curves to show the relationship of the recovery factor and cumulative water injection for the polymer scenario (at a polymer concentration of 2000 ppm) and the surfactant-polymer scenario (at polymer concentration of 3000 ppm and a surfactant concentration of 2000 ppm) using the three above-mentioned pattern sizes. It can be noticed from Figures 17 and 18 that the pattern size barely impacts the efficiency curves as those curves seem to be exactly superimposed with varying pattern sizes. Nonetheless, the pattern size severely impacts the final recovery factor obtained after 20 years of simulation by influencing injection capacity.</anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118184086MS_i_17.tif" id="ImgLink-17" />
+<caption>Efficiency curve of the polymer flood scenario (injection at 2000 ppm) for the different areas of the inverted 7-spot pattern</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Efficiency curve of the polymer flood scenario (injection at 2000 ppm) for the different areas of the inverted 7-spot pattern</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="18" data-type-order="21">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr21">Figures 17 and 18 present efficiency curves to show the relationship of the recovery factor and cumulative water injection for the polymer scenario (at a polymer concentration of 2000 ppm) and the surfactant-polymer scenario (at polymer concentration of 3000 ppm and a surfactant concentration of 2000 ppm) using the three above-mentioned pattern sizes. It can be noticed from Figures 17 and 18 that the pattern size barely impacts the efficiency curves as those curves seem to be exactly superimposed with varying pattern sizes. Nonetheless, the pattern size severely impacts the final recovery factor obtained after 20 years of simulation by influencing injection capacity.</anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118184086MS_i_18.tif" id="ImgLink-18" />
+<caption>Efficiency curve of the surfactantpolymer flood scenario (injection at 3000 ppm of surfactant and 3000 ppm of polymer) for the different areas of the inverted 7-spot pattern</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Efficiency curve of the surfactantpolymer flood scenario (injection at 3000 ppm of surfactant and 3000 ppm of polymer) for the different areas of the inverted 7-spot pattern</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="19" data-type-order="22">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr22">This economic indicator is expressed in US dollars (cost of chemicals only) per additional barrel of oil relative to waterflooding. Although it does not account for capital investment, this indicator gives a preliminary idea about the economic feasibility of different chemical flooding scenarios. For example, Figure 19 presents a plot showing the relationship between the final recovery factor and the abovementioned economic indicator for the EOR scenarios that were simulated using the 80m-spaced inverted 7-spot pattern.</anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118184086MS_i_19.tif" id="ImgLink-19" />
+<caption>Overview of the EOR scenarios using the 80m-spaced inverted 7-spot pattern</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Overview of the EOR scenarios using the 80m-spaced inverted 7-spot pattern</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="20" data-type-order="23">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr23"> </anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-20">
+<imageLink type="mediaResource" href="102118184086MS_i_20.tif" id="ImgLink-20" />
+<caption>Relative Permeability Endpoints Variation</caption>
+<formatted-caption>
+<caption-text>Relative Permeability Endpoints Variation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="22" figure-order="21" data-type-order="24">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr24"> </anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-21">
+<imageLink type="mediaResource" href="102118184086MS_i_21.tif" id="ImgLink-21" />
+<caption />
+<formatted-caption>
+<caption-text />
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="23" figure-order="22" data-type-order="25">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr25"> </anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-22">
+<imageLink type="mediaResource" href="102118184086MS_i_22.tif" id="ImgLink-22" />
+<caption />
+<formatted-caption>
+<caption-text />
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="23" figure-order="23" data-type-order="26">
+<link href="link-23" type="image" />
+<appendix>
+<linkTarget id="link-23" type="image">
+<anchoringText id="Ancr26"> </anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-23">
+<imageLink type="mediaResource" href="102118184086MS_i_23.tif" id="ImgLink-23" />
+<caption />
+<formatted-caption>
+<caption-text />
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="24" figure-order="24" data-type-order="27">
+<link href="link-24" type="image" />
+<appendix>
+<linkTarget id="link-24" type="image">
+<anchoringText id="Ancr27"> </anchoringText>
+<image-wrap id="102118184086MS-Img_SPi-24">
+<imageLink type="mediaResource" href="102118184086MS_i_24.tif" id="ImgLink-24" />
+<caption />
+<formatted-caption>
+<caption-text />
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

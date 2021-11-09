@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118188519MS.txt" extractionDate="2021-03-26T12:27:07Z">
+<doi>10.2118/188519-MS</doi>
+<pii>10.2118/188519-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="3" table-order="1" data-type-order="1">
+<table-wrap id="102118188519MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Figures: 1, 2 and table 1 illustrate a geological overview of subject reservoir.</anchoringText>
+<label>Table 1</label>
+<caption>Layer X properties</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Layer X properties</caption-text>
+</formatted-caption>
+<table id="102118188519MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Properties</th>
+<th valign="top" align="center">Reservoir</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">
+<b>Layer/Zone</b>
+</td>
+<td valign="top" align="center">
+<b>layer-X</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Zone Thickness (ft.)</b>
+</td>
+<td valign="top" align="center">22 - 30</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Porosity (%)</b>
+</td>
+<td valign="top" align="center">11 - 24</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Permeability (md)</b>
+</td>
+<td valign="top" align="center">15 - 160</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Initial Reservoir Pressure (psi) @ Datum</b>
+</td>
+<td valign="top" align="center">4200</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Current Reservoir Pressure (psi) @ Datum</b>
+</td>
+<td valign="top" align="center">2850-3700</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

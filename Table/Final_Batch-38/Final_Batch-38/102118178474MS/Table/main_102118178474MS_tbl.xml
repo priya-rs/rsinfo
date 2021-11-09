@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118178474MS.txt" extractionDate="2021-03-19T14:54:41Z">
+<doi>10.2118/178474-MS</doi>
+<pii>10.2118/178474-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="10" table-order="1" data-type-order="12">
+<table-wrap id="102118178474MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">A robust surveillance acquisition process and careful analyses of these data are required to adequately understand a brownfield waterflood reservoir system. Dynamic simulation models for evaluating devel-opment opportunities in this type of mature fields need to be calibrated with adequate surveillance data. Table 1 and 2 summarize the production rates of benefitting wells prior and after completions of the water injectors.</anchoringText>
+<label>Table 1</label>
+<caption>Initial Incremental in Reservoir X01 (BOPD)</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Initial Incremental in Reservoir X01 (BOPD)</caption-text>
+</formatted-caption>
+<table id="102118178474MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Well</th>
+<th valign="top" align="center">Before Inj-03i Injection</th>
+<th valign="top" align="center">After Inj-03i Injection</th>
+<th valign="top" align="center">Incremental Rate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Pr 1</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">999</td>
+<td valign="top" align="center">999</td>
+</tr>
+<tr>
+<td valign="top" align="left">Pr 2</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">1,473</td>
+<td valign="top" align="center">1,473</td>
+</tr>
+<tr>
+<td valign="top" align="left">Pr 3</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">153</td>
+</tr>
+<tr>
+<td valign="top" align="left">Pr 4</td>
+<td valign="top" align="center">939</td>
+<td valign="top" align="center">1,142</td>
+<td valign="top" align="center">203</td>
+</tr>
+<tr>
+<td valign="top" align="left">Pr 5</td>
+<td valign="top" align="center">313</td>
+<td valign="top" align="center">394</td>
+<td valign="top" align="center">81</td>
+</tr>
+<tr>
+<td valign="top" align="left">Pr 6</td>
+<td valign="top" align="center">805</td>
+<td valign="top" align="center">1,579</td>
+<td valign="top" align="center">774</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">Total</td>
+<td valign="top" align="center">3,683</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="10" table-order="2" data-type-order="13">
+<table-wrap id="102118178474MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">A robust surveillance acquisition process and careful analyses of these data are required to adequately understand a brownfield waterflood reservoir system. Dynamic simulation models for evaluating devel-opment opportunities in this type of mature fields need to be calibrated with adequate surveillance data. Table 1 and 2 summarize the production rates of benefitting wells prior and after completions of the water injectors.</anchoringText>
+<label>Table 2</label>
+<caption>Initial Incremental in Reservoir X02 (BOPD)</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Initial Incremental in Reservoir X02 (BOPD)</caption-text>
+</formatted-caption>
+<table id="102118178474MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Well</th>
+<th valign="top" align="center">Before Inj-05i Injection</th>
+<th valign="top" align="center">After Inj-05i Injection</th>
+<th valign="top" align="center">Incremental Rate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Pr 7</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">723</td>
+<td valign="top" align="center">723</td>
+</tr>
+<tr>
+<td valign="top" align="left">Pr 8</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">1,399</td>
+<td valign="top" align="center">1,399</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">Total</td>
+<td valign="top" align="center">2122</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

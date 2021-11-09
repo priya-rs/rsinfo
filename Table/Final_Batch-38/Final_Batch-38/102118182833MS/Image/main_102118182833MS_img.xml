@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118182833MS.txt" extractionDate="2021-03-23T08:22:48Z">
+<doi>10.2118/182833-MS</doi>
+<pii>10.2118/182833-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr8">The offshore Manifa oil field was discovered in 1957. It is located in the Arabian Gulf (Figure 1) approximately 200 km northwest of Dhahran. The entire field measures approximately 45 km in length and 18 km in width, encompassing both onshore and offshore areas with water depths between 4 and 6 m (Carpenter, 2014). Production began in 1964, but due to low crude oil demand, production was stopped in 1984, and the facilities were mothballed in 1985.</anchoringText>
+<image-wrap id="102118182833MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118182833MS_i_1.tif" id="ImgLink-1" />
+<caption>Location of the Manifa offshore field in the Arabian Gulf.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Location of the Manifa offshore field in the Arabian Gulf.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr9">New technologies were pivotal and central to the Manifa field development; fit-for-purpose technologies were successfully implemented to overcome numerous challenges in a cost effective and environmentally friendly manner (Xia et al., 2014). The Manifa reservoir has five main layers, but only two of them are considered as reservoirs targeted for development. The two intervals contain both heavy oil and relatively lighter crude (Carpenter, 2014). A typical stratigraphy column (Pollastro et al., 2003) of the Arabian Gulf is shown in Figure 2.</anchoringText>
+<image-wrap id="102118182833MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118182833MS_i_2.tif" id="ImgLink-2" />
+<caption>General stratigraphy of the Arabian Gulf</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>General stratigraphy of the Arabian Gulf</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr10">Five wells were selected to conduct the geomechanical study. Figure 3 presents the location of the selected wells M-1, M-2, M-3, M-4, and M-5 along with location of the planned extended reach wells (P-1, P-2, P-3, P-4, and P-5) to be drilled in the near future.</anchoringText>
+<image-wrap id="102118182833MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118182833MS_i_3.tif" id="ImgLink-3" />
+<caption>Location of the wells selected for the geomechanical analysis (wells M-1, M-2, M-3, M-4, M-5). Wells P-1, P-2, P-3, P-4, P-5 to P-5 are the planned extended reach wells.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Location of the wells selected for the geomechanical analysis (wells M-1, M-2, M-3, M-4, M-5). Wells P-1, P-2, P-3, P-4, P-5 to P-5 are the planned extended reach wells.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr11">A general schematic workflow implemented in the current study to conduct the geomechanical analysis is shown in Figure 4. The fundamental approach for any geomechanical analysis is to integrate all available data or indications of rock strength, deformability, in-situ stress, pore pressure, etc., into a 1D-MEM, then to calibrate it as rigorously as possible using available measurements and observations to arrive at an internally consistent representation of the key geomechanical properties and parameters needed for subsequent analyses and engineering designs (Plumb et al., 2000).</anchoringText>
+<image-wrap id="102118182833MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118182833MS_i_4.tif" id="ImgLink-4" />
+<caption>The geomechanical analysis for the Manifa field: General workflow.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>The geomechanical analysis for the Manifa field: General workflow.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr12">The log data necessary for the geomechanical modeling existed in all five analyzed wells. Figure 5 presents the coverage of the open hole logs using the dataset for well M-3 as an example. It included gamma ray, density, porosity, sonic (compression and shear), resistivity, and caliper.</anchoringText>
+<image-wrap id="102118182833MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118182833MS_i_5.tif" id="ImgLink-5" />
+<caption>Well M-3: Open hole logs used as the input for 1D MEM.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Well M-3: Open hole logs used as the input for 1D MEM.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr13">In addition to the five selected vertical wells, drilling records from eleven lateral wells were analyzed to aid in identification of main reasons behind the wellbore instability-related issues while drilling. The extracted drilling events (stuck pipe, tight spot, losses, etc.) along with used mud weights were organized into time versus depth (TvD) plots created for all studied wells. Figure 6 shows the TvD plot for one of the analyzed lateral wells.</anchoringText>
+<image-wrap id="102118182833MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118182833MS_i_6.tif" id="ImgLink-6" />
+<caption>One of the analyzed lateral wells: Summary of the drilling events. The well was drilled with 72 ~ 76 pcf mud weight (OBM). Partial to total mud losses along with tight hole and hole pack-off incidents were recorded across various formations.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>One of the analyzed lateral wells: Summary of the drilling events. The well was drilled with 72 ~ 76 pcf mud weight (OBM). Partial to total mud losses along with tight hole and hole pack-off incidents were recorded across various formations.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="7" data-type-order="11">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr14">Occurrence of mud losses, stuck pipe incidents and tight holes did not depend on drilling direction (Figure 7). The majority of the most severe wellbore instability-related problems were experienced at wellbore inclinations higher than 60 degrees.</anchoringText>
+<image-wrap id="102118182833MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118182833MS_i_7.tif" id="ImgLink-7" />
+<caption>Analysis of losses (left plot) and stuck pipe (rightplot) incidents. The plots show that the losses observed while drilling do not depend on wellbore trajectory (azimuth and inclination). Stuck pipe insidents are encountered more often at wellbore deviations higher than 60 deg.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Analysis of losses (left plot) and stuck pipe (rightplot) incidents. The plots show that the losses observed while drilling do not depend on wellbore trajectory (azimuth and inclination). Stuck pipe insidents are encountered more often at wellbore deviations higher than 60 deg.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182833MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118182833MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order>(left plot)</caption-order>
+<caption-text>Analysis of losses</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182833MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118182833MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order>(rightplot)</caption-order>
+<caption-text>stuck pipe incidents </caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="8" data-type-order="12">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr15">The mechanical response and properties of shale and non-shale formations usually differ significantly (Figure 8). The classification of mechanical stratigraphy enables us to calculate the rock mechanical properties using different correlations, if needed. In the current study, the lithology included mainly carbonate, shale, and sandstone.</anchoringText>
+<image-wrap id="102118182833MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118182833MS_i_8.tif" id="ImgLink-8" />
+<caption>Simplified mechanical stratigraphy.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Simplified mechanical stratigraphy.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="9" data-type-order="13">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr16">The differentiation of non-shales from shales was achieved by applying a threshold of 50 gAPI to the gamma ray log in the analyzed wells. The developed mechanical stratigraphy (can be observed in Figure 9) was also validated with information provided in the available master/mud logs.</anchoringText>
+<image-wrap id="102118182833MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118182833MS_i_9.tif" id="ImgLink-9" />
+<caption>Well M-3: Input logs and rock mechanical properties profiles generated using the core-log correlations. The plot shows theb results of the laboratory measurements.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Well M-3: Input logs and rock mechanical properties profiles generated using the core-log correlations. The plot shows theb results of the laboratory measurements.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="10" data-type-order="15">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr17">Pore pressure is a vital constituent in 1D MEM, and is critical to the calculation of in-situ horizontal stresses. In the current study, pore pressure in the shales was estimated by Normal Compaction Technique (NCT) using Eaton’s method (Figure 10). The main input data was the compressional sonic log. The normal compaction trend was established based on the analysis of several wells in the area.</anchoringText>
+<image-wrap id="102118182833MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118182833MS_i_10.tif" id="ImgLink-10" />
+<caption>Well M-3: Pore pressure profile calibrated against the available measured pressure points.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Well M-3: Pore pressure profile calibrated against the available measured pressure points.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="11" data-type-order="16">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr18">The image data available in well M-3 was processed and interpreted. Figure 11 shows a composite plot with the results of the interpretation. Among other parameters, it presents orientation of the identified breakouts. As it is well known, breakouts are developed parallel to the minimum horizontal stress. The identified direction of the minimum horizontal stress is 110°NE as shown in Figure 12. This is in close agreement with the available regional stress data of the field.</anchoringText>
+<image-wrap id="102118182833MS-Img_SPi-11">
+<label>Figure 11(a)</label>
+<imageLink type="mediaResource" href="102118182833MS_i_11.tif" id="ImgLink-11" />
+<caption>Well M-3: Image data - Composite plot that shows the static and dynamic images along with open hole logs and 3D borehole shape.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11(a)</caption-order>
+<caption-text>Well M-3: Image data - Composite plot that shows the static and dynamic images along with open hole logs and 3D borehole shape.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="12" figure-order="12" data-type-order="17">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr19">The image data available in well M-3 was processed and interpreted. Figure 11 shows a composite plot with the results of the interpretation. Among other parameters, it presents orientation of the identified breakouts. As it is well known, breakouts are developed parallel to the minimum horizontal stress. The identified direction of the minimum horizontal stress is 110°NE as shown in Figure 12. This is in close agreement with the available regional stress data of the field.</anchoringText>
+<image-wrap id="102118182833MS-Img_SPi-12">
+<label>Figure 11(b)</label>
+<imageLink type="mediaResource" href="102118182833MS_i_12.tif" id="ImgLink-12" />
+<caption>Images across Maudud formation (from well M-3) where severe mud losses were reported, no karsification signature appearance on the image log as the interval was plugged with cement and LCM.Major findings from the image interpretation in well M-3 well are listed</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11(b)</caption-order>
+<caption-text>Images across Maudud formation (from well M-3) where severe mud losses were reported, no karsification signature appearance on the image log as the interval was plugged with cement and LCM.Major findings from the image interpretation in well M-3 well are listed</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182833MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118182833MS_i_12a.tif" id="ImgLink-12a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Maudud Formation</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182833MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118182833MS_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Shuaiba Formation</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="13" data-type-order="18">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr20">The image data available in well M-3 was processed and interpreted. Figure 11 shows a composite plot with the results of the interpretation. Among other parameters, it presents orientation of the identified breakouts. As it is well known, breakouts are developed parallel to the minimum horizontal stress. The identified direction of the minimum horizontal stress is 110°NE as shown in Figure 12. This is in close agreement with the available regional stress data of the field.</anchoringText>
+<image-wrap id="102118182833MS-Img_SPi-13">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118182833MS_i_13.tif" id="ImgLink-13" />
+<caption>Well M-3: Image data - Orientation of the identified borehole breakouts.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Well M-3: Image data - Orientation of the identified borehole breakouts.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="14" figure-order="14" data-type-order="19">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr21">This is further calibrated by increasing degrees, using as much information as is available, to achieve a final model that is internally consistent with and calibrated to all available data and stress indicators (Plona et al., 2002). The complete process is illustrated in Figure 13 (a).</anchoringText>
+<image-wrap id="102118182833MS-Img_SPi-14">
+<label>Figure 13(a)</label>
+<imageLink type="mediaResource" href="102118182833MS_i_14.tif" id="ImgLink-14" />
+<caption> General process for determining in-situ stress magnitudes at a single well location (b) profile of min horizontal stress magnitude calibrated using micro-frac test data. The track on the right shows profile for in-situ stresses (SigV, Sigh, and SigH).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13(a)</caption-order>
+<caption-text>General process for determining in-situ stress magnitudes at a single well location (b) profile of min horizontal stress magnitude calibrated using micro-frac test data. The track on the right shows profile for in-situ stresses (SigV, Sigh, and SigH).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182833MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118182833MS_i_14a.tif" id="ImgLink-14a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>General process for determining in-situ stress magnitudes at a single well location</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182833MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118182833MS_i_14b.tif" id="ImgLink-14b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>profile of min horizontal stress magnitude calibrated using micro-frac test data</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="15" data-type-order="20">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr22">The results of the wellbore stability analysis were organized into mud weight window. Figure 14 shows the mud weight window for well M-3 as an example.</anchoringText>
+<image-wrap id="102118182833MS-Img_SPi-15">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118182833MS_i_15.tif" id="ImgLink-15" />
+<caption>Well M-3: Mud weight window. The plot shows the measured pore pressure, closure and breakdown pressures.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Well M-3: Mud weight window. The plot shows the measured pore pressure, closure and breakdown pressures.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="17" figure-order="16" data-type-order="21">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr23">To evaluate the impact of deviation and azimuth on the trajectory-dependent parameters of the mud weight window, sensitivity analysis was conducted on critical depths across the problematic formations (especially shale and weak sandstone). Fig. 15 (a) shows the mud weight window versus well inclination for single depths in the Wara and Buwaib formations. Fig. 15 (b) presents stereo plots for the Aruma formation.</anchoringText>
+<image-wrap id="102118182833MS-Img_SPi-16">
+<label>Figure 15(a)</label>
+<imageLink type="mediaResource" href="102118182833MS_i_16.tif" id="ImgLink-16" />
+<caption> Well M-3: Mud weight window for a single depth.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15(a)</caption-order>
+<caption-text>Well M-3: Mud weight window for a single depth.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182833MS-Img_SPi-16a">
+<imageLink type="mediaResource" href="102118182833MS_i_16a.tif" id="ImgLink-16a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Wara Formation</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182833MS-Img_SPi-16b">
+<imageLink type="mediaResource" href="102118182833MS_i_16b.tif" id="ImgLink-16b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Buwaib Formation</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="17" figure-order="17" data-type-order="22">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr24">To evaluate the impact of deviation and azimuth on the trajectory-dependent parameters of the mud weight window, sensitivity analysis was conducted on critical depths across the problematic formations (especially shale and weak sandstone). Fig. 15 (a) shows the mud weight window versus well inclination for single depths in the Wara and Buwaib formations. Fig. 15 (b) presents stereo plots for the Aruma formation.</anchoringText>
+<image-wrap id="102118182833MS-Img_SPi-17">
+<label>Figure 15(b)</label>
+<imageLink type="mediaResource" href="102118182833MS_i_17.tif" id="ImgLink-17" />
+<caption>Well M-3: Stereonet plot of breakout and breakdown mud weight vs. orientation and deviation.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15(b)</caption-order>
+<caption-text>Well M-3: Stereonet plot of breakout and breakdown mud weight vs. orientation and deviation.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118182833MS-Img_SPi-17a">
+<imageLink type="mediaResource" href="102118182833MS_i_17a.tif" id="ImgLink-17a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Stereonet plot of breakout and breakdown mud weight</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118182833MS-Img_SPi-17b">
+<imageLink type="mediaResource" href="102118182833MS_i_17b.tif" id="ImgLink-17b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>orientation and deviation</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="18" data-type-order="24">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr25">Saudi Aramco provided trajectories and formation tops for five planned wells (P-1, P-2, P-3, P-4, and P-5) and requested to have optimized mud weight programs for safe drilling. Based on the results of the current geomechanical analysis, geomechanical modeling was conducted for the planned trajectories and recommendations for safe and stable drilling were issued (Figure 16).</anchoringText>
+<image-wrap id="102118182833MS-Img_SPi-18">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118182833MS_i_18.tif" id="ImgLink-18" />
+<caption>Planned ERD wells: wellbore inclinations and azimuths along with recommended mud weights.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Planned ERD wells: wellbore inclinations and azimuths along with recommended mud weights.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

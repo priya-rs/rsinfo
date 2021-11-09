@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185713MS.txt" extractionDate="2021-03-27T20:44:15Z">
+<doi>10.2118/185713-MS</doi>
+<pii>10.2118/185713-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure composite="true" composite-count="3" pdf-page="4" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">Solve the pressure equation for time ti+1 resulting in spatial pressure gradients assumed to be constant over Δti = ti + 1 - ti. Apply Darcy's Law to determine the velocity field for the underlying (static) grid and trace streamlines (Figure 1, left). Streamlines are assumed to be constant over Δti. Note that this is identical to the "Implicit Pressure" step in the traditional IMPES simulation approach.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-1">
+<label>Figure 1</label>
+<imageLink type="mediaResource" href="102118185713MS_i_1.tif" id="ImgLink-1" />
+<caption>On the left are the streamlines colored blue for the well-pair I3 to P7, to define the well-pair bundle. In the middle figure are gridcells in red that belong to the bundle. On the right, are the allocation factors for the well rates within the bundle.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>On the left are the streamlines colored blue for the well-pair I3 to P7, to define the well-pair bundle. In the middle figure are gridcells in red that belong to the bundle. On the right, are the allocation factors for the well rates within the bundle.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185713MS-Img_SPi-1a">
+<imageLink type="mediaResource" href="102118185713MS_i_1a.tif" id="ImgLink-1a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>On the are the streamlines colored blue for the well-pair I3 to P7, to define the well-pair bundle. </caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185713MS-Img_SPi-1b">
+<imageLink type="mediaResource" href="102118185713MS_i_1b.tif" id="ImgLink-1b" />
+<figure-specific-caption>
+<caption-order>middel</caption-order>
+<caption-text>In the middle figure are gridcells in red that belong to the bundle.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185713MS-Img_SPi-1c">
+<imageLink type="mediaResource" href="102118185713MS_i_1c.tif" id="ImgLink-1c" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>On the right, are the allocation factors for the well rates within the bundle.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="6" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">The model is initialized at a critical water saturation, Swc=0, which along with a non-uniform porosity distribution, gives the initial oil in place map shown in Figure 2 left. Areal permeability is also assumed to vary spatially. Next we run the model under a traditional streamline-based IMPES flow simulation and generate synthetic production and injection profiles for each well, as summarized for the field in Figure 2 bottom. Also included for reference is the flux-pattern map (FPMap) showing the well locations and producer-centered well rate allocation factors (Figure 2 right) at 10 days.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-2">
+<label>Figure 2</label>
+<imageLink type="mediaResource" href="102118185713MS_i_2.tif" id="ImgLink-2" />
+<caption>Initial oil-in-place volume distribution for a synthetic 2D model, left. Right is the producer well-rate allocation factors at 10-days. Bottom image is the simulated field total oil (green) and water production (blue) rates for the 7 producers.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Initial oil-in-place volume distribution for a synthetic 2D model, left. Right is the producer well-rate allocation factors at 10-days. Bottom image is the simulated field total oil (green) and water production (blue) rates for the 7 producers.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185713MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118185713MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>Initial oil-in-place volume distribution for a synthetic 2D model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185713MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118185713MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-order>Right</caption-order>
+<caption-text>Right is the producer well-rate allocation factors at 10-days.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185713MS-Img_SPi-2c">
+<imageLink type="mediaResource" href="102118185713MS_i_2c.tif" id="ImgLink-2c" />
+<figure-specific-caption>
+<caption-order>Bottom</caption-order>
+<caption-text>image is the simulated field total oil (green) and water production (blue) rates for the 7 producers.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="7" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">Figure 3 shows the water saturation maps that result from the two computation methods. The saturations as derived from a classic streamline-based flow simulation are shown in the top row; the saturations computed from PatMB are shown in the bottom row. The top row flow simulation results show the expected growth of the injected water as time increases (10, 20, 60 days). The bottom row of images is for the same timesteps and is the effective saturation (from Eq. 3) by applying material balance to the well-pair CVs and the synthetic historical injection/production rates (not shown) for each well. The TOF cutoff ensures that the material balance saturation is only applied to a portion of the bundle volume between each well-pair, which is why the saturation front appears to grow as time increases.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-3">
+<label>Figure 3</label>
+<imageLink type="mediaResource" href="102118185713MS_i_3.tif" id="ImgLink-3" />
+<caption>The upper row of images show the water saturation map for a simple oil/water flow simulation at 10, 20, and 60 days. The bottom row of images show the water saturation map for the same timesteps, but derived from our pattern material balance method. The same color scale is used for all results.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>The upper row of images show the water saturation map for a simple oil/water flow simulation at 10, 20, and 60 days. The bottom row of images show the water saturation map for the same timesteps, but derived from our pattern material balance method. The same color scale is used for all results.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185713MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118185713MS_i_3a.tif" id="ImgLink-3a" />
+<figure-specific-caption>
+<caption-order>upper</caption-order>
+<caption-text>The upper row of images show the water saturation map for a simple oil/water flow simulation at 10, 20, and 60 days</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185713MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118185713MS_i_3b.tif" id="ImgLink-3b" />
+<figure-specific-caption>
+<caption-order>Bottom</caption-order>
+<caption-text>The bottom row of images show the water saturation map for the same timesteps, but derived from our pattern material balance method.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="8" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">Shown in Figure 4 is a comparison between flow simulation (top row) and PatMB (bottom row) for the final timestep after 1 PVI. The left column images show the oil saturation, while the right column images show the Remaining Oil volume In Place (ROIP) distribution. In comparing the final oil saturations, there are clear differences between the two methods in that the PatMB approach lacks the gridcell-level detail of the flow simulation. However both methods show the trend of higher oil saturations on the west side of the model along with some unswept regions. Comparing the ROIP maps (right column) again reveals differences, but the unswept spots of high ROIP (red areas) are apparent in both methods.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-4">
+<label>Figure 4</label>
+<imageLink type="mediaResource" href="102118185713MS_i_4.tif" id="ImgLink-4" />
+<caption>The top row images show the water saturation (left) and the remaining oil volume in place (right) from the flow simulation model. The bottom row images show the water saturation (left) and remaining oil volume in place (right) for the well-pair material balance method. Blue is low oil saturation or low remaining oil volume, while red is high oil saturation or high remaining oil volume in place. All images are at 1 PVI in time.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>The top row images show the water saturation (left) and the remaining oil volume in place (right) from the flow simulation model. The bottom row images show the water saturation (left) and remaining oil volume in place (right) for the well-pair material balance method. Blue is low oil saturation or low remaining oil volume, while red is high oil saturation or high remaining oil volume in place. All images are at 1 PVI in time.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185713MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118185713MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>Top (left)</caption-order>
+<caption-text>The top row images show the water saturation</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185713MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118185713MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>Top right</caption-order>
+<caption-text>and the remaining oil volume in place</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185713MS-Img_SPi-4c">
+<imageLink type="mediaResource" href="102118185713MS_i_4c.tif" id="ImgLink-4c" />
+<figure-specific-caption>
+<caption-order>Bottom left</caption-order>
+<caption-text>The bottom row images show the water saturation</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185713MS-Img_SPi-4d">
+<imageLink type="mediaResource" href="102118185713MS_i_4d.tif" id="ImgLink-4d" />
+<figure-specific-caption>
+<caption-order>Bottom right</caption-order>
+<caption-text>and remaining oil volume in place (right) for the well-pair material balance method</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="9" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">This example contains 48 years of injection/production history with pattern waterflooding beginning 4 years after first production with a total of 18 injectors and 90 producers. The field had well rate adjustments, injector shut-ins, and producer injector conversions, all of which underscore that static, boxed-shape patterns would not work. The original OOIP grid was defined on a 161×63×1 grid cell model and is shown in Figure 5 left.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-5">
+<label>Figure 5</label>
+<imageLink type="mediaResource" href="102118185713MS_i_5.tif" id="ImgLink-5" />
+<caption>Initial oil volume in place for an 18 injector, 90 producer waterflood (left). Remaining oil volume in place after 48 years of waterflooding as computed from flow simulation (middle) and pattern material balance (right). The color scale is the same in all figures with blue areas representing low oil volumes and orange/red areas representing high oil volumes.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Initial oil volume in place for an 18 injector, 90 producer waterflood (left). Remaining oil volume in place after 48 years of waterflooding as computed from flow simulation (middle) and pattern material balance (right). The color scale is the same in all figures with blue areas representing low oil volumes and orange/red areas representing high oil volumes.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185713MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118185713MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>Initial oil volume in place for an 18 injector, 90 producer waterflood</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185713MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118185713MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>middel</caption-order>
+<caption-text>Remaining oil volume in place after 48 years of waterflooding as computed from flow simulation</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185713MS-Img_SPi-5c">
+<imageLink type="mediaResource" href="102118185713MS_i_5c.tif" id="ImgLink-5c" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>and pattern material balance</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">This example contains 48 years of injection/production history with pattern waterflooding beginning 4 years after first production with a total of 18 injectors and 90 producers. The field had well rate adjustments, injector shut-ins, and producer injector conversions, all of which underscore that static, boxed-shape patterns would not work. The original OOIP grid was defined on a 161×63×1 grid cell model and is shown in Figure 5 left.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-6">
+<label>Figure 5</label>
+<imageLink type="mediaResource" href="102118185713MS_i_6.tif" id="ImgLink-6" />
+<caption>Remaining oil in place (stacked over all model k-layers) after 50 years of production/injection for the flow simulation model (left) and the material balance method (right). Dark blue is low ROIP while red is high ROIP. (Note that horizontal streaks are an artifact on porosity from the geomodeling process)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Remaining oil in place (stacked over all model k-layers) after 50 years of production/injection for the flow simulation model (left) and the material balance method (right). Dark blue is low ROIP while red is high ROIP. (Note that horizontal streaks are an artifact on porosity from the geomodeling process)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185713MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118185713MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>Remaining oil in place (stacked over all model k-layers) after 50 years of production/injection for the flow simulation model</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185713MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118185713MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>and the material balance method</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">The main purpose of PatMB is to directly use the historical data to estimate the current fluid distributions. Shown in Figure 6 is the ROIP map and the remaining gas in-place (RGIP) map using the actual historical injection/production rates. As expected, we see areas of low and high ROIP. Recall that the PatMB approach requires no history matching in the traditional sense so long as the reservoir volume and initial conditions are approximately correct. For brevity, the volumes are shown stacked over all 6-layers, but as with a simulation</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-7">
+<label>Figure 6</label>
+<imageLink type="mediaResource" href="102118185713MS_i_7.tif" id="ImgLink-7" />
+<caption>Remaining oil in place (left) and remaining gas in place (right), stacked over all k-layers, after 50 years of injection/production history. Both images are computed from PatMB applied to the historical data. Dark blue areas are low ROIP and RGIP while red is high ROIP and RGIP.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Remaining oil in place (left) and remaining gas in place (right), stacked over all k-layers, after 50 years of injection/production history. Both images are computed from PatMB applied to the historical data. Dark blue areas are low ROIP and RGIP while red is high ROIP and RGIP.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185713MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118185713MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>Remaining oil in place</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185713MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118185713MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>and remaining gas in place</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">Figure 7 summarize the declining average reservoir pressure through time, from the starting point of 6000 psi. Recall that for PatMB, the pressure map computed using Eq. 5 at each time step is used as the initial pressure condition for Eq. 5 at the next time step, and never relies on a 3D pressure solution. For PatMB, this average pressure is slightly higher than the average pressure from flow simulation (blue line).</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-8">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118185713MS_i_8.tif" id="ImgLink-8" />
+<caption>A comparison of average reservoir pressure from flow simulation (blue), Pat-MB (red), and Pat-MB without applying Eq 4. Although not shown, field VRR=0.9.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>A comparison of average reservoir pressure from flow simulation (blue), Pat-MB (red), and Pat-MB without applying Eq 4. Although not shown, field VRR=0.9.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="12" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">There is no mass balance error with the PatMB calculation. As a second comparison for an average pressure calculation, we can ignored Eq. 5 completely and always used the pressure from the 3D pressure solve (always computed for streamline tracing). The result is the black line in Figure 8, which is lower still, is also not mass conservative, nor is it consistent with volumes added or removed from the model. This illustrates the importance of Eq. 5.</anchoringText>
+<image-wrap id="102118185713MS-Img_SPi-9">
+<label>Figure 8</label>
+<imageLink type="mediaResource" href="102118185713MS_i_9.tif" id="ImgLink-9" />
+<caption>Pressure distribution after 2000 days of production computed from PatMB (left) and from a 3D pressure solve (middle) that uses the pressure solution from PatMB as the initial condition. For comparison, the image on the right is from the standard compressible flow simulation. Injectors and high pressure areas are in blue while producers and low pressure areas are in red.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Pressure distribution after 2000 days of production computed from PatMB (left) and from a 3D pressure solve (middle) that uses the pressure solution from PatMB as the initial condition. For comparison, the image on the right is from the standard compressible flow simulation. Injectors and high pressure areas are in blue while producers and low pressure areas are in red.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185713MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118185713MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>Pressure distribution after 2000 days of production computed from PatMB (left) and from a 3D pressure solve</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185713MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118185713MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order>middel</caption-order>
+<caption-text>uses the pressure solution from PatMB as the initial condition.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185713MS-Img_SPi-9c">
+<imageLink type="mediaResource" href="102118185713MS_i_9c.tif" id="ImgLink-9c" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>For comparison, the image on the</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

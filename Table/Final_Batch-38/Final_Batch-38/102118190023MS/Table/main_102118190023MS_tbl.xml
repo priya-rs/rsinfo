@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190023MS.txt" extractionDate="2021-03-30T15:15:55Z">
+<doi>10.2118/190023-MS</doi>
+<pii>10.2118/190023-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="15" table-order="1" data-type-order="14">
+<table-wrap id="102118190023MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Table 1 summarizes the typical parameters utilized in the geomechanics model, which were collected from field work. Stage 2 was the target candidate for fracturing in the planned restimulation. Prior to field execution, the coupled geomechanical and reservoir model was used to predict the re-fracturing performance and identify potential risks by varying diverter designs. During refracturing, all the pre-defined clusters with well propagated fractures were opened simultaneously for fracturing fluid flow.</anchoringText>
+<label>Table 1</label>
+<caption>Simulation settings for hydraulic fracturing modeling</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Simulation settings for hydraulic fracturing modeling</caption-text>
+</formatted-caption>
+<table id="102118190023MS-Tbl_SPi-1" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="left">Young’s modulus</td>
+<td valign="top" align="left">5,300 ksi</td>
+</tr>
+<tr>
+<td valign="top" align="left">Poisson’s ratio</td>
+<td valign="top" align="left">0.2</td>
+</tr>
+<tr>
+<td valign="top" align="left">Matrix permeability</td>
+<td valign="top" align="left">1,000 nd</td>
+</tr>
+<tr>
+<td valign="top" align="left">Stress intensity factor (KIC)</td>
+<td valign="top" align="left">2,275 psi-inch<sup>0.5</sup>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Model size and thickness</td>
+<td valign="top" align="left">1,000 ft * 2,000 ft * 328 ft</td>
+</tr>
+<tr>
+<td valign="top" align="left">Reservoir depth (TVD)</td>
+<td valign="top" align="left">8,600 ft</td>
+</tr>
+<tr>
+<td valign="top" align="left">Minimal horizontal stress (Shmin)</td>
+<td valign="top" align="left">8,600 psi</td>
+</tr>
+<tr>
+<td valign="top" align="left">Maximum horizontal stress (SHmax)</td>
+<td valign="top" align="left">8,800 psi</td>
+</tr>
+<tr>
+<td valign="top" align="left">Initial reservoir pressure</td>
+<td valign="top" align="left">4,300 psi</td>
+</tr>
+<tr>
+<td valign="top" align="left">Peroration density</td>
+<td valign="top" align="left">6 SPF</td>
+</tr>
+<tr>
+<td valign="top" align="left">Peroration length per cluster</td>
+<td valign="top" align="left">3 ft</td>
+</tr>
+<tr>
+<td valign="top" align="left">Perforation hole size diameter</td>
+<td valign="top" align="left">0.4 inch</td>
+</tr>
+<tr>
+<td valign="top" align="left">Perforation discharge coefficient</td>
+<td valign="top" align="left">0.56</td>
+</tr>
+<tr>
+<td valign="top" align="left">Injection rate</td>
+<td valign="top" align="left">70 bpm</td>
+</tr>
+<tr>
+<td valign="top" align="left">Injection time per stage</td>
+<td valign="top" align="left">1 hr</td>
+</tr>
+<tr>
+<td valign="top" align="left">Fluid viscosity</td>
+<td valign="top" align="left">5 cp</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

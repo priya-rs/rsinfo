@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189342MS.txt" extractionDate="2021-03-26T17:51:20Z">
+<doi>10.2118/189342-MS</doi>
+<pii>10.2118/189342-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr2"> </anchoringText>
+<image-wrap id="102118189342MS-Img_SPi-1">
+<imageLink type="mediaResource" href="102118189342MS_i_1.tif" id="ImgLink-1" />
+<caption />
+<formatted-caption>
+<caption-text />
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr3"> </anchoringText>
+<image-wrap id="102118189342MS-Img_SPi-2">
+<imageLink type="mediaResource" href="102118189342MS_i_2.tif" id="ImgLink-2" />
+<caption />
+<formatted-caption>
+<caption-text />
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr4"> </anchoringText>
+<image-wrap id="102118189342MS-Img_SPi-3">
+<imageLink type="mediaResource" href="102118189342MS_i_3.tif" id="ImgLink-3" />
+<caption>H2S Coupons Tool String</caption>
+<formatted-caption>
+<caption-text>H2S Coupons Tool String</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

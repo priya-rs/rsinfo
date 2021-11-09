@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189042MS.txt" extractionDate="2021-03-29T10:59:39Z">
+<doi>10.2118/189042-MS</doi>
+<pii>10.2118/189042-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">This type of deformation can be met in tangential-longitudinal folding type [J.G.Ramsay, 1967] when a fold core undergoes significant compression stress in lateral direction. Seismic images prove the assumption that the studied folds belong to this type of folding (Figure 1). The fact that all mud volcanoes, erupted in the area, are connected with this zone proves our assumption. The deformation zone is traced continuously along folds axis at the depth corresponding to pre-Fasila series latitude, thus providing reservoir division at least into two blocks – northern and southern. Impermeability of such zones is relative. The long-lasting formation pressure monitoring in wells drilled in the reservoir blocks initially disconnected by similar flow barriers demonstrate that the wells start interfering at the later development stage [Ibrahimov, T., 2015].</anchoringText>
+<image-wrap id="102118189042MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118189042MS_i_1.tif" id="ImgLink-1" />
+<caption>Tangential longitudinal folding in Middle structure</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Tangential longitudinal folding in Middle structure</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">Another important seismic interpretation output is the failure to trace any faults cross-oriented to long fold’s axis. All features looked liked cross-oriented rock discontinuities in seismic images appeared to be the ends of fold elongated thrusts curved towards fold’s axis at the folds adjacent zones like it is shown in Figure 2. Thus fluid flow across these zones though strongly deteriorated still stayed possible. This assumption led to the conclusion that 20 years of Adjacent field development might have affected neighboring North-West area and less probably Middle area. To account for this effect we modeled the studied field together with Adjacent field considering them as a single production object</anchoringText>
+<image-wrap id="102118189042MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118189042MS_i_2.tif" id="ImgLink-2" />
+<caption>Middle-SE structures junction area</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Middle-SE structures junction area</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3"> </anchoringText>
+<image-wrap id="102118189042MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118189042MS_i_3.tif" id="ImgLink-3" />
+<caption>Scheme of modeling algorithm</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Scheme of modeling algorithm</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">This convinced us to build the structural model by adding formation thicknesses to a reference surface which was Fasila B unit top. It modified the algorithm of total TVD error assessment. This time the target surface uncertainty was defined as a sum of a reference surface uncertainty, a conversion error accumulated at the distance from the reference surface to the target surface, and tracing errors of the both surfaces. As an example the scheme of uncertainty envelope assessment for Upper unit top surface is given in Figure 4. The orange dotted line in the scheme describes the finite Upper unit top uncertainty envelope.</anchoringText>
+<image-wrap id="102118189042MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118189042MS_i_4.tif" id="ImgLink-4" />
+<caption>Scheme of structural uncertainty calculation for Upper unit top surface: a) definition of seismic interpretation error; b) calculation of structural modeling error</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Scheme of structural uncertainty calculation for Upper unit top surface: a) definition of seismic interpretation error; b) calculation of structural modeling error</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189042MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118189042MS_i_4a.tif" id="ImgLink-4a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>definition of seismic interpretation error</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189042MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118189042MS_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>calculation of structural modeling error</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="5" pdf-page="7" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">The example of trend variation range for Upper unit is given in Figure 5. The NTG trend is defined by linear function y= Ax+B, where B stands for the average NTG value at Adjacent area, and A stands for the reservoir deterioration intensity. All possible trend variations lay between red (optimistic) and violet (pessimistic) lines.</anchoringText>
+<image-wrap id="102118189042MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118189042MS_i_5.tif" id="ImgLink-5" />
+<caption>NTG trend variation in Upper unit: a) determination of the distance along the sediment transportation vector (x); b) optimistic and pessimistic log interpretation of net thickness; c) variation range of NTG =f(x) function; d) and e) optimistic and pessimistic net distribution realizations</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>NTG trend variation in Upper unit: a) determination of the distance along the sediment transportation vector (x); b) optimistic and pessimistic log interpretation of net thickness; c) variation range of NTG =f(x) function; d) and e) optimistic and pessimistic net distribution realizations</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189042MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118189042MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>determination of the distance along the sediment transportation vector (x)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189042MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118189042MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>optimistic and pessimistic log interpretation of net thickness</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189042MS-Img_SPi-5c">
+<imageLink type="mediaResource" href="102118189042MS_i_5c.tif" id="ImgLink-5c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>variation range of NTG =f(x) function</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189042MS-Img_SPi-5d">
+<imageLink type="mediaResource" href="102118189042MS_i_5d.tif" id="ImgLink-5d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>optimistic and pessimistic net distribution realizations</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189042MS-Img_SPi-5e">
+<imageLink type="mediaResource" href="102118189042MS_i_5e.tif" id="ImgLink-5e" />
+<figure-specific-caption>
+<caption-order>e</caption-order>
+<caption-text>optimistic and pessimistic net distribution realizations</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">Since the upper sections of the studied structures had been preferably tested and gas inflows were mostly met we could not apply here the same technique as we did for Adjacent field. So, in all blocks of the studied field we set the lowest position of GOC variation equal to the deepest one defined at the Adjacent area while the highest positions were defined as the bottom of the lowest tested gas- bearing reservoir in each block. As OWC depth depends on GOC position the OWC variation ranges were defined through oil rim height variations. The Figure 6 illustrates the described approach. A type of contact depths distribution depended on the quantity of data the variation range definitions were based on - the normal distribution was applied for developed blocks, the triangular distribution for explored blocks, the uniform distribution for blocks where hydrocarbon pools presence had been in question yet.</anchoringText>
+<image-wrap id="102118189042MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118189042MS_i_6.tif" id="ImgLink-6" />
+<caption>GOC and OWC variation in the blocks</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>GOC and OWC variation in the blocks</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">The obtained data were used to get three sets of points describing a base function, and functions matching the standard deviation toward pessimistic and optimistic scenarios. The resulted exponential functions then were converted by logarithm into the shape that allowed expressing the difference between the functions by variation of only one modifier, named z in the formula given in Figure 7. The Three Sigma Rule was applied to define extreme deviations from the base variant. The modifier equaled 0 in a base scenario and±1 in extreme these.</anchoringText>
+<image-wrap id="102118189042MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118189042MS_i_7.tif" id="ImgLink-7" />
+<caption>Permeability function variation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Permeability function variation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">In the Figure 8 the example of applied curves variation ranges for fluid phases in a gas-oil and water-oil flow systems is given. The first calculation runs, however, showed that the end points and the parameter describing curves behavior in the lower part of the plot (L-parameter) affected the simulated production data much stronger then other. So, finely, to simplify calculation algorithm we fixed all other parameters except residual oil saturations in gas-oil and oil-water systems, irresduciable water saturation and L-parameters for the water and oil curves in the oil-water system, the gas and oil curves in the gas-oil system.</anchoringText>
+<image-wrap id="102118189042MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118189042MS_i_8.tif" id="ImgLink-8" />
+<caption>Relative phase permeability variation ranges in a) gas-oil and b) water-oil fluid systems</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Relative phase permeability variation ranges in a) gas-oil and b) water-oil fluid systems</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189042MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118189042MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>gas-oil</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189042MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118189042MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>water-oil fluid systems</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">Since we did not have enough information to asses gas pressure loss in wells we could not use the measured wellhead pressures as history match criteria, so we used pressure derivatives instead. The measured pressure data were approximated before by linear functions. We simulated field development with gas or liquid production control limit, thus only water cut and pressure derivative reflected production uncertainty in full extent and served as main criteria of simulation quality. In Figure 9 and Figure 10 examples of simulation outputs and factual data matching are given. The black dots and arrows show the estimator match points and corresponding accepted history match quality range, which are used to define likelihood functions for following posterior calculations.</anchoringText>
+<image-wrap id="102118189042MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118189042MS_i_9.tif" id="ImgLink-9" />
+<caption>Simulated and measured water cut for well A-208</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Simulated and measured water cut for well A-208</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">Since we did not have enough information to asses gas pressure loss in wells we could not use the measured wellhead pressures as history match criteria, so we used pressure derivatives instead. The measured pressure data were approximated before by linear functions. We simulated field development with gas or liquid production control limit, thus only water cut and pressure derivative reflected production uncertainty in full extent and served as main criteria of simulation quality. In Figure 9 and Figure 10 examples of simulation outputs and factual data matching are given. The black dots and arrows show the estimator match points and corresponding accepted history match quality range, which are used to define likelihood functions for following posterior calculations.</anchoringText>
+<image-wrap id="102118189042MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118189042MS_i_10.tif" id="ImgLink-10" />
+<caption>Simulated and measured a) wellhead pressure for well A-69; b) wellhead pressure derivative for well A-69</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Simulated and measured a) wellhead pressure for well A-69; b) wellhead pressure derivative for well A-69</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189042MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118189042MS_i_10a.tif" id="ImgLink-10a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>wellhead pressure for well A-69</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189042MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118189042MS_i_10b.tif" id="ImgLink-10b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>wellhead pressure derivative for well A-69</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">The rough scheme of gathering and transportation system is given in Figure 11</anchoringText>
+<image-wrap id="102118189042MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118189042MS_i_11.tif" id="ImgLink-11" />
+<caption>Draft scheme of the gathering system</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Draft scheme of the gathering system</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="13" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">As project outputs of the geomodeling stage we have got 300 realizations of the geomodel differing in GIIP volume. The obtained GIIP distribution is shown in Figure 12. The volume variation corresponding to P10 and P90 realizations reached approximately ±20%. As it is seen on the pay thickness maps the unexplored in South-East area Lower unit made the greatest contribution to GIIP uncertainty.</anchoringText>
+<image-wrap id="102118189042MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118189042MS_i_12.tif" id="ImgLink-12" />
+<caption>GIIP distribution GIIP distribution Upper unit probable gas pay thickness Lower unit probable gas pay thickness</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>GIIP distribution GIIP distribution Upper unit probable gas pay thickness Lower unit probable gas pay thickness</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189042MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118189042MS_i_12a.tif" id="ImgLink-12a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>GIIP distribution</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189042MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118189042MS_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Upper unit probable gas pay thickness</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189042MS-Img_SPi-12c">
+<imageLink type="mediaResource" href="102118189042MS_i_12c.tif" id="ImgLink-12c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>Lower unit probable gas pay thickness</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="13" data-type-order="13">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr13">All considered variants of a production solution were firstly tested on a base model built using mean values of the geological and filtration variables. A simple economic model was applied to asses every field development variant unless it wasn’t obviously unprofitable. The best variant in terms of economic indexes was applied to calculate a prediction simulation ensemble, which in its turn was used to define a pessimistic scenario (P90) for the chosen depletion plan. If the pessimistic scenario appeared to be still profitable this plan was accepted as recommended one. Otherwise, the variant was discarded, the next best, in terms of profitability, variant was tested in multi-realization calculation. The draft scheme of the algorithm is given in Figure 13.</anchoringText>
+<image-wrap id="102118189042MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118189042MS_i_13.tif" id="ImgLink-13" />
+<caption>Scheme of field development planning</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Scheme of field development planning</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="15" figure-order="14" data-type-order="14">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr14">These points were used to pick the simulation realizations that better approximated defined P90 and P10 parameter values (yellow and violet profiles in Figure 14-a, b). The method of least squares was applied to make the choice. The visible shift of the chosen scenarios upward relative to the whole range of the simulation profiles is a result of the posterior correction respected in proxy-modeling calculations, while the whole range tends to describe a prior parameter distribution. The realization approximated P90 points was considered to be a pessimistic scenario.</anchoringText>
+<image-wrap id="102118189042MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118189042MS_i_14.tif" id="ImgLink-14" />
+<caption>Predicted production profiles a) total cumulative gas production at Middle platform; b) total cumulative gas production at S-E platform; c) total field cumulative gas production; d) total field yearly gas production</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Predicted production profiles a) total cumulative gas production at Middle platform; b) total cumulative gas production at S-E platform; c) total field cumulative gas production; d) total field yearly gas production</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189042MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118189042MS_i_14a.tif" id="ImgLink-14a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>total cumulative gas production at Middle platform</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189042MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118189042MS_i_14b.tif" id="ImgLink-14b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>total cumulative gas production at S-E platform</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189042MS-Img_SPi-14c">
+<imageLink type="mediaResource" href="102118189042MS_i_14c.tif" id="ImgLink-14c" />
+<figure-specific-caption>
+<caption-order>c</caption-order>
+<caption-text>total field cumulative gas production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189042MS-Img_SPi-14d">
+<imageLink type="mediaResource" href="102118189042MS_i_14d.tif" id="ImgLink-14d" />
+<figure-specific-caption>
+<caption-order>d</caption-order>
+<caption-text>total field yearly gas production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

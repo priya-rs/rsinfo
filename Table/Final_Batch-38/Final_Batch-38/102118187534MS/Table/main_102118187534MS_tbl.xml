@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187534MS.txt" extractionDate="2021-03-26T19:38:21Z">
+<doi>10.2118/187534-MS</doi>
+<pii>10.2118/187534-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="2" table-order="1" data-type-order="2">
+<table-wrap id="102118187534MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Conducting these studies has proven to be a challenging task, especially for unconventional tight rock formations due to the large amount of assumptions necessary to achieve an acceptable history match. Examples of input parameters for reservoir simulation are listed in Table 1; each parameter comes with associated assumptions and limitations. This paper will focus on the importance of properly defining the correct fluid window as well as the impact of changing PVT parameters in the history matching process.</anchoringText>
+<label>Table 1</label>
+<caption>Input modeling parameters for reservoir modelling</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Input modeling parameters for reservoir modelling</caption-text>
+</formatted-caption>
+<table id="102118187534MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Rock and Fluid Properties</th>
+<th valign="top" align="center">Completions</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Relative Permeability</td>
+<td valign="top" align="center">Fracture Dimensions</td>
+</tr>
+<tr>
+<td valign="top" align="center">Petrophysical Properties</td>
+<td valign="top" align="center">Cluster Efficiency</td>
+</tr>
+<tr>
+<td valign="top" align="center">Geomechanical Coefficients</td>
+<td valign="top" align="center">Proppant Concentrations</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>Hydrocarbon phase/Fluid window</b>
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="3" table-order="2" data-type-order="3">
+<table-wrap id="102118187534MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Reservoir lithology is shaly sandstone with thin interbedded shale laminations. Matrix mineralogy is primarily quartz and clays (mica/illite) and intermittent calcite cement. A petrophysical model was developed using core analyses, open-hole logs, and reservoir properties mapped across the field. Reservoir and petrophysical parameters are listed in Tables 2 and 3 respectively.</anchoringText>
+<label>Table 2</label>
+<caption>Reservoir Parameters</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Reservoir Parameters</caption-text>
+</formatted-caption>
+<table id="102118187534MS-Tbl_SPi-2" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="left">Depth</td>
+<td valign="top" align="left">9,100’ - 10,500’ TVD</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Temperature</b>
+</td>
+<td valign="top" align="left">208° - 225° F</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Pressure Gradient</b>
+</td>
+<td valign="top" align="left">0.53 -0.57 psi/ft</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Pressures</b>
+</td>
+<td valign="top" align="left">4,500 - 5,700 psi</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Oil Gravity</b>
+</td>
+<td valign="top" align="left">40° - 48°</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>GOR</b>
+</td>
+<td valign="top" align="left">700 - 3,000 scf/bbl</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Formation Volume Factor</b>
+</td>
+<td valign="top" align="left">1.53 - 2.1 (bbl/stb)</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>OOIP (entire field)</b>
+</td>
+<td valign="top" align="left">274 MMBO</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Expected RF</b>
+</td>
+<td valign="top" align="left">10 - 15% (OOIP)</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="3" table-order="3" data-type-order="4">
+<table-wrap id="102118187534MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Reservoir lithology is shaly sandstone with thin interbedded shale laminations. Matrix mineralogy is primarily quartz and clays (mica/illite) and intermittent calcite cement. A petrophysical model was developed using core analyses, open-hole logs, and reservoir properties mapped across the field. Reservoir and petrophysical parameters are listed in Tables 2 and 3 respectively.</anchoringText>
+<label>Table 3</label>
+<caption>Range of Petrophysical Parameters</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Range of Petrophysical Parameters</caption-text>
+</formatted-caption>
+<table id="102118187534MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Rock properties</th>
+<th valign="top" align="center">Low</th>
+<th valign="top" align="center">Mid.</th>
+<th valign="top" align="center">High</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Velay</td>
+<td valign="top" align="center">19%</td>
+<td valign="top" align="center">25%</td>
+<td valign="top" align="center">31%</td>
+</tr>
+<tr>
+<td valign="top" align="left">Porosity</td>
+<td valign="top" align="center">5%</td>
+<td valign="top" align="center">7%</td>
+<td valign="top" align="center">10%</td>
+</tr>
+<tr>
+<td valign="top" align="left">Water Saturation</td>
+<td valign="top" align="center">26%</td>
+<td valign="top" align="center">34%</td>
+<td valign="top" align="center">42%</td>
+</tr>
+<tr>
+<td valign="top" align="left">Effective Permeability (nD)</td>
+<td valign="top" align="center">112</td>
+<td valign="top" align="center">850</td>
+<td valign="top" align="center">2065</td>
+</tr>
+<tr>
+<td valign="top" align="left">Target Zone</td>
+<td valign="top" align="center">14’</td>
+<td valign="top" align="center">28’</td>
+<td valign="top" align="center">44’</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="4" table-order="4" data-type-order="5">
+<table-wrap id="102118187534MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">All wells were completed with the same cluster spacing and clusters per stage. Average treatments consisted of 57 bpm pumping rates, 3,920 bbl fluid/stage, and max proppant concentration of 5 lbs/gallon. An average of 382,000 lbs proppant/stage and average treating pressure of 5,350 psi were used during the completion. Completion execution went as per design (Table 4).</anchoringText>
+<label>Table 4</label>
+<caption>Completion Design</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Completion Design</caption-text>
+</formatted-caption>
+<table id="102118187534MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th align="center">Well</th>
+<th align="center">Completion Date</th>
+<th align="center">Ave Rate/Stage bpm</th>
+<th align="center">Ave Fluid/Stage bbl</th>
+<th align="center">Prop. Concentration lbs/gal</th>
+<th align="center">Ave Proppant/Stage lbs</th>
+<th align="center">Ave Treating Pressure psi</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">
+<b>1A</b>
+</td>
+<td valign="top" align="center">October-14</td>
+<td valign="top" align="center">60</td>
+<td valign="top" align="center">5,460</td>
+<td valign="top" align="center">4</td>
+<td valign="top" align="center">410,200</td>
+<td valign="top" align="center">4,150</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>1B</b>
+</td>
+<td valign="top" align="center">May-15</td>
+<td valign="top" align="center">57</td>
+<td valign="top" align="center">3,230</td>
+<td valign="top" align="center">5</td>
+<td valign="top" align="center">380,000</td>
+<td valign="top" align="center">6,745</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>2B</b>
+</td>
+<td valign="top" align="center">May-15</td>
+<td valign="top" align="center">57</td>
+<td valign="top" align="center">3,505</td>
+<td valign="top" align="center">5</td>
+<td valign="top" align="center">391,000</td>
+<td valign="top" align="center">5,145</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>3B</b>
+</td>
+<td valign="top" align="center">May-15</td>
+<td valign="top" align="center">56</td>
+<td valign="top" align="center">3,485</td>
+<td valign="top" align="center">5</td>
+<td valign="top" align="center">347,000</td>
+<td valign="top" align="center">5,360</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>Ave</b>
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+<b>57</b>
+</td>
+<td valign="top" align="center">
+<b>3,920</b>
+</td>
+<td valign="top" align="center">
+<b>5</b>
+</td>
+<td valign="top" align="center">
+<b>382,050</b>
+</td>
+<td valign="top" align="center">
+<b>5,350</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

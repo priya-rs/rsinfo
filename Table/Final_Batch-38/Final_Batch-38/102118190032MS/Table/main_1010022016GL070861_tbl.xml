@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190032MS.txt" extractionDate="2021-03-29T14:18:43Z">
+<doi>10.1002/2016GL070861</doi>
+<pii>10.2118/190032-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="4" table-order="1" data-type-order="3">
+<table-wrap id="102118190032MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The mechanics problem is initialized identically for the four cases of Figure 2. The mechanical boundary conditions are chosen such that a normal faulting stress regime prevails. We initialize the stresses under mechanical equilibrium with zero displacements. We use the slip weakening model to describe dynamic frictional failure of the fault. The parameters of the slip weakening model are given in Table 1.</anchoringText>
+<label>Table 1</label>
+<caption>Slip weakening fault friction model parameters</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Slip weakening fault friction model parameters</caption-text>
+</formatted-caption>
+<table id="102118190032MS-Tbl_SPi-1" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="center">Static friction coefficient, <i>µ<sub>s</sub>
+</i>
+</td>
+<td valign="top" align="center">0.6</td>
+</tr>
+<tr>
+<td valign="top" align="center">Dynamic friction coefficient, <i>µ<sub>d</sub>
+</i>
+</td>
+<td valign="top" align="center">0.2</td>
+</tr>
+<tr>
+<td valign="top" align="center">Critical slip distance, <i>d<sub>c</sub>
+</i>
+</td>
+<td valign="top" align="center">0.1 m</td>
+</tr>
+<tr>
+<td valign="top" align="center">Cohesive strength, <i>τ<sub>c</sub></i>
+</td>
+<td valign="top" align="center">0 Pa</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="5" table-order="2" data-type-order="6">
+<table-wrap id="102118190032MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">We assume that the model is saturated with water and use hydrostatics to initialize pressure. The topography of the reservoir in a vertical cross-section is shown in Figure 4. The wells are located in the hanging wall and footwall blocks of the fault. For the four cases studies considered here, the well in the hanging wall block is a producer with a constant flow rate of 3000 bbl/day. The well in the footwall block is different among the four cases as shown in Table 2.</anchoringText>
+<label>Table 2</label>
+<caption>Case study definitions. The case studies differ from each other in terms of the type and the flow rate of the well located in the footwall block.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Case study definitions. The case studies differ from each other in terms of the type and the flow rate of the well located in the footwall block.</caption-text>
+</formatted-caption>
+<table id="102118190032MS-Tbl_SPi-2" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="center">Cases/Parameters</td>
+<td valign="top" align="center">Footwall Well Type</td>
+<td valign="top" align="center">Footwall Well Flow Rate (bbl/day)</td>
+</tr>
+<tr>
+<td valign="top" align="center">ProdSimilar</td>
+<td valign="top" align="center">Producer</td>
+<td valign="top" align="center">2500</td>
+</tr>
+<tr>
+<td valign="top" align="center">InjSimilar</td>
+<td valign="top" align="center">Injector</td>
+<td valign="top" align="center">2500</td>
+</tr>
+<tr>
+<td valign="top" align="center">Prod</td>
+<td valign="top" align="center">Producer</td>
+<td valign="top" align="center">1000</td>
+</tr>
+<tr>
+<td valign="top" align="center">Inj</td>
+<td valign="top" align="center">Injector</td>
+<td valign="top" align="center">1000</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

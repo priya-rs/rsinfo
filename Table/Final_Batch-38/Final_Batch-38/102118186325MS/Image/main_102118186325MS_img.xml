@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118186325MS.txt" extractionDate="2021-03-26T12:20:33Z">
+<doi>10.2118/186325-MS</doi>
+<pii>10.2118/186325-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr3">Zone A fluid properties categorized as a light oil with oil gravity of 40 °API, wax content of 30%, and oil viscosity (μo) of 1.14 cP, and reservoir temperature (Tr) 0f 60-63 °C. While the characteristics of brine has a salinity of 3800 ppm (Ca2++ Mg2+of 172.4 ppm). Well injection candidate for the implementation of EOR technology with surfactant flood is well T-119, as shown in Figure 1. Because the structure of T-119 is more up-dip than T-176, so the gravity segregation of water injection will give a greater effect for water to flow to well T-176 that has a horizontal plane and a relatively short distance, ± 150 m.</anchoringText>
+<image-wrap id="102118186325MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118186325MS_i_1.tif" id="ImgLink-1" />
+<caption>Well Location in Tanjung Field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Well Location in Tanjung Field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr4">As published in CMG User’s Guide, relative permeability alteration due to IFT are represented in interpolation parameter named DTRAPW and DTRAPN, which is log value of critical capillary number for both wetting and non-wetting phase, respectively. The primary objective of coreflood simulation history match is to obtain parameter required for pilot forecast such as residual oil saturation reduction, chemical retention, and relative permeability end point during miscible condition. 1-D reservoir model is first created according to core geometry and properties. The model is then initialized and adjusted to match pore volume, initial fluid saturation and initial oil in place. Core scale heterogeneity is not incorporated in the model. Core model used in simulation is illustrated in Figure 2.</anchoringText>
+<image-wrap id="102118186325MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118186325MS_i_2.tif" id="ImgLink-2" />
+<caption>Coreflood Model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Coreflood Model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr5">Coreflood history match result is given in Figure 3. Overall the match result was satisfactory, especially in matching of oil bank breakthrough and final cumulative oil recovery (red line). Parameter used in history matching are given on Table 1. Notethat critical capillary number usedfor history match is based on calculated values from coreflood data. Comparison between calculated and simulated capillary number is given in Figure 4. It can be seen that simulated capillary number have close agreement with calculated data from coreflood. This should ensure that the simulation gave proper capillary desaturation curve as observed in coreflood result. Matched parameter is then employed in available rock curves in field reservoir model for forecast.</anchoringText>
+<image-wrap id="102118186325MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118186325MS_i_3.tif" id="ImgLink-3" />
+<caption>Coreflood Matching Result</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Coreflood Matching Result</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr6">Coreflood history match result is given in Figure 3. Overall the match result was satisfactory, especially in matching of oil bank breakthrough and final cumulative oil recovery (red line). Parameter used in history matching are given on Table 1. Notethat critical capillary number usedfor history match is based on calculated values from coreflood data. Comparison between calculated and simulated capillary number is given in Figure 4. It can be seen that simulated capillary number have close agreement with calculated data from coreflood. This should ensure that the simulation gave proper capillary desaturation curve as observed in coreflood result. Matched parameter is then employed in available rock curves in field reservoir model for forecast.</anchoringText>
+<image-wrap id="102118186325MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118186325MS_i_4.tif" id="ImgLink-4" />
+<caption>Comparison between Calculated and Simulated CDC</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Comparison between Calculated and Simulated CDC</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr7"> </anchoringText>
+<image-wrap id="102118186325MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118186325MS_i_5.tif" id="ImgLink-5" />
+<caption>Sector Model for Pilot Forecast</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Sector Model for Pilot Forecast</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr8">Pilot flood simulation is carried out to predict enhanced oil recovery potential in Zone A Upper Reservoir. Reservoir sector model in the zone of interest is used for forecast and later for history match to save computing time and memory size. Reservoir sector model area isolation was done based on flux flow boundary observed from streamline path at the beginning of forecast. However, sector model was kept large enough to maintain pressure support. Pressure behavior of sector model is compared to full field model, as can be seen in Figure 6 and Figure 7 to ensure consistent model performance. Pilot flood pattern grids are then locally refined to avoid numerical dispersion and to consider artificial component mixing which happen during displacement.</anchoringText>
+<image-wrap id="102118186325MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118186325MS_i_6.tif" id="ImgLink-6" />
+<caption>Pressure Profile</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Pressure Profile</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr9">Pilot flood simulation is carried out to predict enhanced oil recovery potential in Zone A Upper Reservoir. Reservoir sector model in the zone of interest is used for forecast and later for history match to save computing time and memory size. Reservoir sector model area isolation was done based on flux flow boundary observed from streamline path at the beginning of forecast. However, sector model was kept large enough to maintain pressure support. Pressure behavior of sector model is compared to full field model, as can be seen in Figure 6 and Figure 7 to ensure consistent model performance. Pilot flood pattern grids are then locally refined to avoid numerical dispersion and to consider artificial component mixing which happen during displacement.</anchoringText>
+<image-wrap id="102118186325MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118186325MS_i_7.tif" id="ImgLink-7" />
+<caption>Liquid Production Rate Profile (left) between Full-Field and Sector</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Liquid Production Rate Profile (left) between Full-Field and Sector</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr10">Producer wells in pilot pattern was continuously monitored and periodically sampledafter surfactant injection. The pilot is then evaluated after three months of injection since well response was confidently identified. From three monitored producer wells, T176 well showed apparent response while T024 and T149 wells did not showed significant response. Comparison between monitored production history of well T-176 and base case run is given in Figure 8.</anchoringText>
+<image-wrap id="102118186325MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118186325MS_i_8.tif" id="ImgLink-8" />
+<caption>Base-Case Run vs. Monitored Production History</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Base-Case Run vs. Monitored Production History</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr11">It can be seen that base case run showed delayed oil bank breakthrough and lower oil rate after surfactant flood compared to production history. Oil bank breaktrough was faster than anticipated, this indicate permeability streak that may exist between injector well T119 and producer well T176. PLT spinner survey data from injector well T119 shows that injection intake is concentrated in several parts of perforation intervalas shown in Figure 9.Adjustmentwas done by selectively opening perforation interval in well model.</anchoringText>
+<image-wrap id="102118186325MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118186325MS_i_9.tif" id="ImgLink-9" />
+<caption>Zone A Upper Injection Intake in Well T-119i</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Zone A Upper Injection Intake in Well T-119i</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr12">Values used for each parameter in sensitivity analysis is given on Table 2. Lower surfactant adsorption values play significant role in accelerating oil bank breakthrough time however it is not the most significant parameter in affecting cumulative oil production. Lower critical capillary number also lead to faster oil bank breakthrough and higher cumulative oil recovered. Higher residual oil reduction gave faster oil bank breakthrough time and higher recovery. Surprisingly, higher permeability values used in permeability streak does not correspond to faster and higher oil recovery from surfactant flood. The significance of each parameter is represented in tornadoplotsas shown in Figure 10and Figure 11. The sensitivity analysis exercised provide guidance on adjusting the parameters for history match.</anchoringText>
+<image-wrap id="102118186325MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118186325MS_i_10.tif" id="ImgLink-10" />
+<caption>Oil Bank Breakthrough Time Result for Surfactant Model Parameter Sensitivity</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Oil Bank Breakthrough Time Result for Surfactant Model Parameter Sensitivity</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="11" data-type-order="13">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr13">Values used for each parameter in sensitivity analysis is given on Table 2. Lower surfactant adsorption values play significant role in accelerating oil bank breakthrough time however it is not the most significant parameter in affecting cumulative oil production. Lower critical capillary number also lead to faster oil bank breakthrough and higher cumulative oil recovered. Higher residual oil reduction gave faster oil bank breakthrough time and higher recovery. Surprisingly, higher permeability values used in permeability streak does not correspond to faster and higher oil recovery from surfactant flood. The significance of each parameter is represented in tornadoplotsas shown in Figure 10and Figure 11. The sensitivity analysis exercised provide guidance on adjusting the parameters for history match.</anchoringText>
+<image-wrap id="102118186325MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118186325MS_i_11.tif" id="ImgLink-11" />
+<caption>CumulativeOil Result for Surfactant Model Parameter Sensitivity</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>CumulativeOil Result for Surfactant Model Parameter Sensitivity</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="12" data-type-order="14">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr14">Another phenomena that is tried during the history match is incorporating wettability alteration effect from surfactant as observed from contact angle measurement using sessile drop method in native sandstone thin section. The addition of surfactant in brine system gave significant reduction of brine drop contact angle from 56.8° to 31°. This phenomena is represented by reducing water relative permability curve slope in the high capillary number relative permeability sets. The adjustment is illustrated in Figure 12. Inclusion of this phenomena has spared critical capillary number from being changed from coreflood result significantly, especially for the wetting phase.</anchoringText>
+<image-wrap id="102118186325MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118186325MS_i_12.tif" id="ImgLink-12" />
+<caption>Adjustment on high capillary number relative permeability sets to include Wettability Alteration</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Adjustment on high capillary number relative permeability sets to include Wettability Alteration</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="13" data-type-order="15">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr15"> </anchoringText>
+<image-wrap id="102118186325MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118186325MS_i_13.tif" id="ImgLink-13" />
+<caption>Final History Match Result of Well T-176 (Shaded Area Represent Surfactant Injection Interval)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Final History Match Result of Well T-176 (Shaded Area Represent Surfactant Injection Interval)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

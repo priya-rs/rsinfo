@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118177269MS.txt" extractionDate="2021-03-16T14:31:01Z">
+<doi>10.2118/177269-MS</doi>
+<pii>10.2118/177269-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure composite="true" composite-count="2" pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr8">The results of this analysis are shown in Figure 1. The points plotted are the mean values of Oil Recovery by the drainage area of the well. From these results of this block, it shows that the best recovery results are obtained with simultated well spacing beteween 20 and 30 acres.</anchoringText>
+<image-wrap id="102118177269MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118177269MS_i_1.tif" id="ImgLink-1" />
+<caption>The Chicontepec Basin: Geological features and Area distribution between CNH and Pemex.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>The Chicontepec Basin: Geological features and Area distribution between CNH and Pemex.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118177269MS-Img_SPi-1a">
+<imageLink type="mediaResource" href="102118177269MS_i_1a.tif" id="ImgLink-1a" />
+</image-wrap>
+<image-wrap id="102118177269MS-Img_SPi-1b">
+<imageLink type="mediaResource" href="102118177269MS_i_1b.tif" id="ImgLink-1b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr9">It is clear that Chicontepec requires very thorough studies to determine the different sections or areas, and based on these technical and economic features define the right contracting model and fiscal conditions for each of them. The recently approved Energy Reform in Mexico allows for areas of Chicontepec to be operated by private companies through bidding rounds carried out by the National Hydrocarbon Commission of Mexico.Figure 2.</anchoringText>
+<image-wrap id="102118177269MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118177269MS_i_2.tif" id="ImgLink-2" />
+<caption>The Chicontepec Basin as a process schematic with oil recovery as the output and the fluid, reservoir, and well completion properties as the inputs.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>The Chicontepec Basin as a process schematic with oil recovery as the output and the fluid, reservoir, and well completion properties as the inputs.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr10">Modelling the effects of all contributing factors of a system would normally be ideal, however data availability, budgeting limitations and time contraints typically prevent this. A screening experiment is an economic method to assessing the importance of the factors on oil recovery. In this case, it is desired to obtain a general understanding of the fluid and reservoir properties of the Chicontepec Basin, therefore the well completion properties were selectively screened resulting in a process as shown in Figure 3.</anchoringText>
+<image-wrap id="102118177269MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118177269MS_i_3.tif" id="ImgLink-3" />
+<caption>The Chicontepec Basin reservoir system process diagram with the well completion properties selectively screened from the model-based analysis.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>The Chicontepec Basin reservoir system process diagram with the well completion properties selectively screened from the model-based analysis.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="6">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr11">Using the input parameters, a nonlinear numerical model was used to simulate production profiles and oil recovery volumes for each of the runs in Table 2. The nonlinear model represents a horizontally fractured well as pictured in Figure 4.</anchoringText>
+<image-wrap id="102118177269MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118177269MS_i_4.tif" id="ImgLink-4" />
+<caption>3-dimensional image of horizontally fractured well used for model-based analysis.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>3-dimensional image of horizontally fractured well used for model-based analysis.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="8">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr12">The five factors with the smallest individual p-Value (after selectively removing well completion factors) were determined to have the most significance on the oil recovery. Figure 5 portrays the reservoir system model with the key factors (hn, γ ,A,pR, and ϕ, the controlled well completion parameters (nf and L), the uncontrollable reservoir/fluid properties (R, k, SW, and TR), and the reservoir system output (Npo) for a model of the Chicontepec Basin reservoir system.</anchoringText>
+<image-wrap id="102118177269MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118177269MS_i_5.tif" id="ImgLink-5" />
+<caption>The Chicontepec Basin reservoir system process diagram after a screening experiment.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>The Chicontepec Basin reservoir system process diagram after a screening experiment.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="9">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr13">After the screening experiment is completed and the key factors have been identified, another experi-mental design is created. A Central Composite Design combines two-level fractional factorial points, center points (midrange), and axial as shown in Figure 6.</anchoringText>
+<image-wrap id="102118177269MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118177269MS_i_6.tif" id="ImgLink-6" />
+<caption>Central Compostite Desing with fractional factorial, center and axial points.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Central Compostite Desing with fractional factorial, center and axial points.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="7" data-type-order="11">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr14">An initial analysis of the data is conducted by use of the quartile plot (Figure 7a) and lognormal probability plot (Figure 7b). This analysis indicates a lognormal distribution of the output (NPO) and the the outputs remain withing the 95% confidence interval throughout most of the distribution. A more formalanalysis is completed by a stepwise regression of all main effects and two-factor interactions with the p-Value as the threshold set to a 0.05.</anchoringText>
+<image-wrap id="102118177269MS-Img_SPi-7">
+<label>Figure 7a </label>
+<imageLink type="mediaResource" href="102118177269MS_i_7.tif" id="ImgLink-7" />
+<caption>Analysis of Results. Quantile Box Plot.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7a</caption-order>
+<caption-text>Analysis of Results. Quantile Box Plot.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="8" data-type-order="12">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr15">An initial analysis of the data is conducted by use of the quartile plot (Figure 7a) and lognormal probability plot (Figure 7b). This analysis indicates a lognormal distribution of the output (NPO) and the the outputs remain withing the 95% confidence interval throughout most of the distribution. A more formalanalysis is completed by a stepwise regression of all main effects and two-factor interactions with the p-Value as the threshold set to a 0.05.</anchoringText>
+<image-wrap id="102118177269MS-Img_SPi-8">
+<label>Figure 7b </label>
+<imageLink type="mediaResource" href="102118177269MS_i_8.tif" id="ImgLink-8" />
+<caption>Analysis of Results. Lognormal Probability Plot.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7b</caption-order>
+<caption-text>Analysis of Results. Lognormal Probability Plot.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="9" data-type-order="13">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr16">The Figure 7c shows the actual (from nonlinear numerical model) by predicted (response surface equation) plot. The predicted model covers a range of output, NPO, from 0.00 to 2.11 MMstb. As indicated by the R2 value shown in Table 5, the predicted output fits relatively closely to the observed output from the numerical model. The sorted parameter estimates shown in Table 6, present the main effects and interaction effects in order of influence on the response surface model.</anchoringText>
+<image-wrap id="102118177269MS-Img_SPi-9">
+<label>Figure 7c </label>
+<imageLink type="mediaResource" href="102118177269MS_i_9.tif" id="ImgLink-9" />
+<caption>Analysis of Results. Actual by Predicted Plot.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7c</caption-order>
+<caption-text>Analysis of Results. Actual by Predicted Plot.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="10" data-type-order="17">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr17"> </anchoringText>
+<image-wrap id="102118177269MS-Img_SPi-10">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118177269MS_i_10.tif" id="ImgLink-10" />
+<caption>Oil gravity, <i>γ</i>
+<sub>o</sub>, values in the Chicontepec Basin</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Oil gravity, γ<sub>o</sub>, values in the Chicontepec Basin</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="11" data-type-order="18">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr18">After applying a stochastic analysis to the response surface equation with the parameters and distribution in Table 7, a histogram and lognormal probability distribution plot of the results shown in with a lognormal fit is shown in Figure 9. These results display a higher resolution, localized output for a particular block of the Chicontepec Basin Reservoir System.</anchoringText>
+<image-wrap id="102118177269MS-Img_SPi-11">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118177269MS_i_11.tif" id="ImgLink-11" />
+<caption>Histogram of Monte-Carlo Simulation Results and lognormal distribution with block level uniqueness applied to response surface equation.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Histogram of Monte-Carlo Simulation Results and lognormal distribution with block level uniqueness applied to response surface equation.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118177269MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118177269MS_i_11a.tif" id="ImgLink-11a" />
+</image-wrap>
+<image-wrap id="102118177269MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118177269MS_i_11b.tif" id="ImgLink-11b" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="12" data-type-order="19">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr19">To analyze the drainage area per well, the response surface equation developed in the experimental design step is used here. This is done by removing the drainage area, A, from the key factors of the equation and holding it constant, or controlling it just as the other well completion paramaters as shown in Figure 10.</anchoringText>
+<image-wrap id="102118177269MS-Img_SPi-12">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118177269MS_i_12.tif" id="ImgLink-12" />
+<caption>Chicontepec Basin Reservoir System Schematic for Well Spacing Analysis.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Chicontepec Basin Reservoir System Schematic for Well Spacing Analysis.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="13" data-type-order="20">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr20"> </anchoringText>
+<image-wrap id="102118177269MS-Img_SPi-13">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118177269MS_i_13.tif" id="ImgLink-13" />
+<caption>Oil Recovery, <i>N<sub>PO</sub>
+</i>, as a Result of Changing the Well Drainage Area.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Oil Recovery, N<sub>PO</sub>, as a Result of Changing the Well Drainage Area.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="14" data-type-order="21">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr21">The geology of Chicontepec is extremely challenging and an understanding of the subsurface is fundamental. Due to the intermittent tectonic pulses that occurred during this time, the depocenter migrated Chicontepec Basin to the east and the basin area was reduced, reaching a minimum during the Eocene, channeling turbidite flows north - west to east and southeast, and eroding the Middle Chicontepec Formation and the upper portion of the Lower Chicontepec Formation, Figure 12.</anchoringText>
+<image-wrap id="102118177269MS-Img_SPi-14">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118177269MS_i_14.tif" id="ImgLink-14" />
+<caption>Wells drilled with objective Chicontepec basin.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Wells drilled with objective Chicontepec basin.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="15" data-type-order="22">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr22">An advantage from the central and south area is the infrastructure, it can be shared with Poza Rica fields, where the development is the same area, but different play, Figure 13.</anchoringText>
+<image-wrap id="102118177269MS-Img_SPi-15">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118177269MS_i_15.tif" id="ImgLink-15" />
+<caption>Available pipelines through Chicontepec basin.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Available pipelines through Chicontepec basin.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

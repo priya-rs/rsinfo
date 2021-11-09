@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118178405MS.txt" extractionDate="2021-03-20T14:15:57Z">
+<doi>10.2118/178405-MS</doi>
+<pii>10.2118/178405-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="2">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr4">Bayelsa field is located offshore Nigeria about 40 km northwest of Escravos tank farm. The structure is a faulted rollover anticline situated down thrown of two major NW-SE normal fault systems. The stratigraphy of the field is typical of the deltaic sequence of the Niger basin. It consists of continental Benin formation which is underlain by the paralic Agbada formation, which in turn is underlain by the marine shale of the Akata formation. As noted by Frankl and Cordry (1967), the Agbada formation is the predominant reservoir in the Niger delta with multiple reservoirs being a common occurrence in a field. The sands of the Agbada formation constitute the reservoir sands in the Bayelsa field. The Bayelsa field contains several sands, D, E, G, and H and reservoirs as shown in Table 1 and has four major producing blocks (Blocks 1, 2, 3 and 6) based on the faulting pattern in the field as shown in Figure 1.</anchoringText>
+<image-wrap id="102118178405MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118178405MS_i_1.tif" id="ImgLink-1" />
+<caption>Map showing the four major producing blocks in Bayelsa field and the inter block faults</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Map showing the four major producing blocks in Bayelsa field and the inter block faults</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr5">The reservoirs were characterized using available data which included the field seismic volume, SCAL and routine core analysis data, wireline data from wells and dynamic data from production performance. The reservoir grid covers an areal extent of 15.3 Km × 2.7 Km and had the E3, E4, E5 and E6 lobes as shown in Fig. 2 which was further divided into 204 layers with average thickness of 2 feet representing the log sampling in these reservoirs. The cell dimensions for the grid are 100m × 100m × 2ft while the model has 80 × 160 × 204 cells.</anchoringText>
+<image-wrap id="102118178405MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118178405MS_i_2.tif" id="ImgLink-2" />
+<caption>Type log of Bayelsa field sands correlated with the earth model grid</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Type log of Bayelsa field sands correlated with the earth model grid</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr6">Porosity simulation was carried out for each of the facies region identified. The permeability was populated with a cloud transform which utilizes correlation of core porosity with core permeability and a synthetic cloud. The water saturation distribution in the model was populated using a cross-plot of porosity and water saturation. Regions were created in the earth model to capture the reservoir units already identified in Table 1 and for ease of control of reservoir properties and reporting reservoir information. Fig. 3 shows the S-grid and well density while Fig. 4 shows the fault network in the model.</anchoringText>
+<image-wrap id="102118178405MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118178405MS_i_3.tif" id="ImgLink-3" />
+<caption>The earth model grid showing the majour fault blocks and well density</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>The earth model grid showing the majour fault blocks and well density</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr7">Porosity simulation was carried out for each of the facies region identified. The permeability was populated with a cloud transform which utilizes correlation of core porosity with core permeability and a synthetic cloud. The water saturation distribution in the model was populated using a cross-plot of porosity and water saturation. Regions were created in the earth model to capture the reservoir units already identified in Table 1 and for ease of control of reservoir properties and reporting reservoir information. Fig. 3 shows the S-grid and well density while Fig. 4 shows the fault network in the model.</anchoringText>
+<image-wrap id="102118178405MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118178405MS_i_4.tif" id="ImgLink-4" />
+<caption>Map showing fault network in Bayelsafield reservoirs</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Map showing fault network in Bayelsafield reservoirs</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="7" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr8">Ultimately however, a satisfactory match was not obtained in the E4-1 and E5-1 reservoirs but because the historical data for the six other reservoirs had been matched with all inter-fault blocks sealing; this was deemed an acceptable match. The E4-1 and E5-1 reservoirs were also blanked out in a different case and this did not compromise the quality of historical match in the other six reservoirs. Adjustments were made to several parameters including permeability, aquifer pore volume, fault transmissibility and relative permeability to achieve a satisfactory history match. The historical match plot for four of the six reservoirs matched are shown in Figs. 5–8 while Table 3 gives a summary of basic reservoir information from the history- matched reservoirs..</anchoringText>
+<image-wrap id="102118178405MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118178405MS_i_5.tif" id="ImgLink-5" />
+<caption>Reservoir historical match for E4-2 reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Reservoir historical match for E4-2 reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118178405MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118178405MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-text>Oil Prod Rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178405MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118178405MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-text>Water Cut</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178405MS-Img_SPi-5c">
+<imageLink type="mediaResource" href="102118178405MS_i_5c.tif" id="ImgLink-5c" />
+<figure-specific-caption>
+<caption-text>GOR</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178405MS-Img_SPi-5d">
+<imageLink type="mediaResource" href="102118178405MS_i_5d.tif" id="ImgLink-5d" />
+<figure-specific-caption>
+<caption-text>SWP</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="7" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr9">Ultimately however, a satisfactory match was not obtained in the E4-1 and E5-1 reservoirs but because the historical data for the six other reservoirs had been matched with all inter-fault blocks sealing; this was deemed an acceptable match. The E4-1 and E5-1 reservoirs were also blanked out in a different case and this did not compromise the quality of historical match in the other six reservoirs. Adjustments were made to several parameters including permeability, aquifer pore volume, fault transmissibility and relative permeability to achieve a satisfactory history match. The historical match plot for four of the six reservoirs matched are shown in Figs. 5–8 while Table 3 gives a summary of basic reservoir information from the history- matched reservoirs..</anchoringText>
+<image-wrap id="102118178405MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118178405MS_i_6.tif" id="ImgLink-6" />
+<caption>Reservoir historical match for E5-2 reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Reservoir historical match for E5-2 reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118178405MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118178405MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-text>Oil Prod Rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178405MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118178405MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-text>Water Cut</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178405MS-Img_SPi-6c">
+<imageLink type="mediaResource" href="102118178405MS_i_6c.tif" id="ImgLink-6c" />
+<figure-specific-caption>
+<caption-text>GOR</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178405MS-Img_SPi-6d">
+<imageLink type="mediaResource" href="102118178405MS_i_6d.tif" id="ImgLink-6d" />
+<figure-specific-caption>
+<caption-text>SWP</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="8" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr10">Ultimately however, a satisfactory match was not obtained in the E4-1 and E5-1 reservoirs but because the historical data for the six other reservoirs had been matched with all inter-fault blocks sealing; this was deemed an acceptable match. The E4-1 and E5-1 reservoirs were also blanked out in a different case and this did not compromise the quality of historical match in the other six reservoirs. Adjustments were made to several parameters including permeability, aquifer pore volume, fault transmissibility and relative permeability to achieve a satisfactory history match. The historical match plot for four of the six reservoirs matched are shown in Figs. 5–8 while Table 3 gives a summary of basic reservoir information from the history- matched reservoirs..</anchoringText>
+<image-wrap id="102118178405MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118178405MS_i_7.tif" id="ImgLink-7" />
+<caption>Reservoir historical match for E4-3 reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Reservoir historical match for E4-3 reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118178405MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118178405MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-text>Oil Prod Rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178405MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118178405MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-text>Water Cut</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178405MS-Img_SPi-7c">
+<imageLink type="mediaResource" href="102118178405MS_i_7c.tif" id="ImgLink-7c" />
+<figure-specific-caption>
+<caption-text>GOR</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178405MS-Img_SPi-7d">
+<imageLink type="mediaResource" href="102118178405MS_i_7d.tif" id="ImgLink-7d" />
+<figure-specific-caption>
+<caption-text>SWP</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="8" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr11">Ultimately however, a satisfactory match was not obtained in the E4-1 and E5-1 reservoirs but because the historical data for the six other reservoirs had been matched with all inter-fault blocks sealing; this was deemed an acceptable match. The E4-1 and E5-1 reservoirs were also blanked out in a different case and this did not compromise the quality of historical match in the other six reservoirs. Adjustments were made to several parameters including permeability, aquifer porevolume, fault transmissibility and relative permeability to achieve a satisfactory history match. The historical match plot for four of the six reservoirs matched are shown in Figs. 5–8 while Table 3 gives a summary of basic reservoir information from the history- matched reservoirs..</anchoringText>
+<image-wrap id="102118178405MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118178405MS_i_8.tif" id="ImgLink-8" />
+<caption>Reservoir historical match for E5-3 reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Reservoir historical match for E5-3 reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118178405MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118178405MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-text>Oil Prod Rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178405MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118178405MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-text>Water Cut</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178405MS-Img_SPi-8c">
+<imageLink type="mediaResource" href="102118178405MS_i_8c.tif" id="ImgLink-8c" />
+<figure-specific-caption>
+<caption-text>GOR</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178405MS-Img_SPi-8d">
+<imageLink type="mediaResource" href="102118178405MS_i_8d.tif" id="ImgLink-8d" />
+<figure-specific-caption>
+<caption-text>SWP</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191519MS.txt" extractionDate="2021-03-30T09:09:49Z">
+<doi>10.2118/191519-MS</doi>
+<pii>10.2118/191519-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="4" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr2">In this paper we introduce a proprietary grid cluster originally developed to perform multivariate reservoir simulations. The system has three function blocks: host-side to collect and distribute jobs, client-side to receive them and allocate computational resources and a specific module to execute the job (Fig. 1). Under the term “job” we understand all information needed for remote PC to do necessary work and achieve expected result. In case of reservoir simulations job contains information about the model, simulator, well placement and control schedules, etc.</anchoringText>
+<image-wrap id="102118191519MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118191519MS_i_1.tif" id="ImgLink-1" />
+<caption>Proprietary grid cluster concept. Host-side application distributes jobs among nodes through local network (ex. Ethernet) and collects results. Client side receives a job and executes it with a specific module.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Proprietary grid cluster concept. Host-side application distributes jobs among nodes through local network (ex. Ethernet) and collects results. Client side receives a job and executes it with a specific module.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr3">Typical workflow to run multivariate calculations on the grid cluster is represented in the Fig. 2. First, a bunch of development scenarios is generated either by optimization algorithm or by third-party software. Host-side application collects all scenarios, forms a queue of jobs and creates an empty folder to assign nodes for the task. Finally, user chooses available nodes and puts them into a task’s folder.</anchoringText>
+<image-wrap id="102118191519MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118191519MS_i_2.tif" id="ImgLink-2" />
+<caption>Workflow example for evaluation of multiple well placement scenarios. 1) Host-side application collects a bunch of well placement scenarios; 2) Host-side application creates a task (folder); 3) User adds available nodes (shortcuts) to execute jobs of the task. Windows explorer interface is used to assign available nodes to tasks.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Workflow example for evaluation of multiple well placement scenarios. 1) Host-side application collects a bunch of well placement scenarios; 2) Host-side application creates a task (folder); 3) User adds available nodes (shortcuts) to execute jobs of the task. Windows explorer interface is used to assign available nodes to tasks.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr4">Each node is represented by a shortcut, which contains short PC info and indicates current status of the node using “worker” icons (Fig. 3).</anchoringText>
+<image-wrap id="102118191519MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118191519MS_i_3.tif" id="ImgLink-3" />
+<caption>Status of each node is displayed through a specific icon. Shortcut name also contains CPU threads count of the node.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Status of each node is displayed through a specific icon. Shortcut name also contains CPU threads count of the node.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr5">Each PC in grid cluster has its own flexible timetable (Fig. 4). As long as cluster calculations (in particular, reservoir simulations) may produce intensive computational load, users can specify the amount of resources they are willing to share during working hours and free time. They also can immediately stop calculations and disconnect from cluster at any time.</anchoringText>
+<image-wrap id="102118191519MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118191519MS_i_4.tif" id="ImgLink-4" />
+<caption>Client-side user interface to specify node’s timetable and sharing resources.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Client-side user interface to specify node’s timetable and sharing resources.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr6"> </anchoringText>
+<image-wrap id="102118191519MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118191519MS_i_5.tif" id="ImgLink-5" />
+<caption>Bubble map of a field “X” as of May 1, 2017. 63 optimization treatments were proposed, 20 have been already implemented in the field confirming forecasted performance.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Bubble map of a field “X” as of May 1, 2017. 63 optimization treatments were proposed, 20 have been already implemented in the field confirming forecasted performance.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr7">Proposed optimization workflow with the use of Grid cluster has been tested on Field “X” located in West Siberia. Optimization period of five years starting on May 1, 2017 was considered. At the start of optimization field development involved 50 injection and 83 production wells (Fig. 6). Total oil production was equal to 4000 bbl/day and field water cut was over 90%. The field hydrodynamic model contains 937 000 grid block, 361 000 of which are active; average length and width is about 100m and height is about 1m. Production forecast for optimization period takes about 40 minutes.</anchoringText>
+<image-wrap id="102118191519MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118191519MS_i_6.tif" id="ImgLink-6" />
+<caption>Field “Y” (net pay map) and four sets of well placement with different row directions (left); result for well placements with multistage fracturing (right).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Field “Y” (net pay map) and four sets of well placement with different row directions (left); result for well placements with multistage fracturing (right).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191519MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118191519MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>left</caption-order>
+<caption-text>Field “Y” (net pay map) and four sets of well placement with different row directions</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191519MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118191519MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>right</caption-order>
+<caption-text>result for well placements with multistage fracturing</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

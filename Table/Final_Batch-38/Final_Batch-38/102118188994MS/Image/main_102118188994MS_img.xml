@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118188994MS.txt" extractionDate="2021-03-27T19:41:29Z">
+<doi>10.2118/188994-MS</doi>
+<pii>10.2118/188994-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr5">The Tengiz Field is a unique, super-giant, carbonate oilfield of Devonian to Carboniferous age located in the Pricaspian Basin of the Republic of Kazakhstan along the northeastern margin of the Caspian Sea (Fig. 1). The field was discovered in 1979 and production commenced in 1991. Since 1993, the field has been operated by TCO, a joint venture company comprising of Chevron, ExxonMobil Kazakhstan Ventures Inc., KazMunaiGas and LukArco.</anchoringText>
+<image-wrap id="102118188994MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118188994MS_i_1.tif" id="ImgLink-1" />
+<caption>Location of Tengiz Field, Republic of Kazakhstan (after Kenter et. al. 2006)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Location of Tengiz Field, Republic of Kazakhstan (after <link href="BIB1">Kenter et. al. 2006</link>)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-11" type="bib">
+<bib id="BIB1">
+<label>Kenter et al., 2006</label>
+<author>
+<first-name>J. A. M.</first-name>
+<last-name>Kenter</last-name>
+</author>, <author>
+<first-name>P. M</first-name>
+<last-name>Harris</last-name>
+</author>, <author>
+<first-name>J. F.</first-name>
+<last-name>Collins</last-name>
+</author>, <author>
+<first-name>L. J.</first-name>
+<last-name>Weber</last-name>
+</author>, <author>
+<first-name>G.</first-name>
+<last-name>Kuanysheva</last-name>
+</author>, and <author>
+<first-name>D. J.</first-name>
+<last-name>Fischer</last-name>
+</author>
+<pubDate>2006</pubDate>. <article-title>Late Visean to Bashkirian Platform Cyclicity in the Central Tengiz Buildup, Precaspian Basin, Kazakhstan: Depositional Evolution and Reservoir Development</article-title>. In Giant Hydrocarbon Reservoirs of the World: From Rocks to Reservoir Characterization and Modeling, ed. P. M. Harris and L. J. Weber, p. <pages>
+<first-page>1</first-page>
+<last-page>54</last-page>
+</pages>. <i>AAPG Memoir</i>
+<b>88</b>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr6">The Tengiz field has two extensive and complex gathering systems feeding two separate plants. The Base system feeds the KTL plant (original facility) and the new generation gathering system (NGGS) feeds the second generation plant (SGP) which was started up in 2007. Each system has its own network of flowlines, gathering lines, manifolds, and trunklines with some flexibility to transfer production between the two systems. Details of the Base and NGGS systems have been accurately modeled in IPM model. A screenshot of the short term IPM surface network is provided in Fig. 2.</anchoringText>
+<image-wrap id="102118188994MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118188994MS_i_2.tif" id="ImgLink-2" />
+<caption>Short term IPM surface network</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Short term IPM surface network</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr7">A sensitivity analysis was conducted to identify the main parameters influencing the pressure drop in the completion string. Tubing roughness was identified as one of the main parameters impacting pressure drop. The results of this analysis are illustrated in Fig. 3. Well test data was used to compare the model pressure with the permanent downhole gauge (PDHG) pressure data using the Tubing Correlation Comparison or Gradient Matching options in Prosper that resulted in consistent results between measured and calculated data. Finally, the Prosper models were tested to match well tests at different rates. Fig. 4 shows good agreement between measured and calculated data.</anchoringText>
+<image-wrap id="102118188994MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118188994MS_i_3.tif" id="ImgLink-3" />
+<caption>dP sensitivity analysis</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>dP sensitivity analysis</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr8">A sensitivity analysis was conducted to identify the main parameters influencing the pressure drop in the completion string. Tubing roughness was identified as one of the main parameters impacting pressure drop. The results of this analysis are illustrated in Fig. 3. Well test data was used to compare the model pressure with the permanent downhole gauge (PDHG) pressure data using the Tubing Correlation Comparison or Gradient Matching options in Prosper that resulted in consistent results between measured and calculated data. Finally, the Prosper models were tested to match well tests at different rates. Fig. 4 shows good agreement between measured and calculated data.</anchoringText>
+<image-wrap id="102118188994MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118188994MS_i_4.tif" id="ImgLink-4" />
+<caption>Well test matching with Prosper</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Well test matching with Prosper</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr9">This allows the user to fix the liquid rate and upstream temperature (Source) while setting downstream pressure as a boundary condition (Separator). PVT, viscosity, and flow correlations are then selected and the network solver will iterate the U-value until the temperature is matched. A customized macro was developed to automate this tedious iteration process and reduced the time to match the U-values for more than 100 pipelines to a few minutes. On average, default U-values were decreased by approximately 10 folds to match measured temperature data. The distribution of U-values in the flowlines is shown in Fig. 5.</anchoringText>
+<image-wrap id="102118188994MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118188994MS_i_5.tif" id="ImgLink-5" />
+<caption>U-value distribution in flowlines</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>U-value distribution in flowlines</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr10">Fig. 6 illustrates the importance of pressure and temperature on the GVF. The red points for a U-value of 8 shows an increasing trend of GVF with increasing pressure and temperature. Whereas when a calibrated U-value is used, the correct trend is a decreasing GFV with increasing pressure and temperature, which is illustrated with the black points. Interpolation of temperature can be used if a point falls off the solid curves.</anchoringText>
+<image-wrap id="102118188994MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118188994MS_i_6.tif" id="ImgLink-6" />
+<caption>GVF as a function of pressure and temperature</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>GVF as a function of pressure and temperature</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr11">When the choke gets plugged, the effective area for flow is reduced and results in a higher dP across the choke. The new choke curve will deviate from the original choke curve when there is choke plugging. The change can be identified by engineer at the early stages of choke plugging. Fig. 7 illustrates a choke curve for all wells with CC-40 chokes. As shown in the Fig 7, the choke curves for all wells have the same shape, however, the choke performance, from well to well, can vary either vertically or horizontally due to erosion, scale buildup, or plugging in the choke.</anchoringText>
+<image-wrap id="102118188994MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118188994MS_i_7.tif" id="ImgLink-7" />
+<caption>Choke performance curves for CC-40 choke</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Choke performance curves for CC-40 choke</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="8" data-type-order="12">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr12">Based on these pressure and calibration efforts, a structured workflow was developed for the calibration of the IPM model and whitespace forecasting. The workflows are shown in Fig. 8 and Fig. 9. These workflows can be useful for IPM practitioners in other fields to construct and maintain IPM models. These workflows will also assist the less experienced engineers to perform model calibrations. With a release of the next version of IFM, TCO is considering automating this workflow in IFM. IFM can be scheduled to run at specific time periods to calculate pressure, temperature and rates and compare against measured field data.</anchoringText>
+<image-wrap id="102118188994MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118188994MS_i_8.tif" id="ImgLink-8" />
+<caption>IPM Calibration workflow</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>IPM Calibration workflow</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="9" data-type-order="13">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr13">Based on these pressure and calibration efforts, a structured workflow was developed for the calibration of the IPM model and whitespace forecasting. The workflows are shown in Fig. 8 and Fig. 9. These workflows can be useful for IPM practitioners in other fields to construct and maintain IPM models. These workflows will also assist the less experienced engineers to perform model calibrations. With a release of the next version of IFM, TCO is considering automating this workflow in IFM. IFM can be scheduled to run at specific time periods to calculate pressure, temperature and rates and compare against measured field data.</anchoringText>
+<image-wrap id="102118188994MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118188994MS_i_9.tif" id="ImgLink-9" />
+<caption>Whitespace calculation workflow</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Whitespace calculation workflow</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="10" data-type-order="14">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr14">The pressures and flow rates were then allowed to stabilize for a period of 1 to 2 hours (shown in Fig. 10). After collecting sufficient data for each day, the trials were finished and the lines were returned to previous operating conditions to provide a baseline set of conditions for the following day. All of these steps were done to maximize trial efficiency and minimize the deviation of the data to be used for analyzing performance of each product during the trial. The workflow described in the previous section was applied to estimate the friction coefficient for each trial using IPM. Friction coefficient iterations were performed to evaluate the reduction in the friction coefficient.</anchoringText>
+<image-wrap id="102118188994MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118188994MS_i_10.tif" id="ImgLink-10" />
+<caption>DRA performance on MS A gathering line</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>DRA performance on MS A gathering line</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

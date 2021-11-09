@@ -1,0 +1,160 @@
+﻿<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8" ></head><div>
+<div><b>Meta Informations:</b><p>SPE_Society_of_Petroleum_Engineers</p><p>DOI: 10.2118/183755-MS<br>PII: 10.2118/183755-MS<br></p></div>
+<div>
+<div pdf-page="4" figure-order="1" data-type-order="1">
+<a href="#link-1"> </a>
+<div>
+<p id="Ancr1">The parallelization of the kriging computation can be achieved through distributing the tasks of solving the kriging system (Eq. 5) for different simulation locations to the nodes of a computing cluster. The computation efficiency can be further improved by merging the search neighborhoods of adjacent simulation locations. Consider two search neighborhoods S1 and S2 in Fig. 1 for points z1 and z2.</p><div id="link-1">
+
+<div id="102118183755MS-Img_SPi-1"><figure>
+
+<img id="ImgLink-1" src="102118183755MS_i_1.tif" alt="102118183755MS_i_1" ><br>
+<figcaption><b>Figure 1 </b> Merging search neighborhoods (Gebhardt 2003).</figcaption>
+<p>Figure 1 Merging search neighborhoods <a href="#BIB1">(Gebhardt 2003)</a>.</p>
+</figure></div>
+</div>
+<div id="link-7">
+<div id="BIB1">Gebhardt A. Gebhardt 2003. PVM Kriging with R. Proceedings of the 3rd International Workshop on Distributed Statistical Computing, Vienna, Austria, 20–22 March.<br></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="6" pdf-page="7" figure-order="2" data-type-order="2">
+<a href="#link-2"> </a>
+<div>
+<p id="Ancr2">Fortunately, with the aforementioned parallel Gaussian random field simulation (PGRFS), this fully parallelized scheme reduces the computation time to minutes. Figure 2 illustrates one layer of six ensemble members of the model. Having the functionality to re-sample properties of the geological model enables the smoothing technique to be easily applied to many datasets.</p><div id="link-2">
+
+<div id="102118183755MS-Img_SPi-2"><figure>
+
+<img id="ImgLink-2" src="102118183755MS_i_2.tif" alt="102118183755MS_i_2" ><br>
+<figcaption><b>Figure 2 </b> One layer of six sample log permeability fields from the initial ensemble.</figcaption>
+<p>Figure 2 One layer of six sample log permeability fields from the initial ensemble.</p>
+</figure></div>
+<div id="102118183755MS-Img_SPi-2a"><figure>
+<img id="ImgLink-2a" src="102118183755MS_i_2a.tif" alt="102118183755MS_i_2a" ><br>
+<p>R1</p>
+</figure></div>
+<div id="102118183755MS-Img_SPi-2b"><figure>
+<img id="ImgLink-2b" src="102118183755MS_i_2b.tif" alt="102118183755MS_i_2b" ><br>
+<p>R2</p>
+</figure></div>
+<div id="102118183755MS-Img_SPi-2c"><figure>
+<img id="ImgLink-2c" src="102118183755MS_i_2c.tif" alt="102118183755MS_i_2c" ><br>
+<p>R3</p>
+</figure></div>
+<div id="102118183755MS-Img_SPi-2d"><figure>
+<img id="ImgLink-2d" src="102118183755MS_i_2d.tif" alt="102118183755MS_i_2d" ><br>
+<p>R4</p>
+</figure></div>
+<div id="102118183755MS-Img_SPi-2e"><figure>
+<img id="ImgLink-2e" src="102118183755MS_i_2e.tif" alt="102118183755MS_i_2e" ><br>
+<p>R5</p>
+</figure></div>
+<div id="102118183755MS-Img_SPi-2f"><figure>
+<img id="ImgLink-2f" src="102118183755MS_i_2f.tif" alt="102118183755MS_i_2f" ><br>
+<p>R6</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="6" pdf-page="" figure-order="3" data-type-order="3">
+<a href="#link-3"> </a>
+<div>
+<p id="Ancr3">After four smoothing iterations, the resulting permeability fields corresponding to those in Fig. 2 are illustrated in Fig. 3. It is clear that the in Fig. 2 the sample fields share less similarities due to larger variability in the initial ensemble. On the other hand, in Fig. 3 we can see that the history matched fields share similar structures, indicating a reduction in variability as well as the convergence of the smoother.</p><div id="link-3">
+
+<p><b>Figure 3 </b></p>
+<div id="102118183755MS-Img_SPi-3"><figure>
+<img id="ImgLink-3" src="102118183755MS_i_3.tif" alt="102118183755MS_i_3" ><br>
+<figcaption>One layer of six sample log permeability fields from the 4th iteration of the smoother.</figcaption>
+<p>Figure 3 One layer of six sample log permeability fields from the 4th iteration of the smoother.</p>
+</figure></div>
+<div id="102118183755MS-Img_SPi-3a"><figure>
+<img id="ImgLink-3a" src="102118183755MS_i_3a.tif" alt="102118183755MS_i_3a" ><br>
+<p>R1</p>
+</figure></div>
+<div id="102118183755MS-Img_SPi-3b"><figure>
+<img id="ImgLink-3b" src="102118183755MS_i_3b.tif" alt="102118183755MS_i_3b" ><br>
+<p>R2</p>
+</figure></div>
+<div id="102118183755MS-Img_SPi-3c"><figure>
+<img id="ImgLink-3c" src="102118183755MS_i_3c.tif" alt="102118183755MS_i_3c" ><br>
+<p>R3</p>
+</figure></div>
+<div id="102118183755MS-Img_SPi-3d"><figure>
+<img id="ImgLink-3d" src="102118183755MS_i_3d.tif" alt="102118183755MS_i_3d" ><br>
+<p>R4</p>
+</figure></div>
+<div id="102118183755MS-Img_SPi-3e"><figure>
+<img id="ImgLink-3e" src="102118183755MS_i_3e.tif" alt="102118183755MS_i_3e" ><br>
+<p>R5</p>
+</figure></div>
+<div id="102118183755MS-Img_SPi-3f"><figure>
+<img id="ImgLink-3f" src="102118183755MS_i_3f.tif" alt="102118183755MS_i_3f" ><br>
+<p>R6</p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="2" pdf-page="8" figure-order="4" data-type-order="4">
+<a href="#link-4"> </a>
+<div>
+<p id="Ancr4">Figures 4, 5 and 6 demonstrate the initial and final pressure matches of three different groups of wells, respectively. These groups of wells are located in different areas of the reservoir. Together they are used to evaluate the overall performance of the smoother across the whole reservoir. One important observation is that while most of the data points lie outside the initial ensemble spreads, after four iterations the whole ensemble has been pushed to the trajectories around the observed data and the variations have been reduced significantly.</p><div id="link-4">
+
+<p><b>Figure 4 </b></p>
+<div id="102118183755MS-Img_SPi-4"><figure>
+<img id="ImgLink-4" src="102118183755MS_i_4.tif" alt="102118183755MS_i_4" ><br>
+<figcaption>Static pressure matches for three wells (P1, P2, and P3). The top row is the initial match and the bottom row shows the final match.</figcaption>
+<p>Figure 4 Static pressure matches for three wells (P1, P2, and P3). The top row is the initial match and the bottom row shows the final match.</p>
+</figure></div>
+<div id="102118183755MS-Img_SPi-4a"><figure>
+<img id="ImgLink-4a" src="102118183755MS_i_4a.tif" alt="102118183755MS_i_4a" ><br>
+<p> </p>
+</figure></div>
+<div id="102118183755MS-Img_SPi-4b"><figure>
+<img id="ImgLink-4b" src="102118183755MS_i_4b.tif" alt="102118183755MS_i_4b" ><br>
+<p> </p>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="2" pdf-page="9" figure-order="5" data-type-order="5">
+<a href="#link-5"> </a>
+<div>
+<p id="Ancr5">Figures 4, 5 and 6 demonstrate the initial and final pressure matches of three different groups of wells, respectively. These groups of wells are located in different areas of the reservoir. Together they are used to evaluate the overall performance of the smoother across the whole reservoir. One important observation is that while most of the data points lie outside the initial ensemble spreads, after four iterations the whole ensemble has been pushed to the trajectories around the observed data and the variations have been reduced significantly.</p><div id="link-5">
+
+<div id="102118183755MS-Img_SPi-5"><figure>
+
+<img id="ImgLink-5" src="102118183755MS_i_5.tif" alt="102118183755MS_i_5" ><br>
+<figcaption><b>Figure 5 </b> Static pressure matches for three wells (P4, P5, and P6). The top row is the initial match and the bottom row shows the final match.</figcaption>
+<p>Figure 5 Static pressure matches for three wells (P4, P5, and P6). The top row is the initial match and the bottom row shows the final match.</p>
+</figure></div>
+<div id="102118183755MS-Img_SPi-5a"><figure>
+<img id="ImgLink-5a" src="102118183755MS_i_5a.tif" alt="102118183755MS_i_5a" ><br>
+</figure></div>
+<div id="102118183755MS-Img_SPi-5b"><figure>
+<img id="ImgLink-5b" src="102118183755MS_i_5b.tif" alt="102118183755MS_i_5b" ><br>
+</figure></div>
+</div>
+</div>
+</div>
+<div composite="true" composite-count="2" pdf-page="9" figure-order="6" data-type-order="6">
+<a href="#link-6"> </a>
+<div>
+<p id="Ancr6">Figures 4, 5 and 6 demonstrate the initial and final pressure matches of three different groups of wells, respectively. These groups of wells are located in different areas of the reservoir. Together they are used to evaluate the overall performance of the smoother across the whole reservoir. One important observation is that while most of the data points lie outside the initial ensemble spreads, after four iterations the whole ensemble has been pushed to the trajectories around the observed data and the variations have been reduced significantly.</p><div id="link-6">
+
+<div id="102118183755MS-Img_SPi-6"><figure>
+
+<img id="ImgLink-6" src="102118183755MS_i_6.tif" alt="102118183755MS_i_6" ><br>
+<figcaption><b>Figure 6 </b> Static pressure matches for three wells (P7, P8, and P9). The top row is the initial match and the bottom row shows the final match.</figcaption>
+<p>Figure 6 Static pressure matches for three wells (P7, P8, and P9). The top row is the initial match and the bottom row shows the final match.</p>
+</figure></div>
+<div id="102118183755MS-Img_SPi-6a"><figure>
+<img id="ImgLink-6a" src="102118183755MS_i_6a.tif" alt="102118183755MS_i_6a" ><br>
+</figure></div>
+<div id="102118183755MS-Img_SPi-6b"><figure>
+<img id="ImgLink-6b" src="102118183755MS_i_6b.tif" alt="102118183755MS_i_6b" ><br>
+</figure></div>
+</div>
+</div>
+</div>
+</div>
+</div></html>

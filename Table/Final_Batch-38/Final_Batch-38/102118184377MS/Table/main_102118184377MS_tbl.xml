@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118184377MS.txt" extractionDate="2021-03-23T15:38:58Z">
+<doi>10.2118/184377-MS</doi>
+<pii>10.2118/184377-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="3">
+<table-wrap id="102118184377MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">A common stringing approach would have taken the combination below (Table 1).</anchoringText>
+<label>Table 1</label>
+<caption>Typical rock and fluid property uncertainty matrix</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Typical rock and fluid property uncertainty matrix</caption-text>
+</formatted-caption>
+<table id="102118184377MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th align="center">GRV</th>
+<th align="center">NTG</th>
+<th align="center">SAT</th>
+<th align="center">POR</th>
+<th align="center">Bo</th>
+<th align="center">Realization</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">-1</td>
+<td align="center">-1</td>
+<td valign="bottom" align="center">0</td>
+<td align="center">-1</td>
+<td valign="bottom" align="center">0</td>
+<td align="center">Low</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">0</td>
+<td align="center">Base</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">High</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="5" table-order="2" data-type-order="4">
+<table-wrap id="102118184377MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">In evaluating the initial in-place uncertainty in an OUT and ODT scenario, we carried out sensitivity on the possible fluid contact variations (ODT, Mid Point, WUT and Spill Point). For the OUT we used pressure and GOR information to draw conclusion that the reservoir is undersaturated and thus we filled the column with oil to the crest. However, multiple stringing of low, base and high case parameters was carried out and we eventually selected the combination that supported the performance based production.(Table 2).</anchoringText>
+<label>Table 2</label>
+<caption>Resulting performance based combination for this project.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Resulting performance based combination for this project.</caption-text>
+</formatted-caption>
+<table id="102118184377MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th align="center">GRV</th>
+<th align="center">NTG</th>
+<th align="center">SAT</th>
+<th align="center">POR</th>
+<th align="center">Bo</th>
+<th align="center">Realization</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">-1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">Low</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">Base</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">High</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

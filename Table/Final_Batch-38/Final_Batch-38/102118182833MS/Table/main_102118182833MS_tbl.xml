@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118182833MS.txt" extractionDate="2021-03-23T08:22:48Z">
+<doi>10.2118/182833-MS</doi>
+<pii>10.2118/182833-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="5">
+<table-wrap id="102118182833MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">In general, the dataset provided for the study was more or less complete and of good quality. Table 1 shows the data that was available for the five selected wells.</anchoringText>
+<label>Table 1</label>
+<caption>Results of the Data Audit.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Results of the Data Audit.</caption-text>
+</formatted-caption>
+<table id="102118182833MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th colspan="12" valign="top" align="center">Summary of the log data and image data available for the study</th>
+</tr>
+<tr>
+<th valign="top" align="center">WELLI</th>
+<th valign="top" align="center">GR</th>
+<th valign="top" align="center">CALI</th>
+<th valign="top" align="center">RHOB</th>
+<th valign="top" align="center">NPHI</th>
+<th valign="top" align="center">DTCO</th>
+<th valign="top" align="center">DTSM</th>
+<th valign="top" align="center">RES</th>
+<th valign="top" align="center">PHIE</th>
+<th valign="top" align="center">PHIE</th>
+<th valign="top" align="center">VSH</th>
+<th valign="top" align="center">IMAGE DATA</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">
+<b>M-1</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>N</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>M-2</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>N</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>M-3</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>N</b>
+</td>
+<td valign="top" align="center">
+<b>N</b>
+</td>
+<td valign="top" align="center">
+<b>N</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>M-4</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>N</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>M-5</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>N</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="5" table-order="2" data-type-order="6">
+<table-wrap id="102118182833MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2"> </anchoringText>
+<caption>
+</caption>
+<formatted-caption />
+<table id="102118182833MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th colspan="9" valign="top" align="center">Summary of the drilling data available for the study</th>
+</tr>
+<tr>
+<th align="center">Well</th>
+<th align="center">DDR</th>
+<th align="center">MUD LOG</th>
+<th valign="top" align="center">PRESSURE DATA</th>
+<th valign="top" align="center">FRACTURING DATA (MicroFrac)</th>
+<th align="center">ECD</th>
+<th align="center">SURVEY</th>
+<th align="center">ROP</th>
+<th valign="top" align="center">FLOW RATE (GPM)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">
+<b>M-1</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>N</b>
+</td>
+<td valign="top" align="center">
+<b>N</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>M-2</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>N</b>
+</td>
+<td valign="top" align="center">
+<b>N</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>M-3</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>N</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>M-4</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>N</b>
+</td>
+<td valign="top" align="center">
+<b>N</b>
+</td>
+<td valign="top" align="center">
+<b>N</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>M-5</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>N</b>
+</td>
+<td valign="top" align="center">
+<b>N</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+<td valign="top" align="center">
+<b>Y</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="3" data-type-order="9">
+<table-wrap id="102118182833MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">The extracted drilling events (Table 2) were used to understand what caused the problems while drilling. In addition, they were used to calibrate results of the wellbore stability analysis.</anchoringText>
+<label>Table 2</label>
+<caption>Summary of mud losses and tight holes/stuck pipe incidents observed in the analyzed vertical and lateral wells.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Summary of mud losses and tight holes/stuck pipe incidents observed in the analyzed vertical and lateral wells.</caption-text>
+</formatted-caption>
+<table id="102118182833MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Azm</th>
+<th valign="bottom" align="center">Inc</th>
+<th valign="bottom" align="center">Remarks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">0</td>
+<td valign="bottom" align="left">0</td>
+<td align="left">No Losses</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">0</td>
+<td valign="bottom" align="left">0</td>
+<td align="left">No Losses</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">0</td>
+<td valign="bottom" align="left">0</td>
+<td align="left">No Losses</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">0</td>
+<td valign="bottom" align="left">0</td>
+<td align="left">No Losses</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">10</td>
+<td align="left">45</td>
+<td align="left">No Losses</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">45</td>
+<td valign="bottom" align="left">60</td>
+<td valign="bottom" align="left">No Losses</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">335</td>
+<td valign="bottom" align="left">60</td>
+<td valign="bottom" align="left">No Losses</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">60</td>
+<td valign="bottom" align="left">70</td>
+<td valign="bottom" align="left">No Losses</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">55</td>
+<td valign="bottom" align="left">70</td>
+<td valign="bottom" align="left">No Losses</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">100</td>
+<td valign="bottom" align="left">50</td>
+<td valign="bottom" align="left">No Losses</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">30</td>
+<td valign="bottom" align="left">6S</td>
+<td valign="bottom" align="left">Total Losses in SHUB/BYDH</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">0</td>
+<td valign="bottom" align="left">0</td>
+<td align="left">Total Losses in MDDD</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">80</td>
+<td valign="bottom" align="left">60</td>
+<td align="left">Total Losses in SHUB/BYDH</td>
+</tr>
+<tr>
+<td valign="top" align="left">340</td>
+<td valign="top" align="left">30</td>
+<td valign="top" align="left">Partial Losses in BYDH</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">105</td>
+<td valign="bottom" align="left">65</td>
+<td valign="bottom" align="left">Total Losses in MDDD</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">25</td>
+<td valign="bottom" align="left">70</td>
+<td valign="bottom" align="left">Total Losses in MDDD</td>
+</tr>
+<tr>
+<td valign="top" align="left">322</td>
+<td valign="top" align="left">36</td>
+<td valign="top" align="left">Total Losses in SHUB</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">181</td>
+<td align="left">38</td>
+<td align="left">Severe Losses In SHUB</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">326</td>
+<td valign="bottom" align="left">46</td>
+<td valign="bottom" align="left">Severe Losses in WARA</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">175</td>
+<td valign="bottom" align="left">35</td>
+<td valign="bottom" align="left">Partial Losses in</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">125</td>
+<td valign="bottom" align="left">30</td>
+<td valign="bottom" align="left">Partial Losses in SFNY/ARUM</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">350</td>
+<td valign="bottom" align="left">40</td>
+<td valign="bottom" align="left">Complete Losses in</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">327</td>
+<td valign="bottom" align="left">45</td>
+<td valign="bottom" align="left">Severe Losses in</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">120</td>
+<td valign="bottom" align="left">40</td>
+<td valign="bottom" align="left">Total Losses in WARA</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">336</td>
+<td valign="bottom" align="left">39</td>
+<td valign="bottom" align="left">Losses Encountered</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">320</td>
+<td valign="bottom" align="left">84</td>
+<td valign="bottom" align="left">Losses Encountered</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">135</td>
+<td valign="bottom" align="left">55</td>
+<td valign="bottom" align="left">Seepage Losses in</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">349</td>
+<td valign="bottom" align="left">87</td>
+<td valign="bottom" align="left">Seepage Losses in</td>
+</tr>
+<tr>
+<td valign="top" align="left">344</td>
+<td valign="top" align="left">39</td>
+<td valign="top" align="left">Severe Losses in SFNY</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">335</td>
+<td valign="bottom" align="left">59</td>
+<td valign="bottom" align="left">Seepage Losses in KHFJ</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">123</td>
+<td valign="bottom" align="left">10</td>
+<td valign="bottom" align="left">Total Losses in WARA</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">323</td>
+<td valign="bottom" align="left">40</td>
+<td valign="bottom" align="left">Severe Losses in SFNY</td>
+</tr>
+<tr>
+<td valign="top" align="left">270</td>
+<td valign="top" align="left">9</td>
+<td valign="top" align="left">Severe Losses in WARA</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="4" data-type-order="10">
+<table-wrap id="102118182833MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4"> </anchoringText>
+<caption>
+</caption>
+<formatted-caption />
+<table id="102118182833MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Azm</th>
+<th valign="bottom" align="center">Inc</th>
+<th valign="bottom" align="center">Drilling Events Experienced</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">254</td>
+<td align="left">41</td>
+<td valign="top" align="left">Hole Pack-Off while RIH (72pcf MW) in WARA formation.</td>
+</tr>
+<tr>
+<td align="left">338</td>
+<td align="left">67</td>
+<td valign="bottom" align="left">String stuck while drilling (L. Ratawi), lot of cutting while RIH (74 pcf MW) during hole cleaning. Spotted grease pill and performed acid job.</td>
+</tr>
+<tr>
+<td align="left">98.4</td>
+<td align="left">28</td>
+<td valign="bottom" align="left">Overpull observed while POOH in KHFJ (74 pcf MW), hole pack-off, increase mud weight and worked pipe free.</td>
+</tr>
+<tr>
+<td align="left">301</td>
+<td align="left">87</td>
+<td valign="bottom" align="left">Overpull while pipe connection (75 pcf MW), string stuck while RIH (L. Ratawi), pump acid to free stuck pipe.</td>
+</tr>
+<tr>
+<td align="left">76</td>
+<td align="left">70</td>
+<td valign="bottom" align="left">Experience tight hole during wiper trip (72 pcf MW) across SFNY.</td>
+</tr>
+<tr>
+<td align="left">75</td>
+<td align="left">70</td>
+<td align="left">Several over-pulls, tight holes, obstructions while POOH (75 pcf MW) across BYDH, BUWB.</td>
+</tr>
+<tr>
+<td align="left">18.3</td>
+<td align="left">44</td>
+<td valign="bottom" align="left">String pack-off while washing up (PAMU), no circulation/rotation or string movement (74 pcf MW). Performed Coil Tubing operation to fish out stuck pipe.</td>
+</tr>
+<tr>
+<td align="left">58.5</td>
+<td align="left">73</td>
+<td align="left">Encountered several tight spots across RUML, SFNY, KHFJ, BYDH, BUWB &amp; AHMD formations (75 pcf MW). String got held across AHMD &amp; SFNY freed with over-pull.</td>
+</tr>
+<tr>
+<td align="left">158</td>
+<td align="left">78</td>
+<td valign="top" align="left">Experienced ove-pull while POOH for connection in Base Upper Ratawi (74 pcf MW), added grease pill and worked pipe with no success. Fish left in hole.</td>
+</tr>
+<tr>
+<td align="left">114</td>
+<td align="left">53</td>
+<td valign="bottom" align="left">Encountered tight spots while POOH across ARUM. AHMD and KHFJ formations (73 pcf MW). String got held across AHMD &amp; SFNY. Hole pack-off, performed coil tubing to fish out stuck String.</td>
+</tr>
+<tr>
+<td align="left">59.3</td>
+<td align="left">50</td>
+<td valign="bottom" align="left">Lost circulation (74 pcf MW) and rotation while POOH (KHFJ), string got stuck and freed by working and jarring.</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="10" table-order="5" data-type-order="14">
+<table-wrap id="102118182833MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">For the current project, correlations to calculate the elastic and strength rock properties were developed using the log data and results of the geomechanical laboratory measurements available in well M-3 (Table 3). SPE paper 175170 describes the correlations in details.</anchoringText>
+<label>Table 3</label>
+<caption>Average elastic and rock strength properties.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Average elastic and rock strength properties.</caption-text>
+</formatted-caption>
+<table id="102118182833MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th align="center">Formation</th>
+<th align="center">Core RHOB (g/cc)</th>
+<th align="center">Core PORO (v/v)</th>
+<th align="center">Average Static Young’s Modulus ( E_STA) Mpsi</th>
+<th align="center">Average Static Poisson’s Ratio (PR_STA)</th>
+<th align="center">Unconfined Compressive Strength (UCS) psi</th>
+<th align="center">Friciton Angle (FANG) degs</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2" align="left">Safaniya</td>
+<td valign="bottom" align="left">1.83</td>
+<td valign="bottom" align="left">0.31</td>
+<td valign="bottom" align="left">1.30</td>
+<td valign="bottom" align="left">0.25</td>
+<td valign="bottom" align="left">2068</td>
+<td valign="bottom" align="left">31</td>
+</tr>
+<tr>
+<td align="left">1.77</td>
+<td align="left">0.33</td>
+<td align="left">0.71</td>
+<td valign="bottom" align="left">0.12</td>
+<td valign="bottom" align="left">2108</td>
+<td align="left">30</td>
+</tr>
+<tr>
+<td rowspan="6" align="left">Khafji</td>
+<td valign="bottom" align="left">1.92</td>
+<td valign="bottom" align="left">0.27</td>
+<td valign="bottom" align="left">1.41</td>
+<td valign="bottom" align="left">0.28</td>
+<td valign="bottom" align="left">4617</td>
+<td valign="bottom" align="left">30</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">2.35</td>
+<td valign="bottom" align="left">0.11</td>
+<td valign="bottom" align="left">3.33</td>
+<td valign="bottom" align="left">0.38</td>
+<td valign="bottom" align="left">8597</td>
+<td valign="bottom" align="left">46</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">2.12</td>
+<td valign="bottom" align="left">0.19</td>
+<td valign="bottom" align="left">2.81</td>
+<td valign="bottom" align="left">0.32</td>
+<td valign="bottom" align="left">4804</td>
+<td valign="bottom" align="left">40</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">2.15</td>
+<td valign="bottom" align="left">0.18</td>
+<td valign="bottom" align="left">3.70</td>
+<td valign="bottom" align="left">0.33</td>
+<td valign="bottom" align="left">6316</td>
+<td valign="bottom" align="left">43</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">1.99</td>
+<td valign="bottom" align="left">0.24</td>
+<td valign="bottom" align="left">1.93</td>
+<td valign="bottom" align="left">0.33</td>
+<td valign="bottom" align="left">7138</td>
+<td valign="bottom" align="left">34</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">1.94</td>
+<td valign="bottom" align="left">0.27</td>
+<td valign="bottom" align="left">1.90</td>
+<td valign="bottom" align="left">0.28</td>
+<td valign="bottom" align="left">5352</td>
+<td valign="bottom" align="left">38</td>
+</tr>
+<tr>
+<td rowspan="4" align="left">Shuaiba</td>
+<td valign="bottom" align="left">2.47</td>
+<td valign="bottom" align="left">0.08</td>
+<td valign="bottom" align="left">3.77</td>
+<td valign="bottom" align="left">0.34</td>
+<td valign="bottom" align="left">11184</td>
+<td valign="bottom" align="left">42</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">2.47</td>
+<td valign="bottom" align="left">0.08</td>
+<td valign="bottom" align="left">4.63</td>
+<td valign="bottom" align="left">0.34</td>
+<td valign="bottom" align="left">10716</td>
+<td valign="bottom" align="left">34</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">2.37</td>
+<td valign="bottom" align="left">0.12</td>
+<td valign="bottom" align="left">3.51</td>
+<td valign="bottom" align="left">0.37</td>
+<td valign="bottom" align="left">13411</td>
+<td valign="bottom" align="left">37</td>
+</tr>
+<tr>
+<td align="left">2.28</td>
+<td valign="top" align="left">0.14</td>
+<td valign="top" align="left">3.08</td>
+<td valign="top" align="left">0.34</td>
+<td valign="top" align="left">8089</td>
+<td valign="top" align="left">35</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="18" table-order="6" data-type-order="23">
+<table-wrap id="102118182833MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6">The Saudi Aramco team was planning to continue developing the field using ERD wells. The planned wells were split into five categories depending upon length of the lateral well sections and casing design. General information on the ERD well categories is presented in Table 4.</anchoringText>
+<label>Table 4</label>
+<caption>General information of various well categories for planned ERD wells.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>General information of various well categories for planned ERD wells.</caption-text>
+</formatted-caption>
+<table id="102118182833MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th align="center">*Well Category</th>
+<th valign="bottom" align="center">Reservoir Contact (feet)</th>
+<th valign="bottom" align="center">Casing Design (inch)</th>
+<th align="center">Well Inclination (degs)</th>
+<th align="center">Formations</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4" align="left">Category-1, &amp; Category-2</td>
+<td rowspan="4" align="left">4,000</td>
+<td align="left">18-5/8”</td>
+<td align="left">0</td>
+<td align="left">Rus</td>
+</tr>
+<tr>
+<td align="left">13-3/8”</td>
+<td align="left">0</td>
+<td align="left">UER, Aruma</td>
+</tr>
+<tr>
+<td align="left">9-5/8”</td>
+<td align="left">4 ~ 50</td>
+<td valign="bottom" align="left">Wasia (Ahmadi, Wara, Safaniya, Khafji), Shuaiba, Biyadh</td>
+</tr>
+<tr>
+<td align="left">7”</td>
+<td align="left">50 ~ 88</td>
+<td valign="bottom" align="left">Buwaib, Yamama (Upper Ratawi), Lower Ratawi, Manifa</td>
+</tr>
+<tr>
+<td rowspan="4" align="left">Category-3, Category-4, &amp; Category-5</td>
+<td rowspan="4" align="left">15,000</td>
+<td align="left">18-5/8”</td>
+<td align="left">0</td>
+<td align="left">Rus</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">13-3/8”</td>
+<td valign="bottom" align="left">40</td>
+<td valign="bottom" align="left">UER, Aruma</td>
+</tr>
+<tr>
+<td align="left">9-5/8”</td>
+<td align="left">60</td>
+<td valign="bottom" align="left">Wasia (Ahmadi, Wara, Safaniya, Khafji), Shuaiba, Biyadh</td>
+</tr>
+<tr>
+<td align="left">7”</td>
+<td align="left">88 ~ 90</td>
+<td valign="bottom" align="left">Buwaib, Yamama (Upper Ratawi), Lower Ratawi, Manifa</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="19" table-order="7" data-type-order="25">
+<table-wrap id="102118182833MS-tblwrp-7" content-type="structured">
+<anchoringText id="Ancr7">Saudi Aramco provided trajectories and formation tops for five planned wells (P-1, P-2, P-3, P-4, and P-5) and requested to have optimized mud weight programs for safe drilling. Based on the results of the current geomechanical analysis, geomechanical modeling was conducted for the planned trajectories and recommendations for safe and stable drilling were issued (Figure 16). Table 5 shows the mud weight recommendations that can help to minimize the wellbore instability-related issues while drilling through the problematic zones.</anchoringText>
+<label>Table 5</label>
+<caption>Summary of the mud weight recommendations for planned ERD wells (based on the sensitivity analysis and review of the drilling experience).</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Summary of the mud weight recommendations for planned ERD wells (based on the sensitivity analysis and review of the drilling experience).</caption-text>
+</formatted-caption>
+<table id="102118182833MS-Tbl_SPi-7" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" align="center">Planned Hole Section</th>
+<th rowspan="2" align="center">Formation</th>
+<th rowspan="2" align="center">Hole Dev (degs)</th>
+<th colspan="5" align="center">Recommended Mud Weight (pcf)</th>
+<th rowspan="2" align="center">Expected Wellbore Instability Events and Recommended Drilling Practices</th>
+</tr>
+<tr>
+<th align="center">Category-1</th>
+<th align="center">Category-2</th>
+<th align="center">Category-3</th>
+<th align="center">Category-4</th>
+<th align="center">Category-5</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td id="tfn-1" colspan="9" align="left">*Note: The above recommendations are based on casing the shallow shaly formations till the Wara</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td rowspan="8" align="left">12-1/4”</td>
+<td rowspan="3" align="left">*Pamu~Wara</td>
+<td valign="bottom" align="left">10 ~ 20</td>
+<td colspan="2" align="left">76 ~ 80</td>
+<td colspan="3" valign="top" align="center">
+</td>
+<td rowspan="3" align="left">Possible Tight Hole &amp; Shale sloughing. Implement good hole cleaning. Minimize connection time, Keep string in motion.</td>
+</tr>
+<tr>
+<td align="left">30 ~ 45</td>
+<td colspan="2" valign="top" align="center">
+</td>
+<td align="left">85 ~ 90</td>
+<td colspan="2" valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td align="left">40 ~ 50</td>
+<td colspan="3" valign="top" align="left">
+</td>
+<td colspan="2" align="left">88 ~ 92</td>
+</tr>
+<tr>
+<td rowspan="3" align="left">Safaniya ~ Shuaiba</td>
+<td align="left">15 ~ 45</td>
+<td colspan="2" align="left">74 ~ 78</td>
+<td colspan="3" valign="top" align="center">
+</td>
+<td rowspan="3" align="left">Possible breakouts in Safaniya &amp; Khafji. Implement good hole cleaning practices</td>
+</tr>
+<tr>
+<td align="left">45 ~ 65</td>
+<td colspan="2" valign="top" align="center">
+</td>
+<td align="left">75 ~ 80</td>
+<td colspan="2" valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td align="left">50 ~ 65</td>
+<td colspan="3" valign="top" align="center">
+</td>
+<td colspan="2" align="left">78 ~ 83</td>
+</tr>
+<tr>
+<td rowspan="2" align="left">Biyadh ~ Buwaib</td>
+<td align="left">40 ~ 60</td>
+<td colspan="2" align="left">75 ~ 80</td>
+<td colspan="3" valign="top" align="center">
+</td>
+<td rowspan="2" align="left">Limited breakouts and tight holes. Implement good hole cleaning practices</td>
+</tr>
+<tr>
+<td align="left">65 ~ 66</td>
+<td colspan="2" valign="top" align="center">
+</td>
+<td colspan="3" align="left">80 ~ 85</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

@@ -1,0 +1,272 @@
+﻿<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8" ></head><div>
+<div><b>Meta Informations:</b><p>SPE_Society_of_Petroleum_Engineers</p><p>DOI: 10.2118/185877-MS<br>PII: 10.2118/185877-MS<br></p></div>
+<div>
+<div pdf-page="10" table-order="1" data-type-order="6">
+<div id="102118185877MS-tblwrp-1" content-type="structured"><p>All uncertain input parameters are included as multipliers in the simulation model. Table 1 below gives an overview on all 55 input parameters including ranges used in the uncertainty definition. Base case values correspond to the delivered base case scenario. Ranges for porosity and permeability multipliers correspond to P10, P90 values of the original pre-defined non-uniform prior distributions.</p><p><b>Table 1</b> Uncertainty Parameters.</p><p>Table 1 Uncertainty Parameters.</p><table id="102118185877MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">
+<a id="bookmark0">
+</a>Input Parameters (multipliers)</th>
+<th valign="top" align="center">No.</th>
+<th valign="top" align="center">Min</th>
+<th valign="top" align="center">Base</th>
+<th valign="top" align="center">Max</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">PERMX=PERMY for all geological layers (1-9)</td>
+<td valign="top" align="center">1-9</td>
+<td valign="top" align="center">0.3</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">3.5</td>
+</tr>
+<tr>
+<td valign="top" align="left">PERMX=PERMY for layers in tail region (1-9)</td>
+<td valign="top" align="center">10-14</td>
+<td valign="top" align="center">0.1</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">13</td>
+</tr>
+<tr>
+<td valign="top" align="left">PORO for all geological layers (1-9)</td>
+<td valign="top" align="center">15-23</td>
+<td valign="top" align="center">0.5</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">1.8</td>
+</tr>
+<tr>
+<td valign="top" align="left">PORO for layers in tail region (1-9)</td>
+<td valign="top" align="center">24-28</td>
+<td valign="top" align="center">0.3</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">3.5</td>
+</tr>
+<tr>
+<td valign="top" align="left">MULTZ between all geological layers (1-9)</td>
+<td valign="top" align="center">29-37</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">1</td>
+</tr>
+<tr>
+<td valign="top" align="left">MULTFLT for fault parameterization</td>
+<td valign="top" align="center">38-50</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">1</td>
+</tr>
+<tr>
+<td valign="top" align="left">WPIMULT for well performance parameterization</td>
+<td valign="top" align="center">51-55</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">1</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="11" table-order="2" data-type-order="8">
+<div id="102118185877MS-tblwrp-2" content-type="structured"><p>The standard deviation (σj,k) measured in field units, the global weighting factor (ωj,k), as well as the calculated partial objective function values (Qj,k(m)) for the base case scenario are listed in Table 2.</p><p><b>Table 2</b> Contributions to global objective function.</p><p>Table 2 Contributions to global objective function.</p><table id="102118185877MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="bottom" align="center">
+<a id="Sensitivity_Phase">
+</a>Wells</th>
+<th rowspan="2" valign="bottom" align="center">J1</th>
+<th colspan="3" align="center">BHP</th>
+<th rowspan="2" valign="bottom" align="center">J5</th>
+<th colspan="5" align="center">WPR</th>
+<th colspan="5" align="center">GPR</th>
+</tr>
+<tr>
+<th align="center">J2</th>
+<th align="center">J3Y</th>
+<th align="center">J4</th>
+<th align="center">J1</th>
+<th align="center">J2</th>
+<th align="center">J3Y</th>
+<th align="center">J4</th>
+<th align="center">J5</th>
+<th align="center">J1</th>
+<th align="center">J2</th>
+<th align="center">J3Y</th>
+<th align="center">J4</th>
+<th align="center">J5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">(σ<i>
+<sub>j,k</sub>
+</i>)</td>
+<td align="left">200</td>
+<td align="left">200</td>
+<td align="left">200</td>
+<td align="left">200</td>
+<td align="left">200</td>
+<td align="left">100</td>
+<td align="left">100</td>
+<td align="left">100</td>
+<td align="left">100</td>
+<td align="left">100</td>
+<td align="left">1000</td>
+<td align="left">1000</td>
+<td align="left">1000</td>
+<td align="left">1000</td>
+<td align="left">1000</td>
+</tr>
+<tr>
+<td valign="top" align="center">(ω<i>
+<sub>j,k</sub>
+</i>)</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+<td align="left">1</td>
+</tr>
+<tr>
+<td align="left">
+<i>Q<sub>j,k</sub>(m)</i>
+</td>
+<td align="left">9</td>
+<td align="left">9</td>
+<td align="left">13</td>
+<td align="left">6</td>
+<td align="left">3</td>
+<td align="left">1</td>
+<td align="left">0.1</td>
+<td align="left">6250</td>
+<td align="left">1310</td>
+<td align="left">1.5</td>
+<td align="left">0</td>
+<td align="left">0</td>
+<td align="left">2</td>
+<td align="left">0</td>
+<td align="left">0</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="12" table-order="3" data-type-order="10">
+<div id="102118185877MS-tblwrp-3" content-type="structured"><p>Based on sensitivity results we will focus on input parameters in the history matching phase with the strongest impact on all key mismatch responses. This includes permeability and porosity variations in perforated layers as well as faults which are located close to producing wells. Selected input parameters and ranges are summarized in Table 3. The scale column in Table 3 indicates the type of parameterization chosen for the input parameter. Linear scale means that multipliers are directly applied and logarithmic scale suggests that the variable is used as an exponent to the basis of 10. This is consistent with Table 1.</p><p><b>Table 3</b> Revised uncertainty parameter matrix.</p><p>Table 3 Revised uncertainty parameter matrix.</p><table id="102118185877MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Input Parameter</th>
+<th valign="top" align="center">No</th>
+<th valign="top" align="center">geo. layer / fault name</th>
+<th valign="top" align="center">Min</th>
+<th valign="top" align="center">Base</th>
+<th valign="top" align="center">Max</th>
+<th valign="top" align="center">Scale</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Permeability head+tail</td>
+<td valign="top" align="center">1,2</td>
+<td valign="top" align="center">1-2</td>
+<td valign="top" align="center">-0.55</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">0.55</td>
+<td valign="top" align="left">log</td>
+</tr>
+<tr>
+<td valign="top" align="left">Permeability tail region</td>
+<td valign="top" align="center">10,11</td>
+<td valign="top" align="center">1-2</td>
+<td valign="top" align="center">-1.1</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">1.1</td>
+<td valign="top" align="left">log</td>
+</tr>
+<tr>
+<td valign="top" align="left">Porosity head+tail</td>
+<td valign="top" align="center">15,16</td>
+<td valign="top" align="center">1-2</td>
+<td valign="top" align="center">0.55</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">1.84</td>
+<td valign="top" align="left">linear</td>
+</tr>
+<tr>
+<td valign="top" align="left">Porosity tail region</td>
+<td valign="top" align="center">24,25</td>
+<td valign="top" align="center">1-2</td>
+<td valign="top" align="center">0.28</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">3.55</td>
+<td valign="top" align="left">linear</td>
+</tr>
+<tr>
+<td valign="top" align="left">Fault multiplier</td>
+<td valign="top" align="center">40,41,44,48</td>
+<td valign="top" align="center">23,23S,26,31</td>
+<td valign="top" align="center">-6</td>
+<td valign="top" align="center">-3</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="left">log</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="13" table-order="4" data-type-order="11">
+<div id="102118185877MS-tblwrp-4" content-type="structured"><p>In this section we present workflow results and solutions to the history match. The sequence of method applications closely follow the workflow design presented in Fig. 4. Methods including the number of simulation runs used to generate results are summarized in Table 4. Time and resource estimates are typically not part of a history matching project specification. For this work, resource estimates are part of the benchmark criteria and are therefore listed explicitly in Table 4.</p><p><b>Table 4</b> Sequence of methods and number of simulation runs.</p><p>Table 4 Sequence of methods and number of simulation runs.</p><table id="102118185877MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">
+<a id="History_matching_phase">
+</a>
+<i>No</i>
+</th>
+<th valign="top" align="left">
+<i>Method</i>
+</th>
+<th valign="top" align="left">
+<i>Simulations</i>
+</th>
+<th valign="top" align="left">
+<i>Description</i>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">1</td>
+<td valign="top" align="left">Latin Hypercube</td>
+<td valign="top" align="center">150</td>
+<td valign="top" align="left">screening and training data set generation</td>
+</tr>
+<tr>
+<td valign="top" align="left">2</td>
+<td valign="top" align="left">MCMC Optimization</td>
+<td valign="top" align="center">100</td>
+<td valign="top" align="left">obtain history match and refine proxy models</td>
+</tr>
+<tr>
+<td valign="top" align="left">3</td>
+<td valign="top" align="left">MCMC Sampling</td>
+<td valign="top" align="center">100</td>
+<td valign="top" align="left">create prediction ensemble from posterior</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+</div>
+</div></html>

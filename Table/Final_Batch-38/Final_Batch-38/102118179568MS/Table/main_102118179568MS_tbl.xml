@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118179568MS.txt" extractionDate="2021-03-22T17:04:23Z">
+<doi>10.2118/179568-MS</doi>
+<pii>10.2118/179568-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="6" table-order="1" data-type-order="6">
+<table-wrap id="102118179568MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Table 1 presents a general sequence of events that occurred, including cumulative injection and production achieved during the CO2 pilot. Discernible pressure responses at the production wells that could be attributed to injection at BU-1 were observed during planned shut-in periods. Pressure transient test results and inference from direct pressure measurements indicated obvious communication between injection and production wells.</anchoringText>
+<label>Table 1</label>
+<caption>General sequence of events and cumulative CO<sub>2</sub> injection and oil production during the pilot CO<sub>2</sub> flood</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>General sequence of events and cumulative CO<sub>2</sub> injection and oil production during the pilot CO<sub>2</sub> flood</caption-text>
+</formatted-caption>
+<table id="102118179568MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Event</th>
+<th valign="bottom" align="center">Date</th>
+<th valign="bottom" align="center">Duration (days)</th>
+<th valign="bottom" align="center">Cumulative Injection</th>
+<th valign="bottom" align="center">Cumulative Production</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">CO<sub>2</sub> injection</td>
+<td valign="bottom" align="left">September 3, 2009</td>
+<td valign="bottom" align="left">141</td>
+<td valign="bottom" align="left">2,860 tons (2,595 tonnes)</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Water injection</td>
+<td valign="bottom" align="left">January 22, 2010</td>
+<td valign="bottom" align="left">101</td>
+<td valign="bottom" align="left">13,100 bbl (2,083 m<sup>3</sup>)</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">CO<sub>2</sub> injection</td>
+<td valign="bottom" align="left">May 3, 2010</td>
+<td valign="bottom" align="left">226</td>
+<td valign="bottom" align="left">4,080 tons (3,701 tonnes)</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Water injection</td>
+<td valign="bottom" align="left">December 15, 2010</td>
+<td valign="bottom" align="left">Ongoing</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Total CO<sub>2</sub> injection</td>
+<td valign="top" align="left">–</td>
+<td valign="top" align="left">–</td>
+<td valign="bottom" align="left">6,940 tons (6,296 tonnes)</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Total CO<sub>2</sub> produced</td>
+<td valign="top" align="center">–</td>
+<td valign="top" align="center">–</td>
+<td valign="top" align="center">–</td>
+<td valign="top" align="left">30 tons (27 tonnes)</td>
+</tr>
+<tr>
+<td align="left">
+<a id="bookmark0">Enhanced oil recovery (EOR)</a>
+</td>
+<td valign="top" align="center">–</td>
+<td valign="top" align="center">–</td>
+<td valign="top" align="center">–</td>
+<td align="left">2,045 stb (325.2 m<sup>3</sup>)</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="2" data-type-order="8">
+<table-wrap id="102118179568MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">A five-component Peng-Robinson equation of state (EOS) was used to generate pressure-volumetemperature (PVT) properties of the crude oil for CO2, C1, C2, C6, and C25. The mole fractions of these pseudo-components and their interaction parameters were refined to match reservoir fluid properties measured in the laboratory. The mole fractions of the pseudocomponents in the refined EOS are 0.01, 0.10, 0.16, 0.14, and 0.59 for CO2, C1, C2, C6, and C25, respectively. Table 2 presents the reservoir fluid properties at Mumford Hills.</anchoringText>
+<label>Table 2</label>
+<caption>Reservoir fluid properties at Mumford Hills (Frailey et al., 2012 )</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Reservoir fluid properties at Mumford Hills (<link href="BIB13">Frailey et al., 2012</link> )</caption-text>
+</formatted-caption>
+<table id="102118179568MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Property</th>
+<th valign="top" align="center">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Average reservoir temperature, °F</td>
+<td valign="top" align="center">78</td>
+</tr>
+<tr>
+<td valign="top" align="left">Original Oil in Place, OOIP, mmstb</td>
+<td valign="top" align="center">2.2</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil formation volume factor, <i>B</i>
+<sub>o</sub>, rb/stb</td>
+<td valign="top" align="center">1.06</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil viscosity, <i>μ</i>
+<sub>o</sub>, cP</td>
+<td valign="top" align="center">4.7</td>
+</tr>
+<tr>
+<td valign="top" align="left">Solution gas-oil ratio, <i>R</i>
+<sub>so</sub>, scf/stb</td>
+<td valign="top" align="center">146</td>
+</tr>
+<tr>
+<td valign="top" align="left">Oil density, g/cm<sup>3</sup> (API)</td>
+<td valign="top" align="center">0.85(37°)</td>
+</tr>
+<tr>
+<td valign="top" align="left">Water density, <i>ρ</i>
+<sub>w</sub>, lb/ft<sup>3</sup>
+</td>
+<td valign="top" align="center">69</td>
+</tr>
+<tr>
+<td valign="top" align="left">Initial water formation volume factor, <i>b</i>
+<sub>wi</sub>, rb/stb</td>
+<td valign="top" align="center">1.01</td>
+</tr>
+<tr>
+<td valign="top" align="left">Water viscosity, <i>μ</i>
+<sub>w</sub>, cP</td>
+<td valign="top" align="center">1.0</td>
+</tr>
+<tr>
+<td valign="top" align="left">Water compressibility, <i>c</i>
+<sub>w</sub>, psi<sup>-1</sup>
+</td>
+<td valign="top" align="center">3.0 × 10<sup>–6</sup>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">Rock compressibility, <i>c</i>
+<sub>r</sub>, psi<sup>-1</sup>
+</td>
+<td valign="top" align="center">5.0 × 10<sup>–6</sup>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-13" type="bib">
+<bib id="BIB13">
+<label>Frailey et al., 2012</label>
+<author>
+<first-name>S. M.</first-name>
+<last-name>Frailey</last-name>
+</author>, <author>
+<first-name>I. G.</first-name>
+<last-name>Krapac</last-name>
+</author>, <author>
+<first-name>J. R.</first-name>
+<last-name>Damico</last-name>
+</author>, <author>
+<first-name>R. T.</first-name>
+<last-name>Okwen</last-name>
+</author>, and <author>
+<first-name>R. W.</first-name>
+<last-name>McKaskle</last-name>
+</author>
+<pubDate>2012</pubDate>. <i>CO2 Storage and Enhanced Oil Recovery: Bald Unit Test Site, Mumford Hills Oil Field, Posey County, </i>Indiana. J.H. Goodwin and C.C. Monson (eds.), Champaign, Illinois, Illinois State Geological Survey, Open File Series <pages>
+<first-page>2012</first-page>
+<last-page>5</last-page>
+</pages>.</bib>
+</linkTarget>
+</appendix>
+</docTable>
+<docTable pdf-page="9" table-order="3" data-type-order="10">
+<table-wrap id="102118179568MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Reservoir modeling results for both pilot scenarios predict significant incremental oil production compared to the Mumford Hills pilot because of the interrupted CO2 injection and short duration of the pilot. Model results predict an incremental oil recovery of about 48,000 stb (11% of OOIP) and 62,000 stb (14% of OOIP) for pilot scenario 1 and pilot scenario 2, respectively (Table 3), which are greater than the CO2 EOR of 2045 stb achieved in the pilot.</anchoringText>
+<label>Table 3</label>
+<caption>Projected EOR and CO<sub>2</sub> utilization for the two pilot scenarios (modified from Frailey et al., 2012 ). ©2015 University of Illinois Board of Trustees. Used by permission of the Illinois State Geological Survey</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Projected EOR and CO<sub>2</sub> utilization for the two pilot scenarios (modified from <link href="BIB14">Frailey et al., 2012</link> ). ©2015 University of Illinois Board of Trustees. Used by permission of the Illinois State Geological Survey</caption-text>
+</formatted-caption>
+<table id="102118179568MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">Pilot Scenario 1</th>
+<th valign="top" align="center">Pilot Scenario 1</th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td id="tfn-1" colspan="3" align="left">
+<sup>1</sup>Hydrocarbon pore volume</td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td valign="top" align="left">CO<sub>2</sub> injection period</td>
+<td valign="top" align="center">1 year</td>
+<td valign="top" align="center">5 years</td>
+</tr>
+<tr>
+<td valign="top" align="left">EOR, stb</td>
+<td valign="top" align="center">47,808</td>
+<td valign="top" align="center">62,417</td>
+</tr>
+<tr>
+<td valign="top" align="left">EOR, % OOIP</td>
+<td valign="top" align="center">10.7</td>
+<td valign="top" align="center">13.9</td>
+</tr>
+<tr>
+<td valign="top" align="left">Net utilization, mscf/stb</td>
+<td valign="top" align="center">6.22</td>
+<td valign="top" align="center">10.1</td>
+</tr>
+<tr>
+<td valign="top" align="left">Gross utilization, mscf/stb</td>
+<td valign="top" align="center">7.9</td>
+<td valign="top" align="center">30.09</td>
+</tr>
+<tr>
+<td valign="top" align="left">CO<sub>2</sub> storage, tons</td>
+<td valign="top" align="center">17,345</td>
+<td valign="top" align="center">36,741</td>
+</tr>
+<tr>
+<td valign="top" align="left">CO<sub>2</sub> storage factor, mscf/stb OOIP</td>
+<td valign="top" align="center">0.6634</td>
+<td valign="top" align="center">1.409</td>
+</tr>
+<tr>
+<td valign="top" align="left">Storage efficiency, % HCPV<link href="tfn-1">
+<sup>1</sup>
+</link>
+</td>
+<td valign="top" align="center">27.7%</td>
+<td valign="top" align="center">59.1%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-13" type="bib">
+<bib id="BIB14">
+<label>Frailey et al., 2012</label>
+<author>
+<first-name>S. M.</first-name>
+<last-name>Frailey</last-name>
+</author>, <author>
+<first-name>I. G.</first-name>
+<last-name>Krapac</last-name>
+</author>, <author>
+<first-name>J. R.</first-name>
+<last-name>Damico</last-name>
+</author>, <author>
+<first-name>R. T.</first-name>
+<last-name>Okwen</last-name>
+</author>, and <author>
+<first-name>R. W.</first-name>
+<last-name>McKaskle</last-name>
+</author>
+<pubDate>2012</pubDate>. <i>CO2 Storage and Enhanced Oil Recovery: Bald Unit Test Site, Mumford Hills Oil Field, Posey County, </i>Indiana. J.H. Goodwin and C.C. Monson (eds.), Champaign, Illinois, Illinois State Geological Survey, Open File Series <pages>
+<first-page>2012</first-page>
+<last-page>5</last-page>
+</pages>.</bib>
+</linkTarget>
+</appendix>
+</docTable>
+<docTable pdf-page="11" table-order="4" data-type-order="12">
+<table-wrap id="102118179568MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">Field scenario 1 simulated four regular five-spot patterns consisting of 11 existing wells and three new wells (Fig. 8). Field scenario 2 simulated seven regular five-spot patterns consisting of 12 existing wells and nine new wells. CO2 was injected for 20 years in both scenarios. Model results predict an incremental oil recovery of about 106,000 stb (10% of OOIP) and 170,000 stb (12% of OOIP) for field scenario 1 and field scenario 2, respectively (Table 4).</anchoringText>
+<label>Table 4</label>
+<caption>Projected EOR and CO<sub>2</sub> utilization for the two field development scenarios (modified from Frailey et al., 2012 ). Storage efficiency is relatively high due to additional storage in the pore space of the aquifer underlying the oil reservoir. ©2015 University of Illinois Board of Trustees. Used by permission of the Illinois State Geological Survey</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Projected EOR and CO<sub>2</sub> utilization for the two field development scenarios (modified from <link href="BIB15">Frailey et al., 2012</link> ). Storage efficiency is relatively high due to additional storage in the pore space of the aquifer underlying the oil reservoir. ©2015 University of Illinois Board of Trustees. Used by permission of the Illinois State Geological Survey</caption-text>
+</formatted-caption>
+<table id="102118179568MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">Field Scenario 1</th>
+<th valign="top" align="center">Field Scenario 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">EOR, mstb</td>
+<td valign="top" align="center">106,309</td>
+<td valign="top" align="center">169,263</td>
+</tr>
+<tr>
+<td valign="top" align="left">EOR, % OOIP</td>
+<td valign="top" align="center">9.8</td>
+<td valign="top" align="center">11.8</td>
+</tr>
+<tr>
+<td valign="top" align="left">Net utilization, mscf/stb</td>
+<td valign="top" align="center">34.4</td>
+<td valign="top" align="center">30.9</td>
+</tr>
+<tr>
+<td valign="top" align="left">Gross utilization, mscf/stb</td>
+<td valign="top" align="center">203.4</td>
+<td valign="top" align="center">162.2</td>
+</tr>
+<tr>
+<td valign="top" align="left">CO<sub>2</sub> storage, tons (tonnes)</td>
+<td valign="top" align="center">213,065</td>
+<td valign="top" align="center">305,213</td>
+</tr>
+<tr>
+<td valign="top" align="left">CO<sub>2</sub> storage factor, mscf/stb OOIP</td>
+<td valign="top" align="center">3.361</td>
+<td valign="top" align="center">3.635</td>
+</tr>
+<tr>
+<td valign="top" align="left">Storage efficiency, % HCPV*</td>
+<td valign="top" align="center">131.6%</td>
+<td valign="top" align="center">150.3%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-13" type="bib">
+<bib id="BIB15">
+<label>Frailey et al., 2012</label>
+<author>
+<first-name>S. M.</first-name>
+<last-name>Frailey</last-name>
+</author>, <author>
+<first-name>I. G.</first-name>
+<last-name>Krapac</last-name>
+</author>, <author>
+<first-name>J. R.</first-name>
+<last-name>Damico</last-name>
+</author>, <author>
+<first-name>R. T.</first-name>
+<last-name>Okwen</last-name>
+</author>, and <author>
+<first-name>R. W.</first-name>
+<last-name>McKaskle</last-name>
+</author>
+<pubDate>2012</pubDate>. <i>CO2 Storage and Enhanced Oil Recovery: Bald Unit Test Site, Mumford Hills Oil Field, Posey County, </i>Indiana. J.H. Goodwin and C.C. Monson (eds.), Champaign, Illinois, Illinois State Geological Survey, Open File Series <pages>
+<first-page>2012</first-page>
+<last-page>5</last-page>
+</pages>.</bib>
+</linkTarget>
+</appendix>
+</docTable>
+<docTable pdf-page="13" table-order="5" data-type-order="14">
+<table-wrap id="102118179568MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5"> </anchoringText>
+<caption>
+</caption>
+<formatted-caption />
+<table id="102118179568MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" valign="top" align="center">SI Metric Conversions Factors</th>
+</tr>
+<tr>
+<th valign="top" align="center">Field Units</th>
+<th valign="top" align="center">Metric Units</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">bbl × 1.589873 E-01</td>
+<td valign="top" align="left">= m<sup>3</sup>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">cp × 1.0E-03</td>
+<td valign="top" align="left">= Pa.s</td>
+</tr>
+<tr>
+<td valign="top" align="left">°F (°F-32)/1.8</td>
+<td valign="top" align="left">= °C</td>
+</tr>
+<tr>
+<td valign="top" align="left">ft × 3.048E-01</td>
+<td valign="top" align="left">= m</td>
+</tr>
+<tr>
+<td valign="top" align="left">ft^(3) × 2.831685 E-02</td>
+<td valign="top" align="left">= m<sup>3</sup>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">in. × 2.54</td>
+<td valign="top" align="left">= cm</td>
+</tr>
+<tr>
+<td valign="top" align="left">lbf × 4.448 222</td>
+<td valign="top" align="left">= N</td>
+</tr>
+<tr>
+<td valign="top" align="left">psi × 6.894757</td>
+<td valign="top" align="left">= kPa</td>
+</tr>
+<tr>
+<td valign="top" align="left">141.5/(131.5+ °API)</td>
+<td valign="top" align="left">= g/cc (g/cm<sup>3</sup>)</td>
+</tr>
+<tr>
+<td valign="top" align="left">acre × 4046.856</td>
+<td valign="top" align="left">= m<sup>2</sup>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

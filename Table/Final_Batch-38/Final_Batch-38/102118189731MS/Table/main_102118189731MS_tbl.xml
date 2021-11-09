@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189731MS.txt" extractionDate="2021-03-27T10:17:46Z">
+<doi>10.2118/189731-MS</doi>
+<pii>10.2118/189731-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="3" table-order="1" data-type-order="2">
+<table-wrap id="102118189731MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">From a fluids perspective, the MBA Fatehgarh oils do have some unusual properties that lead to a few development challenges (Table 1, Figure 1). The oils are lacustrine-sourced and thus very waxy, with average viscosities in the main oil columns of 7-30 cP.</anchoringText>
+<label>Table 1</label>
+<caption>Key fluid properties by field.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Key fluid properties by field.</caption-text>
+</formatted-caption>
+<table id="102118189731MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="right">Key Properties by Field</th>
+<th valign="top" align="center">Aishwariya</th>
+<th valign="top" align="center">Mangala</th>
+<th valign="top" align="center">Bhagyam</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="right">Stoiip, mmb</td>
+<td valign="top" align="center">300</td>
+<td valign="top" align="center">1,300</td>
+<td valign="top" align="center">500</td>
+</tr>
+<tr>
+<td valign="top" align="right">Depth, m</td>
+<td valign="top" align="center">1,050-1,350</td>
+<td valign="top" align="center">750-1,150</td>
+<td valign="top" align="center">425-625</td>
+</tr>
+<tr>
+<td valign="top" align="right">Reservoir Temperature, °C</td>
+<td valign="top" align="center">65 – 75°</td>
+<td valign="top" align="center">55 – 70°</td>
+<td valign="top" align="center">50 – 57°</td>
+</tr>
+<tr>
+<td valign="top" align="right">Wax Appearance Temp, °C</td>
+<td valign="top" align="center">∼65°</td>
+<td valign="top" align="center">∼55°</td>
+<td valign="top" align="center">∼50°</td>
+</tr>
+<tr>
+<td valign="top" align="right">Pour Point, °C</td>
+<td valign="top" align="center">40-45°</td>
+<td valign="top" align="center">40-45°</td>
+<td valign="top" align="center">∼45°</td>
+</tr>
+<tr>
+<td valign="top" align="right">Gravity, °API</td>
+<td valign="top" align="center">27-32°</td>
+<td valign="top" align="center">20-28°</td>
+<td valign="top" align="center">21-30°</td>
+</tr>
+<tr>
+<td valign="top" align="right">Viscosity, cP</td>
+<td valign="top" align="center">7–25</td>
+<td valign="top" align="center">10–50</td>
+<td valign="top" align="center">15–500</td>
+</tr>
+<tr>
+<td valign="top" align="right">Biodegraded Zone Thickness, m</td>
+<td valign="top" align="center">&#x003C;5</td>
+<td valign="top" align="center">∼25</td>
+<td valign="top" align="center">∼50</td>
+</tr>
+<tr>
+<td valign="top" align="right">GOR, scf/bbl</td>
+<td valign="top" align="center">160</td>
+<td valign="top" align="center">185</td>
+<td valign="top" align="center">100</td>
+</tr>
+<tr>
+<td valign="top" align="right">CO2 Content, [mole]</td>
+<td valign="top" align="center">∼25%</td>
+<td valign="top" align="center">∼7%</td>
+<td valign="top" align="center">∼1%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="6" table-order="2" data-type-order="7">
+<table-wrap id="102118189731MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Bhagyam is a compact 5.5km2 field with ~500 mmb Stoiip (Table 2). Figure 2 shows FB1 top structure, Figure 3 shows a typical well log, Figure 4 shows FB1 net pay and Figure 5 shows a dip cross-section. The reservoirs have been developed with a total of 112 producers and 41 injectors via edge linedrive waterfloods. Although FB-1 (~70% of Stoiip) and FB-3 (~20% of Stoiip) contain most of the Bhagyam oil resource, each Fatehgarh member has dedicated production and injection wells, so there is no commingling between members. Also note that almost half of the Stoiip lies in the higher viscosity BOZ.</anchoringText>
+<label>Table 2</label>
+<caption>Key Bhagyam parameters and volumes.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Key Bhagyam parameters and volumes.</caption-text>
+</formatted-caption>
+<table id="102118189731MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" align="center">Bhagyam Member</th>
+<th rowspan="2" align="center">Soi</th>
+<th rowspan="2" align="center">NTG</th>
+<th colspan="2" align="center">Stoiip</th>
+<th rowspan="2" align="center">% Biodegraded</th>
+<th colspan="2" align="center">Well Count</th>
+</tr>
+<tr>
+<th align="center">mmb</th>
+<th align="center">% of Tot</th>
+<th align="center">Prod.</th>
+<th align="center">Inj.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="right">FBI</td>
+<td valign="top" align="center">90%</td>
+<td valign="top" align="center">72%</td>
+<td valign="top" align="center">360</td>
+<td valign="top" align="center">72%</td>
+<td valign="top" align="center">38%</td>
+<td valign="top" align="center">84</td>
+<td valign="top" align="center">27</td>
+</tr>
+<tr>
+<td valign="top" align="right">FB3</td>
+<td valign="top" align="center">95%</td>
+<td valign="top" align="center">94%</td>
+<td valign="top" align="center">105</td>
+<td valign="top" align="center">21%</td>
+<td valign="top" align="center">58%</td>
+<td valign="top" align="center">24</td>
+<td valign="top" align="center">11</td>
+</tr>
+<tr>
+<td valign="top" align="right">FB4</td>
+<td valign="top" align="center">90%</td>
+<td valign="top" align="center">73%</td>
+<td valign="top" align="center">25</td>
+<td valign="top" align="center">5%</td>
+<td valign="top" align="center">69%</td>
+<td valign="top" align="center">2</td>
+<td valign="top" align="center">2</td>
+</tr>
+<tr>
+<td valign="top" align="right">FB5</td>
+<td valign="top" align="center">95%</td>
+<td valign="top" align="center">81%</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">2%</td>
+<td valign="top" align="center">73%</td>
+<td valign="top" align="center">2</td>
+<td valign="top" align="center">1</td>
+</tr>
+<tr>
+<td valign="top" align="right">Total</td>
+<td valign="top" align="center">92%</td>
+<td valign="top" align="center">76%</td>
+<td valign="top" align="center">500</td>
+<td valign="top" align="center">100%</td>
+<td valign="top" align="center">44%</td>
+<td valign="top" align="center">112</td>
+<td valign="top" align="center">41</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

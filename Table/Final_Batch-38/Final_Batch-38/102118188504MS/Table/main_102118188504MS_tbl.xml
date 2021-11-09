@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118188504MS.txt" extractionDate="2021-03-26T12:07:36Z">
+<doi>10.2118/188504-MS</doi>
+<pii>10.2118/188504-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="3" table-order="1" data-type-order="2">
+<table-wrap id="102118188504MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1"> </anchoringText>
+<label>Table 1</label>
+<caption>Micro-gravity surveys carried out on PDO field since 2013.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Micro-gravity surveys carried out on PDO field since 2013.</caption-text>
+</formatted-caption>
+<table id="102118188504MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Year</th>
+<th valign="top" align="center">Survey Type</th>
+<th valign="top" align="center">No. of Stations</th>
+<th valign="top" align="center">Gravimeter (s)</th>
+<th valign="top" align="center">Survey Month</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">2013</td>
+<td valign="top" align="center">Relative</td>
+<td valign="top" align="center">302</td>
+<td valign="top" align="center">CG5 (1)</td>
+<td valign="top" align="center">March</td>
+</tr>
+<tr>
+<td valign="top" align="center">2013</td>
+<td valign="top" align="center">Absolute</td>
+<td valign="top" align="center">302</td>
+<td valign="top" align="center">A10 (1)</td>
+<td valign="top" align="center">March</td>
+</tr>
+<tr>
+<td valign="top" align="center">2015</td>
+<td valign="top" align="center">Relative</td>
+<td valign="top" align="center">298</td>
+<td valign="top" align="center">CG5 (1)</td>
+<td valign="top" align="center">November</td>
+</tr>
+<tr>
+<td valign="top" align="center">2016</td>
+<td valign="top" align="center">Relative</td>
+<td valign="top" align="center">298</td>
+<td valign="top" align="center">CG5 (2)</td>
+<td valign="top" align="center">May</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="8" table-order="2" data-type-order="8">
+<table-wrap id="102118188504MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2"> </anchoringText>
+<label>Table 2</label>
+<caption>Calculated gravity anomaly value caused by shallow aquifer water level changes for the base March 2013 and repeat November 2015. Modeling parameters: 1000kg/m3 water density; 71m reservoir depth; aquifer diameter assumed 1500m, and aquifer porosity assumed 0.35.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Calculated gravity anomaly value caused by shallow aquifer water level changes for the base March 2013 and repeat November 2015. Modeling parameters: 1000kg/m3 water density; 71m reservoir depth; aquifer diameter assumed 1500m, and aquifer porosity assumed 0.35.</caption-text>
+</formatted-caption>
+<table id="102118188504MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Well Code</th>
+<th valign="top" align="center">Water level change (m)</th>
+<th valign="top" align="center">Δg (micro-Gal)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">WMW-1</td>
+<td valign="top" align="center">-0.10</td>
+<td valign="top" align="center">-1.42</td>
+</tr>
+<tr>
+<td valign="top" align="center">WMW-10</td>
+<td valign="top" align="center">0.36</td>
+<td valign="top" align="center">5.00</td>
+</tr>
+<tr>
+<td valign="top" align="center">WMW-11</td>
+<td valign="top" align="center">0.58</td>
+<td valign="top" align="center">8.06</td>
+</tr>
+<tr>
+<td valign="top" align="center">WMW-5</td>
+<td valign="top" align="center">-0.69</td>
+<td valign="top" align="center">-9.66</td>
+</tr>
+<tr>
+<td valign="top" align="center">WMW-6</td>
+<td valign="top" align="center">0.56</td>
+<td valign="top" align="center">7.83</td>
+</tr>
+<tr>
+<td valign="top" align="center">WMW-8</td>
+<td valign="top" align="center">-0.09</td>
+<td valign="top" align="center">-1.29</td>
+</tr>
+<tr>
+<td valign="top" align="center">WMW-9</td>
+<td valign="top" align="center">-0.10</td>
+<td valign="top" align="center">-1.39</td>
+</tr>
+<tr>
+<td valign="top" align="center">WMW-2</td>
+<td valign="top" align="center">2.92</td>
+<td valign="top" align="center">40.65</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

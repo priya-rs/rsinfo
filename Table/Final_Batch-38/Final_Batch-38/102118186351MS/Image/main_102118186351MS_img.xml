@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118186351MS.txt" extractionDate="2021-03-26T15:24:50Z">
+<doi>10.2118/186351-MS</doi>
+<pii>10.2118/186351-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr10">Based on the country-wide EOR screening study, Raudhatain Zubair (RAZU) was identified as a potential ASP (Alkaline Surfactant Polymer) EOR target. The Raudhatain field is located in North Kuwait and it consists of multiple stacked sand stone reservoirs (Figure 1). This field was discovered in 1955 and has been on continuous production since 1960 (Abdul Azim et. al., 2006). The RAZU formation is the deepest of three major oil producing reservoirs in the large dome anticline (Nemcsok et. al., 2006).</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_1.tif" id="ImgLink-1" />
+<caption>Raudhatain Zubair Main Reservoirs</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Raudhatain Zubair Main Reservoirs</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr11">Aerially the reservoir was divided into 6 sectors as shown in Figure 2 below. A semi-quantitative approach was chosen to rank each of the 6 areas for suitability of pilot execution. The selection criteria incorporated a detailed look at STOIIP and remaining oil for EOR, waterflood maturity and sweep efficiency, oil production and water cut, formation properties, sample availability for laboratory calibration, representativeness of area for full-field application, well density, faults and compartmentalization, surface facilities congestion and surface facilities readiness to receive ASP produced oil. Due to the higher density of faults and higher surface footprint in the southern and western quadrants of the field, the decision was taken to select the pilot location in Areas 1 and 2 of Figure 2 below.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_2.tif" id="ImgLink-2" />
+<caption>Raudhatain Zubair Areal Division into Sectors</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Raudhatain Zubair Areal Division into Sectors</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr12">The Raudhatain Zubair field is highly dissected by many faults (over 36 main faults). Most of the faults are concentrated on the southern and western quadrants of the field as shown in Figure 3 below. In general, very few faults are connected. However, this doesn’t eliminate the risk of compartmentalization with respect to the sub seismic faults since the stratigraphic sequence contains high density of shale streaks. A small fault throw can disconnect the sands and create baffles due to juxtaposition or shale smearing along the fault surface.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_3.tif" id="ImgLink-3" />
+<caption>Areal distribution of faults in Raudhatain Zubair Field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Areal distribution of faults in Raudhatain Zubair Field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="9" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr13">Fluid movements in the reservoir are impacted greatly by relative permeabilities. Available SCAL data as shown in Figure 4 below was reviewed and compared with the relative permeabilities from the previously history-matched KOC Eclipse model. Due to the limited Relative Permeability SCAL data available from RAZU UZSD, Shell proprietary tool “RELATE” was used to generate relative permeability ranges based on Shell’s analog sandstone database for similar formations in Middle East region. However, in the end the decision was made to stay with measured SCAL data from the field.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_4.tif" id="ImgLink-4" />
+<caption>Available SCAL data and parameter range for UZSD</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Available SCAL data and parameter range for UZSD</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118186351MS-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118186351MS_i_4a.tif" id="ImgLink-4a" />
+</image-wrap>
+<image-wrap id="102118186351MS-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118186351MS_i_4b.tif" id="ImgLink-4b" />
+</image-wrap>
+<image-wrap id="102118186351MS-Img_SPi-4c">
+<imageLink type="mediaResource" href="102118186351MS_i_4c.tif" id="ImgLink-4c" />
+</image-wrap>
+<image-wrap id="102118186351MS-Img_SPi-4d">
+<imageLink type="mediaResource" href="102118186351MS_i_4d.tif" id="ImgLink-4d" />
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr14">Large volume blocks (volume modifiers) were attached to the edge of the model and the volume of these blocks was adjusted so that the pressure decline in the model was consistent with the range of average pressure decline observed in the field (Shell Generation 1 Model Report). It was expected that during the pilot injection period, the injector and producers of the pilot would dominate the pressure profile in the pattern. This was verified on running the sector model at the injection and production rates specified for the pilot. This method reduced the effort that it would have taken to get a complete history match for the simulation model to set the pressure boundary conditions. Figure 5 depicts location of volume modified blocks and plane along which pressure across producers and injector is plotted in Figure 6.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_5.tif" id="ImgLink-5" />
+<caption>Location of volume modified blocks and plane along producer and injector for pressure profile</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Location of volume modified blocks and plane along producer and injector for pressure profile</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="12" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr15">Large volume blocks (volume modifiers) were attached to the edge of the model and the volume of these blocks was adjusted so that the pressure decline in the model was consistent with the range of average pressure decline observed in the field (Shell Generation 1 Model Report). It was expected that during the pilot injection period, the injector and producers of the pilot would dominate the pressure profile in the pattern. This was verified on running the sector model at the injection and production rates specified for the pilot. This method reduced the effort that it would have taken to get a complete history match for the simulation model to set the pressure boundary conditions. Figure 5 depicts location of volume modified blocks and plane along which pressure across producers and injector is plotted in Figure 6.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_6.tif" id="ImgLink-6" />
+<caption>Pressure across producers (left) and injector (right), reference case</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Pressure across producers (left) and injector (right), reference case</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118186351MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118186351MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order>(left)</caption-order>
+<caption-text>Pressure across producers</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118186351MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118186351MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order>(right)</caption-order>
+<caption-text>injector</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr16">The current average pressure of Upper Zubair Sand in Areas 1 and 2 of UZSD Zubair 46 channel (Z46CH) area is estimated to be around 3625 psia. This is based on the available Static BHP and Repeat Formation Tester (RFT) data. As shown in Figure 7 below, the annual pressure drop in the pilot area historically ranged from 5.2 psia/year to 39.3 psia/year. Based on this understanding, the sector model was initialized at 3625 psi and boundary conditions were applied such that average pressure drop per year was stable between 5.2 and 39.3 psia/year as shown in Figure 7 below. A sensitivity analysis was performed to evaluate impact of different pressure decline rates on the model which showed minimal impact of pressure decline on incremental recovery from ASP.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_7.tif" id="ImgLink-7" />
+<caption>Various volume modifiers applied in the model to capture range of average pressure decline rate of 5.2-39.3 psi/year as observed in the field</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Various volume modifiers applied in the model to capture range of average pressure decline rate of 5.2-39.3 psi/year as observed in the field</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="14" figure-order="8" data-type-order="12">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr17">The left panel of Figure 8 below shows oil saturation in a layer representing the average oil saturation for the sector model at the start of brine pre-flush. The model indicates that oil saturation at the pilot injection well location could be approximately 45-65% in some intervals or higher in less swept intervals of the Z46CH sand of UZSD. The right panel of the Figure shows oil saturation in the same model layer after 1.5 years of pre-flush brine injection into the pilot injection well, with oil saturation in a significant faction of the pattern reaching value of ~ 30%.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_8.tif" id="ImgLink-8" />
+<caption>Oil saturation at start of brine pre-flush (left) and after 1.5 years of brine pre-flush (right)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Oil saturation at start of brine pre-flush (left) and after 1.5 years of brine pre-flush (right)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118186351MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118186351MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>(left)</caption-order>
+<caption-text>Oil saturation at start of brine pre-flush</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118186351MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118186351MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>(right)</caption-order>
+<caption-text>after 1.5 years of brine pre-flush</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="14" figure-order="9" data-type-order="13">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr18">The left panel of Figure 9 below shows oil saturation in the same model layer as shown in Figure 8 above at the start of ASP injection (thus right pane of Figure 8 is replicated as left pane of Figure 9). The right pane of Figure 9 shows the oil saturation after one year of injecting 0.3 PV ASP followed by polymer chase flood. Mobilization of the waterflood remaining oil can be observed in the model. This phenomenon is highly dependent on the chemical slug performance.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_9.tif" id="ImgLink-9" />
+<caption>Oil saturation at start of chemical flood i.e. at the end of brine pre-flush (left) and after one year of 0.3 PV of chemical injection and polymer chase injection (right)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Oil saturation at start of chemical flood i.e. at the end of brine pre-flush (left) and after one year of 0.3 PV of chemical injection and polymer chase injection (right)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118186351MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118186351MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order>(left)</caption-order>
+<caption-text>Oil saturation at start of chemical flood i.e. at the end of brine pre-flush</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118186351MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118186351MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order>(right)</caption-order>
+<caption-text>after one year of 0.3 PV of chemical injection and polymer chase injection</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="10" data-type-order="14">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr19">The idealized pattern recovery factor and average oil saturation in the pattern after ASP flood is shown in Figure 10 below. It can be observed from the results that oil saturation in the pilot area reduces to Sorw (i.e. 30%) within 1.5 years of pre-flush water injection. After 0.3 PV of chemical injection and chasing slug with polymer, oil saturations were reduced to around 5% in the pilot pattern area within another 1.5 years. This prediction is an ultimate recovery based on top quartile chemical performance and low areal heterogeneities due to small pilot pattern size.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_10.tif" id="ImgLink-10" />
+<caption>Reference case desaturation of oil and pattern recovery factor</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Reference case desaturation of oil and pattern recovery factor</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="11" data-type-order="15">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr20">Response of oil production due to ASP injection is shown in Figure 11 below. Reduction in water cut is due to oil bank reaching the pilot producers.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_11.tif" id="ImgLink-11" />
+<caption>Pilot Location Pattern ASP response – Optimistic Reference Case</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Pilot Location Pattern ASP response – Optimistic Reference Case</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="12" data-type-order="17">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr21">For this simulation study, the average oil saturation of 57% over the Z46CH layer was used, which was estimated as shown in Figure 12 below from 2013 Pulse Neutron Lifetime (PNL) log of RA-0106 well in the pilot area. An additional 10% was added and reduced from the average saturation for the low and high cases modeled in the simulation.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_12.tif" id="ImgLink-12" />
+<caption>Well logs and Histogram of current oil saturation based on 2013 data for Well RA-0106</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Well logs and Histogram of current oil saturation based on 2013 data for Well RA-0106</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="13" data-type-order="18">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr22">The relative permeability curves for ASP slug propagation through the reservoir and the values for residual oil saturation to chemical (Sor*) were derived from a statistical analysis of data in the Shell Global Chemical EOR database. Figure 13 below illustrates the high medium and low range of relative permeability parameters used for the ASP slug.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_13.tif" id="ImgLink-13" />
+<caption>Relative permeability High, Mid, Low curves derived from the Shell Global Chemical EOR Database</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Relative permeability High, Mid, Low curves derived from the Shell Global Chemical EOR Database</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="18" figure-order="14" data-type-order="19">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr23">To mimic the effect of fluid drift in the simulation model, pseudo-injectors and pseudo-producers were used to create fluid drift from East to West. The range of pressure gradients that might be observed in the field was taken from was Figure 7.Figure 14 below illustrates how oil desaturation occurs in a preferred direction if pilot is situated near existing producers, injectors or aquifer.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_14.tif" id="ImgLink-14" />
+<caption>Oil de-saturation after 0.3 PV ASP injection for reference case with no fluid drift (left) and with fluid drift from East to West (right).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Oil de-saturation after 0.3 PV ASP injection for reference case with no fluid drift (left) and with fluid drift from East to West (right).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118186351MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118186351MS_i_14a.tif" id="ImgLink-14a" />
+<figure-specific-caption>
+<caption-order>(left)</caption-order>
+<caption-text>Oil de-saturation after 0.3 PV ASP injection for reference case with no fluid drift</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118186351MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118186351MS_i_14b.tif" id="ImgLink-14b" />
+<figure-specific-caption>
+<caption-order>(right)</caption-order>
+<caption-text>fluid drift from East to West</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="15" data-type-order="20">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr24">The impact of key uncertainties was evaluated by generating a Tornado plot using parametric analysis for the simulation model. The tornado plot illustrates the variation of incremental oil recovery for an ASP flood and is shown in Figure 15 below.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_15.tif" id="ImgLink-15" />
+<caption>Tornado plot showing impact of key uncertainties over reference case on Incremental oil recovery factor from ASP</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Tornado plot showing impact of key uncertainties over reference case on Incremental oil recovery factor from ASP</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="16" data-type-order="22">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr25">Surfactant propagation is a key issue in assessing performance of an ASP project and in it can be anticipated that the larger the pattern size the less efficient is the surfactant propagation. Minimizing the time to evaluate pilot performance became a driver in for the project. Different pilot pattern sizes were evaluated to assess the effect of heterogeneity on performance. The oil desaturation and oil recovery for the pilot pattern sizes evaluated is shown in Figure 16 below. For a 0.5-1.5 Acre inverted 5-spot pattern, average oil saturation of the pattern is reduced to less than 10% within one year after 0.3 PV ASP injection followed by polymer chase injection. In the larger pattern spacing (i.e. 7.5 Acre pattern) average oil saturation reduces to only 20% over a similar period.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_16.tif" id="ImgLink-16" />
+<caption>Oil Desaturation Comparison – Pattern Size</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Oil Desaturation Comparison – Pattern Size</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="17" data-type-order="23">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr26">For purpose of this modeling work, ratio of cumulative oil to cumulative water injected after start of ASP injection was used as a proxy to oil chemical ratio. Oil chemical ratio for various pattern sizes is shown in Figure 17 below. As expected, it can be observed that smaller the pattern size, the faster the incremental gain in oil recovery from the chemical injection.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_17.tif" id="ImgLink-17" />
+<caption>Oil Chemical ratio comparison – Pattern size</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Oil Chemical ratio comparison – Pattern size</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="22" figure-order="18" data-type-order="24">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr27">The regular versus inverted five spot patterns were evaluated for the ASP pilot design. The inverted 5-spot pattern consists of 4 producers surrounding 1 injector in the middle whereas the regular 5-spot has 4 injectors surrounding 1 central producer as shown in Figure 18 below.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_18.tif" id="ImgLink-18" />
+<caption>Regular five spot and inverted five spot patterns</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Regular five spot and inverted five spot patterns</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="22" figure-order="19" data-type-order="25">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr28">The oil desaturation comparison for the two pattern types is shown in Figure 19 below, depicting average oil saturation reducing to 10% for the regular 5-spot pattern in comparison to 6% in inverted 5 spot in similar time duration with similar volumes and rates of fluid injected. Balancing total injection and production is necessary to maintain voidage in a pilot with an unconfined pattern. (As opposed to a confined inverted 5 spot pattern where production is four times that of injection due to no flow across the pattern boundaries).</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_19.tif" id="ImgLink-19" />
+<caption>Oil Desaturation comparison – Pattern Type</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Oil Desaturation comparison – Pattern Type</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="23" figure-order="20" data-type-order="26">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr29">To understand the efficiency of pattern types, Oil chemical ratios for regular and inverted 5-spot patterns were compared as shown Figure 20 below. It can be observed that the Inverted 5-spot pattern is more efficient in mobilizing the oil from the pilot area to the producers compared to regular 5-spot pattern for similar volumes and rates of fluid injected.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-20">
+<label>Figure 20 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_20.tif" id="ImgLink-20" />
+<caption>Oil Chemical ratio comparison – Pattern type</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Oil Chemical ratio comparison – Pattern type</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="23" figure-order="21" data-type-order="27">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr30">This can be explained further by comparison of the oil desaturation after ASP slug injection for both pattern types as shown in Figure 21 below. The inverted 5-spot pattern shows higher desaturation than the regular 5-spot pattern in the pilot pattern area, mainly due to injection lost to area outside the pilot for the regular 5-spot pattern.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-21">
+<label>Figure 21 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_21.tif" id="ImgLink-21" />
+<caption>Oil desaturation after ASP slug injection for Inverted five spot pattern (left) and Regular five spot pattern (right)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>21</caption-order>
+<caption-text>Oil desaturation after ASP slug injection for Inverted five spot pattern (left) and Regular five spot pattern (right)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118186351MS-Img_SPi-21a">
+<imageLink type="mediaResource" href="102118186351MS_i_21a.tif" id="ImgLink-21a" />
+<figure-specific-caption>
+<caption-order>(left)</caption-order>
+<caption-text>Oil desaturation after ASP slug injection for Inverted five spot pattern</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118186351MS-Img_SPi-21b">
+<imageLink type="mediaResource" href="102118186351MS_i_21b.tif" id="ImgLink-21b" />
+<figure-specific-caption>
+<caption-order>(right)</caption-order>
+<caption-text>Regular five spot pattern</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="24" figure-order="22" data-type-order="28">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr31">Injection rate or injection volume per year is a measure of the speed at which pattern area is being swept. The range of injection/production rates that was evaluated for the pilot pattern was 500 bpd to 5000 bpd with 1600 bpd as reference case (Voidage Replacement Ratio, VRR=1). For low injection rate of 500 bpd, oil desaturation is very slow. For the high injection rate of 5000 bpd, oil saturation is quite rapid reducing to almost 5% within 1 year after ASP slug was injected. The comparison of oil desaturation is shown in Figure 22 below.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-22">
+<label>Figure 22 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_22.tif" id="ImgLink-22" />
+<caption>Oil desaturation Comparison – Injection Rate</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>22</caption-order>
+<caption-text>Oil desaturation Comparison – Injection Rate</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="24" figure-order="23" data-type-order="29">
+<link href="link-23" type="image" />
+<appendix>
+<linkTarget id="link-23" type="image">
+<anchoringText id="Ancr32"> </anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-23">
+<label>Figure 23 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_23.tif" id="ImgLink-23" />
+<caption>Oil Chemical ratio comparison – Injection Rate</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>23</caption-order>
+<caption-text>Oil Chemical ratio comparison – Injection Rate</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="25" figure-order="24" data-type-order="30">
+<link href="link-24" type="image" />
+<appendix>
+<linkTarget id="link-24" type="image">
+<anchoringText id="Ancr33">Injecting too much polymer will not continue to improve the displacement efficiency for a given pore volume injected. Figure 24 below shows that there is a noticeable reduction in remaining oil saturation on increasing the viscosity of the slug from 1 cP to 2 cP. However, the upside going from 2 cP to 6 cP is not very significant and there is no upside in going from 6 cP to 10 cP so far as lowering the remaining oil saturation in the pattern is concerned. This would support a decision to begin designing the insitu polymer slug viscosity close to 2 cP.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-24">
+<label>Figure 24 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_24.tif" id="ImgLink-24" />
+<caption>Oil Desaturation Comparison – Polymer Viscosity</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>24</caption-order>
+<caption-text>Oil Desaturation Comparison – Polymer Viscosity</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="26" figure-order="25" data-type-order="31">
+<link href="link-25" type="image" />
+<appendix>
+<linkTarget id="link-25" type="image">
+<anchoringText id="Ancr34">The cumulative oil chemical ratio improves when polymer viscosity is increased, as shown in Figure 25 below. However, as discussed above, this comes at the cost of an injectivity decrease when the injection fluid is more viscous. Thus, designing for an ASP injection slug viscosity in the range of 2-6 cP is recommended.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-25">
+<label>Figure 25 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_25.tif" id="ImgLink-25" />
+<caption>Cumulative Oil Chemical Ratio – Effect of ASP slug Viscosity</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>25</caption-order>
+<caption-text>Cumulative Oil Chemical Ratio – Effect of ASP slug Viscosity</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="26" figure-order="26" data-type-order="32">
+<link href="link-26" type="image" />
+<appendix>
+<linkTarget id="link-26" type="image">
+<anchoringText id="Ancr35">In the reference case, pore volume of injected ASP slug is 0.3 PV. This chemical slug size was varied from a low case of approximately 0.1 PV to the high case of 0.6 PV. The oil desaturation for the different cases is illustrated in Figure 26 below and is consistent with general experience in Enhanced Oil Recovery.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-26">
+<label>Figure 26 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_26.tif" id="ImgLink-26" />
+<caption>Oil Desaturation Comparison – ASP slug size</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>26</caption-order>
+<caption-text>Oil Desaturation Comparison – ASP slug size</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="27" figure-order="27" data-type-order="33">
+<link href="link-27" type="image" />
+<appendix>
+<linkTarget id="link-27" type="image">
+<anchoringText id="Ancr36">The oil desaturation and oil chemical ratios for a small ASP slug size and a large ASP slug size are compared in Figure 27 below.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-27">
+<label>Figure 27 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_27.tif" id="ImgLink-27" />
+<caption>Oil Chemical ratio comparison – ASP Slug Size</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>27</caption-order>
+<caption-text>Oil Chemical ratio comparison – ASP Slug Size</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="28" figure-order="28" data-type-order="34">
+<link href="link-28" type="image" />
+<appendix>
+<linkTarget id="link-28" type="image">
+<anchoringText id="Ancr37">The chemical concentration of the ASP slug is specified relative to the optimal concentration used in the reference case. The surfactant concentration is varied from a value that is one tenth of the reference case to a value that is ten times that of the reference case. The lower the chemical concentration or under optimal, the higher the interfacial tension, which results in a lower mobilized water flood residual oil. This is the reason for the significant downside in oil recovery when less surfactant is injected in the ASP slug. The oil desaturation as a function of surfactant concentration injected and the corresponding oil/chemical ratio is as shown in the Figures 28 and 29 respectively below.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-28">
+<label>Figure 28 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_28.tif" id="ImgLink-28" />
+<caption>Oil desaturation comparison, Surfactant concentration</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>28</caption-order>
+<caption-text>Oil desaturation comparison, Surfactant concentration</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="28" figure-order="29" data-type-order="35">
+<link href="link-29" type="image" />
+<appendix>
+<linkTarget id="link-29" type="image">
+<anchoringText id="Ancr38">The chemical concentration of the ASP slug is specified relative to the optimal concentration used in the reference case. The surfactant concentration is varied from a value that is one tenth of the reference case to a value that is ten times that of the reference case. The lower the chemical concentration or under optimal, the higher the interfacial tension, which results in a lower mobilized water flood residual oil. This is the reason for the significant downside in oil recovery when less surfactant is injected in the ASP slug. The oil desaturation as a function of surfactant concentration injected and the corresponding oil/chemical ratio is as shown in the Figures 28 and 29 respectively below.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-29">
+<label>Figure 29 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_29.tif" id="ImgLink-29" />
+<caption>Oil Chemical ratio comparison – Surfactant concentration in ASP slug</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>29</caption-order>
+<caption-text>Oil Chemical ratio comparison – Surfactant concentration in ASP slug</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="30" figure-order="30" data-type-order="38">
+<link href="link-30" type="image" />
+<appendix>
+<linkTarget id="link-30" type="image">
+<anchoringText id="Ancr39">Figure 30 below shows notional location of observation/sampling wells in the RAZU pilot pattern. Although eight notional locations are shown, only 2 or 3 observation/sampling wells will be drilled to aid data acquisition and surveillance.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-30">
+<label>Figure 30 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_30.tif" id="ImgLink-30" />
+<caption>Notional location of observation/sampling wells in the RAZU pilot pattern.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>30</caption-order>
+<caption-text>Notional location of observation/sampling wells in the RAZU pilot pattern.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="31" figure-order="31" data-type-order="39">
+<link href="link-31" type="image" />
+<appendix>
+<linkTarget id="link-31" type="image">
+<anchoringText id="Ancr40">The left side of Figure 31 below shows a plot of permeability variation with depth extracted from the model for the areal location corresponding to Obs-1 in Figure 30 above. The right side of Figure 31 below shows the arrival times of brine3 (injection brine) at Obs-1 well for different permeability layers. As expected, the breakthrough of the injection brine (brine3) occurs rapidly for the higher permeability layers, while it takes a very long time for the injection brine to break through for the lower permeability layers in the model.</anchoringText>
+<image-wrap id="102118186351MS-Img_SPi-31">
+<label>Figure 31 </label>
+<imageLink type="mediaResource" href="102118186351MS_i_31.tif" id="ImgLink-31" />
+<caption>Pre-flush Arrival time at Obs-1 well in the model.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>31</caption-order>
+<caption-text>Pre-flush Arrival time at Obs-1 well in the model.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

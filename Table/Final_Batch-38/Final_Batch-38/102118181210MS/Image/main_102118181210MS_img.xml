@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118181210MS.txt" extractionDate="2021-03-23T12:09:50Z">
+<doi>10.2118/181210-MS</doi>
+<pii>10.2118/181210-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="2">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr3">Polymer injection pilot was designed to inject 500 ppm active solution of a high molecular weight HPAM targeting a viscosity of 20-25 mPa.s (@ 38°C, 6 1/s) considering injection water salinity. Associated to the pilot there are 22 producer wells, 16 of them were active at the time of pilot start. Pilot zone is shown in Figure 1.</anchoringText>
+<image-wrap id="102118181210MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118181210MS_i_1.tif" id="ImgLink-1" />
+<caption>Pilot Zone</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Pilot Zone</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr4">Injection is set up so that each injector well has a separate polymer pump. Mother solution hydrated in the tanks gets diluted on a well to well basis with a water stream that allows controlling each well’s polymer concentration. Fresh water source provides with ~1000 ppm salinity water, that contains 200-400 ppm total hardness. Divalents get removed in an onsite softening plant that treats up to &#x003C;5 ppm hardness content. Figure 2a and 2b show polymer plant process flow diagram and layout.</anchoringText>
+<image-wrap id="102118181210MS-Img_SPi-2">
+<label>Figure 2a </label>
+<imageLink type="mediaResource" href="102118181210MS_i_2.tif" id="ImgLink-2" />
+<caption>Polymer Plant PFD</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2a</caption-order>
+<caption-text>Polymer Plant PFD</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr5">Injection is set up so that each injector well has a separate polymer pump. Mother solution hydrated in the tanks gets diluted on a well to well basis with a water stream that allows controlling each well’s polymer concentration. Fresh water source provides with ~1000 ppm salinity water, that contains 200-400 ppm total hardness. Divalents get removed in an onsite softening plant that treats up to &#x003C;5 ppm hardness content. Figure 2a and 2b show polymer plant process flow diagram and layout.</anchoringText>
+<image-wrap id="102118181210MS-Img_SPi-3">
+<label>Figure 2b </label>
+<imageLink type="mediaResource" href="102118181210MS_i_3.tif" id="ImgLink-3" />
+<caption>Polymer Plant Layout</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2b</caption-order>
+<caption-text>Polymer Plant Layout</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="4" data-type-order="6">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr6">Figure 3 shows the evolution of produced water salinity for all operating producer wells associated to 2 or 3 polymer injectors. In Figure 3 it is noticeable that even in the case of the 2 central wells (red curve) for most of the time displacement is far from recirculating injection fluid, which is consistent with polymer concentration determination for these wells.</anchoringText>
+<image-wrap id="102118181210MS-Img_SPi-4">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118181210MS_i_4.tif" id="ImgLink-4" />
+<caption>Producer Wells Salinity</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Producer Wells Salinity</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="8" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr7">Figure 4a and Figure 4b show updated data for wellhead viscosity, pressure and injection rate evolution for the 6 injection wells. Pressure limit of 4700 kPa shown on figures corresponds to an operational limit imposed by surface lines. Once achieved, this limit forced injection rates to decrease, creating injectivity loss. This fact forced to eliminate surface restriction by changing to high pressure injection lines.</anchoringText>
+<image-wrap id="102118181210MS-Img_SPi-5">
+<label>Figure 4a </label>
+<imageLink type="mediaResource" href="102118181210MS_i_5.tif" id="ImgLink-5" />
+<caption>Injector Well Response ECN-Ai ECN-Bi ECN-Ci</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4a</caption-order>
+<caption-text>Injector Well Response ECN-Ai ECN-Bi ECN-Ci</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181210MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118181210MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>ECN-Ai</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181210MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118181210MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>ECN-Bi</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181210MS-Img_SPi-5c">
+<imageLink type="mediaResource" href="102118181210MS_i_5c.tif" id="ImgLink-5c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>ECN-ci</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="9" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr8">Figure 4a and Figure 4b show updated data for wellhead viscosity, pressure and injection rate evolution for the 6 injection wells. Pressure limit of 4700 kPa shown on figures corresponds to an operational limit imposed by surface lines. Once achieved, this limit forced injection rates to decrease, creating injectivity loss. This fact forced to eliminate surface restriction by changing to high pressure injection lines.</anchoringText>
+<image-wrap id="102118181210MS-Img_SPi-6">
+<label>Figure 4b </label>
+<imageLink type="mediaResource" href="102118181210MS_i_6.tif" id="ImgLink-6" />
+<caption>Injector Well Response ECN-Di ECN-Ei ECN-Fi</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4b</caption-order>
+<caption-text>Injector Well Response ECN-Di ECN-Ei ECN-Fi</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118181210MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118181210MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>ECN-Di</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181210MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118181210MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>ECN-Ei</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118181210MS-Img_SPi-6c">
+<imageLink type="mediaResource" href="102118181210MS_i_6c.tif" id="ImgLink-6c" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>ECN-Fi</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr9">As a result of the pilot operation, the response curve did behave with the expected trend, although the oil plateau stage lasted longer than the initial prognosis. This was mainly attributed to injectivity loss resulting from surface line restriction described previously. Figure 5 shows pilot oil response and liquid production. Dashed blue line corresponds to what was defined as project evaluation baseline.</anchoringText>
+<image-wrap id="102118181210MS-Img_SPi-7">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118181210MS_i_7.tif" id="ImgLink-7" />
+<caption>Production Response</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Production Response</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr10">Red line points pilot start. WOR vs Np trend can be appreciated in Figure 6, where blue dots represent the stage prior to pilot start, and red dots mark WOR behavior after polymer injection. Exposing pilot production results through this method makes it even clearer that after pilot start a change in WOR trend is noticeable, modifying and even inverting the slope of the WOR curve once oil production started increasing.</anchoringText>
+<image-wrap id="102118181210MS-Img_SPi-8">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118181210MS_i_8.tif" id="ImgLink-8" />
+<caption>WOR vs Np</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>WOR vs Np</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr11">This well was also repaired using the mentioned remediation technique and is currently on production. In the case of repaired producers affected by polymer injection, recovered production proved to be higher than the one third limit, since these wells continue the trend of reducing watercut, even at a lower extraction regime. Figure 7a and 7b show producers ECN-P1 and ECN-P2 watercut, liquid and oil production, before and after channeling event.</anchoringText>
+<image-wrap id="102118181210MS-Img_SPi-9">
+<label>Figure 7a </label>
+<imageLink type="mediaResource" href="102118181210MS_i_9.tif" id="ImgLink-9" />
+<caption>ECN-P1 Production</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7a</caption-order>
+<caption-text>ECN-P1 Production</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr12">This well was also repaired using the mentioned remediation technique and is currently on production. In the case of repaired producers affected by polymer injection, recovered production proved to be higher than the one third limit, since these wells continue the trend of reducing watercut, even at a lower extraction regime. Figure 7a and 7b show producers ECN-P1 and ECN-P2 watercut, liquid and oil production, before and after channeling event.</anchoringText>
+<image-wrap id="102118181210MS-Img_SPi-10">
+<label>Figure 7b </label>
+<imageLink type="mediaResource" href="102118181210MS_i_10.tif" id="ImgLink-10" />
+<caption>ECN-P2 Production</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7b</caption-order>
+<caption-text>ECN-P2 Production</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="11" data-type-order="13">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr13">Figure 8 shows updated simulation results. Green dots correspond to pilot field’s production, whereas full black line is the oil rate curve from the history matched run. Once injection rate and viscosity schedule was imput, the parameter that needed adjustment to be able to match pilot production was polymer adsorption. Initial prediction had been done asumming an adsorption level that was a mean value from the adsorption interval observed in the lab studies and coreflood history match.</anchoringText>
+<image-wrap id="102118181210MS-Img_SPi-11">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118181210MS_i_11.tif" id="ImgLink-11" />
+<caption>History Matched Simulation Results</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>History Matched Simulation Results</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

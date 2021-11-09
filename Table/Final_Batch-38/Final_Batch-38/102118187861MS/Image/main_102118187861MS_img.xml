@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187861MS.txt" extractionDate="2021-03-25T09:54:59Z">
+<doi>10.2118/187861-MS</doi>
+<pii>10.2118/187861-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr3">There is one representative sample of the above mentioned gas with a dew point pressure of 34.45 MPa, which is significantly lower than the pressure on the GOC. CGR values are quite contradictory and vary in a wide range due to the obvious influence of the development process complicated by the block structure of the reservoir, the uncertainty both of the boundaries of these blocks and the interblock transmissibility, the variation of the initial condensate content in conditions of considerable reservoir height (fig.1).</anchoringText>
+<image-wrap id="102118187861MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118187861MS_i_1.tif" id="ImgLink-1" />
+<caption>CGR for gas wells of the NKP formation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>CGR for gas wells of the NKP formation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr4"> </anchoringText>
+<image-wrap id="102118187861MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118187861MS_i_2.tif" id="ImgLink-2" />
+<caption>CGR for gas wells of the PK formation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>CGR for gas wells of the PK formation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr5">Figure 3 shows the results of experiments simulation, allowing us to assess the quality of adjustment to actual data. The relative error in the volume of dropped-out condensate does not exceed 7%; the relative error of the Z-factor is 1.5%. Thus, the constructed PVT-model with acceptable accuracy reproduces the results of PVT-experiments and can be used for further calculations.</anchoringText>
+<image-wrap id="102118187861MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118187861MS_i_3.tif" id="ImgLink-3" />
+<caption>Results of laboratory experiments modeling</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Results of laboratory experiments modeling</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr6">In a real separator, it does not exist, but in PVT calculations it replaces the reduction of gas volume to standard conditions. The results are shown in table 2 and in fig. 4.</anchoringText>
+<image-wrap id="102118187861MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118187861MS_i_4.tif" id="ImgLink-4" />
+<caption>C5+ potential content and CGR vs height above GOC</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>C5+ potential content and CGR vs height above GOC</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr7">From the reservoir development point of view, it is not only the initial state that is of interest, but also the CGR versus reservoir pressure. Constant volume depletion (CVD) is usually used to model this process. The corresponding calculations were made. The results are shown in figures 5 and 6. Note that the results are estimates, because they do not take into account vertical gas flow in the reservoir, as well as possible oil coning.</anchoringText>
+<image-wrap id="102118187861MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118187861MS_i_5.tif" id="ImgLink-5" />
+<caption>C5+ potential content vs current reservoir pressure for different heights above GOC</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>C5+ potential content vs current reservoir pressure for different heights above GOC</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr8">From the reservoir development point of view, it is not only the initial state that is of interest, but also the CGR versus reservoir pressure. Constant volume depletion (CVD) is usually used to model this process. The corresponding calculations were made. The results are shown in figures 5 and 6. Note that the results are estimates, because they do not take into account vertical gas flow in the reservoir, as well as possible oil coning.</anchoringText>
+<image-wrap id="102118187861MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118187861MS_i_6.tif" id="ImgLink-6" />
+<caption>Separator CGR vs current reservoir pressure for different heights above GOC</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Separator CGR vs current reservoir pressure for different heights above GOC</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr9">In figure 5, a situation is observed when the wells GUN088, GUN092, GUN295, GUN286 are substantially displaced in the graph to the right relative to all other wells. This means that in the hydrodynamic model the reservoir pressure is much higher than the actual pressure, and the wide range of changes in the GGR given over three months of operation of these wells indicates a rapid decrease in actual reservoir pressure and condensate drop-out in the reservoir. These wells are situated next to each other (marked red in fig.7) and, possibly, are located in a separate isolated block in the northwestern part of the SWG area (shallow part of the Guneshli area) (Fig. 8).</anchoringText>
+<image-wrap id="102118187861MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118187861MS_i_7.tif" id="ImgLink-7" />
+<caption>High-pressure separator CGR vs current reservoir pressure for different heights above GOC and historical well data</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>High-pressure separator CGR vs current reservoir pressure for different heights above GOC and historical well data</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr10">In figure 5, a situation is observed when the wells GUN088, GUN092, GUN295, GUN286 are substantially displaced in the graph to the right relative to all other wells. This means that in the hydrodynamic model the reservoir pressure is much higher than the actual pressure, and the wide range of changes in the GGR given over three months of operation of these wells indicates a rapid decrease in actual reservoir pressure and condensate drop-out in the reservoir. These wells are situated next to each other (marked red in fig.7) and, possibly, are located in a separate isolated block in the northwestern part of the SWG area (shallow part of the Guneshli area) (Fig. 8).</anchoringText>
+<image-wrap id="102118187861MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118187861MS_i_8.tif" id="ImgLink-8" />
+<caption>Map of cumulative gas/condensate and oil/sat.gas production of NKP formation. The red lines indicate high-amplitude faults, and the dotted line indicates a zone of multiple dislocations. The highlighted wells are presumably located in an isolated block.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Map of cumulative gas/condensate and oil/sat.gas production of NKP formation. The red lines indicate high-amplitude faults, and the dotted line indicates a zone of multiple dislocations. The highlighted wells are presumably located in an isolated block.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr11">Figure 9 shows results of two hydrodynamic model runs with two different reservoir pressure patterns. As can be seen, the actual average CGR curve in the 1st run is shifted to the left with respect to the CGR curves obtained from the PVT simulation results, which indicates an underestimation of the model gas cap reservoir pressure as a whole. The second run differs from the first in improved inter-well communication, resulting in a less intensive decrease in reservoir pressure due to the redistribution of gas reserves to the developed zone from the DWG (deepwater part of Guneshli) and Chirag areas, while the dynamics of the average CGR lie on simulated PVT curves.</anchoringText>
+<image-wrap id="102118187861MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118187861MS_i_9.tif" id="ImgLink-9" />
+<caption>Comparison of high-pressure separator CGR vs. current reservoir pressure for different heights above GOC with averaged historical CGR vs. averaged gas cap pressure from two conceptually different hydrodynamic reservoir models. (Var.1: Gas cap pressure in the model is underestimated relative to the actual - incorrect representation; Var. 2: increased inter-well communication, gas cap pressure corresponds to actual – correct representation).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Comparison of high-pressure separator CGR vs. current reservoir pressure for different heights above GOC with averaged historical CGR vs. averaged gas cap pressure from two conceptually different hydrodynamic reservoir models. (Var.1: Gas cap pressure in the model is underestimated relative to the actual - incorrect representation; Var. 2: increased inter-well communication, gas cap pressure corresponds to actual – correct representation).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

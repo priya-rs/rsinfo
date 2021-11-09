@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189159MS.txt" extractionDate="2021-03-29T12:33:32Z">
+<doi>10.2118/189159-MS</doi>
+<pii>10.2118/189159-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="3" table-order="1" data-type-order="4">
+<table-wrap id="102118189159MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Used to support field development and maintained post production. Biggest uncertainty is structure. PVT data came from Pre-production subsurface samples. Three distinct deterministic realizations were obtained from experimental design with robust uncertainty stringing (Table 1).</anchoringText>
+<label>Table 1</label>
+<caption>Subsurface realization uncertainty parameters stringing</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Subsurface realization uncertainty parameters stringing</caption-text>
+</formatted-caption>
+<table id="102118189159MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Parameter</th>
+<th valign="top" align="center">Structure</th>
+<th valign="top" align="center">Perm</th>
+<th valign="top" align="center">NTG</th>
+<th valign="top" align="center">Kv/Kh</th>
+<th valign="top" align="center">RLP</th>
+<th valign="top" align="center">Aquifer</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Low Case</td>
+<td valign="top" align="center">−1</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">−1</td>
+<td valign="top" align="center">−1</td>
+<td valign="top" align="center">0</td>
+</tr>
+<tr>
+<td valign="top" align="center">Base Case</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">−1</td>
+</tr>
+<tr>
+<td valign="top" align="center">High Case</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">−1</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="6" table-order="2" data-type-order="9">
+<table-wrap id="102118189159MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The table 2 presents the technical ultimate revocery at current surface infracture constraints conditions for both the P/Z method and the 3D simulation methods. The difference between the two methods; value wise is 1% showing good alignment.</anchoringText>
+<label>Table 2</label>
+<caption>Technical ultimate recovery comparism</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Technical ultimate recovery comparism</caption-text>
+</formatted-caption>
+<table id="102118189159MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Unit: mmscf/d</th>
+<th valign="top" align="center">P/Z method</th>
+<th valign="top" align="center">3D-Simulation method</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Scenario-3</td>
+<td valign="top" align="center">1032</td>
+<td valign="top" align="center">1043</td>
+</tr>
+<tr>
+<td valign="top" align="left">Scenario-2</td>
+<td valign="top" align="center">1054</td>
+<td valign="top" align="center">1065</td>
+</tr>
+<tr>
+<td valign="top" align="left">Scenario-1</td>
+<td valign="top" align="center">1102</td>
+<td valign="top" align="center">1098</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185817MS.txt" extractionDate="2021-03-26T13:09:11Z">
+<doi>10.2118/185817-MS</doi>
+<pii>10.2118/185817-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="12" table-order="1" data-type-order="6">
+<table-wrap id="102118185817MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Note that the Zone 3 TDD was too short to probe beyond the damage zone. Also the estimated damage zone skin is higher than the total skin estimated using PBUs (Table 1). This is mainly because well A has a 60 degree inclination across the formation, with the negative, well deviation skin contributing to the total skin measured in PBUs.</anchoringText>
+<label>Table 1</label>
+<caption>Zonal properties estimated using pressure analysis.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Zonal properties estimated using pressure analysis.</caption-text>
+</formatted-caption>
+<table id="102118185817MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">Zone 1 (Upper Punt)</th>
+<th valign="top" align="center">Zone 2 (Lower Punt)</th>
+<th valign="top" align="center">Zone 3 (Burns)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">kh, mD.ft</td>
+<td valign="top" align="center">71,000</td>
+<td valign="top" align="center">19,000 – 29,000</td>
+<td valign="top" align="center">3,000 – 15,000</td>
+</tr>
+<tr>
+<td valign="top" align="left">Total skin</td>
+<td valign="top" align="center">+0.9</td>
+<td valign="top" align="center">approx. -1</td>
+<td valign="top" align="center">+ 2 to -3</td>
+</tr>
+<tr>
+<td valign="top" align="left">PI, bbls/day/psi</td>
+<td valign="top" align="center">34.6</td>
+<td valign="top" align="center">15.4</td>
+<td valign="top" align="center">4.3</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="16" table-order="2" data-type-order="12">
+<table-wrap id="102118185817MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The TDD analysis results are shown in Table 2:</anchoringText>
+<label>Table 2</label>
+<caption>Zonal properties estimated using temperature analysis.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Zonal properties estimated using temperature analysis.</caption-text>
+</formatted-caption>
+<table id="102118185817MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">Zone 1 (Upper Punt)</th>
+<th valign="top" align="center">Zone 2 (Lower Punt)</th>
+<th valign="top" align="center">Zone 3 (Burns)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">kh damage zone, mD.ft</td>
+<td valign="top" align="center">7,000</td>
+<td valign="top" align="center">2,000</td>
+<td valign="top" align="center">1,000</td>
+</tr>
+<tr>
+<td valign="top" align="left">kh original, mD.ft</td>
+<td valign="top" align="center">75,000</td>
+<td valign="top" align="center">22,000</td>
+<td valign="top" align="center">n/a</td>
+</tr>
+<tr>
+<td valign="top" align="left">Damage radius</td>
+<td valign="top" align="center">1ft</td>
+<td valign="top" align="center">1ft</td>
+<td valign="top" align="center">&#x003E; 3 ft</td>
+</tr>
+<tr>
+<td valign="top" align="left">Damage skin</td>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">6</td>
+<td valign="top" align="center">n/a</td>
+</tr>
+<tr>
+<td valign="top" align="left">Zone clean at the time of the test?</td>
+<td valign="top" align="center">Yes</td>
+<td valign="top" align="center">Yes</td>
+<td valign="top" align="center">No</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

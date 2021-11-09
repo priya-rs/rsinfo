@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118177282MS.txt" extractionDate="2021-03-16T16:01:12Z">
+<doi>10.2118/177282-MS</doi>
+<pii>10.2118/177282-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1">The Lost Hills oil field is one of several significant oil fields located in the San Joaquin basin of central California [Graham and Williams, 1985]. The field is located about 45 miles northwest of Bakersfield in Kern County, Figure 1. The producing structure is a northwest-southeast trending double-plunging anticline [Brink, 2001]. The anticline is about 12 miles long and about 1 mile wide with high dipping flanks reaching up to approximatively ~20 degrees.</anchoringText>
+<image-wrap id="102118177282MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118177282MS_i_1.tif" id="ImgLink-1" />
+<caption>Lost Hills Field Location</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Lost Hills Field Location</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">The three main sources of data consisted of reservoir characterization (wireline logs), well completion (perforations depth and footage), and well production performance (peak rate, first 3 months, etc.). A total number of 132 wells were drilling in the last two years and had available data for analysis. A map of the field is presented in Figure 2. The field was divided in three areas, as shown in Figure 2. Ten wells were randomly selected from each area for analysis.</anchoringText>
+<image-wrap id="102118177282MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118177282MS_i_2.tif" id="ImgLink-2" />
+<caption>Reservoir structure</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Reservoir structure</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3"> </anchoringText>
+<image-wrap id="102118177282MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118177282MS_i_3.tif" id="ImgLink-3" />
+<caption>Field map showing the division of the three zones.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Field map showing the division of the three zones.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">In addition to the reservoir characterization data, completion information such as the depth and total perforated footages was collected for each of the wells. The perforations data was merged with the log data and stored in the same repository table. A snapshot of the sample data containing the data for the study is shown in Figure 4. For every half foot, there is a binary indicator (column COMPL_OPEN) to represent whether perforations are present. The total perforation footage for each well is calculated using this track data.</anchoringText>
+<image-wrap id="102118177282MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118177282MS_i_4.tif" id="ImgLink-4" />
+<caption>A snapshot of the sample data showing collected log tracks and perforation completion.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>A snapshot of the sample data showing collected log tracks and perforation completion.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">The mean of each of the five clusters was returned from the FCM algorithm. The clusters were ranked by the DRES log, where the one with the least DRES log was labeled as the “bad” (shale) region and the one with the largest DRES was labeled as the “good” (sand) region. An example of the cluster means returned by the FCM algorithm is shown in Figure 5.</anchoringText>
+<image-wrap id="102118177282MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118177282MS_i_5.tif" id="ImgLink-5" />
+<caption>Clustering results by depth for two sampled wells. In this figure, C1 represents the shale region, and C5 represents the sand region. The actual perforation regions were also labeled by the dark purple regions.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Clustering results by depth for two sampled wells. In this figure, C1 represents the shale region, and C5 represents the sand region. The actual perforation regions were also labeled by the dark purple regions.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118177282MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118177282MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118177282MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118177282MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">Two plots were generated to investigate the correlation between perforation placement and production performance. Figure 6, shows the plot of 3-month peak production over total perforation footages for all the sampled wells, while Figure 7 depicts the plot of 3-month peak production over total perforation footages on the “good” regions (identified by the FCM algorithm) for all the sampled wells.</anchoringText>
+<image-wrap id="102118177282MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118177282MS_i_6.tif" id="ImgLink-6" />
+<caption>3-month peak production vs. total perforation footages for all sampled wells.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>3-month peak production vs. total perforation footages for all sampled wells.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">Two plots were generated to investigate the correlation between perforation placement and production performance. Figure 6, shows the plot of 3-month peak production over total perforation footages for all the sampled wells, while Figure 7 depicts the plot of 3-month peak production over total perforation footages on the “good” regions (identified by the FCM algorithm) for all the sampled wells.</anchoringText>
+<image-wrap id="102118177282MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118177282MS_i_7.tif" id="ImgLink-7" />
+<caption>3-month peak production vs. total perforation footages on good regions identified by the FCM algorithm.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>3-month peak production vs. total perforation footages on good regions identified by the FCM algorithm.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

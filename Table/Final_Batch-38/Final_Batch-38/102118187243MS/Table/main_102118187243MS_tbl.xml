@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187243MS.txt" extractionDate="2021-03-25T17:08:39Z">
+<doi>10.2118/187243-MS</doi>
+<pii>10.2118/187243-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="7" table-order="1" data-type-order="3">
+<table-wrap id="102118187243MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The case matrix is a product of the following variables: injection well location, injection well count, production well count, injection rate per well, injection bottom hole pressure, injection startup date, well spacing, and number of injection years. Table 1 depicts the selected three variables that were used to establish a case matrix for the assessment of GFW recovery method performance; 144 simulation cases were established for the GFW evaluation.</anchoringText>
+<label>Table 1</label>
+<caption>Case Matrix Variables for GFW Recovery Method</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Case Matrix Variables for GFW Recovery Method</caption-text>
+</formatted-caption>
+<table id="102118187243MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Production to Injection Well Count</th>
+<th valign="top" align="center">6 to 2</th>
+<th valign="top" align="center">8 to 2</th>
+<th valign="top" align="center">10 to 2</th>
+<th valign="top" align="center">6 to 3</th>
+<th valign="top" align="center">8 to 4</th>
+<th valign="top" align="center">10 to 5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">
+<b>Gas Injection Rate, MMSCF/D/Well</b>
+</td>
+<td valign="top" align="center">
+<b>15</b>
+</td>
+<td valign="top" align="center">
+<b>25</b>
+</td>
+<td valign="top" align="center">
+<b>35</b>
+</td>
+<td valign="top" align="center">
+<b>50</b>
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+<b>Gas Injection, Years</b>
+</td>
+<td valign="top" align="center">
+<b>5</b>
+</td>
+<td valign="top" align="center">
+<b>7</b>
+</td>
+<td valign="top" align="center">
+<b>10</b>
+</td>
+<td valign="top" align="center">
+<b>12</b>
+</td>
+<td valign="top" align="center">
+<b>15</b>
+</td>
+<td valign="top" align="center">
+<b>25</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

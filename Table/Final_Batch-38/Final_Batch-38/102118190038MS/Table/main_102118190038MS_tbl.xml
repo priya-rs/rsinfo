@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190038MS.txt" extractionDate="2021-03-29T15:05:36Z">
+<doi>10.2118/190038-MS</doi>
+<pii>10.2118/190038-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="6">
+<table-wrap id="102118190038MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The fluid flow of the study area is simulated using GEM combined with WINPROP from Computer Modeling Group (CMG). WINPROP computes the thermodynamic properties of the reservoir fluid including bubble point pressure, solution gas-oil ratio, formation volume factor, and fluid viscosities (oil and gas). Table 1 shows the fluid and reservoir model parameters. The fluid properties are tuned based on literature (Dicharry et al., 1973; Chaback and Williams, 1988).</anchoringText>
+<label>Table 1</label>
+<caption>Fluid properties and reservoir model parameters.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Fluid properties and reservoir model parameters.</caption-text>
+</formatted-caption>
+<table id="102118190038MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th align="left">Property</th>
+<th align="left">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Brine salinity</td>
+<td valign="bottom" align="center">159,000 ppm</td>
+</tr>
+<tr>
+<td valign="top" align="left">Reservoir temperature</td>
+<td valign="top" align="center">130 °F</td>
+</tr>
+<tr>
+<td align="left">Number of HC components</td>
+<td align="center">11</td>
+</tr>
+<tr>
+<td align="left">HC bubble point pressure</td>
+<td align="center">1,820 psia</td>
+</tr>
+<tr>
+<td valign="top" align="left">HC critical temperature</td>
+<td valign="top" align="center">677.154 °F</td>
+</tr>
+<tr>
+<td valign="top" align="left">HC critical pressure</td>
+<td valign="top" align="center">1,722.74 psia</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

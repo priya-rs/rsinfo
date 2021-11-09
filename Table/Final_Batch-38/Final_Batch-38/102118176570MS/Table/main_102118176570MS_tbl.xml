@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118176570MS.txt" extractionDate="2021-03-20T11:31:57Z">
+<doi>10.2118/176570-MS</doi>
+<pii>10.2118/176570-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="16" table-order="1" data-type-order="14">
+<table-wrap id="102118176570MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">To grasp the extent of technogenic fracture distribution and remove the uncertainties of the current saturation in the western part of the UV1 formation we conducted tracer tests in injection wells 2073 and 873. Results showed (fig. 3, table A1, A2) significant tracer velocities for all studied wells. Thus, the average velocity of tracer lies in the range from 50 to 200 m/h with a maximum of 582 m/h. The permeability of defined low fluid flow resistance channels averaged 340D, with the actual 30 mD obtained on core samples. The reservoir type was determined to be porous with technogenic fracturing.</anchoringText>
+<label>Table A1</label>
+<caption>Parameters of tracer displacement in UV<sub>1</sub>
+<sup>1–2</sup> from injection well №873</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>A1</caption-order>
+<caption-text>Parameters of tracer displacement in UV<sub>1</sub>
+<sup>1–2</sup> from injection well №873</caption-text>
+</formatted-caption>
+<table id="102118176570MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="middle" align="center">w.</th>
+<th valign="middle" align="center">Distance between inj. and prod. wells, m</th>
+<th valign="middle" align="center">Injection pres. - 9.0MPa, tracer - fluorescein, inj.rate - 288m3/day</th>
+<th valign="middle" align="center">1</th>
+<th valign="middle" align="center">2</th>
+<th valign="middle" align="center">3</th>
+<th valign="middle" align="center">4</th>
+<th valign="middle" align="center">5</th>
+<th valign="middle" align="center">6</th>
+<th valign="middle" align="center">7</th>
+<th valign="middle" align="center">8</th>
+<th valign="middle" align="center">9</th>
+<th valign="middle" align="center">Total</th>
+<th valign="middle" align="center">Specific velocity, m/h*MPa</th>
+<th valign="middle" align="center">Volume distribution, %</th>
+<th valign="middle" align="center">Recovered tracer, %</th>
+<th valign="middle" align="center">Water perme­ability, 2 pm</th>
+<th valign="middle" align="center">Radius of low flow resist. channel, MM</th>
+<th valign="middle" align="center">Hydraulic conductivity, μm<sup>2</sup>*cm/mPa*s</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3" valign="middle" align="center">854</td>
+<td rowspan="3" valign="middle" align="center">852.9</td>
+<td valign="middle" align="left">Время от конца закачки до появления трассера, час</td>
+<td valign="middle" align="center">13.9</td>
+<td valign="middle" align="center">39.6</td>
+<td valign="middle" align="center">281.3</td>
+<td valign="middle" align="center">473.3</td>
+<td valign="middle" align="center">569.3</td>
+<td valign="middle" align="center">714.0</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td rowspan="3" valign="middle" align="center">2.9</td>
+<td rowspan="3" valign="middle" align="center">3.8</td>
+<td rowspan="3" valign="middle" align="center">14.7</td>
+<td rowspan="3" valign="middle" align="center">104.1</td>
+<td rowspan="3" valign="middle" align="center">0.0353</td>
+<td rowspan="3" valign="middle" align="center">1.84</td>
+</tr>
+<tr>
+<td valign="middle" align="left">Скорость прохождения</td>
+<td valign="middle" align="center">61.3</td>
+<td valign="middle" align="center">21.5</td>
+<td valign="middle" align="center">3.0</td>
+<td valign="middle" align="center">1.8</td>
+<td valign="middle" align="center">1.5</td>
+<td valign="middle" align="center">1.2</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+</tr>
+<tr>
+<td valign="middle" align="left">Объем каналов НФС, мз</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">1.1</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">1.9</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">22.5</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">7.6</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">9.1</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">11.4</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2"></td>
+<td valign="middle" align="center" bgcolor="#F2F2F2"></td>
+<td valign="middle" align="center" bgcolor="#F2F2F2"></td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">53.6</td>
+</tr>
+<tr>
+<td rowspan="3" valign="middle" align="center">863</td>
+<td rowspan="3" valign="middle" align="center">1118.6</td>
+<td valign="middle" align="left">Время от конца закачки до появления трассера, час</td>
+<td valign="middle" align="center">1.2</td>
+<td valign="middle" align="center">14.2</td>
+<td valign="middle" align="center">39.4</td>
+<td valign="middle" align="center">87.4</td>
+<td valign="middle" align="center">167.0</td>
+<td valign="middle" align="center">498.0</td>
+<td valign="middle" align="center">593.3</td>
+<td valign="middle" align="center">761.5</td>
+<td valign="middle" align="center">953.3</td>
+<td valign="middle" align="center">
+</td>
+<td rowspan="3" valign="middle" align="center">39.1</td>
+<td rowspan="3" valign="middle" align="center">40.3</td>
+<td rowspan="3" valign="middle" align="center">34.7</td>
+<td rowspan="3" valign="middle" align="center">1848.2</td>
+<td rowspan="3" valign="middle" align="center">0.1489</td>
+<td rowspan="3" valign="middle" align="center">137.623</td>
+</tr>
+<tr>
+<td valign="middle" align="left">Скорость прохождения</td>
+<td valign="middle" align="center">932.2</td>
+<td valign="middle" align="center">79.0</td>
+<td valign="middle" align="center">28.4</td>
+<td valign="middle" align="center">12.8</td>
+<td valign="middle" align="center">6.7</td>
+<td valign="middle" align="center">2.2</td>
+<td valign="middle" align="center">1.9</td>
+<td valign="middle" align="center">1.5</td>
+<td valign="middle" align="center">1.2</td>
+<td valign="middle" align="center">
+</td>
+</tr>
+<tr>
+<td valign="middle" align="left">Объем каналов НФС, мз</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">0.1</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">1.6</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">2.9</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">3.2</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">6.2</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">36.9</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">66.0</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">169.4</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">282.7</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">569.0</td>
+</tr>
+<tr>
+<td rowspan="3" valign="middle" align="center">864</td>
+<td rowspan="3" valign="middle" align="center">704.9</td>
+<td valign="middle" align="left">Время от конца закачки до появления трассера, час</td>
+<td valign="middle" align="center">4.1</td>
+<td valign="middle" align="center">39.1</td>
+<td valign="middle" align="center">63.4</td>
+<td valign="middle" align="center">116.6</td>
+<td valign="middle" align="center">233.5</td>
+<td valign="middle" align="center">426.0</td>
+<td valign="middle" align="center">617.0</td>
+<td valign="middle" align="center">665.3</td>
+<td valign="middle" align="center">809.3</td>
+<td valign="middle" align="center">
+</td>
+<td rowspan="3" valign="middle" align="center">7.8</td>
+<td rowspan="3" valign="middle" align="center">29.5</td>
+<td rowspan="3" valign="middle" align="center">37.3</td>
+<td rowspan="3" valign="middle" align="center">233.4</td>
+<td rowspan="3" valign="middle" align="center">0.0529</td>
+<td rowspan="3" valign="middle" align="center">6.176</td>
+</tr>
+<tr>
+<td valign="middle" align="left">Скорость прохождения</td>
+<td valign="middle" align="center">172.8</td>
+<td valign="middle" align="center">18.0</td>
+<td valign="middle" align="center">11.1</td>
+<td valign="middle" align="center">6.0</td>
+<td valign="middle" align="center">3.0</td>
+<td valign="middle" align="center">1.7</td>
+<td valign="middle" align="center">1.1</td>
+<td valign="middle" align="center">1.1</td>
+<td valign="middle" align="center">0.9</td>
+<td valign="middle" align="center">
+</td>
+</tr>
+<tr>
+<td valign="middle" align="left">Объем каналов НФС, мз</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">3.6</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">1.8</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">5.9</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">5.4</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">10.8</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">157.7</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">57.1</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">61.6</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">112.3</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">416.2</td>
+</tr>
+<tr>
+<td rowspan="3" valign="middle" align="center">865</td>
+<td rowspan="3" valign="middle" align="center">519.2</td>
+<td valign="middle" align="left">Время от конца закачки до появления трассера, час</td>
+<td valign="middle" align="center">4.1</td>
+<td valign="middle" align="center">87.1</td>
+<td valign="middle" align="center">143.3</td>
+<td valign="middle" align="center">617.5</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td rowspan="3" valign="middle" align="center">6.5</td>
+<td rowspan="3" valign="middle" align="center">26.5</td>
+<td rowspan="3" valign="middle" align="center">13.3</td>
+<td rowspan="3" valign="middle" align="center">143</td>
+<td rowspan="3" valign="middle" align="center">0.0414</td>
+<td rowspan="3" valign="middle" align="center">2.962</td>
+</tr>
+<tr>
+<td valign="middle" align="left">Скорость прохождения</td>
+<td valign="middle" align="center">127.3</td>
+<td valign="middle" align="center">6.0</td>
+<td valign="middle" align="center">3.6</td>
+<td valign="middle" align="center">0.8</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+</tr>
+<tr>
+<td valign="middle" align="left">Объем каналов НФС, мз</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">10.5</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">32.0</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">105.1</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">226.5</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2"></td>
+<td valign="middle" align="center" bgcolor="#F2F2F2"></td>
+<td valign="middle" align="center" bgcolor="#F2F2F2"></td>
+<td valign="middle" align="center" bgcolor="#F2F2F2"></td>
+<td valign="middle" align="center" bgcolor="#F2F2F2"></td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">374.1</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="17" table-order="2" data-type-order="15">
+<table-wrap id="102118176570MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">To grasp the extent of technogenic fracture distribution and remove the uncertainties of the current saturation in the western part of the UV1 formation we conducted tracer tests in injection wells 2073 and 873. Results showed (fig. 3, table A1, A2) significant tracer velocities for all studied wells. Thus, the average velocity of tracer lies in the range from 50 to 200 m/h with a maximum of 582 m/h. The permeability of defined low fluid flow resistance channels averaged 340D, with the actual 30 mD obtained on core samples. The reservoir type was determined to be porous with technogenic fracturing.</anchoringText>
+<label>Table A2</label>
+<caption>Parameters of tracer displacement in UV<sub>1</sub>
+<sup>1–2</sup> from injection well №2073</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>A2</caption-order>
+<caption-text>Parameters of tracer displacement in UV<sub>1</sub>
+<sup>1–2</sup> from injection well №2073</caption-text>
+</formatted-caption>
+<table id="102118176570MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="middle" align="center">w.</th>
+<th valign="middle" align="center">Distance between inj. and prod.</th>
+<th valign="middle" align="center">Injection pres. - 9.0MPa, tracer - ammonium thiocyanate, inj.rate - 288m3/day</th>
+<th valign="middle" align="center">1</th>
+<th valign="middle" align="center">2</th>
+<th valign="middle" align="center">3</th>
+<th valign="middle" align="center">4</th>
+<th valign="middle" align="center">5</th>
+<th valign="middle" align="center">6</th>
+<th valign="middle" align="center">7</th>
+<th valign="middle" align="center">8</th>
+<th valign="middle" align="center">9</th>
+<th valign="middle" align="center">10</th>
+<th valign="middle" align="center">11</th>
+<th valign="middle" align="center">12</th>
+<th valign="middle" align="center">13</th>
+<th valign="middle" align="center">14</th>
+<th valign="middle" align="center">15</th>
+<th valign="middle" align="center">Total</th>
+<th valign="middle" align="center">Specific velocity, m/h*MPa</th>
+<th valign="middle" align="center">Volume distribution, %</th>
+<th valign="middle" align="center">Recovered tracer, %</th>
+<th valign="middle" align="center">Water</th>
+<th valign="middle" align="center">Radius of low flow resist. channel, MM</th>
+<th valign="middle" align="center">Hydraulic conductivity, μm<sup>2</sup>*cm/mPa*s</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3" valign="middle" align="center">854</td>
+<td rowspan="3" valign="middle" align="center">1174.2</td>
+<td valign="middle" align="left">Время от конца закачки до появления трассера, час</td>
+<td valign="middle" align="center">17.5</td>
+<td valign="middle" align="center">66.5</td>
+<td valign="middle" align="center">119.5</td>
+<td valign="middle" align="center">195.6</td>
+<td valign="middle" align="center">262.6</td>
+<td valign="middle" align="center">356.4</td>
+<td valign="middle" align="center">476.6</td>
+<td valign="middle" align="center">525.6</td>
+<td valign="middle" align="center">620.4</td>
+<td valign="middle" align="center">717.6</td>
+<td valign="middle" align="center">1004.4</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td rowspan="3" valign="middle" align="center">3.2</td>
+<td rowspan="3" valign="middle" align="center">3.2</td>
+<td rowspan="3" valign="middle" align="center">22.2</td>
+<td rowspan="3" valign="middle" align="center">156.4</td>
+<td rowspan="3" valign="middle" align="center">0.0433</td>
+<td rowspan="3" valign="middle" align="center">3.387</td>
+</tr>
+<tr>
+<td valign="middle" align="left">Скорость прохождения</td>
+<td valign="middle" align="center">67.0</td>
+<td valign="middle" align="center">17.7</td>
+<td valign="middle" align="center">9.8</td>
+<td valign="middle" align="center">6.0</td>
+<td valign="middle" align="center">4.5</td>
+<td valign="middle" align="center">3.3</td>
+<td valign="middle" align="center">2.5</td>
+<td valign="middle" align="center">2.2</td>
+<td valign="middle" align="center">1.9</td>
+<td valign="middle" align="center">1.6</td>
+<td valign="middle" align="center">1.2</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+</tr>
+<tr>
+<td valign="middle" align="left">Объем каналов НФС, мз</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">0.3</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">1.0</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">1.9</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">4.1</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">3.7</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">7.8</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">14.2</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">16.5</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">28.2</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">21.4</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">13.0</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2"></td>
+<td valign="middle" align="center" bgcolor="#F2F2F2"></td>
+<td valign="middle" align="center" bgcolor="#F2F2F2"></td>
+<td valign="middle" align="center" bgcolor="#F2F2F2"></td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">112.1</td>
+</tr>
+<tr>
+<td rowspan="3" valign="middle" align="center">863</td>
+<td rowspan="3" valign="middle" align="center">482.4</td>
+<td valign="middle" align="left">Время от конца закачки до появления трассера, час</td>
+<td valign="middle" align="center">10.6</td>
+<td valign="middle" align="center">30.5</td>
+<td valign="middle" align="center">54.5</td>
+<td valign="middle" align="center">123.1</td>
+<td valign="middle" align="center">219.8</td>
+<td valign="middle" align="center">261.8</td>
+<td valign="middle" align="center">309.1</td>
+<td valign="middle" align="center">356.4</td>
+<td valign="middle" align="center">453.1</td>
+<td valign="middle" align="center">526.1</td>
+<td valign="middle" align="center">620.6</td>
+<td valign="middle" align="center">693.1</td>
+<td valign="middle" align="center">861.1</td>
+<td valign="middle" align="center">956.6</td>
+<td valign="middle" align="center">1052.6</td>
+<td valign="middle" align="center">
+</td>
+<td rowspan="3" valign="middle" align="center">1.9</td>
+<td rowspan="3" valign="middle" align="center">16.1</td>
+<td rowspan="3" valign="middle" align="center">32.5</td>
+<td rowspan="3" valign="middle" align="center">39</td>
+<td rowspan="3" valign="middle" align="center">0.0216</td>
+<td rowspan="3" valign="middle" align="center">0.421</td>
+</tr>
+<tr>
+<td valign="middle" align="left">Скорость прохождения</td>
+<td valign="middle" align="center">45.7</td>
+<td valign="middle" align="center">15.8</td>
+<td valign="middle" align="center">8.9</td>
+<td valign="middle" align="center">3.9</td>
+<td valign="middle" align="center">2.2</td>
+<td valign="middle" align="center">1.8</td>
+<td valign="middle" align="center">1.6</td>
+<td valign="middle" align="center">1.4</td>
+<td valign="middle" align="center">1.1</td>
+<td valign="middle" align="center">0.9</td>
+<td valign="middle" align="center">0.8</td>
+<td valign="middle" align="center">0.7</td>
+<td valign="middle" align="center">0.6</td>
+<td valign="middle" align="center">0.5</td>
+<td valign="middle" align="center">0.5</td>
+<td valign="middle" align="center">
+</td>
+</tr>
+<tr>
+<td valign="middle" align="left">Объем каналов НФС, мз</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">0.6</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">0.8</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">1.8</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">8.7</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">9.7</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">10.1</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">21.2</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">23.7</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">49.1</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">38.4</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">61.8</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">56.8</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">77.8</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">116.1</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">93.9</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">570.5</td>
+</tr>
+<tr>
+<td rowspan="3" valign="middle" align="center">864</td>
+<td rowspan="3" valign="middle" align="center">774</td>
+<td valign="middle" align="left">Время от конца закачки до появления трассера, час</td>
+<td valign="middle" align="center">11.0</td>
+<td valign="middle" align="center">29.8</td>
+<td valign="middle" align="center">90.5</td>
+<td valign="middle" align="center">194.6</td>
+<td valign="middle" align="center">284.4</td>
+<td valign="middle" align="center">357.6</td>
+<td valign="middle" align="center">405.6</td>
+<td valign="middle" align="center">476.6</td>
+<td valign="middle" align="center">525.6</td>
+<td valign="middle" align="center">620.4</td>
+<td valign="middle" align="center">692.6</td>
+<td valign="middle" align="center">812.6</td>
+<td valign="middle" align="center">957.1</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td rowspan="3" valign="middle" align="center">3.2</td>
+<td rowspan="3" valign="middle" align="center">22.9</td>
+<td rowspan="3" valign="middle" align="center">42.9</td>
+<td rowspan="3" valign="middle" align="center">103.7</td>
+<td rowspan="3" valign="middle" align="center">0.0353</td>
+<td rowspan="3" valign="middle" align="center">1.829</td>
+</tr>
+<tr>
+<td valign="middle" align="left">Скорость прохождения</td>
+<td valign="middle" align="center">70.1</td>
+<td valign="middle" align="center">26.0</td>
+<td valign="middle" align="center">8.6</td>
+<td valign="middle" align="center">4.0</td>
+<td valign="middle" align="center">2.7</td>
+<td valign="middle" align="center">2.2</td>
+<td valign="middle" align="center">1.9</td>
+<td valign="middle" align="center">1.6</td>
+<td valign="middle" align="center">1.5</td>
+<td valign="middle" align="center">1.2</td>
+<td valign="middle" align="center">1.1</td>
+<td valign="middle" align="center">1.0</td>
+<td valign="middle" align="center">0.8</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+</tr>
+<tr>
+<td valign="middle" align="left">Объем каналов НФС, м3</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">1.5</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">2.3</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">14.2</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">26.1</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">30.1</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">41.3</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">50.8</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">74.4</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">74.6</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">100.9</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">116.3</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">146.5</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">133.9</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2"></td>
+<td valign="middle" align="center" bgcolor="#F2F2F2"></td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">812.9</td>
+</tr>
+<tr>
+<td rowspan="3" valign="middle" align="center">865</td>
+<td rowspan="3" valign="middle" align="center">1196</td>
+<td valign="middle" align="left">Время от конца закачки до появления трассера, час</td>
+<td valign="middle" align="center">29.5</td>
+<td valign="middle" align="center">66.7</td>
+<td valign="middle" align="center">122.4</td>
+<td valign="middle" align="center">218.6</td>
+<td valign="middle" align="center">284.6</td>
+<td valign="middle" align="center">406.3</td>
+<td valign="middle" align="center">477.1</td>
+<td valign="middle" align="center">549.6</td>
+<td valign="middle" align="center">621.1</td>
+<td valign="middle" align="center">716.6</td>
+<td valign="middle" align="center">860.9</td>
+<td valign="middle" align="center">1053.1</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td rowspan="3" valign="middle" align="center">2.1</td>
+<td rowspan="3" valign="middle" align="center">57.8</td>
+<td rowspan="3" valign="middle" align="center">2.5</td>
+<td rowspan="3" valign="middle" align="center">104.6</td>
+<td rowspan="3" valign="middle" align="center">0.0354</td>
+<td rowspan="3" valign="middle" align="center">1.852</td>
+</tr>
+<tr>
+<td valign="middle" align="left">Скорость прохождения</td>
+<td valign="middle" align="center">40.5</td>
+<td valign="middle" align="center">17.9</td>
+<td valign="middle" align="center">9.8</td>
+<td valign="middle" align="center">5.5</td>
+<td valign="middle" align="center">4.2</td>
+<td valign="middle" align="center">2.9</td>
+<td valign="middle" align="center">2.5</td>
+<td valign="middle" align="center">2.2</td>
+<td valign="middle" align="center">1.9</td>
+<td valign="middle" align="center">1.7</td>
+<td valign="middle" align="center">1.4</td>
+<td valign="middle" align="center">1.1</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+<td valign="middle" align="center">
+</td>
+</tr>
+<tr>
+<td valign="middle" align="left">Объем каналов НФС, м3</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">5.1</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">8.4</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">35.3</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">42.0</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">54.7</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">78.1</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">181.7</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">542.6</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">406.5</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">355.1</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">136.9</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">202.5</td>
+<td valign="middle" align="center" bgcolor="#F2F2F2"></td>
+<td valign="middle" align="center" bgcolor="#F2F2F2"></td>
+<td valign="middle" align="center" bgcolor="#F2F2F2"></td>
+<td valign="middle" align="center" bgcolor="#F2F2F2">2048.9</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

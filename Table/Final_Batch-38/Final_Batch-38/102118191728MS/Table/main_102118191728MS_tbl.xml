@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191728MS.txt" extractionDate="2021-03-30T16:50:39Z">
+<doi>10.2118/191728-MS</doi>
+<pii>10.2118/191728-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="4" table-order="1" data-type-order="2">
+<table-wrap id="102118191728MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The number, type, drilling sequence and trajectories of the wells to be designed is the focus of the optimization, on top of the platform design. The number of platforms and its location are also control parameter as it affects initial investment as well as drilling cost and time, as is summarized in Table 1. Flow control such as target injection and production rate, or reactive control strategy such as water-cut economic criteria are also decision parameters during production stage. The description of the control parameters and parameterization is further discussed later including Appendix B.</anchoringText>
+<label>Table 1</label>
+<caption>Economic values used for Olympus Field Development Optimization</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Economic values used for Olympus Field Development Optimization</caption-text>
+</formatted-caption>
+<table id="102118191728MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Type</th>
+<th valign="top" align="center">Value</th>
+<th valign="top" align="right">Unit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Platform cost</td>
+<td valign="top" align="center">500</td>
+<td valign="top" align="right">$M</td>
+</tr>
+<tr>
+<td valign="top" align="center">Oil price</td>
+<td valign="top" align="center">45</td>
+<td valign="top" align="right">$/stb</td>
+</tr>
+<tr>
+<td valign="top" align="center">Produced water cost</td>
+<td valign="top" align="center">6</td>
+<td valign="top" align="right">$/stb</td>
+</tr>
+<tr>
+<td valign="top" align="center">Injection water cost</td>
+<td valign="top" align="center">2</td>
+<td valign="top" align="right">$/stb</td>
+</tr>
+<tr>
+<td valign="top" align="center">Discount factor</td>
+<td valign="top" align="center">0.08</td>
+<td valign="top" align="right">fraction</td>
+</tr>
+<tr>
+<td valign="top" align="center">Drilling and completion</td>
+<td valign="top" align="center">5ΔZ+ 10ΔXY</td>
+<td valign="top" align="right">1000$/m</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="5" table-order="2" data-type-order="3">
+<table-wrap id="102118191728MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Table 2 lists the constraints used for the field development and production control. The maximum dogleg severity constrains well trajectory of the well. Injection and production rates are also constrained by capacity per platform and well, as well as minimum and maximum pressures during the given 20 years of the asset development period.</anchoringText>
+<label>Table 2</label>
+<caption>Constraints used for Olympus Field Development Optimization</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Constraints used for Olympus Field Development Optimization</caption-text>
+</formatted-caption>
+<table id="102118191728MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Type</th>
+<th valign="top" align="center">Value</th>
+<th valign="top" align="center">Unit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Maximum number of wells per platform</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">Maximum platform liquid production rate</td>
+<td valign="top" align="center">88000</td>
+<td valign="top" align="center">stb/day</td>
+</tr>
+<tr>
+<td valign="top" align="center">Maximum well liquid production rate</td>
+<td valign="top" align="center">5700</td>
+<td valign="top" align="center">stb/day</td>
+</tr>
+<tr>
+<td valign="top" align="center">Maximum well water injection rate</td>
+<td valign="top" align="center">10000</td>
+<td valign="top" align="center">stb/day</td>
+</tr>
+<tr>
+<td valign="top" align="center">Maximum injector BHP</td>
+<td valign="top" align="center">3400</td>
+<td valign="top" align="center">psi</td>
+</tr>
+<tr>
+<td valign="top" align="center">Minimum producer BHP</td>
+<td valign="top" align="center">2180</td>
+<td valign="top" align="center">psi</td>
+</tr>
+<tr>
+<td valign="top" align="center">Speed of the drilling</td>
+<td valign="top" align="center">0.46·ΔZ+0.61·ΔXY</td>
+<td valign="top" align="center">days/100ft</td>
+</tr>
+<tr>
+<td valign="top" align="center">Life cycle period</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">years</td>
+</tr>
+<tr>
+<td valign="top" align="center">Maximum dogleg severity</td>
+<td valign="top" align="center">0.1</td>
+<td valign="top" align="center">deg/ft</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="9" table-order="3" data-type-order="11">
+<table-wrap id="102118191728MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Algorithm 1, Field development design setup, consists of the following steps</anchoringText>
+<caption>Algorithm 1 Field development design setup, consists of the following stepsa</caption>
+<formatted-caption />
+<table id="102118191728MS-Tbl_SPi-3" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="bottom" align="left">Input: Number of platform <i>N<sub>p</sub>,</i> number of wells <i>n <sub>w</sub>,</i> injector fraction <i>I<sub>w</sub>, </i>control parameter for well type <i>R<sub>w</sub>, Pf</i>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">1:</td>
+<td valign="top" align="left">Output: List of the well with design parameter, <i>L <sub>w </sub>
+</i>
+<b>for each </b>
+<i>N<sub>p</sub>
+</i>
+</td>
+</tr>
+<tr>
+<td align="left">2:</td>
+<td align="left">Set number of well: <i>n <sub>w</sub>
+</i>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">3:</td>
+<td valign="bottom" align="left">Set number of injector: <i>n <sub>wi</sub>
+</i> = int(round(n <i>
+<sub>w</sub> *I<sub>W</sub>))</i>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">4:</td>
+<td valign="bottom" align="left">
+<b>for </b>M' = l,/7 <sub>w</sub>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">5:</td>
+<td valign="bottom" align="left">Set type of the well by following drilling sequence rule: <i>f(n <sub>w</sub>,n<sub>wi</sub>,R<sub>w</sub>,Pf)</i>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">6:</td>
+<td valign="bottom" align="left">Set well location: ID from Archmedez spiral</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">7:</td>
+<td valign="bottom" align="left">Set completion design: azimuth, angle, length</td>
+</tr>
+<tr>
+<td align="left">8:</td>
+<td valign="top" align="left">Assign cost and drilling time into w</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">9:</td>
+<td valign="bottom" align="left">Put <i>w</i> to <i>L <sub>w</sub>
+</i>
+</td>
+</tr>
+<tr>
+<td align="left">10:</td>
+<td align="left">
+<b>end</b>
+</td>
+</tr>
+<tr>
+<td align="left">11:</td>
+<td align="left">
+<b>return </b>list <i>L <sub>w</sub>
+</i>
+</td>
+</tr>
+<tr>
+<td align="left">12:</td>
+<td align="left">
+<b>end</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="11" table-order="4" data-type-order="13">
+<table-wrap id="102118191728MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">In this section we will examine the proposed field development optimization workflow with initial test runs using a random development design. This test is conducted to quality check the developed workflow, and also to see if there are any potential opportunities to screen and reduce, or decouple the number of decision parameters. We first executed 1000 initial runs of a given random field development design with given ranges of design parameters as shown in Table 3. Since the number of platforms has a large impact, we will show the one platform example first. The optimization for three platform cases are discussed in Appendix A. The well control is reactive (shut-in by given water-cut) and effectiveness of this approach is discussed in Appendix B.</anchoringText>
+<label>Table 3</label>
+<caption>List of the Decision Parameter and Range Used for Optimization</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>List of the Decision Parameter and Range Used for Optimization</caption-text>
+</formatted-caption>
+<table id="102118191728MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Decision varialbe</th>
+<th valign="top" align="center">Range</th>
+<th valign="top" align="center">Note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Number of platform</td>
+<td valign="top" align="center">1~3</td>
+<td valign="top" align="center">2~3 shown in Appendix.</td>
+</tr>
+<tr>
+<td valign="top" align="center">Platform location</td>
+<td valign="top" align="center">1~5</td>
+<td valign="top" align="center">1 = center, 2~5 = N,E,S,W</td>
+</tr>
+<tr>
+<td valign="top" align="center">Number of wells</td>
+<td valign="top" align="center">6~20</td>
+<td valign="top" align="center">per platform</td>
+</tr>
+<tr>
+<td valign="top" align="center">Fraction of injector</td>
+<td valign="top" align="center">0.2~0.7</td>
+<td valign="top" align="center">num. of injector, to be integered</td>
+</tr>
+<tr>
+<td valign="top" align="center">Drilling sequence</td>
+<td valign="top" align="center">1~5</td>
+<td valign="top" align="center">Inj-prd drilling recurrence sequence</td>
+</tr>
+<tr>
+<td valign="top" align="center">Drill prd or inj first</td>
+<td valign="top" align="center">0, 1</td>
+<td valign="top" align="center">1 = drill producer first</td>
+</tr>
+<tr>
+<td valign="top" align="center">Producer shut-in criteria</td>
+<td valign="top" align="center">0.7~0.95</td>
+<td valign="top" align="center">water-cut economic shut-in</td>
+</tr>
+<tr>
+<td valign="top" align="center">Well location</td>
+<td valign="top" align="center">1~162</td>
+<td valign="top" align="center">location candidates <link href="102118191728MS-Img_SPi-6">(Fig. 6)</link>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">0, 30~60,90</td>
+<td valign="top" align="center">angle (vertical, slanted, horizontal)</td>
+</tr>
+<tr>
+<td valign="top" align="center">Well completion type</td>
+<td valign="top" align="center">−30,0,30</td>
+<td valign="top" align="center">azimuth angle to horizontal plane</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">200,400,600</td>
+<td valign="top" align="center">completion length, m</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="16" table-order="5" data-type-order="20">
+<table-wrap id="102118191728MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">Table 4 summarizes the number of wells and average completion length for a best development design obtained during optimization via sequential uncertainty refinement. The more number of wells and longer completion length are obtained as the model realizations increased during optimization. We have observed that the field development design obtained by 1-realization placed wells at high productivity channel with short completion lengths. However, as the number of model realization increases during optimization, optimizer adds more wells with longer completion lengths, in order to avoid the risk of wells hitting at low productive regions.</anchoringText>
+<label>Table 4</label>
+<caption>Best Field Development Design Obtained During Optimization via Sequential Uncertainty Refinement</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Best Field Development Design Obtained During Optimization via Sequential Uncertainty Refinement</caption-text>
+</formatted-caption>
+<table id="102118191728MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Realizations Used</th>
+<th valign="top" align="center">Number of Wells</th>
+<th valign="top" align="center">Average Completion Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">9</td>
+<td valign="top" align="center">333 m</td>
+</tr>
+<tr>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">11</td>
+<td valign="top" align="center">381 m</td>
+</tr>
+<tr>
+<td valign="top" align="center">7</td>
+<td valign="top" align="center">12</td>
+<td valign="top" align="center">366 m</td>
+</tr>
+<tr>
+<td valign="top" align="center">15</td>
+<td valign="top" align="center">13</td>
+<td valign="top" align="center">431 m</td>
+</tr>
+<tr>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">13</td>
+<td valign="top" align="center">476 m</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

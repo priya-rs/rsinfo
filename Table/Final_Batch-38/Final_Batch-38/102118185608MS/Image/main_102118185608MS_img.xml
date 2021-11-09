@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185608MS.txt" extractionDate="2021-03-26T13:50:38Z">
+<doi>10.2118/185608-MS</doi>
+<pii>10.2118/185608-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr2">The Dolphin and Starfish fields are located in the East Coast Marine Area, approximately 75km off the east coast of Trinidad (Figure 1). The Dolphin Field was discovered in 1976 with the Dolphin-1 well and subsequently appraised by three wells in 1981 and one well in 1995. Production began in 1996 through a series of deviated wells from the Dolphin "A" Platform (DAP) with a second phase of development in 2008/9. The Starfish field was discovered in 1998 with first production occurring in 2014.</anchoringText>
+<image-wrap id="102118185608MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118185608MS_i_1.tif" id="ImgLink-1" />
+<caption>Location of Dolphin and Starfish fields</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Location of Dolphin and Starfish fields</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr3">This eqaution is the basis of the famous p/z plot vs. Gp, where the x-intercept represents the GIIP estimate for that gas reservoir. Figure 2 shows typical p/z plots for different drive mechanisms and reservoir types.</anchoringText>
+<image-wrap id="102118185608MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118185608MS_i_2.tif" id="ImgLink-2" />
+<caption>Typical p/z plot outcomes for different drive mechanisms and reservoir types</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Typical p/z plot outcomes for different drive mechanisms and reservoir types</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr4">In the case of Dolphin field, the dynamic volume estimates in some reservoir layers have been historically ~50-150% more than the static volumes, even after over 15 years of production. An example is shown in Figure 3 for a range of static vs. dynamic normalized GIIP estimates in one of Dolphin reservoirs.</anchoringText>
+<image-wrap id="102118185608MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118185608MS_i_3.tif" id="ImgLink-3" />
+<caption>A historical range of static <i>vs</i>. dynamic normalized GIIP estimates in a Dolphin reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>A historical range of static vs. dynamic normalized GIIP estimates in a Dolphin reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr5">The pore volume compressibility used instead in previous material balance studies was in the range of 6-12 microsips (10−6 psi−1). As shown in Figure 4 (Newman, 1973), this is very close to a typical range of 3-10 microsips, which is for consolidated sands as per Hall's (1953) correlation. In contrast, Newman's (1973) data for unconsolidated sands (GDA) have values up to 90 microsips, over an order of magnitude higher than the range for consolidated sands. The effect of compaction is not anymore negligible in the material balance equation, at this level of high pore volume compressibility (Fjaer et al., 1992 and Zimmerman, 1991).</anchoringText>
+<image-wrap id="102118185608MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118185608MS_i_4.tif" id="ImgLink-4" />
+<caption>Pore volume compressibility of consolidated and unconsolidated sands (Newman 1973)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Pore volume compressibility of consolidated and unconsolidated sands (<link href="BIB1">Newman 1973</link>)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-19" type="bib">
+<bib id="BIB1">
+<label>Newman, 1973</label>
+<author>
+<first-name>G. H.</first-name>
+<last-name>Newman</last-name>
+</author>, <pubDate>1973</pubDate>. <article-title>Pore volume compressibility of consolidated, friable, and unconsolidated reservoir rocks under hydrostatic loading </article-title>.<journal-title><i>SPE Journal of Petroleum Technology</i> </journal-title>
+, 
+<volume>2</volume>
+<issue>(25)</issue>, pp. <pages>
+<first-page>129</first-page>
+<last-page>134</last-page>
+</pages>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr6">The combination of the compaction effect with the new thin-bed modelling assisted in resolving the historical mismatch between the static and dynamic in place volumes. This was achieved on one side, by reducing the dynamic volumes using higher and more representative pore volume compressibility values for unconsolidated GDA sands. While on the other hand, static volume estimates increase through use of the thin-bed characterization methodology. This helped in better history matches of observed pressure depletion (as shown in Figure 5).</anchoringText>
+<image-wrap id="102118185608MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118185608MS_i_5.tif" id="ImgLink-5" />
+<caption>The pressure match in some Dolphin wells before and after adjusting the in place volumes and applying thin bed re-evaluation</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>The pressure match in some Dolphin wells before and after adjusting the in place volumes and applying thin bed re-evaluation</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr7">The workflow for the Dolphin probabilistic modelling study is illustrated in Figure 6. Historical pressure and production data were extensively reviewed and compartments were identified based on the pressure depletion trends. Then, for the selected tanks, reservoir properties and volume uncertainty ranges were identified and explored in an integrated uncertainty tool and a material balance software with up to 1500 Latin Hypercube random sampling runs. A range of models that satisfy high confidence history matches were selected and P10, P50 and P90 GIIP ranges were identified.</anchoringText>
+<image-wrap id="102118185608MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118185608MS_i_6.tif" id="ImgLink-6" />
+<caption>Dolphin probabilistic material balance modelling workflow</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Dolphin probabilistic material balance modelling workflow</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr8">It was also realized that in most of the Dolphin reservoir layers, the wells are not in total isolation and some level of pressure communication exists between the wells and their compartments. Hence, the compartments in each set of comingled reservoir layers were modeled as tanks with transmissibility between them to avoid double counting the in place volumes. Figure 7 shows a tank setup for a set of comingled reservoir layers in Dolphin. In some cases, sensitivities were run for both merged and separate tanks for wells with similar pressure trends and reasonably proximal locations to test sensitivity of the outcome results to the aggregation of wells into compartments.</anchoringText>
+<image-wrap id="102118185608MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118185608MS_i_7.tif" id="ImgLink-7" />
+<caption>A tank setup for a set of comingled Dolphin reservoir layers</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>A tank setup for a set of comingled Dolphin reservoir layers</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr9">The outputs of the probabilistic material balance simulations were interrogated against the observed pressure data to find acceptable matches. A confidence interval of +/- 100 psi was used to determine the acceptable ranges of tank pressure match compared against the observed historical pressure points. Figure 8 shows the range of top 25 realizations with acceptable pressure matches in all four tanks of one set of comingled reservoir layers in Dolphin.</anchoringText>
+<image-wrap id="102118185608MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118185608MS_i_8.tif" id="ImgLink-8" />
+<caption>Top 25 acceptable pressure matches for each tank in a set of Dolphin reservoir layers</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Top 25 acceptable pressure matches for each tank in a set of Dolphin reservoir layers</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr10">The final step was to generate a cumulative probability distribution curve of aggregated in-place volumes for all the tanks in each set of comingled reservoir layers based on the acceptable ranges, as shown in Figure 9. The P10, P50 and P90 values were then identified based on the distribution. Also, as a sensitivity analysis, acceptable ranges were relaxed and top 25 matches extended to the top 50 matches and similar results and ranges were still observed.</anchoringText>
+<image-wrap id="102118185608MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118185608MS_i_9.tif" id="ImgLink-9" />
+<caption>Cumulative probability distribution of GIIP range for a set of Dolphin comingled reservoir layers for top 50 and 25 best matches</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Cumulative probability distribution of GIIP range for a set of Dolphin comingled reservoir layers for top 50 and 25 best matches</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="10" data-type-order="11">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr11">Figure 10 shows a plot of permeability in the log scale vs. porosity for Dolphin core data at three different sands 1, 2 and 3. The PTA permeability and their corresponding average porosity for each Dolphin well producing comingled from the same sands are also shown for comparison on Figure 10.</anchoringText>
+<image-wrap id="102118185608MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118185608MS_i_10.tif" id="ImgLink-10" />
+<caption>The permeability (log scale) vs. porosity of Dolphin core data compared with PTA</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>The permeability (log scale) vs. porosity of Dolphin core data compared with PTA</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="11" data-type-order="12">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr12">These correction factors in each layer of each well were then mapped (e.g. using kriging, co-kriging, etc.) to predict their values at un-sampled locations with spatial adjustments and defined as a new parameter in the static model. An example is shown in Figure 11.</anchoringText>
+<image-wrap id="102118185608MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118185608MS_i_11.tif" id="ImgLink-11" />
+<caption>An example of kriged correction factor in the model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>An example of kriged correction factor in the model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="12" data-type-order="13">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr13">The new correction factor parameter is then used to correct the preliminary permeability model to create the final permeability model. An example of initial permeability model and the final permeability model outcome vs. the porosity data in the static model are shown in Figure 12.</anchoringText>
+<image-wrap id="102118185608MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118185608MS_i_12.tif" id="ImgLink-12" />
+<caption>An example of initial and final permeability model <i>vs</i>. porosity for all layers</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>An example of initial and final permeability model vs. porosity for all layers</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="13" data-type-order="14">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr14">In this permeability modelling methodology, three distinct correlations to represent three different permeability-porosity relationship scenarios were generated based on the original Dolphin core and PTA data. As shown in Figure 13, two of the transforms in this case were power functions and one was exponential, as follows:</anchoringText>
+<image-wrap id="102118185608MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118185608MS_i_13.tif" id="ImgLink-13" />
+<caption>Three correlations representing different permeability-porosity relationship scenarios</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Three correlations representing different permeability-porosity relationship scenarios</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="16" figure-order="14" data-type-order="15">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr15">The methodology was developed as a robust workflow in the reservoir modelling software with embedded plug-ins developed to run spreadsheet macros. This facilitates uncertainty workflows for a range of probabilistic models with numerous static realizations and can automatically regenerate the three permeability models based on the stochastically generated porosity model. It assists in matching initial PLA results in each of the wells at the beginning of the simulation, and normally for the rest of the history, depending on the general quality of the pressure history match of the individual sands (as shown in Figure 14).</anchoringText>
+<image-wrap id="102118185608MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118185608MS_i_14.tif" id="ImgLink-14" />
+<caption>Examples of cumulative production logs automatically matched in two of the wells for the range of acceptable history matches Cumulative Production (Well XX) Cumulative Production (Well YY)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Examples of cumulative production logs automatically matched in two of the wells for the range of acceptable history matches Cumulative Production (Well XX) Cumulative Production (Well YY)</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118185608MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118185608MS_i_14a.tif" id="ImgLink-14a" />
+<figure-specific-caption>
+<caption-text>Cumulative Production (Well XX)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118185608MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118185608MS_i_14b.tif" id="ImgLink-14b" />
+<figure-specific-caption>
+<caption-text>Cumulative Production (Well YY)</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="15" data-type-order="16">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr16">The output of the sensitivity studies highlighted the key uncertainties for each of the reservoir zones. It is important to point out that the uncertainty on saturation and petrophysical properties had a key impact for all zones. The depth conversion uncertainty had the biggest impact for some of the Dolphin reservoirs (as shown in Figure 15). These reservoirs have the largest hydrocarbon column such that structural flexing of the horizons away from well control has a large impact on GRV.</anchoringText>
+<image-wrap id="102118185608MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118185608MS_i_15.tif" id="ImgLink-15" />
+<caption>Tornado plot for one of the Dolphin field reservoirs</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Tornado plot for one of the Dolphin field reservoirs</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="16" data-type-order="17">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr17">A GIIP range was generated from the static uncertainty workflows using Monte-Carlo analysis for each of the key reservoirs. Following the Monte-Carlo analysis, a suite of deterministic models was defined to ensure that the generated models capture the entire GIIP range (as shown in Figure 16).</anchoringText>
+<image-wrap id="102118185608MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118185608MS_i_16.tif" id="ImgLink-16" />
+<caption>GIIP histogram and PDF one of the Dolphin field reservoirs</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>GIIP histogram and PDF one of the Dolphin field reservoirs</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="17" data-type-order="18">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr18">These runs were then screened and reasonably history matchable static models were identified for each reservoir. The selected runs GIIP ranges were comparable with the ranges from the earlier material balance study. Over 100 matched cases were selected out of all the experimental runs for each reservoir. These selected matches are shown for some of Dolphin wells for reservoir pressure in Figure 17, for water production in Figure 18 and for production logs in Figure 14.</anchoringText>
+<image-wrap id="102118185608MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118185608MS_i_17.tif" id="ImgLink-17" />
+<caption>Reservoir pressure match for top 100 selected cases of some wells in a Dolphin reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Reservoir pressure match for top 100 selected cases of some wells in a Dolphin reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="18" data-type-order="19">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr19">The selected runs GIIP ranges were comparable with the ranges from the earlier material balance study. Over 100 matched cases were selected out of all the experimental runs for each reservoir. These selected matches are shown for some of Dolphin wells for reservoir pressure in Figure 17, for water production in Figure 18 and for production logs in Figure 14.</anchoringText>
+<image-wrap id="102118185608MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118185608MS_i_18.tif" id="ImgLink-18" />
+<caption>Water production match for top 100 selected cases of some wells in a Dolphin reservoir</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Water production match for top 100 selected cases of some wells in a Dolphin reservoir</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

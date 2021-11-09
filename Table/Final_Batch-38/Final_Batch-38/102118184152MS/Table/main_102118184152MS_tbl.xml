@@ -1,0 +1,757 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118184152MS.txt" extractionDate="2021-03-24T19:39:28Z">
+<doi>10.2118/184152-MS</doi>
+<pii>10.2118/184152-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="3" table-order="1" data-type-order="2">
+<table-wrap id="102118184152MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">An analysis of longitudinal reservoir development condition was carried out and details are shown in Table 1, which shows that the longitudinal reservoir development rate of Guantao is higher than that of Xing VI.</anchoringText>
+<label>Table 1</label>
+<caption>Longitudinal reservoir development data</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Longitudinal reservoir development data</caption-text>
+</formatted-caption>
+<table id="102118184152MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="left">Interval</th>
+<th colspan="3" valign="top" align="center">Development ratio %</th>
+</tr>
+<tr>
+<th valign="top" align="center">Gas entry profiling</th>
+<th valign="top" align="center">Produced fluid profile</th>
+<th valign="top" align="center">Average</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Guantao</td>
+<td valign="top" align="left">85.0</td>
+<td valign="top" align="left">83.4</td>
+<td valign="top" align="left">84.2</td>
+</tr>
+<tr>
+<td valign="top" align="left">Xing VI</td>
+<td valign="top" align="left">80.1</td>
+<td valign="top" align="left">80.2</td>
+<td valign="top" align="left">80.2</td>
+</tr>
+<tr>
+<td valign="top" align="left">Average</td>
+<td valign="top" align="left">81.1</td>
+<td valign="top" align="left">82.2</td>
+<td valign="top" align="left">81.7</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="6" table-order="2" data-type-order="7">
+<table-wrap id="102118184152MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">From Table 2 we can see that more wells in a group lead to a higher yield. However, there is a limitation of wells due to the limited number of boilers at the rig site.</anchoringText>
+<label>Table 2</label>
+<caption>Comparison of multi-well steam injection scale and oil output</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Comparison of multi-well steam injection scale and oil output</caption-text>
+</formatted-caption>
+<table id="102118184152MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Number of wells in a group</th>
+<th valign="top" align="left">Production period (d)</th>
+<th valign="top" align="left">Steam injection (10<sup>4</sup>m<sup>3</sup>)</th>
+<th valign="top" align="left">Accumulated oil production (10<sup>4</sup>t)</th>
+<th valign="top" align="left">OGR</th>
+<th valign="top" align="left">Daily output of oil (t)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">7</td>
+<td valign="top" align="left">650</td>
+<td valign="top" align="left">9.77</td>
+<td valign="top" align="left">2.4</td>
+<td valign="top" align="left">5.17</td>
+<td valign="top" align="left">0.25</td>
+</tr>
+<tr>
+<td valign="top" align="left">12</td>
+<td valign="top" align="left">650</td>
+<td valign="top" align="left">13.04</td>
+<td valign="top" align="left">4.8</td>
+<td valign="top" align="left">7.68</td>
+<td valign="top" align="left">0.37</td>
+</tr>
+<tr>
+<td valign="top" align="left">18</td>
+<td valign="top" align="left">650</td>
+<td valign="top" align="left">16.6</td>
+<td valign="top" align="left">6.52</td>
+<td valign="top" align="left">9.75</td>
+<td valign="top" align="left">0.39</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="6" table-order="3" data-type-order="8">
+<table-wrap id="102118184152MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">A mathematical module was established to analyze the effect of the distance between wells on the oil output. Table 3 shows more details.</anchoringText>
+<label>Table 3</label>
+<caption>Effect of the distance between wells on the oil output</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Effect of the distance between wells on the oil output</caption-text>
+</formatted-caption>
+<table id="102118184152MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Distance between wells (m)</th>
+<th valign="top" align="left">Production time (d)</th>
+<th valign="top" align="left">Steam injection (10<sup>4</sup>t)</th>
+<th valign="top" align="left">Accumulative oil output (10<sup>4</sup>m<sup>3</sup>)</th>
+<th valign="top" align="left">Accumulative water output (10<sup>4</sup>m<sup>3</sup>)</th>
+<th valign="top" align="left">OGR</th>
+<th valign="top" align="left">Average output of crude oil per well (t)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">70 (18 wells)</td>
+<td valign="top" align="left">650</td>
+<td valign="top" align="left">16.5</td>
+<td valign="top" align="left">6.51</td>
+<td valign="top" align="left">9.72</td>
+<td valign="top" align="left">0.40</td>
+<td valign="top" align="left">3614</td>
+</tr>
+<tr>
+<td valign="top" align="left">100 (15 wells)</td>
+<td valign="top" align="left">850</td>
+<td valign="top" align="left">17.25</td>
+<td valign="top" align="left">6.34</td>
+<td valign="top" align="left">7.8</td>
+<td valign="top" align="left">0.37</td>
+<td valign="top" align="left">4202</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="4" data-type-order="9">
+<table-wrap id="102118184152MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">A study involving 18 wells was also carried out. They were put in 3 rows and in each row 6 wells. The multi-well stimulation pattern was carried out and results are shown in Table 4.</anchoringText>
+<label>Table 4</label>
+<caption>Comparison of development patterns and oil outputs</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Comparison of development patterns and oil outputs</caption-text>
+</formatted-caption>
+<table id="102118184152MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Production pattern</th>
+<th valign="top" align="left">Production period</th>
+<th valign="top" align="left">Steam injection (10<sup>4</sup>t)</th>
+<th valign="top" align="left">Accumulative oil production (10<sup>4</sup>m<sup>3</sup>)</th>
+<th valign="top" align="left">Accumulated water production (10<sup>4</sup>m<sup>3</sup>)</th>
+<th valign="top" align="left">OGR</th>
+<th valign="top" align="left">Average output per well (t)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Steam is injected into all wells and oil is produced from all wells</td>
+<td valign="top" align="left">850</td>
+<td valign="top" align="left">18.23</td>
+<td valign="top" align="left">6.31</td>
+<td valign="top" align="left">8.3</td>
+<td valign="top" align="left">0.36</td>
+<td valign="top" align="left">4.9</td>
+</tr>
+<tr>
+<td valign="top" align="left">Steam is injected into the 1st row and oil is produced from all wells</td>
+<td valign="top" align="left">1041</td>
+<td valign="top" align="left">12</td>
+<td valign="top" align="left">4.86</td>
+<td valign="top" align="left">8.57</td>
+<td valign="top" align="left">0.41</td>
+<td valign="top" align="left">3.1</td>
+</tr>
+<tr>
+<td valign="top" align="left">Steam is injected into the middle well for consecutive 200 days and oil is produced from other wells</td>
+<td valign="top" align="left">730</td>
+<td valign="top" align="left">22.3</td>
+<td valign="top" align="left">7.3</td>
+<td valign="top" align="left">15.05</td>
+<td valign="top" align="left">0.33</td>
+<td valign="top" align="left">6.7</td>
+</tr>
+<tr>
+<td valign="top" align="left">Steam is injected into the central well for consecutive 200 days and oil is produced from it</td>
+<td valign="top" align="left">563</td>
+<td valign="top" align="left">27.02</td>
+<td valign="top" align="left">6.66</td>
+<td valign="top" align="left">19.25</td>
+<td valign="top" align="left">0.25</td>
+<td valign="top" align="left">7.9</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="15" table-order="5" data-type-order="21">
+<table-wrap id="102118184152MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">From Table 5 we can see that both of WZ-OS surfactant and GM-50surfactant are effective in foaming and acceptable as clean-up additives. As a kind of non-Newtonian fluid, the foam is featured with shearing and thinning abilities, while its apparent viscosity in high-permeability formation is higher than that in low-permeability one. Therefore, foams may be used to plug highly permeable formation to with higher a swept volume and sweep efficiency.</anchoringText>
+<label>Table 5</label>
+<caption>Foaming ability &amp; stability of hydrated gel system</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Foaming ability &amp; stability of hydrated gel system</caption-text>
+</formatted-caption>
+<table id="102118184152MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Dosage (%)</th>
+<th valign="top" align="left">Amount of foams (mL/100mL)</th>
+<th valign="top" align="left">Half-life period (s)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">1</td>
+<td valign="top" align="left">425</td>
+<td valign="top" align="left">115</td>
+</tr>
+<tr>
+<td valign="top" align="left">2</td>
+<td valign="top" align="left">476</td>
+<td valign="top" align="left">183</td>
+</tr>
+<tr>
+<td valign="top" align="left">4</td>
+<td valign="top" align="left">566</td>
+<td valign="top" align="left">270</td>
+</tr>
+<tr>
+<td valign="top" align="left">6</td>
+<td valign="top" align="left">600</td>
+<td valign="top" align="left">330</td>
+</tr>
+<tr>
+<td valign="top" align="left">10</td>
+<td valign="top" align="left">616</td>
+<td valign="top" align="left">352</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="15" table-order="6" data-type-order="22">
+<table-wrap id="102118184152MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6">From Table 6 we can see that a specific dosage of WZ-OS and GM-50 contributes to viscosity reduction, while the GM-50 additive with a less dosage may improve its viscosity reduction ability.</anchoringText>
+<label>Table 6</label>
+<caption>Viscosity reducing ability of surfactant</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Viscosity reducing ability of surfactant</caption-text>
+</formatted-caption>
+<table id="102118184152MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="center">No.</th>
+<th colspan="2" valign="top" align="center">Dosage of surfactant in gel (%)</th>
+<th rowspan="2" valign="top" align="center">Viscosity reduced by (%)</th>
+<th rowspan="2" valign="top" align="center">Temperature (°C)</th>
+<th rowspan="2" valign="top" align="center">Remark</th>
+</tr>
+<tr>
+<th valign="top" align="center">WZ-OS</th>
+<th valign="top" align="center">GM-50</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">0.1</td>
+<td valign="top" align="center">0.9</td>
+<td valign="top" align="center">80</td>
+<td valign="top" align="center">95</td>
+<td valign="top" align="center">Dispersed large particles</td>
+</tr>
+<tr>
+<td valign="top" align="center">2</td>
+<td valign="top" align="center">0.2</td>
+<td valign="top" align="center">0.8</td>
+<td valign="top" align="center">80</td>
+<td valign="top" align="center">95</td>
+<td valign="top" align="center">Dispersed large particles</td>
+</tr>
+<tr>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">0.5</td>
+<td valign="top" align="center">0.5</td>
+<td valign="top" align="center">90</td>
+<td valign="top" align="center">98</td>
+<td valign="top" align="center">Evenly distributed</td>
+</tr>
+<tr>
+<td valign="top" align="center">4</td>
+<td valign="top" align="center">0.6</td>
+<td valign="top" align="center">0.4</td>
+<td valign="top" align="center">95</td>
+<td valign="top" align="center">&#x003E;100</td>
+<td valign="top" align="center">Evenly distributed</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="15" table-order="7" data-type-order="23">
+<table-wrap id="102118184152MS-tblwrp-7" content-type="structured">
+<anchoringText id="Ancr7">Observation well 1 that is 13 meters off 36-7046 well and observation well 2 that is 23 meters away from 36-7046 well were drilled to gauge temperature (Figure 6). Temperature changes are shown in Table 7.</anchoringText>
+<label>Table 7</label>
+<caption>Plugging effects of various systems</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Plugging effects of various systems</caption-text>
+</formatted-caption>
+<table id="102118184152MS-Tbl_SPi-7" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Plugging agent</th>
+<th valign="top" align="left">Plugging rate (%)</th>
+<th valign="top" align="left">Plugging strength (MPa / m)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Polymeric gel</td>
+<td valign="top" align="left">86</td>
+<td valign="top" align="left">7.6</td>
+</tr>
+<tr>
+<td valign="top" align="left">Solid particle</td>
+<td valign="top" align="left">93</td>
+<td valign="top" align="left">10.3</td>
+</tr>
+<tr>
+<td valign="top" align="left">WZ-OS &amp; GM-50</td>
+<td valign="top" align="left">97</td>
+<td valign="top" align="left">12.6</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="16" table-order="8" data-type-order="24">
+<table-wrap id="102118184152MS-tblwrp-8" content-type="structured">
+<anchoringText id="Ancr8">Prepare some HT resistant sand control materials and make them consolidated in various conditions with different temperatures. The consolidated units are then dried prior to measuring their strength and permeability. Table 8 shows the details.</anchoringText>
+<label>Table 8</label>
+<caption>Consolidation at various temperatures</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Consolidation at various temperatures</caption-text>
+</formatted-caption>
+<table id="102118184152MS-Tbl_SPi-8" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="center">Consolidation temperature</td>
+<td valign="top" align="center">20</td>
+<td valign="top" align="center">40</td>
+<td valign="top" align="center">60</td>
+<td valign="top" align="center">80</td>
+<td valign="top" align="center">100</td>
+<td valign="top" align="center">120</td>
+<td valign="top" align="center">200</td>
+<td valign="top" align="center">300</td>
+<td valign="top" align="center">350</td>
+</tr>
+<tr>
+<td valign="top" align="center">Permeability</td>
+<td valign="top" align="center">8.55</td>
+<td valign="top" align="center">9.45</td>
+<td valign="top" align="center">10.68</td>
+<td valign="top" align="center">12.12</td>
+<td valign="top" align="center">13.75</td>
+<td valign="top" align="center">15.15</td>
+<td valign="top" align="center">17.00</td>
+<td valign="top" align="center">20.15</td>
+<td valign="top" align="center">21.25</td>
+</tr>
+<tr>
+<td valign="top" align="center">Compressive strength</td>
+<td valign="top" align="center">5.12</td>
+<td valign="top" align="center">5.10</td>
+<td valign="top" align="center">4.95</td>
+<td valign="top" align="center">4.90</td>
+<td valign="top" align="center">4.86</td>
+<td valign="top" align="center">4.82</td>
+<td valign="top" align="center">4.60</td>
+<td valign="top" align="center">4.30</td>
+<td valign="top" align="center">4.25</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="16" table-order="9" data-type-order="25">
+<table-wrap id="102118184152MS-tblwrp-9" content-type="structured">
+<anchoringText id="Ancr9">From Table 9 we can see that artificial boreholes made up of HT sand control materials are hydrophilic, which helps oil flow.</anchoringText>
+<label>Table 9</label>
+<caption>Wettability of artificial boreholes</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Wettability of artificial boreholes</caption-text>
+</formatted-caption>
+<table id="102118184152MS-Tbl_SPi-9" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Rock No.</th>
+<th valign="top" align="center">1</th>
+<th valign="top" align="center">2</th>
+<th valign="top" align="center">3</th>
+<th valign="top" align="center">4</th>
+<th valign="top" align="center">5</th>
+<th valign="top" align="center">6</th>
+<th valign="top" align="center">7</th>
+<th valign="top" align="center">8</th>
+<th valign="top" align="center">9</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">Permeability (μm3)</td>
+<td valign="top" align="center">11.75</td>
+<td valign="top" align="center">5.90</td>
+<td valign="top" align="center">6.14</td>
+<td valign="top" align="center">8.67</td>
+<td valign="top" align="center">3.58</td>
+<td valign="top" align="center">9.90</td>
+<td valign="top" align="center">4.05</td>
+<td valign="top" align="center">4.35</td>
+<td valign="top" align="center">3.46</td>
+</tr>
+<tr>
+<td valign="top" align="center">Water absorption (%)</td>
+<td valign="top" align="center">57.12</td>
+<td valign="top" align="center">56.72</td>
+<td valign="top" align="center">58.30</td>
+<td valign="top" align="center">48.62</td>
+<td valign="top" align="center">58.68</td>
+<td valign="top" align="center">47.16</td>
+<td valign="top" align="center">42.25</td>
+<td valign="top" align="center">29.05</td>
+<td valign="top" align="center">59.26</td>
+</tr>
+<tr>
+<td valign="top" align="center">Oil absorption (%)</td>
+<td valign="top" align="center">0.490</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">1.460</td>
+<td valign="top" align="center">0</td>
+</tr>
+<tr>
+<td valign="top" align="center">Wettability</td>
+<td valign="top" align="center">hydrophilic</td>
+<td valign="top" align="center">Hydrophilic</td>
+<td valign="top" align="center">hydrophilic</td>
+<td valign="top" align="center">hydrophilic</td>
+<td valign="top" align="center">hydrophilic</td>
+<td valign="top" align="center">hydrophilic</td>
+<td valign="top" align="center">hydrophilic</td>
+<td valign="top" align="center">hydrophilic</td>
+<td valign="top" align="center">hydrophilic</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="19" table-order="10" data-type-order="29">
+<table-wrap id="102118184152MS-tblwrp-10" content-type="structured">
+<anchoringText id="Ancr10">From Table 10 and Table 11 we can see that the slurry filtration is dramatically reduced as more FS-I additive is added, while high temperature affects its performance.</anchoringText>
+<label>Table 10</label>
+<caption>Slurry filtration at 45°C with various FS-I doses (W/C=0.5)</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Slurry filtration at 45°C with various FS-I doses (W/C=0.5)</caption-text>
+</formatted-caption>
+<table id="102118184152MS-Tbl_SPi-10" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Dose, %</th>
+<th valign="top" align="left">0</th>
+<th valign="top" align="left">1.0</th>
+<th valign="top" align="left">2.0</th>
+<th valign="top" align="left">2.5</th>
+<th valign="top" align="left">3.0</th>
+<th valign="top" align="left">3.5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Filtration, ml</td>
+<td valign="top" align="left">1952</td>
+<td valign="top" align="left">821</td>
+<td valign="top" align="left">485</td>
+<td valign="top" align="left">243</td>
+<td valign="top" align="left">215</td>
+<td valign="top" align="left">103</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="19" table-order="11" data-type-order="30">
+<table-wrap id="102118184152MS-tblwrp-11" content-type="structured">
+<anchoringText id="Ancr11">From Table 10 and Table 11 we can see that the slurry filtration is dramatically reduced as more FS-I additive is added, while high temperature affects its performance.</anchoringText>
+<label>Table 11</label>
+<caption>Slurry filtration at 75°C with various FS-I doses (W/C=0.5)</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Slurry filtration at 75°C with various FS-I doses (W/C=0.5)</caption-text>
+</formatted-caption>
+<table id="102118184152MS-Tbl_SPi-11" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Dose, %</th>
+<th valign="top" align="left">0</th>
+<th valign="top" align="left">1.0</th>
+<th valign="top" align="left">2.0</th>
+<th valign="top" align="left">2.5</th>
+<th valign="top" align="left">3.0</th>
+<th valign="top" align="left">3.5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Filtration, ml</td>
+<td valign="top" align="left">1822</td>
+<td valign="top" align="left">250</td>
+<td valign="top" align="left">102</td>
+<td valign="top" align="left">98</td>
+<td valign="top" align="left">90</td>
+<td valign="top" align="left">82</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="19" table-order="12" data-type-order="31">
+<table-wrap id="102118184152MS-tblwrp-12" content-type="structured">
+<anchoringText id="Ancr12">From Table 12 and Table 13 we can see that FS-I improves cement sheath strength as a proper early strength additive, especially in temperature environment.</anchoringText>
+<label>Table 12</label>
+<caption>Cement sheath strength at 45°C with various FS-I doses (W/C=0.5)</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Cement sheath strength at 45°C with various FS-I doses (W/C=0.5)</caption-text>
+</formatted-caption>
+<table id="102118184152MS-Tbl_SPi-12" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Dosage, % Period</th>
+<th valign="top" align="left">0</th>
+<th valign="top" align="left">1.0</th>
+<th valign="top" align="left">2.0</th>
+<th valign="top" align="left">2.5</th>
+<th valign="top" align="left">3.0</th>
+<th valign="top" align="left">3.5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">8h</td>
+<td valign="top" align="left">3.3</td>
+<td valign="top" align="left">4.1</td>
+<td valign="top" align="left">4.3</td>
+<td valign="top" align="left">4.8</td>
+<td valign="top" align="left">6.5</td>
+<td valign="top" align="left">5.5</td>
+</tr>
+<tr>
+<td valign="top" align="left">24h</td>
+<td valign="top" align="left">8.7</td>
+<td valign="top" align="left">12.3</td>
+<td valign="top" align="left">13.0</td>
+<td valign="top" align="left">13.3</td>
+<td valign="top" align="left">13.9</td>
+<td valign="top" align="left">15.4</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="19" table-order="13" data-type-order="32">
+<table-wrap id="102118184152MS-tblwrp-13" content-type="structured">
+<anchoringText id="Ancr13">From Table 12 and Table 13 we can see that FS-I improves cement sheath strength as a proper early strength additive, especially in temperature environment.</anchoringText>
+<label>Table 13</label>
+<caption>Cement sheath strength at 75°C with various FS-I doses (W/C=0.5)</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Cement sheath strength at 75°C with various FS-I doses (W/C=0.5)</caption-text>
+</formatted-caption>
+<table id="102118184152MS-Tbl_SPi-13" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Dosage, % Period</th>
+<th valign="top" align="left">0</th>
+<th valign="top" align="left">1.0</th>
+<th valign="top" align="left">2.0</th>
+<th valign="top" align="left">2.5</th>
+<th valign="top" align="left">3.0</th>
+<th valign="top" align="left">3.5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">8h</td>
+<td valign="top" align="left">13.3</td>
+<td valign="top" align="left">13.3</td>
+<td valign="top" align="left">13.6</td>
+<td valign="top" align="left">14.1</td>
+<td valign="top" align="left">13.7</td>
+<td valign="top" align="left">14.1</td>
+</tr>
+<tr>
+<td valign="top" align="left">24h</td>
+<td valign="top" align="left">18.8</td>
+<td valign="top" align="left">18.9</td>
+<td valign="top" align="left">19.1</td>
+<td valign="top" align="left">19.5</td>
+<td valign="top" align="left">20.1</td>
+<td valign="top" align="left">19.9</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="19" table-order="14" data-type-order="33">
+<table-wrap id="102118184152MS-tblwrp-14" content-type="structured">
+<anchoringText id="Ancr14">From Table 14 and Table 15 we can see that cement sheath expands continuously as more FS-I additives are used, while temperature does not affect its performance a lot.</anchoringText>
+<label>Table 14</label>
+<caption>Expansion ratios of cement sheath at 45°C with various FS-I doses (W/C=0.5)</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Expansion ratios of cement sheath at 45°C with various FS-I doses (W/C=0.5)</caption-text>
+</formatted-caption>
+<table id="102118184152MS-Tbl_SPi-14" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Dosage, % Performance</th>
+<th valign="top" align="left">0</th>
+<th valign="top" align="left">1.0</th>
+<th valign="top" align="left">2.0</th>
+<th valign="top" align="left">2.5</th>
+<th valign="top" align="left">3.0</th>
+<th valign="top" align="left">3.5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Height, cm</td>
+<td valign="top" align="left">5.00</td>
+<td valign="top" align="left">5.09</td>
+<td valign="top" align="left">6.43</td>
+<td valign="top" align="left">6.44</td>
+<td valign="top" align="left">6.45</td>
+<td valign="top" align="left">6.46</td>
+</tr>
+<tr>
+<td valign="top" align="left">Expansion ratio</td>
+<td valign="top" align="left">1.57</td>
+<td valign="top" align="left">0</td>
+<td valign="top" align="left">0.78</td>
+<td valign="top" align="left">0.99</td>
+<td valign="top" align="left">1.39</td>
+<td valign="top" align="left">1.77</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="19" table-order="15" data-type-order="34">
+<table-wrap id="102118184152MS-tblwrp-15" content-type="structured">
+<anchoringText id="Ancr15">From Table 14 and Table 15 we can see that cement sheath expands continuously as more FS-I additives are used, while temperature does not affect its performance a lot.</anchoringText>
+<label>Table 15</label>
+<caption>Expansion ratios of cement sheath at 75°C with various FS-I doses (W/C=0.5)</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Expansion ratios of cement sheath at 75°C with various FS-I doses (W/C=0.5)</caption-text>
+</formatted-caption>
+<table id="102118184152MS-Tbl_SPi-15" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Dosage, % Performance</th>
+<th valign="top" align="left">0</th>
+<th valign="top" align="left">1.0</th>
+<th valign="top" align="left">2.0</th>
+<th valign="top" align="left">2.5</th>
+<th valign="top" align="left">3.0</th>
+<th valign="top" align="left">3.5</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">Height, cm</td>
+<td valign="top" align="left">4.99</td>
+<td valign="top" align="left">5.08</td>
+<td valign="top" align="left">6.42</td>
+<td valign="top" align="left">6.43</td>
+<td valign="top" align="left">6.45</td>
+<td valign="top" align="left">6.48</td>
+</tr>
+<tr>
+<td valign="top" align="left">Expansion ratio</td>
+<td valign="top" align="left">–1.96</td>
+<td valign="top" align="left">0</td>
+<td valign="top" align="left">0.58</td>
+<td valign="top" align="left">0.79</td>
+<td valign="top" align="left">1.39</td>
+<td valign="top" align="left">1.97</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

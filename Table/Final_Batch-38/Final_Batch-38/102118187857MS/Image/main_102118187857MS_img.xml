@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187857MS.txt" extractionDate="2021-03-25T14:32:36Z">
+<doi>10.2118/187857-MS</doi>
+<pii>10.2118/187857-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="2">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr2">Making the decision on the production method and the fluid gathering and treatment system design requires an integrated field model that allows the operator to take into account specifics of the oil-gas-condensate field, timely track interactions between the reservoir, wells and infrastructure, reduce oil production loss and maximize flow rates. The Reservoir-Well-Infrastructure integrated model (Figure 1) is designed to assess the impact on production of the following factors:</anchoringText>
+<image-wrap id="102118187857MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118187857MS_i_1.tif" id="ImgLink-1" />
+<caption>Integrated Field Model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Integrated Field Model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr3">According to the high-level assessment by the above mentioned methodology [1], Novoportovskoe field needs to have the combined production system (natural flow + artificial lift with the use of ESPs) (see Figure 2).</anchoringText>
+<image-wrap id="102118187857MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118187857MS_i_2.tif" id="ImgLink-2" />
+<caption>Production System Assessment by the Mischenko Method</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Production System Assessment by the Mischenko Method</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr4">However, the high-level assessment does not allow taking into account the effect of bottomhole pumping equipment and the infrastructure facilities on behavior of the wells; to overcome this constraint, the decision was made to develop an integrated Reservoir-Well-Infrastructure (RWI) model for Novoportovskoe field in a specialized software system. Based on calculation results, more accurate numbers were obtained illustrating distribution of the wells by production methods in time (see Figure 3).</anchoringText>
+<image-wrap id="102118187857MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118187857MS_i_3.tif" id="ImgLink-3" />
+<caption>Wells Operation Assessment with the RWI Integrated Model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Wells Operation Assessment with the RWI Integrated Model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr5">The RWI integrated model allowed us to identify wells with a high gas/fluid ratio that create high back pressure on the other producing wells, and come up with a scenario ensuring the maximum production. Thus, by identifying and shutting off in the RWI model the two high gas/fluid ratio wells in 2034, we could get 23 flowing wells and achieved the maximization of production output (Figure 4).</anchoringText>
+<image-wrap id="102118187857MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118187857MS_i_4.tif" id="ImgLink-4" />
+<caption>Well Stock Optimization</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Well Stock Optimization</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr6">Using the RWI model, the field production system potential was accurately assessed and the maximum possible production of oil wells defined in view of the existing constraints of the current downhole pumping equipment and oil gathering system. To increase oil production, plans were developed keeping in mind the existing constraints. These optimization efforts resulted in an incremental oil production of 8 mt in August 2016 (Figure 5).</anchoringText>
+<image-wrap id="102118187857MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118187857MS_i_5.tif" id="ImgLink-5" />
+<caption>August 2016 Production Performance</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>August 2016 Production Performance</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr7">To assess the impact of the fluid gathering infrastructure and downhole pumping equipment on a long-term production forecast of the field, a future wells model was developed where the field production profile was simulated for the period until 2043. This simulation showed some divergence from the earlier predicted geologic profile (Figure 6).</anchoringText>
+<image-wrap id="102118187857MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118187857MS_i_6.tif" id="ImgLink-6" />
+<caption>Oil Production Profile</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Oil Production Profile</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr8">Based on the RWI model development and analysis results, a program was prepared with the goal to achieve the target production performance of Novoportovskoe oil-gas-condensate field (Figure 7).</anchoringText>
+<image-wrap id="102118187857MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118187857MS_i_7.tif" id="ImgLink-7" />
+<caption>Recommended Changes in the Oil Gathering System</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Recommended Changes in the Oil Gathering System</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118184486STU.txt" extractionDate="2021-03-23T16:50:18Z">
+<doi>10.2118/184486-STU</doi>
+<pii>10.2118/184486-STU</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure composite="true" composite-count="2" pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr6">The Bakken petroleum system is in the Williston Basin that is a large sedimentary basin covering parts of North Dakota, Montana, South Dakota, Saskatchewan, and Manitoba as shown in Figure 1 (a). As one of the largest unconventional resources in the world and most prolific tight-oil plays in North America, it has approximately 7.4 billion barrels of technically recoverable oil as estimated by the U.S. Geological Survey in 2013 (Gaswirth et al., 2013) and original oil in place (OOIP) is considered to be up to 167 billion barrels (Nordeng et al., 2008).</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_1.tif" id="ImgLink-1" />
+<caption>(a) Bakken formation in Williston Basin (Sorensen et al., 2010), (b) Stratigraphy chart of the Bakken petroleum system (Theloy, 2014).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>(a) Bakken formation in Williston Basin (<link href="BIB1">Sorensen et al., 2010</link>), (b) Stratigraphy chart of the Bakken petroleum system (<link href="BIB2">Theloy, 2014</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-1a">
+<imageLink type="mediaResource" href="102118184486STU_i_1a.tif" id="ImgLink-1a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Bakken formation in Williston Basin</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-1b">
+<imageLink type="mediaResource" href="102118184486STU_i_1b.tif" id="ImgLink-1b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>Stratigraphy chart of the Bakken petroleum system</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-26" type="bib">
+<bib id="BIB1">
+<label>Sorensen et al., 2010</label>
+<last-name>Sorensen</last-name>
+<author>
+<first-name>J. A.</first-name>
+<last-name>Sorensen</last-name>
+</author>, <last-name>Schmidt</last-name>, <author>
+<first-name>D.</first-name>
+<last-name>Schmidt</last-name>
+</author>, <last-name>Smith</last-name>, <author>
+<first-name>S. A.</first-name>
+<last-name>Smith</last-name>
+</author>, <last-name>Bailey</last-name>, <author>
+<first-name>T. P.</first-name>
+<last-name>Bailey</last-name>
+</author>, <last-name>Mibeck</last-name>, <author>
+<first-name>B. A. A.</first-name>
+<last-name>Mibeck</last-name>
+</author>, <last-name>Harju</last-name>, <author>
+<first-name>J. A.</first-name>
+<last-name>Harju</last-name>
+</author>
+<pubDate>2010</pubDate>. <article-title>Energy and Environmental Research Center Subtask 1.2-Evaluation of Key Factors Affecting Successful Oil Production in the Bakken Formation, North Dakota. DOE Award No: DE-FC26-08NT43291 </article-title>, <journal-title>May </journal-title>
+<pages>
+<first-page>2010</first-page>
+</pages>.</bib>
+</linkTarget>
+<linkTarget id="link-27" type="bib">
+<bib id="BIB2">
+<label>Theloy and Theloy, 2014</label>
+<last-name>Theloy</last-name>
+<author>
+<first-name>C.</first-name>
+<last-name>Theloy</last-name>
+</author>
+<pubDate>2014</pubDate>. <article-title>Integration of Geological and Technological Factors Influencing Production in the Bakken Play </article-title>. Ph.D. Dissertation, Colorado School of Mines.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr7">Thermal recovery is generally used to produce viscous heavy oil. Oil viscosities in shale oil reservoirs are very low therefore the mechanism to reduce oil viscosity from thermal methods will not be significant. Figure 2 gives an overview of the current range of reservoir depth and oil viscosities where the main EOR technologies are applied (Poellitzer et al., 2009). Literature reviews show that a typical Bakken reservoir is at least 9000 feet deep, and produces a light crude oil with viscosity less than 1 cP at reservoir conditions (Harju, 2012). The combination of these two properties makes gas injection the most optimum choice for Bakken.</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_2.tif" id="ImgLink-2" />
+<caption>Screening of different EOR techniques based on reservoir depth and in-situ oil viscosity (Poellitzer et al., 2009).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Screening of different EOR techniques based on reservoir depth and in-situ oil viscosity (<link href="BIB3">Poellitzer et al., 2009</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-28" type="bib">
+<bib id="BIB3">
+<label>Poellitzer et al., 2009</label>
+<last-name>Poellitzer</last-name>
+<author>
+<first-name>S.</first-name>
+<last-name>Poellitzer</last-name>
+</author>, <last-name>Florian</last-name>, <author>
+<first-name>T.</first-name>
+<last-name>Florian</last-name>
+</author>, &amp; <last-name>Clemens</last-name>, <author>
+<first-name>T.</first-name>
+<last-name>Clemens</last-name>
+</author>
+<pubDate>2009</pubDate>. <article-title>Revitalising a Medium Viscous Oil Field by Polymer Injection, Pirawarth Field, Austria. Presented at EUROPEC/EAGE Conference and Exhibition, 8-11 June, Amsterdam, The Netherlands. SPE-120991-MS </article-title>. doi: 10.2118/120991-MS.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="1" pdf-page="4" figure-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr9">The core sample used in the experiment was obtained at a depth of 11,340.07 feet from the North Dakota Bakken formation. It is 1 inch in diameter and 2 inches in length. The absolute permeability (to oil) is 1.8 μd and the average porosity is 7.5%. Figure 3 gives a visual description of the core sample in addition to a three-dimensional porosity distribution obtained from CT image analysis. The core matrix is considered mostly homogeneous with some localized heterogeneities that we identify as laminations parallel to the core face.</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-4">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_4a.tif" id="ImgLink-4a" />
+<caption>The Bakken core sample. (a) Wax-preserved core plug, (b) 3-D volume reconstruction of CT-derived core porosity.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>The Bakken core sample. (a) Wax-preserved core plug, (b) 3-D volume reconstruction of CT-derived core porosity.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-4a">
+<imageLink type="mediaResource" href="102118184486STU_i_4b.tif" id="ImgLink-4b" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Wax-preserved core plug</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-4b">
+<imageLink type="mediaResource" href="102118184486STU_i_4c.tif" id="ImgLink-4c" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>3-D volume reconstruction of CT-derived core porosity</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="5" figure-order="5" data-type-order="4">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr10">In theory, miscibility pressure increases with increasing temperature. Because the coreholder had a pressure rating of only 2000 psi, the test temperature was lowered to 38°C (slightly above critical temperature of CO2) in order to achieve miscibility at pressures attainable within the experimental apparatus. Figures 4 (a) to (d) demonstrate changes in fluid behavior between oil and CO2 at an increasing pressure inside the aluminum tube.</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-5">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_5.tif" id="ImgLink-5" />
+<caption>CT scans of CO<sub>2</sub> and Bakken crude in an aluminum tube at 38°C and varying pressures at 0.625 mm spacing, 140 keV/120 mA. (a) Ambient pressure, (b) 1000 psi, (c) 1100 psi, (d) 1200 psi.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>CT scans of CO<sub>2</sub> and Bakken crude in an aluminum tube at 38°C and varying pressures at 0.625 mm spacing, 140 keV/120 mA. (a) Ambient pressure, (b) 1000 psi, (c) 1100 psi, (d) 1200 psi.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118184486STU_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Ambient pressure</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118184486STU_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>1000 psi</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-5c">
+<imageLink type="mediaResource" href="102118184486STU_i_5c.tif" id="ImgLink-5c" />
+<figure-specific-caption>
+<caption-order>(c)</caption-order>
+<caption-text>1100 psi</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-5d">
+<imageLink type="mediaResource" href="102118184486STU_i_5d.tif" id="ImgLink-5d" />
+<figure-specific-caption>
+<caption-order>(d)</caption-order>
+<caption-text>1200 psi</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="6" data-type-order="5">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr11">Because the core sample is low permeability and low porosity, standard coreflood apparatus and equipment is modified accordingly. As shown in Figure 5, the coreholder is wrapped with electrical heating tape and connected to a temperature controller to maintain a constant temperature at 38°C. CO2 is pressurized in a stainless steel gas accumulator and an ISCO pump is used to inject CO2 at 1500 psi at the inlet valve of the core holder.</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-6">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_6.tif" id="ImgLink-6" />
+<caption>Schematic of experimental apparatus and equipment for coreflood experiment.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Schematic of experimental apparatus and equipment for coreflood experiment.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="6">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr12">Figure 6 explains several key steps for the experiment of miscible CO2 injection. The core sample is first saturated with decane and dried under vacuum for at least three days at an elevated temperature of 65°C to evaporate any residual decane in the pore space. Next, the core is fully saturated with dead Bakken crude oil. We assume no initial water saturation here. The oil-saturated core is then brought to a pressure and temperature of 1300 psi and 38°C. Note that this is well above the miscibility pressure measured earlier.</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-7">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_7.tif" id="ImgLink-7" />
+<caption>Proposed experimental sequence for miscible CO<sub>2</sub> coreflood experiment.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Proposed experimental sequence for miscible CO<sub>2</sub> coreflood experiment.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="8" data-type-order="7">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr13">The cylindrical core is 1 inch in diameter and 2 inches in length. Properties (e.g. porosity and permeability) of certain grid blocks in the Cartesian model are modified to recover cylindrical geometry of the core sample. Specifically, as shown in Figure 7, the cylindrical core matrix has a constant porosity of 7.5% whereas any other grid blocks outside the cylindrical boundary are assigned a porosity of 0 so they do not contribute to any fluid flow and storage.</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-8">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_8.tif" id="ImgLink-8" />
+<caption>Single-porosity Cartesian grid (22 × 11 × 11) used in numerical modeling of miscible CO<sub>2</sub> flood experiment.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Single-porosity Cartesian grid (22 × 11 × 11) used in numerical modeling of miscible CO<sub>2</sub> flood experiment.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="10" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr14">Table 2 shows that a close match to experimental saturation pressure is achieved with an error of less than 0.3%. Figures 8 (a) to (d) summarize the comparison between lab data and model predictions for both CCE and DLE conducted at 237°F. There is an almost perfect agreement with the simulated properties except for oil phase compressibility in Figure 8 (b). It appears that the simulated result matches more closely with the experimental data in the high-pressure range than the low-pressure range. We argue that both are in the same order of magnitude and therefore within the range of reasonable accuracy. Moreover, we do not anticipate large changes in pressure as the recovery process is not pressure depletion.</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-9">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_9.tif" id="ImgLink-9" />
+<caption>Comparison between EOS predictions and PVT data from Constant Composition (CCE) and Differential Liberation (DLE) experiments conducted at 237°F. (a) Relative oil volume, (b) Oil phase compressibility, (c) Oil density, (d) Oil viscosity.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Comparison between EOS predictions and PVT data from Constant Composition (CCE) and Differential Liberation (DLE) experiments conducted at 237°F. (a) Relative oil volume, (b) Oil phase compressibility, (c) Oil density, (d) Oil viscosity.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118184486STU_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Relative oil volume</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118184486STU_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>Oil phase compressibility</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-9c">
+<imageLink type="mediaResource" href="102118184486STU_i_9c.tif" id="ImgLink-9c" />
+<figure-specific-caption>
+<caption-order>(c)</caption-order>
+<caption-text>Oil density</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-9d">
+<imageLink type="mediaResource" href="102118184486STU_i_9d.tif" id="ImgLink-9d" />
+<figure-specific-caption>
+<caption-order>(d)</caption-order>
+<caption-text>Oil viscosity</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="10" data-type-order="11">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr15">Figure 9 is a PT diagram constructed from the optimized EOS model that has shown to be capable of reproducing the phase behavior of Bakken reservoir fluid. The bubble point pressure is labelled as a red triangle. Table 3 summarizes the final pseudo-component description and input for EOS calculations. Note that the fluid model created for live oil (2nd column) is then used in a two-phase flash calculation to obtain molar compositions of dead oil (3rd column) deprived of light, volatile hydrocarbon components. This dead oil is considered more representative of the fluid sample used for our miscible CO2 experiment and its composition is used as the initial input for the subsequent flow simulations.</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-10">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_10.tif" id="ImgLink-10" />
+<caption>PT diagram from optimized EOS model representative of Bakken crude phase behavior.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>PT diagram from optimized EOS model representative of Bakken crude phase behavior.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="12" figure-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr17">Three-phase relative permeability curves for a matrix system were generated using Brooks-Corey's equations, based on parameters given in Table 5 (Kurtoglu, 2013). Capillary pressure was neglected in the simulation because the experiment was conducted at miscible conditions. Figure 10 plots matrix relative permeability data in both water-oil and gas-oil systems.</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-12">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_12a.tif" id="ImgLink-12a" />
+<caption>Water-oil and gas-liquid relative permeability data for matrix system.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Water-oil and gas-liquid relative permeability data for matrix system.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118184486STU_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>oil-water Relative permeability</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118184486STU_i_12c.tif" id="ImgLink-12c" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>gas-liquid Relative permeability</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="13" figure-order="13" data-type-order="16">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr18">Figure 11 reports the recovery potential of miscible CO2 flood for a Bakken core sample. A continuous CO2 drive is simulated here instead of a "huff n' puff" process. This experiment unfortunately stopped due to power outage midway during recovery. From the trend of existing data, we conclude that the miscible CO2 flood is able to recover effectively at least 70% of OOIP despite a small pressure gradient used in the experiment.</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-13">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_13.tif" id="ImgLink-13" />
+<caption>Hydrocarbon recovery from Bakken core with CO<sub>2</sub> solvent.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Hydrocarbon recovery from Bakken core with CO<sub>2</sub> solvent.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118184486STU_i_13a.tif" id="ImgLink-13a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="14" figure-order="14" data-type-order="17">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr19">Figure 12 to 13 present 3-D reconstruction of a difference map of CT number at both energy levels for two different recovery factors. Note that all color legends have the same scale from 0 to − 100 to be comparable.</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-14">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_14.tif" id="ImgLink-14" />
+<caption>Difference of CT number when oil images are subtracted from CO<sub>2</sub> images at an energy level of 140 keV. (a) R<sub>f</sub> = 20%, (b) R<sub>f</sub> = 71%.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Difference of CT number when oil images are subtracted from CO<sub>2</sub> images at an energy level of 140 keV. (a) R<sub>f</sub> = 20%, (b) R<sub>f</sub> = 71%.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118184486STU_i_14a.tif" id="ImgLink-14a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>R<sub>f</sub> = 20%</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118184486STU_i_14b.tif" id="ImgLink-14b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>R<sub>f</sub> = 71%</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="14" figure-order="15" data-type-order="18">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr20">Figure 12 to 13 present 3-D reconstruction of a difference map of CT number at both energy levels for two different recovery factors. Note that all color legends have the same scale from 0 to − 100 to be comparable.</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-15">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_15.tif" id="ImgLink-15" />
+<caption>Difference of CT number when oil images are subtracted from CO<sub>2</sub> images at an energy level of 80 keV. (a) R<sub>f</sub> = 20%, (b) R<sub>f</sub> = 71%.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Difference of CT number when oil images are subtracted from CO<sub>2</sub> images at an energy level of 80 keV. (a) R<sub>f</sub> = 20%, (b) R<sub>f</sub> = 71%.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-15a">
+<imageLink type="mediaResource" href="102118184486STU_i_15a.tif" id="ImgLink-15a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>R<sub>f</sub> = 20%</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-15b">
+<imageLink type="mediaResource" href="102118184486STU_i_15b.tif" id="ImgLink-15b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>R<sub>f</sub> = 71%</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="16" data-type-order="19">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr21">Figure 14 shows that the compositional simulation model has the tendency to match closely the overall oil production and recovery, but not the early recovery period where CO2 diffusion is seen as a major recovery mechanism. It is also observed that the simulation model has a larger displacement efficiency, possibly due to the following simplified assumptions:</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-16">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_16.tif" id="ImgLink-16" />
+<caption>History-match of Bakken hydrocarbon recovery with miscible CO<sub>2</sub> using a base model of 22 × 11 × 11 gridblocks.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>History-match of Bakken hydrocarbon recovery with miscible CO<sub>2</sub> using a base model of 22 × 11 × 11 gridblocks.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="17" data-type-order="20">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr22">Figure 15 shows that CO2 injection re-pressurizes the core matrix, thereby restablishing a drive mechanism dominated by advection. Both wells are controlled by constant bottom-hole pressure (BHP).</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-17">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_17.tif" id="ImgLink-17" />
+<caption>Pressure distribution (psi) from simulation of miscible CO<sub>2</sub> injection. Left: initial condition; Right: constant BHP well control.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Pressure distribution (psi) from simulation of miscible CO<sub>2</sub> injection. Left: initial condition; Right: constant BHP well control.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="18" data-type-order="21">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr23">Figures 16 and 17 present a temporal and spatial development of gas/oil saturation from the simulation model. Initial oil saturation is 1. Figure 18 shows evolution of global molar CO2 fraction within the model as gas injection process progresses. The dead oil contains very little CO2, therefore the CO2 fraction in the oil phase mainly comes from the injection gas stream. As more CO2 dissolves in oil, the oil starts to swell which leads to reduction in viscosity, as shown in Figure 19. It is also observed that CO2 permeates into the core matrix from the 1st layer where the injection well is completed.</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-18">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_18.tif" id="ImgLink-18" />
+<caption>Gas saturation map from simulation of miscible CO<sub>2</sub> injection.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Gas saturation map from simulation of miscible CO<sub>2</sub> injection.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="19" data-type-order="22">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr24">Figures 16 and 17 present a temporal and spatial development of gas/oil saturation from the simulation model. Initial oil saturation is 1. Figure 18 shows evolution of global molar CO2 fraction within the model as gas injection process progresses. The dead oil contains very little CO2, therefore the CO2 fraction in the oil phase mainly comes from the injection gas stream. As more CO2 dissolves in oil, the oil starts to swell which leads to reduction in viscosity, as shown in Figure 19. It is also observed that CO2 permeates into the core matrix from the 1st layer where the injection well is completed.</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-19">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_19.tif" id="ImgLink-19" />
+<caption>Oil saturation map from simulation of miscible CO<sub>2</sub> injection.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Oil saturation map from simulation of miscible CO<sub>2</sub> injection.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="20" data-type-order="23">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr25">Figures 16 and 17 present a temporal and spatial development of gas/oil saturation from the simulation model. Initial oil saturation is 1. Figure 18 shows evolution of global molar CO2 fraction within the model as gas injection process progresses. The dead oil contains very little CO2, therefore the CO2 fraction in the oil phase mainly comes from the injection gas stream. As more CO2 dissolves in oil, the oil starts to swell which leads to reduction in viscosity, as shown in Figure 19. It is also observed that CO2 permeates into the core matrix from the 1st layer where the injection well is completed.</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-20">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_20.tif" id="ImgLink-20" />
+<caption>Global CO<sub>2</sub> molar fraction from simulation of miscible CO<sub>2</sub> injection.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Global CO<sub>2</sub> molar fraction from simulation of miscible CO<sub>2</sub> injection.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="21" data-type-order="24">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr26">Figures 16 and 17 present a temporal and spatial development of gas/oil saturation from the simulation model. Initial oil saturation is 1. Figure 18 shows evolution of global molar CO2 fraction within the model as gas injection process progresses. The dead oil contains very little CO2, therefore the CO2 fraction in the oil phase mainly comes from the injection gas stream. As more CO2 dissolves in oil, the oil starts to swell which leads to reduction in viscosity, as shown in Figure 19. It is also observed that CO2 permeates into the core matrix from the 1st layer where the injection well is completed.</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-21">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_21.tif" id="ImgLink-21" />
+<caption>Oil viscosity (cP) from simulation of miscible CO<sub>2</sub> injection.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Oil viscosity (cP) from simulation of miscible CO<sub>2</sub> injection.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="22" data-type-order="25">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr27">Light hydrocarbon components are preferentially extracted and produced whereas heavier components are left behind by the solvent + oil front. This is reflected through an increase in oil molar density, shown in Figure 20.</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-22">
+<label>Figure 20 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_22.tif" id="ImgLink-22" />
+<caption>Oil density (gmol/ft<sup>3</sup>) from simulation of miscible CO<sub>2</sub> injection.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Oil density (gmol/ft<sup>3</sup>) from simulation of miscible CO<sub>2</sub> injection.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="20" figure-order="23" data-type-order="26">
+<link href="link-23" type="image" />
+<appendix>
+<linkTarget id="link-23" type="image">
+<anchoringText id="Ancr28">Here we determine the appropriate amount of X-ray exposure for CT images to obtain enough signals from the fluid occupying the porous medium. A number of analyses were performed as shown in Figures 21 and 22</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-23">
+<label>Figure 21 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_23.tif" id="ImgLink-23" />
+<caption>Comparison of average CT numbers at 0.625 mm spacing and different X-ray exposure times per image, 140 keV/120 mA.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>21</caption-order>
+<caption-text>Comparison of average CT numbers at 0.625 mm spacing and different X-ray exposure times per image, 140 keV/120 mA.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="21" figure-order="24" data-type-order="27">
+<link href="link-24" type="image" />
+<appendix>
+<linkTarget id="link-24" type="image">
+<anchoringText id="Ancr29">Here we determine the appropriate amount of X-ray exposure for CT images to obtain enough signals from the fluid occupying the porous medium. A number of analyses were performed as shown in Figures 21 and 22</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-24">
+<label>Figure 22 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_24.tif" id="ImgLink-24" />
+<caption>CT scans of air/vacuum-saturated rock matrix at 0.625 mm spacing and different X-ray exposure times, 140 keV/ 120mA. (a) 0.5 second, (b) 1 second, (c) 2 seconds, (d) 4 seconds per image.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>22</caption-order>
+<caption-text>CT scans of air/vacuum-saturated rock matrix at 0.625 mm spacing and different X-ray exposure times, 140 keV/ 120mA. (a) 0.5 second, (b) 1 second, (c) 2 seconds, (d) 4 seconds per image.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-24a">
+<imageLink type="mediaResource" href="102118184486STU_i_24a.tif" id="ImgLink-24a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>0.5 second</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-24b">
+<imageLink type="mediaResource" href="102118184486STU_i_24b.tif" id="ImgLink-24b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>1 second</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-24c">
+<imageLink type="mediaResource" href="102118184486STU_i_24c.tif" id="ImgLink-24c" />
+<figure-specific-caption>
+<caption-order>(c)</caption-order>
+<caption-text>2 seconds</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-24d">
+<imageLink type="mediaResource" href="102118184486STU_i_24d.tif" id="ImgLink-24d" />
+<figure-specific-caption>
+<caption-order>(d)</caption-order>
+<caption-text>4 seconds per image</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="22" figure-order="25" data-type-order="28">
+<link href="link-25" type="image" />
+<appendix>
+<linkTarget id="link-25" type="image">
+<anchoringText id="Ancr30">Figure 23 plots oil recovery as a function of pore volume of CO2 injected for different numbers of grid blocks in the flow direction. The recovery curves look almost identical in spite of differences in size of the simulation model. 95% of the original oil is produced when more than 10 pore volumes of CO2 have been injected. Majority of the efforts (6 pore volumes) are directed to recover the last 10% oil composed of heavier hydrocarbons.</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-25">
+<label>Figure 23 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_25.tif" id="ImgLink-25" />
+<caption>Effect of grid refinement on convergene for a simulation time of 10 days (4 processors).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>23</caption-order>
+<caption-text>Effect of grid refinement on convergene for a simulation time of 10 days (4 processors).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="2" figure-order="26" data-type-order="29">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr6">Figure 24 shows CPU time consumption and the total number of timesteps as a function of model size on a log-log plot. A linear interpolation of both parameters is made to estimate computation expenses of bigger models.</anchoringText>
+<image-wrap id="102118184486STU-Img_SPi-1">
+<label>Figure 24 </label>
+<imageLink type="mediaResource" href="102118184486STU_i_26.tif" id="ImgLink-1" />
+<caption>Effect of grid refinement on numerical controls for a simulation
+time of 10 days (4 processors). (a) CPU time used, (b) Number of time steps.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>24</caption-order>
+<caption-text>(Effect of grid refinement on numerical controls for a simulation time of 10 days (4 processors). (a) CPU time used, (b) Number of time steps.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-26a">
+<imageLink type="mediaResource" href="102118184486STU_i_26a.tif" id="ImgLink-26a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>CPU time used</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118184486STU-Img_SPi-26b">
+<imageLink type="mediaResource" href="102118184486STU_i_26b.tif" id="ImgLink-26b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>Number of time steps</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

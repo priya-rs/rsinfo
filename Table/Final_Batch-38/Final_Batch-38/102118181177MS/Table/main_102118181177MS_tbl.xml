@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118181177MS.txt" extractionDate="2021-03-19T20:06:01Z">
+<doi>10.2118/181177-MS</doi>
+<pii>10.2118/181177-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="3" table-order="1" data-type-order="3">
+<table-wrap id="102118181177MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">In table 1 shows the results of Ri profile determined from the pressure data corresponding to capillary mercury saturations of Fig. 1 using the equation (1) from 10 to 75%.</anchoringText>
+<label>Table 1</label>
+<caption>Results of calculation porary throat radius from core data.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Results of calculation porary throat radius from core data.</caption-text>
+</formatted-caption>
+<table id="102118181177MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th colspan="18" align="center">Well A</th>
+</tr>
+<tr>
+<th rowspan="2" align="center" bgcolor="#800000+">Reservoir</th>
+<th rowspan="2" align="center" bgcolor="#800000+">Depth, (ft)</th>
+<th rowspan="2" align="center" bgcolor="#800000+">K(mD)</th>
+<th rowspan="2" align="center" bgcolor="#800000+">ϕ (%)</th>
+<th colspan="14" align="center" bgcolor="#800000+">Pore throat radius determined from capillary pressures (μm)</th>
+</tr>
+<tr>
+<th valign="bottom" align="center" bgcolor="#800000+">R10</th>
+<th valign="bottom" align="center" bgcolor="#800000+">R15</th>
+<th valign="bottom" align="center" bgcolor="#800000+">R20</th>
+<th valign="bottom" align="center" bgcolor="#800000+">R25</th>
+<th valign="bottom" align="center" bgcolor="#800000+">R30</th>
+<th valign="bottom" align="center" bgcolor="#800000+">R35</th>
+<th valign="bottom" align="center" bgcolor="#800000+">R40</th>
+<th valign="bottom" align="center" bgcolor="#800000+">R45</th>
+<th valign="bottom" align="center" bgcolor="#800000+">R50</th>
+<th valign="bottom" align="center" bgcolor="#800000+">R55</th>
+<th valign="bottom" align="center" bgcolor="#800000+">R60</th>
+<th valign="bottom" align="center" bgcolor="#800000+">R65</th>
+<th valign="bottom" align="center" bgcolor="#800000+">R70</th>
+<th valign="bottom" align="center" bgcolor="#800000+">R75</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="17" align="center">
+<b>A</b>
+</td>
+<td valign="bottom" align="center">17915.5</td>
+<td valign="bottom" align="center">186</td>
+<td valign="bottom" align="center">13.14</td>
+<td valign="bottom" align="center">14.57</td>
+<td valign="bottom" align="center">13.52</td>
+<td valign="bottom" align="center">12.70</td>
+<td valign="bottom" align="center">12.01</td>
+<td valign="bottom" align="center">11.45</td>
+<td valign="bottom" align="center">10.97</td>
+<td valign="bottom" align="center">10.52</td>
+<td valign="bottom" align="center">10.05</td>
+<td valign="bottom" align="center">9.53</td>
+<td valign="bottom" align="center">8.99</td>
+<td valign="bottom" align="center">8.47</td>
+<td valign="bottom" align="center">7.94</td>
+<td valign="bottom" align="center">7.28</td>
+<td valign="bottom" align="center">6.22</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">17950</td>
+<td valign="bottom" align="center">629</td>
+<td valign="bottom" align="center">16.02</td>
+<td valign="bottom" align="center">27.96</td>
+<td valign="bottom" align="center">26.22</td>
+<td valign="bottom" align="center">23.22</td>
+<td valign="bottom" align="center">20.40</td>
+<td valign="bottom" align="center">18.78</td>
+<td valign="bottom" align="center">18.00</td>
+<td valign="bottom" align="center">17.26</td>
+<td valign="bottom" align="center">16.13</td>
+<td valign="bottom" align="center">14.93</td>
+<td valign="bottom" align="center">14.14</td>
+<td valign="bottom" align="center">13.88</td>
+<td valign="bottom" align="center">13.66</td>
+<td valign="bottom" align="center">12.77</td>
+<td valign="bottom" align="center">11.24</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">17984.5</td>
+<td valign="bottom" align="center">572</td>
+<td valign="bottom" align="center">13.45</td>
+<td valign="bottom" align="center">33.85</td>
+<td valign="bottom" align="center">29.78</td>
+<td valign="bottom" align="center">26.57</td>
+<td valign="bottom" align="center">24.36</td>
+<td valign="bottom" align="center">22.74</td>
+<td valign="bottom" align="center">21.35</td>
+<td valign="bottom" align="center">20.14</td>
+<td valign="bottom" align="center">19.14</td>
+<td valign="bottom" align="center">18.33</td>
+<td valign="bottom" align="center">17.49</td>
+<td valign="bottom" align="center">16.38</td>
+<td valign="bottom" align="center">14.91</td>
+<td valign="bottom" align="center">13.13</td>
+<td valign="bottom" align="center">10.89</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18019</td>
+<td valign="bottom" align="center">274</td>
+<td valign="bottom" align="center">13.27</td>
+<td valign="bottom" align="center">15.48</td>
+<td valign="bottom" align="center">14.27</td>
+<td valign="bottom" align="center">13.43</td>
+<td valign="bottom" align="center">12.89</td>
+<td valign="bottom" align="center">12.54</td>
+<td valign="bottom" align="center">12.22</td>
+<td valign="bottom" align="center">11.83</td>
+<td valign="bottom" align="center">11.43</td>
+<td valign="bottom" align="center">11.07</td>
+<td valign="bottom" align="center">10.78</td>
+<td valign="bottom" align="center">10.46</td>
+<td valign="bottom" align="center">9.92</td>
+<td valign="bottom" align="center">9.12</td>
+<td valign="bottom" align="center">8.05</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18053.5</td>
+<td valign="bottom" align="center">76.5</td>
+<td valign="bottom" align="center">12.57</td>
+<td valign="bottom" align="center">9.77</td>
+<td valign="bottom" align="center">8.91</td>
+<td valign="bottom" align="center">8.52</td>
+<td valign="bottom" align="center">8.24</td>
+<td valign="bottom" align="center">7.82</td>
+<td valign="bottom" align="center">7.34</td>
+<td valign="bottom" align="center">6.96</td>
+<td valign="bottom" align="center">6.68</td>
+<td valign="bottom" align="center">6.34</td>
+<td valign="bottom" align="center">5.82</td>
+<td valign="bottom" align="center">5.15</td>
+<td valign="bottom" align="center">4.41</td>
+<td valign="bottom" align="center">3.37</td>
+<td valign="bottom" align="center">2.02</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18088</td>
+<td valign="bottom" align="center">140</td>
+<td valign="bottom" align="center">14.07</td>
+<td valign="bottom" align="center">12.48</td>
+<td valign="bottom" align="center">11.97</td>
+<td valign="bottom" align="center">11.32</td>
+<td valign="bottom" align="center">10.79</td>
+<td valign="bottom" align="center">10.41</td>
+<td valign="bottom" align="center">9.98</td>
+<td valign="bottom" align="center">9.32</td>
+<td valign="bottom" align="center">8.51</td>
+<td valign="bottom" align="center">7.67</td>
+<td valign="bottom" align="center">6.80</td>
+<td valign="bottom" align="center">5.81</td>
+<td valign="bottom" align="center">4.61</td>
+<td valign="bottom" align="center">3.35</td>
+<td valign="bottom" align="center">2.21</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18122.5</td>
+<td valign="bottom" align="center">601</td>
+<td valign="bottom" align="center">14.3</td>
+<td valign="bottom" align="center">28.87</td>
+<td valign="bottom" align="center">25.93</td>
+<td valign="bottom" align="center">23.87</td>
+<td valign="bottom" align="center">22.32</td>
+<td valign="bottom" align="center">21.17</td>
+<td valign="bottom" align="center">20.27</td>
+<td valign="bottom" align="center">19.48</td>
+<td valign="bottom" align="center">18.71</td>
+<td valign="bottom" align="center">17.88</td>
+<td valign="bottom" align="center">16.94</td>
+<td valign="bottom" align="center">15.79</td>
+<td valign="bottom" align="center">14.37</td>
+<td valign="bottom" align="center">12.56</td>
+<td valign="bottom" align="center">10.09</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18157</td>
+<td valign="bottom" align="center">33.9</td>
+<td valign="bottom" align="center">13.33</td>
+<td valign="bottom" align="center">6.26</td>
+<td valign="bottom" align="center">5.61</td>
+<td valign="bottom" align="center">5.25</td>
+<td valign="bottom" align="center">5.06</td>
+<td valign="bottom" align="center">4.87</td>
+<td valign="bottom" align="center">4.62</td>
+<td valign="bottom" align="center">4.34</td>
+<td valign="bottom" align="center">4.06</td>
+<td valign="bottom" align="center">3.75</td>
+<td valign="bottom" align="center">3.27</td>
+<td valign="bottom" align="center">2.57</td>
+<td valign="bottom" align="center">1.83</td>
+<td valign="bottom" align="center">1.22</td>
+<td valign="bottom" align="center">0.81</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18191.5</td>
+<td valign="bottom" align="center">539</td>
+<td valign="bottom" align="center">14.67</td>
+<td valign="bottom" align="center">24.18</td>
+<td valign="bottom" align="center">22.46</td>
+<td valign="bottom" align="center">21.19</td>
+<td valign="bottom" align="center">20.36</td>
+<td valign="bottom" align="center">19.63</td>
+<td valign="bottom" align="center">18.73</td>
+<td valign="bottom" align="center">17.68</td>
+<td valign="bottom" align="center">16.65</td>
+<td valign="bottom" align="center">15.76</td>
+<td valign="bottom" align="center">14.96</td>
+<td valign="bottom" align="center">14.16</td>
+<td valign="bottom" align="center">13.28</td>
+<td valign="bottom" align="center">12.34</td>
+<td valign="bottom" align="center">11.25</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18226</td>
+<td valign="bottom" align="center">261</td>
+<td valign="bottom" align="center">14.89</td>
+<td valign="bottom" align="center">17.00</td>
+<td valign="bottom" align="center">15.73</td>
+<td valign="bottom" align="center">15.05</td>
+<td valign="bottom" align="center">14.60</td>
+<td valign="bottom" align="center">13.94</td>
+<td valign="bottom" align="center">13.09</td>
+<td valign="bottom" align="center">12.32</td>
+<td valign="bottom" align="center">11.74</td>
+<td valign="bottom" align="center">11.13</td>
+<td valign="bottom" align="center">10.21</td>
+<td valign="bottom" align="center">8.97</td>
+<td valign="bottom" align="center">7.60</td>
+<td valign="bottom" align="center">5.97</td>
+<td valign="bottom" align="center">3.84</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18260.5</td>
+<td valign="bottom" align="center">82.1</td>
+<td valign="bottom" align="center">12.61</td>
+<td valign="bottom" align="center">11.04</td>
+<td valign="bottom" align="center">10.23</td>
+<td valign="bottom" align="center">9.73</td>
+<td valign="bottom" align="center">9.28</td>
+<td valign="bottom" align="center">8.83</td>
+<td valign="bottom" align="center">8.37</td>
+<td valign="bottom" align="center">7.88</td>
+<td valign="bottom" align="center">7.30</td>
+<td valign="bottom" align="center">6.62</td>
+<td valign="bottom" align="center">5.89</td>
+<td valign="bottom" align="center">5.10</td>
+<td valign="bottom" align="center">4.07</td>
+<td valign="bottom" align="center">2.78</td>
+<td valign="bottom" align="center">1.62</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18295</td>
+<td valign="bottom" align="center">10.8</td>
+<td valign="bottom" align="center">7.06</td>
+<td valign="bottom" align="center">12.05</td>
+<td valign="bottom" align="center">9.68</td>
+<td valign="bottom" align="center">8.32</td>
+<td valign="bottom" align="center">7.26</td>
+<td valign="bottom" align="center">5.98</td>
+<td valign="bottom" align="center">4.66</td>
+<td valign="bottom" align="center">3.57</td>
+<td valign="bottom" align="center">2.72</td>
+<td valign="bottom" align="center">2.05</td>
+<td valign="bottom" align="center">1.55</td>
+<td valign="bottom" align="center">1.18</td>
+<td valign="bottom" align="center">0.90</td>
+<td valign="bottom" align="center">0.65</td>
+<td valign="bottom" align="center">0.40</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18329.5</td>
+<td valign="bottom" align="center">62.7</td>
+<td valign="bottom" align="center">14.5</td>
+<td valign="bottom" align="center">7.93</td>
+<td valign="bottom" align="center">7.53</td>
+<td valign="bottom" align="center">7.02</td>
+<td valign="bottom" align="center">6.61</td>
+<td valign="bottom" align="center">6.41</td>
+<td valign="bottom" align="center">6.29</td>
+<td valign="bottom" align="center">6.03</td>
+<td valign="bottom" align="center">5.52</td>
+<td valign="bottom" align="center">4.84</td>
+<td valign="bottom" align="center">4.14</td>
+<td valign="bottom" align="center">3.45</td>
+<td valign="bottom" align="center">2.65</td>
+<td valign="bottom" align="center">1.75</td>
+<td valign="bottom" align="center">0.96</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18364</td>
+<td valign="bottom" align="center">138</td>
+<td valign="bottom" align="center">13</td>
+<td valign="bottom" align="center">16.24</td>
+<td valign="bottom" align="center">12.38</td>
+<td valign="bottom" align="center">12.75</td>
+<td valign="bottom" align="center">14.31</td>
+<td valign="bottom" align="center">12.89</td>
+<td valign="bottom" align="center">10.20</td>
+<td valign="bottom" align="center">9.01</td>
+<td valign="bottom" align="center">9.30</td>
+<td valign="bottom" align="center">9.77</td>
+<td valign="bottom" align="center">8.53</td>
+<td valign="bottom" align="center">6.61</td>
+<td valign="bottom" align="center">5.55</td>
+<td valign="bottom" align="center">4.47</td>
+<td valign="bottom" align="center">2.09</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18398.5</td>
+<td valign="bottom" align="center">2.63</td>
+<td valign="bottom" align="center">11.4</td>
+<td valign="bottom" align="center">2.41</td>
+<td valign="bottom" align="center">2.22</td>
+<td valign="bottom" align="center">2.01</td>
+<td valign="bottom" align="center">1.82</td>
+<td valign="bottom" align="center">1.60</td>
+<td valign="bottom" align="center">1.34</td>
+<td valign="bottom" align="center">1.08</td>
+<td valign="bottom" align="center">0.86</td>
+<td valign="bottom" align="center">0.68</td>
+<td valign="bottom" align="center">0.52</td>
+<td valign="bottom" align="center">0.39</td>
+<td valign="bottom" align="center">0.28</td>
+<td valign="bottom" align="center">0.19</td>
+<td valign="bottom" align="center">0.14</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18433</td>
+<td valign="bottom" align="center">370</td>
+<td valign="bottom" align="center">11.4</td>
+<td valign="bottom" align="center">20.48</td>
+<td valign="bottom" align="center">16.69</td>
+<td valign="bottom" align="center">14.24</td>
+<td valign="bottom" align="center">12.69</td>
+<td valign="bottom" align="center">11.70</td>
+<td valign="bottom" align="center">11.02</td>
+<td valign="bottom" align="center">10.49</td>
+<td valign="bottom" align="center">9.99</td>
+<td valign="bottom" align="center">9.46</td>
+<td valign="bottom" align="center">8.84</td>
+<td valign="bottom" align="center">8.10</td>
+<td valign="bottom" align="center">7.18</td>
+<td valign="bottom" align="center">5.99</td>
+<td valign="bottom" align="center">4.38</td>
+</tr>
+<tr>
+<td valign="top" align="center">18467.5</td>
+<td valign="top" align="center">67.7</td>
+<td valign="top" align="center">13.1</td>
+<td valign="top" align="center">7.29</td>
+<td valign="top" align="center">6.69</td>
+<td valign="top" align="center">6.23</td>
+<td valign="top" align="center">5.92</td>
+<td valign="top" align="center">5.73</td>
+<td valign="top" align="center">5.65</td>
+<td valign="top" align="center">5.62</td>
+<td valign="top" align="center">5.58</td>
+<td valign="top" align="center">5.43</td>
+<td valign="top" align="center">5.08</td>
+<td valign="top" align="center">4.42</td>
+<td valign="top" align="center">3.46</td>
+<td valign="top" align="center">2.34</td>
+<td valign="top" align="center">1.30</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="4" table-order="2" data-type-order="4">
+<table-wrap id="102118181177MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">In table 2, the results of calculating the constants A, B and C of equation (2) after applying the multiple linear regression methodology to different saturations of mercury (10-75%).</anchoringText>
+<label>Table 2</label>
+<caption>Results calculation of constants A, B and C of the general equation of Winland.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Results calculation of constants A, B and C of the general equation of Winland.</caption-text>
+</formatted-caption>
+<table id="102118181177MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th align="center" bgcolor="#800000+">Ri</th>
+<th align="center" bgcolor="#800000+">A</th>
+<th align="center" bgcolor="#800000+">B</th>
+<th align="center" bgcolor="#800000+">C</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center">10</td>
+<td valign="bottom" align="center">1.813</td>
+<td valign="bottom" align="center">0.514</td>
+<td valign="bottom" align="center">-1.586</td>
+</tr>
+<tr>
+<td valign="top" align="center">15</td>
+<td valign="top" align="center">1.477</td>
+<td valign="top" align="center">0.496</td>
+<td valign="top" align="center">-1.293</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">20</td>
+<td valign="top" align="center">1.290</td>
+<td valign="top" align="center">0.487</td>
+<td valign="top" align="center">-1.137</td>
+</tr>
+<tr>
+<td valign="top" align="center">25</td>
+<td valign="top" align="center">1.140</td>
+<td valign="top" align="center">0.482</td>
+<td valign="top" align="center">-1.015</td>
+</tr>
+<tr>
+<td valign="top" align="center">30</td>
+<td valign="top" align="center">0.900</td>
+<td valign="top" align="center">0.483</td>
+<td valign="bottom" align="center">-0.826</td>
+</tr>
+<tr>
+<td valign="top" align="center">35</td>
+<td valign="top" align="center">0.589</td>
+<td valign="top" align="center">0.492</td>
+<td valign="top" align="center">-0.593</td>
+</tr>
+<tr>
+<td valign="top" align="center">40</td>
+<td valign="top" align="center">0.289</td>
+<td valign="top" align="center">0.509</td>
+<td valign="top" align="center">-0.389</td>
+</tr>
+<tr>
+<td align="center" bgcolor="#CCFFFF">45</td>
+<td align="center" bgcolor="#CCFFFF">0.021</td>
+<td align="center" bgcolor="#CCFFFF">0.531</td>
+<td align="center" bgcolor="#CCFFFF">-0.212</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">50</td>
+<td valign="bottom" align="center">-0.235</td>
+<td valign="bottom" align="center">0.558</td>
+<td valign="bottom" align="center">-0.064</td>
+</tr>
+<tr>
+<td valign="top" align="center">55</td>
+<td valign="top" align="center">-0.460</td>
+<td valign="top" align="center">0.595</td>
+<td valign="bottom" align="center">0.028</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">60</td>
+<td valign="bottom" align="center">-0.638</td>
+<td valign="bottom" align="center">0.642</td>
+<td valign="bottom" align="center">0.045</td>
+</tr>
+<tr>
+<td valign="top" align="center">65</td>
+<td valign="top" align="center">-0.735</td>
+<td valign="top" align="center">0.706</td>
+<td valign="top" align="center">-0.054</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">70</td>
+<td valign="bottom" align="center">-0.799</td>
+<td valign="bottom" align="center">0.786</td>
+<td valign="bottom" align="center">-0.241</td>
+</tr>
+<tr>
+<td valign="top" align="center">75</td>
+<td valign="top" align="center">-1.033</td>
+<td valign="top" align="center">0.847</td>
+<td valign="top" align="center">-0.290</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="5" table-order="3" data-type-order="6">
+<table-wrap id="102118181177MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">4 types of rock (TR1, RT2, RT3 and RT4) were obtained and they were defined using the classification proposed by Coalson, Hartman and Thomas, see table 3.</anchoringText>
+<label>Table 3</label>
+<caption>Classification of rock types (RT) proposed by Coalson, E.B., D.J. Hartmann, &amp; J.B. Thomas, 1985.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Classification of rock types (RT) proposed by Coalson, E.B., D.J. Hartmann, &amp; J.B. Thomas, 1985.</caption-text>
+</formatted-caption>
+<table id="102118181177MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center" bgcolor="#800000+">Rock Types</th>
+<th valign="bottom" align="center" bgcolor="#800000+">Ri ranges (pm)</th>
+<th valign="bottom" align="center" bgcolor="#800000+">Color</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="center">RT1</td>
+<td valign="bottom" align="center">Ri≥10</td>
+<td valign="bottom" bgcolor="#FF0000" align="left">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">RT2</td>
+<td valign="bottom" align="center">2≤Ri&#x003C;10</td>
+<td valign="bottom" bgcolor="#000080" align="left">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">RT3</td>
+<td valign="bottom" align="center">0.5≤Ri&#x003C;2.5</td>
+<td valign="bottom" bgcolor="#00FF00" align="left">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">RT4</td>
+<td valign="top" align="center">Ri&#x003C;0.5</td>
+<td valign="bottom" bgcolor="#800000" align="left">
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="6" table-order="4" data-type-order="8">
+<table-wrap id="102118181177MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">Table 4 shows the summary of the wellbore formation testers with their respective fluids gradients which were determined with equation (4).</anchoringText>
+<label>Table 4</label>
+<caption>Summary of fluid gradients determined through formation testers in wellbore A.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Summary of fluid gradients determined through formation testers in wellbore A.</caption-text>
+</formatted-caption>
+<table id="102118181177MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th colspan="7" valign="top" align="center">Formation tester, Well A</th>
+</tr>
+<tr>
+<th align="center" bgcolor="#800000+">Reservoir</th>
+<th align="center" bgcolor="#800000+">Fluid Type (electrical logs)</th>
+<th align="center" bgcolor="#800000+">Depth measured (ft)</th>
+<th align="center" bgcolor="#800000+">Storage time (sec)</th>
+<th align="center" bgcolor="#800000+">Flowing pressure (Psi)</th>
+<th valign="top" align="center" bgcolor="#800000+">Final build up pressure (Psi)</th>
+<th align="center" bgcolor="#800000+">Fluid gradient (Psi/ft)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="17" align="center">
+<b>A</b>
+</td>
+<td rowspan="4" align="center">
+<b>Oil</b>
+</td>
+<td valign="bottom" align="center">18410</td>
+<td valign="bottom" align="center">18</td>
+<td valign="bottom" align="center">8068</td>
+<td valign="bottom" align="center">8472</td>
+<td valign="bottom" align="center">0.333</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18440</td>
+<td valign="bottom" align="center">18</td>
+<td valign="bottom" align="center">8444</td>
+<td valign="bottom" align="center">8482</td>
+<td valign="bottom" align="center">0.369</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18473</td>
+<td valign="bottom" align="center">19</td>
+<td valign="bottom" align="center">8400</td>
+<td valign="bottom" align="center">8494</td>
+<td valign="bottom" align="center">0.338</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18494</td>
+<td valign="bottom" align="center">19</td>
+<td valign="bottom" align="center">8388</td>
+<td valign="bottom" align="center">8501</td>
+<td valign="bottom" align="center">0.366</td>
+</tr>
+<tr>
+<td rowspan="3" align="center">
+<b>Oil+Water</b>
+</td>
+<td valign="bottom" align="center">18503</td>
+<td valign="bottom" align="center">18</td>
+<td valign="bottom" align="center">8233</td>
+<td valign="bottom" align="center">8504</td>
+<td valign="bottom" align="center">0.386</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18523</td>
+<td valign="bottom" align="center">20</td>
+<td valign="bottom" align="center">8463</td>
+<td valign="bottom" align="center">8512</td>
+<td valign="bottom" align="center">0.533</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18535</td>
+<td valign="bottom" align="center">19</td>
+<td valign="bottom" align="center">8333</td>
+<td valign="bottom" align="center">8519</td>
+<td valign="bottom" align="center">0.377</td>
+</tr>
+<tr>
+<td rowspan="10" align="center">
+<b>Water</b>
+</td>
+<td valign="bottom" align="center">18578</td>
+<td valign="bottom" align="center">19</td>
+<td valign="bottom" align="center">8484</td>
+<td valign="bottom" align="center">8535</td>
+<td valign="bottom" align="center">0.403</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18593</td>
+<td valign="bottom" align="center">19</td>
+<td valign="bottom" align="center">8464</td>
+<td valign="bottom" align="center">8541</td>
+<td valign="bottom" align="center">0.407</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18603</td>
+<td valign="bottom" align="center">20</td>
+<td valign="bottom" align="center">8416</td>
+<td valign="bottom" align="center">8545</td>
+<td valign="bottom" align="center">0.400</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18628</td>
+<td valign="top" align="center">19</td>
+<td valign="top" align="center">8259</td>
+<td valign="top" align="center">8555</td>
+<td valign="top" align="center">0.417</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18652</td>
+<td valign="bottom" align="center">20</td>
+<td valign="bottom" align="center">8418</td>
+<td valign="bottom" align="center">8565</td>
+<td valign="bottom" align="center">0.414</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18682</td>
+<td valign="bottom" align="center">19</td>
+<td valign="bottom" align="center">8459</td>
+<td valign="bottom" align="center">8578</td>
+<td valign="bottom" align="center">0.430</td>
+</tr>
+<tr>
+<td valign="top" align="center">18690</td>
+<td valign="bottom" align="center">21</td>
+<td valign="top" align="center">8155</td>
+<td valign="top" align="center">8581</td>
+<td valign="top" align="center">0.422</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18696</td>
+<td valign="bottom" align="center">20</td>
+<td valign="bottom" align="center">8105</td>
+<td valign="bottom" align="center">8583</td>
+<td valign="bottom" align="center">0.402</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">18702</td>
+<td valign="bottom" align="center">20</td>
+<td valign="bottom" align="center">8568</td>
+<td valign="bottom" align="center">8586</td>
+<td valign="bottom" align="center">0.436</td>
+</tr>
+<tr>
+<td valign="top" align="center">18713</td>
+<td valign="bottom" align="center">20</td>
+<td valign="top" align="center">8576</td>
+<td valign="top" align="center">8591</td>
+<td valign="top" align="center">0.459</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="5" data-type-order="10">
+<table-wrap id="102118181177MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">All capillary pressure data were taken at reservoir conditions using equation (5) with reference to the parameters in table 5.</anchoringText>
+<label>Table 5</label>
+<caption>Conversion systems capillary pressure.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Conversion systems capillary pressure.</caption-text>
+</formatted-caption>
+<table id="102118181177MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th align="center" bgcolor="#800000+">Condition</th>
+<th align="center" bgcolor="#800000+">System</th>
+<th align="center" bgcolor="#800000+">Contact Angle (θ)</th>
+<th align="center" bgcolor="#800000+">Cosine (θ)</th>
+<th align="center" bgcolor="#800000+">Interfacial tension (σ)</th>
+<th align="center" bgcolor="#800000+">σ Cosine (θ)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="4" align="center">
+<b>Laboratory</b>
+</td>
+<td valign="bottom" align="center">Air-Water</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">72</td>
+<td valign="bottom" align="center">72</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Oil-Water</td>
+<td valign="bottom" align="center">30</td>
+<td valign="bottom" align="center">0.866</td>
+<td valign="bottom" align="center">48</td>
+<td valign="bottom" align="center">42</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Air-Mercury</td>
+<td valign="bottom" align="center">140</td>
+<td valign="bottom" align="center">0.765</td>
+<td valign="bottom" align="center">480</td>
+<td valign="bottom" align="center">367</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">Air-Oil</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">1</td>
+<td valign="bottom" align="center">24</td>
+<td valign="bottom" align="center">24</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">
+<b>Reservoir</b>
+</td>
+<td valign="bottom" align="center">Water-Oil</td>
+<td valign="bottom" align="center">30</td>
+<td valign="bottom" align="center">0.866</td>
+<td valign="bottom" align="center">30</td>
+<td valign="bottom" align="center">26</td>
+</tr>
+<tr>
+<td valign="top" align="center">Water-Gas</td>
+<td valign="bottom" align="center">0</td>
+<td valign="bottom" align="center">1</td>
+<td valign="top" align="center">50</td>
+<td valign="top" align="center">50</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="8" table-order="6" data-type-order="11">
+<table-wrap id="102118181177MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6">In table 6, shows the results of the variables Pc °, a, d and n corresponding to RT1. The average capillary pressure curves for each RT shown in Fig. 6, the same are differentiated through colors codes.</anchoringText>
+<label>Table 6</label>
+<caption>Summary of variables results of Pc, d, a, n, corresponding to RT1.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Summary of variables results of Pc, d, a, n, corresponding to RT1.</caption-text>
+</formatted-caption>
+<table id="102118181177MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th colspan="7" valign="bottom" align="center" bgcolor="#800000+">Parameters Pc° a, d, n (drainage cycle)</th>
+</tr>
+<tr>
+<th valign="bottom" align="center" bgcolor="#800000+">Reservoir</th>
+<th valign="bottom" align="center" bgcolor="#800000+">Sample</th>
+<th valign="bottom" align="center" bgcolor="#800000+">Depth (ft)</th>
+<th valign="bottom" align="center" bgcolor="#800000+">Pc°</th>
+<th valign="bottom" align="center" bgcolor="#800000+">d</th>
+<th valign="bottom" align="center" bgcolor="#800000+">n</th>
+<th valign="bottom" align="center" bgcolor="#800000+">a</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="5" align="center">
+<b>A</b>
+</td>
+<td valign="bottom" align="center">a</td>
+<td valign="bottom" align="center">18474.9</td>
+<td valign="bottom" align="center">0.278</td>
+<td valign="bottom" align="center">0.381</td>
+<td valign="bottom" align="center">1.909</td>
+<td valign="bottom" align="center">1.313</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">b</td>
+<td valign="bottom" align="center">18506.6</td>
+<td valign="bottom" align="center">0.149</td>
+<td valign="bottom" align="center">0.257</td>
+<td valign="bottom" align="center">2.240</td>
+<td valign="bottom" align="center">4.479</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">c</td>
+<td valign="bottom" align="center">17922.4</td>
+<td valign="bottom" align="center">0.202</td>
+<td valign="bottom" align="center">0.245</td>
+<td valign="bottom" align="center">1.759</td>
+<td valign="bottom" align="center">1.855</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">d</td>
+<td valign="bottom" align="center">17920.1</td>
+<td valign="bottom" align="center">0.385</td>
+<td valign="bottom" align="center">0.490</td>
+<td valign="bottom" align="center">1.808</td>
+<td valign="bottom" align="center">0.664</td>
+</tr>
+<tr>
+<td valign="top" align="center">e</td>
+<td valign="top" align="center">18453.1</td>
+<td valign="top" align="center">0.229</td>
+<td valign="top" align="center">0.331</td>
+<td valign="top" align="center">1.993</td>
+<td valign="top" align="center">2.296</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="13" table-order="7" data-type-order="17">
+<table-wrap id="102118181177MS-tblwrp-7" content-type="structured">
+<anchoringText id="Ancr7">In table 7, we have the results of the calculation of hydrocarbon reserves, considering the initial water saturation obtained from the model SWINIT and irreducible water saturation.</anchoringText>
+<label>Table 7</label>
+<caption>Results of calculation of hydrocarbon reserves, considering the initial water saturation and irreducible water saturation from reservoir A.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Results of calculation of hydrocarbon reserves, considering the initial water saturation and irreducible water saturation from reservoir A.</caption-text>
+</formatted-caption>
+<table id="102118181177MS-Tbl_SPi-7" frame="hsides">
+<thead>
+<tr>
+<th align="center" bgcolor="#800000+">Reservoir</th>
+<th align="center" bgcolor="#800000+">Zones</th>
+<th align="center" bgcolor="#800000+">A (Acres)</th>
+<th align="center" bgcolor="#800000+">VR (Acres-ft)</th>
+<th align="center" bgcolor="#800000+">H average (ft)</th>
+<th align="center" bgcolor="#800000+">βoi (bbl/STB)</th>
+<th align="center" bgcolor="#800000+">Soi (fraction)</th>
+<th align="center" bgcolor="#800000+">ϕe (fraction)</th>
+<th align="center" bgcolor="#800000+">OOIP (MMSTB)</th>
+<th align="center" bgcolor="#800000+">OOIP TOTAL (MMSTB)</th>
+<th align="center" bgcolor="#800000+">RF(fraction)</th>
+<th align="center" bgcolor="#800000+">RR (MMSTB)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2" align="center">
+<b>A</b>
+<b>
+</b>
+<b>(SW INITIAL)</b>
+</td>
+<td align="center">
+<b>TZ-TOP</b>
+</td>
+<td align="center">
+<b>3390</b>
+</td>
+<td align="center">
+<b>602,120</b>
+</td>
+<td align="center">
+<b>178</b>
+</td>
+<td align="center">
+<b>1.050</b>
+</td>
+<td align="center">
+<b>0.79</b>
+</td>
+<td align="center">
+<b>0.115</b>
+</td>
+<td align="center">
+<b>408.0</b>
+</td>
+<td rowspan="2" align="center">
+<b>435.7</b>
+</td>
+<td rowspan="2" align="center">
+<b>0.20</b>
+</td>
+<td rowspan="2" align="center">
+<b>87</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<b>OOWC-TZ</b>
+</td>
+<td align="center">
+<b>655</b>
+</td>
+<td align="center">
+<b>52,880</b>
+</td>
+<td align="center">
+<b>81</b>
+</td>
+<td align="center">
+<b>1.050</b>
+</td>
+<td align="center">
+<b>0.57</b>
+</td>
+<td align="center">
+<b>0.124</b>
+</td>
+<td align="center">
+<b>27.8</b>
+</td>
+</tr>
+<tr>
+<td align="center">
+<b>A</b>
+<b>
+</b>
+<b>(SW IRREDUCIBLE)</b>
+</td>
+<td align="center">
+<b>OOWC-TOP</b>
+</td>
+<td align="center">
+<b>4045</b>
+</td>
+<td align="center">
+<b>655,000</b>
+</td>
+<td align="center">
+<b>162</b>
+</td>
+<td align="center">
+<b>1.050</b>
+</td>
+<td align="center">
+<b>0.80</b>
+</td>
+<td align="center">
+<b>0.118</b>
+</td>
+<td align="center">
+<b>458.2</b>
+</td>
+<td align="center">
+<b>458.2</b>
+</td>
+<td align="center">
+<b>0.20</b>
+</td>
+<td align="center">
+<b>92</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

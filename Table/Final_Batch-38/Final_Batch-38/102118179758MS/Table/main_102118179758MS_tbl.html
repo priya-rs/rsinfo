@@ -1,0 +1,453 @@
+﻿<!DOCTYPE html><html><head><meta http-equiv="content-type" content="text/html; charset=UTF-8" ></head><div>
+<div><b>Meta Informations:</b><p>SPE_Society_of_Petroleum_Engineers</p><p>DOI: 10.2118/179758-MS<br>PII: 10.2118/179758-MS<br></p></div>
+<div>
+<div pdf-page="7" table-order="1" data-type-order="5">
+<div id="102118179758MS-tblwrp-1" content-type="structured"><p>The AHM starts with the creation of uncertainty space by defining the parameters and their ranges in form of a “variability model”. A set of 10 variability models (Table 1) has been constructed. This initial list of parameters is selected to address the different aspects of the problem statement, for instance, de-coupling of permeability into two components to address the uncertainties in permeability magnitude and contrast (vertical heterogeneity) of the field; Kv/Kh, baffles distribution and aquifer properties to address the issues of water coning, water breakthrough time and fluid flow paths (streamlines); and skin to account for the well deliverability (near wellbore aspects).</p><p><b>Table 1</b> Initial list of uncertainty parameters and their ranges.</p><p>Table 1 Initial list of uncertainty parameters and their ranges.</p><table id="102118179758MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="left">Sl No.</th>
+<th valign="top" align="left">Parameters</th>
+<th valign="top" align="center">
+<a id="bookmark0">
+</a>Low Bound</th>
+<th valign="top" align="center">Base</th>
+<th valign="top" align="center">High Bound</th>
+<th valign="top" align="center">Remarks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="left">1</td>
+<td valign="top" align="left">Permeability Magnitude</td>
+<td valign="top" align="center">0.1</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="left">Implemented as permeability multiplier.</td>
+</tr>
+<tr>
+<td valign="top" align="left">2</td>
+<td valign="top" align="left">Permeability Heterogeneity</td>
+<td valign="top" align="center">0.5</td>
+<td valign="top" align="center">0.7</td>
+<td valign="top" align="center">0.9</td>
+<td valign="top" align="left">Implemented by DP method. Random distribution while</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="left">preserving the mean.</td>
+</tr>
+<tr>
+<td valign="top" align="left">3</td>
+<td valign="top" align="left">Kv/Kh</td>
+<td valign="top" align="center">0.01</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">0.1</td>
+<td valign="top" align="left">High case as an alternate scenario.</td>
+</tr>
+<tr>
+<td valign="top" align="left">4</td>
+<td valign="top" align="left">Baffles Distribution</td>
+<td valign="top" align="center">-1</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="left">Implemented as three discrete realizations. 3 flags represent: -1 --&gt; Mean shale length = 10ft, and shales/100ft = 10. 0 --&gt; Preserves original 1 --&gt; Mean shale length = 5ft, and shales/100ft = 5.</td>
+</tr>
+<tr>
+<td valign="top" align="left">5</td>
+<td valign="top" align="left">Nw</td>
+<td valign="top" align="center">2</td>
+<td valign="top" align="center">3.2</td>
+<td valign="top" align="center">5</td>
+<td valign="top" align="left">Capture extremes. SCAL data.</td>
+</tr>
+<tr>
+<td valign="top" align="left">6</td>
+<td valign="top" align="left">No</td>
+<td valign="top" align="center">4</td>
+<td valign="top" align="center">2.4</td>
+<td valign="top" align="center">1.5</td>
+<td valign="top" align="left">Capture extremes. SCAL data.</td>
+</tr>
+<tr>
+<td valign="top" align="left">7</td>
+<td valign="top" align="left">Aquifer Strength</td>
+<td valign="top" align="center">0.01</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">100</td>
+<td valign="top" align="left">Boost the aquifer strength by this factor.</td>
+</tr>
+<tr>
+<td valign="top" align="left">8</td>
+<td valign="top" align="left">Aquifer Response Time</td>
+<td valign="top" align="center">0.1</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="left">Changes the aquifer response time by this factor.</td>
+</tr>
+<tr>
+<td valign="top" align="left">9</td>
+<td valign="top" align="left">Producer Skin</td>
+<td valign="top" align="center">-1</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="left">Check possibility of fractured or damage near wellbore.</td>
+</tr>
+<tr>
+<td valign="top" align="left">10</td>
+<td valign="top" align="left">Injector Skin</td>
+<td valign="top" align="center">-1</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="left">Check possibility of fractured or damage near wellbore.</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="13" table-order="2" data-type-order="13">
+<div id="102118179758MS-tblwrp-2" content-type="structured"><p>Table 2 shows the priori distribution that was input into the analysis with the reduced uncertainty space – less parameters and narrower ranges in the posterior distribution after the uncertainty reduction with the iterative SUM workflow. Based on the updated uncertainty table, another iteration was done following the same designs as in the previous iteration. The best HM cases obtained from this iteration showed very little difference in RMSE and variability in parameters combinations.</p><p><b>Table 2</b> Tables showing uncertainty reduction achieved from multiple iterations of the DoE based SUM workflow, the first stage of the developed methodology. Note that the parameters shown in red are frozen and the blue indicates the updated ranges for future iterations.</p><p>Table 2 Tables showing uncertainty reduction achieved from multiple iterations of the DoE based SUM workflow, the first stage of the developed methodology. Note that the parameters shown in red are frozen and the blue indicates the updated ranges for future iterations.</p><table id="102118179758MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" bgcolor="#E0E0E0">SI No.</th>
+<th valign="top" align="center" bgcolor="#E0E0E0">Parameters</th>
+<th valign="top" align="center" bgcolor="#E0E0E0">Low Bound</th>
+<th valign="top" align="center" bgcolor="#E0E0E0">Base</th>
+<th valign="top" align="center" bgcolor="#E0E0E0">High Bound</th>
+<th valign="top" align="center" bgcolor="#E0E0E0">Remarks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">Permeability Magnitude</td>
+<td valign="top" align="center" bgcolor="#BACCE4">0.7</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center" bgcolor="#BACCE4">4</td>
+<td valign="top" align="center">Implemented as permeability multiplier.</td>
+</tr>
+<tr>
+<td valign="top" align="center">2</td>
+<td valign="top" align="center">Permeability Heterogeneity</td>
+<td valign="top" align="center" bgcolor="#BACCE4">0.1</td>
+<td valign="top" align="center" bgcolor="#BACCE4">0</td>
+<td valign="top" align="center" bgcolor="#BACCE4">0.3</td>
+<td valign="top" align="center">Implemented by DP method. Random distribution while preserving the mean.</td>
+</tr>
+<tr>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">Kv//Kh</td>
+<td valign="top" align="center" bgcolor="#BACCE4">0.1</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center" bgcolor="#BACCE4">0.5</td>
+<td valign="top" align="center">High case as an alternate scenario.</td>
+</tr>
+<tr>
+<td valign="top" align="center">4</td>
+<td valign="top" align="center" bgcolor="#E6B9B9">Baffles Distribution</td>
+<td valign="top" align="center" bgcolor="#E6B9B9">-1</td>
+<td valign="top" align="center" bgcolor="#E6B9B9">0</td>
+<td valign="top" align="center" bgcolor="#E6B9B9">1</td>
+<td valign="top" align="center" bgcolor="#E6B9B9">Implemented as three discrete realizations. 3 flags represent: -1 --&gt; mean shale length =10ft,and shales /100ft=10. 0 --&gt; preserves original . 1--&gt; mean shale length =5ft .and shales /100ft=5.</td>
+</tr>
+<tr>
+<td valign="top" align="center">5</td>
+<td valign="top" align="center">Nw</td>
+<td valign="top" align="center">2</td>
+<td valign="top" align="center" bgcolor="#BACCE4">2.5</td>
+<td valign="top" align="center" bgcolor="#BACCE4">3.2</td>
+<td valign="top" align="center">Capture extremes. SCAL data.</td>
+</tr>
+<tr>
+<td valign="top" align="center">6</td>
+<td valign="top" align="center">No</td>
+<td valign="top" align="center">4</td>
+<td valign="top" align="center">2.4</td>
+<td valign="top" align="center" bgcolor="#BACCE4">2</td>
+<td valign="top" align="center">Capture extremes. SCAL data.</td>
+</tr>
+<tr>
+<td valign="top" align="center">7</td>
+<td valign="top" align="center">Aquifer Strength</td>
+<td valign="top" align="center" bgcolor="#BACCE4">0.05</td>
+<td valign="top" align="center" bgcolor="#BACCE4">0.5</td>
+<td valign="top" align="center" bgcolor="#BACCE4">5</td>
+<td valign="top" align="center">Boost the aquifer strength by this factor.</td>
+</tr>
+<tr>
+<td valign="top" align="center">8</td>
+<td valign="top" align="center" bgcolor="#E6B9B9">Aquifer Response Time</td>
+<td valign="top" align="center" bgcolor="#E6B9B9">0.1</td>
+<td valign="top" align="center" bgcolor="#E6B9B9">1</td>
+<td valign="top" align="center" bgcolor="#E6B9B9">10</td>
+<td valign="top" align="center" bgcolor="#E6B9B9">Changes the aquifer response time by this factor.</td>
+</tr>
+<tr>
+<td valign="top" align="center">9</td>
+<td valign="top" align="center" bgcolor="#E6B9B9">Producer Skin</td>
+<td valign="top" align="center" bgcolor="#E6B9B9">-1</td>
+<td valign="top" align="center" bgcolor="#E6B9B9">0</td>
+<td valign="top" align="center" bgcolor="#E6B9B9">10</td>
+<td valign="top" align="center" bgcolor="#E6B9B9">Check possibility of fractured or damage near wellbore.</td>
+</tr>
+<tr>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center" bgcolor="#E6B9B9">Injector Skin</td>
+<td valign="top" align="center" bgcolor="#E6B9B9">-1</td>
+<td valign="top" align="center" bgcolor="#E6B9B9">0</td>
+<td valign="top" align="center" bgcolor="#E6B9B9">10</td>
+<td valign="top" align="center" bgcolor="#E6B9B9">Check possibility of fractured or damage near wellbore.</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+<div pdf-page="14" table-order="3" data-type-order="14">
+<div id="102118179758MS-tblwrp-3" content-type="mixed"><p>These were incorporated in the uncertainty space for the next stage of AHM. Table 3 shows an updated list of parameters with their ranges based on the reduced uncertainty parameters from the previous stage of AHM. The resolution and granularity in each parameter class has been increased, for instance, permeability and relative permeability variations are made more granular as they are varied on the local level in different regions.</p><p><b>Table 3</b> Updated list of uncertainty parameters for the final iteration of DoE based SUM workflow.</p><p>Table 3 Updated list of uncertainty parameters for the final iteration of DoE based SUM workflow.</p><table id="102118179758MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Sl No.</th>
+<th valign="top" align="center">VARMODEL</th>
+<th valign="top" align="center">Base</th>
+<th valign="top" align="center">Min</th>
+<th valign="top" align="center">Max</th>
+<th valign="top" align="center">Remarks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">PermReg1</td>
+<td valign="top" align="center">na</td>
+<td valign="top" align="center">0.1</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">Localised permeability variations based on six regions in the model.</td>
+</tr>
+<tr>
+<td valign="top" align="center">2</td>
+<td valign="top" align="center">PermReg2</td>
+<td valign="top" align="center">na</td>
+<td valign="top" align="center">0.1</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">PermReg3</td>
+<td valign="top" align="center">na</td>
+<td valign="top" align="center">0.1</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">4</td>
+<td valign="top" align="center">PermReg4</td>
+<td valign="top" align="center">na</td>
+<td valign="top" align="center">0.1</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">5</td>
+<td valign="top" align="center">PermReg5</td>
+<td valign="top" align="center">na</td>
+<td valign="top" align="center">0.1</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">6</td>
+<td valign="top" align="center">PermReg6</td>
+<td valign="top" align="center">na</td>
+<td valign="top" align="center">0.1</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">7</td>
+<td valign="top" align="center">BflRng</td>
+<td valign="top" align="center">na</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">NZ</td>
+<td valign="top" align="center">From bottom to top. Low case --&gt; only last layer with baffle. High case --&gt; all</td>
+</tr>
+<tr>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">layers.</td>
+</tr>
+<tr>
+<td valign="top" align="center">8</td>
+<td valign="top" align="center">BflTx</td>
+<td valign="top" align="center">na</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">Percent gridblocks that will have a zero transmissibility in the X direction</td>
+</tr>
+<tr>
+<td valign="top" align="center">9</td>
+<td valign="top" align="center">BflTy</td>
+<td valign="top" align="center">na</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">Percent gridblocks that will have a zero transmissibility in the Y direction</td>
+</tr>
+<tr>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">BflMSL</td>
+<td valign="top" align="center">na</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">Mean shale length</td>
+</tr>
+<tr>
+<td valign="top" align="center">11</td>
+<td valign="top" align="center">BflFrq</td>
+<td valign="top" align="center">na</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">10</td>
+<td valign="top" align="center">Shale count per 100 ft</td>
+</tr>
+<tr>
+<td valign="top" align="center">12</td>
+<td valign="top" align="center">RelPermReg1</td>
+<td valign="top" align="center">0</td>
+<td valign="top" align="center">-1</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">Low case: Nw = 2.5, No = 3.0, Krw = 0.2 --&gt; Water favourable</td>
+</tr>
+<tr>
+<td align="center">13</td>
+<td align="center">RelPermReg2</td>
+<td align="center">0</td>
+<td align="center">-1</td>
+<td align="center">1</td>
+<td align="center">Base case:Nw=3.2,No = 2.4,Krw = 0.15 --&gt; original</td>
+</tr>
+<tr>
+<td align="center">14</td>
+<td align="center">RelPermReg3</td>
+<td align="center">0</td>
+<td align="center">-1</td>
+<td align="center">1</td>
+<td align="center">Low case:Nw=4.0,No = 2.0,Krw = 0.1 --&gt; oil favourable</td>
+</tr>
+<tr>
+<td align="center">15</td>
+<td align="center">RelPermReg4</td>
+<td align="center">0</td>
+<td align="center">-1</td>
+<td align="center">1</td>
+<td align="center">
+</td>
+</tr>
+<tr>
+<td align="center">16</td>
+<td align="center">RelPermReg5</td>
+<td align="center">0</td>
+<td align="center">-1</td>
+<td align="center">1</td>
+<td align="center">
+</td>
+</tr>
+<tr>
+<td align="center">17</td>
+<td align="center">RelPermReg6</td>
+<td align="center">0</td>
+<td align="center">-1</td>
+<td align="center">1</td>
+<td align="center">
+</td>
+</tr>
+<tr>
+<td align="center">18</td>
+<td align="center">OilVscMdl</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">
+</td>
+<td align="center">Based on asset info.</td>
+</tr>
+<tr>
+<td align="center">19</td>
+<td align="center">ZonalConfWell1</td>
+<td align="center">0</td>
+<td align="center">-1</td>
+<td align="center">1</td>
+<td align="center">Low case: Larger fraction of the perforation (upto <sub>
+<a width="26" height="27" href="#102118179758MS-Img_SPi-1"> </a>
+</sub> th) towards the toe not</td>
+</tr>
+<tr>
+<td align="center">20</td>
+<td align="center">ZonalConfWell2</td>
+<td align="center">0</td>
+<td align="center">-1</td>
+<td align="center">1</td>
+<td align="center">contributing to flow.</td>
+</tr>
+<tr>
+<td align="center">21</td>
+<td align="center">ZonalConfWell3</td>
+<td align="center">0</td>
+<td align="center">-1</td>
+<td align="center">1</td>
+<td align="center">Base case: As in reference case HM model.</td>
+</tr>
+<tr>
+<td align="center">22</td>
+<td align="center">ZonalConfWell4</td>
+<td align="center">0</td>
+<td align="center">-1</td>
+<td align="center">1</td>
+<td align="center">High case: Smaller fraction of the perforation (upto <sub>
+<a width="26" height="27" href="#102118179758MS-Img_SPi-2"> </a>
+</sub> ) towards the toe not</td>
+</tr>
+<tr>
+<td align="center">23</td>
+<td align="center">ZonalConfWell5</td>
+<td align="center">0</td>
+<td align="center">-1</td>
+<td align="center">1</td>
+<td align="center">
+</td>
+</tr>
+<tr>
+<td align="center">24</td>
+<td align="center">ZonalConfWell6</td>
+<td align="center">0</td>
+<td align="center">-1</td>
+<td align="center">1</td>
+<td align="center">
+</td>
+</tr>
+</tbody>
+</table><br></div>
+<div />
+</div>
+</div>
+</div></html>

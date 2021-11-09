@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189067MS.txt" extractionDate="2021-03-29T11:00:08Z">
+<doi>10.2118/189067-MS</doi>
+<pii>10.2118/189067-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="4">
+<table-wrap id="102118189067MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Table 1 summarizes the results of the estimation and compares it with a production logging that was performed on Well A in January 2017. Consistently, these measurements prove that most of the gas is produced from R4 reservoir. Such observation confirms the necessity for the natural gas lift method, as it indicates that the percentage of associated gas produced from the deeper reservoir is not enough to help lift the column of fluid.</anchoringText>
+<label>Table 1</label>
+<caption>Comparison between the results of the PVT analysis on Well A and the result given by the production logging measurement</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Comparison between the results of the PVT analysis on Well A and the result given by the production logging measurement</caption-text>
+</formatted-caption>
+<table id="102118189067MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center">Date</th>
+<th valign="top" align="center">Percentage of gas produced from R4</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">2013 PVT sampling</td>
+<td valign="top" align="center">74%-100%</td>
+</tr>
+<tr>
+<td valign="top" align="center">2014 PVT sampling</td>
+<td valign="top" align="center">53%-80%</td>
+</tr>
+<tr>
+<td valign="top" align="center">2017 Production logging</td>
+<td valign="top" align="center">80%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

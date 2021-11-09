@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118192090MS.txt" extractionDate="2021-04-21T23:18:47Z">
+<doi>10.2118/192090-MS</doi>
+<pii>10.2118/192090-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="4" table-order="1" data-type-order="3">
+<table-wrap id="102118192090MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">B-1 and B-2 appraisal wells information are the main sources of data to be analyzed. The data available are tabulated in Table 2-1 below.</anchoringText>
+<label>Table 2-1</label>
+<caption>List of Field B Data</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2-1</caption-order>
+<caption-text>List of Field B Data</caption-text>
+</formatted-caption>
+<table id="102118192090MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="top" align="center">Seismic</th>
+<th valign="top" align="center">3D Vintage Late 80's</th>
+<th valign="top" align="center">PSTM (2008)</th>
+<th valign="top" align="center">Check Shot (B-2)</th>
+<th valign="top" align="center">Seismic Inversion (2017)</th>
+<th valign="top" align="center" />
+<th valign="top" align="center" />
+<th valign="top" align="center" />
+<th valign="top" align="center" />
+</tr>
+<tr>
+<th valign="top" align="center" bgcolor="#FFFF00">2</th>
+<th valign="top" align="center" bgcolor="#FFFF00">2</th>
+<th valign="top" align="center" bgcolor="#92D050">1</th>
+<th valign="top" align="center" bgcolor="#92D050">1</th>
+<th valign="top" align="center">
+</th>
+<th valign="top" align="center">
+</th>
+<th valign="top" align="center">
+</th>
+<th valign="top" align="center">
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2" valign="top" align="left">B-1 Well Data</td>
+<td valign="top" align="center">Mud Log</td>
+<td valign="top" align="center">GR-ILD</td>
+<td valign="top" align="center">NeutronDensity</td>
+<td valign="top" align="center">RFT</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center" bgcolor="#FFFF00">2</td>
+<td valign="top" align="center" bgcolor="#92D050">1</td>
+<td valign="top" align="center" bgcolor="#FF0000">3</td>
+<td valign="top" align="center" bgcolor="#FFFF00">2</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" align="left">B-2 Well Data</td>
+<td valign="top" align="center">Mud Log</td>
+<td valign="top" align="center">MWD GR-Res</td>
+<td valign="top" align="center">PEX NeutDens</td>
+<td valign="top" align="center">Full Wave Sonic</td>
+<td valign="top" align="center">NMR</td>
+<td valign="top" align="center">Rt_Scanner</td>
+<td valign="top" align="center">Image log</td>
+<td valign="top" align="center">MDT</td>
+</tr>
+<tr>
+<td valign="top" align="center" bgcolor="#92D050">1</td>
+<td valign="top" align="center" bgcolor="#92D050">1</td>
+<td valign="top" align="center" bgcolor="#92D050">1</td>
+<td valign="top" align="center" bgcolor="#92D050">1</td>
+<td valign="top" align="center" bgcolor="#92D050">1</td>
+<td valign="top" align="center" bgcolor="#92D050">1</td>
+<td valign="top" align="center" bgcolor="#92D050">1</td>
+<td valign="top" align="center" bgcolor="#92D050">1</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" align="left">PVT</td>
+<td valign="top" align="center">Res Oil Comp</td>
+<td valign="top" align="center">Sep Oil &amp; Gas Comp</td>
+<td valign="top" align="center">CCE</td>
+<td valign="top" align="center">Diff Lib</td>
+<td valign="top" align="center">Res Oil Visc</td>
+<td valign="top" align="center">Sep Test (Flash)</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center" bgcolor="#92D050">1</td>
+<td valign="top" align="center" bgcolor="#92D050">1</td>
+<td valign="top" align="center" bgcolor="#92D050">1</td>
+<td valign="top" align="center" bgcolor="#92D050">1</td>
+<td valign="top" align="center" bgcolor="#92D050">1</td>
+<td valign="top" align="center" bgcolor="#92D050">1</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td rowspan="2" valign="top" align="left">DST</td>
+<td valign="top" align="center">Main Build Up</td>
+<td valign="top" align="center">Main Flow</td>
+<td valign="top" align="center">MRT#1</td>
+<td valign="top" align="center">MRT#2</td>
+<td valign="top" align="center">MRT#3</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center" bgcolor="#92D050">1</td>
+<td valign="top" align="center" bgcolor="#92D050">1</td>
+<td valign="top" align="center" bgcolor="#92D050">1</td>
+<td valign="top" align="center" bgcolor="#92D050">1</td>
+<td valign="top" align="center" bgcolor="#92D050">1</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+</tr>
+</tbody>
+</table>
+<table id="102118192090MS-Tbl_SPi-1a" frame="hsides">
+<tbody>
+<tr>
+<td valign="top" align="center" bgcolor="#92D050">1</td>
+<td valign="top" align="center">Good quality data</td>
+</tr>
+<tr>
+<td valign="top" align="center" bgcolor="#FFFF00">2</td>
+<td valign="top" align="center">Fair quality data</td>
+</tr>
+<tr>
+<td valign="top" align="center" bgcolor="#FF0000">3</td>
+<td valign="top" align="center">Poor quality data</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="4" table-order="2" data-type-order="4">
+<table-wrap id="102118192090MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">B-2 well on the other hand has reliable log data quality, in near perfect borehole conditions. A total of 50 rotary sidewall cores were collected from B-2 appraisal well. Multiple analyses were done using these cores as listed in Table 2-2: below and this paper will focus on the result of Rock Mechanic Study. Six cores have been selected for analysis in the Rock Mechanic properties. The scope of the testing includes Instrumented Unconfined Compressive Strength Testing (IUCS), Multistage Triaxial Testing (MST) and Acoustic Travel Time (ATT).</anchoringText>
+<label>Table 2-2</label>
+<caption>B-2 Appraisal Well Core Analysis Data List</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2-2</caption-order>
+<caption-text>B-2 Appraisal Well Core Analysis Data List</caption-text>
+</formatted-caption>
+<table id="102118192090MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" bgcolor="#000000">Data Type</th>
+<th valign="top" align="left" bgcolor="#000000">Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center"><b>RCA</b></td>
+<td valign="top" align="left">Routine Core Analysis, Laser Particle Size Analysis and Sieve Analysis</td>
+</tr>
+<tr>
+<td rowspan="5" valign="top" align="center"><b>SCAL</b></td>
+<td valign="top" align="left">Special Core Analysis SCAL</td>
+</tr>
+<tr>
+<td valign="top" align="left">Part I: Capillary Pressure Measurement &amp; Electrical Properties</td>
+</tr>
+<tr>
+<td valign="top" align="left">Part II: Relative Permeability Study</td>
+</tr>
+<tr>
+<td valign="top" align="left">Part III: NMR Measurements</td>
+</tr>
+<tr>
+<td valign="top" align="left">Part IV: Mercury Injection Capillary Pressure</td>
+</tr>
+<tr>
+<td valign="top" align="center"><b>Geological</b></td>
+<td valign="top" align="left">Petrography, XRD and SEM</td>
+</tr>
+<tr>
+<td valign="top" align="center"><b>Rock Mechanics</b></td>
+<td valign="top" align="left">Rock Mechanical Strength Characterisation of Core</td>
+</tr>
+<tr>
+<td valign="top" align="center"><b>Core Photographs</b></td>
+<td valign="top" align="left">White Light and Ultra Violet Light Photographs for Rotary Sidewall Core Samples</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="5" table-order="3" data-type-order="5">
+<table-wrap id="102118192090MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Table 2-3 listed the sidewall core sample depth, length, test to be conducted, reservoir pressure and Net Compressive Stress (NCS). Tests were run at 0.25, 0.5, 0.75 and 1 times the NCS of 1050 psi. In Table 2-4, the lab test result showed a very wide range of UCS from 228 to 2088 psi, with depth difference less than 50 m. Visual core analysis concluded there are frequent clay rich interbeds can be seen within the samples. In particular, this occurs in the IUCS plugs.</anchoringText>
+<label>Table 2-3</label>
+<caption>B-2 Sidewall Cores for Rock Mechanics Test</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2-3</caption-order>
+<caption-text>B-2 Sidewall Cores for Rock Mechanics Test</caption-text>
+</formatted-caption>
+<table id="102118192090MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" bgcolor="#000000">No.</th>
+<th valign="top" align="center" bgcolor="#000000">Depth (mMDDF)</th>
+<th valign="top" align="center" bgcolor="#000000">Depth (mTVDSS)</th>
+<th valign="top" align="center" bgcolor="#000000">Length (cm)</th>
+<th valign="top" align="center" bgcolor="#000000">Uniaxial YM, PR, UCS</th>
+<th valign="top" align="center" bgcolor="#000000">Multistage Triaxial</th>
+<th valign="top" align="center" bgcolor="#000000">Reservoir Pressure (psia)</th>
+<th valign="top" align="center" bgcolor="#000000">NCS</th>
+<th valign="top" align="center" bgcolor="#000000">NCS Lab</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center"><b>3</b></td>
+<td valign="top" align="center">1010.4</td>
+<td valign="top" align="center">974.55</td>
+<td valign="top" align="center">6.1</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center"></td>
+<td valign="top" align="center">1433</td>
+<td valign="top" align="center">1051.681</td>
+<td rowspan="6" valign="middle" align="center">1050</td>
+</tr>
+<tr>
+<td valign="top" align="center"><b>10</b></td>
+<td valign="top" align="center">1000.5</td>
+<td valign="top" align="center">964.65</td>
+<td valign="top" align="center">6.3</td>
+<td valign="top" align="center"></td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">1424</td>
+<td valign="top" align="center">1037.147</td>
+</tr>
+<tr>
+<td valign="top" align="center"><b>15</b></td>
+<td valign="top" align="center">990.4</td>
+<td valign="top" align="center">954.55</td>
+<td valign="top" align="center">6.5</td>
+<td valign="top" align="center"></td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">1412</td>
+<td valign="top" align="center">1024.064</td>
+</tr>
+<tr>
+<td valign="top" align="center"><b>33</b></td>
+<td valign="top" align="center">1039.7</td>
+<td valign="top" align="center">1003.85</td>
+<td valign="top" align="center">6.7</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center"></td>
+<td valign="top" align="center">1462</td>
+<td valign="top" align="center">1093.233</td>
+</tr>
+<tr>
+<td valign="top" align="center"><b>35</b></td>
+<td valign="top" align="center">1042.9</td>
+<td valign="top" align="center">1007.05</td>
+<td valign="top" align="center">6.1</td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center"></td>
+<td valign="top" align="center">1465</td>
+<td valign="top" align="center">1097.874</td>
+</tr>
+<tr>
+<td valign="top" align="center"><b>39</b></td>
+<td valign="top" align="center">1051</td>
+<td valign="top" align="center">1015.15</td>
+<td valign="top" align="center">6.4</td>
+<td valign="top" align="center"></td>
+<td valign="top" align="center">1</td>
+<td valign="top" align="center">1475</td>
+<td valign="top" align="center">1108.134</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="5" table-order="4" data-type-order="6">
+<table-wrap id="102118192090MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">Based on Fig. 22, Field B UCS were correlated to be 1810.7 psi and 1932.3 psi. The values were within the range of UCS discussed in the result of IUCS test of Field B Rock Mechanic study. This showed that despite the core length were shorter than required, the results of the Field B sidewall cores IUCS (Refer to Table 2-4) matched the rock strength correlation of nearby Field A and were not overestimated. Fig. 2-3 plotted the result of the 1D Geomechanical model of Field B; the UCS, Internal Friction Coefficient, Poisson Ratio and Young's Modulus. Thus, the Rock Mechanic properties derived from IUCS and MST result of Field B sidewall cores were utilized to calibrate the Mechanical Earth Model and the Sand Onset Study.</anchoringText>
+<label>Table 2-4</label>
+<caption>Field B Rotary Sidewall Core Instrumented Unconfined Compressive Strength Result</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2-4</caption-order>
+<caption-text>Field B Rotary Sidewall Core Instrumented Unconfined Compressive Strength Result</caption-text>
+</formatted-caption>
+<table id="102118192090MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" bgcolor="#000000">Sample No.</th>
+<th valign="top" align="center" bgcolor="#000000">Core Depth (mMDDF)</th>
+<th valign="top" align="center" bgcolor="#000000">Young's Modulus (10<sup>6</sup> psi)</th>
+<th valign="top" align="center" bgcolor="#000000">Poisson's Ratio</th>
+<th valign="top" align="center" bgcolor="#000000">UCS (psi)</th>
+<th valign="top" align="center" bgcolor="#000000">UCS (MPa)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="top" align="center">3</td>
+<td valign="top" align="center">1010.40</td>
+<td valign="top" align="center">0.017</td>
+<td valign="top" align="center">0.137</td>
+<td valign="top" align="center">228</td>
+<td valign="top" align="center">1.572</td>
+</tr>
+<tr>
+<td valign="top" align="center">33</td>
+<td valign="top" align="center">1039.70</td>
+<td valign="top" align="center">0.188</td>
+<td valign="top" align="center">0.285</td>
+<td valign="top" align="center">1334</td>
+<td valign="top" align="center">9.198</td>
+</tr>
+<tr>
+<td valign="top" align="center">35</td>
+<td valign="top" align="center">1042.90</td>
+<td valign="top" align="center">0.393</td>
+<td valign="top" align="center">0.341</td>
+<td valign="top" align="center">2088</td>
+<td valign="top" align="center">14.396</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

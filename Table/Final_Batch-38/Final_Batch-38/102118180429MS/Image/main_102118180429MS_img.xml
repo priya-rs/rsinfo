@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118180429MS.txt" extractionDate="2021-03-22T12:54:09Z">
+<doi>10.2118/180429-MS</doi>
+<pii>10.2118/180429-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="4" figure-order="1" data-type-order="2">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr9">Violating the constant productivity index assumption of the model makes it underperform. In the case of tight reservoirs, applying the CM can be particularly challenging because wells may be stimulated (e.g., fracturing, acid wash/squeezing) frequently, which changes their productivity index. Thus, choosing a time interval (time window), t0 &#x003C; t &#x003C; tmax, to perform connectivity analysis without violating this core assumption becomes tricky (Fig. 1) for large areas containing many wells</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_1.tif" id="ImgLink-1" />
+<caption>Timeline of a sample area containing 6 wells chosen from the East Pembina Field. Trying to find a long time period with no well interventions for CM analysis is challenging</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Timeline of a sample area containing 6 wells chosen from the East Pembina Field. Trying to find a long time period with no well interventions for CM analysis is challenging</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr10">Performing an IWC evaluation over a window area (Figure 2) where there is a flux imbalance however raises a problem, because the CMP is based on material balance. Hence, when the total rate of injectors is significantly different from the total rate of producers, we should add a term to the model to account for the imbalance.</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_2.tif" id="ImgLink-2" />
+<caption>Schematic well pattern showing a sample window and flux imbalance represented with a pseudo well</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Schematic well pattern showing a sample window and flux imbalance represented with a pseudo well</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="3" data-type-order="5">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr11">Figure 3 summarizes the general algorithm of the CMP-PW.</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_3.tif" id="ImgLink-3" />
+<caption>The logic of the CMP-PW</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>The logic of the CMP-PW</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="4" data-type-order="7">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr12">To test this approach, we simulated the production rates from a 5 × 4 homogeneous model with high permeability (Table 3) and BHPs constant employing a commercial simulator. The simulation is run for 299 months and the data are sampled monthly (Figure 4 and Figure 5). When we apply the CM to evaluate IWC for this case, we deliberately exclude I05, so we create an imbalance in the system before running the CM.</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_4.tif" id="ImgLink-4" />
+<caption>Case 1-1 injection rate (sampled monthly)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Case 1-1 injection rate (sampled monthly)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="5" data-type-order="8">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr13">To test this approach, we simulated the production rates from a 5 × 4 homogeneous model with high permeability (Table 3) and BHPs constant employing a commercial simulator. The simulation is run for 299 months and the data are sampled monthly (Figure 4 and Figure 5). When we apply the CM to evaluate IWC for this case, we deliberately exclude I05, so we create an imbalance in the system before running the CM.</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_5.tif" id="ImgLink-5" />
+<caption>Case 1-1 production rate (sampled monthly)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Case 1-1 production rate (sampled monthly)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="6" data-type-order="9">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr14">The CMP-PW successfully estimates the connectivities of I05 (Figure 6). The model accuracy (ie total simulated vs total CM-predicted production rates) is nearly perfect (R2 ≥ 0.99). The plot of the connectivities without a pseudo well vs. the connectivities with a pseudo well shows that points lie on the 1:1 line (Figure 7).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_6.tif" id="ImgLink-6" />
+<caption>Case 1-1 Left figure: CMP-PW values (λ, shown with a line indicating the direction and the magnitude of connectivity) from the model with the pseudo well (I05). Right figure: The pseudo well is placed in the center of the map where only producers are shown</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Case 1-1 Left figure: CMP-PW values (λ, shown with a line indicating the direction and the magnitude of connectivity) from the model with the pseudo well (I05). Right figure: The pseudo well is placed in the center of the map where only producers are shown</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118180429MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118180429MS_i_6a.tif" id="ImgLink-6a" />
+<caption caption-missing="yes">
+<caption-missing-reason>No caption available in source article</caption-missing-reason>
+</caption>
+</image-wrap>
+<image-wrap id="102118180429MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118180429MS_i_6b.tif" id="ImgLink-6b" />
+<caption caption-missing="yes">
+<caption-missing-reason>No caption available in source article</caption-missing-reason>
+</caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="7" data-type-order="10">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr15">The CMP-PW successfully estimates the connectivities of I05 (Figure 6). The model accuracy (ie total simulated vs total CM-predicted production rates) is nearly perfect (R2 ≥ 0.99). The plot of the connectivities without a pseudo well vs. the connectivities with a pseudo well shows that points lie on the 1:1 line (Figure 7).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_7.tif" id="ImgLink-7" />
+<caption>Case 1-1 connectivities from the case I05 excluded vs. connectivities from the case I05 included</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Case 1-1 connectivities from the case I05 excluded vs. connectivities from the case I05 included</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="8" data-type-order="11">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr16">Now we run the model with I05 and without providing the production rate of P04. The model identified the connectivity estimates of P04 with good accuracy, and the rate prediction accuracy is very good (R2 &#x003E; 0.99, Figure 8). The connectivites from the case P04 excluded agree well with the case where all wells are included (Figure 9).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_8.tif" id="ImgLink-8" />
+<caption>Case 1-2 Left: λ maps of the model with the pseudo well (P04). Right: the pseudo well connectivities are shown with bar chart</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Case 1-2 Left: λ maps of the model with the pseudo well (P04). Right: the pseudo well connectivities are shown with bar chart</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="9" data-type-order="12">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr17">Now we run the model with I05 and without providing the production rate of P04. The model identified the connectivity estimates of P04 with good accuracy, and the rate prediction accuracy is very good (R2 &#x003E; 0.99, Figure 8). The connectivites from the case P04 excluded agree well with the case where all wells are included (Figure 9).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_9.tif" id="ImgLink-9" />
+<caption>Case 2-1 connectivitiy values when P04 is excluded vs. the case with P04 included</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Case 2-1 connectivitiy values when P04 is excluded vs. the case with P04 included</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="10" data-type-order="14">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr18">We now test the model with the simulated production rates from a 5 × 4 nearly-homogeneous low permeability model with constant BHPs (Table 4,Figure 10). The simulation is run for 299 months and the data are sampled every 3 months (Figure 11 and Figure 12). Again we create an artificial imbalance by excluding the injector I05.</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_10.tif" id="ImgLink-10" />
+<caption>Case 2 5 × 4 semi-homogeneous model with producers stimulated (-2 skin); production and injection wells are denoted by P and I, respectively</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Case 2 5 × 4 semi-homogeneous model with producers stimulated (-2 skin); production and injection wells are denoted by P and I, respectively</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="11" data-type-order="15">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr19">We now test the model with the simulated production rates from a 5 × 4 nearly-homogeneous low permeability model with constant BHPs (Table 4,Figure 10). The simulation is run for 299 months and the data are sampled every 3 months (Figure 11 and Figure 12). Again we create an artificial imbalance by excluding the injector I05.</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_11.tif" id="ImgLink-11" />
+<caption>Case 2-1 injection rates (sampled every 3 months)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Case 2-1 injection rates (sampled every 3 months)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="12" data-type-order="16">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr20">We now test the model with the simulated production rates from a 5 × 4 nearly-homogeneous low permeability model with constant BHPs (Table 4,Figure 10). The simulation is run for 299 months and the data are sampled every 3 months (Figure 11 and Figure 12). Again we create an artificial imbalance by excluding the injector I05.</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_12.tif" id="ImgLink-12" />
+<caption>Case 2-1 production rates (sampled every 3 months)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Case 2-1 production rates (sampled every 3 months)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="13" data-type-order="17">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr21">The estimated connectivities of I05 in the low permeability model are similar to the corresponding connectivities from the other corner injectors (Figure 13, within 14%). The model accuracy (ie total simulated vs total CM-predicted production rates) is still very high (R2 ≥ 0.99, Figure 14). When compared to the conventional case results (Figs 7 and Figure 9), the points lie along the 1:1 line with slightly larger variation (Figure 15).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_13.tif" id="ImgLink-13" />
+<caption>Case 2-1 CMP-PW values from the model with the pseudo well (I05). The pseudo well connectivities are shown with red lines</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Case 2-1 CMP-PW values from the model with the pseudo well (I05). The pseudo well connectivities are shown with red lines</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="14" data-type-order="18">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr22">The estimated connectivities of I05 in the low permeability model are similar to the corresponding connectivities from the other corner injectors (Figure 13, within 14%). The model accuracy (ie total simulated vs total CM-predicted production rates) is still very high (R2 ≥ 0.99, Figure 14). When compared to the conventional case results (Figs 7 and Figure 9), the points lie along the 1:1 line with slightly larger variation (Figure 15).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_14.tif" id="ImgLink-14" />
+<caption>Case 2-1 CM-predicted total rate vs simulator-based total rate (R<sup>2</sup> ≥ 0.99) – Pseudo well: I05</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Case 2-1 CM-predicted total rate vs simulator-based total rate (R<sup>2</sup> ≥ 0.99) – Pseudo well: I05</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="15" data-type-order="19">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr23">The estimated connectivities of I05 in the low permeability model are similar to the corresponding connectivities from the other corner injectors (Figure 13, within 14%). The model accuracy (ie total simulated vs total CM-predicted production rates) is still very high (R2 ≥ 0.99, Figure 14). When compared to the conventional case results (Figs 7 and Figure 9), the points lie along the 1:1 line with slightly larger variation (Figure 15).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_15.tif" id="ImgLink-15" />
+<caption>Case 2-1 connectivities from the case with I05 excluded vs. connectivities from the case I05 included – low permeability model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Case 2-1 connectivities from the case with I05 excluded vs. connectivities from the case I05 included – low permeability model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="16" data-type-order="20">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr24">In the case when I05 is not included in the CM, the history match (the simulated vs predicted production rates) using the CMP is poor (Figure 16-a). On the other hand, we get a very good match employing the CMP-PW (Figure 16-b).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_16.tif" id="ImgLink-16" />
+<caption>Case 2-1 history match plots from the CMP (a) and the CMP-PW(b) – I05 not in the model a. CMP b. CMP-PW</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Case 2-1 history match plots from the CMP (a) and the CMP-PW(b) – I05 not in the model a. CMP b. CMP-PW</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="17" data-type-order="21">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr25">Here we ran the model for the more realistic case where both a producer (P04) and an injector (I05) are removed from the CMP-PW model. The model estimated the connectivities with reasonable accuracy (Figure 17). The pseudo well is determined to be an injector, which strongly supports P03. This is as we would expect, because in the real case P03 derived substantial support from the removed I05 . The history match accuracy, R2 &#x003E; 0.98 (Figure 18). We found that the direct connectivities deviate from the all-wells-included case values with errors up to 24% (Figure 19).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_17.tif" id="ImgLink-17" />
+<caption>Case 2-2 λ maps of the model with the pseudo well (P04). Additionally, the pseudo well connectivities are shown with column chart</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Case 2-2 λ maps of the model with the pseudo well (P04). Additionally, the pseudo well connectivities are shown with column chart</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="18" data-type-order="22">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr26">Here we ran the model for the more realistic case where both a producer (P04) and an injector (I05) are removed from the CMP-PW model. The model estimated the connectivities with reasonable accuracy (Figure 17). The pseudo well is determined to be an injector, which strongly supports P03. This is as we would expect, because in the real case P03 derived substantial support from the removed I05 . The history match accuracy, R2 &#x003E; 0.98 (Figure 18). We found that the direct connectivities deviate from the all-wells-included case values with errors up to 24% (Figure 19).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_18.tif" id="ImgLink-18" />
+<caption>CM-predicted total rate vs measured total rate (R<sup>2</sup> &#x003E; 0.98) – P04 and I05 removed from the model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>CM-predicted total rate vs measured total rate (R<sup>2</sup> &#x003E; 0.98) – P04 and I05 removed from the model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="19" data-type-order="23">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr27">Here we ran the model for the more realistic case where both a producer (P04) and an injector (I05) are removed from the CMP-PW model. The model estimated the connectivities with reasonable accuracy (Figure 17). The pseudo well is determined to be an injector, which strongly supports P03. This is as we would expect, because in the real case P03 derived substantial support from the removed I05 . The history match accuracy, R2 &#x003E; 0.98 (Figure 18). We found that the direct connectivities deviate from the all-wells-included case values with errors up to 24% (Figure 19).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_19.tif" id="ImgLink-19" />
+<caption>Connectivities from the case P04 and I05 removed vs. connectivities from the case all wells included – low permeability model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Connectivities from the case P04 and I05 removed vs. connectivities from the case all wells included – low permeability model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="20" data-type-order="24">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr28">In a balanced injection/production case, the CMP-PW model can accommodate a reasonable range of fluid-rock system compressibilities caused by a local injection volume imbalance. To demonstrate this, we added a barrier between I01 and P01 in the semi-homogeneous 5 × 4 model (Figure 20). In this low permeability model, adding the barrier creates a local imbalance in that portion of the model.</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-20">
+<label>Figure 20 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_20.tif" id="ImgLink-20" />
+<caption>Case 3 5 × 4 semi-homogeneous model with an impermeable barrier between I01 and P01</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Case 3 5 × 4 semi-homogeneous model with an impermeable barrier between I01 and P01</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="21" data-type-order="25">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr29">Plots of APW-producer vs τproducer show that pseudo well connectivity increases with an increasing time constant for 8*10-6 1/psi ≤ Ct ≤ 1*10-5 1/psi(Figure 21). Within the specific compressibility range, we observe the relation between APW-producer vs Tproducer appears and the slope of the relation decreases as the system becomes more compressible.</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-21">
+<label>Figure 21 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_21.tif" id="ImgLink-21" />
+<caption>Case 3 λ<sub>PW-producer</sub> vs τ<sub>producer</sub> plots for different system compressibilities (c<sub>t </sub>’s)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>21</caption-order>
+<caption-text>Case 3 λ<sub>PW-producer</sub> vs τ<sub>producer</sub> plots for different system compressibilities (c<sub>t </sub>’s)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="22" data-type-order="26">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr30">In a balanced system, for the applicable range of compressibility, the CMP-PW pseudo well accounting for the fluid left in the low permeability model distributes it to the producers with preference given to the wells with longer time constants (e.g., P02 and P01). Sample injection allocation factors are shown with the connectivity map for the case with ct = 8*10-6 1/psi (Figure 22).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-22">
+<label>Figure 22 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_22.tif" id="ImgLink-22" />
+<caption>Case 3 λ map of the model with c<sub>t</sub> = 8*10<sup>–6</sup> 1/psi</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>22</caption-order>
+<caption-text>Case 3 λ map of the model with c<sub>t</sub> = 8*10<sup>–6</sup> 1/psi</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="23" data-type-order="29">
+<link href="link-23" type="image" />
+<appendix>
+<linkTarget id="link-23" type="image">
+<anchoringText id="Ancr31">To illustrate this, we use the same 5 × 4 semi-homogeneous model for testing used in Case 2. For this case, P01 has a shut-in time of 15 months, and the CMP-PW predicted production rates better match the simulated rates than the comseg-CM (Table 5). The CMP-PW results are less affected by the long shut-in (Figure 23).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-23">
+<label>Figure 23 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_23.tif" id="ImgLink-23" />
+<caption>Case 4 CMP-PW estimated λs with P01 shut-in are in good agreement with the λs obtained without the shut-in condition</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>23</caption-order>
+<caption-text>Case 4 CMP-PW estimated λs with P01 shut-in are in good agreement with the λs obtained without the shut-in condition</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="24" data-type-order="30">
+<link href="link-24" type="image" />
+<appendix>
+<linkTarget id="link-24" type="image">
+<anchoringText id="Ancr32">On the other hand, the results from the CMP-PW reveals that the heterogeneity in τ’s is obvious and detectable. To show that, we used a 1 × 4 heterogeneous model (Figure 24) which has the same properties with the previous models except has curved relative permeability curves (Figure 25). Near wellbore regions of producers are enhanced. The flow rates are sampled for every 3 months up to 135 months (Figure 26).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-24">
+<label>Figure 24 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_24.tif" id="ImgLink-24" />
+<caption>1 × 4 heterogeneous model with a low permeable barrier between I01 and P04</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>24</caption-order>
+<caption-text>1 × 4 heterogeneous model with a low permeable barrier between I01 and P04</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="25" data-type-order="31">
+<link href="link-25" type="image" />
+<appendix>
+<linkTarget id="link-25" type="image">
+<anchoringText id="Ancr33">On the other hand, the results from the CMP-PW reveals that the heterogeneity in τ’s is obvious and detectable. To show that, we used a 1 × 4 heterogeneous model (Figure 24) which has the same properties with the previous models except has curved relative permeability curves (Figure 25). Near wellbore regions of producers are enhanced. The flow rates are sampled for every 3 months up to 135 months (Figure 26).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-25">
+<label>Figure 25 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_25.tif" id="ImgLink-25" />
+<caption>Relative permeability curves</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>25</caption-order>
+<caption-text>Relative permeability curves</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="26" data-type-order="32">
+<link href="link-26" type="image" />
+<appendix>
+<linkTarget id="link-26" type="image">
+<anchoringText id="Ancr34">On the other hand, the results from the CMP-PW reveals that the heterogeneity in τ’s is obvious and detectable. To show that, we used a 1 × 4 heterogeneous model (Figure 24) which has the same properties with the previous models except has curved relative permeability curves (Figure 25). Near wellbore regions of producers are enhanced. The flow rates are sampled for every 3 months up to 135 months (Figure 26).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-26">
+<label>Figure 26 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_26.tif" id="ImgLink-26" />
+<caption>Injection rate – I01 (sampled every 3 months)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>26</caption-order>
+<caption-text>Injection rate – I01 (sampled every 3 months)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="27" data-type-order="33">
+<link href="link-27" type="image" />
+<appendix>
+<linkTarget id="link-27" type="image">
+<anchoringText id="Ancr35">We ran the model for the porosities of 7 and 9 percent and for the case with 7 percent porosity we tested the estimate stability by running the CM 15 times (Figure 27 and Figure 28). The standard deviations of estimates are very low, which reveals that the λs and τs do not vary significantly for every run. τs from the both models are reasonable and as expected, showing that P04 gets the least benefit from the injector. However, when it comes to the interpretation of the τs, the results from the models differ.</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-27">
+<label>Figure 27 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_27.tif" id="ImgLink-27" />
+<caption>λs from the CM and the CMP-PW and their standard deviations (σ) for 15 runs – ϕ = 7%</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>27</caption-order>
+<caption-text>λs from the CM and the CMP-PW and their standard deviations (σ) for 15 runs – ϕ = 7%</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="28" data-type-order="34">
+<link href="link-28" type="image" />
+<appendix>
+<linkTarget id="link-28" type="image">
+<anchoringText id="Ancr36">We ran the model for the porosities of 7 and 9 percent and for the case with 7 percent porosity we tested the estimate stability by running the CM 15 times (Figure 27 and Figure 28). The standard deviations of estimates are very low, which reveals that the λs and τs do not vary significantly for every run. τs from the both models are reasonable and as expected, showing that P04 gets the least benefit from the injector. However, when it comes to the interpretation of the τs, the results from the models differ.</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-28">
+<label>Figure 28 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_28.tif" id="ImgLink-28" />
+<caption>τs from the CM and the CMP-PW and their standard deviations (σ) for 15 runs – ϕ = 7%</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>28</caption-order>
+<caption-text>τs from the CM and the CMP-PW and their standard deviations (σ) for 15 runs – ϕ = 7%</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="19" figure-order="29" data-type-order="35">
+<link href="link-29" type="image" />
+<appendix>
+<linkTarget id="link-29" type="image">
+<anchoringText id="Ancr37">As the porosity increases, we observe that the ordinary CM can detect the effect of the low permeable barrier (Figure 29). But it fails to determine the difference in τs of the left 3 producers, where the CMP-PW does. We have also tested this case with high permeability, which gives identical results (Figure 30). The reason of P02 is larger than the s of P01 and P03 is due to the pore volume controlled by P02. Since P04 is blocked with the barrier, the pressure disturbance affects P02 with the largest control volume (Figure 31).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-29">
+<label>Figure 29 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_29.tif" id="ImgLink-29" />
+<caption>λs and τs from the CM with/without pseudo well – ϕ = 9%</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>29</caption-order>
+<caption-text>λs and τs from the CM with/without pseudo well – ϕ = 9%</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="20" figure-order="30" data-type-order="36">
+<link href="link-30" type="image" />
+<appendix>
+<linkTarget id="link-30" type="image">
+<anchoringText id="Ancr38">As the porosity increases, we observe that the ordinary CM can detect the effect of the low permeable barrier (Figure 29). But it fails to determine the difference in τs of the left 3 producers, where the CMP-PW does. We have also tested this case with high permeability, which gives identical results (Figure 30). The reason of P02 is larger than the s of P01 and P03 is due to the pore volume controlled by P02. Since P04 is blocked with the barrier, the pressure disturbance affects P02 with the largest control volume (Figure 31).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-30">
+<label>Figure 30 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_30.tif" id="ImgLink-30" />
+<caption>τs from the CM with/without pseudo well – ϕ =- 9%, k = 100 md</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>30</caption-order>
+<caption-text>τs from the CM with/without pseudo well – ϕ =- 9%, k = 100 md</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="20" figure-order="31" data-type-order="37">
+<link href="link-31" type="image" />
+<appendix>
+<linkTarget id="link-31" type="image">
+<anchoringText id="Ancr39">As the porosity increases, we observe that the ordinary CM can detect the effect of the low permeable barrier (Figure 29). But it fails to determine the difference in τs of the left 3 producers, where the CMP-PW does. We have also tested this case with high permeability, which gives identical results (Figure 30). The reason of P02 is larger than the s of P01 and P03 is due to the pore volume controlled by P02. Since P04 is blocked with the barrier, the pressure disturbance affects P02 with the largest control volume (Figure 31).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-31">
+<label>Figure 31 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_31.tif" id="ImgLink-31" />
+<caption>Pressure map of the 1 × 4 model (warm color – high pressure, cold color – low pressure)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>31</caption-order>
+<caption-text>Pressure map of the 1 × 4 model (warm color – high pressure, cold color – low pressure)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="21" figure-order="32" data-type-order="38">
+<link href="link-32" type="image" />
+<appendix>
+<linkTarget id="link-32" type="image">
+<anchoringText id="Ancr40">In this work, we used the CM-PW to evaluate interwell connectivity in two areas from the East Pembina Field (Figure 32). The field was under primary depletion until 1967, when waterflooding began. It produces 37° API oil and the average permeability of the producing zone is about 0.7 md (IHS Accumap, 2014).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-32">
+<label>Figure 32 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_32.tif" id="ImgLink-32" />
+<caption>East Pembina field – conglomerate thickness map (edited from Krause et al. 1994); contours are in meters and orange colored regions are the chosen window areas</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>32</caption-order>
+<caption-text>East Pembina field – conglomerate thickness map (edited from <link href="BIB2">Krause et al. 1994)</link>; contours are in meters and orange colored regions are the chosen window areas</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-46" type="bib">
+<bib id="BIB2">
+<label>Krause et al. 1994)</label>
+<author>
+<first-name>F. F.</first-name>
+<last-name>Krause</last-name>
+</author>, <author><first-name>H. N.</first-name><last-name>Collins</last-name></author>, <author><first-name>D. A.</first-name><last-name>Nelson</last-name></author>, <author><first-name>S. D.</first-name><last-name>Machemer</last-name></author>, <author><first-name>P. R.</first-name><last-name>French</last-name></author> <article-title>(1987). Multiscale Anatomy of a Reservoir: Geological Characterization of Pembina-Cardium Pool, West-Central Alberta, Canada </article-title>. <i><journal-title>The American Association of Petroleum Geologists Bulletin </journal-title></i><i>, </i>Volume <b><volume>71</volume></b><b>, </b>No.<issue>10</issue>, <pubDate>October 1987</pubDate>, Pages <pages><first-page>1233</first-page><last-page>1260</last-page></pages>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="22" figure-order="33" data-type-order="39">
+<link href="link-33" type="image" />
+<appendix>
+<linkTarget id="link-33" type="image">
+<anchoringText id="Ancr41">In the first window area (Figure 33), there are 4 producers and one injector. We have chosen three time windows to study the effects of well treatments on interwell connectivity (Figure 34). We obtained a very good match between CMP-PW predicted and measured rates for all the three windows (Table 7).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-33">
+<label>Figure 33 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_33.tif" id="ImgLink-33" />
+<caption>Window I62</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>33</caption-order>
+<caption-text>Window I62</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="22" figure-order="34" data-type-order="40">
+<link href="link-34" type="image" />
+<appendix>
+<linkTarget id="link-34" type="image">
+<anchoringText id="Ancr42">In the first window area (Figure 33), there are 4 producers and one injector. We have chosen three time windows to study the effects of well treatments on interwell connectivity (Figure 34). We obtained a very good match between CMP-PW predicted and measured rates for all the three windows (Table 7).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-34">
+<label>Figure 34 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_34.tif" id="ImgLink-34" />
+<caption>Window I62 well treatment timeline. (I62 and P219 were intermittently suspended)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>34</caption-order>
+<caption-text>Window I62 well treatment timeline. (I62 and P219 were intermittently suspended)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="23" figure-order="35" data-type-order="42">
+<link href="link-35" type="image" />
+<appendix>
+<linkTarget id="link-35" type="image">
+<anchoringText id="Ancr43">The analysis of the first time window shows that the normalized connectivities between well pairs I62-P224 and I62-P219 are large (Figure 35). Since the pseudo well connectivity is directed towards the conglomerate bearing zone in the east, we infer that the conglomerate bearing zone contributes to the connectivities in this window, especially to the production of P219 and P184.</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-35">
+<label>Figure 35 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_35.tif" id="ImgLink-35" />
+<caption>Window I62 – the connectivity map where P224 and P219 are fractured (1<sup>st</sup> time window)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>35</caption-order>
+<caption-text>Window I62 – the connectivity map where P224 and P219 are fractured (1<sup>st</sup> time window)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="23" figure-order="36" data-type-order="43">
+<link href="link-36" type="image" />
+<appendix>
+<linkTarget id="link-36" type="image">
+<anchoringText id="Ancr44">Core data from unfractured wells P225 and P184 also suggest the presence of conglomerate in the east, since the flow capacity (permeability-thickness product, kh) of P184 is 2 ½ times that of well P225. A plot of λ’ vs kmaxh shows the well P184 having higher kmaxh than P225 possesses a strong positive connection with the injector whereas P225 has a negative λ’ (Figure 36).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-36">
+<label>Figure 36 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_36.tif" id="ImgLink-36" />
+<caption>λ’ vs k<sub>max</sub>h chart of the initially unfractured wells P184 and P225</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>36</caption-order>
+<caption-text>λ’ vs k<sub>max</sub>h chart of the initially unfractured wells P184 and P225</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="23" figure-order="37" data-type-order="44">
+<link href="link-37" type="image" />
+<appendix>
+<linkTarget id="link-37" type="image">
+<anchoringText id="Ancr45">P225 is the only well having λ’ &#x003C; 0. It appears the operator may have identified this issue. The well was acid squeezed twice and fractured with 8.5 tons of 10/20 sand after the first window (AER Database). Connectivity analysis in the second time window (Figure 37) indicates the connectivity of P225 increased by 0.16 (i.e., Δλ’ = λ’win2 – λ’ win1 = 0.16), and the connectivity of I62 with other producers either decreased (I62 – P184) or remained the same (I62 – P219).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-37">
+<label>Figure 37 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_37.tif" id="ImgLink-37" />
+<caption>Window I62 – the connectivity map after acid squeezing and fracturing P225 (2<sup>nd</sup> window time)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>37</caption-order>
+<caption-text>Window I62 – the connectivity map after acid squeezing and fracturing P225 (2<sup>nd</sup> window time)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="24" figure-order="38" data-type-order="45">
+<link href="link-38" type="image" />
+<appendix>
+<linkTarget id="link-38" type="image">
+<anchoringText id="Ancr46">The 2nd window period IWC analysis reveals that, after the well treatments at other producers, injection support from I62 towards P184 diminished. Perhaps the operator was also aware of this problem. In 1986, P184 was fractured with 27 tons of 20/40 sand (AER Database). The connectivities in the window area are again changed (Figure 38).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-38">
+<label>Figure 38 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_38.tif" id="ImgLink-38" />
+<caption>Window I62 – the connectivity map after fracturing P184 (3<sup>rd</sup> window time)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>38</caption-order>
+<caption-text>Window I62 – the connectivity map after fracturing P184 (3<sup>rd</sup> window time)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="24" figure-order="39" data-type-order="46">
+<link href="link-39" type="image" />
+<appendix>
+<linkTarget id="link-39" type="image">
+<anchoringText id="Ancr47">A plot of Δ λ’ vs proppant tonnage for the treatments of wells P225 and P184 shows a direct proportion (Figure 39), where we have added the point at the origin on the basis that zero proppant should leave the connectivity unchanged.</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-39">
+<label>Figure 39 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_39.tif" id="ImgLink-39" />
+<caption>Δλ’ vs proppant tonnage</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>39</caption-order>
+<caption-text>Δλ’ vs proppant tonnage</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="25" figure-order="40" data-type-order="48">
+<link href="link-40" type="image" />
+<appendix>
+<linkTarget id="link-40" type="image">
+<anchoringText id="Ancr48">Prior to the first time window, all 4 producers were fractured (Figure 40). The CMP-PW analysis (Figure 41) reveals that the largest connectivities are oriented in the NE-SW direction, which is consistent with the direction of maximum horizontal principal stress in the region (Bell et al., 1994).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-40">
+<label>Figure 40 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_40.tif" id="ImgLink-40" />
+<caption>Timeline of the Window I40-I37-I18</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>40</caption-order>
+<caption-text>Timeline of the Window I40-I37-I18</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="25" figure-order="41" data-type-order="49">
+<link href="link-41" type="image" />
+<appendix>
+<linkTarget id="link-41" type="image">
+<anchoringText id="Ancr49">Prior to the first time window, all 4 producers were fractured (Figure 40). The CMP-PW analysis (Figure 41) reveals that the largest connectivities are oriented in the NE-SW direction, which is consistent with the direction of maximum horizontal principal stress in the region (Bell et al., 1994).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-41">
+<label>Figure 41 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_41.tif" id="ImgLink-41" />
+<caption>Window I40-I37-I18 – connectivity map of the first time window (The direction of larger horizontal principal stress in the region is NE-SW.)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>41</caption-order>
+<caption-text>Window I40-I37-I18 – connectivity map of the first time window (The direction of larger horizontal principal stress in the region is NE-SW.)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="26" figure-order="42" data-type-order="50">
+<link href="link-42" type="image" />
+<appendix>
+<linkTarget id="link-42" type="image">
+<anchoringText id="Ancr50">Before the second time window, P145 was fractured again, although the reasons are unclear because the CMP-PW analysis suggests this well was supported by both I37 and I40. After the P145 refracture, connectivity with I37 and I40 decreased and P127 is the only well having positive normalized connectivity (Figure 42).</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-42">
+<label>Figure 42 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_42.tif" id="ImgLink-42" />
+<caption>Window I40-I37-I18 – the connectivity map of the second time window (P128 abandoned, P145 fractured)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>42</caption-order>
+<caption-text>Window I40-I37-I18 – the connectivity map of the second time window (P128 abandoned, P145 fractured)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="26" figure-order="43" data-type-order="51">
+<link href="link-43" type="image" />
+<appendix>
+<linkTarget id="link-43" type="image">
+<anchoringText id="Ancr51">The second period analysis shows that P145 does not benefit from the nearby injectors. P145 was fractured for the third time prior to the third window period (Figure 40). Re-fracturing P145 does not appear to have been effective (Figure 43); I40 decreased connectivity with the surrounding producers.</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-43">
+<label>Figure 43 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_43.tif" id="ImgLink-43" />
+<caption>Window I40-I37-I18 – the connectivity map of the third time window (P145 fractured)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>43</caption-order>
+<caption-text>Window I40-I37-I18 – the connectivity map of the third time window (P145 fractured)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="27" figure-order="44" data-type-order="52">
+<link href="link-44" type="image" />
+<appendix>
+<linkTarget id="link-44" type="image">
+<anchoringText id="Ancr52">It appears that injector induced fractures controlled the connectivity distribution of I40 during window 1 (Figure 44). Having the steepest slope of the plot and the largest connectivities oriented in the direction of larger horizontal stress in the first time window suggests there may be an injector induced fracture. When the slope of the plot decreases in the second time window, we observe that the connection with P145 was lost.</anchoringText>
+<image-wrap id="102118180429MS-Img_SPi-44">
+<label>Figure 44 </label>
+<imageLink type="mediaResource" href="102118180429MS_i_44.tif" id="ImgLink-44" />
+<caption>Cumulative injected volume with respect to time for injection well I40 (1, 2 and 3 show the corresponding time windows)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>44</caption-order>
+<caption-text>Cumulative injected volume with respect to time for injection well I40 (1, 2 and 3 show the corresponding time windows)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

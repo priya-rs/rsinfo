@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118178120MS.txt" extractionDate="2021-03-19T17:54:29Z">
+<doi>10.2118/178120-MS</doi>
+<pii>10.2118/178120-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr1"> </anchoringText>
+<image-wrap id="102118178120MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118178120MS_i_1.tif" id="ImgLink-1" />
+<caption>Workflow to optimize field development strategy and maximize recovery of a shale play</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Workflow to optimize field development strategy and maximize recovery of a shale play</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr2">Effective Half Frac Length (EHFL): It is the length of the stimulated rock volume (SRV) on each side of the wellbore which mainly contributes to the estimated ultimate recovery (EUR) of a well. Understanding effective half frac length properly is required for optimizing the well spacing for the wells drilled within the same stratigraphic level (Figure-2).</anchoringText>
+<image-wrap id="102118178120MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118178120MS_i_2.tif" id="ImgLink-2" />
+<caption>Schematic section showing Elements of Effective Fracture Geometry</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Schematic section showing Elements of Effective Fracture Geometry</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="4" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr3">The strength of the microseismic events can vary considerably, resulting in an apparently greater event density close to the sensor array. Understanding the detection limit is important when interpreting fracture geometry and comparing stimulation treatments (Cipolla, 2011). The magnitude-versus-distance can be used to estimate a minimum event magnitude that can be detected throughout the total range of distances where microseismic activity has been detected (Figure-3; Step-1).</anchoringText>
+<image-wrap id="102118178120MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118178120MS_i_3.tif" id="ImgLink-3" />
+<caption>Steps to filter and condition the raw microseismic data before effective frac geometry estimation.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Steps to filter and condition the raw microseismic data before effective frac geometry estimation.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118178120MS-Img_SPi-3a">
+<imageLink type="mediaResource" href="102118178120MS_i_3a.tif" id="ImgLink-3a" />
+<figure-specific-caption>
+<caption-order>Step-1</caption-order>
+<caption-text>Observation Well Bias</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178120MS-Img_SPi-3b">
+<imageLink type="mediaResource" href="102118178120MS_i_3b.tif" id="ImgLink-3b" />
+<figure-specific-caption>
+<caption-order>Step-2</caption-order>
+<caption-text>Selecting High Quality Events</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178120MS-Img_SPi-3c">
+<imageLink type="mediaResource" href="102118178120MS_i_3c.tif" id="ImgLink-3c" />
+<figure-specific-caption>
+<caption-order>Step-3</caption-order>
+<caption-text>Selecting the Events within Zone of Interest</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118178120MS-Img_SPi-3d">
+<imageLink type="mediaResource" href="102118178120MS_i_3d.tif" id="ImgLink-3d" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Final Events for Interpretation of EHFL and EFH</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="4">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr4">Before applying this approach to estimate the effective frac half-length, SRV at each 10 ft. interval from both the sides of the wellbore are estimated (as shown by different color boxes). Incremental SRV%of each interval is then calculated with respect to the previous interval and plotted against the half-frac-length and frac height (Figure-4 A, B). It is observed that near the wellbore the SRV is much higher and when we move away from the well bore, the incremental SRV is decreasing. At a certain frac half length, the incremental SRV% becomes negligible and almost constant (Figure-4 C).</anchoringText>
+<image-wrap id="102118178120MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118178120MS_i_4.tif" id="ImgLink-4" />
+<caption>SRV calculation methodology</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>SRV calculation methodology</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="5">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr5">Figure-5 below shows a DFN model simulated using actual data sets as mentioned above for a selected well. The first track indicates the stress regime around the well bore which is taken as an input to the model. Other tracks are the model outputs indicating fracture width; fracture height and frac half length. Since we are mainly focusing on the effective fracture height in this study so that we can understand the effective drainage area and further scope of staggered or stack drilling. In the right most track, the effective frac height is around 120 ft. and is colored by orange-green.</anchoringText>
+<image-wrap id="102118178120MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118178120MS_i_5.tif" id="ImgLink-5" />
+<caption>Effective frac height and length shown on discrete fracture network model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Effective frac height and length shown on discrete fracture network model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="6">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr6">In this study we are more focused to understand the communi-cation between two wells drilled in two different stratigraphic levels i.e. one in upper and another in lower part of a shale reservoir. To understand the communication between two wells drilled in upper and lower part of a shale reservoir, To understand the communication between two wells drilled in upper and lower part of a shale reservoir, some portion of one well (in a 3 well pad set up) has been drilled trough upper part of the reservoir (Figure-6). RA tracer survey is conducted on this pad.</anchoringText>
+<image-wrap id="102118178120MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118178120MS_i_6.tif" id="ImgLink-6" />
+<caption>RA Tracer analysis to understand the communication between two wells drilled in different stratigraphic section of the shale reservoir.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>RA Tracer analysis to understand the communication between two wells drilled in different stratigraphic section of the shale reservoir.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="7" data-type-order="7">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr7">The effective fracture growth, mainly in term of frac height is understood by the above two techniques i.e. microseismic analysis and frac modeling. Both the techniques revealed that the upper part of the reservoir is left behind as un-drained zone and could not be exploited by the well drilled in the lower part (Figure-7).</anchoringText>
+<image-wrap id="102118178120MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118178120MS_i_7.tif" id="ImgLink-7" />
+<caption>Microseismic and frac model revealing the effectively drained and the un-drained part of the reservoir.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Microseismic and frac model revealing the effectively drained and the un-drained part of the reservoir.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="8" data-type-order="8">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr8">From the plots, we have observed that the wells with good production (140 Mcfed/1000 ft. lateral lengths) are having hydrocarbon filled porosity more than 5.5% and clay volume less than 35% (Figure-8 &amp; 9). A carbonate/quartz ratio greater than 4, between 2 &amp; 4 and less than 2 represents three different scenarios: i) high carbonate percentage-low TOC-poor production ii) moderate carbonate percentage-medium TOC-intermediate production and iii) higher quartz percentage-higher TOC-better production respectively (Figure-10).</anchoringText>
+<image-wrap id="102118178120MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118178120MS_i_8.tif" id="ImgLink-8" />
+<caption>Cross plot showing the relationship between HC filled porosity and normalized production.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Cross plot showing the relationship between HC filled porosity and normalized production.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="9" data-type-order="9">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr9">From the plots, we have observed that the wells with good production (140 Mcfed/1000 ft. lateral lengths) are having hydrocarbon filled porosity more than 5.5% and clay volume less than 35% (Figure-8 &amp; 9). A carbonate/quartz ratio greater than 4, between 2 &amp; 4 and less than 2 represents three different scenarios: i) high carbonate percentage-low TOC-poor production ii) moderate carbonate percentage-medium TOC-intermediate production and iii) higher quartz percentage-higher TOC-better production respectively (Figure-10).</anchoringText>
+<image-wrap id="102118178120MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118178120MS_i_9.tif" id="ImgLink-9" />
+<caption>Cross plot showing an inverse relationship between clay volume and production.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Cross plot showing an inverse relationship between clay volume and production.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="10">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr10">From the plots, we have observed that the wells with good production 140 Mcfed/1000 ft. lateral lengths) are having hydrocarbon filled porosity more than 5.5% and clay volume less than 35% (Figure-8 &amp; 9). A carbonate/quartz ratio greater than 4, between 2 &amp; 4 and less than 2 represents three different scenarios: i) high carbonate percentage-low TOC-poor production ii) moderate carbonate percentage-medium TOC-intermediate production and iii) higher quartz percentage-higher TOC-better production respectively (Figure-10).</anchoringText>
+<image-wrap id="102118178120MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118178120MS_i_10.tif" id="ImgLink-10" />
+<caption>Cross plot showing the relationship among TOC, Calcite/Quartz Ratio and production.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Cross plot showing the relationship among TOC, Calcite/Quartz Ratio and production.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="11" data-type-order="11">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr11">Out of these nine stratigraphic units, the lower 4-5 units are effectively drained by the well placed in the lower part of the reservoir. But the upper four units remain un-drained. Out of these four units or zones, zone-3A &amp; zone-3B are identified as best part within the un-drained zone in terms of hydrocarbon filled porosity, TOC, Vclay and hydrocarbon inplace. Any well to be drilled to exploit the above said un-drained zone of the reservoir should be placed within zone-3A &amp; zone-3B (Figure-11)(Sahoo et al, 2015).</anchoringText>
+<image-wrap id="102118178120MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118178120MS_i_11.tif" id="ImgLink-11" />
+<caption>High frequency stratigraphic characterization of a shale play to identify the best zone for lateral placement</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>High frequency stratigraphic characterization of a shale play to identify the best zone for lateral placement</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="12" data-type-order="12">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr12">With down spacing, the well density increases and ultimately EUR/well decreases due to well interference. However the field recovery goes northward as more reservoir volume is stimulated by drilling more of wells (Figure-12). So the exploitation of the un-drained portion of the shale reservoir through down spacing and staggered drilling is mostly dependent on EUR degradation model and gas/oil price environment.</anchoringText>
+<image-wrap id="102118178120MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118178120MS_i_12.tif" id="ImgLink-12" />
+<caption>Economic impact on well spacing (Modified after NSAI)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Economic impact on well spacing (Modified after NSAI)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

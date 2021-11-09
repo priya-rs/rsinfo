@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118179810MS.txt" extractionDate="2021-03-18T16:01:52Z">
+<doi>10.2118/179810-MS</doi>
+<pii>10.2118/179810-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="6" table-order="1" data-type-order="5">
+<table-wrap id="102118179810MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The dynamic model after history match has been used to model approximately 180 deterministic runs by combining the uncertainties given in Table 1. Field level incremental RF for Phase 3B ranges from 0 to 7 % up to 2045 and it reaches 12.5 % when the forecast is extended to 2070. Similarly, Cumulative GUF (Gas Utilization Factor: Cumulative gas injection divided by cumulative incremental oil production) range is 3–15 Kscf/stb up to 2045 and it reaches to 27 Kscf/stb when the forecast is extended to 2070. It should be noted that PDO does not 2045 to constraint reported UR.</anchoringText>
+<label>Table 1</label>
+<caption>Phase 3B Forecast cases</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Phase 3B Forecast cases</caption-text>
+</formatted-caption>
+<table id="102118179810MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="left">Parameters</th>
+<th valign="bottom" align="left">Range</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">HM</td>
+<td valign="bottom" align="left">6 models (1, 2, 3, 4,5&amp;6)
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Frac Height</td>
+<td valign="bottom" align="left">3 cases (100, 200 &amp; 300 m)</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Injection Pressure</td>
+<td valign="bottom" align="left">3 cases (550, 650 &amp;750 bar)</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Injection Rate</td>
+<td valign="bottom" align="left">6 cases (0.4, 1.0, 1.4, 1.7, 2.4 &amp; 3.0 MMm3/day) which includes continual of Phase 3A</td>
+</tr>
+<tr>
+<td align="left">Well Count</td>
+<td align="left">4 cases {only Production with 12 wells (12P), only injection with 8 injectors (8inj), 6inj+9P, 8Inj + 12P}</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="7" table-order="2" data-type-order="7">
+<table-wrap id="102118179810MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">Impact of changing injection rate from 0.4 MMm3/day to 3.0 MMm3/day is summarized in the Table 2. UR is increasing with injection rate, especially for 2070 case (i.e. 2.5 to 8.4 %). Therefore, as expected the higher the Gas injection the higher the UR.</anchoringText>
+<label>Table 2</label>
+<caption>Effect of Injection rate on UR</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Effect of Injection rate on UR</caption-text>
+</formatted-caption>
+<table id="102118179810MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="bottom" align="center">Case</th>
+<th rowspan="2" valign="bottom" align="center">Case</th>
+<th rowspan="2" valign="bottom" align="center">Frac Height, m</th>
+<th rowspan="2" valign="bottom" align="center">Inj.Pres, bar</th>
+<th rowspan="2" valign="bottom" align="center">inj, MMm3/day</th>
+<th colspan="2" valign="bottom" align="center">Field Level</th>
+<th colspan="2" valign="bottom" align="center">MGI Effective area</th>
+</tr>
+<tr>
+<th valign="bottom" align="center">Incremental Rf_2045</th>
+<th valign="bottom" align="center">Incremental Rf_2070</th>
+<th valign="bottom" align="center">Incremental Rf_2045</th>
+<th valign="bottom" align="center">Incremental Rf_2070</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Inj-0.4</td>
+<td valign="bottom" align="center">HM5</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">650</td>
+<td valign="bottom" align="center">0.40</td>
+<td valign="bottom" align="center">1.8%</td>
+<td valign="bottom" align="center">2.5%</td>
+<td valign="bottom" align="center">5.3%</td>
+<td valign="bottom" align="center">7.5%</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">inj-1</td>
+<td valign="bottom" align="center">HM5</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">650</td>
+<td valign="bottom" align="center">1.00</td>
+<td valign="bottom" align="center">3.7%</td>
+<td valign="bottom" align="center">5.5%</td>
+<td valign="bottom" align="center">11.1%</td>
+<td valign="bottom" align="center">16.4%</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Inj-1.4</td>
+<td valign="bottom" align="center">HM5</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">650</td>
+<td valign="bottom" align="center">1.40</td>
+<td valign="bottom" align="center">4.4%</td>
+<td valign="bottom" align="center">6.6%</td>
+<td valign="bottom" align="center">13.1%</td>
+<td valign="bottom" align="center">19.9%</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Inj-1.7</td>
+<td valign="bottom" align="center">HM5</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">650</td>
+<td valign="bottom" align="center">1.70</td>
+<td valign="bottom" align="center">4.6%</td>
+<td valign="bottom" align="center">7.3%</td>
+<td valign="bottom" align="center">13.9%</td>
+<td valign="bottom" align="center">21.3%</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Inj-2.4</td>
+<td valign="bottom" align="center">HM5</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">650</td>
+<td valign="bottom" align="center">2.40</td>
+<td valign="bottom" align="center">4.3%</td>
+<td valign="bottom" align="center">8.2%</td>
+<td valign="bottom" align="center">14.4%</td>
+<td valign="bottom" align="center">24.6%</td>
+</tr>
+<tr>
+<td align="left">Inj-3.02</td>
+<td align="center">HM5</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">650</td>
+<td align="center">3.02</td>
+<td align="center">4.3%</td>
+<td align="center">8.4%</td>
+<td align="center">14.4%</td>
+<td align="center">25.3%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="8" table-order="3" data-type-order="8">
+<table-wrap id="102118179810MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Four different scenarios have been tested using different number of wells (injectors and producers). Results are summarized in the Table 3. Impact of adding only production wells is very limited. Adding only injection wells has resulted in a reasonable UR increase. Adding combination of injection wells and production wells shows the largest positive impact on UR.</anchoringText>
+<label>Table 3</label>
+<caption>Effect of well count on UR</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Effect of well count on UR</caption-text>
+</formatted-caption>
+<table id="102118179810MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="bottom" align="center">Case</th>
+<th rowspan="2" valign="bottom" align="center">Case</th>
+<th rowspan="2" valign="bottom" align="center">FracHeight, n</th>
+<th rowspan="2" valign="bottom" align="center">Inj.Pres, bar</th>
+<th rowspan="2" valign="bottom" align="center">inj, MMm3/day</th>
+<th colspan="2" valign="bottom" align="center">Field Level</th>
+<th colspan="2" valign="bottom" align="center">MGI Effective area</th>
+</tr>
+<tr>
+<th valign="bottom" align="center">Incremental Rf_2045</th>
+<th valign="bottom" align="center">Incremental Rf_2070</th>
+<th valign="bottom" align="center">Incremental Rf_2045</th>
+<th valign="bottom" align="center">Incremental Rf_2070</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">only Prod (12)</td>
+<td valign="bottom" align="center">HM5</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">650</td>
+<td valign="bottom" align="center">0.40</td>
+<td valign="bottom" align="center">0.6%</td>
+<td valign="bottom" align="center">0.2%</td>
+<td valign="bottom" align="center">1.8%</td>
+<td valign="bottom" align="center">0.7%</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">only inj (8 inj)</td>
+<td valign="bottom" align="center">HM5</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">650</td>
+<td valign="bottom" align="center">3.00</td>
+<td align="center">2.4%</td>
+<td align="center">5.2%</td>
+<td valign="bottom" align="center">7.3%</td>
+<td valign="bottom" align="center">15.6%</td>
+</tr>
+<tr>
+<td align="left">6lnj+9Prod</td>
+<td valign="bottom" align="center">HM5</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">650</td>
+<td valign="bottom" align="center">3.00</td>
+<td valign="bottom" align="center">3.7%</td>
+<td align="center">6.6%</td>
+<td align="center">11.1%</td>
+<td align="center">19.8%</td>
+</tr>
+<tr>
+<td valign="top" align="left">8lnj + 12P</td>
+<td align="center">HM5</td>
+<td align="center">200</td>
+<td align="center">650</td>
+<td align="center">3.00</td>
+<td valign="top" align="center">4.8%</td>
+<td align="center">3.4%</td>
+<td valign="top" align="center">14.4%</td>
+<td valign="top" align="center">25.3%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="8" table-order="4" data-type-order="9">
+<table-wrap id="102118179810MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">Frac height of 200 m (about 50 % of vertical coverage) has been used as a base scenario based on field’[Start Box Here] data understanding. However, 100m (25 % of vertical coverage) and 300m (about 75 % of vertical coverage) frac height scenarios have been also assessed. Results are summarized in Table 4. Increasing frac height will increase well productivity and injectivity which will enhance RF.</anchoringText>
+<label>Table 4</label>
+<caption>Effect of frac height on UR</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Effect of frac height on UR</caption-text>
+</formatted-caption>
+<table id="102118179810MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th rowspan="2" valign="bottom" align="center">Case</th>
+<th rowspan="2" valign="bottom" align="center">Case</th>
+<th rowspan="2" valign="bottom" align="center">FracHeight</th>
+<th rowspan="2" valign="bottom" align="center">Inj.Pres, bar</th>
+<th rowspan="2" valign="bottom" align="center">inj, MMm3/day</th>
+<th colspan="2" valign="bottom" align="center">Field Level</th>
+<th colspan="2" valign="bottom" align="center">MGI Effective area</th>
+</tr>
+<tr>
+<th valign="bottom" align="center">Incremental Rf_2045</th>
+<th valign="bottom" align="center">Incremental Rf_2070</th>
+<th valign="bottom" align="center">Incremental Rf_2045</th>
+<th valign="bottom" align="center">Incremental Rf_2070</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">FracHeight-100</td>
+<td valign="bottom" align="center">HM5</td>
+<td valign="bottom" align="center">100</td>
+<td valign="bottom" align="center">650</td>
+<td valign="bottom" align="center">3.00</td>
+<td valign="bottom" align="center">2.3%</td>
+<td valign="bottom" align="center">5.3%</td>
+<td valign="bottom" align="center">8.7%</td>
+<td valign="bottom" align="center">15.8%</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">FracHeight-200</td>
+<td valign="bottom" align="center">HM5</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">650</td>
+<td valign="bottom" align="center">3.00</td>
+<td valign="bottom" align="center">4.8%</td>
+<td valign="bottom" align="center">8.4%</td>
+<td valign="bottom" align="center">14.4%</td>
+<td valign="bottom" align="center">25.3%</td>
+</tr>
+<tr>
+<td align="left">FracHeight-300</td>
+<td valign="bottom" align="center">HM5</td>
+<td valign="bottom" align="center">300</td>
+<td valign="bottom" align="center">650</td>
+<td valign="bottom" align="center">3.00</td>
+<td align="center">6.5%</td>
+<td align="center">10.3%</td>
+<td align="center">19.6%</td>
+<td align="center">32.4%</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td valign="top" align="center">
+</td>
+<td align="center">
+<b>Incremental Rf_2045</b>
+</td>
+<td align="center">
+<b>Incremental Rf_2070</b>
+</td>
+<td align="center">
+<b>Incremental Rf_2045</b>
+</td>
+<td align="center">
+<b>Incremental Rf_2070</b>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Frac Height-100</td>
+<td valign="bottom" align="center">HM5</td>
+<td valign="bottom" align="center">100</td>
+<td valign="bottom" align="center">650</td>
+<td valign="bottom" align="center">1.40</td>
+<td valign="bottom" align="center">2.9%</td>
+<td valign="bottom" align="center">4.9%</td>
+<td valign="bottom" align="center">8.7%</td>
+<td valign="bottom" align="center">14.7%</td>
+</tr>
+<tr>
+<td align="left">FracHeight-200</td>
+<td valign="bottom" align="center">HM5</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">650</td>
+<td align="center">1.40</td>
+<td valign="bottom" align="center">4.4%</td>
+<td align="center">6.7%</td>
+<td align="center">13.1%</td>
+<td align="center">20.0%</td>
+</tr>
+<tr>
+<td align="left">FracHeight-300</td>
+<td align="center">HM5</td>
+<td align="center">300</td>
+<td align="center">650</td>
+<td align="center">1.40</td>
+<td align="center">5.4%</td>
+<td align="center">8.1%</td>
+<td align="center">16.2%</td>
+<td align="center">24.2%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="8" table-order="5" data-type-order="10">
+<table-wrap id="102118179810MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">3 different injection pressures are modelled, 550, 650 and 750 bars. Results are given in Table 5. UR is increases with increasing injection pressures. However, GUF is also increasing with injection pressure (i.e. more gas has to be injected and since source of gas can be a constraint, selecting the highest injection pressure is not necessary possible).</anchoringText>
+<label>Table 5</label>
+<caption>Effect of injection pressure on UR</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Effect of injection pressure on UR</caption-text>
+</formatted-caption>
+<table id="102118179810MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Case</th>
+<th valign="bottom" align="center">Case</th>
+<th valign="bottom" align="center">FracHeight</th>
+<th valign="bottom" align="center">lnj.Pres, bar</th>
+<th valign="bottom" align="center">inj, MMm3/day</th>
+<th valign="bottom" align="center">GUF_2045</th>
+<th valign="bottom" align="center">GUF_2070</th>
+<th valign="bottom" align="center">Incremental Rf_2045</th>
+<th valign="bottom" align="center">Incremental Rf_2070</th>
+<th valign="bottom" align="center">Incremental Rf_2045</th>
+<th valign="bottom" align="center">Incremental Rf_2070</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">550 bar</td>
+<td valign="bottom" align="center">HM5</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">550</td>
+<td valign="bottom" align="center">3.00</td>
+<td valign="bottom" align="center">6.9</td>
+<td valign="bottom" align="center">11.3</td>
+<td valign="bottom" align="center">3.4%</td>
+<td valign="bottom" align="center">6.4%</td>
+<td valign="bottom" align="center">10.2%</td>
+<td valign="bottom" align="center">19.3%</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">650 bar</td>
+<td valign="bottom" align="center">HM5</td>
+<td valign="bottom" align="center">200</td>
+<td valign="bottom" align="center">650</td>
+<td valign="bottom" align="center">3.00</td>
+<td valign="bottom" align="center">9.2</td>
+<td valign="bottom" align="center">15.2</td>
+<td valign="bottom" align="center">4.8%</td>
+<td valign="bottom" align="center">8.4%</td>
+<td valign="bottom" align="center">14.4%</td>
+<td valign="bottom" align="center">25.3%</td>
+</tr>
+<tr>
+<td align="left">750 bar</td>
+<td align="center">HM5</td>
+<td align="center">200</td>
+<td align="center">750</td>
+<td align="center">3.00</td>
+<td align="center">11.2</td>
+<td align="center">17.5</td>
+<td align="center">6.1%</td>
+<td align="center">9.6%</td>
+<td align="center">18.2%</td>
+<td align="center">23.9%</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="9" table-order="6" data-type-order="11">
+<table-wrap id="102118179810MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6">These cost estimates stand for Level 1 type of cost estimate with +40%/–25% uncertainty ranges. Table 6 below summarizes development options economics that were screened for feasibility for Phase 3B development. Results are given in Figure 6 and Figure 7.</anchoringText>
+<label>Table 6</label>
+<caption>Economic Summary of Development Options Screened</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Economic Summary of Development Options Screened</caption-text>
+</formatted-caption>
+<table id="102118179810MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th colspan="8" valign="bottom" align="center">Option1</th>
+<th colspan="8" valign="bottom" align="center">Option2</th>
+<th colspan="3" valign="bottom" align="center">Option3</th>
+</tr>
+<tr>
+<th valign="bottom" align="center">Case</th>
+<th valign="bottom" align="center">case1</th>
+<th valign="bottom" align="center">case2</th>
+<th valign="bottom" align="center">case3</th>
+<th valign="bottom" align="center">case4</th>
+<th valign="bottom" align="center">case5</th>
+<th valign="bottom" align="center">case6</th>
+<th valign="bottom" align="center">case7</th>
+<th valign="bottom" align="center">Case8</th>
+<th valign="bottom" align="center">case9</th>
+<th valign="bottom" align="center">case10</th>
+<th valign="bottom" align="center">case11</th>
+<th valign="bottom" align="center">casel2</th>
+<th valign="bottom" align="center">case13</th>
+<th valign="bottom" align="center">case14</th>
+<th valign="bottom" align="center">case15</th>
+<th valign="bottom" align="center">case16</th>
+<th valign="bottom" align="center">case17</th>
+<th valign="bottom" align="center">case18</th>
+<th valign="bottom" align="center">case19</th>
+</tr>
+<tr>
+<th valign="top" align="center" />
+<th valign="top" align="center">base</th>
+<th valign="top" align="center">Low</th>
+<th valign="top" align="center">high</th>
+<th valign="top" align="center">base</th>
+<th valign="top" align="center">Low</th>
+<th valign="top" align="center">high</th>
+<th valign="top" align="center">Base-sen</th>
+<th valign="top" align="center">Base-sen</th>
+<th valign="top" align="center">Base-sen</th>
+<th valign="top" align="center">Base-sen</th>
+<th valign="top" align="center">Base-sen</th>
+<th valign="top" align="center">Base-sen</th>
+<th valign="top" align="center">Base-sen</th>
+<th valign="top" align="center">Base-sen</th>
+<th valign="top" align="center">Base-sen</th>
+<th valign="bottom" align="center">Base-sen­ Phasing</th>
+<th valign="top" align="center">base</th>
+<th valign="top" align="center">Low</th>
+<th valign="top" align="center">high</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">
+<b>Frac height, m.</b>
+</td>
+<td valign="bottom" align="right">
+<b>200</b>
+</td>
+<td valign="bottom" align="right">
+<b>100</b>
+</td>
+<td align="right">
+<b>300</b>
+</td>
+<td valign="bottom" align="right">
+<b>200</b>
+</td>
+<td valign="bottom" align="right">
+<b>100</b>
+</td>
+<td align="right">
+<b>300</b>
+</td>
+<td valign="bottom" align="right">
+<b>200</b>
+</td>
+<td valign="bottom" align="right">
+<b>200</b>
+</td>
+<td valign="bottom" align="right">
+<b>200</b>
+</td>
+<td valign="bottom" align="right">
+<b>200</b>
+</td>
+<td valign="bottom" align="right">
+<b>200</b>
+</td>
+<td valign="bottom" align="right">
+<b>200</b>
+</td>
+<td valign="bottom" align="right">
+<b>200</b>
+</td>
+<td valign="bottom" align="right">
+<b>200</b>
+</td>
+<td valign="bottom" align="right">
+<b>200</b>
+</td>
+<td valign="bottom" align="right">
+<b>200</b>
+</td>
+<td valign="bottom" align="right">
+<b>200</b>
+</td>
+<td valign="bottom" align="right">
+<b>100</b>
+</td>
+<td align="right">
+<b>300</b>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>Number of </b>
+<b>wells</b>
+</td>
+<td valign="bottom" align="right">
+<b>12P+8lnj</b>
+</td>
+<td valign="bottom" align="right">
+<b>12P+8lnj</b>
+</td>
+<td valign="bottom" align="right">
+<b>12P+8lnj</b>
+</td>
+<td valign="bottom" align="right">
+<b>12P+8lnj</b>
+</td>
+<td valign="bottom" align="right">
+<b>12P+8lnj</b>
+</td>
+<td valign="bottom" align="right">
+<b>12P+8lnj</b>
+</td>
+<td valign="bottom" align="right">
+<b>12P+8lnj</b>
+</td>
+<td valign="bottom" align="right">
+<b>12P+8lnj</b>
+</td>
+<td valign="bottom" align="right">
+<b>12P+8lnj</b>
+</td>
+<td valign="bottom" align="right">
+<b>12P+8lnj</b>
+</td>
+<td valign="bottom" align="right">
+<b>12P</b>
+</td>
+<td valign="bottom" align="right">
+<b>8inj</b>
+</td>
+<td valign="bottom" align="right">
+<b>9P+6lnj</b>
+</td>
+<td valign="bottom" align="right">
+<b>9P+6lnj</b>
+</td>
+<td valign="bottom" align="right">
+<b>9P+6lnj</b>
+</td>
+<td valign="bottom" align="right">
+<b>12P+8lnj</b>
+</td>
+<td valign="bottom" align="right">
+<b>12P+8lnj</b>
+</td>
+<td valign="bottom" align="right">
+<b>12P+8lnj</b>
+</td>
+<td valign="bottom" align="right">
+<b>12P+8lnj</b>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>Max-Injection capacity, MMm3/day</b>
+</td>
+<td valign="bottom" align="right">
+<b>0.4</b>
+</td>
+<td valign="bottom" align="right">
+<b>0.4</b>
+</td>
+<td valign="bottom" align="right">
+<b>0.4</b>
+</td>
+<td valign="bottom" align="right">
+<b>3</b>
+</td>
+<td valign="bottom" align="right">
+<b>3</b>
+</td>
+<td valign="bottom" align="right">
+<b>3</b>
+</td>
+<td valign="bottom" align="right">
+<b>1</b>
+</td>
+<td valign="bottom" align="right">
+<b>1.4</b>
+</td>
+<td valign="bottom" align="right">
+<b>1.7</b>
+</td>
+<td valign="bottom" align="right">
+<b>2.4</b>
+</td>
+<td valign="bottom" align="right">
+<b>0</b>
+</td>
+<td valign="bottom" align="right">
+<b>1.7</b>
+</td>
+<td valign="bottom" align="right">
+<b>1.4</b>
+</td>
+<td valign="bottom" align="right">
+<b>1.7</b>
+</td>
+<td valign="bottom" align="right">
+<b>2.4</b>
+</td>
+<td valign="bottom" align="right">
+<b>3</b>
+</td>
+<td valign="bottom" align="right">
+<b>3</b>
+</td>
+<td valign="bottom" align="right">
+<b>3</b>
+</td>
+<td valign="bottom" align="right">
+<b>3</b>
+</td>
+</tr>
+<tr>
+<td align="left">First Oil</td>
+<td valign="bottom" align="right">
+<b>2026</b>
+</td>
+<td valign="bottom" align="right">
+<b>2026</b>
+</td>
+<td valign="bottom" align="right">
+<b>2026</b>
+</td>
+<td valign="bottom" align="right">
+<b>2026</b>
+</td>
+<td valign="bottom" align="right">
+<b>2026</b>
+</td>
+<td valign="bottom" align="right">
+<b>2026</b>
+</td>
+<td valign="bottom" align="right">
+<b>2026</b>
+</td>
+<td valign="bottom" align="right">
+<b>2026</b>
+</td>
+<td valign="bottom" align="right">
+<b>2026</b>
+</td>
+<td valign="bottom" align="right">
+<b>2026</b>
+</td>
+<td valign="bottom" align="right">
+<b>2026</b>
+</td>
+<td valign="bottom" align="right">
+<b>2026</b>
+</td>
+<td valign="bottom" align="right">
+<b>2026</b>
+</td>
+<td valign="bottom" align="right">
+<b>2026</b>
+</td>
+<td valign="bottom" align="right">
+<b>2026</b>
+</td>
+<td valign="bottom" align="right">
+<b>2026</b>
+</td>
+<td valign="bottom" align="right">
+<b>2026</b>
+</td>
+<td valign="bottom" align="right">
+<b>2026</b>
+</td>
+<td valign="bottom" align="right">
+<b>2026</b>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>Economics-by 2045</b>
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+<b>Incremental RE, %</b>
+</td>
+<td valign="bottom" align="right">
+<b>1.24</b>
+</td>
+<td valign="bottom" align="right">
+<b>0.89</b>
+</td>
+<td valign="bottom" align="right">
+<b>1.54</b>
+</td>
+<td valign="bottom" align="right">
+<b>3.20</b>
+</td>
+<td valign="bottom" align="right">
+<b>1.90</b>
+</td>
+<td valign="bottom" align="right">
+<b>4.39</b>
+</td>
+<td valign="bottom" align="right">
+<b>2.61</b>
+</td>
+<td valign="bottom" align="right">
+<b>3,02</b>
+</td>
+<td valign="bottom" align="right">
+<b>3.14</b>
+</td>
+<td valign="bottom" align="right">
+<b>3.20</b>
+</td>
+<td valign="bottom" align="right">
+<b>0.53</b>
+</td>
+<td valign="bottom" align="right">
+<b>1.54</b>
+</td>
+<td valign="bottom" align="right">
+<b>2.43</b>
+</td>
+<td valign="bottom" align="right">
+<b>2.55</b>
+</td>
+<td valign="bottom" align="right">
+<b>2.61</b>
+</td>
+<td valign="bottom" align="right">
+<b>3.20</b>
+</td>
+<td valign="bottom" align="right">
+<b>3.20</b>
+</td>
+<td valign="bottom" align="right">
+<b>1.90</b>
+</td>
+<td valign="bottom" align="right">
+<b>4.39</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="left">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="center">
+<b>Economics-by 2070</b>
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+<td valign="top" align="right">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>Incremental RE,%</b>
+</td>
+<td valign="bottom" align="right">
+<b>2.01</b>
+</td>
+<td valign="bottom" align="right">
+<b>1.36</b>
+</td>
+<td valign="bottom" align="right">
+<b>2.51</b>
+</td>
+<td valign="bottom" align="right">
+<b>6.74</b>
+</td>
+<td valign="bottom" align="right">
+<b>4.21</b>
+</td>
+<td valign="bottom" align="right">
+<b>8.43</b>
+</td>
+<td valign="bottom" align="right">
+<b>4.39</b>
+</td>
+<td valign="bottom" align="right">
+<b>5.33</b>
+</td>
+<td valign="bottom" align="right">
+<b>5.81</b>
+</td>
+<td valign="bottom" align="right">
+<b>6.58</b>
+</td>
+<td valign="bottom" align="right">
+<b>0.18</b>
+</td>
+<td valign="bottom" align="right">
+<b>4.15</b>
+</td>
+<td valign="bottom" align="right">
+<b>4.39</b>
+</td>
+<td valign="bottom" align="right">
+<b>4.86</b>
+</td>
+<td valign="bottom" align="right">
+<b>5.39</b>
+</td>
+<td valign="bottom" align="right">
+<b>6.76</b>
+</td>
+<td valign="bottom" align="right">
+<b>6.74</b>
+</td>
+<td valign="bottom" align="right">
+<b>4.21</b>
+</td>
+<td valign="bottom" align="right">
+<b>8.41</b>
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">
+<b>GUF, Mscf/bbl</b>
+</td>
+<td valign="bottom" align="right">
+<b>1.71</b>
+</td>
+<td valign="bottom" align="right">
+<b>2.53</b>
+</td>
+<td valign="bottom" align="right">
+<b>1.37</b>
+</td>
+<td valign="bottom" align="right">
+<b>15.17</b>
+</td>
+<td valign="bottom" align="right">
+<b>14.83</b>
+</td>
+<td valign="bottom" align="right">
+<b>14.42</b>
+</td>
+<td valign="bottom" align="right">
+<b>8.60</b>
+</td>
+<td valign="bottom" align="right">
+<b>10,92</b>
+</td>
+<td valign="bottom" align="right">
+<b>12.24</b>
+</td>
+<td valign="bottom" align="right">
+<b>14.44</b>
+</td>
+<td valign="bottom" align="right">
+<b>11.91</b>
+</td>
+<td valign="bottom" align="right">
+<b>14.13</b>
+</td>
+<td valign="bottom" align="right">
+<b>12.66</b>
+</td>
+<td valign="bottom" align="right">
+<b>14,07</b>
+</td>
+<td valign="bottom" align="right">
+<b>15.84</b>
+</td>
+<td valign="bottom" align="right">
+<b>15.17</b>
+</td>
+<td valign="bottom" align="right">
+<b>15.17</b>
+</td>
+<td valign="bottom" align="right">
+<b>14.83</b>
+</td>
+<td valign="bottom" align="right">
+<b>14.42</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

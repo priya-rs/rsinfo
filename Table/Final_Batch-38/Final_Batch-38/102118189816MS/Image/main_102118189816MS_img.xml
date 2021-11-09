@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118189816MS.txt" extractionDate="2021-03-29T19:38:42Z">
+<doi>10.2118/189816-MS</doi>
+<pii>10.2118/189816-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr4">Through this process, the petroleum industry has been completely revolutionized due to the rapid development of technical advances including extended reach horizontal wells and massive multi-stage hydraulic fracturing. In spite of the successes, however, there are still major issues to be addressed: high initial rates drop off very quickly (Mobilia, et al., 2016) and recovery factors remain in the single digits (King, 2014). Figure 1 shows the steeply declining oil rates from and average Eagle Ford well.</anchoringText>
+<image-wrap id="102118189816MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118189816MS_i_1.tif" id="ImgLink-1" />
+<caption>Average oil production per well in the Eagle Ford (Mobilia et al., 2016).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Average oil production per well in the Eagle Ford (<link href="BIB1">Mobilia et al., 2016</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-17" type="bib">
+<bib id="BIB1">
+<label>Mobilia et al., (2016)</label>
+<author>
+<first-name>Michael</first-name>
+<last-name>Mobilia</last-name>
+</author>, <author>
+<first-name>Jozef</first-name>
+<last-name>Lieskovsky</last-name>
+</author> and <author>
+<first-name>Richard</first-name>
+<last-name>Yan</last-name>
+</author>. <pubDate>(2016)</pubDate>
+<article-title>Initial production rates in tight oil formations continue to rise</article-title>. <journal-title>
+<i>U.S. Energy Information Administration</i>
+</journal-title>. February 11, 2016 https://www.eia.gov/todayinenergy/detail.php?id=24932</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr5">The northwest edge of the hydrocarbon producing portions of the Eagle Ford is restricted as it becomes shallower and immature, but the formation extends to the northwest and outcrops to the surface in numerous places. Overall, the developed portions of the Eagle Ford run approximately 20-50 miles wide and over 200 miles long (Figure 2).</anchoringText>
+<image-wrap id="102118189816MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118189816MS_i_2.tif" id="ImgLink-2" />
+<caption>Map of Eagle Ford showing its extent, its depth of formation and outcrop areas, and its range of hydrocarbon system from black oil to dry gas as indicated by GOR in scf/STB (Coleman, 2015)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Map of Eagle Ford showing its extent, its depth of formation and outcrop areas, and its range of hydrocarbon system from black oil to dry gas as indicated by GOR in scf/STB (<link href="BIB2">Coleman, 2015</link>)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-18" type="bib">
+<bib id="BIB2">
+<label>Coleman, (2015)</label>
+<author>
+<first-name>Meg</first-name>
+<last-name>Coleman</last-name>
+</author>
+<pubDate>(2015)</pubDate>. <article-title>EIA updates Eagle Ford maps to provide greater geologic detail</article-title>. <journal-title>
+<i>U.S. Energy Information Administration</i>
+</journal-title>. January 21, 2015. https://www.eia.gov/todayinenergy/detail.php?id=19651</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr6">Over most of the last decade, interest in IOR for unconventionals has been limited to a handful of people in the petroleum industry with specific interest in this topic, but recent reports of success with huff-n-puff gas injection in the Eagle Ford (Thomas, et al., 2016) has prompted a rapidly growing interest over the last couple years. Most of this interest was initiated by a statement in the report that wells could produce 30% - 70% more oil after huff-n-puff gas injection was deployed (Figure 3).</anchoringText>
+<image-wrap id="102118189816MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118189816MS_i_3.tif" id="ImgLink-3" />
+<caption>Reported expected recovery from huff-n-puff gas injection into the Eagle Ford (Thomas, et al., 2016).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Reported expected recovery from huff-n-puff gas injection into the Eagle Ford (<link href="BIB3">Thomas, et al., 2016</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-19" type="bib">
+<bib id="BIB3">
+<label>Thomas et al., (2016)</label>
+<author>
+<first-name>William R.</first-name>
+<last-name>Thomas</last-name>
+</author>, <author>
+<first-name>Lloyd W.</first-name>
+<last-name>Helms</last-name>
+</author>, <author>
+<first-name>K.</first-name>
+<last-name>Driggers Timothy</last-name>
+</author>, <author>
+<first-name>David W.</first-name>
+<last-name>Trice</last-name>
+</author> and <author>
+<first-name>Gary L.</first-name>
+<last-name>Thomas</last-name>
+</author>; <pubDate>(2016)</pubDate>
+<journal-title>
+<i>EOG Resources (EOG) Earnings Call</i>
+</journal-title>, May 06, 2016.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr7"> </anchoringText>
+<image-wrap id="102118189816MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118189816MS_i_4.tif" id="ImgLink-4" />
+<caption>Eagle Ford wells and approximate locations of gas injection huff-n-puff pilots.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Eagle Ford wells and approximate locations of gas injection huff-n-puff pilots.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr8">The first pilot was a single isolated well where the nearest offset producers were over 2 miles away. This provided some protection that the injected gas would not migrate to other wells. This pilot started in late 2012 and had three distinct cycles during that year. The oil rates for the well (Figure 5), indicated a positive response to the process. Each cycle increased the production rate to approximately half of the well’s initial rate. Once the oil rate started to drop, another injection cycle was started.</anchoringText>
+<image-wrap id="102118189816MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118189816MS_i_5.tif" id="ImgLink-5" />
+<caption>Oil production rate for single well Eagle Ford Pilot A.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Oil production rate for single well Eagle Ford Pilot A.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr9">Figure 6 shows the gas oil ratio (GOR) for the Pilot A well using data reported to the TRC. Before injection started, the GOR follows the natural variability around 1000 scf/STB, but once injection began, the GOR drops to a very low value, which is not expected since the fraction of gas should go up, since gas is being injected into the reservoir and produced back from the same well. It is likely reported this way because the operators were assuming that all gas coming back was returned injection gas, but obviously some of this gas was solution gas from the oil being produced.</anchoringText>
+<image-wrap id="102118189816MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118189816MS_i_6.tif" id="ImgLink-6" />
+<caption>Gas oil ratio for Pilot A injection well</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Gas oil ratio for Pilot A injection well</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr10">While the injection and gas production data limitations are troublesome, probably the most important issue is how the production data is allocated and reported. It is reported at the lease level and not at the well level, as it is in most states. Starting in Pilot A, it is clear why this is an issue. When there was only one well in the lease, it is easy to observe how the oil rates were impacted by the huff-n-puff process. Starting in late 2013, however, new wells came online in the same lease and obscured the data for the huff-n-puff injection process (Figure 7).</anchoringText>
+<image-wrap id="102118189816MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118189816MS_i_7.tif" id="ImgLink-7" />
+<caption>Pilot A lease production including up to 6 wells.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Pilot A lease production including up to 6 wells.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr11">Figure 8 shows the oil production rates for the two leases, and it is quite easy to see when the injection started for both pilots, as the production rates increase and break from the baseline trend. Much like Pilot A, this indicates a positive outcome from the pilot, and as this is only about half of the wells in the lease, this is even more encouraging.</anchoringText>
+<image-wrap id="102118189816MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118189816MS_i_8.tif" id="ImgLink-8" />
+<caption>Oil production from two pilot locations in Eagle Ford. Pilot B Pilot C</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Oil production from two pilot locations in Eagle Ford. Pilot B Pilot C</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189816MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118189816MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Pilot B</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189816MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118189816MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Pilot C</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr12">While the gas rates do not go to zero like in Pilot A, the GOR behavior was unusual for both Pilot B and C (Figure 9). Before the injection started, the GOR varied as expected, but once injection started in 2015, the GOR for both leases remain basically constant, which is not realistic. This is likely to ensure that mineral rights owners and taxes are paid only for the new gas being produced from a well, and does not include the injected gas that is produced back.</anchoringText>
+<image-wrap id="102118189816MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118189816MS_i_9.tif" id="ImgLink-9" />
+<caption>Gas oil ration for Pilots B and C. Pilot B Pilot C</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Gas oil ration for Pilots B and C. Pilot B Pilot C</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189816MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118189816MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Pilot B</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189816MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118189816MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Pilot C</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr13">Figure 10 shows the cumulative production for the two patterns. The purple dashed line show a projection of what the leases would have done if they had continued to produce on primary production, and the solid green curve shows what the wells actually produced.</anchoringText>
+<image-wrap id="102118189816MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118189816MS_i_10.tif" id="ImgLink-10" />
+<caption>Cumulative oil production from Pilot B and C. Pilot B Pilot C</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Cumulative oil production from Pilot B and C. Pilot B Pilot C</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189816MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118189816MS_i_10a.tif" id="ImgLink-10a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Pilot B</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189816MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118189816MS_i_10b.tif" id="ImgLink-10b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Pilot C</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="11" data-type-order="13">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr14">This pilot is somewhat different from the other three pilots previously discussed. It is located in La Salle county over 100 miles to the southwest of the other three pilots. Also, all 4 wells in the lease are being injected into at the same time, so it is easier to interpret what is happening. Figure 11 displays the production rates and the cumulative production for this lease. Note that the rate plot is different than previous pilots; since all 4 wells are cyclic injectors, the lease rates were divided by the number of wells to give an average well rate.</anchoringText>
+<image-wrap id="102118189816MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118189816MS_i_11.tif" id="ImgLink-11" />
+<caption>Average well rate and cumulative lease production for Pilot D. <u>Average</u> Well Oil Production Rate Lease Cumulative Oil Production</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Average well rate and cumulative lease production for Pilot D. <u>Average</u> Well Oil Production Rate Lease Cumulative Oil Production</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189816MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118189816MS_i_11a.tif" id="ImgLink-11a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text><u>Average</u> Well Oil Production Rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189816MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118189816MS_i_11b.tif" id="ImgLink-11b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Lease Cumulative Oil Production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="12" data-type-order="14">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr15">Because the data quality is better for this pilot, an attempt is made to predict future production for these wells. Due to the injection/production cycles, it was difficult to fit a decline curve through the data, but a couple different methods were used that ended up giving reasonable results and were similar to each other. A decline curve was fit through the peak production rates, but since the wells are only producing those rates roughly half of the time, the decline curve values were also halved (Figure 12).</anchoringText>
+<image-wrap id="102118189816MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118189816MS_i_12.tif" id="ImgLink-12" />
+<caption>Methods to estimate average rates during huff-n-puff injection process.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Methods to estimate average rates during huff-n-puff injection process.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="11" figure-order="13" data-type-order="15">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr16">Figure 13 shows two different methods to predict the future rates for the huff-n-puff process for Pilot D. The first is simply an extrapolation of the halved peak rate decline curves. The second method tries to mimic the huff-n-puff process by having the well produce at the peak rate for 2 months and then shutting in the wells for two months (to replicate the injection stage). The predicted rates in Figure 13a are only shown the first 4 years, but the models are actually predicted out for 10 years.</anchoringText>
+<image-wrap id="102118189816MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118189816MS_i_13.tif" id="ImgLink-13" />
+<caption>Predicted rates and cumulative production from Pilot D cyclic gas injection project. <u>Average</u> Well Oil Production Rate Lease Cumulative Oil Production</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Predicted rates and cumulative production from Pilot D cyclic gas injection project. <u>Average</u> Well Oil Production Rate Lease Cumulative Oil Production</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189816MS-Img_SPi-13a">
+<imageLink type="mediaResource" href="102118189816MS_i_13a.tif" id="ImgLink-13a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text><u>Average</u> Well Oil Production Rate</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189816MS-Img_SPi-13b">
+<imageLink type="mediaResource" href="102118189816MS_i_13b.tif" id="ImgLink-13b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Lease Cumulative Oil Production</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="12" figure-order="14" data-type-order="16">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr17">Both Pilots E and F were single well pilots. There are four wells in the lease for Pilot E, so again, due to the reporting requirements in Texas, the interpretation becomes difficult (Figure 14). It appears one or maybe two injection periods occur as production rates seem to increase in late 2015 and again in mid 2016; however, since only a quarter of the wells are injecting, the amount of incremental production is hard to discern. There are 61 wells in the lease where Pilot F is located, so there is no possibility to determine the results from this single cyclic injection well pilot.</anchoringText>
+<image-wrap id="102118189816MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118189816MS_i_14.tif" id="ImgLink-14" />
+<caption>Lease oil production rates from Pilots E and F. Pilot E Pilot F</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Lease oil production rates from Pilots E and F. Pilot E Pilot F</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189816MS-Img_SPi-14a">
+<imageLink type="mediaResource" href="102118189816MS_i_14a.tif" id="ImgLink-14a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>Pilot E</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189816MS-Img_SPi-14b">
+<imageLink type="mediaResource" href="102118189816MS_i_14b.tif" id="ImgLink-14b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>Pilot F</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="12" figure-order="15" data-type-order="17">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr18">This project is expected to include 32 wells, so it may be hyperbole to call it a ‘pilot’ as it appears to be the beginning of the large scale field development, but for this paper, it will be called Pilot G. There are 41 wells combined in the three leases, so not all wells will have injection, but most of the wells will be part of the huff-n-puff process. These injection projects have started recently, but they are beginning to show some incremental oil production (Figure 15).</anchoringText>
+<image-wrap id="102118189816MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118189816MS_i_15.tif" id="ImgLink-15" />
+<caption>Lease oil production rates from 2 leases in Pilot G. SW Lease NE Lease</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Lease oil production rates from 2 leases in Pilot G. SW Lease NE Lease</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118189816MS-Img_SPi-15a">
+<imageLink type="mediaResource" href="102118189816MS_i_15a.tif" id="ImgLink-15a" />
+<figure-specific-caption>
+<caption-order>a</caption-order>
+<caption-text>SW Lease</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118189816MS-Img_SPi-15b">
+<imageLink type="mediaResource" href="102118189816MS_i_15b.tif" id="ImgLink-15b" />
+<figure-specific-caption>
+<caption-order>b</caption-order>
+<caption-text>NE Lease</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="16" data-type-order="19">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr19">Figure 16 shows a standardized version of a cumulative oil plot of lease oil production for the 3 pilots where data can be analyzed. The lowest purple line represents a standardized lease production on primary production (no-injection case) based on decline curve extrapolation. The red shaded area indicates improved production due to gas injection of 30% to 70% over primary production, which is based up on reported estimates (Thomas, et al., 2016).</anchoringText>
+<image-wrap id="102118189816MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118189816MS_i_16.tif" id="ImgLink-16" />
+<caption>Comparison of measured production from 3 leases with reported estimated recovery.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Comparison of measured production from 3 leases with reported estimated recovery.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

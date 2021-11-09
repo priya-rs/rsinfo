@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118181431MS.txt" extractionDate="2021-03-20T10:43:59Z">
+<doi>10.2118/181431-MS</doi>
+<pii>10.2118/181431-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="4" table-order="1" data-type-order="3">
+<table-wrap id="102118181431MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Steam quality, rate, and pressure data was acquired continuously at surface during all injection operations and was synchronized with the DTS and DAS data acquisition. An example of the surface steam injection data acquisition is provided in Fig. 2. During the DTS and DAS data acquisition the injection rates and steam qualities were adjusted to create four steady state injection conditions. Typical steady state injection conditions are summarized in Table 1.</anchoringText>
+<label>Table 1</label>
+<caption>Typical Horizontal Steam Injection Flow Profiling Test Conditions in Wells “A” and “B”</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Typical Horizontal Steam Injection Flow Profiling Test Conditions in Wells “A” and “B”</caption-text>
+</formatted-caption>
+<table id="102118181431MS-Tbl_SPi-1" frame="hsides">
+<tbody>
+<tr>
+<td colspan="2" rowspan="2" valign="top" align="center">
+</td>
+<td colspan="2" valign="top" align="center">Steam Rate (BSPD-CWE)</td>
+</tr>
+<tr>
+<td valign="top" align="center">1100</td>
+<td valign="top" align="center">1400</td>
+</tr>
+<tr>
+<td rowspan="2" align="center">Steam Quality</td>
+<td valign="top" align="center">60%</td>
+<td valign="top" align="center">
+<b>Test 1</b>
+</td>
+<td valign="top" align="center">
+<b>Normal Injection</b>
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">95%</td>
+<td valign="top" align="center">
+<b>Test 2</b>
+</td>
+<td valign="top" align="center">
+<b>Test 3</b>
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="9" table-order="2" data-type-order="8">
+<table-wrap id="102118181431MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The key contribution of this research is leveraging the capability of DTS, DAS, and the two in combination to generate multiple flow profile interpretations over identical horizontal well segments and time periods using a variety of physical principles. Utilizing multiple algorithms, that are not strongly dependent, results in higher-confidence, quantitative steam flow profile interpretations for use in steamflood and SAGD operations. Table 2 summarizes the physical principles of those flow profiling algorithms. Several steady state (SS) and transient (TR) models are being utilized to interpret the surveillance data. Selected algorithms are described in more detail and applied to DTS and DAS acquired in the experimental injectors.</anchoringText>
+<label>Table 2</label>
+<caption>Flow profiling algorithms for steam injection</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Flow profiling algorithms for steam injection</caption-text>
+</formatted-caption>
+<table id="102118181431MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="bottom" align="center">Algorithm</th>
+<th align="center">DTS</th>
+<th align="center">DAS</th>
+<th align="center">Type</th>
+<th align="center">Physical Principles</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Thermal Hydraulic Coupled Wellbore/Reservoir Model</td>
+<td align="center">x</td>
+<td align="center">
+</td>
+<td align="center">SS</td>
+<td align="left">– Thermal multi-segmented wellbore model<br />– Multiphase flow model<br />– Heat transfer between tubing, annulus and formation<br />– History matching the temperature surveillance data with wellbore model temperature results</td>
+</tr>
+<tr>
+<td align="left">Flow Path Differential Pressure and Orifice Model</td>
+<td align="center">x</td>
+<td align="center">
+</td>
+<td align="center">SS</td>
+<td align="left">– Wet steam saturation pressure calculation from temperature data<br />– Pressure differential across the restricted flow area (i.e. clamped zones <br />– Orifice equation to convert pressure differential across the clamp to bulk fluid velocity</td>
+</tr>
+<tr>
+<td align="left">Pressure Gradient Model</td>
+<td align="center">x</td>
+<td align="center">
+</td>
+<td align="center">SS</td>
+<td align="left">– Wet steam saturation pressure calculation from temperature data<br />– Pressure differential in the flow path<br />– Momentum equation to convert pressure differential to the bulk fluid velocity</td>
+</tr>
+<tr>
+<td align="left">Temperature Gradient Model</td>
+<td align="center">x</td>
+<td align="center">
+</td>
+<td align="center">SS</td>
+<td align="left">– Phase change heat transfer temperature differential<br />– Outflux heating response</td>
+</tr>
+<tr>
+<td align="left">Slotted Liner Pressure Differential Model</td>
+<td align="center">x</td>
+<td align="center">
+</td>
+<td align="center">SS</td>
+<td align="left">– Wet steam saturation pressure calculation from temperature data<br />– Pressure differential through the liner<br />– Orifice equation to convert pressure differential through the liner to bulk fluid velocity</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Transient Temperature Warm-back and Cool-down Model</td>
+<td align="center">x</td>
+<td align="center">
+</td>
+<td align="center">TR</td>
+<td align="left">– Mass body heat capacity and heat conduction</td>
+</tr>
+<tr>
+<td align="left">Doppler Shift Principle (f-k)</td>
+<td align="center">x</td>
+<td align="center">x</td>
+<td align="center">SS</td>
+<td align="left">– Signal processing, speed of sound and flow medium velocity calculation from Doppler shift</td>
+</tr>
+<tr>
+<td align="left">Modified Acoustic Power Spectrogram</td>
+<td valign="top" align="center">
+</td>
+<td align="center">x</td>
+<td align="center">TR</td>
+<td align="left">- Signal processing, signal frequency and power spectral density distribution</td>
+</tr>
+<tr>
+<td align="left">Combined DTS and DAS Waterfall</td>
+<td align="center">x</td>
+<td align="center">x</td>
+<td align="center">TR</td>
+<td align="left">– Contrasted temperature and acoustic waveform propagation in space and time</td>
+</tr>
+<tr>
+<td align="left">Speed of Sound Thermodynamics</td>
+<td align="center">x</td>
+<td align="center">x</td>
+<td align="center">SS</td>
+<td align="left">– Combined speed of sound and temperature data<br />– Calculate steam quality from thermodynamics</td>
+</tr>
+<tr>
+<td align="left">Pattern Recognition</td>
+<td align="center">x</td>
+<td align="center">x</td>
+<td align="center">SS</td>
+<td align="left">– Test flow loop for temperature or acoustic pattern recognition</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="24" table-order="3" data-type-order="23">
+<table-wrap id="102118181431MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">In Table 3 the flow profiling results for well "A" are summarized indicating toe-biased steam conformance. The confidence value for the well "A" steam injection flow profile is 93% based upon the Euclidian clustering statistics. This toe biased heating effect is being caused by buoyant steam preferentially exiting the toe-high horizontal injector. A similar analysis was conducted for well "B" which has heel-biased steam. Well "B" also has a toe-high geometry but encountered depletion and high gas saturations in the heel region. The depletion and gas saturations caused steam to preferentially exit the heel of injector "B".</anchoringText>
+<label>Table 3</label>
+<caption>Fiber optics flow profiling solutions in well “A” and comparison with thirteen temperature observation wells and reservoir simulation (H: High, M; Medium, L: Low)</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Fiber optics flow profiling solutions in well “A” and comparison with thirteen temperature observation wells and reservoir simulation (H: High, M; Medium, L: Low)</caption-text>
+</formatted-caption>
+<table id="102118181431MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th align="center">Method</th>
+<th align="center">Segment #1</th>
+<th align="center">Segment #2</th>
+<th align="center">Segment #3</th>
+<th align="center">Segment #4</th>
+<th align="center">Segment #5</th>
+<th valign="bottom" align="center">Solution Weight</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="left">Steady State Injection</td>
+<td valign="bottom" align="center">20%</td>
+<td valign="bottom" align="center">16%</td>
+<td valign="bottom" align="center">13%</td>
+<td valign="bottom" align="center">19%</td>
+<td valign="bottom" align="center">32%</td>
+<td valign="bottom" align="center">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Early Transient Shut-in</td>
+<td valign="bottom" align="center">14%</td>
+<td valign="bottom" align="center">10%</td>
+<td valign="bottom" align="center">14%</td>
+<td valign="bottom" align="center">28%</td>
+<td valign="bottom" align="center">34%</td>
+<td valign="bottom" align="center">0.6</td>
+</tr>
+<tr>
+<td valign="top" align="left">Late Transient Shut-in</td>
+<td valign="top" align="center">14%</td>
+<td valign="top" align="center">14%</td>
+<td valign="top" align="center">18%</td>
+<td valign="top" align="center">19%</td>
+<td valign="top" align="center">35%</td>
+<td valign="bottom" align="center">1</td>
+</tr>
+<tr>
+<td align="left">DAS Spectrogram</td>
+<td align="center">11%</td>
+<td align="center">18%</td>
+<td align="center">18%</td>
+<td align="center">21%</td>
+<td align="center">32%</td>
+<td valign="bottom" align="center">1</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Combined DTS and DAS Waterfall</td>
+<td align="center">NA</td>
+<td align="center">NA</td>
+<td align="center">NA</td>
+<td align="center">NA</td>
+<td align="center">32%</td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="left">
+<b>Final Flow Profile Solution</b>
+</td>
+<td align="center">
+<b>15%</b>
+</td>
+<td align="center">
+<b>15%</b>
+</td>
+<td align="center">
+<b>16%</b>
+</td>
+<td align="center">
+<b>21%</b>
+</td>
+<td align="center">
+<b>33%</b>
+</td>
+<td align="center">
+<b>-</b>
+</td>
+</tr>
+<tr>
+<td align="left">Solution Confidence Value</td>
+<td colspan="6" align="left">93%</td>
+</tr>
+<tr>
+<td valign="bottom" align="left">Independent Solution Validation</td>
+<td colspan="6" valign="top" align="left">
+</td>
+</tr>
+
+
+<tr>
+<td valign="bottom" align="left" bgcolor="#F2F2F2">Temperature Observation Well Heating</td>
+<td align="center" bgcolor="#F2F2F2">M</td>
+<td align="center" bgcolor="#F2F2F2">M</td>
+<td align="center" bgcolor="#F2F2F2">L</td>
+<td align="center" bgcolor="#F2F2F2">M</td>
+<td align="center" bgcolor="#F2F2F2">H</td>
+<td valign="top" align="left" bgcolor="#F2F2F2">
+</td>
+</tr>
+<tr>
+<td valign="bottom" align="left" bgcolor="#F2F2F2">Reservoir Simulation Model Heating</td>
+<td align="center" bgcolor="#F2F2F2">M</td>
+<td align="center" bgcolor="#F2F2F2">M</td>
+<td align="center" bgcolor="#F2F2F2">L</td>
+<td align="center" bgcolor="#F2F2F2">M</td>
+<td align="center" bgcolor="#F2F2F2">H</td>
+<td valign="top" align="left" bgcolor="#F2F2F2">
+</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

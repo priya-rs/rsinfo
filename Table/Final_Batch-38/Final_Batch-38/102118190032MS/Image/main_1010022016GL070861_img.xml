@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190032MS.txt" extractionDate="2021-03-29T14:18:43Z">
+<doi>10.1002/2016GL070861</doi>
+<pii>10.2118/190032-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure composite="true" composite-count="2" pdf-page="2" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr3">The Long Beach Unit waterflood-steam flood and the Kern River steam flood (Yang and Eacmen, 2003) are two example operations of fault-banked oil in California. Infill drilling and extended reach wells running parallel to the fault have been used in both fields to recover the fault-banked oil. Figure 1(a) shows the locations and the oil production rates of multiple Kern River wells drilled along faults. Another example of oilfield operations close to faults is the injection of wastewater as shown in Figure 1(b) for the case of Fairview, Oklahoma (Holland, 2015).</anchoringText>
+<image-wrap id="102118190032MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118190032MS_i_1.tif" id="ImgLink-1" />
+<caption>Production and injection close to faults. (a) Bubble map of production wells in the Kern River field of California. The size of bubble indicates the oil production rate. Faults are shown as thick orange lines. (b) Injection wells in Fairview, Oklahoma shown in blue squares close to faults that are shown as red lines. The gray and orange circles indicate earthquake epicenters in the region (Yeck et al., 2016).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Production and injection close to faults. (a) Bubble map of production wells in the Kern River field of California. The size of bubble indicates the oil production rate. Faults are shown as thick orange lines. (b) Injection wells in Fairview, Oklahoma shown in blue squares close to faults that are shown as red lines. The gray and orange circles indicate earthquake epicenters in the region (<link href="BIB1">Yeck et al., 2016</link>).</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190032MS-Img_SPi-1a">
+<imageLink type="mediaResource" href="102118190032MS_i_1a.tif" id="ImgLink-1a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Bubble map of production wells in the Kern River field of California. The size of bubble indicates the oil production rate. Faults are shown as thick orange lines.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190032MS-Img_SPi-1b">
+<imageLink type="mediaResource" href="102118190032MS_i_1b.tif" id="ImgLink-1b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>Injection wells in Fairview, Oklahoma shown in blue squares close to faults that are shown as red lines. The gray and orange circles indicate earthquake epicenters in the region (Yeck et al., 2016).</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-13" type="bib">
+<bib id="BIB1">
+<label>Yeck et al., (2016)</label>
+<author>
+<first-name>W. L.</first-name>
+<last-name>Yeck</last-name>
+</author>, <author>
+<first-name>M.</first-name>
+<last-name>Weingarten</last-name>
+</author>, <author>
+<first-name>H. M.</first-name>
+<last-name>Benz</last-name>
+</author>, <author>
+<first-name>D. E.</first-name>
+<last-name>McNamara</last-name>
+</author>, <author>
+<first-name>E. A.</first-name>
+<last-name>Bergman</last-name>
+</author>, <author>
+<first-name>R. B.</first-name>
+<last-name>Herrmann</last-name>
+</author>, <author>
+<first-name>J. L.</first-name>
+<last-name>Rubinstein</last-name>
+</author>, and <author>
+<first-name>P. S.</first-name>
+<last-name>Earle</last-name>
+</author>
+<pubDate>(2016)</pubDate>, <article-title>Far-field pressurization likely caused one of the largest injection-induced earthquakes by reactivating a large preexisting basement fault structure </article-title>, <journal-title><i>Geophys. Res. Lett. , <b>43</b>, 10,198–10 </i></journal-title>, <pages><first-page>207</first-page>
+</pages>, doi:<doi>10.1002/2016GL070861</doi>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="4" pdf-page="2" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr4">The Long Beach Unit waterflood-steam flood and the Kern River steam flood (Yang and Eacmen, 2003) are two example operations of fault-banked oil in California. Infill drilling and extended reach wells running parallel to the fault have been used in both fields to recover the fault-banked oil. Figure 1(a) shows the locations and the oil production rates of multiple Kern River wells drilled along faults. Another example of oilfield operations close to faults is the injection of wastewater as shown in Figure 1(b) for the case of Fairview, Oklahoma (Holland, 2015).</anchoringText>
+<image-wrap id="102118190032MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118190032MS_i_2.tif" id="ImgLink-2" />
+<caption>Diagrams showing the four case studies resulting from two values of the well type (production, injection) and two values of the well rate difference (equal size arrows indicating small difference in rates, unequal size arrows indicating large difference in rates). The case studies 1-4 are labelled ProdSimilar, InjSimilar, Prod and Inj respectively (Table 2). Both factors, well type and well rate difference, induce poroelastic changes in the reservoir-overburden system that can be analyzed in terms of the change in total volumetric stress Δσ<sub>v</sub> and the change in pore pressure Δ<i>p</i>.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Diagrams showing the four case studies resulting from two values of the well type (production, injection) and two values of the well rate difference (equal size arrows indicating small difference in rates, unequal size arrows indicating large difference in rates). The case studies 1-4 are labelled ProdSimilar, InjSimilar, Prod and Inj respectively <link href="102118190032MS-tblwrp-2">(Table 2)</link>. Both factors, well type and well rate difference, induce poroelastic changes in the reservoir-overburden system that can be analyzed in terms of the change in total volumetric stress Δσ<sub>v</sub> and the change in pore pressure Δp.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190032MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118190032MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-order>(1)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190032MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118190032MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-order>(2)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190032MS-Img_SPi-2c">
+<imageLink type="mediaResource" href="102118190032MS_i_2c.tif" id="ImgLink-2c" />
+<figure-specific-caption>
+<caption-order>(3)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190032MS-Img_SPi-2d">
+<imageLink type="mediaResource" href="102118190032MS_i_2d.tif" id="ImgLink-2d" />
+<figure-specific-caption>
+<caption-order>(4)</caption-order>
+<caption-text></caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr5">A 3D box of dimension 2 km × 2 km × 2.5 km in the x, y and z directions, respectively, is our computational domain as shown in Figure 3. A dome-shaped reservoir with four layers is located within the depth interval of 1.4 km to 1.6 km. The reservoir is confined between overburden and under burden and is intersected by a non-conductive fault dipping 80 degrees to west and striking north-south. We discretize the domain with approximately 60,800 hexahedral elements.</anchoringText>
+<image-wrap id="102118190032MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118190032MS_i_3.tif" id="ImgLink-3" />
+<caption>Model domain with two wells on the opposite sides of a fault that is intersecting a confined reservoir. The well in the hanging wall block is a producer (up arrow) and the well in the footwall block is either an injector or a producer (two-sided arrow) depending on the case (Table 2). The model is initialized under normal faulting stress regime with a lateral compression on the east boundary that is 0.7 times the overburden stress. Both the compression and overburden increase linearly with the lithostatic gradient.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Model domain with two wells on the opposite sides of a fault that is intersecting a confined reservoir. The well in the hanging wall block is a producer (up arrow) and the well in the footwall block is either an injector or a producer (two-sided arrow) depending on the case <link href="102118190032MS-tblwrp-2">(Table 2)</link>. The model is initialized under normal faulting stress regime with a lateral compression on the east boundary that is 0.7 times the overburden stress. Both the compression and overburden increase linearly with the lithostatic gradient.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr6">We assume that the model is saturated with water and use hydrostatics to initialize pressure. The topography of the reservoir in a vertical cross-section is shown in Figure 4. The wells are located in the hanging wall and footwall blocks of the fault. For the four cases studies considered here, the well in the hanging wall block is a producer with a constant flow rate of 3000 bbl/day. The well in the footwall block is different among the four cases as shown in Table 2. The reservoir permeability is kept constant at 100 mD in all the four cases.</anchoringText>
+<image-wrap id="102118190032MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118190032MS_i_4.tif" id="ImgLink-4" />
+<caption>Reservoir topography and locations of the wells. The hanging wall block well is a producer flowing at a constant rate of 3000 bbl/day. The footwall block well changes its type and flow rate as per Table 2.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Reservoir topography and locations of the wells. The hanging wall block well is a producer flowing at a constant rate of 3000 bbl/day. The footwall block well changes its type and flow rate as per <link href="102118190032MS-tblwrp-2">Table 2</link>.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="3" pdf-page="5" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr7">First, we will look at the pressure changes on the two sides of the fault the hanging wall side and the footwall side (Figure 5, Middle and Right) to verify that the changes are consistent with the well operations. Next, we analyze the changes in fault tractions and fault slip along the fault on a line the location of which is shown in Figure 5, Left. We also analyze the evolution of stress path on two points the Top point and the Bottom point (Figure 5, Left) carefully selected along the fault line.</anchoringText>
+<image-wrap id="102118190032MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118190032MS_i_5.tif" id="ImgLink-5" />
+<caption>
+<i>Left</i>: The fault surface as seen from the <i>x </i>= 0 side of the domain in Figure 3. The vertical black line shows the location where depth profiles of fault stresses are plotted in Figure 8 and 9. The Top (<i>x </i>= 1343 m, <i>y </i>= 1204 m, <i>z </i>= 1396 m) and Bottom (<i>x </i>= 1311 m, <i>y </i>= 1199 m, <i>z </i>= 1573 m) points of the reservoir as projected on the fault are shown as circle and diamond symbols, respectively are tracked in Figure 10 and 11 stress paths. <i>Middle and Right</i>: Location of cells next to the fault in the hanging wall and footwall blocks of the fault where pressure evolution is tracked in Figure 6 and 7.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Left: The fault surface as seen from the x = 0 side of the domain in <link href="102118190032MS-Img_SPi-3">Figure 3</link>. The vertical black line shows the location where depth profiles of fault stresses are plotted in <link href="link-8">Figure 8</link> and <link href="102118190032MS-Img_SPi-9">9</link>. The Top (x = 1343 m, y = 1204 m, z = 1396 m) and Bottom (x = 1311 m, y = 1199 m, z = 1573 m) points of the reservoir as projected on the fault are shown as circle and diamond symbols, respectively are tracked in <link href="link-10">Figure 10</link> and <link href="102118190032MS-Img_SPi-11">11</link> stress paths. Middle and Right: Location of cells next to the fault in the hanging wall and footwall blocks of the fault where pressure evolution is tracked in <link href="link-6">Figure 6</link> and <link href="102118190032MS-Img_SPi-7">7</link>.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190032MS-Img_SPi-5a">
+<imageLink type="mediaResource" href="102118190032MS_i_5a.tif" id="ImgLink-5a" />
+<figure-specific-caption>
+<caption-order>Left</caption-order>
+<caption-text>The fault surface as seen from the <i>x </i>= 0 side of the domain in Figure 3. The vertical black line shows the location where depth profiles of fault stresses are plotted in Figure 8 and 9. The Top (<i>x </i>= 1343 m, <i>y </i>= 1204 m, <i>z </i>= 1396 m) and Bottom (<i>x </i>= 1311 m, <i>y </i>= 1199 m, <i>z </i>= 1573 m) points of the reservoir as projected on the fault are shown as circle and diamond symbols, respectively are tracked in Figure 10 and 11 stress paths.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190032MS-Img_SPi-5b">
+<imageLink type="mediaResource" href="102118190032MS_i_5b.tif" id="ImgLink-5b" />
+<figure-specific-caption>
+<caption-order>Middle</caption-order>
+<caption-text>Location of cells next to the fault in the hanging wall and footwall blocks of the fault where pressure evolution is tracked in Figure 6 and 7.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190032MS-Img_SPi-5c">
+<imageLink type="mediaResource" href="102118190032MS_i_5c.tif" id="ImgLink-5c" />
+<figure-specific-caption>
+<caption-order>Right</caption-order>
+<caption-text>Location of cells next to the fault in the hanging wall and footwall blocks of the fault where pressure evolution is tracked in Figure 6 and 7.</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="5" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr8">Figures 6 and 7 show the pressure changes on the hanging and footwall sides of the fault at the end of the simulation at 435 days. Positive pressure changes, i.e. overpressure, result from injection and negative pressure changes, i.e. pressure depletion, result from production. One important thing to note is that on the footwall side of ProdSimilar, we see larger drop in pressure although the footwall side well is producing at a rate lower than the hanging wall side. This is due to a smaller pore volume of the footwall block reservoir compared to the hanging wall block reservoir (see Figure 4).</anchoringText>
+<image-wrap id="102118190032MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118190032MS_i_6.tif" id="ImgLink-6" />
+<caption>Pressure changes (MPa) on the hanging and footwall sides of the fault for Inj and InjSimilar cases.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Pressure changes (MPa) on the hanging and footwall sides of the fault for Inj and InjSimilar cases.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190032MS-Img_SPi-6a">
+<imageLink type="mediaResource" href="102118190032MS_i_6a.tif" id="ImgLink-6a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Inj</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190032MS-Img_SPi-6b">
+<imageLink type="mediaResource" href="102118190032MS_i_6b.tif" id="ImgLink-6b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>InjSimilar cases</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr9">Figures 6 and 7 show the pressure changes on the hanging and footwall sides of the fault at the end of the simulation at 435 days. Positive pressure changes, i.e. overpressure, result from injection and negative pressure changes, i.e. pressure depletion, result from production. One important thing to note is that on the footwall side of ProdSimilar, we see larger drop in pressure although the footwall side well is producing at a rate lower than the hanging wall side. This is due to a smaller pore volume of the footwall block reservoir compared to the hanging wall block reservoir (see Figure 4).</anchoringText>
+<image-wrap id="102118190032MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118190032MS_i_7.tif" id="ImgLink-7" />
+<caption>Pressure changes (MPa) on the hanging and footwall sides of the fault for Prod and ProdSimilar cases.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Pressure changes (MPa) on the hanging and footwall sides of the fault for Prod and ProdSimilar cases.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190032MS-Img_SPi-7a">
+<imageLink type="mediaResource" href="102118190032MS_i_7a.tif" id="ImgLink-7a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Prod</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190032MS-Img_SPi-7b">
+<imageLink type="mediaResource" href="102118190032MS_i_7b.tif" id="ImgLink-7b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>ProdSimilar</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="7" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr10">Next, we analyze tractions and slip along the fault for each case study as shown in Figure 8 and 9. In these figures, we show the results along the fault line at selected timesteps. We choose timesteps around 100 days before the end of simulation (335 days) and at the end of the simulation (435 days). The fault traction and slip vectors are calculated in the fault coordinate system with positive values indicating left-lateral (along-strike shear), reverse (along-dip shear) and opening (fault normal) motions, respectively (Aagaard et al., 2013).</anchoringText>
+<image-wrap id="102118190032MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118190032MS_i_8.tif" id="ImgLink-8" />
+<caption>Fault Tractions and Slip for InjSimilar and Inj Cases</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Fault Tractions and Slip for InjSimilar and Inj Cases</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190032MS-Img_SPi-8a">
+<imageLink type="mediaResource" href="102118190032MS_i_8a.tif" id="ImgLink-8a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>InjSimilar</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190032MS-Img_SPi-8b">
+<imageLink type="mediaResource" href="102118190032MS_i_8b.tif" id="ImgLink-8b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Inj</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr11">Next, we analyze tractions and slip along the fault for each case study as shown in Figure 8 and 9. In these figures, we show the results along the fault line at selected timesteps. We choose timesteps around 100 days before the end of simulation (335 days) and at the end of the simulation (435 days). The fault traction and slip vectors are calculated in the fault coordinate system with positive values indicating left-lateral (along-strike shear), reverse (along-dip shear) and opening (fault normal) motions, respectively (Aagaard et al., 2013).</anchoringText>
+<image-wrap id="102118190032MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118190032MS_i_9.tif" id="ImgLink-9" />
+<caption>Fault Tractions and Slip for ProdSimilar and Prod Cases</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Fault Tractions and Slip for ProdSimilar and Prod Cases</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190032MS-Img_SPi-9a">
+<imageLink type="mediaResource" href="102118190032MS_i_9a.tif" id="ImgLink-9a" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>ProdSimilar</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190032MS-Img_SPi-9b">
+<imageLink type="mediaResource" href="102118190032MS_i_9b.tif" id="ImgLink-9b" />
+<figure-specific-caption>
+<caption-order></caption-order>
+<caption-text>Prod</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="8" figure-order="10" data-type-order="12">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr12"> </anchoringText>
+<image-wrap id="102118190032MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118190032MS_i_10.tif" id="ImgLink-10" />
+<caption>Stress Paths at the Top and Bottom points of the reservoir for ProdSimilar and Prod Cases</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Stress Paths at the Top and Bottom points of the reservoir for ProdSimilar and Prod Cases</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190032MS-Img_SPi-10a">
+<imageLink type="mediaResource" href="102118190032MS_i_10a.tif" id="ImgLink-10a" />
+<figure-specific-caption>
+<caption-order>Top</caption-order>
+<caption-text>Prod</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190032MS-Img_SPi-10b">
+<imageLink type="mediaResource" href="102118190032MS_i_10b.tif" id="ImgLink-10b" />
+<figure-specific-caption>
+<caption-order>Bottom</caption-order>
+<caption-text>ProdSimilar</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="9" figure-order="11" data-type-order="13">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr13">This causes the top of the reservoir to reach the failure line (Figure 11) and slip in this case. Slip nucleates on the fault at the bottom of the top reservoir layer where the change in effective normal traction is tensile and the change in shear traction is downdip. A downdip change in shear traction is consistent with the production-induced contraction of the reservoir. The slip direction at the nucleation point is downdip. This induces a downdip pull on the fault nodes in the overburden layer immediately above the reservoir.</anchoringText>
+<image-wrap id="102118190032MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118190032MS_i_11.tif" id="ImgLink-11" />
+<caption>Stress Paths at the Top and Bottom points of the reservoir for InjSimilar and Inj Cases</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Stress Paths at the Top and Bottom points of the reservoir for InjSimilar and Inj Cases</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190032MS-Img_SPi-11a">
+<imageLink type="mediaResource" href="102118190032MS_i_11a.tif" id="ImgLink-11a" />
+<figure-specific-caption>
+<caption-order>Top</caption-order>
+<caption-text>Inj</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190032MS-Img_SPi-11b">
+<imageLink type="mediaResource" href="102118190032MS_i_11b.tif" id="ImgLink-11b" />
+<figure-specific-caption>
+<caption-order>Bottom</caption-order>
+<caption-text>InjSimilar</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="10" figure-order="12" data-type-order="14">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr14">When we observe Figure 12, we notice that the shear traction change should be magnified over time because both sides of the reservoir contracts in Prod and ProdSimilar cases. In the Inj and InjSimilar cases, the footwall side contracts and the hanging wall side expands. However, we see that the shear changes are actually magnified in the producer-injector case instead of the producer-producer case as shown in Figure 8. This can be attributed to the sign convention used in the simulator. The simulator uses the fault normal vector to attribute signs for the shear traction.</anchoringText>
+<image-wrap id="102118190032MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118190032MS_i_12.tif" id="ImgLink-12" />
+<caption>Shear Changes in (a) Producer-Injector vs. (b) Producer-Producer pair</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Shear Changes in (a) Producer-Injector vs. (b) Producer-Producer pair</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190032MS-Img_SPi-12a">
+<imageLink type="mediaResource" href="102118190032MS_i_12a.tif" id="ImgLink-12a" />
+<figure-specific-caption>
+<caption-order>(a)</caption-order>
+<caption-text>Producer-Injector</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190032MS-Img_SPi-12b">
+<imageLink type="mediaResource" href="102118190032MS_i_12b.tif" id="ImgLink-12b" />
+<figure-specific-caption>
+<caption-order>(b)</caption-order>
+<caption-text>Producer-Producer pair</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

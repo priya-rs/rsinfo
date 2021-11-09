@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187857MS.txt" extractionDate="2021-03-25T14:32:36Z">
+<doi>10.2118/187857-MS</doi>
+<pii>10.2118/187857-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="3" table-order="1" data-type-order="1">
+<table-wrap id="102118187857MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">Some examples of Gazprom Neft’s oil-gas-condensate field production system layouts are given in Table 1.</anchoringText>
+<label>Table 1</label>
+<caption>Gazprom Neft’s Oil-Gas-Condensate Field Production System Layouts</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Gazprom Neft’s Oil-Gas-Condensate Field Production System Layouts</caption-text>
+</formatted-caption>
+<table id="102118187857MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th align="center">Field</th>
+<th align="center">Production Method</th>
+<th align="center">Gathering System Design</th>
+<th align="center">Gathering Pressure, MPa</th>
+<th align="center">Fluid Treatment System</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Novoportovskoe</td>
+<td align="left">Natural flow + artificial lift (ESP)</td>
+<td align="left">One-pipe</td>
+<td align="left">&#x003C;4</td>
+<td align="left">Typical (oil)</td>
+</tr>
+<tr>
+<td align="left">Vostochno-Orenburgskoe</td>
+<td align="left">Natural flow + gas lift + artificial lift (ESP)</td>
+<td align="left">Two-pipe</td>
+<td align="left">&#x003C;4 +&#x003C;10</td>
+<td align="left">Combined (oil + gas)</td>
+</tr>
+<tr>
+<td align="left">Yaro-Yakhinskoe</td>
+<td align="left">Natural flow</td>
+<td align="left">Two-pipe</td>
+<td align="left">&#x003C;4 +&#x003C;10</td>
+<td align="left">Combined (oil + gas)</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

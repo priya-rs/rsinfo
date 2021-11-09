@@ -1,0 +1,1016 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118187253MS.txt" extractionDate="2021-03-25T18:18:00Z">
+<doi>10.2118/187253-MS</doi>
+<pii>10.2118/187253-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docTableList>
+<docTable pdf-page="5" table-order="1" data-type-order="4">
+<table-wrap id="102118187253MS-tblwrp-1" content-type="structured">
+<anchoringText id="Ancr1">The core points and the calibrated logs used in the fracture modeling are presented in Figure 3 showing favorable agreement with the inputs. Table 1 shows the average input variables by formation from the initial work and Table 2 represents updated properties from the core calibration. For engineering purposes, the change in values between the two data sets is minor, but does have an effect on width, net pressure and fluid leakoff results.</anchoringText>
+<label>Table 1</label>
+<caption>Avg. log-derived reservoir and mechanical rock property data by formation ( Parker et al., 2015  ).</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Avg. log-derived reservoir and mechanical rock property data by formation (<link href="BIB1"> Parker et al., 2015</link>  ).</caption-text>
+</formatted-caption>
+<table id="102118187253MS-Tbl_SPi-1" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th align="center">Porosity (<i>ϕ</i>)<i>
+</i>(%)</th>
+<th align="center">Permeability (<i>k</i>) (nD)</th>
+<th valign="bottom" align="center">Stress Gradient (σ<i>
+<sub>xx</sub>
+</i>) (psi/ft)</th>
+<th valign="bottom" align="center">Young's Modulus (<i>E<sub>s</sub>
+</i>) (MMpsi)</th>
+<th align="center">Poisson's (<i>v</i>) Ratio (-)</th>
+<th valign="bottom" align="center">Fracture Toughness (<i>K<sub>IC</sub>
+</i>) (psi-in<sup>1/2</sup>)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="right">Upper 3<sup>rd</sup> Bone Spring</td>
+<td align="left">5.4</td>
+<td align="left">200</td>
+<td align="left">0.740</td>
+<td align="left">3.58</td>
+<td align="left">0.23</td>
+<td align="left">1,130</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Lower 3<sup>rd</sup> Bone Spring</td>
+<td align="left">5.7</td>
+<td align="left">300</td>
+<td align="left">0.739</td>
+<td align="left">3.32</td>
+<td align="left">0.23</td>
+<td align="left">1,130</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Wolfcamp A</td>
+<td align="left">5.7</td>
+<td align="left">200</td>
+<td align="left">0.733</td>
+<td align="left">3.01</td>
+<td align="left">0.22</td>
+<td valign="top" align="left">1,050</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Wolfcamp B</td>
+<td align="left">7.0</td>
+<td align="left">185</td>
+<td align="left">0.747</td>
+<td align="left">2.68</td>
+<td align="left">0.24</td>
+<td align="left">1,050</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Wolfcamp C</td>
+<td align="left">7.2</td>
+<td align="left">230</td>
+<td align="left">0.745</td>
+<td align="left">2.09</td>
+<td align="left">0.23</td>
+<td align="left">750</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix>
+<linkTarget id="link-23" type="bib">
+<bib id="BIB1">
+<label>Parker et al., (2015, September 2)</label>
+<author>
+<first-name>J.</first-name>
+<last-name>Parker</last-name>
+</author>, <author>
+<first-name>L. W.</first-name>
+<last-name>Bazan</last-name>
+</author>, <author>
+<first-name>V. P.</first-name>
+<last-name>Tran</last-name>
+</author>, <author>
+<first-name>R.</first-name>
+<last-name>White</last-name>
+</author>, &amp; <author>
+<first-name>M. G.</first-name>
+<last-name>Lattibeaudiere</last-name>
+</author>
+<pubDate>(2015, September 2)</pubDate>. <article-title>Technology Integration: A Methodology to Enhance Production in Horizontal Wolfcamp Shale Wells in the Delaware Basin. Society of Petroleum Engineers </article-title>. doi: 10.2118/175535-MS</bib>
+</linkTarget>
+</appendix>
+</docTable>
+<docTable pdf-page="5" table-order="2" data-type-order="5">
+<table-wrap id="102118187253MS-tblwrp-2" content-type="structured">
+<anchoringText id="Ancr2">The core points and the calibrated logs used in the fracture modeling are presented in Figure 3 showing favorable agreement with the inputs. Table 1 shows the average input variables by formation from the initial work and Table 2 represents updated properties from the core calibration. For engineering purposes, the change in values between the two data sets is minor, but does have an effect on width, net pressure and fluid leakoff results.</anchoringText>
+<label>Table 2</label>
+<caption>Avg. core calibrated log-derived reservoir and mechanical rock property data by formation.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Avg. core calibrated log-derived reservoir and mechanical rock property data by formation.</caption-text>
+</formatted-caption>
+<table id="102118187253MS-Tbl_SPi-2" frame="hsides">
+<thead>
+<tr>
+<th valign="top" align="center" />
+<th align="center">Porosity (<i>ϕ</i>)<i>
+</i>(%)</th>
+<th align="center">Permeability (<i>k</i>) (nD)</th>
+<th valign="bottom" align="center">Stress Gradient (σ<i>
+<sub>xx</sub>
+</i>) (psi/ft)</th>
+<th valign="bottom" align="center">Young's Modulus (<i>E<sub>s</sub>
+</i>) (MMpsi)</th>
+<th align="center">Poisson's (<i>v</i>) Ratio (-)</th>
+<th valign="bottom" align="center">Fracture Toughness (<i>K<sub>IC</sub>
+</i>) (psi-in<sup>1/2</sup>)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">Upper 3<sup>rd</sup> Bone Spring</td>
+<td align="left">8.9</td>
+<td align="left">425</td>
+<td align="left">0.781</td>
+<td align="left">3.96</td>
+<td align="left">0.22</td>
+<td align="left">1,184</td>
+</tr>
+<tr>
+<td align="right">Lower 3<sup>rd</sup> Bone Spring</td>
+<td align="left">7.8</td>
+<td align="left">414</td>
+<td align="left">0.758</td>
+<td align="left">3.84</td>
+<td align="left">0.20</td>
+<td align="left">1,113</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Wolfcamp A</td>
+<td align="left">8.0</td>
+<td align="left">430</td>
+<td align="left">0.753</td>
+<td align="left">3.05</td>
+<td align="left">0.21</td>
+<td align="left">849</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Wolfcamp B</td>
+<td align="left">9.3</td>
+<td align="left">608</td>
+<td align="left">0.771</td>
+<td align="left">2.98</td>
+<td align="left">0.22</td>
+<td align="left">833</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Wolfcamp C</td>
+<td align="left">7.9</td>
+<td align="left">450</td>
+<td align="left">0.807</td>
+<td align="left">3.21</td>
+<td align="left">0.24</td>
+<td align="left">918</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="8" table-order="3" data-type-order="6">
+<table-wrap id="102118187253MS-tblwrp-3" content-type="structured">
+<anchoringText id="Ancr3">Applied Post-Job Analytics (APJA) is a post-job engineering based analysis and methodology designed to determine the number of contributing transverse fractures (clusters) in horizontal wellbores, fracturing pressure components and the fracture characteristic half-lengths per stage. Table 3 presents the APJA cluster performance results for Wells A-F. Although the industry usually communicates in terms of cluster efficiency, a more useful metric is the number of fractures per 1,000 ft and the equivalent cluster spacing between open clusters. All three metrics should be considered. Figures 4 and 5 show the APJA cluster analysis results for Well D.</anchoringText>
+<label>Table 3</label>
+<caption>Cluster performance for Wells A-F as determined from Applied Post-Job Analytics.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Cluster performance for Wells A-F as determined from Applied Post-Job Analytics.</caption-text>
+</formatted-caption>
+<table id="102118187253MS-Tbl_SPi-3" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" valign="bottom" align="right">Well</th>
+<th align="center">
+<i>A</i>
+</th>
+<th align="center">B</th>
+<th align="center">C</th>
+<th align="center">D</th>
+<th align="center">E</th>
+<th align="center">F</th>
+<th valign="top" align="center" />
+</tr>
+<tr>
+<th valign="bottom" align="right">Fluid Design</th>
+<th valign="bottom" align="center">
+<i>V<sub>l d</sub>
+</i>
+<sub> sgn</sub>
+</th>
+<th align="center">Hybd</th>
+<th align="center">Hybd</th>
+<th align="center">SW</th>
+<th align="center">SW</th>
+<th align="center">SW</th>
+<th align="center">SW</th>
+<th valign="top" align="center" />
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="right">Proppant Design</td>
+<td valign="bottom" align="left">
+<i>M<sub>d</sub>
+</i>
+<sub> sgn</sub>
+</td>
+<td align="left">1,200</td>
+<td align="left">1,500</td>
+<td align="left">1,800</td>
+<td align="left">3,000</td>
+<td align="left">4,000</td>
+<td align="left">5,000</td>
+<td align="left">(lbm/ft)</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Stage Length</td>
+<td align="left">
+<i>S</i>
+</td>
+<td align="left">261</td>
+<td align="left">220</td>
+<td align="left">220</td>
+<td align="left">200</td>
+<td align="left">150</td>
+<td align="left">200</td>
+<td align="left">(ft)</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Clusters per Stage</td>
+<td valign="bottom" align="left">
+<i>N<sub>c stg</sub>
+</i>
+</td>
+<td align="left">2.1</td>
+<td align="left">2.5</td>
+<td align="left">2.8</td>
+<td align="left">3.2</td>
+<td align="left">3.4</td>
+<td align="left">4.4</td>
+<td valign="bottom" align="left">(open)</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Contributing Clusters</td>
+<td align="left">
+<i>N<sub>c</sub>
+</i>
+</td>
+<td align="left">34</td>
+<td align="left">53</td>
+<td align="left">36</td>
+<td align="left">80</td>
+<td align="left">81</td>
+<td align="left">106</td>
+<td align="left">(-)</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Design Cluster Spacing</td>
+<td align="left">
+<i>d<sub>d</sub>
+</i>
+<sub> sgn</sub>
+</td>
+<td align="left">85</td>
+<td align="left">15-91</td>
+<td align="left">55</td>
+<td align="left">39</td>
+<td align="left">29</td>
+<td align="left">25</td>
+<td align="left">(ft)</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Cluster Efficiency</td>
+<td align="left">
+<i>ηc</i>
+</td>
+<td align="left">70</td>
+<td align="left">75</td>
+<td align="left">69</td>
+<td align="left">65</td>
+<td align="left">70</td>
+<td align="left">56</td>
+<td align="left">(%)</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Fractures per 1000 ft.</td>
+<td align="left">
+<i>N<sub>c</sub>
+</i>
+<sub> 1000</sub>
+</td>
+<td align="left">8</td>
+<td align="left">13</td>
+<td align="left">13</td>
+<td align="left">16</td>
+<td align="left">24</td>
+<td align="left">23</td>
+<td align="left">(N<sub>c</sub>/1000)</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Equiv. Cluster Spacing</td>
+<td align="left">
+<i>d<sub>eqv</sub>
+</i>
+</td>
+<td align="left">130</td>
+<td align="left">59</td>
+<td align="left">81</td>
+<td align="left">63</td>
+<td align="left">44</td>
+<td align="left">47</td>
+<td align="left">(ft)</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Equiv. Rate Per Cluster</td>
+<td align="left">
+<i>Q<sub>eqv</sub> / N<sub>c</sub>
+</i>
+</td>
+<td align="left">37</td>
+<td align="left">34</td>
+<td align="left">34</td>
+<td align="left">28</td>
+<td align="left">27</td>
+<td align="left">21</td>
+<td align="left">(bpm/N<sub>c</sub>)</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Equiv. Liquid Per Cluster</td>
+<td align="left">
+<i>V<sub>l eqv</sub> / N<sub>c</sub>
+</i>
+</td>
+<td align="left">177</td>
+<td align="left">130</td>
+<td align="left">169</td>
+<td align="left">203</td>
+<td align="left">177</td>
+<td align="left">222</td>
+<td align="left">(Mgal/N<sub>c</sub>)</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Equiv. Mass Per Cluster</td>
+<td align="left">
+<i>M<sub>eqv</sub> / N<sub>c</sub>
+</i>
+</td>
+<td align="left">158</td>
+<td align="left">138</td>
+<td align="left">146</td>
+<td align="left">192</td>
+<td align="left">182</td>
+<td align="left">236</td>
+<td align="left">(Mlbm/N<sub>c</sub>)</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">MFC Pressure</td>
+<td align="left">Δ<i>P<sub>mfc</sub>
+</i>
+</td>
+<td align="left">538</td>
+<td align="left">792</td>
+<td align="left">580</td>
+<td align="left">818</td>
+<td align="left">680</td>
+<td align="left">882</td>
+<td align="left">(psi)</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">CBS Pressure</td>
+<td align="left">
+<i>σ<sub>cbs</sub>
+</i>
+</td>
+<td align="left">536</td>
+<td align="left">573</td>
+<td align="left">183</td>
+<td align="left">193</td>
+<td align="left">147</td>
+<td align="left">218</td>
+<td align="left">(psi)</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="14" table-order="4" data-type-order="17">
+<table-wrap id="102118187253MS-tblwrp-4" content-type="structured">
+<anchoringText id="Ancr4">Solutions were determined for the apparent net pressure, true width-opening pressure, mid-field fracture complexity, complex back stress, created length, maximum proppant length (plug displacement), likely proppant length (settled bank) and settled bank height. Likely proppant length can be considered propped length when compared to the DFN model and effective length when compared to the PHM and RTA. Results for the APJA solutions are presented in Table 4 and Figure 13.</anchoringText>
+<label>Table 4</label>
+<caption>Results for Applied Post-Job Analytics pressure components and fracture half-lengths for Wells A-F.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Results for Applied Post-Job Analytics pressure components and fracture half-lengths for Wells A-F.</caption-text>
+</formatted-caption>
+<table id="102118187253MS-Tbl_SPi-4" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" valign="bottom" align="right">Well</th>
+<th align="center">A</th>
+<th align="center">B</th>
+<th align="center">C</th>
+<th align="center">D</th>
+<th align="center">E</th>
+<th align="center">F</th>
+<th rowspan="2" valign="top" align="center" />
+</tr>
+<tr>
+<th valign="bottom" align="right">Fluid Design</th>
+<th valign="bottom" align="center">
+<i>V<sub>l d</sub>
+</i>
+<sub> sgn</sub>
+</th>
+<th align="center">Hybd</th>
+<th align="center">Hybd</th>
+<th align="center">SW</th>
+<th align="center">SW</th>
+<th align="center">SW</th>
+<th align="center">SW</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td valign="bottom" align="right">Proppant Design</td>
+<td valign="bottom" align="left">
+<i>M<sub>d</sub>
+</i>
+<sub> sgn</sub>
+</td>
+<td align="left">1,200</td>
+<td align="left">1,500</td>
+<td align="left">1,800</td>
+<td align="left">3,000</td>
+<td align="left">4,000</td>
+<td align="left">5,000</td>
+<td align="left">(lbm/ft)</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Apparent Net Pressure</td>
+<td valign="top" align="center">Δ<i>P<sub>app</sub>
+</i>
+</td>
+<td align="left">1,657</td>
+<td align="left">1,636</td>
+<td align="left">1,088</td>
+<td align="left">1,273</td>
+<td align="left">1,043</td>
+<td align="left">1,335</td>
+<td align="left">(psi)</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">WO Net Pressure</td>
+<td align="left">Δ<i>P<sub>net</sub>
+</i>
+</td>
+<td align="left">584</td>
+<td align="left">271</td>
+<td align="left">325</td>
+<td align="left">263</td>
+<td align="left">216</td>
+<td align="left">235</td>
+<td align="left">(psi)</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">MFC Pressure</td>
+<td valign="bottom" align="left">Δ<i>P<sub>mfc</sub>
+</i>
+</td>
+<td align="left">538</td>
+<td align="left">792</td>
+<td align="left">580</td>
+<td align="left">818</td>
+<td align="left">680</td>
+<td align="left">882</td>
+<td valign="top" align="left">(psi)</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">CBS Pressure</td>
+<td align="left">
+<i>σ<sub>cbs</sub>
+</i>
+</td>
+<td align="left">536</td>
+<td align="left">573</td>
+<td align="left">183</td>
+<td align="left">193</td>
+<td align="left">147</td>
+<td align="left">218</td>
+<td valign="top" align="left">(psi)</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Created Fracture Half-Length</td>
+<td valign="bottom" align="left">
+<i>a</i>
+</td>
+<td align="left">303</td>
+<td align="left">333</td>
+<td align="left">466</td>
+<td align="left">613</td>
+<td align="left">700</td>
+<td align="left">762</td>
+<td align="left">(ft)</td>
+</tr>
+<tr>
+<td align="right">Max. Prop Frac Half-Length</td>
+<td align="left">
+<i>x<sub>f</sub>
+</i>
+<sub> max</sub>
+</td>
+<td align="left">229</td>
+<td align="left">267</td>
+<td align="left">388</td>
+<td align="left">547</td>
+<td align="left">661</td>
+<td align="left">706</td>
+<td align="left">(ft)</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Prop Frac Half-Length</td>
+<td align="left">
+<i>x<sub>f</sub>
+</i>
+</td>
+<td align="left">205</td>
+<td align="left">236</td>
+<td align="left">281</td>
+<td align="left">362</td>
+<td align="left">391</td>
+<td align="left">428</td>
+<td align="left">(ft)</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Prop Frac Height</td>
+<td align="left">
+<i>H<sub>f</sub>
+</i>
+</td>
+<td align="left">71</td>
+<td align="left">82</td>
+<td align="left">97</td>
+<td align="left">126</td>
+<td align="left">135</td>
+<td align="left">148</td>
+<td align="left">(ft)</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="15" table-order="5" data-type-order="19">
+<table-wrap id="102118187253MS-tblwrp-5" content-type="structured">
+<anchoringText id="Ancr5">The bubble point pressure of 3,800 psi was determined from PVT analysis. Results are presented in Table 5. The propped half-length for Well D is 350 ft which was used to calibrate the effective fracture half-length in the DFN fracture model shown in Figure 12. The designs with increased lbm/ft loading resulted in increased propped fracture half-lengths with the exception of Well A, which utilized 1,200 lbm/ft and shows a propped half-length 193 ft., compared to Well B that had 1,500 lbm/ ft with a propped half-length of 195 ft, respectively.</anchoringText>
+<label>Table 5</label>
+<caption>Production history matching results for Wells A-F.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Production history matching results for Wells A-F.</caption-text>
+</formatted-caption>
+<table id="102118187253MS-Tbl_SPi-5" frame="hsides">
+<thead>
+<tr>
+<th colspan="2" align="right">Well</th>
+<th align="center">A</th>
+<th align="center">B</th>
+<th align="center">C</th>
+<th align="center">D</th>
+<th align="center">E</th>
+<th align="center">F</th>
+<th rowspan="2" valign="top" align="center" />
+</tr>
+<tr>
+<th align="right">Fluid Design</th>
+<th valign="bottom" align="center">
+<i>V<sub>l d</sub>
+</i>
+<sub> sgn</sub>
+</th>
+<th align="center">Hybd</th>
+<th align="center">Hybd</th>
+<th align="center">SW</th>
+<th align="center">SW</th>
+<th align="center">SW</th>
+<th align="center">SW</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="right">Proppant Design</td>
+<td valign="bottom" align="left">
+<i>M<sub>d</sub>
+</i>
+<sub> sgn</sub>
+</td>
+<td align="left">1,200</td>
+<td align="left">1,500</td>
+<td align="left">1,800</td>
+<td align="left">3,000</td>
+<td align="left">4,000</td>
+<td align="left">5,000</td>
+<td align="left">(lbm/ft)</td>
+</tr>
+<tr>
+<td align="right">Reservoir Pressure</td>
+<td align="left">
+<i>P<sub>i</sub>
+</i>
+</td>
+<td align="left">7,500</td>
+<td align="left">7,950</td>
+<td align="left">5,825</td>
+<td align="left">7,950</td>
+<td align="left">7,800</td>
+<td align="left">7,800</td>
+<td align="left">(psi)</td>
+</tr>
+<tr>
+<td align="right">Cluster Efficiency</td>
+<td align="left">
+<i>η<sub>c</sub>
+</i>
+</td>
+<td align="left">70</td>
+<td align="left">75</td>
+<td align="left">69</td>
+<td align="left">65</td>
+<td align="left">70</td>
+<td align="left">56</td>
+<td align="left">(%)</td>
+</tr>
+<tr>
+<td align="right">Propped Half-Length</td>
+<td align="left">
+<i>x<sub>f</sub>
+</i>
+</td>
+<td align="left">193</td>
+<td align="left">195</td>
+<td align="left">249</td>
+<td align="left">350</td>
+<td align="left">399</td>
+<td align="left">438</td>
+<td align="left">(ft)</td>
+</tr>
+<tr>
+<td align="right">Conductivity</td>
+<td align="left">
+<i>W<sub>f</sub> W<sub>f</sub>
+</i>
+</td>
+<td align="left">0.101</td>
+<td align="left">0.153</td>
+<td align="left">0.576</td>
+<td align="left">0.722</td>
+<td align="left">0.748</td>
+<td align="left">0.821</td>
+<td align="left">(mD-ft)</td>
+</tr>
+<tr>
+<td align="right">Dim. Conductivity</td>
+<td align="left">
+<i>C<sub>fd</sub>
+</i>
+</td>
+<td align="left">1.40</td>
+<td align="left">2.09</td>
+<td align="left">6.17</td>
+<td align="left">5.50</td>
+<td align="left">5.0</td>
+<td align="left">5.0</td>
+<td align="left">(-)</td>
+</tr>
+<tr>
+<td align="right">Permeability</td>
+<td align="left">
+<i>k</i>
+</td>
+<td align="left">350</td>
+<td align="left">425</td>
+<td align="left">325</td>
+<td align="left">425</td>
+<td align="left">300</td>
+<td align="left">350</td>
+<td align="left">(nD)</td>
+</tr>
+<tr>
+<td align="right">Reservoir Capacity</td>
+<td align="left">
+<i>kh</i>
+</td>
+<td align="left">0.063</td>
+<td align="left">0.077</td>
+<td align="left">0.059</td>
+<td align="left">0.077</td>
+<td align="left">0.054</td>
+<td align="left">0.063</td>
+<td align="left">(mD-ft)</td>
+</tr>
+<tr>
+<td align="right">Equivalent Fracture Skin</td>
+<td align="left">
+<i>S<sub>f</sub>
+</i>
+</td>
+<td align="left">-4.8</td>
+<td align="left">-4.7</td>
+<td align="left">-5.7</td>
+<td align="left">-6.0</td>
+<td align="left">-6.1</td>
+<td align="left">-6.1</td>
+<td align="left">(-)</td>
+</tr>
+<tr>
+<td align="right">Std. Deviation</td>
+<td align="left">
+<i>std (X)</i>
+</td>
+<td align="left">64</td>
+<td align="left">75</td>
+<td align="left">58</td>
+<td align="left">287</td>
+<td align="left">238</td>
+<td align="left">433</td>
+<td align="left">(bbl/d)</td>
+</tr>
+<tr>
+<td valign="bottom" align="right">Error</td>
+<td valign="bottom" align="left">
+<i>err</i>
+</td>
+<td align="left">20.7</td>
+<td align="left">17.7</td>
+<td align="left">9.6</td>
+<td align="left">14.3</td>
+<td align="left">20.2</td>
+<td align="left">12.7</td>
+<td valign="bottom" align="left">(%)</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="16" table-order="6" data-type-order="21">
+<table-wrap id="102118187253MS-tblwrp-6" content-type="structured">
+<anchoringText id="Ancr6">Table 6 shows a comparison of cluster efficiency using APJA for Wells A-F and OFT for Well B. Additionally, results for created fracture half-lengths from the DFN modeling for Well D and the APJA created fracture half-lengths for Wells A-F are shown. Finally, a summary comparison for Well D of the effective propped fracture half-lengths from the DFN model, PHM, RTA analysis and APJA. The remaining solutions for Wells A-F are shown from APJA technique only.</anchoringText>
+<label>Table 6</label>
+<caption>Summary results of cluster efficiency and created and propped fracture half-length for Wells A-F.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Summary results of cluster efficiency and created and propped fracture half-length for Wells A-F.</caption-text>
+</formatted-caption>
+<table id="102118187253MS-Tbl_SPi-6" frame="hsides">
+<thead>
+<tr>
+<th rowspan="3" valign="top" align="center" />
+<th colspan="2" valign="top" align="center">Cluster Efficiency</th>
+<th colspan="2" valign="top" align="center">Created Half-Length</th>
+<th colspan="4" valign="top" align="center">Propped (Effective) Fracture Half-Length</th>
+</tr>
+<tr>
+<th colspan="2" align="center">
+<i>η<sub>c</sub>
+</i>
+</th>
+<th colspan="2" align="center">(<i>a</i>)</th>
+<th colspan="4" align="center">(<i>x<sub>f</sub>
+</i>)</th>
+</tr>
+<tr>
+<th align="center">APJA (%)</th>
+<th align="center">OFT (%)</th>
+<th align="center">DFN (ft)</th>
+<th align="center">APJA (ft)</th>
+<th align="center">DFN (ft)</th>
+<th align="center">PHM (ft)</th>
+<th align="center">RTA (ft)</th>
+<th align="center">APJA (ft)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Well A</td>
+<td align="left">70</td>
+<td valign="top" align="left">–</td>
+<td valign="top" align="center">–</td>
+<td align="left">303</td>
+<td valign="top" align="center">–</td>
+<td align="left">193</td>
+<td valign="top" align="center">–</td>
+<td align="left">205</td>
+</tr>
+<tr>
+<td align="left">Well B</td>
+<td align="left">75</td>
+<td align="left">69</td>
+<td valign="top" align="center">–</td>
+<td align="left">333</td>
+<td valign="top" align="center">–</td>
+<td align="left">195</td>
+<td valign="top" align="center">–</td>
+<td align="left">236</td>
+</tr>
+<tr>
+<td align="left">Well C</td>
+<td align="left">69</td>
+<td valign="top" align="left">–</td>
+<td valign="top" align="center">–</td>
+<td align="left">466</td>
+<td valign="top" align="center">–</td>
+<td align="left">249</td>
+<td valign="top" align="center">–</td>
+<td align="left">281</td>
+</tr>
+<tr>
+<td align="left">Well D</td>
+<td align="left">65</td>
+<td valign="top" align="center">–</td>
+<td align="left">632</td>
+<td align="left">613</td>
+<td align="left">364</td>
+<td align="left">350</td>
+<td align="left">358</td>
+<td align="left">362</td>
+</tr>
+<tr>
+<td align="left">Well E</td>
+<td align="left">70</td>
+<td valign="top" align="center">–</td>
+<td valign="top" align="center">–</td>
+<td align="left">700</td>
+<td valign="top" align="center">–</td>
+<td align="left">399</td>
+<td valign="top" align="center">–</td>
+<td align="left">391</td>
+</tr>
+<tr>
+<td align="left">Well F</td>
+<td align="left">56</td>
+<td valign="top" align="center">–</td>
+<td valign="top" align="center">–</td>
+<td align="left">762</td>
+<td valign="top" align="center">–</td>
+<td align="left">438</td>
+<td valign="top" align="center">–</td>
+<td align="left">428</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="17" table-order="7" data-type-order="23">
+<table-wrap id="102118187253MS-tblwrp-7" content-type="structured">
+<anchoringText id="Ancr7">Each subsequent stimulation design change has made a marked difference in the well production results with approximately 15% improvement on average for approximately 10% increase in proppant loading. Results are presented in Table 7. These early improvements were encouraging and gave the team confidence about the potential uplift from further completion design changes. The 1,200 lbm/ft hybrid fluid design increased to 1,600 lbm/ft hybrid and resulted in 20% uplift.</anchoringText>
+<label>Table 7</label>
+<caption>Summary results of production improvement for increased proppant designs relative to the previous design.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Summary results of production improvement for increased proppant designs relative to the previous design.</caption-text>
+</formatted-caption>
+<table id="102118187253MS-Tbl_SPi-7" frame="hsides">
+<thead>
+<tr>
+<th align="center">Design (lbm/ft)</th>
+<th align="center">Fluid Type</th>
+<th align="center">Fractures per 1000 ft.</th>
+<th align="center">Production Improvement, %</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">1,200</td>
+<td align="left">Hybrid</td>
+<td align="left">8</td>
+<td valign="top" align="left">–</td>
+</tr>
+<tr>
+<td align="left">1,600</td>
+<td align="left">Hybrid</td>
+<td align="left">13</td>
+<td align="left">20</td>
+</tr>
+<tr>
+<td align="left">1,800</td>
+<td align="left">Slickwater</td>
+<td align="left">13</td>
+<td align="left">13</td>
+</tr>
+<tr>
+<td align="left">3,000</td>
+<td align="left">Slickwater</td>
+<td align="left">16</td>
+<td align="left">18</td>
+</tr>
+<tr>
+<td align="left">4,000</td>
+<td align="left">Slickwater</td>
+<td align="left">24</td>
+<td align="left">13</td>
+</tr>
+<tr>
+<td align="left">5,000</td>
+<td align="left">Slickwater</td>
+<td align="left">23</td>
+<td align="left">17</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+<docTable pdf-page="19" table-order="8" data-type-order="26">
+<table-wrap id="102118187253MS-tblwrp-8" content-type="structured">
+<anchoringText id="Ancr8">Table 8 shows a summary of percent production uplift and the increased cost percentage to obtain the production above the 1,200 lbm/ft design. Figures 19-22 presents the Discounted Return on Investment (DROI) for each job design by transverse fractures, propped fracture half-length, over a 10 year period and relative to each other, respectively. Only the completion cost was utilized in these simulations and not full well cost. Initial economic evaluation supports pumping up to 5,000 lbm/ft continues to increase the DROI and Net Present Value, NPV.</anchoringText>
+<label>Table 8</label>
+<caption>Economic analysis results of production improvement and cost increase above the 1,200 lbm/ft design.</caption>
+<formatted-caption>
+<caption-label>Table</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Economic analysis results of production improvement and cost increase above the 1,200 lbm/ft design.</caption-text>
+</formatted-caption>
+<table id="102118187253MS-Tbl_SPi-8" frame="hsides">
+<thead>
+<tr>
+<th align="center">Design (lbm/ft)</th>
+<th align="center">Fluid Type</th>
+<th valign="top" align="center">Production Increase vs. 1200 lbm/ ft Hybrid, %</th>
+<th valign="top" align="center">Cost Increase vs. 1200 lbm/ ft Hybrid, %</th>
+<th align="center">Production Uplift vs. Cost Increase, %</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">1,200</td>
+<td align="left">Hybrid</td>
+<td valign="top" align="left">–</td>
+<td valign="top" align="left">–</td>
+<td valign="top" align="left">–</td>
+</tr>
+<tr>
+<td align="left">1,600</td>
+<td align="left">Hybrid</td>
+<td align="left">20</td>
+<td align="left">5</td>
+<td align="left">15</td>
+</tr>
+<tr>
+<td align="left">1,800</td>
+<td align="left">Slickwater</td>
+<td align="left">35</td>
+<td align="left">4</td>
+<td align="left">31</td>
+</tr>
+<tr>
+<td align="left">3,000</td>
+<td align="left">Slickwater</td>
+<td align="left">59</td>
+<td align="left">23</td>
+<td align="left">36</td>
+</tr>
+<tr>
+<td align="left">4,000</td>
+<td align="left">Slickwater</td>
+<td align="left">80</td>
+<td align="left">42</td>
+<td align="left">38</td>
+</tr>
+<tr>
+<td align="left">5,000</td>
+<td align="left">Slickwater</td>
+<td align="left">111</td>
+<td align="left">59</td>
+<td align="left">52</td>
+</tr>
+</tbody>
+</table>
+</table-wrap>
+<appendix />
+</docTable>
+</docTableList>
+</docTables>

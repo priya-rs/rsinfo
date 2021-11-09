@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118191834MS.txt" extractionDate="2021-03-31T17:07:21Z">
+<doi>10.2118/191834-MS</doi>
+<pii>10.2118/191834-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="2">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr8">The following workflow, see fig#1 was developed to determine optimal cluster and well spacing. Each step is explained through out the document. Figures, charts and results in documents are examples.</anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_1.tif" id="ImgLink-1" />
+<caption>Proposed workflow for optimum perf cluster and well spacing</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Proposed workflow for optimum perf cluster and well spacing</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="3" figure-order="2" data-type-order="3">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr9">In shale reservoirs flow regimens stay in transient flow for a long period of time due to the low permeability which ranges in the Nano Darcies figures. This aspect makes very difficult to estimate recoveries in early times. However, diagnostic plot- Linear Flow Specialized –Normalized pressure vs. square root of time (fig#2) can be used as a completion effectiveness tool if limited variation in reservoir properties7 is a characteriistic of the selected Area. Diagnostic Plot is a good indicator of completion effectiveness based on early well performance data and also quantifies total connected fracture area and square root of time of SRV permeability.</anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_2.tif" id="ImgLink-2" />
+<caption>diagnostic plot- Linear Flow Specialized –Normalized pressure vs. square root of time<sup>9</sup>
+</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>diagnostic plot- Linear Flow Specialized –Normalized pressure vs. square root of time<link href="BIB1"><sup>9</sup></link></caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-1" type="bib">
+<bib id="BIB1">
+<label>9</label>
+<author>SPE</author> Argentina Session - Conference &#x2013; <article-title>Buenos Aires Argentina &#x2013;</article-title> April <pubDate>2018</pubDate> &#x2013; Unconventional Vaca Muerta - Maximizing the Reservoir Access with Completion Optimization and Effectiveness &#x2013; Fabio Chiarandini &amp; Luciano Fuchello</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="3" data-type-order="4">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr10">Also, it is appeared to be (Fig#3) that there is a good correlation between Normalized Area of contact (total connected fracture area) vs. Normalized EUR. In other words, better the AC*sqr K better wells2.</anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_3.tif" id="ImgLink-3" />
+<caption>Normalized <math>
+ <mrow>
+  <mtext>A</mtext><msqrt>
+   <mi>K</mi>
+  </msqrt>
+  </mrow>
+</math>
+ vs. Normalized EUR</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Normalized <math>
+ <mrow>
+  <mtext>A</mtext><msqrt>
+   <mi>K</mi>
+  </msqrt>
+  </mrow>
+</math> vs. Normalized EUR</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="4" data-type-order="6">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr11">P50 values are used in a numerical or analytical model so then we can use the model to assess a range of Production forecast (fig#4) for optimal fracture spacing to be used later in the workflow (table# 2).</anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_4.tif" id="ImgLink-4" />
+<caption>Range of Production forecast for optimal fracture spacing – Example</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Range of Production forecast for optimal fracture spacing – Example</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="5" data-type-order="8">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr12">Integration of all data, such as: cost, petrophysics and validation of model data against early time production history is necessary (fig#5).</anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_5.tif" id="ImgLink-5" />
+<caption>validation of model data against early time production history – Example</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>validation of model data against early time production history – Example</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="9">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr13">The second step is to validate the results of a robust numerical simulator (in this case Intersect) versus a commercial simplified numerical simulator. A simplified earth model was used taking into account the models' strengths and weaknesses of commercial simplified numerical simulator, showed in fig#6.</anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_6.tif" id="ImgLink-6" />
+<caption>Simplified Commercial Numerical Simulator Characteristics example</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Simplified Commercial Numerical Simulator Characteristics example</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="7" data-type-order="10">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr14">A homogeneous reservoir without natural fractures was proposed to be numerically simulated by drilling a defined number of horizontal wells. Fig. #7 describes two extreme cases for reservoir simulation. Case 1: minimum amount of horizontal wells (4), spaced 1000ft, and case 5: maximum amount of horizontal wells (8), spaced 500ft. The other 3 cases are represented in Table# 4. Completion designs were assumed at 3 clusters per stage assuming cluster spacing of 60, 80 &amp;100ft.</anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_7.tif" id="ImgLink-7" />
+<caption>Description of two extreme cases. Study example uses 5,6, and 7 wells cases.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Description of two extreme cases. Study example uses 5,6, and 7 wells cases.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="8" data-type-order="12">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr15">Simulation results presented in fig# 8 shows that the simplified numerical simulator EUR's compare favorably with the more robust numerical simulator.</anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_8.tif" id="ImgLink-8" />
+<caption>Simulator Results comparison</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Simulator Results comparison</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="9" data-type-order="13">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr16">One of weaknesses presented in the use of simplified numerical simulator is that the fracture cannot overlap due to simulator limitations (see weekness in fig# 6). In order to incorporate the mentioned limitation in the analysis, fracture overlap was incorporated (fig 9) in the simulation in order to evaluate its impact on well performance.</anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_9.tif" id="ImgLink-9" />
+<caption>Impact of overlapping in well performance</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Impact of overlapping in well performance</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="10" data-type-order="15">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr17">The third step is to analyze the impact on well and cluster spacing of a specific economic indicator to all reservoir, geology and completions parameters that affect the numerical simulation run results and their economic indicators. Fig# 10 shows all parameters that were identified as uncertainties and tested. The tornado chart displayed in fig #10 is an example that shows each of the uncertainty impacts on a particular scenario NPV.</anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_10.tif" id="ImgLink-10" />
+<caption>Tornado Chart – Selection of main uncertainties – Example</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Tornado Chart – Selection of main uncertainties – Example</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="11" data-type-order="16">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr18">Step number 4 requires running selected production forecasts using simplified numerical simulator based on the selected uncertainties identified in step 3. The following decision tree (fig 11) was developed to understand the impact of each uncertainty on cluster and well spacing. The decision node #1 and 2 includes well spacing and cluster spacing cases while the probabilistic node (2, 3, 4, 5) includes the P10, P50 and P90 values identified in step 3. The P10 and P90 cases are represented as 25% Chance of occurrence which indicates normal distribution in all identified uncertainties.</anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_11.tif" id="ImgLink-11" />
+<caption>Decision tree squematic – Example</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Decision tree squematic – Example</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="12" data-type-order="17">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr19">Fig 12 shows an example of 81 production forecast run from cases selected based on uncertainties impact described in step 3.</anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_12.tif" id="ImgLink-12" />
+<caption>Production forecast Cases-Example</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Production forecast Cases-Example</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="13" data-type-order="19">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr20">Only 24 production forecast need to be run to assess all possible combinations. DOE generates a proxy (polynomic equation) which incorporates all variables included in the table 6. Proxy is compared with cases run in simplified simulator for validation. See Fig 13. Also validation of all DOE cases compared with 25 cases from Placked Burman design is showed in fig 14.</anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_13.tif" id="ImgLink-13" />
+<caption>Validation of Proxy 81 models</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Validation of Proxy 81 models</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="14" data-type-order="20">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr21">Only 24 production forecast need to be run to assess all possible combinations. DOE generates a proxy (polynomic equation) which incorporates all variables included in the table 6. Proxy is compared with cases run in simplified simulator for validation. See Fig 13. Also validation of all DOE cases compared with 25 cases from Placked Burman design is showed in fig 14.</anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_14.tif" id="ImgLink-14" />
+<caption>NPV-DOEvs25 cases (Placket Burman design)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>NPV-DOEvs25 cases (Placket Burman design)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="15" data-type-order="21">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr22">Deterministic economic analysis are performed for the selected cases assuming P50 values for all the uncertainties selected in step #3. Examples of value drivers could be DPIR (discount profit invetment ratio) &amp; NPV(Net present value), EUR/1000ft (Estimated ultimate recovery per 1000ft) and first year production. Results indicated in Fig 15 shows an example of NPV and DPI for each well and cluster spacing scenario and reserves increase from a particular scenario. It is clear that the optimum well and cluster spacing is a function of the value measure.</anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_15.tif" id="ImgLink-15" />
+<caption>Deterministic ecomonic analysis-Example for P50 Values</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Deterministic ecomonic analysis-Example for P50 Values</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="16" data-type-order="22">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr23">Probabilistic Analysis are performed using Decision Analysis (DAT) technique. The intent is to see the impact of each main uncertainty selected in step 3 on the selected value drivers. Sensitivity of value driver to parameter probability are the results showed in charts Fig 16 and 17 where value drivers are sensible (change decision) to the parameter selected Fig 16 and not sensible (no change in decision) Fig 17.</anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_16.tif" id="ImgLink-16" />
+<caption>DPIR Sensitivity to Permeability-Sensible sensible Examples.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>DPIR Sensitivity to Permeability-Sensible sensible Examples.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="17" data-type-order="23">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr24">Probabilistic Analysis are performed using Decision Analysis (DAT) technique. The intent is to see the impact of each main uncertainty selected in step 3 on the selected value drivers. Sensitivity of value driver to parameter probability are the results showed in charts Fig 16 and 17 where value drivers are sensible (change decision) to the parameter selected Fig 16 and not sensible (no change in decision) Fig 17.</anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_17.tif" id="ImgLink-17" />
+<caption>NPV Sensitivity to permeability-not Examples.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>NPV Sensitivity to permeability-not Examples.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="18" data-type-order="24">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr25">The capital efficiency chart (fig#18) is another visualization tool that helps asset teams to make decisions when value drivers (NPV and DPIR) leads to different conclusions.</anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_18.tif" id="ImgLink-18" />
+<caption>Capital Efficiency Chart – Example</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Capital Efficiency Chart – Example</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="19" data-type-order="26">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr26"> </anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-19">
+<label>Figure 20 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_19.tif" id="ImgLink-19" />
+<caption>Competitor Analysis Table example from different companies operated in same area</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Competitor Analysis Table example from different companies operated in same area</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="20" data-type-order="27">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr27"> </anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-20">
+<label>Figure 21 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_20.tif" id="ImgLink-20" />
+<caption>Microseismic</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>21</caption-order>
+<caption-text>Microseismic</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="21" data-type-order="28">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr28">See FIG#22 for a detailed workflow which includes inputs, analysis and outputs for each step.</anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-21">
+<label>Figure 22 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_21.tif" id="ImgLink-21" />
+<caption>Proposed workflow to determine Cluster and well spacing in UCR</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>22</caption-order>
+<caption-text>Proposed workflow to determine Cluster and well spacing in UCR</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="18" figure-order="22" data-type-order="29">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr29">Currently the most direct method of monitoring stimulation of rocks during hydraulic fracturing. Data is used to map/characterize fracture growth (azimuth, length, height, etc.), and in some cases to understand source/failure mechanisms. Mapping of microseismic events in real time can provide useful information on fracture growth and completions effectiveness – other operators have used microseismic monitoring in real time to change completions design on the fly and well spacing due to overlapping (see fig 23). Microseismic monitoring can be conducted downhole (using tools in horizontal and/or vertical borehole), from surface, or using a combination of both surface and downhole.</anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-22">
+<label>Figure 23 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_22.tif" id="ImgLink-22" />
+<caption>Portfolio Analysis Tool (PAT) dashboard</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>23</caption-order>
+<caption-text>Portfolio Analysis Tool (PAT) dashboard</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="19" figure-order="23" data-type-order="30">
+<link href="link-23" type="image" />
+<appendix>
+<linkTarget id="link-23" type="image">
+<anchoringText id="Ancr30">Drilling more wells on a pad (closer well spacing) does not increase the yearly capital requirements, but does require more capital over time as a consequence drilling more wells will maintain the peak production plateau longer when facilities constrain exist. See fig#24 and fig#25</anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-23">
+<label>Figure 24 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_23.tif" id="ImgLink-23" />
+<caption>Small Portfolio Results 10 Pads – 80 wells Gas Production – MCFD Annual Net Capex w/G\&amp;A, Undiscounted</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>24</caption-order>
+<caption-text>Small Portfolio Results 10 Pads – 80 wells Gas Production – MCFD Annual Net Capex w/G\&amp;A, Undiscounted</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191834MS-Img_SPi-23a">
+<imageLink type="mediaResource" href="102118191834MS_i_23a.tif" id="ImgLink-23a" />
+<figure-specific-caption>
+<caption-text>Gas Production – MCFD</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191834MS-Img_SPi-23b">
+<imageLink type="mediaResource" href="102118191834MS_i_23b.tif" id="ImgLink-23b" />
+<figure-specific-caption>
+<caption-text>Annual Net Capex w/G\&amp;A, Undiscounted</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="20" figure-order="24" data-type-order="31">
+<link href="link-24" type="image" />
+<appendix>
+<linkTarget id="link-24" type="image">
+<anchoringText id="Ancr31">Drilling more wells on a pad (closer well spacing) does not increase the yearly capital requirements, but does require more capital over time as a consequence drilling more wells will maintain the peak production plateau longer when facilities constrain exist. See fig#24 and fig#25</anchoringText>
+<image-wrap id="102118191834MS-Img_SPi-24">
+<label>Figure 25 </label>
+<imageLink type="mediaResource" href="102118191834MS_i_24.tif" id="ImgLink-24" />
+<caption>Large Portfolio Results 50 Pads – 400 wells Gas Production – MCFD Annual Net Capex w/G\&amp;A, Undiscounted</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>25</caption-order>
+<caption-text>Large Portfolio Results 50 Pads – 400 wells Gas Production – MCFD Annual Net Capex w/G\&amp;A, Undiscounted</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118191834MS-Img_SPi-24a">
+<imageLink type="mediaResource" href="102118191834MS_i_24a.tif" id="ImgLink-24a" />
+<figure-specific-caption>
+<caption-text>Gas Production – MCFD</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118191834MS-Img_SPi-24b">
+<imageLink type="mediaResource" href="102118191834MS_i_24b.tif" id="ImgLink-24b" />
+<figure-specific-caption>
+<caption-text>Annual Net Capex w/G\&amp;A, Undiscounted</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118185851MS.txt" extractionDate="2021-03-25T17:00:03Z">
+<doi>10.2118/185851-MS</doi>
+<pii>10.2118/185851-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="3" figure-order="1" data-type-order="1">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr4">The target production formation, T-Unit, is located within the Lower Saramacca member of the Saramacca Formation in the stratigraphic column of the coastal plain of Suriname (Haskell et al. 2010). The formation is sedimentary and young geologically. The available evidence indicates that in the study area compaction is the dominate drive mechanism with a possibility of very weak water influx from the cretaceous Nickerie formation, located at the bottom of the T-Unit (Fig. 1).</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_1.tif" id="ImgLink-1" />
+<caption>Stratigraphy column of the T-units (modified from Haskell <i>et al</i>. 2010)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Stratigraphy column of the T-units (modified from <link href="BIB1">Haskell et al. 2010</link>)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-26" type="bib">
+<bib id="BIB1">
+<label>Haskell et al., 2010</label>
+<author>
+<first-name>J. B.</first-name>
+<last-name>Haskell</last-name>
+</author>, <author>
+<first-name>S.</first-name>
+<last-name>Toelsie</last-name>
+</author>, and <author>
+<first-name>A.</first-name>
+<last-name>Mohan</last-name>
+</author>
+<pubDate>2010</pubDate>. <article-title>Optimization of Sand Control for Unconsolidated, Shallow, and Low-pressure Sandstone Reservoirs: A Suriname Case Study. Presented at the Trinidad and Tobago Energy Resources Conference held in Port of Spain, Trinidad. 27-30 June </article-title>. SPE-133461-MS. http://dx.doi.org/10.2118/133461-MS.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="4" figure-order="2" data-type-order="2">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr5">During compaction and dilation, the relationship between grid block porosity, φ, and grid block pressure, p, was described by Eq. 1 (Beattie et al. 1991). Thermal expansion effects were not included because our system was isothermal. Fig. 2 depicts the process of compaction with elastic and plastic behavior for a sandstone reservoir.</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_2.tif" id="ImgLink-2" />
+<caption>Rock compaction-rebounding model (CMG STARS Users Guide 2013)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Rock compaction-rebounding model <link href="BIB2">(CMG STARS Users Guide 2013)</link>
+</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+<linkTarget id="link-27" type="bib">
+<bib id="BIB2">
+<author></author>
+<article-title>CMG STARS Users Guide</article-title>
+. <pubDate>2013</pubDate>. <pages><first-page>309</first-page></pages>.</bib>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="5" figure-order="3" data-type-order="3">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr6">Fig. 3 illustrates the simulation model that was built with 3-D heterogeneous grid blocks 15 × 15 × 1 in x, y, and z directions based on a well pattern from the Tambaredjo polymer flooding pilot project. For an average grid block in the T unit, dx = 28.804 m (94.5 ft), dy = 18.147 m (59.54 ft), dz = 10.88 m (35.71 ft). However, each grid block had a unique thickness in the z-direction. The average well spacing between injector and producer (in the simulation model) was 139.8 m (459 ft). A five-spot well pattern consisted of one injector (labeled I1 and corresponding to actual injector, 1M101), and four producers: P1, P2, P3, and P4—corresponding to actual producers 1M051, 1M09, 1M10, and 1N06, respectively.</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_3.tif" id="ImgLink-3" />
+<caption>Simulation model</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Simulation model</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="6" figure-order="4" data-type-order="5">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr7">Incremental oil recovery from waterflooding and polymer flooding was significantly less after primary production from a compaction drive than when no significant compaction drive occurred—simply because the oil recovery target was less. This point is illustrated in Fig. 4, where for a given circumstance when compressibility was 5.6x10-4 psi-1, the incremental oil recovery was roughly half the value for compressibility of 1 × 10-6 psi-1. In particular, after 22 years of 125-cp polymer flooding, cumulative incremental oil production over the compaction drive was 43.9% OOIP with compressibility of 1 × 10-6 psi-1 versus 23.6% OOIP with compressibility of 5.6 × 10-4 psi-1.</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_4.tif" id="ImgLink-4" />
+<caption>Overall oil production with compressibility = 1 × 10<sup>-6</sup> psi<sup>-1</sup> versus 5.6×10<sup>-4</sup> psi<sup>-1</sup>: Compaction, waterflood, and 125-cp polymer flood drives</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Overall oil production with compressibility = 1 × 10<sup>-6</sup> psi<sup>-1</sup> versus 5.6×10<sup>-4</sup> psi<sup>-1</sup>: Compaction, waterflood, and 125-cp polymer flood drives</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="5" data-type-order="6">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr8">Fig. 5 provides water cuts associated with the curves in Fig. 4. For primary production with compressibility of 1×10-6 psi-1, water cut remained below 5% for the entire 39-year production history (bottom thick curve with no symbols in Fig. 5). In contrast, for primary production with compressibility of 5.6×10-4 psi-1, water cut gradually rose to 56% (upper thin curve with no symbols). As explanation for the latter observation, even though the water saturation may have been distributed evenly throughout the reservoir at the time of discovery, water moved preferentially toward production wells during the compaction drive (leaving higher saturations of the viscous oil far from the wells).</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_5.tif" id="ImgLink-5" />
+<caption>Water cuts associated with Fig. 4</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Water cuts associated with <link href="102118185851MS-Img_SPi-4">Fig. 4</link>
+</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="7" figure-order="6" data-type-order="7">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr9">Fig. 6 shows producing water/oil ratios for individual production wells (Wells P1-P4) for compaction drive only, associated with the two compressibility values. For a given compressibility, water cuts showed qualitatively similar behavior (although they increased most for Well P2 and less for Wells P1 and P4). As mentioned above, water cuts remained significantly less for compressibility of 1 × 10-6 psi than for the more compressible case.</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_6.tif" id="ImgLink-6" />
+<caption>Producing water/oil ratio for compaction drive for individual wells. Legend: P number indicates well. Second number is compressibility in psi<sup>-1</sup>
+</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Producing water/oil ratio for compaction drive for individual wells. Legend: P number indicates well. Second number is compressibility in psi<sup>-1</sup>
+</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="7" data-type-order="8">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr10">Figs. 7 and 8 plot water/oil ratios during waterflooding and 125-cp polymer flooding for the individual wells with the two compressibility values. In Figs. 6-8, water/oil ratios were plotted instead of water cuts to accentuate the differences in response. For the waterflood, in both figures, the water/oil ratio (WOR) increased monotonically with time. With compressibility of 1×10-6 psi-1, very small, temporary decreases in WOR were noted in response to the polymer flood (in Wells P2, P3, and P4 in Fig. 7). For compressibility of 5.6×10-4 psi-1, more pronounced decreases in WOR were noted in the same wells, in response to the polymer flood (Fig. 8). Presumably, this difference occurred because higher water fractional flows existed at the start of polymer flooding when compressibility was 5.6×10-4 psi-1.</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_7.tif" id="ImgLink-7" />
+<caption>Water/oil ratios for waterflooding and 125-cp polymer flooding with 1 × 10<sup>-6</sup> psi<sup>-1</sup> compressibility</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Water/oil ratios for waterflooding and 125-cp polymer flooding with 1 × 10<sup>-6</sup> psi<sup>-1</sup> compressibility</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="8" data-type-order="9">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr11">Figs. 7 and 8 plot water/oil ratios during waterflooding and 125-cp polymer flooding for the individual wells with the two compressibility values. In Figs. 6-8, water/oil ratios were plotted instead of water cuts to accentuate the differences in response. For the waterflood, in both figures, the water/oil ratio (WOR) increased monotonically with time. With compressibility of 1×10-6 psi-1, very small, temporary decreases in WOR were noted in response to the polymer flood (in Wells P2, P3, and P4 in Fig. 7). For compressibility of 5.6×10-4 psi-1, more pronounced decreases in WOR were noted in the same wells, in response to the polymer flood (Fig. 8). Presumably, this difference occurred because higher water fractional flows existed at the start of polymer flooding when compressibility was 5.6×10-4 psi-1.</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_8.tif" id="ImgLink-8" />
+<caption>Water/oil ratios for waterflooding and 125-cp polymer flooding with 5.6×10<sup>-4</sup> psi<sup>-1</sup> compressibility</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Water/oil ratios for waterflooding and 125-cp polymer flooding with 5.6×10<sup>-4</sup> psi<sup>-1</sup> compressibility</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="9" data-type-order="10">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr12">Fig. 9 shows incremental oil recoveries for waterflooding over compaction for the individual wells with the two compressibility values. For both compressibility values, Well P1 showed the greatest response, while Well P3 provided the least incremental oil. The positive oil response of Well P1 is consistent the observation that oil saturations were highest in that part of the pattern.</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_9.tif" id="ImgLink-9" />
+<caption>Incremental oil from waterflooding over compaction for individual wells</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Incremental oil from waterflooding over compaction for individual wells</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="10" data-type-order="11">
+<link href="link-10" type="image" />
+<appendix>
+<linkTarget id="link-10" type="image">
+<anchoringText id="Ancr13">Fig. 10 shows incremental oil recoveries for 125-cp polymer flooding over compaction for the individual wells with the two compressibility values. In this figure, Well P4 showed the greatest response, while Wells P1 and P3 provided the least incremental oil (for both compressibility values). In comparing Figs. 9 and 10, the polymer flood displaced oil towards Well P4 in preference to Well P1 (relative to the waterflood behavior). From Year 20 onward in Fig. 10, incremental oil (relative to compaction) in Well P1 (black curve and black circles) actually decreased for both compressibility values—again, demonstrating that the polymer pushed oil away from Well P1.</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-10">
+<label>Figure 10 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_10.tif" id="ImgLink-10" />
+<caption>Incremental oil from 125-cp polymer flooding over compaction for individual wells</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>10</caption-order>
+<caption-text>Incremental oil from 125-cp polymer flooding over compaction for individual wells</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="11" data-type-order="12">
+<link href="link-11" type="image" />
+<appendix>
+<linkTarget id="link-11" type="image">
+<anchoringText id="Ancr14">Fig. 11 shows incremental oil recoveries for 125-cp polymer flooding over waterflooding for the individual wells with the two compressibility values. In this figure, Well P4 showed the greatest response, while Wells P1 and P3 provided the least incremental oil. As mentioned above, the path from the injector toward Well P1 was preferred during waterflooding, but polymer flooding redistributed the pressure gradients and pushed the oil toward Well P4 in preference to Well P1. In later years (Years 30-40) for the high-compressibility case, this effect was great enough to make the cumulative oil production from Well P1 greater during waterflooding than during polymer flooding (solid black circles in Fig. 11).</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-11">
+<label>Figure 11 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_11.tif" id="ImgLink-11" />
+<caption>Incremental oil from 125-cp polymer flooding over waterflooding for individual wells</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>11</caption-order>
+<caption-text>Incremental oil from 125-cp polymer flooding over waterflooding for individual wells</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="12" data-type-order="13">
+<link href="link-12" type="image" />
+<appendix>
+<linkTarget id="link-12" type="image">
+<anchoringText id="Ancr15">Fig. 12 plots average porosity for the pattern versus year, while Fig. 13 plots average porosity as a function of oil production volume (in bbl) for the same data. Fig. 14 plots average pattern permeability versus year for the cases of compaction only, 125-cp polymer injection, and re-compaction after 125-cp polymer injection. Fig. 15 plots average reservoir pressure. During the first 17 years of compaction, average porosity in the pattern decreased from an initial value of 0.338 to 0.238—resulting in the production of over 52,000 bbl of oil. Average pattern permeability dropped from 9917 md to 5000 md. Average reservoir pressure decreased from 480 psi initial pressure to 161 psi. Most of these porosity, permeability, and pressure drops occurred during the first five years of compaction.</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-12">
+<label>Figure 12 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_12.tif" id="ImgLink-12" />
+<caption>Average porosity for the pattern versus time</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>12</caption-order>
+<caption-text>Average porosity for the pattern versus time</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="13" data-type-order="14">
+<link href="link-13" type="image" />
+<appendix>
+<linkTarget id="link-13" type="image">
+<anchoringText id="Ancr16">Fig. 12 plots average porosity for the pattern versus year, while Fig. 13 plots average porosity as a function of oil production volume (in bbl) for the same data. Fig. 14 plots average pattern permeability versus year for the cases of compaction only, 125-cp polymer injection, and re-compaction after 125-cp polymer injection. Fig. 15 plots average reservoir pressure. During the first 17 years of compaction, average porosity in the pattern decreased from an initial value of 0.338 to 0.238—resulting in the production of over 52,000 bbl of oil. Average pattern permeability dropped from 9917 md to 5000 md. Average reservoir pressure decreased from 480 psi initial pressure to 161 psi. Most of these porosity, permeability, and pressure drops occurred during the first five years of compaction.</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-13">
+<label>Figure 13 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_13.tif" id="ImgLink-13" />
+<caption>Average porosity for the pattern as a function of cumulative oil production volume</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>13</caption-order>
+<caption-text>Average porosity for the pattern as a function of cumulative oil production volume</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="14" data-type-order="15">
+<link href="link-14" type="image" />
+<appendix>
+<linkTarget id="link-14" type="image">
+<anchoringText id="Ancr17">Fig. 12 plots average porosity for the pattern versus year, while Fig. 13 plots average porosity as a function of oil production volume (in bbl) for the same data. Fig. 14 plots average pattern permeability versus year for the cases of compaction only, 125-cp polymer injection, and re-compaction after 125-cp polymer injection. Fig. 15 plots average reservoir pressure. During the first 17 years of compaction, average porosity in the pattern decreased from an initial value of 0.338 to 0.238—resulting in the production of over 52,000 bbl of oil. Average pattern permeability dropped from 9917 md to 5000 md. Average reservoir pressure decreased from 480 psi initial pressure to 161 psi. Most of these porosity, permeability, and pressure drops occurred during the first five years of compaction.</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-14">
+<label>Figure 14 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_14.tif" id="ImgLink-14" />
+<caption>Average permeability for the pattern versus time</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>14</caption-order>
+<caption-text>Average permeability for the pattern versus time</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="12" figure-order="15" data-type-order="16">
+<link href="link-15" type="image" />
+<appendix>
+<linkTarget id="link-15" type="image">
+<anchoringText id="Ancr18">Fig. 12 plots average porosity for the pattern versus year, while Fig. 13 plots average porosity as a function of oil production volume (in bbl) for the same data. Fig. 14 plots average pattern permeability versus year for the cases of compaction only, 125-cp polymer injection, and re-compaction after 125-cp polymer injection. Fig. 15 plots average reservoir pressure. During the first 17 years of compaction, average porosity in the pattern decreased from an initial value of 0.338 to 0.238—resulting in the production of over 52,000 bbl of oil. Average pattern permeability dropped from 9917 md to 5000 md. Average reservoir pressure decreased from 480 psi initial pressure to 161 psi. Most of these porosity, permeability, and pressure drops occurred during the first five years of compaction.</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-15">
+<label>Figure 15 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_15.tif" id="ImgLink-15" />
+<caption>Average pressure for the pattern versus time</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>15</caption-order>
+<caption-text>Average pressure for the pattern versus time</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="16" data-type-order="17">
+<link href="link-16" type="image" />
+<appendix>
+<linkTarget id="link-16" type="image">
+<anchoringText id="Ancr19">Fig. 16 shows the distribution of porosities throughout the pattern five years after the start of injecting 125-cp polymer (i.e., at the peak of pattern porosity). For comparison, Fig. 17 shows the distribution of porosities at the same time, assuming that no polymer flood was implemented (i.e., continued compaction). At any given position throughout the pattern, porosity was at least 0.11 units greater during 125-cp polymer injection than for continued compaction. For both polymer injection and continued compaction, the highest porosities were noted in the southern part of the pattern. Since higher permeability is associated with higher porosity, permeabilities (and hence, fluid velocities and oil-recovery values) were highest in the southern part of the pattern.</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-16">
+<label>Figure 16 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_16.tif" id="ImgLink-16" />
+<caption>Peak porosities in the pattern, five years after injecting 125-cp polymer</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>16</caption-order>
+<caption-text>Peak porosities in the pattern, five years after injecting 125-cp polymer</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="13" figure-order="17" data-type-order="18">
+<link href="link-17" type="image" />
+<appendix>
+<linkTarget id="link-17" type="image">
+<anchoringText id="Ancr20">Fig. 16 shows the distribution of porosities throughout the pattern five years after the start of injecting 125-cp polymer (i.e., at the peak of pattern porosity). For comparison, Fig. 17 shows the distribution of porosities at the same time, assuming that no polymer flood was implemented (i.e., continued compaction). At any given position throughout the pattern, porosity was at least 0.11 units greater during 125-cp polymer injection than for continued compaction. For both polymer injection and continued compaction, the highest porosities were noted in the southern part of the pattern. Since higher permeability is associated with higher porosity, permeabilities (and hence, fluid velocities and oil-recovery values) were highest in the southern part of the pattern.</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-17">
+<label>Figure 17 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_17.tif" id="ImgLink-17" />
+<caption>Porosities in the pattern assuming compaction only (at same time as Fig. 16)</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>17</caption-order>
+<caption-text>Porosities in the pattern assuming compaction only (at same time as <link href="102118185851MS-Img_SPi-16">Fig. 16</link>)</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="18" data-type-order="19">
+<link href="link-18" type="image" />
+<appendix>
+<linkTarget id="link-18" type="image">
+<anchoringText id="Ancr21">This point is shown in Fig. 18 for 125-cp polymer injection and in Fig. 19 for continued compaction. Consistent with observations from the Tambaredjo polymer flood, substantial variations in performance were noted from well to well—both during the compaction drive and during polymer flooding (Moe Soe Let et al. 2012, Delamaide et al. 2016). Figs. 16-19 suggest that the variations may be a natural consequence of porosity/permeability variations throughout the field— and not due to the compressible nature of the formation. Although porosity increased by a factor up to 1.5 and permeability increased by a factor up to 2.3, the factor for the increase was fairly uniform throughout the pattern (compare Fig. 16 versus 17 and Fig. 18 versus 19).</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-18">
+<label>Figure 18 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_18.tif" id="ImgLink-18" />
+<caption>Pattern permeability associated with Fig. 16. 125-cp polymer</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>18</caption-order>
+<caption-text>Pattern permeability associated with <link href="102118185851MS-Img_SPi-16">Fig. 16</link>. 125-cp polymer</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="14" figure-order="19" data-type-order="20">
+<link href="link-19" type="image" />
+<appendix>
+<linkTarget id="link-19" type="image">
+<anchoringText id="Ancr22">This point is shown in Fig. 18 for 125-cp polymer injection and in Fig. 19 for continued compaction. Consistent with observations from the Tambaredjo polymer flood, substantial variations in performance were noted from well to well—both during the compaction drive and during polymer flooding (Moe Soe Let et al. 2012, Delamaide et al. 2016). Figs. 16-19 suggest that the variations may be a natural consequence of porosity/permeability variations throughout the field— and not due to the compressible nature of the formation. Although porosity increased by a factor up to 1.5 and permeability increased by a factor up to 2.3, the factor for the increase was fairly uniform throughout the pattern (compare Fig. 16 versus 17 and Fig. 18 versus 19).</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-19">
+<label>Figure 19 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_19.tif" id="ImgLink-19" />
+<caption>Pattern permeability associated with Fig. 17. Compaction only</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>19</caption-order>
+<caption-text>Pattern permeability associated with <link href="102118185851MS-Img_SPi-17">Fig. 17</link>. Compaction only</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="20" data-type-order="21">
+<link href="link-20" type="image" />
+<appendix>
+<linkTarget id="link-20" type="image">
+<anchoringText id="Ancr23">Figs. 20 and 21 compare pressures throughout the pattern during polymer injection and continued compaction, respectively. In both cases, pressures were fairly uniform throughout the pattern. Pressures in Fig. 21 were reasonably consistent with pressures observed in the Tambaredjo pilot project before the start of polymer injection in 2008. However, pressures in Fig. 20 (~950 psi) are much higher than actual pilot pressures observed in 2013-2014 (less than 500 psi in shut-in producers). A key reason for the difference is that a no flow boundary was imposed around the pattern during the simulations. In contrast, responses from production wells outside the real pilot project area clearly indicated that a significant volume of the injected polymer flowed outside the pilot area </anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-20">
+<label>Figure 20 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_20.tif" id="ImgLink-20" />
+<caption>Pattern pressures associated with Fig. 16. 125-cp polymer</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>20</caption-order>
+<caption-text>Pattern pressures associated with <link href="102118185851MS-Img_SPi-16">Fig. 16</link>. 125-cp polymer</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="15" figure-order="21" data-type-order="22">
+<link href="link-21" type="image" />
+<appendix>
+<linkTarget id="link-21" type="image">
+<anchoringText id="Ancr24">Figs. 20 and 21 compare pressures throughout the pattern during polymer injection and continued compaction, respectively. In both cases, pressures were fairly uniform throughout the pattern. Pressures in Fig. 21 were reasonably consistent with pressures observed in the Tambaredjo pilot project before the start of polymer injection in 2008. However, pressures in Fig. 20 (~950 psi) are much higher than actual pilot pressures observed in 2013-2014 (less than 500 psi in shut-in producers). A key reason for the difference is that a no flow boundary was imposed around the pattern during the simulations. In contrast, responses from production wells outside the real pilot project area clearly indicated that a significant volume of the injected polymer flowed outside the pilot area.</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-21">
+<label>Figure 21 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_21.tif" id="ImgLink-21" />
+<caption>Pattern pressures associated with Fig. 17. Compaction only</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>21</caption-order>
+<caption-text>Pattern pressures associated with <link href="102118185851MS-Img_SPi-17">Fig. 17</link>. Compaction only</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="22" data-type-order="23">
+<link href="link-22" type="image" />
+<appendix>
+<linkTarget id="link-22" type="image">
+<anchoringText id="Ancr25">To this point, the voidage replacement ratio averaged unity during our simulations. (Voidage replacement ratio is the ratio of injected fluid volume to produced fluid volume.) During additional studies, the effect of voidage replacement ratio on flood performance was examined. For cases of waterflooding after compaction, Fig. 22 plots oil recovery versus time for voidage replacement ratios from 0.1 to 10 (in addition to VRR=0 associated with no flood). Figs. 23 to 25 plot similar data for 45-cp, 85-cp, and 125-cp polymer flooding after compaction. Oil recovery increased with increased voidage replacement ratio for waterflooding and generally decreased with increased voidage replacement ratio for polymer flooding.</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-22">
+<label>Figure 22 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_22.tif" id="ImgLink-22" />
+<caption>Effect of voidage replacement ratio on waterflooding</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>22</caption-order>
+<caption-text>Effect of voidage replacement ratio on waterflooding</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="16" figure-order="23" data-type-order="24">
+<link href="link-23" type="image" />
+<appendix>
+<linkTarget id="link-23" type="image">
+<anchoringText id="Ancr26">To this point, the voidage replacement ratio averaged unity during our simulations. (Voidage replacement ratio is the ratio of injected fluid volume to produced fluid volume.) During additional studies, the effect of voidage replacement ratio on flood performance was examined. For cases of waterflooding after compaction, Fig. 22 plots oil recovery versus time for voidage replacement ratios from 0.1 to 10 (in addition to VRR=0 associated with no flood). Figs. 23 to 25 plot similar data for 45-cp, 85-cp, and 125-cp polymer flooding after compaction. Oil recovery increased with increased voidage replacement ratio for waterflooding and generally decreased with increased voidage replacement ratio for polymer flooding.</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-23">
+<label>Figure 23 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_23.tif" id="ImgLink-23" />
+<caption>Effect of voidage replacement ratio on 45 cp polymer flooding</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>23</caption-order>
+<caption-text>Effect of voidage replacement ratio on 45 cp polymer flooding</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="24" data-type-order="25">
+<link href="link-24" type="image" />
+<appendix>
+<linkTarget id="link-24" type="image">
+<anchoringText id="Ancr27">To this point, the voidage replacement ratio averaged unity during our simulations. (Voidage replacement ratio is the ratio of injected fluid volume to produced fluid volume.) During additional studies, the effect of voidage replacement ratio on flood performance was examined. For cases of waterflooding after compaction, Fig. 22 plots oil recovery versus time for voidage replacement ratios from 0.1 to 10 (in addition to VRR=0 associated with no flood). Figs. 23 to 25 plot similar data for 45-cp, 85-cp, and 125-cp polymer flooding after compaction. Oil recovery increased with increased voidage replacement ratio for waterflooding and generally decreased with increased voidage replacement ratio for polymer flooding.</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-24">
+<label>Figure 24 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_24.tif" id="ImgLink-24" />
+<caption>Effect of voidage replacement ratio on 85 cp polymer flooding</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>24</caption-order>
+<caption-text>Effect of voidage replacement ratio on 85 cp polymer flooding</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="17" figure-order="25" data-type-order="26">
+<link href="link-25" type="image" />
+<appendix>
+<linkTarget id="link-25" type="image">
+<anchoringText id="Ancr28">To this point, the voidage replacement ratio averaged unity during our simulations. (Voidage replacement ratio is the ratio of injected fluid volume to produced fluid volume.) During additional studies, the effect of voidage replacement ratio on flood performance was examined. For cases of waterflooding after compaction, Fig. 22 plots oil recovery versus time for voidage replacement ratios from 0.1 to 10 (in addition to VRR=0 associated with no flood). Figs. 23 to 25 plot similar data for 45-cp, 85-cp, and 125-cp polymer flooding after compaction. Oil recovery increased with increased voidage replacement ratio for waterflooding and generally decreased with increased voidage replacement ratio for polymer flooding.</anchoringText>
+<image-wrap id="102118185851MS-Img_SPi-25">
+<label>Figure 25 </label>
+<imageLink type="mediaResource" href="102118185851MS_i_25.tif" id="ImgLink-25" />
+<caption>Effect of voidage replacement ratio on 125 cp polymer flooding</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>25</caption-order>
+<caption-text>Effect of voidage replacement ratio on 125 cp polymer flooding</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>

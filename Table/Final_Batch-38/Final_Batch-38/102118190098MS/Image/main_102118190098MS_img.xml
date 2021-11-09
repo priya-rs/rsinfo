@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<docTables>
+<docMetaData inputFile="102118190098MS.txt" extractionDate="2021-03-29T16:27:43Z">
+<doi>10.2118/190098-MS</doi>
+<pii>10.2118/190098-MS</pii>
+<publisher>SPE_Society_of_Petroleum_Engineers</publisher>
+</docMetaData>
+<docFigureList>
+<docFigure pdf-page="4" figure-order="1" data-type-order="2">
+<link href="link-1" type="image" />
+<appendix>
+<linkTarget id="link-1" type="image">
+<anchoringText id="Ancr4">In order to adjust the original/initial choke model parameters, 1600 observations are collected consisting of separator and DST testing data points, where the wells are producing at a series of different stabilized critical flow rates at different chock sizes, Table.1. The Basic Sediment and Water (BS&amp;W) is almost equal to 5 percent for all the measurements. The gas-condensate production platform under consideration is located in the Persian Gulf offshore and contains twelve deviated wells. The well production streams pass through adjustable surface chokes and then mix together. The inclination and Measured Depth (MD) of the platform wells range between 3.0° to 70°, and 3000 to 5000 m, respectively. Within the range of wellhead parameters investigated here, the choke size varies between 24 and 68 (1/64 in.). The frequency of each choke opening is depicted in Fig.1.</anchoringText>
+<image-wrap id="102118190098MS-Img_SPi-1">
+<label>Figure 1 </label>
+<imageLink type="mediaResource" href="102118190098MS_i_1.tif" id="ImgLink-1" />
+<caption>Choke size frequency in the well testing data points used in this study (1600 points).</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>1</caption-order>
+<caption-text>Choke size frequency in the well testing data points used in this study (1600 points).</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure composite="true" composite-count="2" pdf-page="6" figure-order="2" data-type-order="4">
+<link href="link-2" type="image" />
+<appendix>
+<linkTarget id="link-2" type="image">
+<anchoringText id="Ancr5">Around 70 percent of the input data is used for training the model, 15 percent for validation, and the remaining is reserved for testing the model accuracy. The final network architecture for both gas and condensate production rates contains three variables in the input layer, eight neurons in one hidden layer, and one output. The prediction errors are listed in Table.2, and the predicted versus measured gas and condensate rates are depicted in Fig.2. The minimum prediction errors are associated with the neural network modeling, and hence we use the trained network as the original data-driven model through the platform production allocation process.</anchoringText>
+<image-wrap id="102118190098MS-Img_SPi-2">
+<label>Figure 2 </label>
+<imageLink type="mediaResource" href="102118190098MS_i_2.tif" id="ImgLink-2" />
+<caption>Neural network model predictions for gas (left) and condensate (right) rates versus the measured values. The trained network is used as the initial data-driven model through the production allocation process.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>2</caption-order>
+<caption-text>Neural network model predictions for gas (left) and condensate (right) rates versus the measured values. The trained network is used as the initial data-driven model through the production allocation process.</caption-text>
+</formatted-caption>
+</image-wrap>
+<image-wrap id="102118190098MS-Img_SPi-2a">
+<imageLink type="mediaResource" href="102118190098MS_i_2a.tif" id="ImgLink-2a" />
+<figure-specific-caption>
+<caption-order>(left)</caption-order>
+<caption-text>Neural network model predictions for gas (left) and condensate (right) rates versus the measured values</caption-text>
+</figure-specific-caption>
+</image-wrap>
+<image-wrap id="102118190098MS-Img_SPi-2b">
+<imageLink type="mediaResource" href="102118190098MS_i_2b.tif" id="ImgLink-2b" />
+<figure-specific-caption>
+<caption-order>(right)</caption-order>
+<caption-text>Neural network model predictions for gas (left) and condensate (right) rates versus the measured values</caption-text>
+</figure-specific-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="3" data-type-order="5">
+<link href="link-3" type="image" />
+<appendix>
+<linkTarget id="link-3" type="image">
+<anchoringText id="Ancr6">In this section, well flow allocation of an offshore gas-condensate platform is conducted over 420 days of the field production life. The platform consists of twelve wells and the total platform production together with wells’ operational parameters (shut-in/flow pressure, temperature, choke opening, annulus pressure, etc.), sea-line and compressors’ parameters, and information of the test separates are continuously monitored. The wellhead pressures and the sea-line upstream and downstream pressures are depicted in Fig.3. The choke openings are plotted in Fig.4, and Fig.5 illustrates the wellhead temperatures. The average reservoir pressure is very close to the dew point pressure. The well deliverabilities are different and dynamically changing, and CGR is extremely variable between well to well and over time.</anchoringText>
+<image-wrap id="102118190098MS-Img_SPi-3">
+<label>Figure 3 </label>
+<imageLink type="mediaResource" href="102118190098MS_i_3.tif" id="ImgLink-3" />
+<caption>Wellhead pressure versus time for all the platform wells during 450 days of the production history. The platform pressure is constantly adjusted to ensure critical flow through chokes.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>3</caption-order>
+<caption-text>Wellhead pressure versus time for all the platform wells during 450 days of the production history. The platform pressure is constantly adjusted to ensure critical flow through chokes.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="8" figure-order="4" data-type-order="6">
+<link href="link-4" type="image" />
+<appendix>
+<linkTarget id="link-4" type="image">
+<anchoringText id="Ancr7">In this section, well flow allocation of an offshore gas-condensate platform is conducted over 420 days of the field production life. The platform consists of twelve wells and the total platform production together with wells’ operational parameters (shut-in/flow pressure, temperature, choke opening, annulus pressure, etc.), sea-line and compressors’ parameters, and information of the test separates are continuously monitored. The wellhead pressures and the sea-line upstream and downstream pressures are depicted in Fig.3. The choke openings are plotted in Fig.4, and Fig.5 illustrates the wellhead temperatures. The average reservoir pressure is very close to the dew point pressure. The well deliverabilities are different and dynamically changing, and CGR is extremely variable between well to well and over time.</anchoringText>
+<image-wrap id="102118190098MS-Img_SPi-4">
+<label>Figure 4 </label>
+<imageLink type="mediaResource" href="102118190098MS_i_4.tif" id="ImgLink-4" />
+<caption>Choke opening versus time for all the platform wells during 450 days of the production history. The wells have different production potentials and should be analyzed separately to find the optimum choke size for each one.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>4</caption-order>
+<caption-text>Choke opening versus time for all the platform wells during 450 days of the production history. The wells have different production potentials and should be analyzed separately to find the optimum choke size for each one.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="9" figure-order="5" data-type-order="7">
+<link href="link-5" type="image" />
+<appendix>
+<linkTarget id="link-5" type="image">
+<anchoringText id="Ancr8">In this section, well flow allocation of an offshore gas-condensate platform is conducted over 420 days of the field production life. The platform consists of twelve wells and the total platform production together with wells’ operational parameters (shut-in/flow pressure, temperature, choke opening, annulus pressure, etc.), sea-line and compressors’ parameters, and information of the test separates are continuously monitored. The wellhead pressures and the sea-line upstream and downstream pressures are depicted in Fig.3. The choke openings are plotted in Fig.4, and Fig.5 illustrates the wellhead temperatures. The average reservoir pressure is very close to the dew point pressure. The well deliverabilities are different and dynamically changing, and CGR is extremely variable between well to well and over time.</anchoringText>
+<image-wrap id="102118190098MS-Img_SPi-5">
+<label>Figure 5 </label>
+<imageLink type="mediaResource" href="102118190098MS_i_5.tif" id="ImgLink-5" />
+<caption>Wellhead temperature versus time for all the platform wells during 450 days of the production history.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>5</caption-order>
+<caption-text>Wellhead temperature versus time for all the platform wells during 450 days of the production history.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="6" data-type-order="8">
+<link href="link-6" type="image" />
+<appendix>
+<linkTarget id="link-6" type="image">
+<anchoringText id="Ancr9">Besides, at each point when the well performance evaluation shows unexpectable/sudden variations in any of the well parameters, a new separator test is automatically planned. Fig.6 and Fig.7 represent the measured gas and condensate production rates together with the model predictions in two original and adaptive modes. The results confirm that using prior knowledge and online learning algorithms enhance the accuracy, reliability and generalization capability of the production forecasting models. Fig.8 and Fig.9 depict the predictions made by the proposed model for the gas production rate of the platform individual wells.</anchoringText>
+<image-wrap id="102118190098MS-Img_SPi-6">
+<label>Figure 6 </label>
+<imageLink type="mediaResource" href="102118190098MS_i_6.tif" id="ImgLink-6" />
+<caption>Platform condensate production rate versus time. The adaptive model keeps the prediction error as low as possible while the original model may fail to reproduce the measurements over time.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>6</caption-order>
+<caption-text>Platform condensate production rate versus time. The adaptive model keeps the prediction error as low as possible while the original model may fail to reproduce the measurements over time.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="10" figure-order="7" data-type-order="9">
+<link href="link-7" type="image" />
+<appendix>
+<linkTarget id="link-7" type="image">
+<anchoringText id="Ancr10">Besides, at each point when the well performance evaluation shows unexpectable/sudden variations in any of the well parameters, a new separator test is automatically planned. Fig.6 and Fig.7 represent the measured gas and condensate production rates together with the model predictions in two original and adaptive modes. The results confirm that using prior knowledge and online learning algorithms enhance the accuracy, reliability and generalization capability of the production forecasting models. Fig.8 and Fig.9 depict the predictions made by the proposed model for the gas production rate of the platform individual wells.</anchoringText>
+<image-wrap id="102118190098MS-Img_SPi-7">
+<label>Figure 7 </label>
+<imageLink type="mediaResource" href="102118190098MS_i_7.tif" id="ImgLink-7" />
+<caption>Platform gas production rate versus time. The adaptive model keeps the prediction error as low as possible while the original model may fail to reproduce the measurements over time.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>7</caption-order>
+<caption-text>Platform gas production rate versus time. The adaptive model keeps the prediction error as low as possible while the original model may fail to reproduce the measurements over time.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="8" data-type-order="10">
+<link href="link-8" type="image" />
+<appendix>
+<linkTarget id="link-8" type="image">
+<anchoringText id="Ancr11">Besides, at each point when the well performance evaluation shows unexpectable/sudden variations in any of the well parameters, a new separator test is automatically planned. Fig.6 and Fig.7 represent the measured gas and condensate production rates together with the model predictions in two original and adaptive modes. The results confirm that using prior knowledge and online learning algorithms enhance the accuracy, reliability and generalization capability of the production forecasting models. Fig.8 and Fig.9 depict the predictions made by the proposed model for the gas production rate of the platform individual wells.</anchoringText>
+<image-wrap id="102118190098MS-Img_SPi-8">
+<label>Figure 8 </label>
+<imageLink type="mediaResource" href="102118190098MS_i_8.tif" id="ImgLink-8" />
+<caption>Well gas production rate versus time for all the platform wells predicted using the presented adaptive hybrid model.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>8</caption-order>
+<caption-text>Well gas production rate versus time for all the platform wells predicted using the presented adaptive hybrid model.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+<docFigure pdf-page="11" figure-order="9" data-type-order="11">
+<link href="link-9" type="image" />
+<appendix>
+<linkTarget id="link-9" type="image">
+<anchoringText id="Ancr12">Besides, at each point when the well performance evaluation shows unexpectable/sudden variations in any of the well parameters, a new separator test is automatically planned. Fig.6 and Fig.7 represent the measured gas and condensate production rates together with the model predictions in two original and adaptive modes. The results confirm that using prior knowledge and online learning algorithms enhance the accuracy, reliability and generalization capability of the production forecasting models. Fig.8 and Fig.9 depict the predictions made by the proposed model for the gas production rate of the platform individual wells.</anchoringText>
+<image-wrap id="102118190098MS-Img_SPi-9">
+<label>Figure 9 </label>
+<imageLink type="mediaResource" href="102118190098MS_i_9.tif" id="ImgLink-9" />
+<caption>Bubble map representing wells’ cumulative gas production at the end of 420 days. The production potentials are not the same and each well demands for its own customized evaluation procedure.</caption>
+<formatted-caption>
+<caption-label>Figure</caption-label>
+<caption-order>9</caption-order>
+<caption-text>Bubble map representing wells’ cumulative gas production at the end of 420 days. The production potentials are not the same and each well demands for its own customized evaluation procedure.</caption-text>
+</formatted-caption>
+</image-wrap>
+</linkTarget>
+</appendix>
+</docFigure>
+</docFigureList>
+</docTables>
